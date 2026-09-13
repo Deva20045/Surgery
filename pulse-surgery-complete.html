@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PULSE · Surgery — Marrow Edition 8 Companion</title>
+<style>
+  :root{
+    --bg:#120d1a; --card:#221a30; --card2:#2b2139; --line:#3a2d52;
+    --txt:#f4eefb; --mut:#a89bbd; --pink:#e0607e; --gold:#c99a4b;
+    --teal:#5fd0b5; --good:#3ddc84; --bad:#ff5d6c; --serif:Georgia,'Times New Roman',serif;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  body{margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+    background:var(--bg); color:var(--txt); min-height:100vh;}
+  .wrap{max-width:560px; margin:0 auto; padding:0 16px 60px;}
+  header.top{position:sticky; top:0; z-index:10; display:flex; align-items:center; gap:10px;
+    padding:14px 16px; background:#120d1af2; border-bottom:1px solid var(--line); max-width:560px; margin:0 auto;}
+  header.top .brand{font-weight:800; font-size:20px; letter-spacing:.3px; flex:1;}
+  header.top .back{font-size:22px; cursor:pointer; color:var(--mut); padding:2px 8px 2px 0;}
+  .hstat{font-weight:800; font-size:15px; white-space:nowrap;}
+  .hidden{display:none !important;}
+  .hero{background:linear-gradient(160deg,#3a2547,#221a30 70%); border:1px solid var(--line);
+    border-radius:22px; padding:26px 22px; margin:16px 0;}
+  .hero .kick{font-size:12px; letter-spacing:2.5px; color:var(--mut);}
+  .hero h1{font-family:var(--serif); font-size:42px; margin:8px 0 10px; line-height:1.05;}
+  .hero p{color:#cbbfe0; font-size:15px; line-height:1.55; margin:0 0 12px;}
+  .hero a{color:var(--pink); font-weight:700; text-decoration:none; font-size:15px; cursor:pointer;}
+  .stats{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin:0 0 12px;}
+  .stat{background:var(--card); border:1px solid var(--line); border-radius:16px; padding:14px 6px; text-align:center;}
+  .stat b{font-size:22px; display:block;} .stat span{font-size:12px; color:var(--mut);}
+  .btn{display:block; width:100%; margin-top:12px; padding:15px; font-size:16px; font-weight:700;
+    color:#1a0f14; background:linear-gradient(135deg,#f0788f,var(--pink)); border:0; border-radius:14px; cursor:pointer;}
+  .btn:active{transform:scale(.98);}
+  .btn.ghost{background:transparent; color:var(--txt); border:1.5px solid var(--line);}
+  .btn.gold{background:linear-gradient(135deg,#e0b45f,var(--gold)); color:#1d1405;}
+  h2.page{font-family:var(--serif); font-size:30px; margin:18px 0 2px;}
+  p.sub{color:var(--mut); margin:0 0 14px; font-size:14px;}
+  .chrow{display:flex; align-items:center; gap:12px; background:var(--card); border:1px solid var(--line);
+    border-radius:16px; padding:14px; margin:10px 0; cursor:pointer;}
+  .chrow.locked{opacity:.45; cursor:default;}
+  .chnum{min-width:44px; height:44px; border-radius:13px; display:grid; place-items:center;
+    font-weight:800; font-size:17px; background:linear-gradient(135deg,#d96a84,#b34a62); color:#fff;}
+  .chrow.locked .chnum{background:#3a2f4d; color:var(--mut);}
+  .chrow .t{flex:1; font-weight:700; font-size:15.5px; line-height:1.35;}
+  .chrow .u{font-size:12.5px; color:var(--teal); white-space:nowrap; font-weight:700;}
+  .chrow.locked .u{color:var(--mut);}
+  .pathsec{text-align:center; color:var(--mut); font-size:12px; letter-spacing:2.5px; margin:26px 0 6px;
+    display:flex; align-items:center; gap:10px;}
+  .pathsec::before,.pathsec::after{content:""; flex:1; height:1px; background:var(--line);}
+  .node{display:flex; flex-direction:column; align-items:center; position:relative; padding:10px 0 4px;}
+  .node:not(:last-child)::after{content:""; width:3px; height:26px; margin-top:10px; border-radius:2px;
+    background:repeating-linear-gradient(180deg,var(--line) 0 5px,transparent 5px 10px);}
+  .ball{width:86px; height:86px; border-radius:50%; display:grid; place-items:center;
+    font-size:30px; font-weight:800; cursor:pointer; border:4px solid transparent;}
+  .ball.done{background:#1d3a2a; border-color:var(--good); color:var(--good); font-size:32px;}
+  .ball.current{background:radial-gradient(circle at 35% 30%,#e0b45f,var(--gold) 70%);
+    color:#fff; box-shadow:0 0 0 6px #c99a4b33, 0 8px 24px #c99a4b55; animation:pulse 2s infinite;}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 6px #c99a4b33;}50%{box-shadow:0 0 0 11px #c99a4b22;}}
+  .ball.locked{background:#241c33; border-color:#171224; color:#6f6386; cursor:default; font-size:30px;}
+  .ntitle{margin-top:8px; font-weight:700; font-size:14.5px; text-align:center; max-width:230px; line-height:1.35;}
+  .ncount{font-size:12px; color:var(--mut); margin-top:2px;}
+  .guide{background:var(--card); border:1px solid var(--line); border-radius:18px; padding:22px; margin-top:16px;}
+  .guide .kick{font-size:12px; letter-spacing:2px; color:var(--gold); font-weight:800;}
+  .guide h2{font-family:var(--serif); font-size:26px; margin:8px 0 10px; line-height:1.25;}
+  .guide p{color:#d8cde9; line-height:1.65; font-size:15.5px;}
+  .qbar{height:10px; background:var(--card2); border:1px solid var(--line); border-radius:999px; overflow:hidden; margin:16px 0 14px;}
+  .qbar i{display:block; height:100%; width:0; background:var(--pink); transition:width .3s;}
+  .qcount{font-size:12px; letter-spacing:2px; color:var(--mut); font-weight:700;}
+  .qtag{display:inline-block; font-size:11.5px; color:var(--teal); border:1px solid #5fd0b555;
+    border-radius:999px; padding:3px 10px; margin-top:8px;}
+  .qtext{font-family:var(--serif); font-size:25px; line-height:1.35; margin:10px 0 16px;}
+  .opt{display:block; width:100%; text-align:left; margin:10px 0; padding:16px; font-size:16px;
+    color:var(--txt); background:var(--card); border:1.5px solid var(--line); border-radius:16px; cursor:pointer; line-height:1.4;}
+  .opt:not(:disabled):active{border-color:var(--pink);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--good); background:#3ddc841c;}
+  .opt.wrong{border-color:var(--bad); background:#ff5d6c1c;}
+  .fb{margin-top:12px; padding:14px 15px; border-radius:14px; font-size:14.5px; line-height:1.6; display:none;}
+  .fb.show{display:block;}
+  .fb.good{background:#3ddc8412; border:1px solid #3ddc8466;}
+  .fb.bad{background:#ff5d6c12; border:1px solid #ff5d6c66;}
+  .donebox{text-align:center; padding:30px 10px;}
+  .donebox .big{font-size:64px;}
+  .donebox h2{font-family:var(--serif); font-size:30px; margin:10px 0 4px;}
+  .rev{margin:8px 0; padding:11px 13px; border:1px solid var(--line); border-radius:12px;
+    font-size:13.5px; background:var(--card); line-height:1.5; text-align:left;}
+  .rev b{color:var(--good);}
+  footer{text-align:center; color:var(--mut); font-size:12px; margin-top:22px; line-height:1.7;}
+  .float{position:fixed; font-weight:800; pointer-events:none; animation:rise 1s ease-out forwards; z-index:50;}
+  @keyframes rise{from{opacity:1; transform:translateY(0);} to{opacity:0; transform:translateY(-46px);}}
+</style>
+</head>
+<body>
+<header class="top">
+  <span class="back hidden" id="backBtn" onclick="goBack()">‹</span>
+  <span class="brand" id="brand">PULSE</span>
+  <span class="hstat">🔥 <span id="hStreak">0</span></span>
+  <span class="hstat">✦ <span id="hXP">0</span></span>
+</header>
+<div class="wrap">
+
+  <!-- HOME -->
+  <div id="home">
+    <div class="hero">
+      <div class="kick">MARROW EDITION 8 · COMPANION</div>
+      <h1>Surgery</h1>
+      <p id="heroSub"></p>
+      <a onclick="show('chapters')">Browse chapters →</a>
+    </div>
+    <div class="stats">
+      <div class="stat"><b id="sXP">0</b><span>Total XP</span></div>
+      <div class="stat"><b id="sStreak">0</b><span>Day streak</span></div>
+      <div class="stat"><b id="sUnits">0</b><span>Units done</span></div>
+    </div>
+    <button class="btn ghost" onclick="unlockAll()">🔓 Unlock all units (testing)</button>
+    <button class="btn" onclick="continueLearning()">▶ Continue learning</button>
+  </div>
+
+  <!-- CHAPTERS -->
+  <div id="chapters" class="hidden">
+    <h2 class="page">Chapters</h2>
+    <p class="sub" id="chSub"></p>
+    <div id="chList"></div>
+  </div>
+
+  <!-- PATH -->
+  <div id="path" class="hidden">
+    <p class="sub" id="pathKick" style="margin-top:16px;"></p>
+    <h2 class="page" id="pathTitle" style="margin-top:0;"></h2>
+    <p class="sub" id="pathSub"></p>
+    <div id="nodes"></div>
+  </div>
+
+  <!-- GUIDE -->
+  <div id="guide" class="hidden">
+    <div class="guide">
+      <div class="kick" id="gKick"></div>
+      <h2 id="gTitle"></h2>
+      <p id="gText"></p>
+      <p class="sub" id="gCount"></p>
+      <button class="btn gold" onclick="beginUnit()">Start unit →</button>
+    </div>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="quiz" class="hidden">
+    <div class="qbar"><i id="qbar"></i></div>
+    <div class="qcount" id="qcount"></div>
+    <div><span class="qtag" id="qtag"></span></div>
+    <div class="qtext" id="qtext"></div>
+    <div id="opts"></div>
+    <div class="fb" id="fb"></div>
+    <button class="btn hidden" id="nextBtn" onclick="nextQ()">Continue →</button>
+  </div>
+
+  <!-- UNIT DONE -->
+  <div id="unitdone" class="hidden">
+    <div class="donebox">
+      <div class="big">🎉</div>
+      <h2>Unit complete!</h2>
+      <p class="sub" id="dSub"></p>
+      <div class="stats">
+        <div class="stat"><b id="dScore">–</b><span>Score</span></div>
+        <div class="stat"><b id="dXP">–</b><span>XP earned</span></div>
+        <div class="stat"><b id="dAcc">–</b><span>Accuracy</span></div>
+      </div>
+      <div id="dRev"></div>
+      <button class="btn" onclick="afterUnit()">Continue →</button>
+      <button class="btn ghost" onclick="openGuide(curUnit)">↻ Redo unit</button>
+    </div>
+  </div>
+
+  <footer>PULSE · Surgery · question order follows the book line-by-line<br>options shuffled every run · progress saved on this device</footer>
+</div>
+
+<script>
+const QUESTIONS = [{"id":"SURG-C1-001","sec":"Consents","page":1,"q":"As per the book, consent before a procedure must contain all of the following components EXCEPT:","opts":["Identification and diagnosis","Description of the procedure","Patient-specific and procedure-specific complications","Blood group and routine labs"],"ans":3,"exp":"Components of consent = identification, diagnosis, planned procedure, surgeon, description, patient-specific complications, procedure-specific complications, benefits, alternate procedure and sign of patient, surgeon and witness. (Book p1)"},{"id":"SURG-C1-002","sec":"Consents","page":1,"q":"Which of the following is an explicit component of consent?","opts":["The surgeon performing the procedure","Hospital bed number","Anaesthetic equipment list","Insurance details"],"ans":0,"exp":"The planned procedure and the surgeon are explicit components of consent. (Book p1)"},{"id":"SURG-C1-003","sec":"Consents","page":1,"q":"A procedure-specific complication must be explained to the patient when its incidence is:","opts":["Greater than 1%","Greater than 5%","Greater than 10%","Greater than 20%"],"ans":0,"exp":"Procedure specific complications = any complication > 1% incidence. (Book p1)"},{"id":"SURG-C1-004","sec":"Consents","page":1,"q":"In addition to the planned procedure, consent must also discuss:","opts":["Benefits and alternate procedure","Hospital charges only","Ward amenities","Visiting timings"],"ans":0,"exp":"Consent includes benefits and the alternate procedure. (Book p1)"},{"id":"SURG-C1-005","sec":"Consents","page":1,"q":"The consent form is signed by:","opts":["Patient, surgeon and witness","Only the patient","Only the surgeon","Nurse and anaesthetist"],"ans":0,"exp":"Consent requires the sign of patient, surgeon and witness. (Book p1)"},{"id":"SURG-C1-006","sec":"IV Lines","page":1,"q":"In the color-coding of IV cannulas, the YELLOW cannula corresponds to gauge:","opts":["24G","22G","20G","18G"],"ans":0,"exp":"Yellow = 24G (max flow 13 (10) ml/min), the narrowest cannula in the chart. (Book p1)"},{"id":"SURG-C1-007","sec":"IV Lines","page":1,"q":"The BLUE IV cannula corresponds to gauge:","opts":["24G","22G","20G","14G"],"ans":1,"exp":"Blue = 22G with a maximal flow of 31 (30) ml/min. (Book p1)"},{"id":"SURG-C1-008","sec":"IV Lines","page":1,"q":"The PINK IV cannula corresponds to gauge:","opts":["20G","24G","16G","14G"],"ans":0,"exp":"Pink = 20G with a maximal flow of 67 (60) ml/min. (Book p1)"},{"id":"SURG-C1-009","sec":"IV Lines","page":1,"q":"The GREEN IV cannula corresponds to gauge:","opts":["18G","16G","14G","20G"],"ans":0,"exp":"Green = 18G with a maximal flow of 96 ml/min. (Book p1)"},{"id":"SURG-C1-010","sec":"IV Lines","page":1,"q":"The GRAY IV cannula corresponds to gauge:","opts":["16G","18G","14G","24G"],"ans":0,"exp":"Gray = 16G with a maximal flow of 236 (240 ml/min). (Book p1)"},{"id":"SURG-C1-011","sec":"IV Lines","page":1,"q":"The ORANGE IV cannula, which is used in shock, corresponds to gauge:","opts":["14G","16G","18G","22G"],"ans":0,"exp":"Orange (used in shock) = 14G, the widest cannula, with a maximal flow of 270 ml/min. (Book p1)"},{"id":"SURG-C1-012","sec":"IV Lines","page":1,"q":"The narrowest cannula in the color chart is:","opts":["24G yellow","16G gray","18G green","14G orange"],"ans":0,"exp":"The chart runs from narrow 24G (yellow) to wide 14G (orange). (Book p1)"},{"id":"SURG-C1-013","sec":"IV Lines","page":1,"q":"The widest cannula in the color chart is:","opts":["14G orange","16G gray","20G pink","22G blue"],"ans":0,"exp":"14G orange is the widest cannula and is the one used in shock. (Book p1)"},{"id":"SURG-C1-014","sec":"IV Lines","page":1,"q":"The maximal flow rate of the 16G gray cannula is:","opts":["236 (240 ml/min)","96 ml/min","67 (60) ml/min","270 ml/min"],"ans":0,"exp":"Gray 16G maximal flow = 236 (240 ml/min). (Book p1)"},{"id":"SURG-C1-015","sec":"IV Lines","page":1,"q":"The maximal flow rate of the 20G pink cannula is:","opts":["67 (60) ml/min","31 (30) ml/min","13 (10) ml/min","236 (240) ml/min"],"ans":0,"exp":"Pink 20G maximal flow = 67 (60) ml/min. (Book p1)"},{"id":"SURG-C1-016","sec":"IV Lines","page":1,"q":"The maximal flow rate of the 14G orange cannula is:","opts":["270 ml/min","236 (240) ml/min","96 ml/min","67 (60) ml/min"],"ans":0,"exp":"Orange 14G (used in shock) has the highest maximal flow of 270 ml/min. (Book p1)"},{"id":"SURG-C1-017","sec":"IV Lines","page":1,"q":"In the color chart, which group of cannulas is bracketed for paediatric patients?","opts":["Yellow, blue and pink (24G, 22G, 20G)","Green, gray and orange","16G and 14G only","All gauges"],"ans":0,"exp":"Yellow (24G), blue (22G) and pink (20G) are grouped together for paediatric patients. (Book p1)"},{"id":"SURG-C1-018","sec":"IV Lines","page":1,"q":"A cannula with a maximal flow of 96 ml/min is color-coded:","opts":["Green (18G)","Blue (22G)","Yellow (24G)","Gray (16G)"],"ans":0,"exp":"Green = 18G with maximal flow 96 ml/min. (Book p1)"},{"id":"SURG-C1-019","sec":"IV Lines: Complications","page":1,"q":"The most common complication of an IV line is:","opts":["Superficial thrombophlebitis","Infiltration","Nerve injury","Arterial puncture"],"ans":0,"exp":"Superficial thrombophlebitis is the m/c complication of IV lines. (Book p1)"},{"id":"SURG-C1-020","sec":"IV Lines: Complications","page":1,"q":"Superficial thrombophlebitis at a cannulation site presents with:","opts":["Tender, cord-like swelling","Painless soft swelling","Bruising only","Systemic fever only"],"ans":0,"exp":"Features of superficial thrombophlebitis: tender, cord-like swelling. (Book p1)"},{"id":"SURG-C1-021","sec":"IV Lines: Complications","page":1,"q":"The management of superficial thrombophlebitis at a cannula site is:","opts":["Topical heparinoid","Systemic antibiotics","Emergent thrombectomy","Compression bandage only"],"ans":0,"exp":"Management of superficial thrombophlebitis = topical heparinoid. (Book p1)"},{"id":"SURG-C1-022","sec":"Surgical Safety Checklist","page":2,"q":"The three phases of the surgical safety checklist, in order, are:","opts":["Sign in → Time out → Sign out","Time out → Sign in → Sign out","Sign out → Sign in → Time out","Sign in → Sign out → Time out"],"ans":0,"exp":"The checklist flows Before induction of anaesthesia (sign in) → Before skin incision (time out) → Before patient leaves the operating room (sign out). (Book p2)"},{"id":"SURG-C1-023","sec":"Surgical Safety Checklist","page":2,"q":"'Before induction of anaesthesia' (ward to OT complex) corresponds to which phase?","opts":["Sign in","Time out","Sign out","Handover"],"ans":0,"exp":"Sign in happens before induction of anaesthesia, in the ward to OT complex. (Book p2)"},{"id":"SURG-C1-024","sec":"Surgical Safety Checklist","page":2,"q":"'Before skin incision' corresponds to which phase?","opts":["Time out","Sign in","Sign out","Check back"],"ans":0,"exp":"Time out is performed before skin incision. (Book p2)"},{"id":"SURG-C1-025","sec":"Surgical Safety Checklist","page":2,"q":"'Before patient leaves the operating room' corresponds to which phase?","opts":["Sign out","Sign in","Time out","Handover"],"ans":0,"exp":"Sign out is completed before the patient leaves the operating room. (Book p2)"},{"id":"SURG-C1-026","sec":"Surgical Safety Checklist","page":2,"q":"During sign in, the patient has confirmed all of the following EXCEPT:","opts":["Identity","Marked site","Procedure and written consent","Fasting status"],"ans":3,"exp":"At sign in the patient has confirmed identity, site (marked), procedure and written consent. (Book p2)"},{"id":"SURG-C1-027","sec":"Surgical Safety Checklist","page":2,"q":"Which of the following is checked during sign in?","opts":["Known allergies","Specimen labelling","Actual blood loss","Antibiotic prophylaxis"],"ans":0,"exp":"Sign in includes known allergies and the risk of >500 ml blood loss. (Book p2)"},{"id":"SURG-C1-028","sec":"Surgical Safety Checklist","page":2,"q":"During sign in, the risk of blood loss greater than how much is assessed?","opts":[">500 ml",">200 ml",">1000 ml",">100 ml"],"ans":0,"exp":"Sign in assesses the risk of >500 ml blood loss. (Book p2)"},{"id":"SURG-C1-029","sec":"Surgical Safety Checklist","page":2,"q":"During time out, the team confirms:","opts":["Patient site, procedure name and time","Allergies and consent","Specimen label","Sponge count"],"ans":0,"exp":"Time out confirms patient site, procedure name and time. (Book p2)"},{"id":"SURG-C1-030","sec":"Surgical Safety Checklist","page":2,"q":"At time out, antibiotic prophylaxis must have been given within the last:","opts":["30 minutes","10 minutes","60 minutes","2 hours"],"ans":0,"exp":"Time out checks that antibiotic prophylaxis was given within the last 30 min. (Book p2)"},{"id":"SURG-C1-031","sec":"Surgical Safety Checklist","page":2,"q":"During time out, the anticipated blood loss is estimated by the:","opts":["Surgeon","Anaesthetist","Nurse","Scrub technician"],"ans":0,"exp":"Anticipated blood loss at time out is given by the surgeon (actual loss at sign out is by the anaesthetist). (Book p2)"},{"id":"SURG-C1-032","sec":"Surgical Safety Checklist","page":2,"q":"During sign out, which of the following is verified?","opts":["Instruments, sponge and needle count","Written consent","Patient identity","Fasting status"],"ans":0,"exp":"Sign out verifies instruments, sponge and needle count. (Book p2)"},{"id":"SURG-C1-033","sec":"Surgical Safety Checklist","page":2,"q":"Specimen labelling during sign out must include:","opts":["Patient name","Only the specimen number","Hospital code","Ward number"],"ans":0,"exp":"Sign out includes specimen labelling (including patient name). (Book p2)"},{"id":"SURG-C1-034","sec":"Surgical Safety Checklist","page":2,"q":"During sign out, the actual blood loss is documented by the:","opts":["Anaesthetist","Surgeon","Nurse","Lab technician"],"ans":0,"exp":"Actual blood loss at sign out is recorded by the anaesthetist. (Book p2)"},{"id":"SURG-C1-035","sec":"Surgical Safety Checklist","page":2,"q":"The note on the surgical safety checklist states that:","opts":["There is no time in phase","Time out lasts exactly 5 minutes","Sign in takes 30 minutes","Sign out is optional"],"ans":0,"exp":"The book's note: 'There is no time in phase' — time out is a pause in workflow, not a timed interval. (Book p2)"},{"id":"SURG-C1-036","sec":"Estimating Blood Loss","page":2,"q":"The actual amount of blood loss is estimated as:","opts":["Blood in suction − irrigation fluid","Blood in suction + irrigation fluid","Dry mop weight − wet mop weight","Sponge count × 50 cc"],"ans":0,"exp":"Actual amount = blood in suction − irrigation fluid. (Book p2)"},{"id":"SURG-C1-037","sec":"Estimating Blood Loss","page":2,"q":"Alternatively, blood loss is estimated as:","opts":["Wet mop weight − dry mop weight","Wet mop weight + dry mop weight","Dry mop weight − wet mop weight","Irrigation fluid − suction"],"ans":0,"exp":"Blood loss can also be estimated as wet mop weight − dry mop weight. (Book p2)"},{"id":"SURG-C1-038","sec":"Estimating Blood Loss","page":2,"q":"A soaked mop represents a blood loss of:","opts":["100 cc","500 cc","200 cc","1000 cc"],"ans":0,"exp":"Soaked mop = 100 cc of blood. (Book p2)"},{"id":"SURG-C1-039","sec":"Estimating Blood Loss","page":2,"q":"A fist full of clots represents a blood loss of:","opts":["500 cc","100 cc","250 cc","1000 cc"],"ans":0,"exp":"Fist full of clots = 500 cc of blood. (Book p2)"},{"id":"SURG-C1-040","sec":"Estimating Blood Loss","page":2,"q":"Surgical mops carry a radio-opaque line so that they can be:","opts":["Picked up on X-ray","Weighed more easily","Sterilized faster","Identified by color"],"ans":0,"exp":"Mops have a radio-opaque line that is picked up on X-ray. (Book p2)"},{"id":"SURG-C1-041","sec":"OT Zoning","page":2,"q":"The four OT zones are:","opts":["Protective, clean, aseptic and disposal","Sterile, semi-sterile, dirty and waste","Core, buffer, outer and exit","OT, ICU, wards and entry"],"ans":0,"exp":"OT zoning = 1. Protective zone, 2. Clean zone, 3. Aseptic zone, 4. Disposal zone. (Book p2)"},{"id":"SURG-C1-042","sec":"OT Zoning","page":2,"q":"Which of the following belongs to the protective zone?","opts":["Change rooms, transfer bay, pre & post op rooms, ICU/PACU","Equipment store room","The operating theatre itself","Maintenance workshop"],"ans":0,"exp":"Protective zone = change rooms, transfer bay, pre & post op rooms and ICU/PACU. (Book p2)"},{"id":"SURG-C1-043","sec":"OT Zoning","page":2,"q":"The clean zone connects the protective zone to the:","opts":["Aseptic zone","Protective zone","Disposal zone","Ward"],"ans":0,"exp":"The clean zone connects the protective zone to the aseptic zone. (Book p2)"},{"id":"SURG-C1-044","sec":"OT Zoning","page":2,"q":"The equipment store room and maintenance workshop are in the:","opts":["Clean zone","Protective zone","Aseptic zone","Disposal zone"],"ans":0,"exp":"Clean zone = equipment store room and maintenance workshop. (Book p2)"},{"id":"SURG-C1-045","sec":"OT Zoning","page":2,"q":"The aseptic zone of the OT complex is the:","opts":["Operating theatre (OT)","Change room","ICU","Entry lobby"],"ans":0,"exp":"Aseptic zone = OT itself. (Book p2)"},{"id":"SURG-C1-046","sec":"OT Positions","page":3,"q":"The m/c position used for abdominal and breast surgeries is the:","opts":["Supine (neutral) position","Lithotomy position","Prone position","Fowler's position"],"ans":0,"exp":"Supine/neutral position is the m/c position used for abdominal and breast surgeries. (Book p3)"},{"id":"SURG-C1-047","sec":"OT Positions","page":3,"q":"The Trendelenberg position (head end low, foot end up) is used in:","opts":["Pelvic surgeries","Upper abdominal surgeries","Posterior cranial fossa surgery","Rectal cancer surgery"],"ans":0,"exp":"Trendelenberg position is used in pelvic surgeries. (Book p3)"},{"id":"SURG-C1-048","sec":"OT Positions","page":3,"q":"The reverse Trendelenberg position is used in:","opts":["Upper abdominal surgeries","Pelvic surgeries","Spinal surgery","Posterior cranial fossa surgery"],"ans":0,"exp":"Reverse Trendelenberg is used in upper abdominal surgeries and in laparoscopic cholecystometry with right side up. (Book p3)"},{"id":"SURG-C1-049","sec":"OT Positions","page":3,"q":"In laparoscopic cholecystectomy, reverse Trendelenberg is taken with the:","opts":["Right side up","Left side up","Head end down","Table level"],"ans":0,"exp":"Laparoscopic cholecystectomy uses reverse Trendelenberg with right side up. (Book p3)"},{"id":"SURG-C1-050","sec":"OT Positions","page":3,"q":"In laparoscopic cholecystectomy, CO2 collects below the right dome of the diaphragm, producing the m/c complication of:","opts":["Right shoulder tip pain","Left shoulder tip pain","Right leg pain","Neck pain"],"ans":0,"exp":"CO2 collects below the right dome of diaphragm → right shoulder tip pain, the m/c complication. (Book p3)"},{"id":"SURG-C1-051","sec":"OT Positions","page":3,"q":"Lithotomy position is used in all of the following EXCEPT:","opts":["Posterior cranial fossa surgery","Obstetric procedures","Gynecologic procedures","Hemorrhoid surgeries"],"ans":0,"exp":"Lithotomy is used for obstetric, gynecologic, urologic (TURP) and hemorrhoid surgeries — not posterior cranial fossa surgery. (Book p3)"},{"id":"SURG-C1-052","sec":"OT Positions","page":3,"q":"The urologic procedure performed in lithotomy position mentioned in the book is:","opts":["TURP","Nephrectomy","Pyelolithotomy","Laparoscopic cholecystectomy"],"ans":0,"exp":"Urologic procedures (TURP) are listed under the uses of lithotomy position. (Book p3)"},{"id":"SURG-C1-053","sec":"OT Positions","page":3,"q":"In lithotomy position, if the legs are not supported properly, the nerve commonly injured is the:","opts":["Common peroneal nerve","Femoral nerve","Obturator nerve","Sciatic nerve"],"ans":0,"exp":"Nerve injured if legs are not supported properly: common peroneal nerve. (Book p3)"},{"id":"SURG-C1-054","sec":"OT Positions","page":3,"q":"The lateral (kidney) position is NOT used for:","opts":["Hemorrhoid surgery","Nephrectomy","Thoracotomy","Pyelolithotomy"],"ans":0,"exp":"Lateral/kidney position uses: thoracotomy, pyelolithotomy, nephrolithotomy, nephrectomy and breast reconstruction (latissimus dorsi flap). (Book p3)"},{"id":"SURG-C1-055","sec":"OT Positions","page":3,"q":"A breast reconstruction operation performed in the lateral (kidney) position uses the:","opts":["Latissimus dorsi flap","Rectus abdominis flap","DIEP flap","Omentum only"],"ans":0,"exp":"Breast reconstruction in the lateral position uses the latissimus dorsi flap. (Book p3)"},{"id":"SURG-C1-056","sec":"OT Positions","page":3,"q":"In the lateral (kidney) position, the increased risk of brachial plexus injury is due to:","opts":["Hyperextended arm","Compressed neck","Tight waist belt","Unsupported legs"],"ans":0,"exp":"Lateral position carries increased risk for brachial plexus injury d/t hyperextended arm. (Book p3)"},{"id":"SURG-C1-057","sec":"OT Positions","page":4,"q":"The prone position is used for:","opts":["Spinal surgery and pilonidal sinus surgery","Pelvic surgeries","Laparoscopic cholecystectomy","Rectal cancer surgery"],"ans":0,"exp":"Prone position uses: spinal surgery and pilonidal sinus surgery. (Book p4)"},{"id":"SURG-C1-058","sec":"OT Positions","page":4,"q":"The sitting / Fowler's position is used for:","opts":["Posterior cranial fossa surgery","Upper abdominal surgery","Spinal surgery","Hemorrhoid surgery"],"ans":0,"exp":"Sitting/Fowler's position is used for posterior cranial fossa surgery. (Book p4)"},{"id":"SURG-C1-059","sec":"OT Positions","page":4,"q":"An advantage of the sitting / Fowler's position is:","opts":["Bloodless field with reduced blood loss","No risk of air embolism","Better venous return","Easier ventilation"],"ans":0,"exp":"Advantages of Fowler's: ↓ blood loss (blood less field) and ↑ exposure. (Book p4)"},{"id":"SURG-C1-060","sec":"OT Positions","page":4,"q":"A disadvantage of the sitting / Fowler's position is:","opts":["Increased risk of air embolism","Increased blood loss","Worsened exposure","Loss of muscle relaxation"],"ans":0,"exp":"Disadvantage of sitting/Fowler's position: ↑ risk of air embolism. (Book p4)"},{"id":"SURG-C1-061","sec":"OT Positions","page":4,"q":"The jackknife position is:","opts":["Obsolete, previously used for hemorrhoid/fissure surgeries","The m/c position for abdominal surgery","Used for posterior cranial fossa surgery","Synonymous with lithotomy"],"ans":0,"exp":"Jackknife position = obsolete position, previously used for hemorrhoid fissure surgeries. (Book p4)"},{"id":"SURG-C1-062","sec":"OT Positions","page":4,"q":"A complication of the jackknife position is:","opts":["Positional asphyxia","Air embolism","Brachial plexus injury","Common peroneal nerve injury"],"ans":0,"exp":"Complication of the jackknife position = positional asphyxia. (Book p4)"},{"id":"SURG-C1-063","sec":"OT Positions","page":4,"q":"The Lloyd-Davis position is a combination of:","opts":["Trendelenberg + lithotomy","Prone + lithotomy","Fowler's + Trendelenberg","Lateral + prone"],"ans":0,"exp":"Lloyd-Davis position = Trendelenberg + lithotomy position. (Book p4)"},{"id":"SURG-C1-064","sec":"OT Positions","page":4,"q":"The Lloyd-Davis position is used in:","opts":["Rectal cancer surgery","Nephrectomy","Posterior cranial fossa surgery","Breast surgery"],"ans":0,"exp":"Lloyd-Davis position is used in rectal cancer surgery. (Book p4)"},{"id":"SURG-C1-065","sec":"Air Embolism","page":4,"q":"As per the book, how much air sucked into a vein enters circulation and dysregulates cardiac functioning?","opts":["50–100 cc","5–10 cc","500 cc","5000 cc"],"ans":0,"exp":"Air (50-100cc) sucked into vein → enters circulation → dysregulates cardiac functioning. (Book p4)"},{"id":"SURG-C1-066","sec":"Air Embolism","page":4,"q":"Air embolism is a risk in which of the following?","opts":["Thyroid/head and neck surgeries","Appendicectomies","Hernia repairs","Hemorrhoidectomies"],"ans":0,"exp":"Risk factors for air embolism: thyroid/head & neck surgeries and sitting/Fowler's position. (Book p4)"},{"id":"SURG-C1-067","sec":"Air Embolism","page":4,"q":"The m/c presenting feature of an air embolism is:","opts":["Sudden desaturation","Gradual cyanosis","High-grade fever","Bradycardia"],"ans":0,"exp":"Clinical features: sudden desaturation, dyspnea and hypotension. (Book p4)"},{"id":"SURG-C1-068","sec":"Air Embolism","page":4,"q":"Clinical features of air embolism include all of the following EXCEPT:","opts":["High-grade fever","Sudden desaturation","Dyspnea","Hypotension"],"ans":0,"exp":"Features = sudden desaturation, dyspnea, hypotension — fever is not listed. (Book p4)"},{"id":"SURG-C1-069","sec":"Air Embolism","page":5,"q":"To prevent air embolism in the Fowler's position, the vein should be:","opts":["Ligated before cutting","Cut first, then ligated","Dilated","Infiltrated with adrenaline"],"ans":0,"exp":"Prevention: 1. Ligate vein before cutting. (Book p5)"},{"id":"SURG-C1-070","sec":"Air Embolism","page":5,"q":"Air entry into the field is further prevented by:","opts":["Irrigating the field","Drying the field","Elevating the head","Covering the field"],"ans":0,"exp":"Prevention of air embolism in Fowler's position: ligate vein before cutting and irrigate field. (Book p5)"},{"id":"SURG-C1-071","sec":"Air Embolism","page":5,"q":"Management of an air embolism begins with placing the patient in the:","opts":["Durant position","Trendelenberg position","Fowler's position","Lithotomy position"],"ans":0,"exp":"Management starts with the Durant position, followed by aspiration of air. (Book p5)"},{"id":"SURG-C1-072","sec":"Air Embolism","page":5,"q":"The Durant position consists of:","opts":["Right side up (left lateral) + legs up","Left side up + legs down","Prone + Trendelenberg","Supine + Trendelenberg"],"ans":0,"exp":"Durant position = right side up (left lateral) + legs up. (Book p5)"},{"id":"SURG-C1-073","sec":"Air Embolism","page":5,"q":"After the Durant position, air is removed by:","opts":["Aspiration using direct puncture / central line","Pericardiocentesis","Emergent thoracotomy","Chest tube alone"],"ans":0,"exp":"Durant position is followed by aspirating air using direct puncture/central line. (Book p5)"},{"id":"SURG-C1-074","sec":"Air Embolism","page":5,"q":"The Durant position is used when:","opts":["Suspicion of air embolism is positive","The patient is bleeding into shock","The patient has a pneumothorax","The patient is post-extubation"],"ans":0,"exp":"The Durant position is used if suspicion of air embolism is (+). (Book p5)"},{"id":"SURG-C1-075","sec":"Events in Patient Safety","page":5,"q":"An adverse event is defined as:","opts":["An incident that results in harm to the patient","An incident that could have harmed the patient","An incident that never reaches the patient","A medication error only"],"ans":0,"exp":"Adverse event = an incident that results in harm to the patient. (Book p5)"},{"id":"SURG-C1-076","sec":"Events in Patient Safety","page":5,"q":"A near miss is an incident that:","opts":["Could have caused unwanted consequences but did not","Always causes harm","Reaches the patient and causes injury","Is intentional"],"ans":0,"exp":"Near miss = an incident that could have resulted in unwanted consequences but did not. (Book p5)"},{"id":"SURG-C1-077","sec":"Events in Patient Safety","page":5,"q":"A near miss is prevented from reaching the patient by:","opts":["Chance or timely intervention","Patient refusal","Hospital policy only","Depth of anaesthesia"],"ans":0,"exp":"A near miss does not reach the patient either by chance or through timely intervention. (Book p5)"},{"id":"SURG-C1-078","sec":"Events in Patient Safety","page":5,"q":"A no-harm event:","opts":["Reaches the patient but results in no injury","Never reaches the patient","Always causes permanent harm","Is by definition an adverse event"],"ans":0,"exp":"No-harm event = an incident that occurs and reaches the patient but results in no injury. (Book p5)"},{"id":"SURG-C1-079","sec":"Events in Patient Safety","page":5,"q":"In a no-harm event, harm is avoided by:","opts":["Chance or mitigating circumstances","Early surgery","Blood transfusion","Interventional radiology"],"ans":0,"exp":"In a no-harm event, harm is avoided by chance or due to mitigating circumstances. (Book p5)"}];
+const UNITS = [{"id":"SURG-U1-1","ch":1,"n":1,"title":"Consents: Components & Signatures","sec":"Consents · p1","qs":["SURG-C1-001","SURG-C1-002","SURG-C1-003","SURG-C1-004","SURG-C1-005"],"guide":"A valid consent covers identification, diagnosis, the planned procedure, the surgeon, description, patient-specific and procedure-specific complications (any complication >1% incidence), benefits and the alternate procedure — signed by patient, surgeon and witness."},{"id":"SURG-U1-2","ch":1,"n":2,"title":"IV Lines: Color-Coding of Cannulas","sec":"IV Lines · p1","qs":["SURG-C1-006","SURG-C1-007","SURG-C1-008","SURG-C1-009","SURG-C1-010","SURG-C1-011","SURG-C1-012","SURG-C1-013","SURG-C1-014","SURG-C1-015","SURG-C1-016","SURG-C1-017","SURG-C1-018"],"guide":"From narrow to wide: yellow 24G (13/10 ml/min), blue 22G (31/30), pink 20G (67/60), green 18G (96), gray 16G (236/240) and orange 14G (270) — the orange 14G is the shock cannula. The 24G/22G/20G trio is bracketed for paediatric patients."},{"id":"SURG-U1-3","ch":1,"n":3,"title":"IV Lines: Superficial Thrombophlebitis","sec":"IV Lines: Complications · p1","qs":["SURG-C1-019","SURG-C1-020","SURG-C1-021"],"guide":"The m/c IV complication is superficial thrombophlebitis — a tender, cord-like swelling at the cannulation site, managed with a topical heparinoid."},{"id":"SURG-U1-4","ch":1,"n":4,"title":"Safety Checklist: Phases & Sign In","sec":"Surgical Safety Checklist · p2","qs":["SURG-C1-022","SURG-C1-023","SURG-C1-024","SURG-C1-025","SURG-C1-026","SURG-C1-027","SURG-C1-028"],"guide":"The checklist runs sign in (before induction of anaesthesia, ward to OT complex) → time out (before skin incision) → sign out (before the patient leaves the OT). Sign in confirms identity, marked site, procedure, written consent, known allergies and risk of >500 ml blood loss."},{"id":"SURG-U1-5","ch":1,"n":5,"title":"Safety Checklist: Time Out & Sign Out","sec":"Surgical Safety Checklist · p2","qs":["SURG-C1-029","SURG-C1-030","SURG-C1-031","SURG-C1-032","SURG-C1-033","SURG-C1-034","SURG-C1-035"],"guide":"Time out confirms patient site, procedure name and time, checks antibiotic prophylaxis within the last 30 min and the surgeon's anticipated blood loss. Sign out verifies instruments/sponge/needle count, specimen labelling with patient name and the anaesthetist's actual blood loss — and the book's note: there is no time in phase."},{"id":"SURG-U1-6","ch":1,"n":6,"title":"Estimating Blood Loss","sec":"Estimating Blood Loss · p2","qs":["SURG-C1-036","SURG-C1-037","SURG-C1-038","SURG-C1-039","SURG-C1-040"],"guide":"Actual blood loss = blood in suction − irrigation fluid, or wet mop weight − dry mop weight. A soaked mop holds 100 cc, a fist full of clots 500 cc, and mops carry a radio-opaque line so they are picked up on X-ray."},{"id":"SURG-U1-7","ch":1,"n":7,"title":"OT Zoning: The Four Zones","sec":"OT Zoning · p2","qs":["SURG-C1-041","SURG-C1-042","SURG-C1-043","SURG-C1-044","SURG-C1-045"],"guide":"The OT complex flows through four zones: protective (change rooms, transfer bay, pre & post op rooms, ICU/PACU), clean (equipment store room, maintenance workshop — connecting protective to aseptic), aseptic (the OT itself) and disposal."},{"id":"SURG-U1-8","ch":1,"n":8,"title":"OT Positions: Supine, Trendelenberg & Reverse Trendelenberg","sec":"OT Positions · p3","qs":["SURG-C1-046","SURG-C1-047","SURG-C1-048","SURG-C1-049","SURG-C1-050"],"guide":"Supine/neutral is the m/c position for abdominal and breast surgeries. Trendelenberg (head low, feet up) serves pelvic surgery; reverse Trendelenberg with right side up is used in laparoscopic cholecystectomy, where CO2 pools under the right diaphragm dome and causes right shoulder tip pain — its m/c complication."},{"id":"SURG-U1-9","ch":1,"n":9,"title":"OT Positions: Lithotomy & Lateral (Kidney)","sec":"OT Positions · p3","qs":["SURG-C1-051","SURG-C1-052","SURG-C1-053","SURG-C1-054","SURG-C1-055","SURG-C1-056"],"guide":"Lithotomy serves obstetric, gynecologic, urologic (TURP) and hemorrhoid procedures — with the common peroneal nerve at risk if legs are poorly supported. Lateral/kidney position covers thoracotomy, pyelo/nephrolithotomy, nephrectomy and breast reconstruction (latissimus dorsi flap), risking brachial plexus injury from a hyperextended arm."},{"id":"SURG-U1-10","ch":1,"n":10,"title":"OT Positions: Prone, Fowler's, Jackknife & Lloyd-Davis","sec":"OT Positions · p4","qs":["SURG-C1-057","SURG-C1-058","SURG-C1-059","SURG-C1-060","SURG-C1-061","SURG-C1-062","SURG-C1-063","SURG-C1-064"],"guide":"Prone is for spinal and pilonidal sinus surgery. Sitting/Fowler's exposes the posterior cranial fossa in a bloodless field but invites air embolism. Jackknife — once used for hemorrhoid/fissure surgery — is obsolete, killing by positional asphyxia. Lloyd-Davis = Trendelenberg + lithotomy, the rectal cancer position."},{"id":"SURG-U1-11","ch":1,"n":11,"title":"Air Embolism: Features, Prevention & Management","sec":"Air Embolism · p4","qs":["SURG-C1-065","SURG-C1-066","SURG-C1-067","SURG-C1-068","SURG-C1-069","SURG-C1-070","SURG-C1-071","SURG-C1-072","SURG-C1-073","SURG-C1-074"],"guide":"50-100 cc of air sucked into a vein dysregulates cardiac function; watch for it in thyroid/head & neck surgery and in Fowler's position. Sudden desaturation, dyspnea and hypotension are the clues — prevent by ligating the vein before cutting and irrigating the field, and treat with the Durant position (right side up/left lateral + legs up) followed by aspiration via direct puncture/central line."},{"id":"SURG-U1-12","ch":1,"n":12,"title":"Events in Patient Safety","sec":"Events in Patient Safety · p5","qs":["SURG-C1-075","SURG-C1-076","SURG-C1-077","SURG-C1-078","SURG-C1-079"],"guide":"An adverse event harms the patient; a near miss could have but didn't (stopped by chance or timely intervention); a no-harm event reaches the patient without injury, harm dodged by chance or mitigating circumstances."}];
+const CHAPTERS = [
+  {n:1,t:"Patient Safety, OT Zones and Surgery Positions",p:1,live:true},
+  {n:2,t:"Surgical Blades and Energy Sources",p:6,live:false},
+  {n:3,t:"Surgical Drains, Knots and Sutures",p:10,live:false},
+  {n:4,t:"Post-operative Fever and Wound Infection",p:18,live:false},
+  {n:5,t:"Day Care Surgery",p:25,live:false},
+  {n:6,t:"Surgical Nutrition",p:28,live:false},
+  {n:7,t:"Shock : Part 1",p:37,live:false},
+  {n:8,t:"Shock : Part 2",p:44,live:false},
+  {n:9,t:"Breast : Part 1",p:49,live:false},
+  {n:10,t:"Breast : Part 2",p:55,live:false},
+  {n:11,t:"Breast : Part 3",p:61,live:false},
+  {n:12,t:"Breast : Part 4",p:68,live:false},
+  {n:13,t:"Breast : Part 5",p:75,live:false},
+  {n:14,t:"Thyroid : Part 1",p:82,live:false},
+  {n:15,t:"Thyroid : Part 2",p:90,live:false},
+  {n:16,t:"Thyroid : Part 3",p:102,live:false},
+  {n:17,t:"Parathyroid",p:111,live:false},
+  {n:18,t:"Adrenal Glands and Neuroendocrine Tumors",p:117,live:false},
+  {n:19,t:"Esophagus : Part 1",p:126,live:false},
+  {n:20,t:"Esophagus : Part 2",p:135,live:false},
+  {n:21,t:"Esophagus : Part 3",p:145,live:false},
+  {n:22,t:"Stomach : Part 1",p:150,live:false},
+  {n:23,t:"Stomach : Part 2",p:157,live:false},
+  {n:24,t:"Stomach : Part 3",p:161,live:false},
+  {n:25,t:"Upper GI Haemorrhage",p:170,live:false},
+  {n:26,t:"Bariatric Surgery",p:179,live:false},
+  {n:27,t:"Bowel Obstruction : Part 1",p:184,live:false},
+  {n:28,t:"Bowel Obstruction : Part 2",p:191,live:false},
+  {n:29,t:"Benign Conditions of Small and Large Bowel",p:197,live:false},
+  {n:30,t:"Appendix",p:208,live:false},
+  {n:31,t:"Colorectal Polyps and Cancer : Part 1",p:218,live:false},
+  {n:32,t:"Colorectal Polyps and Cancer : Part 2",p:227,live:false},
+  {n:33,t:"Rectum and Anal Canal",p:233,live:false},
+  {n:34,t:"Liver : Part 1",p:245,live:false},
+  {n:35,t:"Liver : Part 2",p:253,live:false},
+  {n:36,t:"Spleen",p:260,live:false},
+  {n:37,t:"Gall Bladder and Bile Ducts : Part 1",p:265,live:false},
+  {n:38,t:"Gall Bladder and Bile Ducts : Part 2",p:276,live:false},
+  {n:39,t:"Benign Pancreatic Conditions",p:285,live:false},
+  {n:40,t:"Pancreatic Tumour",p:297,live:false},
+  {n:41,t:"Testicular Disorders : Part 1",p:307,live:false},
+  {n:42,t:"Testicular Disorders : Part 2",p:313,live:false},
+  {n:43,t:"Urethral and Penile Disorders",p:318,live:false},
+  {n:44,t:"Kidney : Part 1",p:327,live:false},
+  {n:45,t:"Kidney : Part 2",p:339,live:false},
+  {n:46,t:"Bladder",p:353,live:false},
+  {n:47,t:"Prostate : Part 1",p:360,live:false},
+  {n:48,t:"Prostate : Part 2",p:365,live:false},
+  {n:49,t:"Minimally Invasive Surgery",p:371,live:false},
+  {n:50,t:"Transplant Surgery",p:377,live:false},
+  {n:51,t:"Plastic surgery : Part 1",p:386,live:false},
+  {n:52,t:"Plastic surgery : Part 2",p:393,live:false},
+  {n:53,t:"Neurosurgery",p:399,live:false},
+  {n:54,t:"Basics of Trauma Management",p:410,live:false},
+  {n:55,t:"Abdominal Trauma",p:417,live:false},
+  {n:56,t:"Thoracic trauma",p:426,live:false},
+  {n:57,t:"Head Trauma",p:435,live:false},
+  {n:58,t:"Thermal Injuries",p:444,live:false},
+  {n:59,t:"Hernia : Part 1",p:451,live:false},
+  {n:60,t:"Hernia : Part 2",p:460,live:false},
+  {n:61,t:"Venous Thrombosis",p:470,live:false},
+  {n:62,t:"Varicose Veins",p:476,live:false},
+  {n:63,t:"Arterial System : Part 1",p:486,live:false},
+  {n:64,t:"Arterial System : Part 2",p:494,live:false},
+  {n:65,t:"Lymphatic System",p:503,live:false},
+  {n:66,t:"Oral cancers",p:509,live:false},
+  {n:67,t:"Salivary Glands",p:520,live:false},
+  {n:68,t:"Skin and Soft Tissue Sarcomas",p:529,live:false},
+  {n:69,t:"Thorax and Mediastinum",p:535,live:false},
+  {n:70,t:"Common Surgical Swellings",p:544,live:false},
+  {n:71,t:"Common Ulcers",p:547,live:false},
+  {n:72,t:"Surgical Instruments",p:550,live:false}
+];
+
+const QBYID = {}; QUESTIONS.forEach(q=>QBYID[q.id]=q);
+const $=id=>document.getElementById(id);
+function store(k,v){try{if(v===undefined){const r=localStorage.getItem(k);return r==null?null:JSON.parse(r);}localStorage.setItem(k,JSON.stringify(v));}catch(e){return v===undefined?null:undefined;}}
+const S = {
+  get xp(){return store('pulse_surgery_xp')||0;}, set xp(v){store('pulse_surgery_xp',v);},
+  get done(){return store('pulse_surgery_done')||[];}, set done(v){store('pulse_surgery_done',v);},
+  get unlock(){return !!store('pulse_surgery_unlock');}, set unlock(v){store('pulse_surgery_unlock',v);},
+  streak(){const t=store('pulse_surgery_streak')||{n:0,day:''};return t;},
+  bumpStreak(){const today=new Date().toISOString().slice(0,10);let s=this.streak();
+    if(s.day===today)return s.n;
+    const y=new Date(Date.now()-864e5).toISOString().slice(0,10);
+    s={n:(s.day===y?s.n+1:1),day:today};store('pulse_surgery_streak',s);return s.n;}
+};
+const nav={stack:['home']};
+function show(id){nav.stack.push(id);render();}
+function goBack(){if(nav.stack.length>1)nav.stack.pop();render();}
+function render(){
+  const cur=nav.stack[nav.stack.length-1];
+  ['home','chapters','path','guide','quiz','unitdone'].forEach(s=>$(s).classList.toggle('hidden',s!==cur));
+  $('backBtn').classList.toggle('hidden',cur==='home');
+  $('brand').textContent = cur==='home'?'PULSE':'PULSE';
+  refreshStats();
+  if(cur==='home')renderHome();
+  if(cur==='chapters')renderChapters();
+  if(cur==='path')renderPath();
+}
+function refreshStats(){
+  $('hXP').textContent=S.xp; $('hStreak').textContent=S.streak().n;
+  $('sXP').textContent=S.xp; $('sStreak').textContent=S.streak().n; $('sUnits').textContent=S.done.length;
+}
+function renderHome(){
+  const live=CHAPTERS.filter(c=>c.live).length;
+  $('heroSub').textContent=live+' of '+CHAPTERS.length+' chapters built so far — original questions, guides, and unit-by-unit mastery for each.';
+}
+function unitsOf(ch){return UNITS.filter(u=>u.ch===ch).sort((a,b)=>a.n-b.n);}
+function renderChapters(){
+  $('chSub').textContent=CHAPTERS.length+' chapters · Full chapter-by-chapter exam pass';
+  const box=$('chList'); box.innerHTML='';
+  CHAPTERS.forEach(c=>{
+    const us=c.live?unitsOf(c.n):[];
+    const dn=us.filter(u=>S.done.includes(u.id)).length;
+    const d=document.createElement('div');
+    d.className='chrow'+(c.live?'':' locked');
+    d.innerHTML='<div class="chnum">'+c.n+'</div><div class="t">'+escapeHtml(c.t)+'</div><div class="u">'+(c.live?dn+'/'+us.length+' units':'Soon')+'</div>';
+    if(c.live)d.onclick=()=>{curCh=c.n;show('path');};
+    box.appendChild(d);
+  });
+}
+let curCh=1, curUnit=null;
+function unitState(u,us){
+  if(S.done.includes(u.id))return 'done';
+  if(S.unlock)return 'current';
+  const i=us.findIndex(x=>x.id===u.id);
+  if(i===0)return 'current';
+  return S.done.includes(us[i-1].id)?'current':'locked';
+}
+function renderPath(){
+  const c=CHAPTERS.find(x=>x.n===curCh), us=unitsOf(curCh);
+  $('pathKick').textContent='CHAPTER '+c.n;
+  $('pathTitle').textContent=c.t;
+  $('pathSub').textContent=us.filter(u=>S.done.includes(u.id)).length+' of '+us.length+' units done · in book order';
+  const box=$('nodes'); box.innerHTML='';
+  let lastSec='';
+  us.forEach(u=>{
+    if(u.sec!==lastSec){lastSec=u.sec;
+      const s=document.createElement('div');s.className='pathsec';s.textContent=u.sec;box.appendChild(s);}
+    const st=unitState(u,us);
+    const d=document.createElement('div');d.className='node';
+    d.innerHTML='<div class="ball '+st+'">'+(st==='done'?'✓':st==='locked'?'🔒':u.n)+'</div><div class="ntitle">'+escapeHtml(u.title)+'</div><div class="ncount">'+u.qs.length+' questions</div>';
+    if(st!=='locked')d.querySelector('.ball').onclick=()=>openGuide(u);
+    box.appendChild(d);
+  });
+}
+function openGuide(u){curUnit=u;
+  $('gKick').textContent='CHAPTER '+u.ch+' · UNIT '+u.n+' · '+u.sec.toUpperCase();
+  $('gTitle').textContent=u.title;
+  $('gText').textContent=u.guide;
+  $('gCount').textContent=u.qs.length+' questions · follows the book line-by-line';
+  show('guide');
+}
+let order=[],idx=0,xpGain=0,streak=0,correct=0,wrongList=[],locked=false;
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+function beginUnit(){
+  // FIXED book order — only options shuffle (anti-bias)
+  order=curUnit.qs.map(id=>{const q=QBYID[id];return {q,opts:shuffle(q.opts.map((t,i)=>({t,ok:i===q.ans})))};});
+  idx=0;xpGain=0;streak=0;correct=0;wrongList=[];
+  show('quiz');renderQ();
+}
+function renderQ(){
+  locked=false;
+  const cur=order[idx],q=cur.q;
+  $('qbar').style.width=(idx/order.length*100)+'%';
+  $('qcount').textContent='QUESTION '+(idx+1)+' OF '+order.length;
+  $('qtag').textContent=q.sec+' · Book p'+q.page;
+  $('qtext').textContent=q.q;
+  const box=$('opts');box.innerHTML='';
+  cur.opts.forEach(o=>{
+    const b=document.createElement('button');b.className='opt';b.textContent=o.t;
+    b.onclick=()=>answer(o,b);box.appendChild(b);
+  });
+  $('fb').className='fb';$('fb').innerHTML='';
+  $('nextBtn').classList.add('hidden');
+  $('nextBtn').textContent=idx===order.length-1?'Finish ✓':'Continue →';
+}
+function escapeHtml(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function answer(o,btn){
+  if(locked)return;locked=true;
+  const cur=order[idx],q=cur.q,btns=$('opts').children;
+  const rightIdx=cur.opts.findIndex(x=>x.ok);
+  [...btns].forEach(b=>b.disabled=true);
+  btns[rightIdx].classList.add('correct');
+  const fb=$('fb');
+  if(o.ok){correct++;streak++;
+    const gain=10+Math.min(streak*2,10);xpGain+=gain;S.xp=S.xp+gain;
+    floatText(btn,'+'+gain+' XP','#e0607e');
+    fb.className='fb show good';
+    fb.innerHTML='✅ Correct! '+escapeHtml(q.exp);
+  }else{btn.classList.add('wrong');streak=0;
+    wrongList.push(q);
+    fb.className='fb show bad';
+    fb.innerHTML='❌ Answer: <b>'+escapeHtml(cur.opts[rightIdx].t)+'</b><br>'+escapeHtml(q.exp);
+  }
+  refreshStats();
+  $('nextBtn').classList.remove('hidden');
+}
+function floatText(el,txt,color){
+  const r=el.getBoundingClientRect(),s=document.createElement('div');
+  s.className='float';s.textContent=txt;s.style.color=color;
+  s.style.left=(r.left+r.width/2-24)+'px';s.style.top=(r.top-6+window.scrollY)+'px';
+  document.body.appendChild(s);setTimeout(()=>s.remove(),1000);
+}
+function nextQ(){idx++;if(idx>=order.length)finishUnit();else renderQ();}
+function finishUnit(){
+  const d=S.done;if(!d.includes(curUnit.id)){d.push(curUnit.id);S.done=d;}
+  S.bumpStreak();
+  const pct=Math.round(correct/order.length*100);
+  $('dSub').textContent=curUnit.title+' · '+correct+'/'+order.length+' correct';
+  $('dScore').textContent=correct+'/'+order.length;
+  $('dXP').textContent='+'+xpGain;$('dAcc').textContent=pct+'%';
+  const box=$('dRev');box.innerHTML='';
+  if(wrongList.length){const h=document.createElement('p');h.className='sub';h.textContent='Review:';box.appendChild(h);}
+  wrongList.forEach(q=>{
+    const r=document.createElement('div');r.className='rev';
+    r.innerHTML='❓ '+escapeHtml(q.q)+'<br>✅ <b>'+escapeHtml(q.opts[q.ans])+'</b> — '+escapeHtml(q.exp);
+    box.appendChild(r);
+  });
+  show('unitdone');
+}
+function afterUnit(){nav.stack=['home','chapters','path'];render();}
+function continueLearning(){
+  const c=CHAPTERS.find(x=>x.live);
+  if(!c)return;curCh=c.n;
+  const us=unitsOf(c.n);
+  const nxt=us.find(u=>unitState(u,us)==='current')||us[0];
+  curUnit=nxt;nav.stack=['home'];openGuide(nxt);
+}
+function unlockAll(){S.unlock=true;render();}
+document.addEventListener('keydown',e=>{
+  if($('quiz').classList.contains('hidden'))return;
+  const k=parseInt(e.key);
+  if(k>=1&&k<=4&&!locked){const b=$('opts').children[k-1];if(b)b.click();}
+  else if(e.key==='Enter'&&locked)nextQ();
+});
+render();
+</script>
+</body>
+</html>
