@@ -1,0 +1,1291 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C17-001",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "The superior parathyroid gland originates from:",
+   "opts": [
+    "4th pharyngeal pouch",
+    "3rd pharyngeal pouch",
+    "2nd pharyngeal pouch",
+    "Ultimobranchial body"
+   ],
+   "ans": 0,
+   "exp": "Superior parathyroid: 4th pharyngeal pouch. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-002",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "The location of the superior parathyroid gland is:",
+   "opts": [
+    "Constant: posterior aspect of thyroid lobe",
+    "Variable, anterior to the thyroid",
+    "Constant: anterior aspect of thyroid lobe",
+    "Always inside the thymus"
+   ],
+   "ans": 0,
+   "exp": "Superior parathyroid location constant: posterior aspect of thyroid lobe. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-003",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "The inferior parathyroid gland originates from:",
+   "opts": [
+    "3rd pharyngeal pouch",
+    "4th pharyngeal pouch",
+    "1st pharyngeal pouch",
+    "Neural crest only"
+   ],
+   "ans": 0,
+   "exp": "Inferior parathyroid: 3rd pharyngeal pouch; location variable. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-004",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "The thymus is also derived from the 3rd pharyngeal pouch; therefore in parathyroid surgery the thymus is removed along with the:",
+   "opts": [
+    "Inferior parathyroid gland",
+    "Superior parathyroid gland",
+    "Thyroid isthmus",
+    "Both superior glands"
+   ],
+   "ans": 0,
+   "exp": "Thymus also from 3rd pouch - removed along with inf. parathyroid gland in parathyroid Sx → ↑ yield. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-005",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "What percentage of people have 5 parathyroid glands?",
+   "opts": [
+    "5%",
+    "1%",
+    "10%",
+    "25%"
+   ],
+   "ans": 0,
+   "exp": "5% have 5 parathyroid glands. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-006",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "Parathyroid glands are identified intraoperatively by the:",
+   "opts": [
+    "Sentinel pad of fat (golden yellow)",
+    "Pearly white capsule",
+    "Bluish cystic appearance",
+    "Visible pulsatility"
+   ],
+   "ans": 0,
+   "exp": "Identification: sentinel pad of fat (golden yellow). (Book p111)"
+  },
+  {
+   "id": "SURG-C17-007",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "On touch, the parathyroid gland:",
+   "opts": [
+    "Turns dusky",
+    "Turns bright red",
+    "Becomes pearly white",
+    "Shrinks instantly"
+   ],
+   "ans": 0,
+   "exp": "Turns dusky on touch. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-008",
+   "sec": "Surgical Anatomy & Physiology",
+   "page": 111,
+   "q": "The half-life of PTH and its function are:",
+   "opts": [
+    "T½ 5-7 mins; ↑ plasma Ca2+ concentration",
+    "T½ 5-7 secs; ↓ plasma Ca2+",
+    "T½ 30-60 mins; ↑ plasma K+",
+    "T½ 24 hrs; ↓ plasma Ca2+"
+   ],
+   "ans": 0,
+   "exp": "Secretes parathyroid hormones (PTH), T 1/2: 5-7 mins; function: ↑ plasma Ca2+ concentration. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-009",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 111,
+   "q": "The mnemonic for clinical features of hyperparathyroidism is:",
+   "opts": [
+    "Bones, stones, abdominal groans, psychiatric overtones",
+    "Stones, bones, groans and moans only",
+    "Pain, pallor, palpitations, perspiration",
+    "Bones, stones, tetany and tremors"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic: Bones, stones, abdominal groans, psychiatric overtones. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-010",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 111,
+   "q": "Which fracture pattern is part of the 'bones' of hyperparathyroidism?",
+   "opts": [
+    "Pathological fracture",
+    "Greenstick fracture",
+    "March fracture",
+    "Avulsion fracture"
+   ],
+   "ans": 0,
+   "exp": "Bones: pathological fracture, subperiosteal resorption, salt & pepper skull, brown tumors. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-011",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 111,
+   "q": "Subperiosteal bone resorption in hyperparathyroidism is m/c in the:",
+   "opts": [
+    "Radial aspect",
+    "Ulnar aspect",
+    "Medial tibial aspect",
+    "Femoral head"
+   ],
+   "ans": 0,
+   "exp": "Subperiosteal bone resorption: m/c in radial aspect. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-012",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 111,
+   "q": "The 'salt & pepper' appearance of hyperparathyroidism is seen in the:",
+   "opts": [
+    "Skull",
+    "Hand",
+    "Pelvis",
+    "Vertebrae"
+   ],
+   "ans": 0,
+   "exp": "Salt & pepper skull. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-013",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 111,
+   "q": "Brown tumors of hyperparathyroidism are also known as:",
+   "opts": [
+    "Osteitis fibrosa cystica / von Recklinghausen disease of bone",
+    "Osteitis deformans / Paget disease",
+    "Osteogenesis imperfecta",
+    "Fibrous dysplasia"
+   ],
+   "ans": 0,
+   "exp": "Brown tumors: osteitis fibrosa cystica / von Recklinghausen disease of bone. (Book p111)"
+  },
+  {
+   "id": "SURG-C17-014",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 112,
+   "q": "Renal stones in hyperparathyroidism are typically:",
+   "opts": [
+    "Recurrent & multiple",
+    "Single & asymptomatic",
+    "Always radiolucent",
+    "Uric acid type only"
+   ],
+   "ans": 0,
+   "exp": "Stones: recurrent & multiple renal stones (m/c). (Book p112)"
+  },
+  {
+   "id": "SURG-C17-015",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 112,
+   "q": "The m/c renal stone in hyperparathyroidism, which is radiopaque, is:",
+   "opts": [
+    "Calcium oxalate",
+    "Uric acid",
+    "Cystine",
+    "Struvite"
+   ],
+   "ans": 0,
+   "exp": "Calcium oxalate stone: renal stones (m/c) → radiopaque. (Book p112)"
+  },
+  {
+   "id": "SURG-C17-016",
+   "sec": "Clinical Features of Hyperparathyroidism",
+   "page": 112,
+   "q": "The 'abdominal groans' of hyperparathyroidism include abdominal colic and:",
+   "opts": [
+    "Pancreatitis",
+    "Appendicitis",
+    "Cholecystitis",
+    "Intussusception"
+   ],
+   "ans": 0,
+   "exp": "Abdominal groans: abdominal colic, pancreatitis. (Book p112)"
+  },
+  {
+   "id": "SURG-C17-017",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "The m/c cause of primary hyperparathyroidism is:",
+   "opts": [
+    "Adenoma",
+    "Hyperplasia",
+    "Carcinoma",
+    "Ectopic PTH secretion"
+   ],
+   "ans": 0,
+   "exp": "Adenoma >> hyperplasia. (Book p112)"
+  },
+  {
+   "id": "SURG-C17-018",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "In primary hyperparathyroidism, adenoma versus hyperplasia means:",
+   "opts": [
+    "Enlargement of 1 gland vs all 4 glands",
+    "Enlargement of 2 vs 3 glands",
+    "Cystic vs solid gland",
+    "Toxic vs non-toxic gland"
+   ],
+   "ans": 0,
+   "exp": "Adenoma: enlargement of 1 gland; hyperplasia: enlargement of all 4 glands. (Book p112)"
+  },
+  {
+   "id": "SURG-C17-019",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "Risk factors for primary hyperparathyroidism are radiation exposure and:",
+   "opts": [
+    "MEN syndrome (MEN1, 2A)",
+    "MEN2B only",
+    "Turner syndrome",
+    "Down syndrome"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: 1. Radiation exposure 2. MEN syndrome (MEN1, 2A). (Book p112)"
+  },
+  {
+   "id": "SURG-C17-020",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "MEN-syndrome-associated hyperparathyroidism is a familial syndrome showing:",
+   "opts": [
+    "Multiglandular disease (adenoma > hyperplasia)",
+    "Single-gland atrophy",
+    "Parathyroid cancer only",
+    "Ectopic glands only"
+   ],
+   "ans": 0,
+   "exp": "Familial syndrome; multiglandular disease (adenoma > hyperplasia). (Book p112)"
+  },
+  {
+   "id": "SURG-C17-021",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "The biochemical profile of primary hyperparathyroidism is:",
+   "opts": [
+    "↑ PTH, ↑ S. Ca2+, ↓ S. phosphorous, ↑ calcitriol",
+    "↓ PTH, ↑ S. Ca2+, ↑ S. phosphorous",
+    "↑ PTH, ↓ S. Ca2+, ↑ S. phosphorous",
+    "↓ PTH, ↓ S. Ca2+, ↓ calcitriol"
+   ],
+   "ans": 0,
+   "exp": "↑ PTH; ↑ S. Ca2+ (total & ionised); ↑ U. Ca2+ & phosphate; ↓ S. phosphorous; ↑ calcitriol. (Book p112)"
+  },
+  {
+   "id": "SURG-C17-022",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "The IOC investigation for a parathyroid adenoma is:",
+   "opts": [
+    "Tc99m sestamibi scan",
+    "USG neck alone",
+    "4D CT",
+    "MRI neck"
+   ],
+   "ans": 0,
+   "exp": "Tc99m sestamibi scan: IOC (USG neck also part of workup). (Book p112)"
+  },
+  {
+   "id": "SURG-C17-023",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "Tc99 localises in a PTH adenoma because the adenoma is rich in:",
+   "opts": [
+    "Mitochondria",
+    "Lysosomes",
+    "Glycogen",
+    "Melanin"
+   ],
+   "ans": 0,
+   "exp": "Tc99 localises in PTH adenoma (rich in mitochondria). (Book p112)"
+  },
+  {
+   "id": "SURG-C17-024",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "A false positive on sestamibi scan is:",
+   "opts": [
+    "Warthin tumour",
+    "Pleomorphic adenoma",
+    "Branchial cyst",
+    "Thyroglossal cyst"
+   ],
+   "ans": 0,
+   "exp": "False positive: Warthin tumour (rich in mitochondria). (Book p112)"
+  },
+  {
+   "id": "SURG-C17-025",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "page": 112,
+   "q": "SPECT, the m/c type of sestamibi imaging, stands for:",
+   "opts": [
+    "Single Photon Emission CT",
+    "Single Proton Emission Count",
+    "Sequential Photon Energy CT",
+    "Single Photon Energy Tomography"
+   ],
+   "ans": 0,
+   "exp": "Types: single isotope dual phase; dual isotope subtraction imaging; SPECT: Single Photon Emission CT (m/c). (Book p112)"
+  },
+  {
+   "id": "SURG-C17-026",
+   "sec": "Localisation of Adenoma & Mx of Adenoma",
+   "page": 113,
+   "q": "Concordant imaging on sestamibi scan & USG leads to:",
+   "opts": [
+    "Pre-op marking with USG → minimally invasive parathyroidectomy (MIP)",
+    "4D CT → 4 gland exploration",
+    "Open bilateral exploration directly",
+    "Repeat sestamibi after 6 months"
+   ],
+   "ans": 0,
+   "exp": "Concordant imaging → pre-op marking with USG → minimally invasive parathyroidectomy (MIP). (Book p113)"
+  },
+  {
+   "id": "SURG-C17-027",
+   "sec": "Localisation of Adenoma & Mx of Adenoma",
+   "page": 113,
+   "q": "Discordant imaging on sestamibi scan & USG is followed by:",
+   "opts": [
+    "4D CT",
+    "MRI neck",
+    "PET scan",
+    "No further imaging"
+   ],
+   "ans": 0,
+   "exp": "Discordant imaging → 4D CT → 4 gland exploration or pre-op marking with USG and MIP. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-028",
+   "sec": "Localisation of Adenoma & Mx of Adenoma",
+   "page": 113,
+   "q": "Management of a parathyroid adenoma is:",
+   "opts": [
+    "Removal of adenomatous gland (MIP or open removal)",
+    "Total thyroidectomy",
+    "Calcium supplementation alone",
+    "Radioiodine ablation"
+   ],
+   "ans": 0,
+   "exp": "Mx of adenoma: removal of adenomatous gland - minimally invasive parathyroidectomy (MIP) or open removal. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-029",
+   "sec": "Localisation of Adenoma & Mx of Adenoma",
+   "page": 113,
+   "q": "Steps to ensure correct gland removal in MIP are pre-op marking with USG and the:",
+   "opts": [
+    "Miami protocol",
+    "Rome protocol",
+    "Tokyo protocol",
+    "Paris protocol"
+   ],
+   "ans": 0,
+   "exp": "Steps: 1. Pre-op marking with USG 2. Miami protocol. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-030",
+   "sec": "Localisation of Adenoma & Mx of Adenoma",
+   "page": 113,
+   "q": "In the Miami protocol, success is confirmed when the PTH level 10-15 mins after gland removal falls by:",
+   "opts": [
+    "> 50%",
+    "> 5%",
+    "> 90%",
+    "No fall required"
+   ],
+   "ans": 0,
+   "exp": "Miami protocol: pre-op PTH level → 10-15 mins after gland removal → ↓ PTH by > 50%. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-031",
+   "sec": "Management of Hyperplasia & Thymectomy",
+   "page": 113,
+   "q": "Minimally invasive surgery (MIS) for parathyroid hyperplasia is indicated in:",
+   "opts": [
+    "Multigland disease, familial syndromes, lithium induced",
+    "Single sporadic adenoma only",
+    "Parathyroid carcinoma",
+    "Ectopic mediastinal adenoma"
+   ],
+   "ans": 0,
+   "exp": "MIS for hyperplasia: C/I - multigland disease, familial syndromes, lithium induced. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-032",
+   "sec": "Management of Hyperplasia & Thymectomy",
+   "page": 113,
+   "q": "In subtotal parathyroidectomy for hyperplasia:",
+   "opts": [
+    "3½ glands removed, ½ gland retained in neck",
+    "All 4 glands removed with autotransplant",
+    "2 glands removed",
+    "1 gland removed"
+   ],
+   "ans": 0,
+   "exp": "3½ glands removed, ½ gland retained in neck; disadvantage: Sx difficult in recurrence d/t fibrosis. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-033",
+   "sec": "Management of Hyperplasia & Thymectomy",
+   "page": 113,
+   "q": "In total parathyroidectomy with autotransplantation, ½ gland is placed in the:",
+   "opts": [
+    "Brachioradialis of the non-dominant hand",
+    "Sternocleidomastoid",
+    "Rectus abdominis",
+    "Quadriceps of the dominant leg"
+   ],
+   "ans": 0,
+   "exp": "4 glands removed; ½ gland autotransplanted in brachioradialis (of non-dominant hand); advantage: easy removal in recurrence. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-034",
+   "sec": "Management of Hyperplasia & Thymectomy",
+   "page": 113,
+   "q": "Thymectomy during parathyroid surgery is indicated for:",
+   "opts": [
+    "Involvement of lower PTH glands, 2° hyperparathyroidism, familial syndromes",
+    "Superior gland adenoma only",
+    "Hypercalcemic crisis",
+    "Hungry bone syndrome"
+   ],
+   "ans": 0,
+   "exp": "Thymectomy indication: involvement of lower PTH gland, 2° hyperparathyroidism, familial syndromes. (Book p113)"
+  },
+  {
+   "id": "SURG-C17-035",
+   "sec": "Management of Hyperplasia & Thymectomy",
+   "page": 114,
+   "q": "Why is the PTH gland NOT transplanted into the sternocleidomastoid?",
+   "opts": [
+    "Injury to gland during thyroidectomy",
+    "Poor cosmetic result",
+    "Risk of airway obstruction",
+    "Inadequate blood supply"
+   ],
+   "ans": 0,
+   "exp": "Note: transplantation of PTH gland in sternocleidomastoid → injury to gland during thyroidectomy. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-036",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "Indications for Sx in asymptomatic hyperparathyroidism include serum calcium:",
+   "opts": [
+    "> 1 mg/dl above reference range",
+    "> 4 mg/dl above reference",
+    "Equal to reference",
+    "Below reference"
+   ],
+   "ans": 0,
+   "exp": "S. calcium > 1 mg/dl above reference range. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-037",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "Which complication lists as an indication for Sx in asymptomatic hyperparathyroidism?",
+   "opts": [
+    "Nephrolithiasis",
+    "Cholelithiasis",
+    "Appendicitis",
+    "Pancreatic cancer"
+   ],
+   "ans": 0,
+   "exp": "Complications: e.g. nephrolithiasis; life threatening hypercalcemic episode. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-038",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "Severe hypercalciuria indicating surgery in asymptomatic disease is:",
+   "opts": [
+    "> 400 mg/24 hrs",
+    "> 100 mg/24 hrs",
+    "> 50 mg/24 hrs",
+    "> 1000 mg/24 hrs"
+   ],
+   "ans": 0,
+   "exp": "Severe hypercalciuria (> 400 mg/24 hrs). (Book p114)"
+  },
+  {
+   "id": "SURG-C17-039",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "Other indications for Sx in asymptomatic hyperparathyroidism are:",
+   "opts": [
+    "↓ bone mass (osteoporosis) and age < 50 yrs",
+    "↑ bone mass and age > 70 yrs",
+    "Osteopetrosis at any age",
+    "Age > 60 yrs only"
+   ],
+   "ans": 0,
+   "exp": "↓ bone mass: osteoporosis; age < 50 yrs. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-040",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "Residual hyperparathyroidism is defined as ↑ PTH:",
+   "opts": [
+    "Within 6 weeks",
+    "6 months after normalisation",
+    "1 year after surgery",
+    "Immediately within 24 hrs"
+   ],
+   "ans": 0,
+   "exp": "Residual hyperPTH: ↑ PTH within 6 weeks. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-041",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "Recurrent hyperparathyroidism is defined as ↑ PTH:",
+   "opts": [
+    "6 months after normalisation",
+    "Within 6 weeks",
+    "Within 48 hours",
+    "Without ever normalising"
+   ],
+   "ans": 0,
+   "exp": "Recurrent hyperPTH: ↑ PTH 6 months after normalisation. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-042",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "The Casanova test measures PTH in neck & arm veins; recurrence is positive when:",
+   "opts": [
+    "Arm vein PTH = 20 × neck vein PTH",
+    "Neck vein PTH equals arm vein PTH",
+    "PTH is undetectable in both",
+    "Arm vein PTH = half of neck vein PTH"
+   ],
+   "ans": 0,
+   "exp": "Casanova test: measures PTH in neck & arm veins; arm vein PTH = 20 × neck vein PTH → recurrence +ve → removal of gland. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-043",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "page": 114,
+   "q": "Hungry bone syndrome after PTH gland removal is:",
+   "opts": [
+    "Ca2+ influx into bones → hypocalcemia",
+    "Ca2+ efflux from bones → hypercalcemia",
+    "Phosphate influx into brain",
+    "Marrow suppression"
+   ],
+   "ans": 0,
+   "exp": "Hungry bone syndrome: post PTH gland removal → Ca2+ influx into bones → hypocalcemia. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-044",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "Hypercalcemic crisis is seen in:",
+   "opts": [
+    "1° hyperparathyroidism & hypercalcemia of malignancy",
+    "Hypoparathyroidism",
+    "Hungry bone syndrome",
+    "Vit D deficiency"
+   ],
+   "ans": 0,
+   "exp": "Seen in 1° hyperparathyroidism & hypercalcemia of malignancy (paraneoplastic). (Book p114)"
+  },
+  {
+   "id": "SURG-C17-045",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "Hypercalcemia of malignancy (paraneoplastic) in hypercalcemic crisis is classically seen with:",
+   "opts": [
+    "Squamous cell cancer, breast cancer, prostate cancer",
+    "Colon cancer only",
+    "Thyroid cancer",
+    "GIST"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcemia of malignancy (paraneoplastic syndrome): squamous cell cancer, breast cancer, prostate cancer. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-046",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "Hypercalcemic crisis is a medical emergency defined by Ca2+:",
+   "opts": [
+    "> 14 mg/dl",
+    "> 10 mg/dl",
+    "> 8 mg/dl",
+    "> 20 mg/dl"
+   ],
+   "ans": 0,
+   "exp": "Ca2+ > 14 mg/dl. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-047",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "Symptoms of hypercalcemic crisis include all EXCEPT:",
+   "opts": [
+    "Hyperactivity",
+    "Confusion",
+    "Nausea & vomiting",
+    "Abdominal pain"
+   ],
+   "ans": 0,
+   "exp": "Symptoms: confusion, nausea & vomiting, anuria, dehydration, abdominal pain. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-048",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "ECG changes in hypercalcemic crisis are:",
+   "opts": [
+    "↑ PR interval, ↓ QT interval, arrhythmia",
+    "↓ PR interval, ↑ QT interval",
+    "Peaked T waves only",
+    "Widened QRS only"
+   ],
+   "ans": 0,
+   "exp": "ECG changes: ↑ PR interval, ↓ QT interval, arrhythmia. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-049",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "Ca2+ above what level causes cardiac arrest in hypercalcemic crisis?",
+   "opts": [
+    "> 16 mg/dl",
+    "> 14 mg/dl",
+    "> 12 mg/dl",
+    "> 20 mg/dl"
+   ],
+   "ans": 0,
+   "exp": "Ca2+ > 16 mg/dl → cardiac arrest. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-050",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "The first step in management of hypercalcemic crisis is:",
+   "opts": [
+    "Aggressive IV fluid therapy",
+    "IV calcium gluconate",
+    "Calcitonin",
+    "Dialysis"
+   ],
+   "ans": 0,
+   "exp": "Aggressive IV fluid therapy: first step. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-051",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "The diuretic used in hypercalcemic crisis management is:",
+   "opts": [
+    "Furosemide",
+    "Thiazide",
+    "Spironolactone",
+    "Acetazolamide"
+   ],
+   "ans": 0,
+   "exp": "Diuretics: furosemide. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-052",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "Bisphosphonates in hypercalcemic crisis (if RFT & urine output normal) act on the:",
+   "opts": [
+    "Osteoclast",
+    "Osteoblast",
+    "Chondrocyte",
+    "Fibroblast"
+   ],
+   "ans": 0,
+   "exp": "Bisphosphonates if RFT & urine output are normal; acts on osteoclast; calcitonin added if zoledronic acid/denosumab is given. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-053",
+   "sec": "Hypercalcemic Crisis",
+   "page": 114,
+   "q": "Dialysis in hypercalcemic crisis is reserved for:",
+   "opts": [
+    "Failure of other methods",
+    "First-line use",
+    "Hypocalcemia",
+    "Routine use"
+   ],
+   "ans": 0,
+   "exp": "Dialysis: if failure of other methods. (Book p114)"
+  },
+  {
+   "id": "SURG-C17-054",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "Secondary hyperparathyroidism is associated with:",
+   "opts": [
+    "PTH hyperplasia",
+    "PTH atrophy",
+    "Parathyroid carcinoma",
+    "Single adenoma"
+   ],
+   "ans": 0,
+   "exp": "Associated with PTH hyperplasia. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-055",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "The m/c cause of secondary hyperparathyroidism is:",
+   "opts": [
+    "Chronic renal failure",
+    "Vit D excess",
+    "Primary adenoma",
+    "Lithium withdrawal"
+   ],
+   "ans": 0,
+   "exp": "Chronic renal failure (m/c). (Book p115)"
+  },
+  {
+   "id": "SURG-C17-056",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "In chronic renal failure, secondary hyperparathyroidism develops because of:",
+   "opts": [
+    "Failure of hydroxylation of vit D → ↓ vit D3 / ↓ S. Ca2+ → PTH hyperplasia",
+    "Excess calcitriol",
+    "↑ S. Ca2+",
+    "↑ phosphate excretion"
+   ],
+   "ans": 0,
+   "exp": "Failure of hydroxylation of vit D → ↓ vit D3 / ↓ S. Ca2+ → PTH hyperplasia; reversible cause of 2° hyperPTH. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-057",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "Other causes of secondary hyperparathyroidism include defective intestinal absorption, vit D3 deficiency and:",
+   "opts": [
+    "Lithium intake",
+    "Calcium excess",
+    "Thiazides",
+    "Radiation"
+   ],
+   "ans": 0,
+   "exp": "Causes: defective intestinal absorption, lithium intake, vit D3 deficiency. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-058",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "Investigations in secondary hyperparathyroidism show:",
+   "opts": [
+    "N/↓ S. Ca, ↑ S. phosphorous, ↓ calcitriol, ↑ PTH",
+    "↑ S. Ca, ↓ S. phosphorous",
+    "Normal PTH",
+    "↑ calcitriol"
+   ],
+   "ans": 0,
+   "exp": "N/↓ S. Ca (total & ionized); ↑ S. phosphorous; ↓ calcitriol; ↑ PTH. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-059",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "The mainstay of treatment of secondary hyperparathyroidism is:",
+   "opts": [
+    "Renal transplantation",
+    "Parathyroidectomy first-line",
+    "Calcium restriction",
+    "Thyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "Correction of chronic renal failure; renal transplantation: mainstay of Rx. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-060",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "The calcimimetic used in secondary hyperparathyroidism is:",
+   "opts": [
+    "Cinacalcet",
+    "Calcitriol",
+    "Calcium carbonate",
+    "Furosemide"
+   ],
+   "ans": 0,
+   "exp": "Cinacalcet: calcimimetics - acts on Ca2+ sensing receptors; ↓ requirement of Sx. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-061",
+   "sec": "Secondary Hyperparathyroidism",
+   "page": 115,
+   "q": "Which is TRUE for secondary hyperparathyroidism?",
+   "opts": [
+    "No localisation of gland is required; surgery = mx of hyperplasia",
+    "Sestamibi localisation is mandatory",
+    "Surgery removes only an adenoma",
+    "Vit D3 is contraindicated"
+   ],
+   "ans": 0,
+   "exp": "No localisation of gland required; surgery: mx of hyperplasia; also vit D3 supplementation & low phosphate diet. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-062",
+   "sec": "Tertiary Hyperparathyroidism",
+   "page": 115,
+   "q": "Tertiary hyperparathyroidism is:",
+   "opts": [
+    "Persistent autonomous hypercalcemic hyperPTH post kidney transplant",
+    "HyperPTH before dialysis",
+    "HypoPTH post transplant",
+    "Ectopic PTH from the thymus"
+   ],
+   "ans": 0,
+   "exp": "Causes: persistent autonomous hypercalcemic hyperPTH post kidney transplant. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-063",
+   "sec": "Tertiary Hyperparathyroidism",
+   "page": 115,
+   "q": "Investigations in tertiary hyperparathyroidism show:",
+   "opts": [
+    "↑ PTH, ↑ S. Ca2+, ↓ S. phosphate; USG neck confirms nodular enlargement",
+    "↓ PTH, ↓ S. Ca2+",
+    "Normal USG neck",
+    "↑ S. phosphate"
+   ],
+   "ans": 0,
+   "exp": "↑ PTH; ↑ S. Ca2+; ↓ S. phosphate; USG neck: confirms nodular enlargement. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-064",
+   "sec": "Tertiary Hyperparathyroidism",
+   "page": 115,
+   "q": "Treatment of tertiary hyperparathyroidism is:",
+   "opts": [
+    "Subtotal parathyroidectomy (mainstay) or embolisation of gland",
+    "Total thyroidectomy",
+    "Calcitonin only",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Subtotal parathyroidectomy (mainstay); embolisation of gland. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-065",
+   "sec": "Miscellaneous: Calciphylaxis",
+   "page": 115,
+   "q": "Calciphylaxis (hypercalcemic uremic arteriopathy) is seen in:",
+   "opts": [
+    "Chronic dialysis",
+    "Acute asthma",
+    "Primary hyperparathyroidism",
+    "Pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Seen in chronic dialysis; hypercalcemic uremic arteriopathy. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-066",
+   "sec": "Miscellaneous: Calciphylaxis",
+   "page": 115,
+   "q": "Calciphylaxis causes Ca2+ deposition in skin, blood vessels & soft tissues leading to:",
+   "opts": [
+    "Gangrene, painful purpura, calcification in breast",
+    "Osteoporosis",
+    "Nephrolithiasis",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Ca2+ deposition → a. gangrene b. painful purpura c. calcification in breast. (Book p115)"
+  },
+  {
+   "id": "SURG-C17-067",
+   "sec": "Pseudohyperparathyroidism",
+   "page": 116,
+   "q": "Pseudohyperparathyroidism (AKA hypercalcemia of malignancy) is a:",
+   "opts": [
+    "PTHrp mediated paraneoplastic syndrome",
+    "PTH mediated endocrine state",
+    "Calcitonin mediated syndrome",
+    "Vit D mediated syndrome"
+   ],
+   "ans": 0,
+   "exp": "AKA hypercalcemia of malignancy; paraneoplastic syndrome; PTH related peptide (PTHrp) mediated. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-068",
+   "sec": "Pseudohyperparathyroidism",
+   "page": 116,
+   "q": "Pseudohyperparathyroidism is m/c seen in:",
+   "opts": [
+    "Squamous cell carcinoma of lung",
+    "Renal cell carcinoma only",
+    "Colon cancer",
+    "Thyroid cancer"
+   ],
+   "ans": 0,
+   "exp": "Seen in squamous cell carcinoma of lung (m/c), breast cancer, prostate cancer. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-069",
+   "sec": "Pseudohyperparathyroidism",
+   "page": 116,
+   "q": "Investigations in pseudohyperparathyroidism show:",
+   "opts": [
+    "↑ S. Ca, normal S. phosphorous, N/↓ calcitriol & PTH, ↑ PTHrp",
+    "↑ PTH",
+    "↓ S. Ca",
+    "↑ calcitriol"
+   ],
+   "ans": 0,
+   "exp": "↑ S. Ca; normal S. phosphorous; N/↓ calcitriol, PTH; ↑ PTHrp. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-070",
+   "sec": "Pseudohyperparathyroidism",
+   "page": 116,
+   "q": "Management of pseudohyperparathyroidism is:",
+   "opts": [
+    "Same as hypercalcemic crisis",
+    "Subtotal parathyroidectomy",
+    "Cinacalcet only",
+    "Neck exploration"
+   ],
+   "ans": 0,
+   "exp": "Same as hypercalcemic crisis. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-071",
+   "sec": "Parathyroid Cancer",
+   "page": 116,
+   "q": "Risk factors for parathyroid cancer are:",
+   "opts": [
+    "Radiation exposure & HRPT2 gene",
+    "Lithium intake",
+    "Vit D deficiency",
+    "MEN2B"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: radiation exposure; HRPT2 gene. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-072",
+   "sec": "Parathyroid Cancer",
+   "page": 116,
+   "q": "HPE of parathyroid cancer shows fibrous bands & vascular invasion; IHC shows inactivation of:",
+   "opts": [
+    "Parafibromin",
+    "Thyroglobulin",
+    "Calcitonin",
+    "Menin"
+   ],
+   "ans": 0,
+   "exp": "HPE: fibrous bands & vascular invasion; IHC: inactivation of parafibromin. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-073",
+   "sec": "Parathyroid Cancer",
+   "page": 116,
+   "q": "The m/c cause of death in parathyroid cancer is:",
+   "opts": [
+    "Hypercalcemic crisis (arrhythmia)",
+    "Airway obstruction",
+    "Haemorrhage",
+    "Hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Features of hypercalcemia; hypercalcemic crisis (arrhythmia): m/c cause of death. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-074",
+   "sec": "Parathyroid Cancer",
+   "page": 116,
+   "q": "Management of parathyroid cancer is:",
+   "opts": [
+    "Surgery: R0 resection (microscopic clearance); octreotide & cinacalcet ↓ symptoms",
+    "Radioiodine ablation",
+    "FNAC ablation",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Surgery: R0 resection (microscopic clearance); octreotide, cinacalcet → ↓ symptoms. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-075",
+   "sec": "Hypoparathyroidism & DiGeorge Syndrome",
+   "page": 116,
+   "q": "The m/c cause of hypoparathyroidism is:",
+   "opts": [
+    "Iatrogenic",
+    "DiGeorge syndrome",
+    "Autoimmune",
+    "Magnesium excess"
+   ],
+   "ans": 0,
+   "exp": "1. Iatrogenic (m/c) 2. DiGeorge syndrome. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-076",
+   "sec": "Hypoparathyroidism & DiGeorge Syndrome",
+   "page": 116,
+   "q": "DiGeorge syndrome (mnemonic CATCH 22) is caused by:",
+   "opts": [
+    "Deletion of 22q11",
+    "Trisomy 21",
+    "Deletion of 11p",
+    "RET mutation"
+   ],
+   "ans": 0,
+   "exp": "Deletion of 22q11. (Book p116)"
+  },
+  {
+   "id": "SURG-C17-077",
+   "sec": "Hypoparathyroidism & DiGeorge Syndrome",
+   "page": 116,
+   "q": "The 'H' in the CATCH 22 mnemonic of DiGeorge syndrome stands for:",
+   "opts": [
+    "Hypocalcemia",
+    "Hypercalcemia",
+    "Hypokalemia",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "CATCH 22: Cardiac anomalies, Atypical facies, Thymic hypoplasia, Cleft lip & palate, Hypocalcemia; 22 = deletion 22q11. (Book p116)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U17-1",
+   "ch": 17,
+   "n": 1,
+   "title": "Surgical Anatomy & Physiology",
+   "sec": "Surgical Anatomy & Physiology · p111",
+   "qs": [
+    "SURG-C17-001",
+    "SURG-C17-002",
+    "SURG-C17-003",
+    "SURG-C17-004",
+    "SURG-C17-005",
+    "SURG-C17-006",
+    "SURG-C17-007",
+    "SURG-C17-008"
+   ],
+   "guide": "Superior parathyroid from 4th pouch (constant, posterior thyroid), inferior from 3rd pouch (variable) like the thymus - so thymus goes with the inferior gland to ↑ yield; 5% have 5 glands. Identify by the golden-yellow sentinel fat pad (turns dusky on touch); PTH (t½ 5-7 mins) raises plasma Ca2+."
+  },
+  {
+   "id": "SURG-U17-2",
+   "ch": 17,
+   "n": 2,
+   "title": "Clinical Features of Hyperparathyroidism",
+   "sec": "Clinical Features of Hyperparathyroidism · p111",
+   "qs": [
+    "SURG-C17-009",
+    "SURG-C17-010",
+    "SURG-C17-011",
+    "SURG-C17-012",
+    "SURG-C17-013",
+    "SURG-C17-014",
+    "SURG-C17-015",
+    "SURG-C17-016"
+   ],
+   "guide": "Bones, stones, abdominal groans, psychiatric overtones: pathological fractures, subperiosteal resorption m/c radial side, salt & pepper skull, brown tumor = osteitis fibrosa cystica (von Recklinghausen bone disease); recurrent multiple radiopaque calcium-oxalate renal stones; colic & pancreatitis."
+  },
+  {
+   "id": "SURG-U17-3",
+   "ch": 17,
+   "n": 3,
+   "title": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation",
+   "sec": "Primary Hyperparathyroidism: Causes, Risk Factors & Investigation · p112",
+   "qs": [
+    "SURG-C17-017",
+    "SURG-C17-018",
+    "SURG-C17-019",
+    "SURG-C17-020",
+    "SURG-C17-021",
+    "SURG-C17-022",
+    "SURG-C17-023",
+    "SURG-C17-024",
+    "SURG-C17-025"
+   ],
+   "guide": "Adenoma (1 gland) >> hyperplasia (4 glands); risks radiation & MEN1/2A (familial, multiglandular). Biochem: ↑PTH, ↑S.Ca, ↑U.Ca/phosphate, ↓S.phosphate, ↑calcitriol. Sestamibi = IOC (Tc99 sticks to mitochondria-rich adenoma; Warthin tumor false +); SPECT = Single Photon Emission CT m/c."
+  },
+  {
+   "id": "SURG-U17-4",
+   "ch": 17,
+   "n": 4,
+   "title": "Localisation of Adenoma & Mx of Adenoma",
+   "sec": "Localisation of Adenoma & Mx of Adenoma · p113",
+   "qs": [
+    "SURG-C17-026",
+    "SURG-C17-027",
+    "SURG-C17-028",
+    "SURG-C17-029",
+    "SURG-C17-030"
+   ],
+   "guide": "Concordant sestamibi+USG → USG-marked MIP; discordant → 4D CT → 4-gland exploration or USG-marked MIP. Adenoma mx = remove the gland (MIP/open); correct gland ensured by USG marking + Miami protocol (PTH ↓ >50% at 10-15 min post-removal)."
+  },
+  {
+   "id": "SURG-U17-5",
+   "ch": 17,
+   "n": 5,
+   "title": "Management of Hyperplasia & Thymectomy",
+   "sec": "Management of Hyperplasia & Thymectomy · p113",
+   "qs": [
+    "SURG-C17-031",
+    "SURG-C17-032",
+    "SURG-C17-033",
+    "SURG-C17-034",
+    "SURG-C17-035"
+   ],
+   "guide": "Hyperplasia MIS for multigland/familial/lithium: subtotal 3½ removed (½ in neck, but recurrence Sx hard d/t fibrosis) or total + ½ autotransplant in non-dominant brachioradialis (easy re-excision). Thymectomy for lower-gland involvement, 2° hyperPTH, familial; never implant into sternocleidomastoid - thyroidectomy would injure it."
+  },
+  {
+   "id": "SURG-U17-6",
+   "ch": 17,
+   "n": 6,
+   "title": "Sx in Asymptomatic Hyperparathyroidism & Complications",
+   "sec": "Sx in Asymptomatic Hyperparathyroidism & Complications · p114",
+   "qs": [
+    "SURG-C17-036",
+    "SURG-C17-037",
+    "SURG-C17-038",
+    "SURG-C17-039",
+    "SURG-C17-040",
+    "SURG-C17-041",
+    "SURG-C17-042",
+    "SURG-C17-043"
+   ],
+   "guide": "Asymptomatic Sx if S.Ca >1 above reference, nephrolithiasis/life-threatening episode, hypercalciuria >400mg/24h, osteoporosis, age <50. Residual = ↑PTH within 6 wks; recurrent = ↑PTH 6 months after normal (Casanova neck/arm vein test, +ve → remove gland). Hungry bone: Ca2+ floods into bones → hypocalcemia."
+  },
+  {
+   "id": "SURG-U17-7",
+   "ch": 17,
+   "n": 7,
+   "title": "Hypercalcemic Crisis",
+   "sec": "Hypercalcemic Crisis · p114",
+   "qs": [
+    "SURG-C17-044",
+    "SURG-C17-045",
+    "SURG-C17-046",
+    "SURG-C17-047",
+    "SURG-C17-048",
+    "SURG-C17-049",
+    "SURG-C17-050",
+    "SURG-C17-051",
+    "SURG-C17-052",
+    "SURG-C17-053"
+   ],
+   "guide": "Emergency at Ca >14 (arrest >16) in 1° hyperPTH or malignancy (squamous lung, breast, prostate). Confusion, vomiting, anuria, dehydration, abdominal pain; ECG ↑PR ↓QT arrhythmia. Rx: aggressive IV fluids first, furosemide, bisphosphonates (osteoclast) + calcitonin, dialysis if all fail."
+  },
+  {
+   "id": "SURG-U17-8",
+   "ch": 17,
+   "n": 8,
+   "title": "Secondary Hyperparathyroidism",
+   "sec": "Secondary Hyperparathyroidism · p115",
+   "qs": [
+    "SURG-C17-054",
+    "SURG-C17-055",
+    "SURG-C17-056",
+    "SURG-C17-057",
+    "SURG-C17-058",
+    "SURG-C17-059",
+    "SURG-C17-060",
+    "SURG-C17-061"
+   ],
+   "guide": "2° = PTH hyperplasia from chronic renal failure (m/c: failed vit D hydroxylation → ↓D3/↓Ca), malabsorption, lithium, D3 deficiency. N/↓ Ca, ↑ phosphate, ↓ calcitriol, ↑ PTH. Rx: fix CRF (renal transplant mainstay), D3, low-phosphate diet, cinacalcet (calcimimetic on Ca-sensing receptor); no localisation needed, surgery treats hyperplasia."
+  },
+  {
+   "id": "SURG-U17-9",
+   "ch": 17,
+   "n": 9,
+   "title": "Tertiary Hyperparathyroidism",
+   "sec": "Tertiary Hyperparathyroidism · p115",
+   "qs": [
+    "SURG-C17-062",
+    "SURG-C17-063",
+    "SURG-C17-064"
+   ],
+   "guide": "Tertiary = persistent autonomous hypercalcemic hyperPTH after kidney transplant: ↑PTH, ↑Ca, ↓ phosphate, nodular glands on USG. Rx subtotal parathyroidectomy (mainstay) or gland embolisation."
+  },
+  {
+   "id": "SURG-U17-10",
+   "ch": 17,
+   "n": 10,
+   "title": "Miscellaneous: Calciphylaxis",
+   "sec": "Miscellaneous: Calciphylaxis · p115",
+   "qs": [
+    "SURG-C17-065",
+    "SURG-C17-066"
+   ],
+   "guide": "Calciphylaxis in chronic dialysis: hypercalcemic uremic arteriopathy - Ca2+ deposits in skin/vessels/soft tissue → gangrene, painful purpura, breast calcification."
+  },
+  {
+   "id": "SURG-U17-11",
+   "ch": 17,
+   "n": 11,
+   "title": "Pseudohyperparathyroidism",
+   "sec": "Pseudohyperparathyroidism · p116",
+   "qs": [
+    "SURG-C17-067",
+    "SURG-C17-068",
+    "SURG-C17-069",
+    "SURG-C17-070"
+   ],
+   "guide": "Pseudohyperparathyroidism = hypercalcemia of malignancy, PTHrp-mediated paraneoplastic (squamous lung m/c, breast, prostate): ↑Ca, normal phosphate, N/↓ PTH & calcitriol, ↑PTHrp; treat like hypercalcemic crisis."
+  },
+  {
+   "id": "SURG-U17-12",
+   "ch": 17,
+   "n": 12,
+   "title": "Parathyroid Cancer",
+   "sec": "Parathyroid Cancer · p116",
+   "qs": [
+    "SURG-C17-071",
+    "SURG-C17-072",
+    "SURG-C17-073",
+    "SURG-C17-074"
+   ],
+   "guide": "Rare cancer: radiation & HRPT2 risks; HPE fibrous bands + vascular invasion, IHC parafibromin inactivation. Death m/c from hypercalcemic crisis arrhythmia; Rx R0 resection, octreotide/cinacalcet for symptoms."
+  },
+  {
+   "id": "SURG-U17-13",
+   "ch": 17,
+   "n": 13,
+   "title": "Hypoparathyroidism & DiGeorge Syndrome",
+   "sec": "Hypoparathyroidism & DiGeorge Syndrome · p116",
+   "qs": [
+    "SURG-C17-075",
+    "SURG-C17-076",
+    "SURG-C17-077"
+   ],
+   "guide": "Hypoparathyroidism: iatrogenic m/c then DiGeorge (CATCH 22 = 22q11 deletion: Cardiac anomalies, Atypical facies, Thymic hypoplasia, Cleft lip/palate, Hypocalcemia)."
+  }
+ ]
+}

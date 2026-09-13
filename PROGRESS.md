@@ -95,12 +95,12 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch9 Breast : Part 1 — p49-54 — **DONE (85 qs, 10 units)** 2026-09-13
 - [x] ch10 Breast : Part 2 — p55-60 — **DONE (96 qs, 11 units)** 2026-09-13
 - [x] ch11 Breast : Part 3 — p61-67 — **DONE (90 qs, 11 units)** 2026-09-13
-- [ ] ch12 Breast : Part 4 — p68-74 — Soon
-- [ ] ch13 Breast : Part 5 — p75-81 — Soon
-- [ ] ch14 Thyroid : Part 1 — p82-89 — Soon
-- [ ] ch15 Thyroid : Part 2 — p90-101 — Soon
-- [ ] ch16 Thyroid : Part 3 — p102-110 — Soon
-- [ ] ch17 Parathyroid — p111-116 — Soon
+- [x] ch12 Breast : Part 4 — p68-74 — **DONE (132 qs, 14 units)** 2026-09-13
+- [x] ch13 Breast : Part 5 — p75-81 — **DONE (117 qs, 13 units)** 2026-09-13
+- [x] ch14 Thyroid : Part 1 — p82-89 — **DONE (104 qs, 13 units)** 2026-09-13
+- [x] ch15 Thyroid : Part 2 — p90-101 — **DONE (128 qs, 20 units)** 2026-09-13
+- [x] ch16 Thyroid : Part 3 — p102-110 — **DONE (107 qs, 14 units)** 2026-09-13
+- [x] ch17 Parathyroid — p111-116 — **DONE (77 qs, 13 units)** 2026-09-13
 - [ ] ch18 Adrenal Glands and Neuroendocrine Tumors — p117-125 — Soon
 - [ ] ch19 Esophagus : Part 1 — p126-134 — Soon
 - [ ] ch20 Esophagus : Part 2 — p135-144 — Soon
@@ -169,9 +169,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **11/72 chapters live** · Questions: 1129 · Units: 132
-- GitHub HTML: **synced at 11/72** (pushed 2026-09-13 after ch11)
-- NEXT: ch12 Breast : Part 4 — p68-74 (v1a pdf 77-83)
+- Local HTML: **17/72 chapters live** · Questions: 1794 · Units: 219
+- GitHub HTML: **synced at 17/72** (pushed 2026-09-13 after ch17)
+- NEXT: ch18 Adrenal Glands and Neuroendocrine Tumors — p117-125 (v1b pdf 36-44)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).

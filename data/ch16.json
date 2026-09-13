@@ -1,0 +1,1751 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C16-001",
+   "sec": "Thyroid Embryology & Lingual Thyroid",
+   "page": 102,
+   "q": "The thyroid gland descends from the tongue starting at:",
+   "opts": [
+    "Foramen caecum",
+    "Tip of tongue",
+    "Vallate papillae",
+    "Root of tongue lateral margin"
+   ],
+   "ans": 0,
+   "exp": "Embryology: foramen caecum (posterior 1/3rd tongue) → thyroglossal tract → thyroid gland; tract obliterates. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-002",
+   "sec": "Thyroid Embryology & Lingual Thyroid",
+   "page": 102,
+   "q": "The foramen caecum lies at the junction of:",
+   "opts": [
+    "Anterior 2/3rd and posterior 1/3rd of tongue",
+    "Anterior 1/3rd and posterior 2/3rd",
+    "Two halves of tongue",
+    "Tongue and floor of mouth"
+   ],
+   "ans": 0,
+   "exp": "Foramen caecum between anterior 2/3rd and posterior 1/3rd of tongue. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-003",
+   "sec": "Thyroid Embryology & Lingual Thyroid",
+   "page": 102,
+   "q": "Lingual thyroid is:",
+   "opts": [
+    "Undescended thyroid tissue just below the tongue",
+    "A persistent thyroglossal tract",
+    "Ectopic ovarian thyroid",
+    "A lateral neck swelling"
+   ],
+   "ans": 0,
+   "exp": "Lingual thyroid: undescended thyroid tissue; site just below the tongue. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-004",
+   "sec": "Thyroid Embryology & Lingual Thyroid",
+   "page": 102,
+   "q": "On clinical examination of lingual thyroid, the swelling causes:",
+   "opts": [
+    "Tongue lifted up",
+    "Tongue deviated laterally",
+    "Tracheal deviation",
+    "Dysphagia lusoria"
+   ],
+   "ans": 0,
+   "exp": "C/F: swelling → tongue lifted up. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-005",
+   "sec": "Thyroid Embryology & Lingual Thyroid",
+   "page": 102,
+   "q": "Before excising a lingual thyroid, USG neck is done to:",
+   "opts": [
+    "Check for normal thyroid tissue in the neck",
+    "Stage a cancer",
+    "Measure the swelling",
+    "Guide FNAC"
+   ],
+   "ans": 0,
+   "exp": "Ix: FNAC shows thyroid tissue; USG neck before Sx to check for normal thyroid tissue. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-006",
+   "sec": "Thyroid Embryology & Lingual Thyroid",
+   "page": 102,
+   "q": "After excision of a lingual thyroid that was the only thyroid tissue, the patient needs:",
+   "opts": [
+    "Thyroxine supplementation",
+    "Radioiodine",
+    "Steroids",
+    "Nothing"
+   ],
+   "ans": 0,
+   "exp": "Mx: excision + thyroxine supplementation if it is the only thyroid tissue. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-007",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 102,
+   "q": "A thyroglossal cyst is due to:",
+   "opts": [
+    "Persistent thyroglossal tract",
+    "Undescended thyroid tissue",
+    "A branchial arch remnant",
+    "Blocked lymphatic"
+   ],
+   "ans": 0,
+   "exp": "Etiology: persistent thyroglossal tract. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-008",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 102,
+   "q": "The most common site of a thyroglossal cyst is:",
+   "opts": [
+    "Subhyoid",
+    "Suprahyoid",
+    "At the tongue base",
+    "Intrathoracic"
+   ],
+   "ans": 0,
+   "exp": "Site: subhyoid (m/c). (Book p102)"
+  },
+  {
+   "id": "SURG-C16-009",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 102,
+   "q": "A thyroglossal cyst presents as a midline neck swelling that moves with:",
+   "opts": [
+    "Deglutition AND protrusion of tongue",
+    "Deglutition only",
+    "Protrusion of tongue only",
+    "Respiration only"
+   ],
+   "ans": 0,
+   "exp": "Midline neck swelling: moves with deglutition & protrusion of tongue. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-010",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 102,
+   "q": "The Sistrunk procedure removes:",
+   "opts": [
+    "Cyst + part of hyoid bone + tract till base of tongue",
+    "Cyst only",
+    "Cyst + whole hyoid + sternum",
+    "Cyst + thyroid isthmus"
+   ],
+   "ans": 0,
+   "exp": "Sistrunk: removal of cyst + part of hyoid bone + tract till base of tongue. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-011",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 102,
+   "q": "Incision & drainage of a thyroglossal cyst is never done because it leads to:",
+   "opts": [
+    "Thyroglossal fistula",
+    "Malignant change",
+    "Hypothyroidism",
+    "Airway obstruction"
+   ],
+   "ans": 0,
+   "exp": "Incision & drainage → thyroglossal fistula: NEVER done. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-012",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 102,
+   "q": "Complications of a thyroglossal cyst include thyroglossal fistula and:",
+   "opts": [
+    "Papillary thyroid carcinoma (long standing cases)",
+    "Follicular carcinoma",
+    "Medullary carcinoma",
+    "Anaplastic carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Complications: 1. Thyroglossal fistula (mx: Sistrunk); 2. Papillary thyroid carcinoma in long standing cases. (Book p102)"
+  },
+  {
+   "id": "SURG-C16-013",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 103,
+   "q": "An inflamed thyroglossal cyst can lead to:",
+   "opts": [
+    "Fistula",
+    "Carcinoma",
+    "Hypothyroidism",
+    "Lingual thyroid"
+   ],
+   "ans": 0,
+   "exp": "Inflamed thyroglossal cyst can lead to fistula. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-014",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "page": 103,
+   "q": "Thyroglossal vs branchial fistula: thyroglossal is midline and always acquired; branchial fistula lies:",
+   "opts": [
+    "Lower 1/3rd along sternocleidomastoid; congenital/acquired",
+    "Upper 1/3rd along trapezius; always acquired",
+    "Midline; congenital",
+    "Behind the ear; acquired"
+   ],
+   "ans": 0,
+   "exp": "Branchial fistula: lower 1/3rd along sternocleidomastoid; congenital/acquired (thyroglossal: midline, always acquired). (Book p103)"
+  },
+  {
+   "id": "SURG-C16-015",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "Clinical features of hyperthyroidism include all EXCEPT:",
+   "opts": [
+    "Weight gain",
+    "Weight loss despite good appetite",
+    "Tachycardia",
+    "Heat intolerance"
+   ],
+   "ans": 0,
+   "exp": "Features: thin irritable patient, weight loss DESPITE good appetite, tachycardia, diarrhoea, tremors, heat intolerance, oligomenorrhea. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-016",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "The most common cause of hyperthyroidism with diffuse ↑ uptake on thyroid scan is:",
+   "opts": [
+    "Graves' disease",
+    "Plummer's disease",
+    "Toxic nodular goitre",
+    "Struma ovarii"
+   ],
+   "ans": 0,
+   "exp": "Graves' disease: m/c; diffuse ↑ uptake. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-017",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "Solitary toxic nodule/Plummer's disease shows on thyroid scan:",
+   "opts": [
+    "↑ single hot nodule",
+    "Diffuse ↑",
+    "Multiple hot nodules",
+    "↓ uptake"
+   ],
+   "ans": 0,
+   "exp": "Solitary toxic nodule/Plummer's: ↑ single hot nodule. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-018",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "Toxic nodular goitre shows on scan:",
+   "opts": [
+    "↑ multiple hot nodules",
+    "Single hot nodule",
+    "Diffuse uptake",
+    "Cold nodules only"
+   ],
+   "ans": 0,
+   "exp": "Toxic nodular goitre: ↑ multiple hot nodules. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-019",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "Factitious hyperthyroidism (↑ exogenous intake) shows on thyroid scan:",
+   "opts": [
+    "↓ uptake",
+    "↑ diffuse",
+    "Single hot nodule",
+    "Multiple hot nodules"
+   ],
+   "ans": 0,
+   "exp": "Factitious hyperthyroidism: ↓ uptake (so does struma ovarii - ectopic thyroid in ovary). (Book p103)"
+  },
+  {
+   "id": "SURG-C16-020",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "Jod-Basedow phenomenon is:",
+   "opts": [
+    "Iodine induced hyperthyroidism",
+    "Iodine induced hypothyroidism",
+    "Amiodarone hypothyroidism",
+    "Post-partum thyrotoxicosis"
+   ],
+   "ans": 0,
+   "exp": "Jod-Basedow phenomenon: I2 induced hyperthyroidism (↑ uptake). (Book p103)"
+  },
+  {
+   "id": "SURG-C16-021",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "A TSH secreting pituitary adenoma causes hyperthyroidism with:",
+   "opts": [
+    "↑ TSH and ↑ uptake",
+    "↓ TSH",
+    "↓ uptake",
+    "Normal TSH"
+   ],
+   "ans": 0,
+   "exp": "TSH secreting pituitary adenoma: ↑ TSH, ↑ uptake. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-022",
+   "sec": "Hyperthyroidism: Features & Causes",
+   "page": 103,
+   "q": "Struma ovarii is:",
+   "opts": [
+    "Ectopic thyroid tissue in ovary (↓ neck uptake)",
+    "Ovarian metastasis of thyroid cancer",
+    "A thyroid teratoma",
+    "Hyperthyroidism of pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Struma ovarii: ectopic thyroid tissue in ovary; neck scan ↓. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-023",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 103,
+   "q": "The antithyroid drugs are:",
+   "opts": [
+    "Propylthiouracil (PTU) and carbimazole",
+    "Thyroxine and liothyronine",
+    "Propranolol and nadolol",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Drugs only: 1. PTU; 2. carbimazole. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-024",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 103,
+   "q": "Mechanism of PTU/carbimazole includes:",
+   "opts": [
+    "(-) thyroid peroxidase enzyme and blocking T4 → T3",
+    "Blocking TSH receptors",
+    "Destroying follicles",
+    "Inhibiting iodine uptake only"
+   ],
+   "ans": 0,
+   "exp": "Mechanism: (-) thyroid peroxidase enzyme; T4 →(-) T3 (PTU also blocks peripheral conversion). (Book p103)"
+  },
+  {
+   "id": "SURG-C16-025",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 103,
+   "q": "The antithyroid drug safe in 1st trimester of pregnancy & lactation is:",
+   "opts": [
+    "PTU",
+    "Carbimazole",
+    "Radioiodine",
+    "Aspirin"
+   ],
+   "ans": 0,
+   "exp": "PTU safe in 1st trimester of pregnancy & lactation. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-026",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 103,
+   "q": "The important side effect of antithyroid drugs and its 1st sign are:",
+   "opts": [
+    "Agranulocytosis; sore throat",
+    "Hepatitis; jaundice",
+    "Rash; itching",
+    "Anemia; pallor"
+   ],
+   "ans": 0,
+   "exp": "S/E: agranulocytosis; 1st sign: sore throat. (Book p103)"
+  },
+  {
+   "id": "SURG-C16-027",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 104,
+   "q": "Radioiodine ablation for hyperthyroidism uses I-131 which:",
+   "opts": [
+    "Acts via β rays; t½ 7-8 days",
+    "Acts via α rays; t½ 7 days",
+    "Acts via γ rays; t½ 8 days",
+    "Acts via β rays; t½ 70 days"
+   ],
+   "ans": 0,
+   "exp": "RIA: I131 acts via β rays; t½ 7-8 days. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-028",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 104,
+   "q": "Antithyroid drugs are started how many weeks before surgery?",
+   "opts": [
+    "6-8 weeks",
+    "1-2 weeks",
+    "3-4 days",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "Start antithyroid drugs 6-8 wks before Sx. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-029",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 104,
+   "q": "The long acting β blocker given prior to thyroid surgery is:",
+   "opts": [
+    "Nadolol",
+    "Propranolol",
+    "Atenolol",
+    "Metoprolol"
+   ],
+   "ans": 0,
+   "exp": "Nadolol OD (long acting β blocker) prior to Sx. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-030",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 104,
+   "q": "Nadolol is continued for 7 days post Sx because:",
+   "opts": [
+    "Half life of T3 is 7 days",
+    "Half life of T4 is 7 days",
+    "It prevents wound infection",
+    "It prevents hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Continue 7 days post Sx (half life of T3: 7 days); advantage ↑ sympathetic outflow control; last dose evening before Sx. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-031",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 104,
+   "q": "The last dose of β blocker before thyroid surgery is given:",
+   "opts": [
+    "Evening before Sx",
+    "Morning of Sx",
+    "3 days before",
+    "Not stopped at all"
+   ],
+   "ans": 0,
+   "exp": "Last dose: evening before Sx. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-032",
+   "sec": "Antithyroid Drugs & Pre-op Preparation",
+   "page": 104,
+   "q": "Drugs before thyroid surgery aim to:",
+   "opts": [
+    "Achieve euthyroid state (prevent thyroid storm)",
+    "Shrink the gland only",
+    "Reduce vascularity only",
+    "Prevent hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Drugs: to achieve euthyroid state (prevent thyroid storm). (Book p104)"
+  },
+  {
+   "id": "SURG-C16-033",
+   "sec": "Thyroid Storm",
+   "page": 104,
+   "q": "Thyroid storm is:",
+   "opts": [
+    "Uncontrolled thyrotoxicosis",
+    "Controlled hypothyroidism",
+    "A variant of Hashimoto's",
+    "Post-op hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Thyroid storm: uncontrolled thyrotoxicosis. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-034",
+   "sec": "Thyroid Storm",
+   "page": 104,
+   "q": "The most common etiology of thyroid storm is:",
+   "opts": [
+    "Inadequately prepared patient",
+    "Upper respiratory tract infection",
+    "FNAC",
+    "Anaesthetic agents"
+   ],
+   "ans": 0,
+   "exp": "Etiology: inadequately prepared patient (m/c); URTI; interventions (FNAC); Sx trauma; anaesthetic agents. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-035",
+   "sec": "Thyroid Storm",
+   "page": 104,
+   "q": "The leading cause of death in thyroid storm is:",
+   "opts": [
+    "Arrhythmia (from palpitations)",
+    "Dehydration",
+    "Hyperthermia",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Features: dehydration, hyperthermia, HTN crisis, palpitations → arrhythmia (leading cause of death). (Book p104)"
+  },
+  {
+   "id": "SURG-C16-036",
+   "sec": "Thyroid Storm",
+   "page": 104,
+   "q": "Aggressive IV fluid therapy in thyroid storm prevents dehydration and:",
+   "opts": [
+    "Acute tubular necrosis",
+    "Heart block",
+    "Hypocalcemia",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Aggressive IV fluids: prevent dehydration & acute tubular necrosis. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-037",
+   "sec": "Thyroid Storm",
+   "page": 104,
+   "q": "Hyperthermia in thyroid storm is managed with:",
+   "opts": [
+    "Cold fluids/packs",
+    "Antipyretics only",
+    "Warm blankets",
+    "Dantrolene"
+   ],
+   "ans": 0,
+   "exp": "Hyperthermia: cold fluids/packs. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-038",
+   "sec": "Thyroid Storm",
+   "page": 104,
+   "q": "The large-dose β blocker used in thyroid storm is:",
+   "opts": [
+    "Propranolol",
+    "Nadolol",
+    "Atenolol",
+    "Carvedilol"
+   ],
+   "ans": 0,
+   "exp": "Mx: IV steroid & antibiotics; large dose β blockers (propranolol); PTU/carbimazole. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-039",
+   "sec": "Thyroid Storm",
+   "page": 104,
+   "q": "Which drug must be AVOIDED in thyroid storm as it worsens the condition?",
+   "opts": [
+    "Aspirin",
+    "PTU",
+    "Propranolol",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Avoid aspirin (worsens the condition). (Book p104)"
+  },
+  {
+   "id": "SURG-C16-040",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 104,
+   "q": "Graves' disease is:",
+   "opts": [
+    "Autoimmune condition (female > male), m/c cause of hyperthyroidism",
+    "A viral thyroiditis",
+    "Iodine deficiency disease",
+    "A pituitary adenoma"
+   ],
+   "ans": 0,
+   "exp": "Autoimmune (female > male); m/c cause of hyperthyroidism. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-041",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 104,
+   "q": "The etiology of Graves' disease is:",
+   "opts": [
+    "Thyroid receptor antibodies (TRAb) - stimulating antibodies",
+    "Blocking TSH antibodies",
+    "Anti-TPO antibodies",
+    "Anti-thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "TRAb: stimulating antibodies (earlier called LATS: long acting thyroid stimulating antibodies). (Book p104)"
+  },
+  {
+   "id": "SURG-C16-042",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 104,
+   "q": "The dermopathy of Graves' disease is:",
+   "opts": [
+    "Pretibial myxedema",
+    "Erythema nodosum",
+    "Acanthosis nigricans",
+    "Vitiligo"
+   ],
+   "ans": 0,
+   "exp": "Dermopathy: pretibial myxedema. (Book p104)"
+  },
+  {
+   "id": "SURG-C16-043",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Graves' disease is associated with:",
+   "opts": [
+    "Pernicious anemia & myasthenia gravis",
+    "Addison's only",
+    "Diabetes insipidus",
+    "Celiac disease"
+   ],
+   "ans": 0,
+   "exp": "Associations: pernicious anemia; myasthenia gravis. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-044",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Thyroid acropachy refers to:",
+   "opts": [
+    "Subperiosteal bone formation",
+    "Joint effusions",
+    "Osteoporosis",
+    "Pathological fractures"
+   ],
+   "ans": 0,
+   "exp": "Thyroid acropachy: subperiosteal bone formation. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-045",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Exophthalmos in Graves' shows:",
+   "opts": [
+    "Upper sclera is visible",
+    "Lower sclera hidden",
+    "Conjunctival pallor",
+    "Miosis"
+   ],
+   "ans": 0,
+   "exp": "Exophthalmos: upper sclera is visible. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-046",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Von Graefe's sign and Dalrymple's sign (lid lag & lid retraction) are due to:",
+   "opts": [
+    "Spasm of Muller's muscle",
+    "Weakness of orbicularis oculi",
+    "Edema of lids",
+    "Fibrosis of levator"
+   ],
+   "ans": 0,
+   "exp": "Von Graefe (lid lag) & Dalrymple (lid retraction): d/t spasm of Muller muscle. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-047",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Muller's muscle is the:",
+   "opts": [
+    "Autonomic component of LPS",
+    "Skeletal component of LPS",
+    "Muscle of the lower lid",
+    "Extraocular muscle"
+   ],
+   "ans": 0,
+   "exp": "Muller's muscle → autonomic component of LPS. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-048",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Joffroy's sign is:",
+   "opts": [
+    "Absence of forehead wrinkling when patient looks up",
+    "Lid lag on looking down",
+    "Infrequent blinking",
+    "Loss of accommodation"
+   ],
+   "ans": 0,
+   "exp": "Joffroy's sign: absence of forehead wrinkling when patient looks up. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-049",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Moebius sign (sign of severe toxicity) is:",
+   "opts": [
+    "Loss of accommodation reflex",
+    "Infrequent blinking",
+    "Lid retraction",
+    "Absent corneal reflex"
+   ],
+   "ans": 0,
+   "exp": "Moebius sign (severe toxicity): loss of accommodation reflex. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-050",
+   "sec": "Graves: Basics & Eye Signs",
+   "page": 105,
+   "q": "Stellwag sign (sign of mild toxicity) is:",
+   "opts": [
+    "Infrequent blinking/staring look",
+    "Loss of convergence",
+    "Lid lag",
+    "Proptosis"
+   ],
+   "ans": 0,
+   "exp": "Stellwag sign (mild toxicity): infrequent blinking/staring look. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-051",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "Dx of Graves' is based on:",
+   "opts": [
+    "Clinical features + autoantibody levels",
+    "FNAC alone",
+    "TSH alone",
+    "USG alone"
+   ],
+   "ans": 0,
+   "exp": "Dx based on C/F + autoantibody levels; diffuse enlargement + hyperthyroid features + eye signs. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-052",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "HPE of Graves' disease shows:",
+   "opts": [
+    "Scalloping of colloid with tall columnar cells",
+    "Lymphocyte infiltration",
+    "Amyloid",
+    "Hurthle cells"
+   ],
+   "ans": 0,
+   "exp": "HPE: scalloping of colloid; tall columnar cells. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-053",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "A child with Graves' disease is treated with:",
+   "opts": [
+    "Drugs only",
+    "Surgery",
+    "RIA",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Child: drugs only. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-054",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "A pregnant patient with Graves' is treated with:",
+   "opts": [
+    "Drugs only: PTU",
+    "RIA",
+    "Surgery",
+    "Carbimazole only"
+   ],
+   "ans": 0,
+   "exp": "Pregnant: drugs only - PTU. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-055",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "An adult Graves' patient WITHOUT goitre is managed with:",
+   "opts": [
+    "Drugs → RIA",
+    "Drugs → Sx",
+    "Drugs only forever",
+    "Sx first"
+   ],
+   "ans": 0,
+   "exp": "Adult without goitre: drugs → RIA; with goitre: drugs → Sx. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-056",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "An elderly Graves' patient with comorbidities is managed with:",
+   "opts": [
+    "Drugs → RIA",
+    "Drugs → Sx",
+    "Observation",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Elderly with comorbidities: drugs → RIA. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-057",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "Graves' with extensive eye signs is treated with drugs → Sx because:",
+   "opts": [
+    "RIA worsens eye signs (C/I)",
+    "Surgery cures eye signs",
+    "Drugs worsen eye signs",
+    "RIA causes cataract"
+   ],
+   "ans": 0,
+   "exp": "With extensive eye signs: drugs → Sx; RIA is C/I (worsens eye signs). (Book p105)"
+  },
+  {
+   "id": "SURG-C16-058",
+   "sec": "Graves: Dx & Mx",
+   "page": 105,
+   "q": "The preferred surgical option in Graves' is:",
+   "opts": [
+    "Total thyroidectomy > subtotal/near total",
+    "Hemithyroidectomy",
+    "Isthmusectomy",
+    "Enucleation"
+   ],
+   "ans": 0,
+   "exp": "Sx: total thyroidectomy > subtotal/near total thyroidectomy. (Book p105)"
+  },
+  {
+   "id": "SURG-C16-059",
+   "sec": "Plummer's & Solitary Toxic Nodule",
+   "page": 106,
+   "q": "Plummer's disease/toxic nodular goitre has female:male ratio and rank among hyperthyroidism causes of:",
+   "opts": [
+    "5:1; 2nd m/c cause",
+    "3:1; m/c cause",
+    "5:1; 3rd cause",
+    "1:5; 2nd cause"
+   ],
+   "ans": 0,
+   "exp": "Plummer's: female:male 5:1; 2nd m/c cause of hyperthyroidism. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-060",
+   "sec": "Plummer's & Solitary Toxic Nodule",
+   "page": 106,
+   "q": "Thyroid scan in Plummer's disease/toxic nodular goitre shows:",
+   "opts": [
+    "Multiple hot & cold nodules",
+    "Single hot nodule",
+    "Diffuse uptake",
+    "No uptake"
+   ],
+   "ans": 0,
+   "exp": "Scan: multiple hot & cold nodules. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-061",
+   "sec": "Plummer's & Solitary Toxic Nodule",
+   "page": 106,
+   "q": "Mx of Plummer's disease/toxic nodular goitre is:",
+   "opts": [
+    "Drugs → total thyroidectomy",
+    "Drugs → RIA",
+    "Drugs only",
+    "Hemithyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "Mx: drugs → total thyroidectomy. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-062",
+   "sec": "Plummer's & Solitary Toxic Nodule",
+   "page": 106,
+   "q": "A solitary toxic nodule (5th decade, female > male) shows on scan and is treated with:",
+   "opts": [
+    "Single hot nodule; drugs → RIA",
+    "Cold nodule; Sx",
+    "Diffuse uptake; drugs",
+    "Multiple nodules; total thyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "Solitary toxic nodule: single hot nodule; mx drugs → RIA. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-063",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "The most common cause of hypothyroidism overall is:",
+   "opts": [
+    "Iodine deficiency",
+    "Hashimoto thyroiditis",
+    "Sheehan syndrome",
+    "Drugs"
+   ],
+   "ans": 0,
+   "exp": "Iodine deficiency: m/c overall; Hashimoto: m/c in west. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-064",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "The most common cause of hypothyroidism in the west is:",
+   "opts": [
+    "Hashimoto thyroiditis",
+    "Iodine deficiency",
+    "Pituitary adenoma",
+    "Refetoff syndrome"
+   ],
+   "ans": 0,
+   "exp": "Hashimoto thyroiditis: m/c in west. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-065",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "Wolff-Chaikoff phenomenon is:",
+   "opts": [
+    "Iodine induced hypothyroidism",
+    "Iodine induced hyperthyroidism",
+    "Amiodarone thyrotoxicosis",
+    "Post-partum hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "Wolff-Chaikoff: iodine induced hypothyroidism (Jod-Basedow is the hyper counterpart). (Book p106)"
+  },
+  {
+   "id": "SURG-C16-066",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "Sheehan syndrome is:",
+   "opts": [
+    "Post partum pituitary apoplexy",
+    "Autoimmune thyroiditis",
+    "End organ T4 resistance",
+    "TPO deficiency"
+   ],
+   "ans": 0,
+   "exp": "Sheehan syndrome: post partum pituitary apoplexy. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-067",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "Dyshormonogenesis refers to:",
+   "opts": [
+    "TPO enzyme deficiency",
+    "Iodine deficiency",
+    "TSH receptor mutation",
+    "Thyroglobulin excess"
+   ],
+   "ans": 0,
+   "exp": "Dyshormonogenesis: TPO enzyme deficiency. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-068",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "Refetoff syndrome is:",
+   "opts": [
+    "Elderly patients with end organ resistance to T4",
+    "Post partum apoplexy",
+    "Iodine induced hypothyroidism",
+    "Pituitary apoplexy"
+   ],
+   "ans": 0,
+   "exp": "Refetoff syndrome: elderly patients with end organ resistance to T4. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-069",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "A non-functioning pituitary adenoma causes hypothyroidism with ↓ TSH; this is:",
+   "opts": [
+    "The exception (secondary hypothyroidism)",
+    "The rule",
+    "T3 resistance",
+    "Autoimmune"
+   ],
+   "ans": 0,
+   "exp": "Non functioning pituitary adenoma: ↓ TSH (exception). (Book p106)"
+  },
+  {
+   "id": "SURG-C16-070",
+   "sec": "Hypothyroidism: Causes & Features",
+   "page": 106,
+   "q": "Clinical features of hypothyroidism include all EXCEPT:",
+   "opts": [
+    "Weight loss",
+    "Dull, lethargic",
+    "Bradycardia",
+    "Menorrhagia"
+   ],
+   "ans": 0,
+   "exp": "Features: dull lethargic, alopecia, bradycardia, constipation, weight GAIN, cold intolerance, menorrhagia. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-071",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 106,
+   "q": "Hashimoto's (lymphocytic) thyroiditis incidence is:",
+   "opts": [
+    "Autoimmune, female > male, strong hereditary component",
+    "Male > female, viral",
+    "Equal sexes, iodine related",
+    "Childhood only"
+   ],
+   "ans": 0,
+   "exp": "Autoimmune: female > male; strong hereditary component. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-072",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 106,
+   "q": "Hashimoto's is associated with HLA:",
+   "opts": [
+    "DR3/B8",
+    "B27",
+    "B35",
+    "DR4"
+   ],
+   "ans": 0,
+   "exp": "A/w: HLA DR3/B8; Down's & Turner's syndromes. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-073",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 106,
+   "q": "Hashimoto's is associated with which chromosomal syndromes?",
+   "opts": [
+    "Down's & Turner's",
+    "Klinefelter's & Marfan",
+    "Down's & Klinefelter's",
+    "Turner's & Noonan"
+   ],
+   "ans": 0,
+   "exp": "Down's & Turner's syndromes. (Book p106)"
+  },
+  {
+   "id": "SURG-C16-074",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 107,
+   "q": "Autoantibodies in Hashimoto's are against:",
+   "opts": [
+    "Thyroid receptors (blocking), TPO enzyme & thyroglobulin",
+    "Stimulating TSH receptors",
+    "Calcitonin",
+    "Thyroxine"
+   ],
+   "ans": 0,
+   "exp": "Autoantibodies against thyroid receptors (blocking receptors), TPO enzyme, thyroglobulin. (Book p107)"
+  },
+  {
+   "id": "SURG-C16-075",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 107,
+   "q": "The brief early hyperthyroid phase of Hashimoto's is called:",
+   "opts": [
+    "Hashitoxicosis (↑ T3, T4 briefly)",
+    "Thyroid storm",
+    "Jod-Basedow",
+    "Apathetic thyrotoxicosis"
+   ],
+   "ans": 0,
+   "exp": "Stored hormones released → hashitoxicosis (↑ T3, T4 briefly) then prolonged hypothyroidism. (Book p107)"
+  },
+  {
+   "id": "SURG-C16-076",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 107,
+   "q": "Long standing Hashimoto's cases can develop which cancers (m/c first)?",
+   "opts": [
+    "Lymphoma (m/c), FTC, PTC",
+    "PTC only",
+    "Anaplastic only",
+    "MTC"
+   ],
+   "ans": 0,
+   "exp": "Long standing cases: lymphoma (m/c cancer), FTC, PTC. (Book p107)"
+  },
+  {
+   "id": "SURG-C16-077",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 107,
+   "q": "FNAC in Hashimoto's shows:",
+   "opts": [
+    "Lymphocyte infiltration & Hurthle cells",
+    "Orphan Annie nuclei",
+    "Amyloid",
+    "Giant cells"
+   ],
+   "ans": 0,
+   "exp": "Ix: autoantibody levels; FNAC lymphocyte infiltration + Hurthle cells. (Book p107)"
+  },
+  {
+   "id": "SURG-C16-078",
+   "sec": "Hashimoto's Thyroiditis",
+   "page": 107,
+   "q": "Mx of Hashimoto's is:",
+   "opts": [
+    "Low dose thyroxine gradually titrated till TSH becomes normal; total thyroidectomy if goitre (+)",
+    "Antithyroid drugs",
+    "RIA",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Low dose thyroxine gradually titrated till TSH normal; if goitre (+) → total thyroidectomy. (Book p107)"
+  },
+  {
+   "id": "SURG-C16-079",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "Subacute thyroiditis is also called:",
+   "opts": [
+    "De Quervain/viral/granulomatous thyroiditis",
+    "Riedel's thyroiditis",
+    "Hashimoto's",
+    "Suppurative thyroiditis"
+   ],
+   "ans": 0,
+   "exp": "De Quervain/viral/granulomatous thyroiditis; associated with HLA B35. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-080",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "The sentinel event for subacute thyroiditis is:",
+   "opts": [
+    "URTI (viral), 4-6 weeks before",
+    "Surgery",
+    "Trauma",
+    "Iodine load"
+   ],
+   "ans": 0,
+   "exp": "Sentinel event: URTI (viral); after 4-6 weeks lymphocytic infiltration. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-081",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "The clinical course of subacute thyroiditis is:",
+   "opts": [
+    "Hyperthyroidism → hypothyroidism → euthyroid (self limiting)",
+    "Hypothyroidism only",
+    "Hyperthyroidism only",
+    "Permanent hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "Spike of hyperthyroidism → hypothyroidism → euthyroid (self limiting); follicles regenerate in 2-3 months. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-082",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "Subacute thyroiditis classically presents with painful neck enlargement and:",
+   "opts": [
+    "↑ ESR",
+    "↓ ESR",
+    "Painless goitre",
+    "Exophthalmos"
+   ],
+   "ans": 0,
+   "exp": "Painful neck enlargement; ↑ ESR. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-083",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "Mx of subacute thyroiditis is:",
+   "opts": [
+    "Symptomatic + steroids",
+    "Antithyroid drugs",
+    "Surgery",
+    "RIA"
+   ],
+   "ans": 0,
+   "exp": "Mx: symptomatic; steroids. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-084",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "Post-partum thyroiditis is seen in what timeframe and frequency?",
+   "opts": [
+    "2-12 months post partum (in 10%)",
+    "Immediately post partum (50%)",
+    "After 2 years (5%)",
+    "During pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Seen in 2-12 months post partum (in 10%). (Book p108)"
+  },
+  {
+   "id": "SURG-C16-085",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "The etiology of post-partum thyroiditis is:",
+   "opts": [
+    "Autoimmune thyroiditis (2nd m/c cause)",
+    "Viral infection",
+    "Iodine deficiency",
+    "Bacterial"
+   ],
+   "ans": 0,
+   "exp": "Etiology: autoimmune thyroiditis (2nd m/c cause); anti TPO antibodies (+); 10 fold risk of Hashimoto's. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-086",
+   "sec": "Subacute & Post-partum Thyroiditis",
+   "page": 108,
+   "q": "Mx of post-partum thyroiditis is:",
+   "opts": [
+    "Correction of hypothyroidism",
+    "Steroids",
+    "Surgery",
+    "Antithyroid drugs"
+   ],
+   "ans": 0,
+   "exp": "Mx: correction of hypothyroidism; features same as Hashimoto. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-087",
+   "sec": "Riedel's Thyroiditis & Summary",
+   "page": 108,
+   "q": "Riedel's/fibrosing thyroiditis associations include:",
+   "opts": [
+    "IgG4, Peyronie's disease, Dupuytren's contracture",
+    "HLA B35",
+    "Down's syndrome",
+    "Pernicious anemia"
+   ],
+   "ans": 0,
+   "exp": "Associations: IgG4; Peyronie's disease; Dupuytren's contracture. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-088",
+   "sec": "Riedel's Thyroiditis & Summary",
+   "page": 108,
+   "q": "Fibrosis within the gland in Riedel's causes:",
+   "opts": [
+    "Painless enlargement - woody hard gland",
+    "Painful swelling",
+    "Toxic symptoms",
+    "Ophthalmopathy"
+   ],
+   "ans": 0,
+   "exp": "Within gland → painless enlargement → woody hard. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-089",
+   "sec": "Riedel's Thyroiditis & Summary",
+   "page": 108,
+   "q": "Fibrosis in the vicinity of the gland causes pressure symptoms:",
+   "opts": [
+    "RLN hoarseness & tracheal stridor",
+    "Dysphagia only",
+    "Horner's syndrome",
+    "Venous congestion"
+   ],
+   "ans": 0,
+   "exp": "In vicinity → pressure symptoms: RLN hoarseness; trachea stridor. (Book p108)"
+  },
+  {
+   "id": "SURG-C16-090",
+   "sec": "Riedel's Thyroiditis & Summary",
+   "page": 109,
+   "q": "The important D/D of Riedel's thyroiditis is:",
+   "opts": [
+    "Anaplastic cancer",
+    "Graves' disease",
+    "Adenoma",
+    "Lingual thyroid"
+   ],
+   "ans": 0,
+   "exp": "D/D: anaplastic cancer. (Book p109)"
+  },
+  {
+   "id": "SURG-C16-091",
+   "sec": "Riedel's Thyroiditis & Summary",
+   "page": 109,
+   "q": "Ix and Mx of Riedel's thyroiditis are:",
+   "opts": [
+    "USG guided core biopsy; steroids + tamoxifen",
+    "FNAC; PTU",
+    "Scan; RIA",
+    "CXR; surgery"
+   ],
+   "ans": 0,
+   "exp": "Ix: USG guided core biopsy; mx: steroids, tamoxifen. (Book p109)"
+  },
+  {
+   "id": "SURG-C16-092",
+   "sec": "Riedel's Thyroiditis & Summary",
+   "page": 109,
+   "q": "Summary: painful neck swelling with URTI history and spontaneous recovery is:",
+   "opts": [
+    "Subacute De Quervain thyroiditis",
+    "Hashimoto's",
+    "Riedel's",
+    "Graves'"
+   ],
+   "ans": 0,
+   "exp": "Subacute: H/o URTI, painful, hyper→hypo→spontaneous recovery; Hashimoto painless prolonged hypo; Riedel painless hard gland. (Book p109)"
+  },
+  {
+   "id": "SURG-C16-093",
+   "sec": "Goitre: Types & Malignancy Risk",
+   "page": 109,
+   "q": "Etiology of diffuse goitre includes all EXCEPT:",
+   "opts": [
+    "Carcinoma",
+    "Iodine deficiency",
+    "Pregnancy/puberty (↑ demand states)",
+    "Hashimoto's/Graves'"
+   ],
+   "ans": 0,
+   "exp": "Diffuse goitre: iodine deficiency, pregnancy & puberty (demand states), Hashimoto's, Graves'. (Book p109)"
+  },
+  {
+   "id": "SURG-C16-094",
+   "sec": "Goitre: Types & Malignancy Risk",
+   "page": 109,
+   "q": "Untreated diffuse goitre progresses to MNG due to:",
+   "opts": [
+    "Variable TSH stimulation",
+    "Iodine excess",
+    "Autoimmunity",
+    "Viral infection"
+   ],
+   "ans": 0,
+   "exp": "Untreated diffuse goitre → MNG (d/t variable TSH stimulation). (Book p109)"
+  },
+  {
+   "id": "SURG-C16-095",
+   "sec": "Goitre: Types & Malignancy Risk",
+   "page": 109,
+   "q": "Multinodular goitre etiology is:",
+   "opts": [
+    "Long standing iodine deficiency",
+    "Acute iodine load",
+    "Viral",
+    "Autoimmune"
+   ],
+   "ans": 0,
+   "exp": "MNG: long standing iodine deficiency. (Book p109)"
+  },
+  {
+   "id": "SURG-C16-096",
+   "sec": "Goitre: Types & Malignancy Risk",
+   "page": 109,
+   "q": "A 'dominant nodule' means:",
+   "opts": [
+    "Single palpable nodule + rest of gland palpable",
+    "Single palpable nodule + rest not palpable",
+    "Multiple nodules",
+    "A cyst"
+   ],
+   "ans": 0,
+   "exp": "Dominant nodule: single palpable nodule + rest of gland palpable (isolated nodule: rest not palpable). (Book p109)"
+  },
+  {
+   "id": "SURG-C16-097",
+   "sec": "Goitre: Types & Malignancy Risk",
+   "page": 109,
+   "q": "Risk of malignancy in thyroid swellings: solid swellings have:",
+   "opts": [
+    "Twice the risk of cystic ones",
+    "Half the risk",
+    "Equal risk",
+    "No risk"
+   ],
+   "ans": 0,
+   "exp": "Solid swellings have twice the risk as cystic ones. (Book p109)"
+  },
+  {
+   "id": "SURG-C16-098",
+   "sec": "Goitre: Types & Malignancy Risk",
+   "page": 109,
+   "q": "Regarding malignancy risk in thyroid swellings, males have:",
+   "opts": [
+    "4 times greater risk than females",
+    "Equal risk",
+    "Half the risk",
+    "2 times lesser risk"
+   ],
+   "ans": 0,
+   "exp": "Males have 4 times greater risk than females. (Book p109)"
+  },
+  {
+   "id": "SURG-C16-099",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "A retrosternal goitre is:",
+   "opts": [
+    "Thyroid swelling behind the sternum",
+    "A lateral neck goitre",
+    "Ectopic lingual thyroid",
+    "A mediastinal teratoma"
+   ],
+   "ans": 0,
+   "exp": "Retrosternal goitre: thyroid swelling behind the sternum. (Book p110)"
+  },
+  {
+   "id": "SURG-C16-100",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "The most common type of retrosternal goitre (90%) is:",
+   "opts": [
+    "2° retrosternal/plunging goitre",
+    "1° mediastinal",
+    "Ectopic",
+    "Malignant"
+   ],
+   "ans": 0,
+   "exp": "2° retrosternal/plunging goitre (m/c, 90%): starts in neck & plunges into mediastinum. (Book p110)"
+  },
+  {
+   "id": "SURG-C16-101",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "1° mediastinal retrosternal goitre (10%) arises from and is supplied by:",
+   "opts": [
+    "Ectopic thyroid tissue in mediastinum; mediastinal vessels",
+    "Neck thyroid; neck vessels",
+    "Lingual thyroid; carotid",
+    "Thymus; internal thoracic"
+   ],
+   "ans": 0,
+   "exp": "1° mediastinal: ectopic thyroid tissue in mediastinum; blood supply mediastinal vessels (2°: neck vessels). (Book p110)"
+  },
+  {
+   "id": "SURG-C16-102",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "The blood supply of a 2° (plunging) retrosternal goitre is from:",
+   "opts": [
+    "Neck vessels",
+    "Mediastinal vessels",
+    "Bronchial arteries",
+    "Pericardial branches"
+   ],
+   "ans": 0,
+   "exp": "2° retrosternal: neck vessels. (Book p110)"
+  },
+  {
+   "id": "SURG-C16-103",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "On examination of a retrosternal goitre:",
+   "opts": [
+    "Lower limit is not palpable",
+    "Upper limit not palpable",
+    "It moves with swallowing always",
+    "It is transilluminant"
+   ],
+   "ans": 0,
+   "exp": "Goitre: lower limit not palpable; pressure symptoms dyspnoea/stridor. (Book p110)"
+  },
+  {
+   "id": "SURG-C16-104",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "Pemberton sign: when the patient raises his hands:",
+   "opts": [
+    "Swelling presses on thoracic inlet, blocking venous drainage → facial congestion",
+    "The goitre becomes palpable",
+    "Stridor is relieved",
+    "Voice changes"
+   ],
+   "ans": 0,
+   "exp": "Pemberton sign: raise hands → swelling presses on thoracic inlet → blocks venous drainage → facial congestion. (Book p110)"
+  },
+  {
+   "id": "SURG-C16-105",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "The IOC investigation for retrosternal goitre is:",
+   "opts": [
+    "CECT neck & thorax",
+    "Chest x-ray alone",
+    "FNAC",
+    "USG abdomen"
+   ],
+   "ans": 0,
+   "exp": "Ix: CECT neck & thorax (IOC); chest x-ray (trachea pushed to opposite side). (Book p110)"
+  },
+  {
+   "id": "SURG-C16-106",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "Most retrosternal goitres are removed via:",
+   "opts": [
+    "Neck/cervical incision (m/c)",
+    "Median sternotomy always",
+    "VATS",
+    "Thoracotomy"
+   ],
+   "ans": 0,
+   "exp": "Neck/cervical incision & remove goitre: m/c. (Book p110)"
+  },
+  {
+   "id": "SURG-C16-107",
+   "sec": "Retrosternal Goitre",
+   "page": 110,
+   "q": "Median sternotomy is indicated in all EXCEPT:",
+   "opts": [
+    "A primary uncomplicated small plunging goitre",
+    "Recurrent mediastinal goitre",
+    "1° mediastinal goitre",
+    "Goitre larger than thoracic inlet"
+   ],
+   "ans": 0,
+   "exp": "Median sternotomy in: recurrent mediastinal, 1° mediastinal, goitre larger than thoracic inlet, malignant retrosternal goitre. (Book p110)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U16-1",
+   "ch": 16,
+   "n": 1,
+   "title": "Thyroid Embryology & Lingual Thyroid",
+   "sec": "Thyroid Embryology & Lingual Thyroid · p102",
+   "qs": [
+    "SURG-C16-001",
+    "SURG-C16-002",
+    "SURG-C16-003",
+    "SURG-C16-004",
+    "SURG-C16-005",
+    "SURG-C16-006"
+   ],
+   "guide": "Thyroid descends from foramen caecum (junction anterior 2/3-posterior 1/3 tongue) via thyroglossal tract which obliterates. Lingual thyroid = undescended tissue below tongue (tongue lifted up); FNAC + USG neck to confirm normal gland before excision; thyroxine if it was the only tissue."
+  },
+  {
+   "id": "SURG-U16-2",
+   "ch": 16,
+   "n": 2,
+   "title": "Thyroglossal Cyst: Dx, Mx & Complications",
+   "sec": "Thyroglossal Cyst: Dx, Mx & Complications · p102",
+   "qs": [
+    "SURG-C16-007",
+    "SURG-C16-008",
+    "SURG-C16-009",
+    "SURG-C16-010",
+    "SURG-C16-011",
+    "SURG-C16-012",
+    "SURG-C16-013",
+    "SURG-C16-014"
+   ],
+   "guide": "Persistent tract → subhyoid (m/c) midline swelling moving with deglutition AND tongue protrusion. Sistrunk = cyst + part of hyoid + tract to tongue base; I&D never (fistula). Complications: fistula & PTC in long-standing cases. Vs branchial fistula: lower 1/3 along SCM, congenital/acquired."
+  },
+  {
+   "id": "SURG-U16-3",
+   "ch": 16,
+   "n": 3,
+   "title": "Hyperthyroidism: Features & Causes",
+   "sec": "Hyperthyroidism: Features & Causes · p103",
+   "qs": [
+    "SURG-C16-015",
+    "SURG-C16-016",
+    "SURG-C16-017",
+    "SURG-C16-018",
+    "SURG-C16-019",
+    "SURG-C16-020",
+    "SURG-C16-021",
+    "SURG-C16-022"
+   ],
+   "guide": "Thin irritable, weight loss despite appetite, tachycardia, diarrhoea, tremors, heat intolerance, oligomenorrhea. Scan patterns: Graves diffuse ↑ (m/c); Plummer's single hot; toxic nodular goitre multiple hot; factitious & struma ovarii ↓; Jod-Basedow (iodine-induced) ↑; TSH adenoma ↑TSH ↑."
+  },
+  {
+   "id": "SURG-U16-4",
+   "ch": 16,
+   "n": 4,
+   "title": "Antithyroid Drugs & Pre-op Preparation",
+   "sec": "Antithyroid Drugs & Pre-op Preparation · p103",
+   "qs": [
+    "SURG-C16-023",
+    "SURG-C16-024",
+    "SURG-C16-025",
+    "SURG-C16-026",
+    "SURG-C16-027",
+    "SURG-C16-028",
+    "SURG-C16-029",
+    "SURG-C16-030",
+    "SURG-C16-031",
+    "SURG-C16-032"
+   ],
+   "guide": "PTU/carbimazole block peroxidase & T4→T3; PTU safe in 1st trimester/lactation; agranulocytosis - sore throat 1st sign. RIA I131 β-rays t½ 7-8 d. Pre-Sx: drugs 6-8 wks to euthyroid, nadolol (long acting) till 7 days post-op (T3 t½), last dose evening before."
+  },
+  {
+   "id": "SURG-U16-5",
+   "ch": 16,
+   "n": 5,
+   "title": "Thyroid Storm",
+   "sec": "Thyroid Storm · p104",
+   "qs": [
+    "SURG-C16-033",
+    "SURG-C16-034",
+    "SURG-C16-035",
+    "SURG-C16-036",
+    "SURG-C16-037",
+    "SURG-C16-038",
+    "SURG-C16-039"
+   ],
+   "guide": "Uncontrolled thyrotoxicosis from inadequately prepared patient (m/c), URTI, FNAC, Sx trauma, anaesthetics. Dehydration, hyperthermia, HTN crisis; arrhythmia kills. Mx: aggressive IV fluids (prevent ATN), cold packs, IV steroids + antibiotics, high-dose propranolol, PTU; avoid aspirin."
+  },
+  {
+   "id": "SURG-U16-6",
+   "ch": 16,
+   "n": 6,
+   "title": "Graves: Basics & Eye Signs",
+   "sec": "Graves: Basics & Eye Signs · p104",
+   "qs": [
+    "SURG-C16-040",
+    "SURG-C16-041",
+    "SURG-C16-042",
+    "SURG-C16-043",
+    "SURG-C16-044",
+    "SURG-C16-045",
+    "SURG-C16-046",
+    "SURG-C16-047",
+    "SURG-C16-048",
+    "SURG-C16-049",
+    "SURG-C16-050"
+   ],
+   "guide": "Autoimmune F>M, m/c hyperthyroid cause; stimulating TRAb (LATS); pretibial myxedema; a/w pernicious anemia & myasthenia. Acropachy = subperiosteal bone. Eye: exophthalmos; von Graefe lid lag + Dalrymple retraction (Muller spasm), Joffroy no forehead wrinkle, Moebius loss of accommodation (severe), Stellwag infrequent blink (mild)."
+  },
+  {
+   "id": "SURG-U16-7",
+   "ch": 16,
+   "n": 7,
+   "title": "Graves: Dx & Mx",
+   "sec": "Graves: Dx & Mx · p105",
+   "qs": [
+    "SURG-C16-051",
+    "SURG-C16-052",
+    "SURG-C16-053",
+    "SURG-C16-054",
+    "SURG-C16-055",
+    "SURG-C16-056",
+    "SURG-C16-057",
+    "SURG-C16-058"
+   ],
+   "guide": "Dx: C/F + autoantibodies; HPE scalloped colloid + tall columnar cells. Mx by status: child drugs; pregnant PTU; adult no goitre drugs→RIA; with goitre drugs→Sx; elderly comorbid drugs→RIA; extensive eye signs drugs→Sx (RIA worsens eyes). Sx: total > subtotal."
+  },
+  {
+   "id": "SURG-U16-8",
+   "ch": 16,
+   "n": 8,
+   "title": "Plummer's & Solitary Toxic Nodule",
+   "sec": "Plummer's & Solitary Toxic Nodule · p106",
+   "qs": [
+    "SURG-C16-059",
+    "SURG-C16-060",
+    "SURG-C16-061",
+    "SURG-C16-062"
+   ],
+   "guide": "Plummer's/toxic nodular goitre: F:M 5:1, 2nd m/c cause, multiple hot & cold nodules, drugs → total thyroidectomy. Solitary toxic nodule: 5th decade F>M, single hot nodule, drugs → RIA."
+  },
+  {
+   "id": "SURG-U16-9",
+   "ch": 16,
+   "n": 9,
+   "title": "Hypothyroidism: Causes & Features",
+   "sec": "Hypothyroidism: Causes & Features · p106",
+   "qs": [
+    "SURG-C16-063",
+    "SURG-C16-064",
+    "SURG-C16-065",
+    "SURG-C16-066",
+    "SURG-C16-067",
+    "SURG-C16-068",
+    "SURG-C16-069",
+    "SURG-C16-070"
+   ],
+   "guide": "Causes: iodine deficiency (overall m/c), Hashimoto (west m/c), Wolff-Chaikoff (iodine-induced), non-functioning pituitary adenoma ↓TSH (exception), Sheehan (post-partum apoplexy), dyshormonogenesis (TPO deficiency), euthyroid sick syndrome, Refetoff (end-organ T4 resistance). Dull, alopecia, bradycardia, constipation, weight gain, cold intolerance, menorrhagia."
+  },
+  {
+   "id": "SURG-U16-10",
+   "ch": 16,
+   "n": 10,
+   "title": "Hashimoto's Thyroiditis",
+   "sec": "Hashimoto's Thyroiditis · p106",
+   "qs": [
+    "SURG-C16-071",
+    "SURG-C16-072",
+    "SURG-C16-073",
+    "SURG-C16-074",
+    "SURG-C16-075",
+    "SURG-C16-076",
+    "SURG-C16-077",
+    "SURG-C16-078"
+   ],
+   "guide": "Autoimmune F>M, hereditary, HLA DR3/B8, Down's/Turner's. Blocking receptor + anti-TPO + anti-thyroglobulin antibodies; lymphocytes destroy follicles → hashitoxicosis spike → prolonged hypothyroidism. Long-standing: lymphoma (m/c), FTC, PTC. FNAC lymphocytes + Hurthle; titrate low-dose thyroxine to TSH; total thyroidectomy if goitre."
+  },
+  {
+   "id": "SURG-U16-11",
+   "ch": 16,
+   "n": 11,
+   "title": "Subacute & Post-partum Thyroiditis",
+   "sec": "Subacute & Post-partum Thyroiditis · p108",
+   "qs": [
+    "SURG-C16-079",
+    "SURG-C16-080",
+    "SURG-C16-081",
+    "SURG-C16-082",
+    "SURG-C16-083",
+    "SURG-C16-084",
+    "SURG-C16-085",
+    "SURG-C16-086"
+   ],
+   "guide": "De Quervain (viral/granulomatous, HLA B35): post-URTI 4-6 wks; painful neck + ↑ESR; hyper→hypo→euthyroid self-limiting (follicles regenerate 2-3 mo); symptomatic + steroids. Post-partum: 2-12 mo (10%), autoimmune 2nd m/c, anti-TPO +, 10-fold Hashimoto risk; correct hypothyroidism."
+  },
+  {
+   "id": "SURG-U16-12",
+   "ch": 16,
+   "n": 12,
+   "title": "Riedel's Thyroiditis & Summary",
+   "sec": "Riedel's Thyroiditis & Summary · p108",
+   "qs": [
+    "SURG-C16-087",
+    "SURG-C16-088",
+    "SURG-C16-089",
+    "SURG-C16-090",
+    "SURG-C16-091",
+    "SURG-C16-092"
+   ],
+   "guide": "IgG4 fibrosing disease (Peyronie's, Dupuytren's): woody hard painless gland, pressure symptoms; D/D anaplastic; core biopsy; steroids + tamoxifen. Summary table: Hashimoto painless prolonged hypo; De Quervain painful post-URTI spontaneous recovery; Riedel hard gland."
+  },
+  {
+   "id": "SURG-U16-13",
+   "ch": 16,
+   "n": 13,
+   "title": "Goitre: Types & Malignancy Risk",
+   "sec": "Goitre: Types & Malignancy Risk · p109",
+   "qs": [
+    "SURG-C16-093",
+    "SURG-C16-094",
+    "SURG-C16-095",
+    "SURG-C16-096",
+    "SURG-C16-097",
+    "SURG-C16-098"
+   ],
+   "guide": "Diffuse: iodine deficiency, demand states (pregnancy/puberty), Hashimoto/Graves; untreated → MNG (variable TSH). MNG: long-standing iodine deficiency. Dominant nodule = single palpable + rest palpable. Malignancy risk: solid 2× cystic; males 4× females."
+  },
+  {
+   "id": "SURG-U16-14",
+   "ch": 16,
+   "n": 14,
+   "title": "Retrosternal Goitre",
+   "sec": "Retrosternal Goitre · p110",
+   "qs": [
+    "SURG-C16-099",
+    "SURG-C16-100",
+    "SURG-C16-101",
+    "SURG-C16-102",
+    "SURG-C16-103",
+    "SURG-C16-104",
+    "SURG-C16-105",
+    "SURG-C16-106",
+    "SURG-C16-107"
+   ],
+   "guide": "Behind sternum; 2° plunging m/c (90%, neck vessels) vs 1° mediastinal (10%, ectopic, mediastinal vessels). Lower limit not palpable; Pemberton sign (arms up → inlet obstruction → facial congestion). CECT neck + thorax IOC; neck incision m/c; sternotomy for recurrent, 1°, larger than inlet, malignant."
+  }
+ ]
+}
