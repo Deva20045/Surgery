@@ -1,0 +1,1331 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C8-001",
+   "sec": "MVOS",
+   "page": 44,
+   "q": "Mixed venous oxygen saturation (MVOS) represents:",
+   "opts": [
+    "The unutilised O2 returning back to the heart",
+    "The O2 consumed by tissues",
+    "Arterial O2 content",
+    "Alveolar O2"
+   ],
+   "ans": 0,
+   "exp": "MVOS: Represents the unutilised O2 returning back to the heart. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-002",
+   "sec": "MVOS",
+   "page": 44,
+   "q": "The normal value of MVOS is:",
+   "opts": [
+    "50-70%",
+    "20-40%",
+    "70-90%",
+    "95-100%"
+   ],
+   "ans": 0,
+   "exp": "MVOS: Normal value: 50 - 70%. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-003",
+   "sec": "MVOS",
+   "page": 44,
+   "q": "MVOS is measured via a catheter placed in the:",
+   "opts": [
+    "Right atrium",
+    "Left atrium",
+    "Aorta",
+    "Pulmonary vein"
+   ],
+   "ans": 0,
+   "exp": "MVOS: Measured via a catheter in the Right Atrium. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-004",
+   "sec": "MVOS",
+   "page": 44,
+   "q": "Low MVOS is seen in:",
+   "opts": [
+    "Low cardiac output and reduced O2 pump (hypovolemic shock)",
+    "Distributive shock",
+    "Warm septic shock",
+    "Arteriovenous fistula"
+   ],
+   "ans": 0,
+   "exp": "Low MVOS: Low cardiac output; Reduced O2 pump (Hypovolemic shock). (Book p44)"
+  },
+  {
+   "id": "SURG-C8-005",
+   "sec": "MVOS",
+   "page": 44,
+   "q": "High MVOS is characteristic of:",
+   "opts": [
+    "Distributive shock",
+    "Hypovolemic shock",
+    "Cardiogenic shock",
+    "Haemorrhagic shock"
+   ],
+   "ans": 0,
+   "exp": "High MVOS: Distributive shock. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-006",
+   "sec": "Cardiogenic Shock",
+   "page": 44,
+   "q": "Examples of cardiogenic shock include all of the following EXCEPT:",
+   "opts": [
+    "Massive pulmonary embolism",
+    "Myocardial infarction",
+    "Cardiac tamponade",
+    "Arrhythmias"
+   ],
+   "ans": 0,
+   "exp": "Cardiogenic shock examples: Myocardial Infarction, Cardiac Tamponade, Arrhythmias (massive PE is obstructive). (Book p44)"
+  },
+  {
+   "id": "SURG-C8-007",
+   "sec": "Cardiogenic Shock",
+   "page": 44,
+   "q": "In cardiogenic shock the primary defect is that the:",
+   "opts": [
+    "Heart does not function properly",
+    "Vessels dilate",
+    "Blood volume falls",
+    "Lungs fail"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology: Heart does not function properly. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-008",
+   "sec": "Cardiogenic Shock",
+   "page": 44,
+   "q": "In cardiogenic shock, decreased cardiac output leads to:",
+   "opts": [
+    "O2 not pumped and ↓ MVOS",
+    "↑ MVOS",
+    "↑ SBP",
+    "↓ PVR"
+   ],
+   "ans": 0,
+   "exp": "↓ CO -> O2 not pumped -> ↓ MVOS. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-009",
+   "sec": "Cardiogenic Shock",
+   "page": 44,
+   "q": "In cardiogenic shock the SBP and PVR changes are:",
+   "opts": [
+    "↓ SBP and ↑ PVR with cold extremities",
+    "↑ SBP and ↓ PVR with warm extremities",
+    "↓ SBP and ↓ PVR",
+    "Normal SBP and PVR"
+   ],
+   "ans": 0,
+   "exp": "↓ SBP -> ↑ PVR (Cold extremities). (Book p44)"
+  },
+  {
+   "id": "SURG-C8-010",
+   "sec": "Cardiogenic Shock",
+   "page": 44,
+   "q": "In cardiogenic shock, accumulating preload causes:",
+   "opts": [
+    "↑ JVP",
+    "↓ JVP",
+    "Normal JVP",
+    "↑ urine output"
+   ],
+   "ans": 0,
+   "exp": "Preload accumulates -> ↑ JVP. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-011",
+   "sec": "Cardiogenic Shock",
+   "page": 44,
+   "q": "Extremities in cardiogenic shock are:",
+   "opts": [
+    "Cold",
+    "Warm",
+    "Flushed",
+    "Sweaty and warm"
+   ],
+   "ans": 0,
+   "exp": "Cardiogenic shock: ↑ PVR (Cold extremities). (Book p44)"
+  },
+  {
+   "id": "SURG-C8-012",
+   "sec": "Neurogenic Shock",
+   "page": 44,
+   "q": "The classic example of neurogenic shock is:",
+   "opts": [
+    "Spinal cord injury above T6 level",
+    "Spinal cord injury below L1",
+    "Isolated head injury",
+    "Femoral nerve injury"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic shock example: Spinal cord injury above T6 level. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-013",
+   "sec": "Neurogenic Shock",
+   "page": 44,
+   "q": "The pathophysiology of neurogenic shock begins with:",
+   "opts": [
+    "Loss of sympathetic drive",
+    "Histamine release",
+    "Cardiac pump failure",
+    "Hypovolemia"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology: Loss of sympathetic drive. (Book p44)"
+  },
+  {
+   "id": "SURG-C8-014",
+   "sec": "Neurogenic Shock",
+   "page": 44,
+   "q": "Loss of sympathetic drive causes vasodilation with:",
+   "opts": [
+    "PVR ↓↓ and warm extremities",
+    "PVR ↑↑ and cold extremities",
+    "PVR normal",
+    "↑ CO"
+   ],
+   "ans": 0,
+   "exp": "Vasodilation -> PVR ↓↓ (Warm extremities). (Book p44)"
+  },
+  {
+   "id": "SURG-C8-015",
+   "sec": "Neurogenic Shock",
+   "page": 44,
+   "q": "The heart rate change in neurogenic shock is:",
+   "opts": [
+    "Bradycardia (↓ HR)",
+    "Tachycardia",
+    "Normal",
+    "Variable ↑/↓"
+   ],
+   "ans": 0,
+   "exp": "Loss of sympathetic drive -> Bradycardia (↓ HR). (Book p44)"
+  },
+  {
+   "id": "SURG-C8-016",
+   "sec": "Neurogenic Shock",
+   "page": 45,
+   "q": "In neurogenic shock, peripheral pooling of blood causes:",
+   "opts": [
+    "↓ JVP, ↓ CO, ↓ SBP",
+    "↑ JVP, ↑ CO, ↑ SBP",
+    "↑ JVP with ↓ CO",
+    "Normal JVP and CO"
+   ],
+   "ans": 0,
+   "exp": "D/t peripheral pooling of blood -> ↓ JVP, ↓ CO, ↓ SBP. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-017",
+   "sec": "Neurogenic Shock",
+   "page": 45,
+   "q": "The combination characteristic of neurogenic shock is:",
+   "opts": [
+    "Bradycardia + hypotension",
+    "Tachycardia + hypotension",
+    "Bradycardia + hypertension",
+    "Tachycardia + hypertension"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic shock: Bradycardia + Hypotension. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-018",
+   "sec": "Anaphylactic Shock",
+   "page": 45,
+   "q": "The example of anaphylactic shock given is:",
+   "opts": [
+    "Mismatched blood transfusion",
+    "Spinal anaesthesia",
+    "MI",
+    "Pulmonary embolism"
+   ],
+   "ans": 0,
+   "exp": "Anaphylactic shock example: Mismatched blood transfusion. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-019",
+   "sec": "Anaphylactic Shock",
+   "page": 45,
+   "q": "In anaphylactic shock, the potent vasodilator released is:",
+   "opts": [
+    "Histamine",
+    "Noradrenaline",
+    "Angiotensin",
+    "Endothelin"
+   ],
+   "ans": 0,
+   "exp": "Histamine release (Potent vasodilator). (Book p45)"
+  },
+  {
+   "id": "SURG-C8-020",
+   "sec": "Anaphylactic Shock",
+   "page": 45,
+   "q": "Histamine release causes vasodilation and pooling of blood leading to:",
+   "opts": [
+    "↓ PVR with warm extremities",
+    "↑ PVR with cold extremities",
+    "↑ JVP",
+    "↑ SBP"
+   ],
+   "ans": 0,
+   "exp": "Vasodilation -> Pooling of blood -> ↓ PVR (Warm extremities). (Book p45)"
+  },
+  {
+   "id": "SURG-C8-021",
+   "sec": "Anaphylactic Shock",
+   "page": 45,
+   "q": "In anaphylactic shock, JVP, SBP and CO all:",
+   "opts": [
+    "Decrease",
+    "Increase",
+    "Stay normal",
+    "Become non-recordable only"
+   ],
+   "ans": 0,
+   "exp": "Pooling of blood -> ↓ JVP, ↓ SBP, ↓ CO. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-022",
+   "sec": "Anaphylactic Shock",
+   "page": 45,
+   "q": "Because the sympathetic system is normal in anaphylactic shock, ↓ CO equals:",
+   "opts": [
+    "↑ HR x ↓ SV",
+    "↓ HR x ↑ SV",
+    "↑ HR x ↑ SV",
+    "↓ HR x ↓ SV"
+   ],
+   "ans": 0,
+   "exp": "But, d/t normal sympathetic system: ↓ CO = ↑ HR x ↓ SV. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-023",
+   "sec": "Septic Shock: Warm & Cold",
+   "page": 45,
+   "q": "Warm septic shock shows a hyperdynamic circulation with:",
+   "opts": [
+    "↑ CO, ↑ HR, ↑ SBP",
+    "↓ CO, ↓ HR, ↓ SBP",
+    "↑ CO with ↓ SBP",
+    "↓ CO with ↑ SBP"
+   ],
+   "ans": 0,
+   "exp": "Warm septic shock: Hyperdynamic circulation -> ↑ CO, ↑ HR, ↑ SBP. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-024",
+   "sec": "Septic Shock: Warm & Cold",
+   "page": 45,
+   "q": "MVOS is raised in warm septic shock because of:",
+   "opts": [
+    "Inability of tissues to utilize O2",
+    "Low cardiac output",
+    "Hypovolemia",
+    "Increased O2 pump"
+   ],
+   "ans": 0,
+   "exp": "Raised MVOS d/t inability of tissues to utilize O2. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-025",
+   "sec": "Septic Shock: Warm & Cold",
+   "page": 45,
+   "q": "Cold septic shock occurs in the:",
+   "opts": [
+    "Late phase of sepsis",
+    "Early phase of sepsis",
+    "Recovery phase",
+    "Incubation phase"
+   ],
+   "ans": 0,
+   "exp": "Cold septic shock: Late phase of sepsis. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-026",
+   "sec": "Septic Shock: Warm & Cold",
+   "page": 45,
+   "q": "In cold septic shock, toxins inhibit the myocardium making it similar to:",
+   "opts": [
+    "Cardiogenic shock",
+    "Hypovolemic shock",
+    "Neurogenic shock",
+    "Anaphylactic shock"
+   ],
+   "ans": 0,
+   "exp": "Toxins inhibit myocardium -> similar to cardiogenic shock. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-027",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "In the shock comparison table, pulse rate is ↑↑ (maximum) in:",
+   "opts": [
+    "Anaphylactic shock",
+    "Hypovolemic (Class III)",
+    "Neurogenic shock",
+    "Warm septic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: PR: Anaphylactic = ↑↑. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-028",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "Pulse rate is ↓ in which shock?",
+   "opts": [
+    "Neurogenic shock",
+    "Hypovolemic (Class III)",
+    "Anaphylactic shock",
+    "Warm septic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: PR: Neurogenic = ↓. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-029",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "Pulse rate is ↑/↓ (variable) in:",
+   "opts": [
+    "Cardiogenic and cold septic shock",
+    "Hypovolemic and warm septic",
+    "Neurogenic and anaphylactic",
+    "Only anaphylactic"
+   ],
+   "ans": 0,
+   "exp": "Table: PR: Cardiogenic = ↑/↓; Septic cold = ↑/↓. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-030",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "Cardiac output is ↑ only in:",
+   "opts": [
+    "Warm septic shock",
+    "Cold septic shock",
+    "Cardiogenic shock",
+    "Anaphylactic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: CO: Septic warm = ↑ (all others ↓). (Book p45)"
+  },
+  {
+   "id": "SURG-C8-031",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "SBP is ↑ only in:",
+   "opts": [
+    "Warm septic shock",
+    "Hypovolemic shock",
+    "Cardiogenic shock",
+    "Neurogenic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: SBP: Septic warm = ↑ (others ↓). (Book p45)"
+  },
+  {
+   "id": "SURG-C8-032",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "PVR is ↑↑ (maximum) in:",
+   "opts": [
+    "Hypovolemic (Class III)",
+    "Cardiogenic shock",
+    "Cold septic shock",
+    "Warm septic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: PVR: Hypovolemic (Class III) = ↑↑. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-033",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "PVR is ↑ (single up) in which shocks?",
+   "opts": [
+    "Cardiogenic and cold septic",
+    "Warm septic and anaphylactic",
+    "Neurogenic and warm septic",
+    "Hypovolemic and neurogenic"
+   ],
+   "ans": 0,
+   "exp": "Table: PVR: Cardiogenic = ↑; Septic cold = ↑. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-034",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "JVP is ↑ in:",
+   "opts": [
+    "Cardiogenic and cold septic shock",
+    "Hypovolemic and anaphylactic",
+    "Neurogenic and warm septic",
+    "All shocks"
+   ],
+   "ans": 0,
+   "exp": "Table: JVP: Cardiogenic = ↑; Septic cold = ↑; others ↓ or normal. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-035",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "JVP is normal in:",
+   "opts": [
+    "Warm septic shock",
+    "Cardiogenic shock",
+    "Cold septic shock",
+    "Hypovolemic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: JVP: Septic warm = Normal. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-036",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "MVOS is ↑↑ in:",
+   "opts": [
+    "Warm septic shock",
+    "Cold septic shock",
+    "Hypovolemic shock",
+    "Cardiogenic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: MVOS: Septic warm = ↑↑. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-037",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "MVOS is ↓ in which shocks?",
+   "opts": [
+    "Hypovolemic, cardiogenic and cold septic",
+    "Warm septic only",
+    "Neurogenic and anaphylactic",
+    "All shocks"
+   ],
+   "ans": 0,
+   "exp": "Table: MVOS: Hypovolemic ↓, Cardiogenic ↓, Septic cold ↓; neurogenic and anaphylactic = -. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-038",
+   "sec": "Shock Comparison Table",
+   "page": 45,
+   "q": "Acidosis in the comparison table is present (+) in:",
+   "opts": [
+    "All listed shocks",
+    "Only hypovolemic shock",
+    "Only septic shocks",
+    "Only cardiogenic shock"
+   ],
+   "ans": 0,
+   "exp": "Table: Acidosis: + in every column. (Book p45)"
+  },
+  {
+   "id": "SURG-C8-039",
+   "sec": "Obstructive, Distributive & Endocrine",
+   "page": 46,
+   "q": "Obstructive shock is a type of:",
+   "opts": [
+    "Cardiogenic shock",
+    "Distributive shock",
+    "Hypovolemic shock",
+    "Endocrine shock"
+   ],
+   "ans": 0,
+   "exp": "Obstructive shock: Type of cardiogenic shock. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-040",
+   "sec": "Obstructive, Distributive & Endocrine",
+   "page": 46,
+   "q": "In obstructive shock, preload falls because of:",
+   "opts": [
+    "Improper filling of heart",
+    "Vasodilation",
+    "Blood loss",
+    "Myocardial infarction"
+   ],
+   "ans": 0,
+   "exp": "Preload ↓ d/t improper filling of heart. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-041",
+   "sec": "Obstructive, Distributive & Endocrine",
+   "page": 46,
+   "q": "Examples of obstructive shock are:",
+   "opts": [
+    "Cardiac tamponade and massive pulmonary embolism",
+    "MI and arrhythmias",
+    "Spinal injury and anaphylaxis",
+    "Adrenal insufficiency"
+   ],
+   "ans": 0,
+   "exp": "Obstructive shock examples: Cardiac Tamponade; massive pulmonary embolism. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-042",
+   "sec": "Obstructive, Distributive & Endocrine",
+   "page": 46,
+   "q": "Distributive shock is caused by:",
+   "opts": [
+    "Redistribution of blood to the peripheries decreasing cardiac output",
+    "Pump failure",
+    "Obstruction to filling",
+    "Blood loss"
+   ],
+   "ans": 0,
+   "exp": "Distributive shock: Redistribution of blood to the peripheries -> ↓ Cardiac Output. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-043",
+   "sec": "Obstructive, Distributive & Endocrine",
+   "page": 46,
+   "q": "Examples of distributive shock with warm extremities (+) are:",
+   "opts": [
+    "Neurogenic, anaphylactic and warm septic shock",
+    "Cardiogenic and obstructive",
+    "Cold septic only",
+    "Hypovolemic and cardiogenic"
+   ],
+   "ans": 0,
+   "exp": "Distributive examples: Neurogenic shock, Anaphylactic shock, Warm septic shock -> Warm extremities (+). (Book p46)"
+  },
+  {
+   "id": "SURG-C8-044",
+   "sec": "Obstructive, Distributive & Endocrine",
+   "page": 46,
+   "q": "Endocrine shock is a combination of:",
+   "opts": [
+    "Cardiac and distributive shock",
+    "Hypovolemic and obstructive",
+    "Septic and anaphylactic",
+    "Neurogenic and obstructive"
+   ],
+   "ans": 0,
+   "exp": "Endocrine shock: Combination of cardiac and distributive shock. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-045",
+   "sec": "Obstructive, Distributive & Endocrine",
+   "page": 46,
+   "q": "Examples of endocrine shock include:",
+   "opts": [
+    "Hypo/hyperthyroidism and adrenal insufficiency",
+    "Diabetes insipidus only",
+    "Cushing syndrome only",
+    "Addison disease only"
+   ],
+   "ans": 0,
+   "exp": "Endocrine shock examples: Hypo/hyperthyroidism; Adrenal insufficiency. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-046",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "SIRS stands for and means:",
+   "opts": [
+    "Systemic inflammatory response syndrome; body's response to inflammation",
+    "Septic immune response state; infection only",
+    "Systemic infection response score; bacterial count",
+    "Severe inflammatory reaction syndrome; fever only"
+   ],
+   "ans": 0,
+   "exp": "SIRS (Systemic inflammatory response syndrome): Body's response to inflammation. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-047",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "The etiology of inflammation in SIRS can be:",
+   "opts": [
+    "Infective and non-infective",
+    "Only infective",
+    "Only non-infective",
+    "Only traumatic"
+   ],
+   "ans": 0,
+   "exp": "Etiology of inflammation: Infective; Non-Infective. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-048",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "Mediators of SIRS include:",
+   "opts": [
+    "IL-1, IL-6, TNF-alpha",
+    "IL-2, IL-4, IL-10",
+    "Histamine only",
+    "Prostaglandins only"
+   ],
+   "ans": 0,
+   "exp": "Mediators: IL-1, IL-6, TNF-alpha. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-049",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "The temperature parameter of SIRS is:",
+   "opts": [
+    "> 38°C or < 36°C",
+    "> 39°C or < 35°C",
+    "> 37.5°C only",
+    "< 37°C only"
+   ],
+   "ans": 0,
+   "exp": "SIRS parameters: a. Temperature > 38°C or < 36°C. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-050",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "The heart rate parameter of SIRS is:",
+   "opts": [
+    "> 90 bpm",
+    "> 100 bpm",
+    "> 110 bpm",
+    "> 120 bpm"
+   ],
+   "ans": 0,
+   "exp": "SIRS parameters: b. Heart rate > 90 bpm. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-051",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "The respiratory parameter of SIRS is:",
+   "opts": [
+    "Respiratory rate > 20/min or PaCO2 < 32 torr",
+    "Respiratory rate > 30/min or PaCO2 < 25 torr",
+    "Respiratory rate > 12/min",
+    "PaCO2 > 45 torr"
+   ],
+   "ans": 0,
+   "exp": "SIRS parameters: c. Respiratory rate > 20/min or PaCO2 < 32 torr. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-052",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "The WBC parameter of SIRS is:",
+   "opts": [
+    "WBC > 12000/mm3 or < 4000/mm3 or > 10% band forms in peripheral smear",
+    "WBC > 15000/mm3 only",
+    "WBC < 8000/mm3",
+    "> 5% band forms"
+   ],
+   "ans": 0,
+   "exp": "SIRS parameters: d. WBC > 12000/mm3 or < 4000/mm3 or > 10% band forms in peripheral smear. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-053",
+   "sec": "SIRS & Terminologies",
+   "page": 46,
+   "q": "SIRS is defined when how many parameters are present?",
+   "opts": [
+    "Any 2 parameters",
+    "All 4 parameters",
+    "Any 1 parameter",
+    "Any 3 parameters"
+   ],
+   "ans": 0,
+   "exp": "Any 2 parameters present: SIRS. (Book p46)"
+  },
+  {
+   "id": "SURG-C8-054",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "The old definition of sepsis was:",
+   "opts": [
+    "SIRS + known foci of infection",
+    "SOFA ≥ 2",
+    "qSOFA ≥ 2",
+    "SIRS + organ failure"
+   ],
+   "ans": 0,
+   "exp": "Sepsis: Old definition: SIRS + Known foci of infection. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-055",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "The new definition of sepsis is:",
+   "opts": [
+    "SOFA score ≥ 2 + documented infection",
+    "SIRS + fever",
+    "qSOFA ≥ 1",
+    "Blood culture positive only"
+   ],
+   "ans": 0,
+   "exp": "New definition: SOFA score ≥ 2 + Documented infection. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-056",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "SOFA stands for:",
+   "opts": [
+    "Sequential organ failure assessment",
+    "Systemic organ failure analysis",
+    "Sepsis organ function audit",
+    "Sequential oxygen failure assessment"
+   ],
+   "ans": 0,
+   "exp": "SOFA score (Sequential organ failure assessment). (Book p47)"
+  },
+  {
+   "id": "SURG-C8-057",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "A SOFA score of ≥ 2 indicates:",
+   "opts": [
+    "Sepsis",
+    "SIRS",
+    "MODS",
+    "Septic shock"
+   ],
+   "ans": 0,
+   "exp": "SOFA score: ≥ 2 -> Sepsis. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-058",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "qSOFA parameters include all of the following EXCEPT:",
+   "opts": [
+    "Heart rate > 90 bpm",
+    "SBP < 100 mmHg",
+    "RR > 22/min (tachypnea)",
+    "Altered mental state"
+   ],
+   "ans": 0,
+   "exp": "qSOFA parameters: a. SBP < 100 mmHg; b. RR > 22/min (Tachypnea); c. Altered mental state. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-059",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "The qSOFA SBP cutoff is:",
+   "opts": [
+    "< 100 mmHg",
+    "< 90 mmHg",
+    "< 110 mmHg",
+    "< 120 mmHg"
+   ],
+   "ans": 0,
+   "exp": "qSOFA: a. SBP < 100 mmHg. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-060",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "The qSOFA respiratory rate cutoff is:",
+   "opts": [
+    "> 22/min",
+    "> 20/min",
+    "> 24/min",
+    "> 30/min"
+   ],
+   "ans": 0,
+   "exp": "qSOFA: b. RR > 22/min (Tachypnea). (Book p47)"
+  },
+  {
+   "id": "SURG-C8-061",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "A qSOFA score ≥ 2 predicts:",
+   "opts": [
+    "Poor outcome",
+    "Good outcome",
+    "SIRS",
+    "Fever"
+   ],
+   "ans": 0,
+   "exp": "qSOFA ≥ 2: Poor outcome. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-062",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "The qSOFA sofa graphic lists hypotension (systolic BP <100 mm Hg), altered mental status and:",
+   "opts": [
+    "Tachypnea RR > 22/min",
+    "Tachycardia HR > 90",
+    "Fever > 38°C",
+    "Urine output < 0.5 mL/kg/hr"
+   ],
+   "ans": 0,
+   "exp": "qSOFA score graphic: Hypotension SBP <100 mm Hg; Altered mental status; Tachypnea RR > 22/min; Score of ≥2 criteria suggests a poor outcome. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-063",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "Septic shock is defined as sepsis with:",
+   "opts": [
+    "Fluid unresponsive hypotension",
+    "Fever only",
+    "Tachycardia only",
+    "Raised WBC"
+   ],
+   "ans": 0,
+   "exp": "Septic Shock: Sepsis with fluid unresponsive hypotension. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-064",
+   "sec": "Sepsis Definitions & Scores",
+   "page": 47,
+   "q": "MODS (multiorgan dysfunction syndrome) is:",
+   "opts": [
+    "Failure of 2 or more organ systems",
+    "Failure of 1 organ",
+    "Failure of 4 or more organs",
+    "Renal failure only"
+   ],
+   "ans": 0,
+   "exp": "MODS: Failure of 2 or more organ systems. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-065",
+   "sec": "Sepsis 3.0",
+   "page": 47,
+   "q": "As per Sepsis 3.0, sepsis is:",
+   "opts": [
+    "Life-threatening organ dysfunction caused by a dysregulated host response to infection",
+    "SIRS plus infection",
+    "Fever with tachycardia",
+    "qSOFA ≥ 1 with fever"
+   ],
+   "ans": 0,
+   "exp": "Sepsis 3.0: Life-threatening organ dysfunction caused by a dysregulated host response to infection. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-066",
+   "sec": "Sepsis 3.0",
+   "page": 47,
+   "q": "As per Sepsis 3.0, septic shock needs vasopressors/inotropes plus lactate greater than:",
+   "opts": [
+    "2 mmol/L",
+    "1 mmol/L",
+    "4 mmol/L",
+    "0.5 mmol/L"
+   ],
+   "ans": 0,
+   "exp": "Septic Shock: Need for vasopressors/ionotropers + Lactate > 2 mmol/L. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-067",
+   "sec": "Sepsis 3.0",
+   "page": 47,
+   "q": "Which term is OUT as per the update?",
+   "opts": [
+    "Severe sepsis",
+    "Septic shock",
+    "qSOFA",
+    "SOFA"
+   ],
+   "ans": 0,
+   "exp": "Note: The term severe sepsis is out. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-068",
+   "sec": "Sepsis 3.0",
+   "page": 47,
+   "q": "As per the update:",
+   "opts": [
+    "SIRS is out; qSOFA/SOFA are in",
+    "SIRS is in; qSOFA is out",
+    "Both SIRS and SOFA are out",
+    "qSOFA is out; SIRS is in"
+   ],
+   "ans": 0,
+   "exp": "Note: SIRS is out qSOFA/SOFA are in. (Book p47)"
+  },
+  {
+   "id": "SURG-C8-069",
+   "sec": "Sepsis Six",
+   "page": 48,
+   "q": "The sepsis six are six things to be done in:",
+   "opts": [
+    "60 mins",
+    "30 mins",
+    "3 hours",
+    "6 hours"
+   ],
+   "ans": 0,
+   "exp": "Sepsis Six: Six things to be done in 60 mins. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-070",
+   "sec": "Sepsis Six",
+   "page": 48,
+   "q": "The 'Give 3' of the sepsis six are:",
+   "opts": [
+    "I/V antibiotics, I/V fluids, O2",
+    "Cultures, urine output, lactate",
+    "Vasopressors, fluids, O2",
+    "Antibiotics, cultures, O2"
+   ],
+   "ans": 0,
+   "exp": "Give 3: I/V antibiotics, I/V fluids, O2. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-071",
+   "sec": "Sepsis Six",
+   "page": 48,
+   "q": "The 'Take 3' of the sepsis six are:",
+   "opts": [
+    "Cultures, urine output, serum lactate",
+    "Antibiotics, fluids, O2",
+    "BP, HR, RR",
+    "Blood, urine, sputum"
+   ],
+   "ans": 0,
+   "exp": "Take 3: Cultures, Urine output, Serum lactate. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-072",
+   "sec": "Sepsis Six",
+   "page": 48,
+   "q": "The mnemonic for the sepsis six is:",
+   "opts": [
+    "Think FABULOS",
+    "Think SEPSIS",
+    "FAST HUG",
+    "SIX PACK"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic: Think FABULOS. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-073",
+   "sec": "Sepsis Six",
+   "page": 48,
+   "q": "In the FABULOS mnemonic, the letters stand for Fluid, Antibiotics, Blood cultures, Urine output, Lactate, Oxygen and:",
+   "opts": [
+    "In Sixty minutes",
+    "In Sepsis",
+    "Immediate Support",
+    "Intravenous Steroids"
+   ],
+   "ans": 0,
+   "exp": "FABULOS: Fluid, Antibiotics, Blood cultures, Urine Output, Lactate, Oxygen, In Sixty minutes. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-074",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "Within 3 hours of the sepsis bundle, the first step is to:",
+   "opts": [
+    "Measure lactate",
+    "Start vasopressors",
+    "Give FFP",
+    "Insert arterial line"
+   ],
+   "ans": 0,
+   "exp": "Within 3 hours: 1. Measure lactate. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-075",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "Blood cultures in the sepsis bundle are taken:",
+   "opts": [
+    "Prior to antibiotics",
+    "After antibiotics",
+    "Only if fever persists",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Within 3 hours: 2. Blood culture prior to antibiotics. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-076",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "Within 3 hours the bundle gives:",
+   "opts": [
+    "Broad spectrum antibiotics",
+    "Narrow spectrum antibiotics",
+    "Antifungals only",
+    "Antivirals"
+   ],
+   "ans": 0,
+   "exp": "Within 3 hours: 3. Broad spectrum antibiotics. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-077",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "30 mL/kg crystalloid within 3 hours is indicated for:",
+   "opts": [
+    "Hypotension or lactate ≥ 4 mmol/L",
+    "Fever only",
+    "Tachycardia only",
+    "Lactate ≥ 2 mmol/L only"
+   ],
+   "ans": 0,
+   "exp": "Within 3 hours: 4. 30 ml/Kg crystalloid for: Hypotension or Lactate ≥ 4 mmol/L. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-078",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "Within 6 hours, vasopressors for refractory hypotension target a MAP of:",
+   "opts": [
+    "≥ 65 mmHg",
+    "≥ 50 mmHg",
+    "≥ 80 mmHg",
+    "≥ 90 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Within 6 hours: 5. Vasopressors for refractory hypotension -> Target MAP ≥ 65 mmHg. (Book p48)"
+  },
+  {
+   "id": "SURG-C8-079",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "Persistent arterial hypotension/lactate ≥ 4 mmol/L within 6 hours prompts measurement of:",
+   "opts": [
+    "CVP and central venous O2 saturation (ScvO2)",
+    "Only urine output",
+    "Only Hb",
+    "PCWP only"
+   ],
+   "ans": 0,
+   "exp": "6. Persistent arterial hypotension/Lactate ≥ 4 mmol/L -> measure: a. CVP; b. Central venous O2 saturation (ScvO2). (Book p48)"
+  },
+  {
+   "id": "SURG-C8-080",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "Within 6 hours the bundle also advises to:",
+   "opts": [
+    "Remeasure lactate if initially elevated",
+    "Stop antibiotics",
+    "Transfuse blood always",
+    "Give steroids always"
+   ],
+   "ans": 0,
+   "exp": "Within 6 hours: 7. Remeasure lactate (if initially elevated). (Book p48)"
+  },
+  {
+   "id": "SURG-C8-081",
+   "sec": "Sepsis Bundle",
+   "page": 48,
+   "q": "The bundle targets are CVP and ScvO2 of:",
+   "opts": [
+    "CVP ≥ 8 mm Hg, ScvO2 ≥ 70%",
+    "CVP ≥ 12 mm Hg, ScvO2 ≥ 50%",
+    "CVP ≥ 5 mm Hg, ScvO2 ≥ 90%",
+    "CVP ≥ 15 mm Hg, ScvO2 ≥ 60%"
+   ],
+   "ans": 0,
+   "exp": "Target CVP: ≥ 8 mm Hg, ScvO2 ≥ 70%. (Book p48)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U8-1",
+   "ch": 8,
+   "n": 1,
+   "title": "MVOS: Meaning, Value & Types",
+   "sec": "MVOS · p44",
+   "qs": [
+    "SURG-C8-001",
+    "SURG-C8-002",
+    "SURG-C8-003",
+    "SURG-C8-004",
+    "SURG-C8-005"
+   ],
+   "guide": "MVOS is the unutilised oxygen returning to the heart - normally 50-70%, read from a right atrial catheter. Low values mean a low cardiac output or a reduced O2 pump (hypovolemic shock); a high value points to distributive shock."
+  },
+  {
+   "id": "SURG-U8-2",
+   "ch": 8,
+   "n": 2,
+   "title": "Cardiogenic Shock",
+   "sec": "Cardiogenic Shock · p44",
+   "qs": [
+    "SURG-C8-006",
+    "SURG-C8-007",
+    "SURG-C8-008",
+    "SURG-C8-009",
+    "SURG-C8-010",
+    "SURG-C8-011"
+   ],
+   "guide": "MI, tamponade and arrhythmias stop the heart functioning properly: CO and MVOS fall, SBP falls with PVR rising into cold extremities, while accumulating preload raises the JVP."
+  },
+  {
+   "id": "SURG-U8-3",
+   "ch": 8,
+   "n": 3,
+   "title": "Neurogenic Shock",
+   "sec": "Neurogenic Shock · p44",
+   "qs": [
+    "SURG-C8-012",
+    "SURG-C8-013",
+    "SURG-C8-014",
+    "SURG-C8-015",
+    "SURG-C8-016",
+    "SURG-C8-017"
+   ],
+   "guide": "Spinal cord injury above T6 switches off sympathetic drive: vasodilation drops PVR into warm extremities while bradycardia and peripheral pooling pull JVP, CO and SBP down - bradycardia with hypotension is the giveaway."
+  },
+  {
+   "id": "SURG-U8-4",
+   "ch": 8,
+   "n": 4,
+   "title": "Anaphylactic Shock",
+   "sec": "Anaphylactic Shock · p45",
+   "qs": [
+    "SURG-C8-018",
+    "SURG-C8-019",
+    "SURG-C8-020",
+    "SURG-C8-021",
+    "SURG-C8-022"
+   ],
+   "guide": "Histamine - a potent vasodilator - pools blood in anaphylaxis (classically a mismatched transfusion), dropping PVR, JVP, SBP and CO with warm extremities; an intact sympathetic system compensates with ↓CO = ↑HR x ↓SV."
+  },
+  {
+   "id": "SURG-U8-5",
+   "ch": 8,
+   "n": 5,
+   "title": "Septic Shock: Warm & Cold",
+   "sec": "Septic Shock: Warm & Cold · p45",
+   "qs": [
+    "SURG-C8-023",
+    "SURG-C8-024",
+    "SURG-C8-025",
+    "SURG-C8-026"
+   ],
+   "guide": "Warm septic shock is hyperdynamic (↑CO, ↑HR, ↑SBP) with a raised MVOS because tissues cannot use O2; cold septic shock is the late phase where toxins inhibit the myocardium, mimicking cardiogenic shock."
+  },
+  {
+   "id": "SURG-U8-6",
+   "ch": 8,
+   "n": 6,
+   "title": "Shock Comparison Table",
+   "sec": "Shock Comparison Table · p45",
+   "qs": [
+    "SURG-C8-027",
+    "SURG-C8-028",
+    "SURG-C8-029",
+    "SURG-C8-030",
+    "SURG-C8-031",
+    "SURG-C8-032",
+    "SURG-C8-033",
+    "SURG-C8-034",
+    "SURG-C8-035",
+    "SURG-C8-036",
+    "SURG-C8-037",
+    "SURG-C8-038"
+   ],
+   "guide": "Across the table: PR peaks (↑↑) in anaphylaxis and falls in neurogenic; CO and SBP rise only in warm sepsis; PVR is ↑↑ in hypovolemia and ↑ in cardiogenic/cold sepsis; JVP rises in cardiogenic/cold sepsis but stays normal in warm sepsis; MVOS is ↑↑ in warm sepsis, ↓ in hypovolemic/cardiogenic/cold sepsis; acidosis is positive everywhere."
+  },
+  {
+   "id": "SURG-U8-7",
+   "ch": 8,
+   "n": 7,
+   "title": "Obstructive, Distributive & Endocrine Shock",
+   "sec": "Obstructive, Distributive & Endocrine · p46",
+   "qs": [
+    "SURG-C8-039",
+    "SURG-C8-040",
+    "SURG-C8-041",
+    "SURG-C8-042",
+    "SURG-C8-043",
+    "SURG-C8-044",
+    "SURG-C8-045"
+   ],
+   "guide": "Obstructive shock is a cardiogenic variant where tamponade or massive PE blocks filling and preload falls. Distributive shock redistributes blood peripherally (neurogenic, anaphylactic, warm septic - all warm), while endocrine shock mixes cardiac and distributive patterns in thyroid disease or adrenal insufficiency."
+  },
+  {
+   "id": "SURG-U8-8",
+   "ch": 8,
+   "n": 8,
+   "title": "SIRS: Terminologies & Parameters",
+   "sec": "SIRS & Terminologies · p46",
+   "qs": [
+    "SURG-C8-046",
+    "SURG-C8-047",
+    "SURG-C8-048",
+    "SURG-C8-049",
+    "SURG-C8-050",
+    "SURG-C8-051",
+    "SURG-C8-052",
+    "SURG-C8-053"
+   ],
+   "guide": "SIRS is the body's response to infective or non-infective inflammation through IL-1, IL-6 and TNF-alpha. Any two of: temperature >38/<36°C, HR >90, RR >20 or PaCO2 <32 torr, WBC >12000/<4000 or >10% bands - and SIRS is declared."
+  },
+  {
+   "id": "SURG-U8-9",
+   "ch": 8,
+   "n": 9,
+   "title": "Sepsis: Definitions, Scores & Sepsis 3.0",
+   "sec": "Sepsis Definitions & Scores · p47",
+   "qs": [
+    "SURG-C8-054",
+    "SURG-C8-055",
+    "SURG-C8-056",
+    "SURG-C8-057",
+    "SURG-C8-058",
+    "SURG-C8-059",
+    "SURG-C8-060",
+    "SURG-C8-061",
+    "SURG-C8-062",
+    "SURG-C8-063",
+    "SURG-C8-064",
+    "SURG-C8-065",
+    "SURG-C8-066",
+    "SURG-C8-067",
+    "SURG-C8-068"
+   ],
+   "guide": "Old sepsis was SIRS plus a known focus; new sepsis is SOFA ≥2 with documented infection, and qSOFA (SBP <100, RR >22, altered mentation) ≥2 forecasts poor outcome. Sepsis 3.0 calls it life-threatening organ dysfunction from a dysregulated host response, septic shock adds vasopressors plus lactate >2 mmol/L - severe sepsis and SIRS are out."
+  },
+  {
+   "id": "SURG-U8-10",
+   "ch": 8,
+   "n": 10,
+   "title": "Sepsis Six",
+   "sec": "Sepsis Six · p48",
+   "qs": [
+    "SURG-C8-069",
+    "SURG-C8-070",
+    "SURG-C8-071",
+    "SURG-C8-072",
+    "SURG-C8-073"
+   ],
+   "guide": "Six things in sixty minutes - give I/V antibiotics, I/V fluids and O2; take cultures, urine output and serum lactate - remembered as Think FABULOS."
+  },
+  {
+   "id": "SURG-U8-11",
+   "ch": 8,
+   "n": 11,
+   "title": "Surviving Sepsis Guidelines / Sepsis Bundle",
+   "sec": "Sepsis Bundle · p48",
+   "qs": [
+    "SURG-C8-074",
+    "SURG-C8-075",
+    "SURG-C8-076",
+    "SURG-C8-077",
+    "SURG-C8-078",
+    "SURG-C8-079",
+    "SURG-C8-080",
+    "SURG-C8-081"
+   ],
+   "guide": "Within 3 hours: measure lactate, culture before antibiotics, broad spectrum antibiotics and 30 mL/kg crystalloid for hypotension or lactate ≥4. Within 6 hours: vasopressors to MAP ≥65, measure CVP and ScvO2 for persistent hypotension/lactate ≥4, remeasure lactate - targeting CVP ≥8 mm Hg and ScvO2 ≥70%."
+  }
+ ]
+}

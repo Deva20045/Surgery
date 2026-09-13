@@ -1,0 +1,1381 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C9-001",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The breast is embryologically a:",
+   "opts": [
+    "Modified sweat gland",
+    "Modified sebaceous gland",
+    "Modified salivary gland",
+    "Modified lymphoid organ"
+   ],
+   "ans": 0,
+   "exp": "Surgical anatomy: modified sweat gland. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-002",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The axillary tail of Spence:",
+   "opts": [
+    "Extends upto axilla and can be mistaken for a lump",
+    "Extends to the sternum",
+    "Is always absent",
+    "Contains no glandular tissue"
+   ],
+   "ans": 0,
+   "exp": "Axillary tail of Spence: Extends upto axilla; Can be mistaken for a lump. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-003",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The vertical extent of the breast is from the:",
+   "opts": [
+    "2nd to 6th rib",
+    "1st to 4th rib",
+    "3rd to 8th rib",
+    "4th to 9th rib"
+   ],
+   "ans": 0,
+   "exp": "Extent: 2nd to 6th rib. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-004",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The horizontal extent of the breast is from the:",
+   "opts": [
+    "Midline to anterior/mid-axillary line",
+    "Midline to posterior axillary line",
+    "Sternum to scapula",
+    "Clavicle to xiphisternum"
+   ],
+   "ans": 0,
+   "exp": "Extent: Midline to Anterior/Mid-axillary line. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-005",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The number of lactiferous ducts and where they open are:",
+   "opts": [
+    "9-12 ducts opening at the nipple",
+    "2-4 ducts opening at the areola",
+    "20-25 ducts opening at the skin",
+    "1 duct opening at the nipple"
+   ],
+   "ans": 0,
+   "exp": "Lactiferous ducts (9-12): Open at the nipple. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-006",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The suspensory ligaments of Cooper run from the:",
+   "opts": [
+    "Pectoralis fascia to the skin",
+    "Skin to the ribs",
+    "Nipple to the areola",
+    "Fascia to the sternum"
+   ],
+   "ans": 0,
+   "exp": "Suspensory ligaments of Cooper: Pectoralis fascia -> Skin. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-007",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The function of Cooper's ligaments is to:",
+   "opts": [
+    "Maintain the shape of the breast",
+    "Drain lymph",
+    "Secrete milk",
+    "Supply blood"
+   ],
+   "ans": 0,
+   "exp": "Suspensory ligaments of Cooper: Maintains the shape of the breast. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-008",
+   "sec": "Surgical Anatomy",
+   "page": 49,
+   "q": "The breast lies over which muscle and its fascia?",
+   "opts": [
+    "Pectoralis major",
+    "Latissimus dorsi",
+    "Serratus anterior",
+    "Rectus abdominis"
+   ],
+   "ans": 0,
+   "exp": "Breast rests on Pectoralis major / Pectoralis fascia. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-009",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "Dimpling of breast skin is due to involvement of which structure in malignancy?",
+   "opts": [
+    "Ligament of Cooper",
+    "Lactiferous duct",
+    "Subdermal lymphatics",
+    "Pectoralis major"
+   ],
+   "ans": 0,
+   "exp": "Dimpling: Due to involvement of ligament of Cooper in malignancy. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-010",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "Dimpling in breast cancer is:",
+   "opts": [
+    "Not a sign of skin involvement",
+    "A definite sign of skin involvement",
+    "A sign of chest wall fixation",
+    "A sign of mastitis"
+   ],
+   "ans": 0,
+   "exp": "Dimpling: Not a sign of skin involvement in breast cancer. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-011",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "Retraction of nipple in breast cancer is:",
+   "opts": [
+    "Not a sign of skin involvement",
+    "A sign of skin involvement",
+    "Always benign",
+    "Seen only in duct ectasia"
+   ],
+   "ans": 0,
+   "exp": "Retraction of nipple: Not a sign of skin involvement in breast cancer. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-012",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "A slit-like nipple retraction is characteristic of:",
+   "opts": [
+    "Duct ectasia",
+    "Cancer",
+    "Abscess",
+    "Fibroadenoma"
+   ],
+   "ans": 0,
+   "exp": "Types of nipple retraction: Slit like (Duct ectasia). (Book p49)"
+  },
+  {
+   "id": "SURG-C9-013",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "A circumferential nipple retraction is characteristic of:",
+   "opts": [
+    "Cancer",
+    "Duct ectasia",
+    "Trauma",
+    "Congenital inversion"
+   ],
+   "ans": 0,
+   "exp": "Types of nipple retraction: Circumferential (cancer). (Book p49)"
+  },
+  {
+   "id": "SURG-C9-014",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "Peau d'orange (PDO) gives which appearance?",
+   "opts": [
+    "Orange peel appearance",
+    "Blue discoloration",
+    "Shiny smooth skin",
+    "Ulceration"
+   ],
+   "ans": 0,
+   "exp": "Peau d'orange: Orange peel appearance. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-015",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "Peau d'orange is caused by involvement of which structures in cancer?",
+   "opts": [
+    "Sub dermal/superficial lymphatics",
+    "Cooper's ligaments",
+    "Deep fascia",
+    "Lactiferous ducts"
+   ],
+   "ans": 0,
+   "exp": "PDO: Involvement of sub dermal/superficial lymphatics in cancer. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-016",
+   "sec": "Clinical Signs",
+   "page": 49,
+   "q": "If more than 1/3rd of the breast is involved by peau d'orange, the diagnosis is:",
+   "opts": [
+    "Inflammatory breast cancer",
+    "Duct ectasia",
+    "Fat necrosis",
+    "Phyllodes tumor"
+   ],
+   "ans": 0,
+   "exp": "If > 1/3rd of breast involved -> Inflammatory breast cancer. (Book p49)"
+  },
+  {
+   "id": "SURG-C9-017",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "What percentage of breast lymphatic drainage goes to axillary lymph nodes?",
+   "opts": [
+    "85-90%",
+    "10-15%",
+    "50-60%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "Lymphatic drainage: 85-90% Axillary Lymph nodes (LN). (Book p50)"
+  },
+  {
+   "id": "SURG-C9-018",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "What percentage of breast lymph drains to internal mammary lymph nodes?",
+   "opts": [
+    "10-15%",
+    "85-90%",
+    "25-30%",
+    "5%"
+   ],
+   "ans": 0,
+   "exp": "Lymphatic drainage: 10-15% Internal mammary LN. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-019",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "The clinical examination groups of axillary lymph nodes are:",
+   "opts": [
+    "Anterior, Central, Apical, Lateral, Posterior",
+    "Level I, II, III",
+    "Superficial and deep",
+    "Medial and lateral"
+   ],
+   "ans": 0,
+   "exp": "Clinical Examination: Anterior, Central, Apical, Lateral, Posterior. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-020",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "The surgical division of axillary nodes is based on their relation to the:",
+   "opts": [
+    "Pectoralis minor",
+    "Pectoralis major",
+    "Latissimus dorsi",
+    "Subclavian vein"
+   ],
+   "ans": 0,
+   "exp": "Surgical division levels I-III are mapped on the Pectoralis minor. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-021",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "Level I axillary nodes lie which side of the pectoralis minor?",
+   "opts": [
+    "Lateral",
+    "Medial",
+    "Posterior",
+    "Deep"
+   ],
+   "ans": 0,
+   "exp": "Surgical division: Lateral = Level I. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-022",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "Level III axillary nodes lie which side of the pectoralis minor?",
+   "opts": [
+    "Medial",
+    "Lateral",
+    "Superficial",
+    "Within"
+   ],
+   "ans": 0,
+   "exp": "Surgical division: Medial = Level III. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-023",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "Rotter's lymph nodes are present between the:",
+   "opts": [
+    "Pectoralis major and minor",
+    "Skin and fascia",
+    "Breast and ribs",
+    "Axilla and neck"
+   ],
+   "ans": 0,
+   "exp": "Rotter's lymph nodes: Present b/w pectoralis major and minor. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-024",
+   "sec": "Lymphatic Drainage",
+   "page": 50,
+   "q": "The sentinel lymph node is:",
+   "opts": [
+    "The first draining LN from any cancer",
+    "The largest axillary node",
+    "The apical node",
+    "A internal mammary node"
+   ],
+   "ans": 0,
+   "exp": "Sentinel lymph node -> First draining LN from any cancer. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-025",
+   "sec": "Functional Unit & Assessment",
+   "page": 50,
+   "q": "The functional unit of the breast where most cancers arise is the:",
+   "opts": [
+    "Terminal duct lobular unit (TDLU)",
+    "Lactiferous sinus",
+    "Cooper's ligament",
+    "Areolar gland"
+   ],
+   "ans": 0,
+   "exp": "Terminal duct lobular unit (TDLU): most cancers arise here. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-026",
+   "sec": "Functional Unit & Assessment",
+   "page": 50,
+   "q": "The stroma present between TDLUs gives rise to:",
+   "opts": [
+    "Fibroadenoma and phyllodes tumor",
+    "Duct papilloma",
+    "DCIS",
+    "Fat necrosis"
+   ],
+   "ans": 0,
+   "exp": "Stroma present b/w TDLUs give rise to: Fibro adenoma; Phyllodes tumor. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-027",
+   "sec": "Functional Unit & Assessment",
+   "page": 50,
+   "q": "The triple assessment of a breast lump is:",
+   "opts": [
+    "Clinical examination -> Radiological investigation -> Histopathological investigation",
+    "USG -> MRI -> PET",
+    "FNAC -> core biopsy -> excision",
+    "Inspection -> palpation -> auscultation"
+   ],
+   "ans": 0,
+   "exp": "Triple Assessment: Clinical examination -> Radiological investigation -> Histopathological investigation. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-028",
+   "sec": "Functional Unit & Assessment",
+   "page": 50,
+   "q": "The best method of breast examination is the:",
+   "opts": [
+    "Dial clock method",
+    "Vertical strip method",
+    "Circular spiral method",
+    "Quadrant method only"
+   ],
+   "ans": 0,
+   "exp": "Breast examination: Best method: Dial clock method. (Book p50)"
+  },
+  {
+   "id": "SURG-C9-029",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "The initial investigation for a breast lump in a woman <40 years (glands > fat) is:",
+   "opts": [
+    "USG",
+    "Mammogram",
+    "MRI",
+    "PET"
+   ],
+   "ans": 0,
+   "exp": "Initial investigation: <40 years (Glands > Fat) -> USG. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-030",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "The initial investigation for a breast lump in a woman >40 years (fat > glands) is:",
+   "opts": [
+    "Mammogram",
+    "USG",
+    "MRI",
+    "FNAC"
+   ],
+   "ans": 0,
+   "exp": "Initial investigation: >40 years (Fat > Glands) -> Mammogram. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-031",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "Mammography is not sensitive in ages < 40 years because:",
+   "opts": [
+    "Both lesions and normal glandular tissue are hyperintense",
+    "Fat replaces glands",
+    "Radiation is too high",
+    "Breasts are too small"
+   ],
+   "ans": 0,
+   "exp": "Mammography not sensitive in ages < 40 yrs: Both lesions and normal glandular tissue are hyperintense. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-032",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "BIRADS stands for:",
+   "opts": [
+    "Breast Imaging Reporting and Data Systems",
+    "Breast Infection Risk and Data Scores",
+    "Biopsy Imaging Rating and Diagnosis System",
+    "Breast Index of Radiological Abnormality Degrees"
+   ],
+   "ans": 0,
+   "exp": "BIRADS: Breast Imaging Reporting and Data Systems. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-033",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "BIRADS 0 category means:",
+   "opts": [
+    "Needs additional imaging - recall for additional imaging",
+    "Negative",
+    "Benign",
+    "Suspicious"
+   ],
+   "ans": 0,
+   "exp": "BIRADS 0: Needs additional imaging; Recall for additional imaging; n/a. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-034",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "BIRADS 1 (negative) and 2 (benign) are managed by:",
+   "opts": [
+    "Routine screening in 1 year; likelihood essentially 0%",
+    "Biopsy",
+    "6 month follow up",
+    "Surgical excision"
+   ],
+   "ans": 0,
+   "exp": "BIRADS 1 & 2: Routine screening in 1 year; Essentially 0%. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-035",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "BIRADS 3 (probably benign) is managed by:",
+   "opts": [
+    "Short term follow up (6 months); likelihood 0-3%",
+    "Routine screening in 5 years",
+    "Immediate biopsy",
+    "Surgical excision"
+   ],
+   "ans": 0,
+   "exp": "BIRADS 3: Probably benign; Short term follow up (6 months); 0 - 3%. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-036",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "BIRADS 4 (suspicious) is managed by:",
+   "opts": [
+    "Tissue diagnosis (biopsy)",
+    "6 month follow up",
+    "Routine screening",
+    "Surgical excision"
+   ],
+   "ans": 0,
+   "exp": "BIRADS 4: Suspicious; Tissue Diagnosis (Biopsy). (Book p51)"
+  },
+  {
+   "id": "SURG-C9-037",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "The likelihood of cancer for BIRADS 4a, 4b and 4c respectively is:",
+   "opts": [
+    "2-10%, 10-50%, 50-95%",
+    "0-3%, 3-10%, 10-50%",
+    "10-20%, 20-40%, 40-60%",
+    "5%, 15%, 25%"
+   ],
+   "ans": 0,
+   "exp": "BIRADS 4: 4a 2-10%; 4b 10-50%; 4c 50-95%. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-038",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "BIRADS 5 (highly s/o malignancy) carries a likelihood of cancer of:",
+   "opts": [
+    "95%",
+    "50%",
+    "75%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "BIRADS 5: Highly s/o malignancy; Tissue Diagnosis (Biopsy); 95%. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-039",
+   "sec": "Radiological: Initial & BIRADS",
+   "page": 51,
+   "q": "BIRADS 6 (known biopsy proven) is managed by:",
+   "opts": [
+    "Surgical excision",
+    "Repeat biopsy",
+    "6 month follow up",
+    "Routine screening"
+   ],
+   "ans": 0,
+   "exp": "BIRADS 6: Known biopsy proven; Surgical excision; n/a. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-040",
+   "sec": "ASBRS Screening Guidelines",
+   "page": 51,
+   "q": "As per ASBRS, formal risk assessment for breast cancer (Eg: Gail Index) begins at age:",
+   "opts": [
+    "≥25 yrs",
+    "≥20 yrs",
+    "≥30 yrs",
+    "≥40 yrs"
+   ],
+   "ans": 0,
+   "exp": "ASBRS: 1. >25yrs -> Formal risk assessment for breast cancer (Eg: Gail Index). (Book p51)"
+  },
+  {
+   "id": "SURG-C9-041",
+   "sec": "ASBRS Screening Guidelines",
+   "page": 51,
+   "q": "For average risk women, yearly screening mammography begins at:",
+   "opts": [
+    "40 yrs",
+    "30 yrs",
+    "45 yrs",
+    "50 yrs"
+   ],
+   "ans": 0,
+   "exp": "ASBRS: 2. Average risk -> Begin yearly screening mammography at 40yrs. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-042",
+   "sec": "ASBRS Screening Guidelines",
+   "page": 51,
+   "q": "Screening mammography is ceased when life expectancy is less than:",
+   "opts": [
+    "10 yrs",
+    "5 yrs",
+    "15 yrs",
+    "20 yrs"
+   ],
+   "ans": 0,
+   "exp": "ASBRS: 3. Life expectancy < 10yrs -> Cease screening mammography. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-043",
+   "sec": "ASBRS Screening Guidelines",
+   "page": 51,
+   "q": "Higher than average risk women receive:",
+   "opts": [
+    "Yearly screening mammography + supplemental imaging",
+    "Only clinical examination",
+    "Mammography every 3 years",
+    "USG only"
+   ],
+   "ans": 0,
+   "exp": "ASBRS: 4. Higher than average risk: Yearly screening mammography + Supplemental imaging. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-044",
+   "sec": "ASBRS Screening Guidelines",
+   "page": 51,
+   "q": "Women with hereditary susceptibility (E.g. BRCA) or prior chest wall radiation (b/w 10-30 yrs) should have:",
+   "opts": [
+    "Annual MRI from 25 yrs and 3D mammography from 30 yrs",
+    "3D mammogram from 35 yrs only",
+    "USG from 40 yrs",
+    "MRI from 40 yrs"
+   ],
+   "ans": 0,
+   "exp": "Hereditary susceptibility/prior chest wall radiation: a. Annual MRI from 25yrs; b. 3D mammography from 30 yrs. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-045",
+   "sec": "ASBRS Screening Guidelines",
+   "page": 51,
+   "q": "Women with predicted lifetime risk > 20% or a strong family history should have:",
+   "opts": [
+    "3D mammogram from 35 yrs; MRI if mammogram not showing relevant features",
+    "Annual MRI from 25 yrs",
+    "No screening",
+    "USG yearly"
+   ],
+   "ans": 0,
+   "exp": "Predicted lifetime risk > 20%/Strong family history: a. 3D mammogram from 35yrs; b. If mammogram not showing relevant features -> MRI. (Book p51)"
+  },
+  {
+   "id": "SURG-C9-046",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "Mammography is essentially a:",
+   "opts": [
+    "X-ray of breast",
+    "Ultrasound of breast",
+    "MRI of breast",
+    "CT of breast"
+   ],
+   "ans": 0,
+   "exp": "Mammography: ~ X-ray of breast. (Book p52)"
+  },
+  {
+   "id": "SURG-C9-047",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "The radiation dose of mammography is:",
+   "opts": [
+    "0.1 to 0.2 cGy (low radiation exposure)",
+    "1-2 Gy",
+    "10-20 cGy",
+    "5 Gy"
+   ],
+   "ans": 0,
+   "exp": "Mammography: 0.1 to 0.2 cGy (Low radiation exposure). (Book p52)"
+  },
+  {
+   "id": "SURG-C9-048",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "The two views of mammography are:",
+   "opts": [
+    "Craniocaudal (CC) and mediolateral oblique (MLO)",
+    "AP and lateral",
+    "Oblique and axial",
+    "CC and tangential"
+   ],
+   "ans": 0,
+   "exp": "Two views: Craniocaudal (CC); Mediolateral oblique (MLO). (Book p52)"
+  },
+  {
+   "id": "SURG-C9-049",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "Which mammographic view visualises the axilla and shows maximum breast tissue?",
+   "opts": [
+    "Mediolateral oblique (MLO)",
+    "Craniocaudal (CC)",
+    "Tangential",
+    "True lateral"
+   ],
+   "ans": 0,
+   "exp": "MLO: Axilla visualised; Maximum breast tissue seen. (Book p52)"
+  },
+  {
+   "id": "SURG-C9-050",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "The latest mammography technique used in dense breasts for better pictures is:",
+   "opts": [
+    "3D Full Field Digital Tomosynthesis",
+    "2D screen-film",
+    "Xeroradiography",
+    "Thermography"
+   ],
+   "ans": 0,
+   "exp": "Latest technique: 3D Full Field Digital Tomosynthesis -> used in dense breasts (Better pictures). (Book p52)"
+  },
+  {
+   "id": "SURG-C9-051",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "Benign breast lesions on mammography characteristically show:",
+   "opts": [
+    "Macro calcifications (popcorn calcification)",
+    "Microcalcifications",
+    "Spiculated margins",
+    "Rounded nodes"
+   ],
+   "ans": 0,
+   "exp": "Benign lesion shows macro calcifications: Popcorn calcification (macrocalcification). (Book p52)"
+  },
+  {
+   "id": "SURG-C9-052",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "A calcified fibroadenoma on mammography shows which calcification and BIRADS category?",
+   "opts": [
+    "Popcorn calcification, BIRADS-2",
+    "Microcalcification, BIRADS-4",
+    "Spiculated, BIRADS-5",
+    "No calcification, BIRADS-0"
+   ],
+   "ans": 0,
+   "exp": "Fibroadenoma: BIRADS-2 (CC); Popcorn calcification (macrocalcification). (Book p52)"
+  },
+  {
+   "id": "SURG-C9-053",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "A malignant lesion on the MLO view characteristically shows:",
+   "opts": [
+    "Spiculated margins",
+    "Smooth round margins",
+    "Popcorn calcification",
+    "Preserved fatty hilum"
+   ],
+   "ans": 0,
+   "exp": "Malignant lesion: MLO shows spiculated margins. (Book p52)"
+  },
+  {
+   "id": "SURG-C9-054",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "Normal lymph nodes on mammography appear:",
+   "opts": [
+    "Kidney shaped with preserved fatty hilum",
+    "Rounded with loss of fatty hilum",
+    "Spiculated",
+    "Calcified"
+   ],
+   "ans": 0,
+   "exp": "Normal lymph nodes: Kidney shaped (Preserved fatty hilum). (Book p52)"
+  },
+  {
+   "id": "SURG-C9-055",
+   "sec": "Mammography",
+   "page": 52,
+   "q": "Malignant lymph nodes on mammography appear:",
+   "opts": [
+    "Rounded with loss of fatty hilum",
+    "Kidney shaped with preserved hilum",
+    "Elongated",
+    "Invisible"
+   ],
+   "ans": 0,
+   "exp": "Malignant lymph nodes: Rounded (Loss of fatty hilum). (Book p52)"
+  },
+  {
+   "id": "SURG-C9-056",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "Advantages of breast ultrasound include all of the following EXCEPT:",
+   "opts": [
+    "Detects microcalcifications best",
+    "No radiation exposure",
+    "Best investigation to differentiate solid and cystic lesions",
+    "Preferred in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "USG advantages: No radiation exposure; Best to differentiate solid and cystic lesions; Preferred in pregnancy; Better in <40 years; Can detect ductal lesions. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-057",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "Breast ultrasound is better in which age group?",
+   "opts": [
+    "<40 years",
+    ">40 years",
+    ">60 years",
+    "Any age equally"
+   ],
+   "ans": 0,
+   "exp": "USG: Better in <40 years. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-058",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "Breast ultrasound can detect ductal lesions such as:",
+   "opts": [
+    "Ductal papilloma",
+    "Fibroadenoma",
+    "Fat necrosis",
+    "Phyllodes tumor"
+   ],
+   "ans": 0,
+   "exp": "USG: Can detect ductal lesions (Eg: Ductal papilloma). (Book p53)"
+  },
+  {
+   "id": "SURG-C9-059",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "On ultrasound, a benign lesion is typically:",
+   "opts": [
+    "Wider than taller",
+    "Taller than wider",
+    "Rounded with lost hilum",
+    "Spiculated"
+   ],
+   "ans": 0,
+   "exp": "USG findings: Lesion: Benign = Wider than taller. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-060",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "On ultrasound, a malignant lesion is typically:",
+   "opts": [
+    "Taller than wider",
+    "Wider than taller",
+    "Anechoic with posterior enhancement",
+    "Kidney shaped"
+   ],
+   "ans": 0,
+   "exp": "USG findings: Lesion: Malignant = Taller than wider. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-061",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "On ultrasound, benign and malignant calcifications respectively are:",
+   "opts": [
+    "Macrocalcification and microcalcifications",
+    "Microcalcifications and macrocalcification",
+    "Both macro",
+    "Both micro"
+   ],
+   "ans": 0,
+   "exp": "USG findings: Calcifications: Benign = Macrocalcification; Malignant = Microcalcifications. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-062",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "On ultrasound, benign and malignant lymph nodes respectively show:",
+   "opts": [
+    "Preserved hilum and rounded",
+    "Rounded and preserved hilum",
+    "Kidney shaped and kidney shaped",
+    "Loss of hilum in both"
+   ],
+   "ans": 0,
+   "exp": "USG findings: LN: Benign = Preserved hilum; Malignant = Rounded. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-063",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "Intracapsular breast implant rupture on ultrasound shows the:",
+   "opts": [
+    "Stepladder pattern",
+    "Snowstorm appearance",
+    "Popcorn pattern",
+    "Linguini's sign"
+   ],
+   "ans": 0,
+   "exp": "Breast implant rupture: Intracapsular -> Stepladder pattern. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-064",
+   "sec": "Breast Ultrasound",
+   "page": 53,
+   "q": "Extracapsular breast implant rupture on ultrasound shows the:",
+   "opts": [
+    "Snowstorm appearance",
+    "Stepladder pattern",
+    "Target sign",
+    "Halo sign"
+   ],
+   "ans": 0,
+   "exp": "Breast implant rupture: Extracapsular -> Snowstorm appearance. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-065",
+   "sec": "MRI",
+   "page": 53,
+   "q": "The investigation of choice (IOC) for breast implants is:",
+   "opts": [
+    "MRI",
+    "USG",
+    "Mammogram",
+    "CT"
+   ],
+   "ans": 0,
+   "exp": "MRI indications: i. Breast implants (+): IOC. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-066",
+   "sec": "MRI",
+   "page": 53,
+   "q": "Intracapsular rupture of a breast implant on MRI shows:",
+   "opts": [
+    "Linguini's sign",
+    "Stepladder pattern",
+    "Snowstorm appearance",
+    "Popcorn sign"
+   ],
+   "ans": 0,
+   "exp": "Intracapsular rupture of implant: Linguini's sign. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-067",
+   "sec": "MRI",
+   "page": 53,
+   "q": "The IOC to identify multicentric/multifocal breast lesions is:",
+   "opts": [
+    "MRI",
+    "USG",
+    "Mammogram",
+    "FNAC"
+   ],
+   "ans": 0,
+   "exp": "MRI indications: ii. To identify multicentric/multifocal lesions: IOC. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-068",
+   "sec": "MRI",
+   "page": 53,
+   "q": "Multifocal breast lesions are:",
+   "opts": [
+    "Multiple lesions in same quadrant; breast conservation Sx (+)",
+    "Multiple lesions in different quadrants",
+    "Lesions >5cm apart",
+    "Breast conservation Sx (-)"
+   ],
+   "ans": 0,
+   "exp": "Multifocal: Multiple lesions in same quadrants; Breast conservation Sx (+). (Book p53)"
+  },
+  {
+   "id": "SURG-C9-069",
+   "sec": "MRI",
+   "page": 53,
+   "q": "Multicentric breast lesions are:",
+   "opts": [
+    "Multiple lesions in different quadrants />5cm apart; breast conservation Sx (-)",
+    "Multiple lesions in same quadrant",
+    "Breast conservation Sx (+)",
+    "Always unilateral single"
+   ],
+   "ans": 0,
+   "exp": "Multicentric: Multiple lesions in different quadrants />5cm apart; Breast conservation Sx (-). (Book p53)"
+  },
+  {
+   "id": "SURG-C9-070",
+   "sec": "MRI",
+   "page": 53,
+   "q": "MRI breast is used as a screening tool for:",
+   "opts": [
+    "High risk patients",
+    "All women >40",
+    "Men",
+    "Post-menopausal only"
+   ],
+   "ans": 0,
+   "exp": "MRI indications: iii. Screening tool for high risk patients. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-071",
+   "sec": "MRI",
+   "page": 53,
+   "q": "MRI breast is indicated when USG is inconclusive for:",
+   "opts": [
+    "Ductal lesions",
+    "Cysts",
+    "Fibroadenoma",
+    "Fat necrosis"
+   ],
+   "ans": 0,
+   "exp": "MRI indications: iv. When USG is inconclusive for ductal lesions. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-072",
+   "sec": "MRI",
+   "page": 53,
+   "q": "MRI is sensitive for detecting:",
+   "opts": [
+    "Ductal Carcinoma In-situ (DCIS)",
+    "Microcalcifications on USG",
+    "Popcorn calcification",
+    "Fatty hilum"
+   ],
+   "ans": 0,
+   "exp": "MRI indications: v. Sensitive for Ductal Carcinoma In-situ (DCIS). (Book p53)"
+  },
+  {
+   "id": "SURG-C9-073",
+   "sec": "MRI",
+   "page": 53,
+   "q": "MRI breast is used to detect:",
+   "opts": [
+    "Local/scar recurrence",
+    "Bone metastases only",
+    "Liver metastases only",
+    "Sentinel nodes"
+   ],
+   "ans": 0,
+   "exp": "MRI indications: vi. Used to detect local/scar recurrence. (Book p53)"
+  },
+  {
+   "id": "SURG-C9-074",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "FNAC of the breast uses which needle gauge?",
+   "opts": [
+    "23-30 G needle",
+    "14 G needle",
+    "8-11 G probe",
+    "18 G needle"
+   ],
+   "ans": 0,
+   "exp": "FNAC: 23-30 G needle used. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-075",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "FNAC for breast lesions is:",
+   "opts": [
+    "Not used anymore",
+    "The IOC",
+    "The gold standard",
+    "Preferred over core biopsy"
+   ],
+   "ans": 0,
+   "exp": "FNAC: Not used anymore for breast lesions. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-076",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "A key disadvantage of FNAC is:",
+   "opts": [
+    "High false negative",
+    "High radiation",
+    "Needs general anaesthesia",
+    "Cannot be done outpatient"
+   ],
+   "ans": 0,
+   "exp": "FNAC disadvantages: i. High false negative. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-077",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "FNAC cannot differentiate in-situ from invasive cancers because:",
+   "opts": [
+    "Basement membrane breach is not appreciated",
+    "Cells are destroyed",
+    "Stains fail",
+    "Needle is too thick"
+   ],
+   "ans": 0,
+   "exp": "FNAC: Cannot differentiate between in-situ and invasive cancers (Basement membrane breach not appreciated). (Book p54)"
+  },
+  {
+   "id": "SURG-C9-078",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "Which IHC markers cannot be assessed on FNAC?",
+   "opts": [
+    "ER, PR, HER2 Neu, Ki-67",
+    "CA 15-3 only",
+    "CEA only",
+    "AFP only"
+   ],
+   "ans": 0,
+   "exp": "FNAC: Immunohistochemistry (IHC) markers cannot be assessed (ER, PR, HER2 Neu, Ki-67). (Book p54)"
+  },
+  {
+   "id": "SURG-C9-079",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "The IOC for a breast lump (incisional biopsy category) is:",
+   "opts": [
+    "Core needle biopsy / Tru-cut biopsy",
+    "FNAC",
+    "Punch biopsy",
+    "Excisional biopsy"
+   ],
+   "ans": 0,
+   "exp": "Core needle biopsy / Tru-cut biopsy: IOC for breast lumps. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-080",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "Core needle/Tru-cut biopsy:",
+   "opts": [
+    "Removes a piece of tissue",
+    "Removes the whole lump",
+    "Only aspirates cells",
+    "Uses vacuum"
+   ],
+   "ans": 0,
+   "exp": "Core needle biopsy: Removes a piece of tissue. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-081",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "As per the recent update, core needle biopsy uses which needle?",
+   "opts": [
+    "14 G needles",
+    "23-30 G needles",
+    "8-11 G probes",
+    "18 G needles"
+   ],
+   "ans": 0,
+   "exp": "Core needle biopsy: 14 G needles used (Recent update). (Book p54)"
+  },
+  {
+   "id": "SURG-C9-082",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "Punch biopsy of the breast region is used for:",
+   "opts": [
+    "Skin lesions / Paget's disease",
+    "Deep lumps",
+    "Cysts",
+    "Fibroadenoma"
+   ],
+   "ans": 0,
+   "exp": "Punch biopsy: Used for skin lesions / Paget's disease. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-083",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "Vacuum Assisted Breast Biopsy (VABB) uses:",
+   "opts": [
+    "8-11 G probe attached to vacuum",
+    "14 G needle",
+    "23 G needle",
+    "Scalpel"
+   ],
+   "ans": 0,
+   "exp": "VABB: 8-11 G probe attached to vacuum. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-084",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "VABB is used for:",
+   "opts": [
+    "Scarless fibroadenoma surgery",
+    "Mastectomy",
+    "Sentinel node biopsy",
+    "DCIS treatment"
+   ],
+   "ans": 0,
+   "exp": "VABB: Used for scarless fibroadenoma surgery. (Book p54)"
+  },
+  {
+   "id": "SURG-C9-085",
+   "sec": "Histopathological Investigation",
+   "page": 54,
+   "q": "The gold standard investigation with 100% chance of detection is:",
+   "opts": [
+    "Excisional biopsy",
+    "FNAC",
+    "Core biopsy",
+    "Mammography"
+   ],
+   "ans": 0,
+   "exp": "Excisional Biopsy: Gold standard investigation (100% chance of detection). (Book p54)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U9-1",
+   "ch": 9,
+   "n": 1,
+   "title": "Surgical Anatomy of the Breast",
+   "sec": "Surgical Anatomy · p49",
+   "qs": [
+    "SURG-C9-001",
+    "SURG-C9-002",
+    "SURG-C9-003",
+    "SURG-C9-004",
+    "SURG-C9-005",
+    "SURG-C9-006",
+    "SURG-C9-007",
+    "SURG-C9-008"
+   ],
+   "guide": "The breast is a modified sweat gland spanning the 2nd-6th ribs from midline to the anterior/mid-axillary line, with an axillary tail of Spence that mimics a lump. 9-12 lactiferous ducts open at the nipple, and Cooper's ligaments from pectoralis fascia to skin hold its shape."
+  },
+  {
+   "id": "SURG-U9-2",
+   "ch": 9,
+   "n": 2,
+   "title": "Clinical Signs: Dimpling, Nipple Retraction & Peau d'Orange",
+   "sec": "Clinical Signs · p49",
+   "qs": [
+    "SURG-C9-009",
+    "SURG-C9-010",
+    "SURG-C9-011",
+    "SURG-C9-012",
+    "SURG-C9-013",
+    "SURG-C9-014",
+    "SURG-C9-015",
+    "SURG-C9-016"
+   ],
+   "guide": "Dimpling means Cooper's ligament involvement and nipple retraction is slit-like in duct ectasia but circumferential in cancer - neither is a sign of skin involvement. Peau d'orange is subdermal lymphatic block giving an orange peel look; beyond a third of the breast it declares inflammatory breast cancer."
+  },
+  {
+   "id": "SURG-U9-3",
+   "ch": 9,
+   "n": 3,
+   "title": "Lymphatic Drainage & Axillary Levels",
+   "sec": "Lymphatic Drainage · p50",
+   "qs": [
+    "SURG-C9-017",
+    "SURG-C9-018",
+    "SURG-C9-019",
+    "SURG-C9-020",
+    "SURG-C9-021",
+    "SURG-C9-022",
+    "SURG-C9-023",
+    "SURG-C9-024"
+   ],
+   "guide": "85-90% of lymph flows to axillary nodes (clinically anterior, central, apical, lateral, posterior; surgically levels I-III around pectoralis minor) and 10-15% to internal mammary nodes. Rotter's nodes sit between the pectoralis muscles, and the sentinel node is the first draining node of any cancer."
+  },
+  {
+   "id": "SURG-U9-4",
+   "ch": 9,
+   "n": 4,
+   "title": "Functional Unit & Triple Assessment",
+   "sec": "Functional Unit & Assessment · p50",
+   "qs": [
+    "SURG-C9-025",
+    "SURG-C9-026",
+    "SURG-C9-027",
+    "SURG-C9-028"
+   ],
+   "guide": "Most cancers arise in the terminal duct lobular unit while the stroma between TDLUs breeds fibroadenoma and phyllodes. Every lump passes through triple assessment - clinical (dial clock method), radiological then histopathological."
+  },
+  {
+   "id": "SURG-U9-5",
+   "ch": 9,
+   "n": 5,
+   "title": "Initial Radiological Investigation & BIRADS",
+   "sec": "Radiological: Initial & BIRADS · p51",
+   "qs": [
+    "SURG-C9-029",
+    "SURG-C9-030",
+    "SURG-C9-031",
+    "SURG-C9-032",
+    "SURG-C9-033",
+    "SURG-C9-034",
+    "SURG-C9-035",
+    "SURG-C9-036",
+    "SURG-C9-037",
+    "SURG-C9-038",
+    "SURG-C9-039"
+   ],
+   "guide": "Under 40 (glands > fat) start with USG; over 40 (fat > glands) with mammography, which fails below 40 because lesions and glandular tissue are both hyperintense. BIRADS runs from 0 (recall) through 1-2 (routine yearly, ~0%), 3 (6-month follow-up, 0-3%), 4a-c (biopsy, 2-95%) and 5 (biopsy, 95%) to 6 (surgical excision)."
+  },
+  {
+   "id": "SURG-U9-6",
+   "ch": 9,
+   "n": 6,
+   "title": "ASBRS Breast Cancer Screening Guidelines",
+   "sec": "ASBRS Screening Guidelines · p51",
+   "qs": [
+    "SURG-C9-040",
+    "SURG-C9-041",
+    "SURG-C9-042",
+    "SURG-C9-043",
+    "SURG-C9-044",
+    "SURG-C9-045"
+   ],
+   "guide": "Formal risk assessment (Gail Index) from 25, yearly mammography from 40 for average risk, cease when life expectancy is under 10 years. High-risk women add supplemental imaging: BRCA or chest radiation get annual MRI from 25 and 3D mammography from 30; lifetime risk >20% or strong family history get 3D mammogram from 35 with MRI if mammography is silent."
+  },
+  {
+   "id": "SURG-U9-7",
+   "ch": 9,
+   "n": 7,
+   "title": "Mammography: Views, Dose & Findings",
+   "sec": "Mammography · p52",
+   "qs": [
+    "SURG-C9-046",
+    "SURG-C9-047",
+    "SURG-C9-048",
+    "SURG-C9-049",
+    "SURG-C9-050",
+    "SURG-C9-051",
+    "SURG-C9-052",
+    "SURG-C9-053",
+    "SURG-C9-054",
+    "SURG-C9-055"
+   ],
+   "guide": "A 0.1-0.2 cGy X-ray in CC and MLO views - MLO catches the axilla and most tissue - now upgraded to 3D full field digital tomosynthesis for dense breasts. Benign lesions show popcorn macrocalcifications (fibroadenoma BIRADS-2), malignancy shows spiculated margins, and nodes turn from kidney-shaped with fatty hilum to rounded without it."
+  },
+  {
+   "id": "SURG-U9-8",
+   "ch": 9,
+   "n": 8,
+   "title": "Breast Ultrasound",
+   "sec": "Breast Ultrasound · p53",
+   "qs": [
+    "SURG-C9-056",
+    "SURG-C9-057",
+    "SURG-C9-058",
+    "SURG-C9-059",
+    "SURG-C9-060",
+    "SURG-C9-061",
+    "SURG-C9-062",
+    "SURG-C9-063",
+    "SURG-C9-064"
+   ],
+   "guide": "Radiation-free, best for solid vs cystic, preferred in pregnancy and under-40s, and able to catch ductal papillomas. Benign lesions lie wider than taller with macrocalcifications and preserved hilum; malignant ones stand taller than wider with microcalcifications and rounded nodes. Implant rupture: stepladder inside the capsule, snowstorm outside."
+  },
+  {
+   "id": "SURG-U9-9",
+   "ch": 9,
+   "n": 9,
+   "title": "MRI Breast",
+   "sec": "MRI · p53",
+   "qs": [
+    "SURG-C9-065",
+    "SURG-C9-066",
+    "SURG-C9-067",
+    "SURG-C9-068",
+    "SURG-C9-069",
+    "SURG-C9-070",
+    "SURG-C9-071",
+    "SURG-C9-072",
+    "SURG-C9-073"
+   ],
+   "guide": "MRI is IOC for implants (linguini's sign marks intracapsular rupture) and for mapping multicentric/multifocal disease - multifocal in one quadrant allows conservation, multicentric across quadrants or >5 cm apart forbids it. It screens high-risk patients, resolves inconclusive ductal USG, catches DCIS and detects local/scar recurrence."
+  },
+  {
+   "id": "SURG-U9-10",
+   "ch": 9,
+   "n": 10,
+   "title": "Histopathological Investigation: FNAC to Excision",
+   "sec": "Histopathological Investigation · p54",
+   "qs": [
+    "SURG-C9-074",
+    "SURG-C9-075",
+    "SURG-C9-076",
+    "SURG-C9-077",
+    "SURG-C9-078",
+    "SURG-C9-079",
+    "SURG-C9-080",
+    "SURG-C9-081",
+    "SURG-C9-082",
+    "SURG-C9-083",
+    "SURG-C9-084",
+    "SURG-C9-085"
+   ],
+   "guide": "FNAC (23-30 G) is retired for breast: high false negatives, no in-situ vs invasive call, no IHC (ER, PR, HER2 Neu, Ki-67). Tru-cut/core (14 G) is IOC and takes a tissue piece, punch biopsy samples skin/Paget's, VABB (8-11 G vacuum probe) removes fibroadenomas scarlessly, and excisional biopsy remains the 100% gold standard."
+  }
+ ]
+}

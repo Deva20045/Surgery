@@ -1,0 +1,2016 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C7-001",
+   "sec": "Hypovolemic Shock: Types",
+   "page": 37,
+   "q": "The m/c type of shock is:",
+   "opts": [
+    "Hypovolemic/hemorrhagic shock",
+    "Cardiogenic shock",
+    "Septic shock",
+    "Neurogenic shock"
+   ],
+   "ans": 0,
+   "exp": "Hypovolemic/Hemorrhagic Shock: m/c type of shock. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-002",
+   "sec": "Hypovolemic Shock: Types",
+   "page": 37,
+   "q": "Overt/visible hemorrhage is:",
+   "opts": [
+    "Easy to diagnose and treat",
+    "Difficult to diagnose",
+    "Always concealed",
+    "Seen only in pelvis"
+   ],
+   "ans": 0,
+   "exp": "Overt/visible hemorrhage: Easy to diagnose and treat. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-003",
+   "sec": "Hypovolemic Shock: Types",
+   "page": 37,
+   "q": "Concealed hemorrhage is:",
+   "opts": [
+    "Difficult to diagnose",
+    "Easy to diagnose",
+    "Always visible externally",
+    "Never causes shock"
+   ],
+   "ans": 0,
+   "exp": "Concealed hemorrhage: Difficult to diagnose. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-004",
+   "sec": "Hypovolemic Shock: Types",
+   "page": 37,
+   "q": "Sites of concealed hemorrhage include all of the following EXCEPT:",
+   "opts": [
+    "Neck",
+    "Thorax",
+    "Abdomen",
+    "Skin surface"
+   ],
+   "ans": 3,
+   "exp": "Concealed hemorrhage site: Neck/thorax/abdomen/pelvis/long bones. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-005",
+   "sec": "Hypovolemic Shock: Types",
+   "page": 37,
+   "q": "Which injury does NOT give rise to hypovolemic shock?",
+   "opts": [
+    "Isolated head injury",
+    "Pelvic fracture",
+    "Long bone fracture",
+    "Massive hemothorax"
+   ],
+   "ans": 0,
+   "exp": "Note: Isolated head injury doesn't give rise to hypovolemic shock. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-006",
+   "sec": "Hypovolemic Shock: Types",
+   "page": 37,
+   "q": "Hypotension in a head injury patient makes you suspect all of the following EXCEPT:",
+   "opts": [
+    "Hypovolemic shock from the head injury itself",
+    "Brain herniation",
+    "Neurogenic shock",
+    "Polytrauma"
+   ],
+   "ans": 0,
+   "exp": "Hypotension in head injury, suspect: Brain herniation, Neurogenic shock, Polytrauma (not the isolated head injury itself). (Book p37)"
+  },
+  {
+   "id": "SURG-C7-007",
+   "sec": "Hypovolemic Shock: Types",
+   "page": 37,
+   "q": "Neurogenic shock causing hypotension in head injury occurs with injury above which level?",
+   "opts": [
+    "T6 level",
+    "T10 level",
+    "L1 level",
+    "C7 level only"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic shock (Injury above T6 level). (Book p37)"
+  },
+  {
+   "id": "SURG-C7-008",
+   "sec": "Arterial vs Venous Bleed",
+   "page": 37,
+   "q": "An arterial bleed characteristically:",
+   "opts": [
+    "Spurts",
+    "Oozes gradually",
+    "Never causes hypotension",
+    "Stops always on its own"
+   ],
+   "ans": 0,
+   "exp": "Arterial vs venous bleed: Bleed: Arterial = Spurter. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-009",
+   "sec": "Arterial vs Venous Bleed",
+   "page": 37,
+   "q": "A venous bleed characteristically:",
+   "opts": [
+    "Gradual ooze of blood",
+    "Spurts",
+    "Causes early hypotension",
+    "Needs early prevention"
+   ],
+   "ans": 0,
+   "exp": "Arterial vs venous bleed: Bleed: Venous = Gradual ooze of blood. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-010",
+   "sec": "Arterial vs Venous Bleed",
+   "page": 37,
+   "q": "Hypotension in arterial bleed occurs:",
+   "opts": [
+    "Early",
+    "Late due to compensation",
+    "Never",
+    "Only after 24 hours"
+   ],
+   "ans": 0,
+   "exp": "Arterial vs venous bleed: Hypotension: Arterial = Occurs early. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-011",
+   "sec": "Arterial vs Venous Bleed",
+   "page": 37,
+   "q": "Hypotension in venous bleed occurs late because of:",
+   "opts": [
+    "Compensation",
+    "Vasoconstriction failure",
+    "Early blood loss",
+    "Cardiac failure"
+   ],
+   "ans": 0,
+   "exp": "Venous bleed: Hypotension occurs late (d/t compensation). (Book p37)"
+  },
+  {
+   "id": "SURG-C7-012",
+   "sec": "Arterial vs Venous Bleed",
+   "page": 37,
+   "q": "Types of arterial bleed are:",
+   "opts": [
+    "Laceration and transection",
+    "Ooze and spurt",
+    "Capillary and venous",
+    "Primary and secondary"
+   ],
+   "ans": 0,
+   "exp": "Types of arterial bleed: Laceration, Transection. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-013",
+   "sec": "Arterial vs Venous Bleed",
+   "page": 37,
+   "q": "In a lacerated artery, vasoconstriction leads to:",
+   "opts": [
+    "Increase in tear size and more bleeding",
+    "Decreased bleeding",
+    "Complete hemostasis",
+    "Spasm that seals the artery"
+   ],
+   "ans": 0,
+   "exp": "Laceration: Vasoconstriction leads to ↑ in tear size -> Bleeds more. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-014",
+   "sec": "Arterial vs Venous Bleed",
+   "page": 37,
+   "q": "Which arterial bleed bleeds less?",
+   "opts": [
+    "Transection",
+    "Laceration",
+    "Both equally",
+    "Neither bleeds"
+   ],
+   "ans": 0,
+   "exp": "Transection: Bleeds less. (Book p37)"
+  },
+  {
+   "id": "SURG-C7-015",
+   "sec": "Hemorrhage in Surgery",
+   "page": 38,
+   "q": "Primary hemorrhage occurs:",
+   "opts": [
+    "During Sx",
+    "Within 24 hours",
+    "After 7-14 days",
+    "After 1 month"
+   ],
+   "ans": 0,
+   "exp": "1° hemorrhage: Occurs during Sx. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-016",
+   "sec": "Hemorrhage in Surgery",
+   "page": 38,
+   "q": "Reactionary hemorrhage occurs:",
+   "opts": [
+    "Within 24 hours",
+    "During Sx",
+    "After 7-14 days",
+    "After 48 hours"
+   ],
+   "ans": 0,
+   "exp": "Reactionary hemorrhage: Within 24 hours. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-017",
+   "sec": "Hemorrhage in Surgery",
+   "page": 38,
+   "q": "The reasons for reactionary hemorrhage are:",
+   "opts": [
+    "Dislodgement of clot and slippage of knot (Granny's knot)",
+    "Infection of the wound",
+    "Sloughing of the vessel wall",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Reactionary hemorrhage reason: Dislodgement of clot; Slippage of knot (Granny's knot). (Book p38)"
+  },
+  {
+   "id": "SURG-C7-018",
+   "sec": "Hemorrhage in Surgery",
+   "page": 38,
+   "q": "Secondary hemorrhage occurs:",
+   "opts": [
+    "After 7-14 days",
+    "Within 24 hours",
+    "During Sx",
+    "On day 2"
+   ],
+   "ans": 0,
+   "exp": "2° hemorrhage: After 7-14 days. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-019",
+   "sec": "Hemorrhage in Surgery",
+   "page": 38,
+   "q": "The reason for secondary hemorrhage is:",
+   "opts": [
+    "Sloughing of wall due to infection",
+    "Slippage of knot",
+    "Dislodgement of clot",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "2° hemorrhage: Sloughing of wall d/t infection. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-020",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Class I hypovolemic shock corresponds to blood loss of:",
+   "opts": [
+    "0-15% (0.5 litre)",
+    "15-30% (1 litre)",
+    "30-40% (1.5 litre)",
+    ">40% (>2 litres)"
+   ],
+   "ans": 0,
+   "exp": "Class I: 0-15%, 0.5 litre. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-021",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Class II (mild) hypovolemic shock corresponds to blood loss of:",
+   "opts": [
+    "15-30% (1 litre)",
+    "0-15% (0.5 litre)",
+    "30-40% (1.5 litre)",
+    ">40% (>2 litres)"
+   ],
+   "ans": 0,
+   "exp": "Class II (Mild): 15-30%, 1 litre. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-022",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Class III (moderate) hypovolemic shock corresponds to blood loss of:",
+   "opts": [
+    "30-40% (1.5 litre)",
+    "15-30% (1 litre)",
+    ">40% (>2 litres)",
+    "0-15% (0.5 litre)"
+   ],
+   "ans": 0,
+   "exp": "Class III (Moderate): 30-40%, 1.5 litre. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-023",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Class IV (severe) hypovolemic shock corresponds to blood loss of:",
+   "opts": [
+    ">40% (>2 litres)",
+    "30-40% (1.5 litre)",
+    "15-30% (1 litre)",
+    "20-25% (1 litre)"
+   ],
+   "ans": 0,
+   "exp": "Class IV (Severe): >40%, >2 litres. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-024",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Heart rate in Class IV shock is:",
+   "opts": [
+    "Non-recordable",
+    "Normal",
+    "Mildly raised",
+    "Raised"
+   ],
+   "ans": 0,
+   "exp": "Class IV: Heart rate non-recordable. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-025",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Blood pressure begins to fall (SBP ↓↓) from which class?",
+   "opts": [
+    "Class III",
+    "Class I",
+    "Class II",
+    "Only Class IV"
+   ],
+   "ans": 0,
+   "exp": "BP: Class I & II normal; Class III SBP ↓↓; Class IV non-recordable. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-026",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Pulse pressure (SBP-DBP) becomes narrow in Class II and narrower in Class III; in Class IV it is:",
+   "opts": [
+    "Decreased (↓)",
+    "Normal",
+    "Wide",
+    "Unchanged"
+   ],
+   "ans": 0,
+   "exp": "Pulse pressure: Normal, Narrow, Narrower, ↓ (Class IV). (Book p38)"
+  },
+  {
+   "id": "SURG-C7-027",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Respiratory rate is ↑↑ (double up arrow) in which class?",
+   "opts": [
+    "Class IV",
+    "Class II",
+    "Class I",
+    "Class III"
+   ],
+   "ans": 0,
+   "exp": "Respiratory rate: Class III ↑; Class IV ↑↑. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-028",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Urine output in Class III and Class IV shock respectively is:",
+   "opts": [
+    "↓↓ and anuria",
+    "Normal and ↓",
+    "Anuria and ↓↓",
+    "Normal and normal"
+   ],
+   "ans": 0,
+   "exp": "Urine output: Class III ↓↓; Class IV anuria. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-029",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Mental status in Class II shock is:",
+   "opts": [
+    "Anxious, thirsty",
+    "Confused",
+    "Coma",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Mental status: Class II anxious, thirsty. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-030",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Mental status in Class III and Class IV shock respectively is:",
+   "opts": [
+    "Confused and coma",
+    "Anxious and confused",
+    "Coma and confused",
+    "Normal and confused"
+   ],
+   "ans": 0,
+   "exp": "Mental status: Class III confused; Class IV coma. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-031",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Base deficit in Class II shock is:",
+   "opts": [
+    "-2 to -6 mEq/L",
+    "Normal",
+    "-6 to -10 mEq/L",
+    ">-10 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "Base deficit: Class II -2 to -6 mEq/L. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-032",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Base deficit >-10 mEq/L corresponds to:",
+   "opts": [
+    "Class IV",
+    "Class I",
+    "Class II",
+    "Class III"
+   ],
+   "ans": 0,
+   "exp": "Base deficit: Class IV >-10 mEq/L. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-033",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Fluid replacement for Class I and Class II shock respectively is:",
+   "opts": [
+    "Oral liquids and IV crystalloids",
+    "IV crystalloids and colloids",
+    "Massive transfusion and oral liquids",
+    "IV colloids only"
+   ],
+   "ans": 0,
+   "exp": "Fluid replacement: Class I oral liquids; Class II IV crystalloids. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-034",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Fluid replacement for Class III shock is:",
+   "opts": [
+    "IV crystalloids + colloid",
+    "Oral liquids",
+    "IV crystalloids only",
+    "Massive blood transfusion"
+   ],
+   "ans": 0,
+   "exp": "Fluid replacement: Class III IV crystalloids + colloid. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-035",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Massive blood transfusion is the fluid replacement for:",
+   "opts": [
+    "Class IV",
+    "Class I",
+    "Class II",
+    "Class III"
+   ],
+   "ans": 0,
+   "exp": "Fluid replacement: Class IV massive blood transfusion. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-036",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "Class III shock is the:",
+   "opts": [
+    "Decompensated phase",
+    "Compensated phase",
+    "Pre-shock phase",
+    "Recovery phase"
+   ],
+   "ans": 0,
+   "exp": "Class III: Decompensated phase. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-037",
+   "sec": "Classification of Hypovolemic Shock",
+   "page": 38,
+   "q": "In Class III shock:",
+   "opts": [
+    "SBP starts falling and the patient is confused",
+    "SBP is normal and patient anxious",
+    "BP is non-recordable",
+    "Urine output is normal"
+   ],
+   "ans": 0,
+   "exp": "Class III: SBP starts falling; Confused patient. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-038",
+   "sec": "Pathophysiology & Response",
+   "page": 38,
+   "q": "Class II shock is also known as:",
+   "opts": [
+    "Compensated shock",
+    "Decompensated shock",
+    "Irreversible shock",
+    "Septic shock"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology of Class II shock: AKA compensated shock. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-039",
+   "sec": "Pathophysiology & Response",
+   "page": 38,
+   "q": "Blood loss activates the sympathetic system releasing:",
+   "opts": [
+    "Noradrenaline, adrenaline",
+    "Insulin",
+    "Histamine",
+    "Acetylcholine"
+   ],
+   "ans": 0,
+   "exp": "Blood loss -> Activation of sympathetic system -> Noradrenaline, Adrenaline. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-040",
+   "sec": "Pathophysiology & Response",
+   "page": 38,
+   "q": "The earliest sign of Class II (compensated) shock is:",
+   "opts": [
+    "Tachycardia (↑ HR)",
+    "Hypotension",
+    "Anuria",
+    "Coma"
+   ],
+   "ans": 0,
+   "exp": "Tachycardia: ↑ HR (Earliest sign). (Book p38)"
+  },
+  {
+   "id": "SURG-C7-041",
+   "sec": "Pathophysiology & Response",
+   "page": 38,
+   "q": "Peripheral vasoconstriction in compensated shock serves to:",
+   "opts": [
+    "Shunt blood to vital organs",
+    "Increase skin temperature",
+    "Cause bleeding",
+    "Lower peripheral vascular resistance"
+   ],
+   "ans": 0,
+   "exp": "Peripheral vasoconstriction (Shunts blood to vital organs). (Book p38)"
+  },
+  {
+   "id": "SURG-C7-042",
+   "sec": "Pathophysiology & Response",
+   "page": 38,
+   "q": "Clinical features of the compensated phase include cold extremities and:",
+   "opts": [
+    "↑ peripheral vascular resistance",
+    "↓ peripheral vascular resistance",
+    "Warm flushed skin",
+    "Bradycardia"
+   ],
+   "ans": 0,
+   "exp": "Cold extremities; ↑ peripheral vascular resistance. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-043",
+   "sec": "Pathophysiology & Response",
+   "page": 38,
+   "q": "To check the response in shock, one gives:",
+   "opts": [
+    "500 mL-1 L crystalloid and checks response",
+    "2 L colloid bolus",
+    "Oral fluids only",
+    "Blood immediately always"
+   ],
+   "ans": 0,
+   "exp": "Response and management of shock: 500 mL-1 L crystalloid given -> Response checked. (Book p38)"
+  },
+  {
+   "id": "SURG-C7-044",
+   "sec": "Dynamic Fluid Response",
+   "page": 39,
+   "q": "In a responder, pulse rate, SBP and JVP show:",
+   "opts": [
+    "PR ↓↓, SBP ↑↑, JVP ↑↑ with persistent changes",
+    "PR ↑, SBP ↓, JVP ↓",
+    "No change at all",
+    "Changes that reverse within 5 minutes"
+   ],
+   "ans": 0,
+   "exp": "Responder: PR ↓↓, SBP ↑↑, JVP ↑↑; the above changes are persistent. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-045",
+   "sec": "Dynamic Fluid Response",
+   "page": 39,
+   "q": "A transient responder shows improvement but after 15-20 minutes:",
+   "opts": [
+    "Parameters worsen (ongoing losses)",
+    "Parameters stay normal forever",
+    "PR falls to zero",
+    "JVP becomes non-recordable"
+   ],
+   "ans": 0,
+   "exp": "Transient responder: After 15-20 mins parameters worsen (Ongoing losses). (Book p39)"
+  },
+  {
+   "id": "SURG-C7-046",
+   "sec": "Dynamic Fluid Response",
+   "page": 39,
+   "q": "In a non responder, PR, SBP and JVP respectively:",
+   "opts": [
+    "↑, ↓, ↓",
+    "↓↓, ↑↑, ↑↑",
+    "Normal, normal, normal",
+    "↓, ↑, ↑"
+   ],
+   "ans": 0,
+   "exp": "Non responder: PR ↑, SBP ↓, JVP ↓. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-047",
+   "sec": "Dynamic Fluid Response",
+   "page": 39,
+   "q": "A non responder implies:",
+   "opts": [
+    "Ongoing losses",
+    "Complete hemostasis",
+    "Over-transfusion",
+    "Compensated shock"
+   ],
+   "ans": 0,
+   "exp": "Non responder: Implication = Ongoing losses. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-048",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Active bleeding is recognised by:",
+   "opts": [
+    "Hypotension and transient/non-responder status",
+    "Normal BP and responder status",
+    "Fever",
+    "Bradycardia"
+   ],
+   "ans": 0,
+   "exp": "Recognise active bleeding: Hypotension, transient/non-responder. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-049",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Before hemostasis, resuscitation prioritises:",
+   "opts": [
+    "Coagulation",
+    "Perfusion",
+    "Diuresis",
+    "Sedation"
+   ],
+   "ans": 0,
+   "exp": "Before hemostasis: Prioritise coagulation. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-050",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "After hemostasis, resuscitation prioritises:",
+   "opts": [
+    "Perfusion",
+    "Coagulation",
+    "Hypothermia",
+    "Hemoconcentration"
+   ],
+   "ans": 0,
+   "exp": "After hemostasis: Prioritise perfusion. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-051",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Damage control resuscitation is used in:",
+   "opts": [
+    "Active bleeding (hypotension, transient/non-responder)",
+    "Stable responders",
+    "Elective surgery",
+    "Anaemia only"
+   ],
+   "ans": 0,
+   "exp": "Recognise active bleeding -> Damage control resuscitation. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-052",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "The goal of damage control resuscitation is:",
+   "opts": [
+    "Coagulation function and coronary perfusion",
+    "End-organ perfusion",
+    "Normalisation of Hb",
+    "Full blood pressure immediately"
+   ],
+   "ans": 0,
+   "exp": "Damage control resuscitation goal: Coagulation function, coronary perfusion. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-053",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Damage control resuscitation includes all of the following EXCEPT:",
+   "opts": [
+    "Permissive hypertension",
+    "Damage control surgery",
+    "Balanced transfusion (1:1 RBC and FFP)",
+    "Treating coagulopathy with tranexamic acid, platelets, fibrinogen"
+   ],
+   "ans": 0,
+   "exp": "DCR: Damage control surgery; Permissive hypotension (keep BP at lower limit of normal); Balanced transfusion (1:1 RBC and FFP); Treat coagulopathy (Tranexamic acid, platelets, fibrinogen). (Book p39)"
+  },
+  {
+   "id": "SURG-C7-054",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Permissive hypotension means keeping the BP at:",
+   "opts": [
+    "The lower limit of normal",
+    "The upper limit of normal",
+    "Above 140 mmHg",
+    "Zero"
+   ],
+   "ans": 0,
+   "exp": "Permissive hypotension (keep BP at lower limit of normal). (Book p39)"
+  },
+  {
+   "id": "SURG-C7-055",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Balanced transfusion in damage control resuscitation uses RBC and FFP in the ratio:",
+   "opts": [
+    "1:1",
+    "2:1",
+    "4:1",
+    "1:4"
+   ],
+   "ans": 0,
+   "exp": "Balanced transfusion (1:1 RBC and FFP). (Book p39)"
+  },
+  {
+   "id": "SURG-C7-056",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Coagulopathy in damage control resuscitation is treated with:",
+   "opts": [
+    "Tranexamic acid, platelets, fibrinogen",
+    "Heparin",
+    "Warfarin",
+    "Vitamin K only"
+   ],
+   "ans": 0,
+   "exp": "Treat coagulopathy (Tranexamic acid, platelets, fibrinogen). (Book p39)"
+  },
+  {
+   "id": "SURG-C7-057",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Monitoring in damage control resuscitation includes coagulation parameters:",
+   "opts": [
+    "PT, fibrinogen, ROTEM/TEG",
+    "Only Hb",
+    "Only platelet count",
+    "Bleeding time only"
+   ],
+   "ans": 0,
+   "exp": "DCR monitor: Coagulation: PT, fibrinogen, ROTEM/TEG. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-058",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Monitoring in damage control resuscitation includes electrolytes:",
+   "opts": [
+    "Ca2+, K+",
+    "Na+ only",
+    "Mg2+ only",
+    "Phosphate only"
+   ],
+   "ans": 0,
+   "exp": "DCR monitor: Electrolytes: Ca2+, K+. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-059",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Perfusion monitoring in damage control resuscitation uses:",
+   "opts": [
+    "pH, base excess, lactate, temperature",
+    "Urine culture",
+    "CXR",
+    "GCS only"
+   ],
+   "ans": 0,
+   "exp": "DCR monitor: Perfusion: pH, base excess, lactate, temperature. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-060",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "A responder after hemostasis receives:",
+   "opts": [
+    "Perfusion-targeted resuscitation",
+    "Damage control resuscitation",
+    "No fluids ever",
+    "Only colloids"
+   ],
+   "ans": 0,
+   "exp": "Responder -> Perfusion-targeted resuscitation. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-061",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "The goal of perfusion-targeted resuscitation is:",
+   "opts": [
+    "End-organ perfusion",
+    "Coagulation function",
+    "Hypothermia",
+    "Hemoconcentration"
+   ],
+   "ans": 0,
+   "exp": "Perfusion-targeted resuscitation goal: End-organ perfusion. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-062",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Perfusion-targeted resuscitation ensures adequate preload and afterload using:",
+   "opts": [
+    "Fluids and pressors",
+    "Diuretics",
+    "Beta blockers",
+    "Sedatives"
+   ],
+   "ans": 0,
+   "exp": "Adequate preload and afterload (Fluids and pressors). (Book p39)"
+  },
+  {
+   "id": "SURG-C7-063",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Perfusion-targeted resuscitation also includes:",
+   "opts": [
+    "Thromboprophylaxis",
+    "Anticoagulation avoidance always",
+    "Routine FFP",
+    "Permissive hypotension"
+   ],
+   "ans": 0,
+   "exp": "Perfusion-targeted resuscitation: Thromboprophylaxis. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-064",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Cardiovascular monitoring in perfusion-targeted resuscitation includes:",
+   "opts": [
+    "BP, HR, CO, SVR",
+    "BP and HR only",
+    "JVP only",
+    "ECG only"
+   ],
+   "ans": 0,
+   "exp": "PTR monitor: Cardiovascular: BP, HR, CO, SVR. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-065",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Perfusion monitoring in perfusion-targeted resuscitation includes:",
+   "opts": [
+    "Base excess, lactate, SvO2",
+    "Only temperature",
+    "Only pH",
+    "Hb only"
+   ],
+   "ans": 0,
+   "exp": "PTR monitor: Perfusion: Base excess, lactate, SvO2. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-066",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "Organ function monitoring in perfusion-targeted resuscitation includes:",
+   "opts": [
+    "PaO2/FiO2, UO, GCS",
+    "Only GCS",
+    "Only urine output",
+    "Liver biopsy"
+   ],
+   "ans": 0,
+   "exp": "PTR monitor: Organ function: PaO2/FiO2, UO, GCS. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-067",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "The abdominal compartment is monitored in perfusion-targeted resuscitation by:",
+   "opts": [
+    "IAP (intra abdominal pressure)",
+    "UO",
+    "SvO2",
+    "CO"
+   ],
+   "ans": 0,
+   "exp": "PTR monitor: Abdominal compartment: IAP. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-068",
+   "sec": "Management: Resuscitation",
+   "page": 39,
+   "q": "ROTEM and TEG stand for:",
+   "opts": [
+    "Rotational thromboelastometry and thromboelastography",
+    "Rotational thromboembolism test and tissue elastography",
+    "Routine thrombin estimation and tissue coagulography",
+    "Rotational temperature estimation and thrombin elasticity graph"
+   ],
+   "ans": 0,
+   "exp": "ROTEM: Rotational thromboelastometry; TEG: Thromboelastography. (Book p39)"
+  },
+  {
+   "id": "SURG-C7-069",
+   "sec": "Occult Hypoperfusion",
+   "page": 40,
+   "q": "Occult hypoperfusion shows CVS parameters (HR, SBP) that are:",
+   "opts": [
+    "Normal",
+    "Grossly deranged",
+    "Non-recordable",
+    "High"
+   ],
+   "ans": 0,
+   "exp": "Occult hypoperfusion: Normal CVS parameters: HR, SBP normal. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-070",
+   "sec": "Occult Hypoperfusion",
+   "page": 40,
+   "q": "Urine output in occult hypoperfusion is:",
+   "opts": [
+    "Normal",
+    "Absent",
+    "Decreased",
+    "Increased"
+   ],
+   "ans": 0,
+   "exp": "Occult hypoperfusion: Normal urine output. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-071",
+   "sec": "Occult Hypoperfusion",
+   "page": 40,
+   "q": "Occult hypoperfusion is revealed by:",
+   "opts": [
+    "Low MVOS (mixed venous oxygen saturation) and acidosis",
+    "High MVOS and alkalosis",
+    "Normal lactate",
+    "Normal base excess"
+   ],
+   "ans": 0,
+   "exp": "Occult hypoperfusion: Low MVOS (mixed venous oxygen saturation); Acidosis. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-072",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "The best indicator of initial fluid requirement is:",
+   "opts": [
+    "PCWP > CVP",
+    "CVP > PCWP",
+    "Urine output",
+    "Shock index"
+   ],
+   "ans": 0,
+   "exp": "Initial fluid requirement: Best indicator: PCWP > CVP. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-073",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "PCWP stands for and reflects:",
+   "opts": [
+    "Pulmonary capillary wedge pressure; left-sided heart pressure (more accurate)",
+    "Peripheral central wedge pressure; right heart",
+    "Pulmonary circulatory wedge pressure; RV pressure",
+    "Peak capillary wedge pressure; skin perfusion"
+   ],
+   "ans": 0,
+   "exp": "PCWP: (Pulmonary capillary wedge pressure); Left-sided heart pressure (more accurate). (Book p40)"
+  },
+  {
+   "id": "SURG-C7-074",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "PCWP is measured using a:",
+   "opts": [
+    "Swan-Ganz catheter",
+    "Foley catheter",
+    "PICC line",
+    "Arterial line only"
+   ],
+   "ans": 0,
+   "exp": "PCWP: Swan-Ganz catheter used. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-075",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "The drawback of PCWP monitoring is that it is:",
+   "opts": [
+    "Difficult to monitor",
+    "Inaccurate for left heart",
+    "Non-invasive",
+    "Cheapest"
+   ],
+   "ans": 0,
+   "exp": "PCWP: Difficult to monitor. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-076",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "CVP reflects:",
+   "opts": [
+    "Right-sided heart pressure and is m/c used",
+    "Left-sided heart pressure",
+    "Pulmonary artery pressure only",
+    "Portal pressure"
+   ],
+   "ans": 0,
+   "exp": "CVP: (Central venous pressure); Right-sided heart pressure; m/c used. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-077",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "The best indicator of fluid resuscitation is:",
+   "opts": [
+    "Urine output",
+    "CVP",
+    "PCWP",
+    "Heart rate"
+   ],
+   "ans": 0,
+   "exp": "Fluid resuscitation: Best indicator: Urine output. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-078",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "Urine output target in adults during resuscitation is:",
+   "opts": [
+    ">0.5 mL/kg/hour",
+    ">1 mL/kg/hour",
+    ">2 mL/kg/hour",
+    ">0.1 mL/kg/hour"
+   ],
+   "ans": 0,
+   "exp": "Urine output: Adults: >0.5 mL/kg/hour. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-079",
+   "sec": "Monitoring Indicators",
+   "page": 40,
+   "q": "Urine output target in children during resuscitation is:",
+   "opts": [
+    ">1 mL/kg/hour",
+    ">0.5 mL/kg/hour",
+    ">0.25 mL/kg/hour",
+    ">3 mL/kg/hour"
+   ],
+   "ans": 0,
+   "exp": "Urine output: Children: >1 mL/kg/hour. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-080",
+   "sec": "Indices",
+   "page": 40,
+   "q": "Shock index is calculated as:",
+   "opts": [
+    "Heart rate (HR) / Systolic BP (SBP)",
+    "SBP / HR",
+    "HR / DBP",
+    "MAP / HR"
+   ],
+   "ans": 0,
+   "exp": "Shock Index: Heart rate (HR)/Systolic BP (SBP). (Book p40)"
+  },
+  {
+   "id": "SURG-C7-081",
+   "sec": "Indices",
+   "page": 40,
+   "q": "A shock index >0.9 indicates:",
+   "opts": [
+    "Higher mortality rate",
+    "Stable patient",
+    "Compensated shock",
+    "Normal perfusion"
+   ],
+   "ans": 0,
+   "exp": "Shock index >0.9: Higher mortality rate. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-082",
+   "sec": "Indices",
+   "page": 40,
+   "q": "Modified shock index is calculated as:",
+   "opts": [
+    "HR / MAP (mean arterial pressure)",
+    "HR / SBP",
+    "HR / PP",
+    "MAP / HR"
+   ],
+   "ans": 0,
+   "exp": "Modified shock index: HR/MAP (mean arterial pressure). (Book p40)"
+  },
+  {
+   "id": "SURG-C7-083",
+   "sec": "Indices",
+   "page": 40,
+   "q": "The most sensitive shock index is the:",
+   "opts": [
+    "Modified shock index",
+    "Shock index",
+    "ROPE",
+    "CVP"
+   ],
+   "ans": 0,
+   "exp": "Modified shock index: most sensitive. (Book p40)"
+  },
+  {
+   "id": "SURG-C7-084",
+   "sec": "Indices",
+   "page": 41,
+   "q": "Rate over pressure evaluation (ROPE) is calculated as:",
+   "opts": [
+    "HR / PP (pulse pressure)",
+    "HR / SBP",
+    "HR / MAP",
+    "PP / HR"
+   ],
+   "ans": 0,
+   "exp": "ROPE: HR/PP (Pulse pressure). (Book p41)"
+  },
+  {
+   "id": "SURG-C7-085",
+   "sec": "Indices",
+   "page": 41,
+   "q": "A ROPE value <3 indicates:",
+   "opts": [
+    "Stable patient",
+    "Decompensated shock",
+    "High mortality",
+    "Ongoing bleeding"
+   ],
+   "ans": 0,
+   "exp": "ROPE <3: Stable patient. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-086",
+   "sec": "Indices",
+   "page": 41,
+   "q": "A ROPE value >3 indicates the patient:",
+   "opts": [
+    "May develop decompensated shock",
+    "Is stable",
+    "Needs no monitoring",
+    "Is a responder"
+   ],
+   "ans": 0,
+   "exp": "ROPE >3: May develop decompensated shock. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-087",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "Systemic perfusion is investigated by base deficit and lactate, which are:",
+   "opts": [
+    "Signs of acidosis",
+    "Signs of alkalosis",
+    "Signs of infection",
+    "Signs of anemia"
+   ],
+   "ans": 0,
+   "exp": "Systemic perfusion investigations: Base deficit, Lactate = Signs of acidosis. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-088",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "The best end point of resuscitation is:",
+   "opts": [
+    "Mixed venous oxygen saturation (MVOS)",
+    "Urine output",
+    "Heart rate",
+    "CVP"
+   ],
+   "ans": 0,
+   "exp": "Mixed venous oxygen saturation (MVOS): Best end point of resuscitation. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-089",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "Muscle perfusion is monitored by:",
+   "opts": [
+    "Near-infrared spectroscopy and tissue oxygen electrode",
+    "Urine output",
+    "Consciousness level",
+    "Sublingual capnometry"
+   ],
+   "ans": 0,
+   "exp": "Muscle: Near-infrared spectroscopy; Tissue oxygen electrode. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-090",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "The tissue most sensitive to hypovolemic insult is the:",
+   "opts": [
+    "Gut mucosa",
+    "Muscle",
+    "Brain",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "Gut mucosa: Most sensitive to hypovolemic insult. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-091",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "Hypovolemic insult to gut mucosa leads to formation of:",
+   "opts": [
+    "Stress ulcers",
+    "Polyps",
+    "Diverticula",
+    "Villous atrophy"
+   ],
+   "ans": 0,
+   "exp": "Gut mucosa: Forms stress ulcers. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-092",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "Gut perfusion is monitored by:",
+   "opts": [
+    "Sublingual capnometry, gut mucosal pH, laser doppler flowmetry",
+    "Urine output",
+    "NIRS only",
+    "Consciousness level"
+   ],
+   "ans": 0,
+   "exp": "Gut: Sublingual capnometry; Gut mucosal pH; Laser doppler flowmetry. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-093",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "Kidney perfusion is monitored clinically by:",
+   "opts": [
+    "Urine output",
+    "Consciousness level",
+    "Base deficit",
+    "Laser doppler"
+   ],
+   "ans": 0,
+   "exp": "Kidney: Clinical = Urine output. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-094",
+   "sec": "Monitors for Organ/Systemic Perfusion",
+   "page": 41,
+   "q": "Brain perfusion is monitored clinically by and investigated with:",
+   "opts": [
+    "Consciousness level; tissue oxygen electrode and NIRS",
+    "Urine output; capnometry",
+    "HR; lactate",
+    "BP; MVOS"
+   ],
+   "ans": 0,
+   "exp": "Brain: Clinical = Consciousness level; Investigations = Tissue oxygen electrode, Near-infrared spectroscopy (NIRS). (Book p41)"
+  },
+  {
+   "id": "SURG-C7-095",
+   "sec": "Massive Blood Transfusion",
+   "page": 41,
+   "q": "Massive blood transfusion includes any of the following EXCEPT:",
+   "opts": [
+    ">4 units in 24 hours",
+    "Replace entire circulating volume in 24 hrs",
+    ">10 units of blood in 24 hrs",
+    ">4 units in one hour"
+   ],
+   "ans": 0,
+   "exp": "Massive blood transfusion: Replace entire circulating volume in 24 hrs; >10 units of blood in 24 hrs; >4 units in one hour. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-096",
+   "sec": "Massive Blood Transfusion",
+   "page": 41,
+   "q": "The first listed complication of massive transfusion is:",
+   "opts": [
+    "Hypothermia",
+    "Hyperthermia",
+    "Hypoglycemia",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Complications: 1. Hypothermia. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-097",
+   "sec": "Massive Blood Transfusion",
+   "page": 41,
+   "q": "Hypocalcemia/hypomagnesemia in massive transfusion occurs because:",
+   "opts": [
+    "Citrate (anticoagulant) chelates Ca2+ and Mg2+",
+    "Heparin binds calcium",
+    "Blood is acidic",
+    "Kidneys excrete calcium"
+   ],
+   "ans": 0,
+   "exp": "Reason: Citrate (Anticoagulant) -> Chelates Ca2+ and Mg2+. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-098",
+   "sec": "Massive Blood Transfusion",
+   "page": 41,
+   "q": "Metabolic alkalosis in massive transfusion is due to:",
+   "opts": [
+    "Citrate toxicity",
+    "Lactic acidosis",
+    "Hypothermia",
+    "Hyperkalemia"
+   ],
+   "ans": 0,
+   "exp": "Metabolic alkalosis: Reason: Citrate toxicity. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-099",
+   "sec": "Massive Blood Transfusion",
+   "page": 41,
+   "q": "The potassium disturbance seen in massive transfusion is:",
+   "opts": [
+    "Hyperkalemia >> hypokalemia",
+    "Hypokalemia >> hyperkalemia",
+    "Only hypokalemia",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "Hyperkalemia >> hypokalemia. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-100",
+   "sec": "Massive Blood Transfusion",
+   "page": 41,
+   "q": "Hyperkalemia in massive transfusion occurs because:",
+   "opts": [
+    "Stored blood -> RBC lysed -> K+ released -> ↑ serum K+",
+    "Citrate releases potassium",
+    "Renal failure always",
+    "Platelet lysis"
+   ],
+   "ans": 0,
+   "exp": "Reason: Stored blood -> RBC lysed -> K+ released -> ↑ serum K+. (Book p41)"
+  },
+  {
+   "id": "SURG-C7-101",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "The m/c cause of death in massive transfusion is:",
+   "opts": [
+    "Coagulopathy",
+    "Hypothermia",
+    "Hyperkalemia",
+    "TRALI"
+   ],
+   "ans": 0,
+   "exp": "5. Coagulopathy (m/c cause of death). (Book p42)"
+  },
+  {
+   "id": "SURG-C7-102",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "Reasons for coagulopathy in massive transfusion include all of the following EXCEPT:",
+   "opts": [
+    "Hyperthermia",
+    "Dilutional coagulopathy",
+    "Acidosis",
+    "Hypothermia"
+   ],
+   "ans": 0,
+   "exp": "Coagulopathy reasons: a. Dilutional coagulopathy; b. Acidosis; c. Hypothermia. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-103",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "Prevention of coagulopathy in massive transfusion includes limiting crystalloids and giving PRBC : Platelet : FFP in the ratio:",
+   "opts": [
+    "1:1:1",
+    "2:1:1",
+    "1:2:4",
+    "4:1:1"
+   ],
+   "ans": 0,
+   "exp": "Prevention: Limit crystalloids; PRBC : Platelet : FFP -> 1:1:1 ratio. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-104",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "Haemolytic reaction during transfusion is due to:",
+   "opts": [
+    "Mismatched transfusion",
+    "Citrate toxicity",
+    "Leukocytes",
+    "Iron overload"
+   ],
+   "ans": 0,
+   "exp": "Haemolytic reaction: Reason: Mismatched transfusion. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-105",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "The m/c transfusion reaction is:",
+   "opts": [
+    "Febrile reactions",
+    "Haemolytic reaction",
+    "TRALI",
+    "TACO"
+   ],
+   "ans": 0,
+   "exp": "Febrile reactions (m/c reaction). (Book p42)"
+  },
+  {
+   "id": "SURG-C7-106",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "Febrile transfusion reactions are prevented by using:",
+   "opts": [
+    "A leukoreduction filter",
+    "Warming blood",
+    "Citrate",
+    "Diuretics"
+   ],
+   "ans": 0,
+   "exp": "Prevention: use of a leukoreduction filter. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-107",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "TRALI stands for:",
+   "opts": [
+    "Transfusion related acute lung injury",
+    "Transfusion related acute liver injury",
+    "Transfusion related acute limb ischemia",
+    "Total respiratory and lung insufficiency"
+   ],
+   "ans": 0,
+   "exp": "Transfusion related acute lung injury (TRALI). (Book p42)"
+  },
+  {
+   "id": "SURG-C7-108",
+   "sec": "Massive Blood Transfusion",
+   "page": 42,
+   "q": "TACO stands for:",
+   "opts": [
+    "Transfusion associated cardiac overload",
+    "Transfusion associated cerebral oedema",
+    "Total acute cardiac occlusion",
+    "Transfusion acidosis and cardiac output fall"
+   ],
+   "ans": 0,
+   "exp": "Transfusion associated cardiac overload (TACO). (Book p42)"
+  },
+  {
+   "id": "SURG-C7-109",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "The mechanism of TACO is:",
+   "opts": [
+    "Cardiac overload",
+    "Antibody against HLA antigen",
+    "Sepsis",
+    "Citrate toxicity"
+   ],
+   "ans": 0,
+   "exp": "TACO mechanism: D/t cardiac overload. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-110",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "The mechanism of TRALI is:",
+   "opts": [
+    "Antibody against HLA antigen causing non-cardiogenic pulmonary edema within 6 hours",
+    "Cardiac overload",
+    "Fluid overload of kidneys",
+    "Bacterial contamination"
+   ],
+   "ans": 0,
+   "exp": "TRALI mechanism: Antibody against HLA antigen -> Non-cardiogenic pulmonary edema (within 6 hours). (Book p42)"
+  },
+  {
+   "id": "SURG-C7-111",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "TRALI pulmonary edema appears within:",
+   "opts": [
+    "6 hours",
+    "24 hours",
+    "48 hours",
+    "1 week"
+   ],
+   "ans": 0,
+   "exp": "Non-cardiogenic pulmonary edema (within 6 hours). (Book p42)"
+  },
+  {
+   "id": "SURG-C7-112",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "Implicated donors in TRALI include:",
+   "opts": [
+    "Multiparous women and patients receiving FFP",
+    "Young male donors",
+    "First-time donors only",
+    "O-negative donors"
+   ],
+   "ans": 0,
+   "exp": "TRALI implicated donors: Multiparous women; Patient receiving FFP. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-113",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "Clinical features of TACO include all of the following EXCEPT:",
+   "opts": [
+    "Patchy infiltrates on X-ray",
+    "Facial puffiness",
+    "Pedal edema",
+    "Breathlessness"
+   ],
+   "ans": 0,
+   "exp": "TACO clinical features: Facial puffiness, Pedal edema, Breathlessness, X-ray: Normal. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-114",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "The chest X-ray in TACO is:",
+   "opts": [
+    "Normal",
+    "ARDS with patchy infiltrates",
+    "Pneumothorax",
+    "Cardiomegaly always"
+   ],
+   "ans": 0,
+   "exp": "TACO: X-ray: Normal. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-115",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "TRALI clinically shows breathlessness and on CXR:",
+   "opts": [
+    "ARDS with pulmonary edema and patchy infiltrates",
+    "Normal film",
+    "Pleural effusion only",
+    "Cardiomegaly"
+   ],
+   "ans": 0,
+   "exp": "TRALI: CXR: ARDS (Acute respiratory distress syndrome); Pulmonary edema; Patchy infiltrates. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-116",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "Management of TACO is:",
+   "opts": [
+    "Lasix/diuretics",
+    "No specific management listed",
+    "Antibiotics",
+    "Intubation always"
+   ],
+   "ans": 0,
+   "exp": "TACO management: Lasix/diuretics. (Book p42)"
+  },
+  {
+   "id": "SURG-C7-117",
+   "sec": "TACO vs TRALI",
+   "page": 42,
+   "q": "Management of TRALI as per the book is:",
+   "opts": [
+    "- (none listed)",
+    "Lasix/diuretics",
+    "Steroids",
+    "FFP infusion"
+   ],
+   "ans": 0,
+   "exp": "TRALI management: - (none listed in table). (Book p42)"
+  },
+  {
+   "id": "SURG-C7-118",
+   "sec": "Perioperative RBC Transfusion Criteria",
+   "page": 43,
+   "q": "A perioperative hemoglobin <6 g/dL:",
+   "opts": [
+    "Probably will benefit from transfusion",
+    "Benefits only if ongoing losses",
+    "Not indicated if risk factors absent",
+    "Needs no transfusion"
+   ],
+   "ans": 0,
+   "exp": "Hb <6: Probably will benefit from transfusion. (Book p43)"
+  },
+  {
+   "id": "SURG-C7-119",
+   "sec": "Perioperative RBC Transfusion Criteria",
+   "page": 43,
+   "q": "A perioperative hemoglobin of 6-8 g/dL benefits from transfusion only if:",
+   "opts": [
+    "Ongoing losses (+)/impending surgery",
+    "Patient is young",
+    "Surgery is minor",
+    "Risk factors absent"
+   ],
+   "ans": 0,
+   "exp": "Hb 6-8: Benefit only if ongoing losses (+)/impending surgery. (Book p43)"
+  },
+  {
+   "id": "SURG-C7-120",
+   "sec": "Perioperative RBC Transfusion Criteria",
+   "page": 43,
+   "q": "A perioperative hemoglobin >8 g/dL:",
+   "opts": [
+    "Not indicated if risk factors absent",
+    "Always transfuse",
+    "Probably will benefit",
+    "Transfuse only before surgery"
+   ],
+   "ans": 0,
+   "exp": "Hb >8: Not indicated if risk factors absent. (Book p43)"
+  },
+  {
+   "id": "SURG-C7-121",
+   "sec": "Blood Substitutes",
+   "page": 43,
+   "q": "First generation blood substitute is:",
+   "opts": [
+    "Perfluorocarbon",
+    "Stroma free hemoglobin",
+    "Hemospan",
+    "PHP"
+   ],
+   "ans": 0,
+   "exp": "First generation: Perfluorocarbon. (Book p43)"
+  },
+  {
+   "id": "SURG-C7-122",
+   "sec": "Blood Substitutes",
+   "page": 43,
+   "q": "Second generation blood substitute is:",
+   "opts": [
+    "Stroma free hemoglobin",
+    "Perfluorocarbon",
+    "PEG hemoglobin",
+    "MP4OX"
+   ],
+   "ans": 0,
+   "exp": "Second generation: Stroma free hemoglobin. (Book p43)"
+  },
+  {
+   "id": "SURG-C7-123",
+   "sec": "Blood Substitutes",
+   "page": 43,
+   "q": "Next generation blood substitutes include all of the following EXCEPT:",
+   "opts": [
+    "Perfluorocarbon",
+    "Polyethylene glycol (PEG) hemoglobin",
+    "Hemospan (AKA MP4OX)",
+    "Pyridoxylated hemoglobin polyoxyethylene conjugate (PHP)"
+   ],
+   "ans": 0,
+   "exp": "Next generation: PEG hemoglobin; Hemospan (AKA MP4OX); Pyridoxylated hemoglobin polyoxyethylene conjugate (PHP). (Book p43)"
+  },
+  {
+   "id": "SURG-C7-124",
+   "sec": "Blood Substitutes",
+   "page": 43,
+   "q": "Hemospan is also known as:",
+   "opts": [
+    "MP4OX",
+    "PHP",
+    "PEG-Hb",
+    "TRALI"
+   ],
+   "ans": 0,
+   "exp": "Hemospan (AKA MP4OX). (Book p43)"
+  },
+  {
+   "id": "SURG-C7-125",
+   "sec": "Anti-shock Garment",
+   "page": 43,
+   "q": "The anti-shock garment is used for:",
+   "opts": [
+    "Hypovolemic shock in peripheral locations (Eg: Women with PPH in rural areas)",
+    "Cardiogenic shock in ICU",
+    "Septic shock in OT",
+    "Neurogenic shock only"
+   ],
+   "ans": 0,
+   "exp": "Anti-shock garment: used for hypovolemic shock in peripheral locations (Eg: Women with PPH in rural areas). (Book p43)"
+  },
+  {
+   "id": "SURG-C7-126",
+   "sec": "Anti-shock Garment",
+   "page": 43,
+   "q": "The anti-shock garment applies:",
+   "opts": [
+    "Maximum compression over the legs and least over the upper body",
+    "Equal compression everywhere",
+    "Maximum compression over the chest",
+    "Least compression over the legs"
+   ],
+   "ans": 0,
+   "exp": "Anti-shock garment: Maximum compression (lower body), Least compression (upper body). (Book p43)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U7-1",
+   "ch": 7,
+   "n": 1,
+   "title": "Hypovolemic Shock: Types & Head-Injury Notes",
+   "sec": "Hypovolemic Shock: Types · p37",
+   "qs": [
+    "SURG-C7-001",
+    "SURG-C7-002",
+    "SURG-C7-003",
+    "SURG-C7-004",
+    "SURG-C7-005",
+    "SURG-C7-006",
+    "SURG-C7-007"
+   ],
+   "guide": "Hypovolemic/hemorrhagic shock is the m/c shock: overt bleeding is easy to catch while concealed bleeding hides in neck, thorax, abdomen, pelvis and long bones. An isolated head injury never causes it, so a hypotensive head-injury patient makes you suspect brain herniation, neurogenic shock above T6 or polytrauma."
+  },
+  {
+   "id": "SURG-U7-2",
+   "ch": 7,
+   "n": 2,
+   "title": "Arterial vs Venous Bleed",
+   "sec": "Arterial vs Venous Bleed · p37",
+   "qs": [
+    "SURG-C7-008",
+    "SURG-C7-009",
+    "SURG-C7-010",
+    "SURG-C7-011",
+    "SURG-C7-012",
+    "SURG-C7-013",
+    "SURG-C7-014"
+   ],
+   "guide": "Arterial bleeds spurt, drop the pressure early and are prevented early; lacerated arteries bleed more because vasoconstriction widens the tear, while a clean transection bleeds less. Venous bleeds ooze gradually and hide hypotension late behind compensation."
+  },
+  {
+   "id": "SURG-U7-3",
+   "ch": 7,
+   "n": 3,
+   "title": "Hemorrhage in Surgery",
+   "sec": "Hemorrhage in Surgery · p38",
+   "qs": [
+    "SURG-C7-015",
+    "SURG-C7-016",
+    "SURG-C7-017",
+    "SURG-C7-018",
+    "SURG-C7-019"
+   ],
+   "guide": "Primary hemorrhage bleeds during surgery, reactionary hemorrhage within 24 hours from a dislodged clot or slipped granny's knot, and secondary hemorrhage after 7-14 days when infection sloughs the vessel wall."
+  },
+  {
+   "id": "SURG-U7-4",
+   "ch": 7,
+   "n": 4,
+   "title": "Classification of Hypovolemic Shock",
+   "sec": "Classification of Hypovolemic Shock · p38",
+   "qs": [
+    "SURG-C7-020",
+    "SURG-C7-021",
+    "SURG-C7-022",
+    "SURG-C7-023",
+    "SURG-C7-024",
+    "SURG-C7-025",
+    "SURG-C7-026",
+    "SURG-C7-027",
+    "SURG-C7-028",
+    "SURG-C7-029",
+    "SURG-C7-030",
+    "SURG-C7-031",
+    "SURG-C7-032",
+    "SURG-C7-033",
+    "SURG-C7-034",
+    "SURG-C7-035",
+    "SURG-C7-036",
+    "SURG-C7-037"
+   ],
+   "guide": "Four classes climb from 0-15% (0.5 L, all normal, oral liquids) through 15-30% (1 L, tachycardia, anxious and thirsty) and 30-40% (1.5 L, falling SBP, confused, decompensated) to >40% (>2 L, non-recordable pulse and BP, anuria, coma, massive transfusion)."
+  },
+  {
+   "id": "SURG-U7-5",
+   "ch": 7,
+   "n": 5,
+   "title": "Compensated Shock & Fluid Response Check",
+   "sec": "Pathophysiology & Response · p38",
+   "qs": [
+    "SURG-C7-038",
+    "SURG-C7-039",
+    "SURG-C7-040",
+    "SURG-C7-041",
+    "SURG-C7-042",
+    "SURG-C7-043"
+   ],
+   "guide": "Class II is compensated shock: sympathetic noradrenaline and adrenaline drive tachycardia - the earliest sign - with peripheral vasoconstriction shunting blood to vital organs, cold extremities and raised peripheral resistance. Give 500 mL-1 L crystalloid and check the response."
+  },
+  {
+   "id": "SURG-U7-6",
+   "ch": 7,
+   "n": 6,
+   "title": "Dynamic Fluid Response & Resuscitation Strategies",
+   "sec": "Dynamic Fluid Response · p39",
+   "qs": [
+    "SURG-C7-044",
+    "SURG-C7-045",
+    "SURG-C7-046",
+    "SURG-C7-047",
+    "SURG-C7-048",
+    "SURG-C7-049",
+    "SURG-C7-050",
+    "SURG-C7-051",
+    "SURG-C7-052",
+    "SURG-C7-053",
+    "SURG-C7-054",
+    "SURG-C7-055",
+    "SURG-C7-056",
+    "SURG-C7-057",
+    "SURG-C7-058",
+    "SURG-C7-059",
+    "SURG-C7-060",
+    "SURG-C7-061",
+    "SURG-C7-062",
+    "SURG-C7-063",
+    "SURG-C7-064",
+    "SURG-C7-065",
+    "SURG-C7-066",
+    "SURG-C7-067",
+    "SURG-C7-068"
+   ],
+   "guide": "Responders keep their improved PR, SBP and JVP; transient responders worsen after 15-20 minutes and non responders never improve - both mean ongoing losses. Before hemostasis use damage control resuscitation (damage control surgery, permissive hypotension, 1:1 RBC:FFP, tranexamic acid/platelets/fibrinogen); after hemostasis switch to perfusion-targeted resuscitation with pressors, thromboprophylaxis and end-organ monitoring."
+  },
+  {
+   "id": "SURG-U7-7",
+   "ch": 7,
+   "n": 7,
+   "title": "Occult Hypoperfusion & Monitoring Indicators",
+   "sec": "Occult Hypoperfusion · p40",
+   "qs": [
+    "SURG-C7-069",
+    "SURG-C7-070",
+    "SURG-C7-071",
+    "SURG-C7-072",
+    "SURG-C7-073",
+    "SURG-C7-074",
+    "SURG-C7-075",
+    "SURG-C7-076",
+    "SURG-C7-077",
+    "SURG-C7-078",
+    "SURG-C7-079"
+   ],
+   "guide": "Occult hypoperfusion hides behind normal HR, SBP and urine output but betrays itself with low MVOS and acidosis. PCWP (Swan-Ganz, left heart, more accurate but difficult) outranks CVP (right heart, m/c used) for initial fluid requirement, while urine output (>0.5 mL/kg/hr adult, >1 mL/kg/hr child) is the best resuscitation indicator."
+  },
+  {
+   "id": "SURG-U7-8",
+   "ch": 7,
+   "n": 8,
+   "title": "Shock Indices",
+   "sec": "Indices · p40",
+   "qs": [
+    "SURG-C7-080",
+    "SURG-C7-081",
+    "SURG-C7-082",
+    "SURG-C7-083",
+    "SURG-C7-084",
+    "SURG-C7-085",
+    "SURG-C7-086"
+   ],
+   "guide": "Shock index = HR/SBP with >0.9 meaning higher mortality; the modified shock index = HR/MAP is the most sensitive; ROPE = HR/pulse pressure with <3 stable and >3 warning of decompensated shock."
+  },
+  {
+   "id": "SURG-U7-9",
+   "ch": 7,
+   "n": 9,
+   "title": "Monitors for Organ/Systemic Perfusion",
+   "sec": "Monitors for Organ/Systemic Perfusion · p41",
+   "qs": [
+    "SURG-C7-087",
+    "SURG-C7-088",
+    "SURG-C7-089",
+    "SURG-C7-090",
+    "SURG-C7-091",
+    "SURG-C7-092",
+    "SURG-C7-093",
+    "SURG-C7-094"
+   ],
+   "guide": "Base deficit and lactate flag acidosis for systemic perfusion while MVOS is the best end point of resuscitation. Muscle reads NIRS and tissue oxygen electrodes, gut mucosa - the most sensitive, forming stress ulcers - reads sublingual capnometry, mucosal pH and laser doppler, kidney reads urine output and brain reads consciousness with tissue oxygen electrode/NIRS."
+  },
+  {
+   "id": "SURG-U7-10",
+   "ch": 7,
+   "n": 10,
+   "title": "Massive Blood Transfusion & Complications",
+   "sec": "Massive Blood Transfusion · p41",
+   "qs": [
+    "SURG-C7-095",
+    "SURG-C7-096",
+    "SURG-C7-097",
+    "SURG-C7-098",
+    "SURG-C7-099",
+    "SURG-C7-100",
+    "SURG-C7-101",
+    "SURG-C7-102",
+    "SURG-C7-103",
+    "SURG-C7-104",
+    "SURG-C7-105",
+    "SURG-C7-106",
+    "SURG-C7-107",
+    "SURG-C7-108"
+   ],
+   "guide": "Massive transfusion = whole circulating volume or >10 units in 24 hrs or >4 units in one hour. It brings hypothermia, citrate-driven hypocalcemia/hypomagnesemia and metabolic alkalosis, hyperkalemia from lysed stored RBCs, and coagulopathy - the m/c cause of death - prevented by limiting crystalloids and giving 1:1:1 PRBC:platelet:FFP; febrile reactions are m/c overall and leukoreduction filters prevent them."
+  },
+  {
+   "id": "SURG-U7-11",
+   "ch": 7,
+   "n": 11,
+   "title": "TACO vs TRALI",
+   "sec": "TACO vs TRALI · p42",
+   "qs": [
+    "SURG-C7-109",
+    "SURG-C7-110",
+    "SURG-C7-111",
+    "SURG-C7-112",
+    "SURG-C7-113",
+    "SURG-C7-114",
+    "SURG-C7-115",
+    "SURG-C7-116",
+    "SURG-C7-117"
+   ],
+   "guide": "TACO is cardiac overload with facial puffiness, pedal edema, breathlessness but a normal X-ray, treated with Lasix. TRALI is anti-HLA antibody driven non-cardiogenic pulmonary edema within 6 hours from multiparous donors or FFP, showing ARDS and patchy infiltrates."
+  },
+  {
+   "id": "SURG-U7-12",
+   "ch": 7,
+   "n": 12,
+   "title": "Transfusion Criteria, Blood Substitutes & Anti-shock Garment",
+   "sec": "Perioperative RBC Transfusion Criteria · p43",
+   "qs": [
+    "SURG-C7-118",
+    "SURG-C7-119",
+    "SURG-C7-120",
+    "SURG-C7-121",
+    "SURG-C7-122",
+    "SURG-C7-123",
+    "SURG-C7-124",
+    "SURG-C7-125",
+    "SURG-C7-126"
+   ],
+   "guide": "Transfuse below Hb 6, individualise 6-8 with ongoing losses or impending surgery, and withhold above 8 without risk factors. Perfluorocarbon and stroma free hemoglobin were first and second generation; PEG hemoglobin, Hemospan (MP4OX) and PHP are next generation, and the anti-shock garment squeezes the legs hardest to hold up rural PPH patients."
+  }
+ ]
+}

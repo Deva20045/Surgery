@@ -1,0 +1,1556 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C10-001",
+   "sec": "Risk Factors",
+   "page": 55,
+   "q": "Which of the following is NOT a listed risk factor for breast cancer?",
+   "opts": [
+    "Breastfeeding ≥1 year",
+    "Early menarche",
+    "Late menopause",
+    "Nulliparity"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: ↑ Age, Early menarche, Late menopause, Nulliparity... (breastfeeding ≥1 year is protective). (Book p55)"
+  },
+  {
+   "id": "SURG-C10-002",
+   "sec": "Risk Factors",
+   "page": 55,
+   "q": "Obesity raises breast cancer risk because of peripheral conversion of fat to estrogen by:",
+   "opts": [
+    "Aromatase",
+    "5-alpha reductase",
+    "Cyclooxygenase",
+    "Lipase"
+   ],
+   "ans": 0,
+   "exp": "Obesity: Peripheral conversion of fat --Aromatase--> Estrogen. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-003",
+   "sec": "Risk Factors",
+   "page": 55,
+   "q": "Maternal age at first live birth that increases breast cancer risk is:",
+   "opts": [
+    "≥ 30 yrs",
+    "≤ 20 yrs",
+    "21-25 yrs",
+    "Any age"
+   ],
+   "ans": 0,
+   "exp": "Risk factor: Maternal age at first live birth (≥ 30 yrs). (Book p55)"
+  },
+  {
+   "id": "SURG-C10-004",
+   "sec": "Risk Factors",
+   "page": 55,
+   "q": "Family history as a breast cancer risk factor includes:",
+   "opts": [
+    "Maternal & paternal sides",
+    "Only maternal side",
+    "Only paternal side",
+    "Only siblings"
+   ],
+   "ans": 0,
+   "exp": "Family history: maternal & paternal. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-005",
+   "sec": "Risk Factors",
+   "page": 55,
+   "q": "Which therapy is a listed breast cancer risk factor?",
+   "opts": [
+    "Hormone replacement therapy",
+    "Low dose OCPs",
+    "Tamoxifen",
+    "Insulin"
+   ],
+   "ans": 0,
+   "exp": "Risk factor: Hormone replacement therapy. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-006",
+   "sec": "Risk Factors",
+   "page": 55,
+   "q": "The hormonal risk factors early menarche and late menopause act by:",
+   "opts": [
+    "Increasing lifetime estrogen exposure",
+    "Decreasing estrogen",
+    "Raising prolactin",
+    "Lowering FSH"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Early menarche and Late menopause (prolonged estrogen exposure). (Book p55)"
+  },
+  {
+   "id": "SURG-C10-007",
+   "sec": "Risk Factors",
+   "page": 55,
+   "q": "Which lifestyle factors are listed breast cancer risks?",
+   "opts": [
+    "Alcohol and smoking",
+    "Exercise",
+    "Weight reduction",
+    "Breastfeeding"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: 6. Alcohol; 7. Smoking. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-008",
+   "sec": "Dupont & Page Classification",
+   "page": 55,
+   "q": "In the Dupont & Page classification, nonproliferative lesions, cysts, mild hyperplasia of the usual type and columnar cell change carry a relative risk of:",
+   "opts": [
+    "1 (No risk)",
+    "1.3-1.9",
+    "4-5",
+    "9"
+   ],
+   "ans": 0,
+   "exp": "Dupont & Page: Nonproliferative lesions, Cysts, Mild hyperplasia of the usual type, Columnar cell change = 1 (No risk). (Book p55)"
+  },
+  {
+   "id": "SURG-C10-009",
+   "sec": "Dupont & Page Classification",
+   "page": 55,
+   "q": "Proliferative lesions without atypia, sclerosing adenosis, moderate/florid ductal hyperplasia, radial scar, intraductal papilloma and complex fibroadenoma carry a relative risk of:",
+   "opts": [
+    "1.3-1.9",
+    "1 (No risk)",
+    "4-5",
+    "9"
+   ],
+   "ans": 0,
+   "exp": "Dupont & Page: Proliferative lesions without atypia group = 1.3-1.9. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-010",
+   "sec": "Dupont & Page Classification",
+   "page": 55,
+   "q": "Atypical hyperplasia (atypical ductal/lobular hyperplasia) carries a relative risk of:",
+   "opts": [
+    "4-5",
+    "1.3-1.9",
+    "9",
+    "1"
+   ],
+   "ans": 0,
+   "exp": "Dupont & Page: Atypical hyperplasia, Atypical ductal hyperplasia, Atypical lobular hyperplasia = 4-5. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-011",
+   "sec": "Dupont & Page Classification",
+   "page": 55,
+   "q": "Carcinoma in-situ carries a relative risk of:",
+   "opts": [
+    "9",
+    "4-5",
+    "1.3-1.9",
+    "1"
+   ],
+   "ans": 0,
+   "exp": "Dupont & Page: Carcinoma in-situ = 9. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-012",
+   "sec": "Dupont & Page Classification",
+   "page": 55,
+   "q": "Which lesion sits in the 1.3-1.9 relative risk group?",
+   "opts": [
+    "Radial scar",
+    "Atypical ductal hyperplasia",
+    "Carcinoma in-situ",
+    "Cysts"
+   ],
+   "ans": 0,
+   "exp": "1.3-1.9 group includes Radial scar (and sclerosing adenosis, intraductal papilloma...). (Book p55)"
+  },
+  {
+   "id": "SURG-C10-013",
+   "sec": "Dupont & Page Classification",
+   "page": 55,
+   "q": "The Dupont & Page classification estimates breast cancer risk due to:",
+   "opts": [
+    "Pre-existing lesion in breast",
+    "Family history",
+    "Age alone",
+    "Radiation exposure"
+   ],
+   "ans": 0,
+   "exp": "Dupont & Page classification: Risk of breast cancer d/t pre-existing lesion in breast. (Book p55)"
+  },
+  {
+   "id": "SURG-C10-014",
+   "sec": "Notes: Smokers & Protective",
+   "page": 56,
+   "q": "Breast conditions associated with increased risk in smokers include:",
+   "opts": [
+    "Breast cancer, duct ectasia and Mondor's disease",
+    "Fibroadenoma and cysts",
+    "Phyllodes tumor",
+    "Fat necrosis only"
+   ],
+   "ans": 0,
+   "exp": "Breast conditions associated with ↑ risk in smokers: Breast cancer, Duct ectasia, Mondor's disease. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-015",
+   "sec": "Notes: Smokers & Protective",
+   "page": 56,
+   "q": "Protective factors against breast cancer include maternal age at first live birth of:",
+   "opts": [
+    "≤20 years",
+    "≥30 years",
+    "25-29 years",
+    "Any age"
+   ],
+   "ans": 0,
+   "exp": "Protective factors: maternal age at first live birth: ≤20 years. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-016",
+   "sec": "Notes: Smokers & Protective",
+   "page": 56,
+   "q": "Breastfeeding is protective against breast cancer when continued for:",
+   "opts": [
+    "≥1 year",
+    "≥1 month",
+    "≥1 week",
+    "≥5 years"
+   ],
+   "ans": 0,
+   "exp": "Protective factors: Breastfeeding ≥1 year. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-017",
+   "sec": "Notes: Smokers & Protective",
+   "page": 56,
+   "q": "Low dose OCPs:",
+   "opts": [
+    "Do not increase risk of breast cancer",
+    "Double the risk",
+    "Are protective",
+    "Cause BRCA mutation"
+   ],
+   "ans": 0,
+   "exp": "Low dose OCP's do not ↑ risk of breast cancer. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-018",
+   "sec": "Genes Associated",
+   "page": 56,
+   "q": "What proportion of breast cancer is familial vs sporadic?",
+   "opts": [
+    "10% familial, 90% sporadic",
+    "50% each",
+    "30% familial, 70% sporadic",
+    "90% familial"
+   ],
+   "ans": 0,
+   "exp": "Breast cancer: 10% Familial; 90% Sporadic. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-019",
+   "sec": "Genes Associated",
+   "page": 56,
+   "q": "The m/c gene mutated in breast cancer overall is:",
+   "opts": [
+    "p53",
+    "BRCA1",
+    "PIK3CA",
+    "HER2"
+   ],
+   "ans": 0,
+   "exp": "m/c gene mutated in: Breast cancer: p53. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-020",
+   "sec": "Genes Associated",
+   "page": 56,
+   "q": "Familial breast cancer is most commonly associated with which gene?",
+   "opts": [
+    "BRCA 1",
+    "p53",
+    "PIK3CA",
+    "APC"
+   ],
+   "ans": 0,
+   "exp": "Familial breast cancer: BRCA 1. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-021",
+   "sec": "Genes Associated",
+   "page": 56,
+   "q": "ER, PR +ve breast cancer is most commonly associated with mutation of:",
+   "opts": [
+    "PIK3CA",
+    "p53",
+    "BRCA2",
+    "PTEN"
+   ],
+   "ans": 0,
+   "exp": "ER, PR +ve breast cancer: PIK3CA. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-022",
+   "sec": "Genes Associated",
+   "page": 56,
+   "q": "Triple negative breast cancer (TNBC)/HER 2 neu +ve breast cancer is associated with:",
+   "opts": [
+    "p53",
+    "PIK3CA",
+    "BRCA2",
+    "CDH1"
+   ],
+   "ans": 0,
+   "exp": "Triple negative breast cancer (TNBC)/HER 2 neu +ve: p53. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-023",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "BRCA genes give rise to which syndrome?",
+   "opts": [
+    "HBOC syndrome: Hereditary breast & ovarian cancer syndrome",
+    "Li-Fraumeni syndrome",
+    "Cowden syndrome",
+    "Peutz-Jeghers syndrome"
+   ],
+   "ans": 0,
+   "exp": "BRCA genes: Give rise to HBOC syndrome: Hereditary breast & ovarian cancer syndrome. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-024",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "BRCA 1 and BRCA 2 lie on which chromosomes?",
+   "opts": [
+    "17q and 13q",
+    "13q and 17q",
+    "17p and 13p",
+    "11q and 13q"
+   ],
+   "ans": 0,
+   "exp": "BRCA table: Chromosome: BRCA 1 = 17q; BRCA 2 = 13q. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-025",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "Aggression in BRCA 1 vs BRCA 2 cancers is:",
+   "opts": [
+    "BRCA 1 ↑, BRCA 2 ↓",
+    "BRCA 1 ↓, BRCA 2 ↑",
+    "Equal",
+    "Both low"
+   ],
+   "ans": 0,
+   "exp": "BRCA table: Aggression: BRCA 1 ↑; BRCA 2 ↓. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-026",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "The m/c subtype and histology in BRCA 1 cancers are:",
+   "opts": [
+    "Basal (TNBC) and medullary",
+    "Luminal and tubular",
+    "Luminal and mucinous",
+    "HER2 enriched and lobular"
+   ],
+   "ans": 0,
+   "exp": "BRCA 1: m/c subtype Basal (TNBC); m/c histology: medullary. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-027",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "The m/c subtype in BRCA 2 cancers is:",
+   "opts": [
+    "Luminal",
+    "Basal (TNBC)",
+    "Medullary",
+    "Claudin low"
+   ],
+   "ans": 0,
+   "exp": "BRCA 2: m/c subtype Luminal. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-028",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "Risk of breast & ovarian cancer is higher with:",
+   "opts": [
+    "BRCA 1 > BRCA 2",
+    "BRCA 2 > BRCA 1",
+    "BRCA 1 = BRCA 2",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Risk of: Breast & ovarian cancer: BRCA 1 > BRCA 2. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-029",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "Risk of pancreatic, prostate and male breast cancer is higher with:",
+   "opts": [
+    "BRCA 2 > BRCA 1",
+    "BRCA 1 > BRCA 2",
+    "BRCA 1 = BRCA 2",
+    "Only p53"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic, prostate, male breast cancer: BRCA 2 > BRCA 1. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-030",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "Risk of colorectal & peritoneal cancer between BRCA 1 and BRCA 2 is:",
+   "opts": [
+    "BRCA 1 = BRCA 2",
+    "BRCA 1 > BRCA 2",
+    "BRCA 2 > BRCA 1",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "Colorectal & peritoneal cancer: BRCA 1 = BRCA 2. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-031",
+   "sec": "BRCA Genes & Testing",
+   "page": 56,
+   "q": "Indications for BRCA testing for ALL patients include deleterious BRCA 1/2 gene mutation in a blood relative and:",
+   "opts": [
+    "Personal history of ovarian, fallopian tube, and/or primary peritoneal cancer",
+    "Personal history of fibroadenoma",
+    "Family history of lung cancer",
+    "Age > 60 years"
+   ],
+   "ans": 0,
+   "exp": "For all patients: Deleterious BRCA 1/2 gene mutation in a blood relative; Personal history of ovarian, fallopian tube, and/or primary peritoneal cancer. (Book p56)"
+  },
+  {
+   "id": "SURG-C10-032",
+   "sec": "BRCA Genes & Testing",
+   "page": 57,
+   "q": "For all patients WITH breast cancer, BRCA testing is indicated when ≥1 blood relative was diagnosed with breast cancer at:",
+   "opts": [
+    "≤45 years",
+    "≤60 years",
+    "≤70 years",
+    "Any age"
+   ],
+   "ans": 0,
+   "exp": "For all patients with breast cancer: ≥1 blood relatives diagnosed with breast cancer at ≤45 years. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-033",
+   "sec": "BRCA Genes & Testing",
+   "page": 57,
+   "q": "Personal history of b/l breast cancer at what age indicates BRCA testing?",
+   "opts": [
+    "≤50 years",
+    "≤45 years",
+    "≤60 years",
+    "≤40 years"
+   ],
+   "ans": 0,
+   "exp": "Personal history of b/l breast cancer at ≤50 years. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-034",
+   "sec": "BRCA Genes & Testing",
+   "page": 57,
+   "q": "Personal history of triple-negative breast cancer at what age indicates BRCA testing?",
+   "opts": [
+    "≤60 years",
+    "≤45 years",
+    "≤50 years",
+    "≤30 years"
+   ],
+   "ans": 0,
+   "exp": "Personal history of triple-negative breast cancer at ≤60 years. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-035",
+   "sec": "BRCA Genes & Testing",
+   "page": 57,
+   "q": "Which personal history always indicates BRCA testing in a breast cancer patient?",
+   "opts": [
+    "Male breast cancer",
+    "Fibroadenoma",
+    "Duct ectasia",
+    "Mastitis"
+   ],
+   "ans": 0,
+   "exp": "Personal history of male breast cancer. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-036",
+   "sec": "BRCA Genes & Testing",
+   "page": 57,
+   "q": "Lifestyle modifications in BRCA mutation include all of the following EXCEPT:",
+   "opts": [
+    "Start low dose OCPs",
+    "Weight reduction",
+    "Exercise regularly",
+    "Cessate smoking & alcohol consumption"
+   ],
+   "ans": 0,
+   "exp": "Lifestyle modifications in BRCA mutation: Weight reduction; Exercise regularly; Cessate smoking & alcohol consumption; MRI breast screening from 25 yr of age. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-037",
+   "sec": "BRCA Genes & Testing",
+   "page": 57,
+   "q": "In BRCA mutation carriers, MRI breast screening starts from:",
+   "opts": [
+    "25 yr of age",
+    "30 yr of age",
+    "35 yr of age",
+    "40 yr of age"
+   ],
+   "ans": 0,
+   "exp": "MRI breast screening from 25 yr of age. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-038",
+   "sec": "Risk Reduction Strategies",
+   "page": 57,
+   "q": "B/L prophylactic mastectomy reduces breast cancer risk by:",
+   "opts": [
+    "95%",
+    "50%",
+    "47%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "B/L prophylactic mastectomy: 95% risk reduction. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-039",
+   "sec": "Risk Reduction Strategies",
+   "page": 57,
+   "q": "In B/L prophylactic mastectomy:",
+   "opts": [
+    "Skin & nipple are spared",
+    "Nipple is always removed",
+    "Skin is always removed",
+    "Both breasts are left"
+   ],
+   "ans": 0,
+   "exp": "B/L prophylactic mastectomy: Skin & nipple spared. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-040",
+   "sec": "Risk Reduction Strategies",
+   "page": 57,
+   "q": "B/L salpingo oophorectomy is timed:",
+   "opts": [
+    "After completion of family (within 40 years of age)",
+    "Before 30 years always",
+    "After 60 years",
+    "At diagnosis"
+   ],
+   "ans": 0,
+   "exp": "B/L salpingo oophorectomy: Time: After completion of family (within 40 years of age). (Book p57)"
+  },
+  {
+   "id": "SURG-C10-041",
+   "sec": "Risk Reduction Strategies",
+   "page": 57,
+   "q": "B/L salpingo oophorectomy reduces ovarian cancer risk by:",
+   "opts": [
+    "↓ 90% risk (10% risk of fallopian tube/1° peritoneal cancer remains)",
+    "↓ 50%",
+    "↓ 47%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "Ovarian cancer: ↓ 90% risk (10% risk of fallopian tube/1° peritoneal cancer). (Book p57)"
+  },
+  {
+   "id": "SURG-C10-042",
+   "sec": "Risk Reduction Strategies",
+   "page": 57,
+   "q": "B/L salpingo oophorectomy reduces breast cancer risk by:",
+   "opts": [
+    "↓ 50% risk",
+    "↓ 90% risk",
+    "↓ 47% risk",
+    "↓ 95% risk"
+   ],
+   "ans": 0,
+   "exp": "Breast cancer: ↓ 50% risk. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-043",
+   "sec": "Risk Reduction Strategies",
+   "page": 57,
+   "q": "Tamoxifen, a SERM, reduces breast cancer risk by:",
+   "opts": [
+    "↓ 47%",
+    "↓ 95%",
+    "↓ 90%",
+    "↓ 25%"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen: (SERM): ↓ 47% of breast cancer. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-044",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "The IOC biopsy for breast cancer is:",
+   "opts": [
+    "Core needle biopsy",
+    "FNAC",
+    "Punch biopsy",
+    "Excisional biopsy"
+   ],
+   "ans": 0,
+   "exp": "Biopsy: IOC: Core needle biopsy. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-045",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "Core needle biopsy gives the type (ductal vs lobular) and the biology via:",
+   "opts": [
+    "IHC",
+    "USG",
+    "MRI",
+    "PET"
+   ],
+   "ans": 0,
+   "exp": "Biopsy: Type ...; Biology: IHC. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-046",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "Within ductal carcinoma, the m/c form is:",
+   "opts": [
+    "Invasive",
+    "In situ",
+    "Both equal",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "Ductal carcinoma: In situ; Invasive (m/c). (Book p57)"
+  },
+  {
+   "id": "SURG-C10-047",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "The histological type of breast cancer overall is:",
+   "opts": [
+    "Invasive ductal carcinoma",
+    "Lobular carcinoma",
+    "Tubular",
+    "Mucinous"
+   ],
+   "ans": 0,
+   "exp": "Histological types: Breast cancer: Invasive ductal carcinoma. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-048",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "Ductal carcinoma is otherwise labelled:",
+   "opts": [
+    "NOS (Not otherwise specified)",
+    "NOS (New onset syndrome)",
+    "TIS",
+    "LCIS"
+   ],
+   "ans": 0,
+   "exp": "Ductal carcinoma: NOS (Not otherwise specified). (Book p57)"
+  },
+  {
+   "id": "SURG-C10-049",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "Which special histological type carries a good prognosis?",
+   "opts": [
+    "Tubular",
+    "Medullary",
+    "Basal like",
+    "Invasive ductal"
+   ],
+   "ans": 0,
+   "exp": "Special types: 1. Tubular: Good prognosis. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-050",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "Medullary breast cancer is associated with:",
+   "opts": [
+    "BRCA 1",
+    "BRCA 2",
+    "p53 only",
+    "PIK3CA"
+   ],
+   "ans": 0,
+   "exp": "Special types: 3. Medullary: A/w BRCA 1. (Book p57)"
+  },
+  {
+   "id": "SURG-C10-051",
+   "sec": "Biopsy & Histological Types",
+   "page": 57,
+   "q": "The special types of breast cancer listed are:",
+   "opts": [
+    "Tubular, mucinous and medullary",
+    "Papillary only",
+    "Cribriform only",
+    "Metaplastic only"
+   ],
+   "ans": 0,
+   "exp": "Special types: Tubular (good prognosis), Mucinous, Medullary (A/w BRCA 1). (Book p57)"
+  },
+  {
+   "id": "SURG-C10-052",
+   "sec": "IHC",
+   "page": 58,
+   "q": "ER & PR are which kind of receptors on IHC?",
+   "opts": [
+    "Nuclear receptors",
+    "Membranous markers",
+    "Cytoplasmic markers",
+    "Mitochondrial markers"
+   ],
+   "ans": 0,
+   "exp": "IHC: 1. ER & PR: Nuclear receptors. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-053",
+   "sec": "IHC",
+   "page": 58,
+   "q": "The Allred score range for ER/PR is:",
+   "opts": [
+    "0-8",
+    "0-3",
+    "1-10",
+    "0-100"
+   ],
+   "ans": 0,
+   "exp": "Allred score: 0-8. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-054",
+   "sec": "IHC",
+   "page": 58,
+   "q": "Her 2 neu is which kind of marker?",
+   "opts": [
+    "Membranous marker",
+    "Nuclear receptor",
+    "Cytosolic enzyme",
+    "Stromal marker"
+   ],
+   "ans": 0,
+   "exp": "2. Her 2 neu: Membranous marker. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-055",
+   "sec": "IHC",
+   "page": 58,
+   "q": "Her 2 neu grades 0 and 1+ are reported as:",
+   "opts": [
+    "- ve",
+    "+ve",
+    "Equivocal",
+    "Amplified"
+   ],
+   "ans": 0,
+   "exp": "Grades: 0, 1+ -> - ve. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-056",
+   "sec": "IHC",
+   "page": 58,
+   "q": "A Her 2 neu grade of 2+ (equivocal) is resolved by the IOC test:",
+   "opts": [
+    "FISH (Fluorescent in situ hybridization)",
+    "PCR of serum",
+    "Repeat IHC on same slide",
+    "CT scan"
+   ],
+   "ans": 0,
+   "exp": "2+: Equivocal -> IOC: FISH (Fluorescent in situ hybridization). (Book p58)"
+  },
+  {
+   "id": "SURG-C10-057",
+   "sec": "IHC",
+   "page": 58,
+   "q": "On FISH for Her 2 neu, 'not amplified' and 'amplified' correspond to:",
+   "opts": [
+    "-ve and +ve respectively",
+    "+ve and -ve",
+    "Both -ve",
+    "Both +ve"
+   ],
+   "ans": 0,
+   "exp": "FISH: Not amplified -> -ve; Amplified -> +ve. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-058",
+   "sec": "IHC",
+   "page": 58,
+   "q": "A Her 2 neu grade of 3+ is reported as:",
+   "opts": [
+    "+ve",
+    "-ve",
+    "Equivocal",
+    "Indeterminate"
+   ],
+   "ans": 0,
+   "exp": "3+: +ve. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-059",
+   "sec": "IHC",
+   "page": 58,
+   "q": "The brown stain in IHC is due to:",
+   "opts": [
+    "DAB (3,3' Diaminobenzidine)",
+    "Hematoxylin",
+    "Eosin",
+    "Fluorescein"
+   ],
+   "ans": 0,
+   "exp": "Brown stain d/t DAB (3,3' Diaminobenzidine). (Book p58)"
+  },
+  {
+   "id": "SURG-C10-060",
+   "sec": "IHC",
+   "page": 58,
+   "q": "Ki67 is a marker of:",
+   "opts": [
+    "Proliferation index",
+    "Hormone receptors",
+    "Membrane amplification",
+    "Apoptosis"
+   ],
+   "ans": 0,
+   "exp": "3. Ki67: Proliferation index marker. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-061",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "The molecular classification of breast cancer is based on:",
+   "opts": [
+    "Gene expression profiling",
+    "Tumor size",
+    "Nodal status",
+    "Age"
+   ],
+   "ans": 0,
+   "exp": "Molecular classification of breast cancer: Based on gene expression profiling. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-062",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "The m/c molecular subtype with the best prognosis is:",
+   "opts": [
+    "Luminal A",
+    "Luminal B",
+    "Basal like",
+    "Claudin low"
+   ],
+   "ans": 0,
+   "exp": "Luminal A (m/c): Best prognosis. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-063",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "Luminal A tumors show which ER/PR/HER2/Ki-67/CK5-6 pattern?",
+   "opts": [
+    "+ + - ↓ -",
+    "- - + Any -",
+    "+ + + Any +",
+    "- - - Any +"
+   ],
+   "ans": 0,
+   "exp": "Luminal A: ER +, PR +, HER2 -, Ki-67 ↓, Cytokeratin 5 and 6 -. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-064",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "Luminal B tumors show:",
+   "opts": [
+    "ER+, PR+ with HER2 - and Ki-67 ↑, or HER2 + with any Ki-67",
+    "ER-, PR-, HER2+",
+    "All negative with CK5/6+",
+    "ER+ PR- HER2- always"
+   ],
+   "ans": 0,
+   "exp": "Luminal B: + + - ↑ -; or + + + Any -. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-065",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "HER2 enriched tumors are:",
+   "opts": [
+    "ER -, PR -, HER2 +, any Ki-67",
+    "ER +, PR +, HER2 -",
+    "Triple negative with CK5/6 +",
+    "ER +, PR +, HER2 +"
+   ],
+   "ans": 0,
+   "exp": "HER2 enriched: - - + Any -. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-066",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "Basal like tumors are:",
+   "opts": [
+    "ER -, PR -, HER2 -, Ki-67 any (usually ↑), cytokeratin 5/6 +",
+    "ER +, PR +, HER2 -",
+    "HER2 +",
+    "CK5/6 -"
+   ],
+   "ans": 0,
+   "exp": "Basal like: - - - Any (Usually ↑); Cytokeratin 5 and 6 +. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-067",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "Claudin low type tumors show:",
+   "opts": [
+    "ER -, PR -, HER2 -, any Ki-67, CK5/6 -",
+    "ER +, PR +",
+    "HER2 +",
+    "CK5/6 +"
+   ],
+   "ans": 0,
+   "exp": "Claudin low type: - - - Any; CK5/6 -. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-068",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "Basal like/classical triple negative breast cancer is:",
+   "opts": [
+    "Most aggressive with high recurrence rate and worst prognosis",
+    "Best prognosis",
+    "Seen in elderly",
+    "Low rate of mets"
+   ],
+   "ans": 0,
+   "exp": "Basal like/classical triple negative: most aggressive, high recurrence rate; Worst prognosis. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-069",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "Triple negative breast cancer typically affects which age group?",
+   "opts": [
+    "Young",
+    "Elderly only",
+    "Post-menopausal only",
+    "Children"
+   ],
+   "ans": 0,
+   "exp": "TNBC: Age: Young. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-070",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "The 'TNBC paradox' is that triple negative breast cancer:",
+   "opts": [
+    "Responds best to chemo despite worst prognosis",
+    "Never responds to chemo",
+    "Responds to tamoxifen",
+    "Is always curable by surgery"
+   ],
+   "ans": 0,
+   "exp": "TNBC paradox: Respond best to chemo. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-071",
+   "sec": "Molecular Classification",
+   "page": 58,
+   "q": "The positive cytokeratin marker of basal like/triple negative tumors is:",
+   "opts": [
+    "Cytokeratin 5/6 +ve",
+    "Cytokeratin 7",
+    "Cytokeratin 20",
+    "Cytokeratin 5/6 -ve"
+   ],
+   "ans": 0,
+   "exp": "Basal like: Cytokeratin 5/6 +ve. (Book p58)"
+  },
+  {
+   "id": "SURG-C10-072",
+   "sec": "TNM Staging",
+   "page": 59,
+   "q": "In TNM staging, T, N and M stand for:",
+   "opts": [
+    "Tumor size, Lymph node status, Distant mets",
+    "Tumor type, Node count, Metastasis site",
+    "Tumor grade, Necrosis, Mitoses",
+    "Thickness, Nodes, Markers"
+   ],
+   "ans": 0,
+   "exp": "TNM staging: T: Tumor size; N: Lymph node status; M: Distant mets. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-073",
+   "sec": "TNM Staging",
+   "page": 59,
+   "q": "cTNM, pTNM and rTNM denote:",
+   "opts": [
+    "Clinical, Pathological, Recurrent",
+    "Core, Punch, Radical",
+    "Central, Peripheral, Regional",
+    "Chemo, Radio, Surgical"
+   ],
+   "ans": 0,
+   "exp": "cTNM: Clinical; pTNM: Pathological; rTNM: Recurrent. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-074",
+   "sec": "TNM Staging",
+   "page": 59,
+   "q": "mTNM and yTNM denote:",
+   "opts": [
+    "Multiple tumors; after neoadjuvant therapy (Chemo/Radio prior to sx)",
+    "Metastatic; young",
+    "Male; year of diagnosis",
+    "Microscopic; yearly"
+   ],
+   "ans": 0,
+   "exp": "mTNM: Multiple tumors; yTNM: After neoadjuvant therapy (Chemo/Radio prior to sx). (Book p59)"
+  },
+  {
+   "id": "SURG-C10-075",
+   "sec": "TNM Staging",
+   "page": 59,
+   "q": "The quadrant with maximum glandular tissue and the m/c site for breast cancer is the:",
+   "opts": [
+    "Upper outer quadrant (UOQ)",
+    "Upper inner quadrant (UIQ)",
+    "Lower inner quadrant (LIQ)",
+    "Lower outer quadrant (LOQ)"
+   ],
+   "ans": 0,
+   "exp": "Max glandular tissue: m/c site for cancer = UOQ. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-076",
+   "sec": "TNM Staging",
+   "page": 59,
+   "q": "The quadrant with the least incidence of breast cancer is the:",
+   "opts": [
+    "LIQ",
+    "UOQ",
+    "UIQ",
+    "LOQ"
+   ],
+   "ans": 0,
+   "exp": "Least incidence of cancer: LIQ. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-077",
+   "sec": "8th AJCC: T",
+   "page": 59,
+   "q": "Tis (cancer in situ) includes:",
+   "opts": [
+    "DCIS and Paget's disease",
+    "LCIS only",
+    "Invasive ductal",
+    "Tubular cancer"
+   ],
+   "ans": 0,
+   "exp": "Tis: Cancer in situ: DCIS; Paget's disease. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-078",
+   "sec": "8th AJCC: T",
+   "page": 59,
+   "q": "T1, T2 and T3 breast tumors are sized:",
+   "opts": [
+    "≤2 cm, 2-5 cm, >5 cm",
+    "≤1 cm, 1-3 cm, >3 cm",
+    "≤2 cm, 2-4 cm, >4 cm",
+    "≤3 cm, 3-6 cm, >6 cm"
+   ],
+   "ans": 0,
+   "exp": "T1: ≤2 cm; T2: 2-5 cm; T3: >5 cm. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-079",
+   "sec": "8th AJCC: T",
+   "page": 59,
+   "q": "T4a breast cancer involves the:",
+   "opts": [
+    "Chest wall: serratus anterior, ribs, intercostal muscles",
+    "Skin only",
+    "Nipple only",
+    "Pectoralis major"
+   ],
+   "ans": 0,
+   "exp": "T4a: Involvement of chest wall -> Serratus anterior, ribs, intercostal muscles. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-080",
+   "sec": "8th AJCC: T",
+   "page": 59,
+   "q": "T4b breast cancer involves the skin with:",
+   "opts": [
+    "Ulceration, direct infiltration, peau d'orange, satellite nodules",
+    "Dimpling only",
+    "Nipple retraction only",
+    "Erythema only"
+   ],
+   "ans": 0,
+   "exp": "T4b: Involvement of skin -> Ulceration, direct infiltration, peau d'orange, satellite nodules. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-081",
+   "sec": "8th AJCC: T",
+   "page": 59,
+   "q": "T4c and T4d respectively are:",
+   "opts": [
+    "T4a + T4b; inflammatory cancer",
+    "T4a only; Paget's",
+    "T4b only; DCIS",
+    "Tis + T1; lobular"
+   ],
+   "ans": 0,
+   "exp": "T4c: T4a + T4b; T4d: Inflammatory cancer. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-082",
+   "sec": "8th AJCC: N",
+   "page": 59,
+   "q": "N1 breast cancer denotes:",
+   "opts": [
+    "Palpable mobile ipsilateral axillary nodes",
+    "Fixed ipsilateral axillary nodes",
+    "No regional node metastasis",
+    "Supraclavicular nodes"
+   ],
+   "ans": 0,
+   "exp": "N1: Palpable mobile ipsilateral axillary nodes. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-083",
+   "sec": "8th AJCC: N",
+   "page": 59,
+   "q": "N2a and N2b respectively denote:",
+   "opts": [
+    "Fixed ipsilateral axillary nodes; internal mammary LN in absence of axillary LN",
+    "Mobile axillary nodes; supraclavicular nodes",
+    "Infraclavicular nodes; internal mammary nodes",
+    "No nodes; single node"
+   ],
+   "ans": 0,
+   "exp": "N2a: Fixed ipsilateral axillary nodes; N2b: Presence of internal mammary lymph node in absence of axillary lymph node (LN). (Book p59)"
+  },
+  {
+   "id": "SURG-C10-084",
+   "sec": "8th AJCC: N",
+   "page": 59,
+   "q": "N3a, N3b and N3c respectively denote:",
+   "opts": [
+    "Ipsilateral infraclavicular LN; internal mammary + axillary LN; ipsilateral supraclavicular LN",
+    "Axillary levels I-III",
+    "Fixed axillary; mobile axillary; internal mammary",
+    "Supraclavicular; infraclavicular; axillary"
+   ],
+   "ans": 0,
+   "exp": "N3a: Ipsilateral infraclavicular LN; N3b: Internal mammary + Axillary LN; N3c: Ipsilateral supraclavicular LN. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-085",
+   "sec": "8th AJCC: M",
+   "page": 59,
+   "q": "M0 and M1 denote:",
+   "opts": [
+    "No distant mets; distant mets",
+    "Distant mets; no mets",
+    "Micro mets; macro mets",
+    "Bone only; visceral"
+   ],
+   "ans": 0,
+   "exp": "M0: No distant mets; M1: Distant mets. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-086",
+   "sec": "Metastases Notes",
+   "page": 59,
+   "q": "The m/c site of breast cancer metastasis is bones (lumbar vertebrae) because of:",
+   "opts": [
+    "Batson plexus of valveless veins",
+    "Arterial embolism",
+    "Lymphatic spread only",
+    "Direct extension"
+   ],
+   "ans": 0,
+   "exp": "M/c site of mets: Bones: Lumbar vertebrae d/t Batson plexus of valveless veins. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-087",
+   "sec": "Metastases Notes",
+   "page": 59,
+   "q": "Breast cancer bone metastases are typically:",
+   "opts": [
+    "Osteolytic > Osteoblastic",
+    "Osteoblastic > Osteolytic",
+    "Purely sclerotic",
+    "Mixed equal"
+   ],
+   "ans": 0,
+   "exp": "Breast: Osteolytic > Osteoblastic. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-088",
+   "sec": "Metastases Notes",
+   "page": 59,
+   "q": "In prostate cancer, bone (lumbar vertebrae) metastases are:",
+   "opts": [
+    "Osteoblastic > Osteolytic",
+    "Osteolytic > Osteoblastic",
+    "Always lytic",
+    "Never in bone"
+   ],
+   "ans": 0,
+   "exp": "Note: Prostate cancer: m/c site of mets are bone (Lumbar vertebrae); Osteoblastic > Osteolytic. (Book p59)"
+  },
+  {
+   "id": "SURG-C10-089",
+   "sec": "Important Points",
+   "page": 60,
+   "q": "As per the book, LCIS is:",
+   "opts": [
+    "A benign disease with a risk of cancer, no longer in situ cancer",
+    "An invasive cancer",
+    "A variant of DCIS",
+    "A surgical emergency"
+   ],
+   "ans": 0,
+   "exp": "LCIS is a benign disease with a risk of cancer, no longer in situ cancer. (Book p60)"
+  },
+  {
+   "id": "SURG-C10-090",
+   "sec": "Important Points",
+   "page": 60,
+   "q": "Pectoral muscle involvement is:",
+   "opts": [
+    "Not considered in T4a",
+    "Considered in T4a",
+    "Considered in T4b",
+    "Considered in T1"
+   ],
+   "ans": 0,
+   "exp": "Pectoral muscle involvement: Not considered in T4a. (Book p60)"
+  },
+  {
+   "id": "SURG-C10-091",
+   "sec": "Important Points",
+   "page": 60,
+   "q": "Dimpling & retraction are:",
+   "opts": [
+    "Not considered in T4b",
+    "Considered in T4b",
+    "Considered in T4d",
+    "Considered in Tis"
+   ],
+   "ans": 0,
+   "exp": "Dimpling & retraction: Not considered in T4b. (Book p60)"
+  },
+  {
+   "id": "SURG-C10-092",
+   "sec": "Important Points",
+   "page": 60,
+   "q": "Contralateral (C/L) lymph node involvement is considered metastatic when:",
+   "opts": [
+    "The other breast does not have cancer",
+    "The other breast also has cancer",
+    "Always",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "C/L LN: Considered metastatic (When other breast does not have cancer). (Book p60)"
+  },
+  {
+   "id": "SURG-C10-093",
+   "sec": "PET-CT",
+   "page": 60,
+   "q": "PET-CT is the IOC for:",
+   "opts": [
+    "Staging",
+    "Initial diagnosis of a lump",
+    "Screening average risk women",
+    "Biopsy guidance"
+   ],
+   "ans": 0,
+   "exp": "PET-CT: IOC for staging. (Book p60)"
+  },
+  {
+   "id": "SURG-C10-094",
+   "sec": "PET-CT",
+   "page": 60,
+   "q": "The dye used in PET-CT and its half-life are:",
+   "opts": [
+    "18 FDG (Fluorodeoxyglucose), T½ 110 mins",
+    "99mTc, T½ 6 hours",
+    "Iodine-131, T½ 8 days",
+    "Gadolinium, T½ 90 mins"
+   ],
+   "ans": 0,
+   "exp": "Dye: 18 FDG (Fluorodeoxyglucose); T½: 110 mins. (Book p60)"
+  },
+  {
+   "id": "SURG-C10-095",
+   "sec": "PET-CT",
+   "page": 60,
+   "q": "PET-CT is not sensitive for the brain; the IOC for brain metastases is:",
+   "opts": [
+    "MRI",
+    "CT",
+    "X-ray",
+    "USG"
+   ],
+   "ans": 0,
+   "exp": "PET CT is not sensitive for brain; Brain mets: IOC -> MRI. (Book p60)"
+  },
+  {
+   "id": "SURG-C10-096",
+   "sec": "PET-CT",
+   "page": 60,
+   "q": "For prostate cancer, the PET done is:",
+   "opts": [
+    "PSMA PET (Prostate specific membrane antigen PET)",
+    "18 FDG PET",
+    "DOTATATE PET",
+    "Choline PET only"
+   ],
+   "ans": 0,
+   "exp": "Prostate: PSMA PET (Prostate specific membrane antigen PET) is done. (Book p60)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U10-1",
+   "ch": 10,
+   "n": 1,
+   "title": "Risk Factors for Breast Cancer",
+   "sec": "Risk Factors · p55",
+   "qs": [
+    "SURG-C10-001",
+    "SURG-C10-002",
+    "SURG-C10-003",
+    "SURG-C10-004",
+    "SURG-C10-005",
+    "SURG-C10-006",
+    "SURG-C10-007"
+   ],
+   "guide": "Estrogen exposure drives risk: rising age, early menarche, late menopause, nulliparity and first birth after 30, plus obesity (aromatase converts peripheral fat to estrogen), alcohol, smoking, maternal and paternal family history and HRT."
+  },
+  {
+   "id": "SURG-U10-2",
+   "ch": 10,
+   "n": 2,
+   "title": "Dupont & Page Classification",
+   "sec": "Dupont & Page Classification · p55",
+   "qs": [
+    "SURG-C10-008",
+    "SURG-C10-009",
+    "SURG-C10-010",
+    "SURG-C10-011",
+    "SURG-C10-012",
+    "SURG-C10-013"
+   ],
+   "guide": "Pre-existing lesions stratify risk: nonproliferative lesions, cysts, mild hyperplasia and columnar cell change carry no risk (1); proliferative without atypia (sclerosing adenosis, radial scar, intraductal papilloma, complex fibroadenoma) 1.3-1.9; atypical hyperplasias 4-5; carcinoma in-situ 9."
+  },
+  {
+   "id": "SURG-U10-3",
+   "ch": 10,
+   "n": 3,
+   "title": "Smokers, Protective Factors & OCPs",
+   "sec": "Notes: Smokers & Protective · p56",
+   "qs": [
+    "SURG-C10-014",
+    "SURG-C10-015",
+    "SURG-C10-016",
+    "SURG-C10-017"
+   ],
+   "guide": "Smokers face more breast cancer, duct ectasia and Mondor's disease, while first birth by 20 and breastfeeding beyond a year protect. Low dose OCPs do not raise risk."
+  },
+  {
+   "id": "SURG-U10-4",
+   "ch": 10,
+   "n": 4,
+   "title": "Genes Associated with Breast Cancer",
+   "sec": "Genes Associated · p56",
+   "qs": [
+    "SURG-C10-018",
+    "SURG-C10-019",
+    "SURG-C10-020",
+    "SURG-C10-021",
+    "SURG-C10-022"
+   ],
+   "guide": "Only 10% of breast cancer is familial. p53 is the commonest mutation overall and in TNBC/HER2-positive disease, BRCA1 rules familial cases, and PIK3CA marks ER/PR-positive tumors."
+  },
+  {
+   "id": "SURG-U10-5",
+   "ch": 10,
+   "n": 5,
+   "title": "BRCA Genes & Testing Indications",
+   "sec": "BRCA Genes & Testing · p56",
+   "qs": [
+    "SURG-C10-023",
+    "SURG-C10-024",
+    "SURG-C10-025",
+    "SURG-C10-026",
+    "SURG-C10-027",
+    "SURG-C10-028",
+    "SURG-C10-029",
+    "SURG-C10-030",
+    "SURG-C10-031",
+    "SURG-C10-032",
+    "SURG-C10-033",
+    "SURG-C10-034",
+    "SURG-C10-035",
+    "SURG-C10-036",
+    "SURG-C10-037"
+   ],
+   "guide": "BRCA1 (17q, aggressive, basal/medullary) and BRCA2 (13q, luminal) cause HBOC syndrome: breast-ovarian risk favours BRCA1, pancreatic/prostate/male breast favours BRCA2, colorectal/peritoneal equal. Test everyone with a deleterious family mutation or ovarian/fallopian/peritoneal history, and every breast cancer patient with a relative ≤45, bilateral disease ≤50, TNBC ≤60 or male breast cancer; carriers lose weight, exercise, quit smoking/alcohol and start MRI at 25."
+  },
+  {
+   "id": "SURG-U10-6",
+   "ch": 10,
+   "n": 6,
+   "title": "Risk Reduction Strategies",
+   "sec": "Risk Reduction Strategies · p57",
+   "qs": [
+    "SURG-C10-038",
+    "SURG-C10-039",
+    "SURG-C10-040",
+    "SURG-C10-041",
+    "SURG-C10-042",
+    "SURG-C10-043"
+   ],
+   "guide": "Bilateral prophylactic mastectomy cuts risk 95% sparing skin and nipple; salpingo-oophorectomy after family completion (by 40) cuts ovarian risk 90% (leaving 10% fallopian/peritoneal) and breast risk 50%; tamoxifen (SERM) trims 47%."
+  },
+  {
+   "id": "SURG-U10-7",
+   "ch": 10,
+   "n": 7,
+   "title": "Biopsy & Histological Types",
+   "sec": "Biopsy & Histological Types · p57",
+   "qs": [
+    "SURG-C10-044",
+    "SURG-C10-045",
+    "SURG-C10-046",
+    "SURG-C10-047",
+    "SURG-C10-048",
+    "SURG-C10-049",
+    "SURG-C10-050",
+    "SURG-C10-051"
+   ],
+   "guide": "Core needle biopsy is IOC, typing ductal (invasive m/c) vs lobular disease and feeding IHC for biology. Invasive ductal carcinoma (NOS) dominates; tubular, mucinous and medullary (BRCA1-linked) are the special types."
+  },
+  {
+   "id": "SURG-U10-8",
+   "ch": 10,
+   "n": 8,
+   "title": "IHC: ER/PR, HER2 & Ki67",
+   "sec": "IHC · p58",
+   "qs": [
+    "SURG-C10-052",
+    "SURG-C10-053",
+    "SURG-C10-054",
+    "SURG-C10-055",
+    "SURG-C10-056",
+    "SURG-C10-057",
+    "SURG-C10-058",
+    "SURG-C10-059",
+    "SURG-C10-060"
+   ],
+   "guide": "ER/PR are nuclear receptors scored by Allred 0-8; HER2 is membranous with 0/1+ negative, 3+ positive and 2+ equivocal sent to FISH (amplified = positive), the brown stain coming from DAB. Ki67 marks the proliferation index."
+  },
+  {
+   "id": "SURG-U10-9",
+   "ch": 10,
+   "n": 9,
+   "title": "Molecular Classification & TNBC",
+   "sec": "Molecular Classification · p58",
+   "qs": [
+    "SURG-C10-061",
+    "SURG-C10-062",
+    "SURG-C10-063",
+    "SURG-C10-064",
+    "SURG-C10-065",
+    "SURG-C10-066",
+    "SURG-C10-067",
+    "SURG-C10-068",
+    "SURG-C10-069",
+    "SURG-C10-070",
+    "SURG-C10-071"
+   ],
+   "guide": "Gene expression profiling splits breast cancer into luminal A (m/c, best prognosis, ER+PR+HER2-, low Ki67), luminal B, HER2-enriched, claudin-low and basal-like - triple negative, CK5/6 positive, young patients, most aggressive with the worst prognosis yet the TNBC paradox: it responds best to chemotherapy."
+  },
+  {
+   "id": "SURG-U10-10",
+   "ch": 10,
+   "n": 10,
+   "title": "TNM & 8th AJCC Staging",
+   "sec": "TNM Staging · p59",
+   "qs": [
+    "SURG-C10-072",
+    "SURG-C10-073",
+    "SURG-C10-074",
+    "SURG-C10-075",
+    "SURG-C10-076",
+    "SURG-C10-077",
+    "SURG-C10-078",
+    "SURG-C10-079",
+    "SURG-C10-080",
+    "SURG-C10-081",
+    "SURG-C10-082",
+    "SURG-C10-083",
+    "SURG-C10-084",
+    "SURG-C10-085"
+   ],
+   "guide": "T sizes run ≤2/2-5/>5 cm after Tis (DCIS, Paget's); T4a is chest wall (serratus, ribs, intercostals - not pectoralis), T4b skin (ulceration, infiltration, peau d'orange, satellites - not dimpling), T4c both, T4d inflammatory. N1 mobile axillary, N2a fixed axillary, N2b internal mammary without axillary, N3a infraclavicular, N3b internal mammary + axillary, N3c supraclavicular; UOQ is the commonest site and LIQ the rarest."
+  },
+  {
+   "id": "SURG-U10-11",
+   "ch": 10,
+   "n": 11,
+   "title": "Metastases, Important Points & PET-CT",
+   "sec": "Metastases Notes · p59",
+   "qs": [
+    "SURG-C10-086",
+    "SURG-C10-087",
+    "SURG-C10-088",
+    "SURG-C10-089",
+    "SURG-C10-090",
+    "SURG-C10-091",
+    "SURG-C10-092",
+    "SURG-C10-093",
+    "SURG-C10-094",
+    "SURG-C10-095",
+    "SURG-C10-096"
+   ],
+   "guide": "Breast spreads to lumbar vertebrae through Batson's valveless plexus with osteolytic > osteoblastic lesions (prostate reverses this). LCIS is now a benign risk lesion, and PET-CT with 18 FDG (T½ 110 min) is IOC for staging except in brain (MRI) and prostate (PSMA PET)."
+  }
+ ]
+}

@@ -1,0 +1,2371 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C6-001",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Regarding biochemical markers to identify malnutrition, the book states:",
+   "opts": [
+    "No single reliable biochemical marker exists",
+    "Serum albumin is the single reliable marker",
+    "Serum transferrin is the single reliable marker",
+    "CRP is the single reliable marker"
+   ],
+   "ans": 0,
+   "exp": "Indicators: No single reliable biochemical marker to identify malnutrition. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-002",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Low albumin is an indicator of:",
+   "opts": [
+    "Good outcome",
+    "Poor outcome",
+    "Body fat",
+    "Muscle mass"
+   ],
+   "ans": 1,
+   "exp": "Low albumin: Indicator of poor outcome. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-003",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Which is a better marker than albumin for nutritional assessment?",
+   "opts": [
+    "Pre albumin",
+    "Hemoglobin",
+    "Platelet count",
+    "Serum sodium"
+   ],
+   "ans": 0,
+   "exp": "S. pre albumin: Better marker. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-004",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Significant weight loss is defined as unintentional weight loss of:",
+   "opts": [
+    ">5% of weight in 3 months",
+    ">10% of weight in 6 months",
+    ">15% of weight in 12 months",
+    ">20% of weight in 1 month"
+   ],
+   "ans": 1,
+   "exp": "Significant weight loss: Unintentional weight loss >10% of weight in 6 months. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-005",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Significant weight loss is an indicator of:",
+   "opts": [
+    "Good prognosis",
+    "Poor prognosis",
+    "Body fat",
+    "Fluid overload"
+   ],
+   "ans": 1,
+   "exp": "Significant weight loss: Indicator of poor prognosis. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-006",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Which BMI value indicates poor outcome?",
+   "opts": [
+    "BMI <15",
+    "BMI <20",
+    "BMI <25",
+    "BMI <30"
+   ],
+   "ans": 0,
+   "exp": "BMI <15: Poor outcome. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-007",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Skin fold thickness is an indicator of:",
+   "opts": [
+    "Muscle mass",
+    "Body fat",
+    "Bone density",
+    "Fluid status"
+   ],
+   "ans": 1,
+   "exp": "Skin fold thickness: Indicator of body fat. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-008",
+   "sec": "Nutritional Assessment: Indicators",
+   "page": 28,
+   "q": "Mid arm circumference is used as an indicator of:",
+   "opts": [
+    "Body fat",
+    "Muscle mass",
+    "Hydration",
+    "Visceral protein"
+   ],
+   "ans": 1,
+   "exp": "Mid arm circumference: Muscle mass. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-009",
+   "sec": "Malnutrition Universal Screening Tool",
+   "page": 28,
+   "q": "The malnutrition universal screening tool combines BMI score, unintentional weight loss and:",
+   "opts": [
+    "Acute disease affect score",
+    "Serum albumin score",
+    "Age score",
+    "Functional score"
+   ],
+   "ans": 0,
+   "exp": "MUST: BMI score + Unintentional weight loss + Acute disease affect score. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-010",
+   "sec": "Malnutrition Universal Screening Tool",
+   "page": 28,
+   "q": "The three components of the malnutrition universal screening tool together give the:",
+   "opts": [
+    "Overall risk of malnutrition",
+    "Daily calorie target",
+    "Nitrogen balance",
+    "Refeeding risk grade"
+   ],
+   "ans": 0,
+   "exp": "BMI score + unintentional weight loss + acute disease affect score -> Overall risk of malnutrition. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-011",
+   "sec": "Nutritional Requirement: REE",
+   "page": 28,
+   "q": "The resting energy expenditure (REE) multiplier for a normal sedentary life is:",
+   "opts": [
+    "1",
+    "1.4",
+    "1.8",
+    "2"
+   ],
+   "ans": 0,
+   "exp": "REE table: Normal (Sedentary life) = 1. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-012",
+   "sec": "Nutritional Requirement: REE",
+   "page": 28,
+   "q": "Calorie requirement for a normal sedentary person is:",
+   "opts": [
+    "20 Kcal/kg/day",
+    "25 Kcal/kg/day",
+    "30 Kcal/kg/day",
+    "40 Kcal/kg/day"
+   ],
+   "ans": 0,
+   "exp": "REE table: Normal (Sedentary life): 20 Kcal/kg/day. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-013",
+   "sec": "Nutritional Requirement: REE",
+   "page": 28,
+   "q": "The REE multiplier for mild/moderate sepsis is:",
+   "opts": [
+    "1",
+    "1.4",
+    "1.8",
+    "2"
+   ],
+   "ans": 1,
+   "exp": "REE table: Mild/moderate sepsis = 1.4. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-014",
+   "sec": "Nutritional Requirement: REE",
+   "page": 28,
+   "q": "The REE multiplier for severe sepsis is:",
+   "opts": [
+    "1",
+    "1.4",
+    "1.8",
+    "2"
+   ],
+   "ans": 2,
+   "exp": "REE table: Severe sepsis = 1.8. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-015",
+   "sec": "Nutritional Requirement: REE",
+   "page": 28,
+   "q": "Severe burns have an REE multiplier and calorie requirement of:",
+   "opts": [
+    "1.4 and 25 Kcal/kg/day",
+    "1.8 and 30 Kcal/kg/day",
+    "2 and 40 Kcal/kg/day",
+    "2 and 20 Kcal/kg/day"
+   ],
+   "ans": 2,
+   "exp": "REE table: Severe burns = 2, 40 Kcal/kg/day. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-016",
+   "sec": "Enteral and Parenteral Nutrition",
+   "page": 28,
+   "q": "Between enteral and parenteral nutrition, the preferred route is:",
+   "opts": [
+    "Enteral (oral) > parenteral",
+    "Parenteral (I/V) > enteral",
+    "Both are equal",
+    "Peripheral I/V first"
+   ],
+   "ans": 0,
+   "exp": "Enteral (Oral) > Parenteral (I/V). (Book p28)"
+  },
+  {
+   "id": "SURG-C6-017",
+   "sec": "Enteral and Parenteral Nutrition",
+   "page": 28,
+   "q": "Advantages of enteral nutrition include all of the following EXCEPT:",
+   "opts": [
+    "Physiological",
+    "Cheap",
+    "Maintains enterohepatic circulation",
+    "Causes stasis of gut bacteria"
+   ],
+   "ans": 3,
+   "exp": "Enteral: 1. Physiological. 2. Cheap. 3. Maintains enterohepatic circulation. 4. Prevents translocation of gut bacteria. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-018",
+   "sec": "Enteral and Parenteral Nutrition",
+   "page": 28,
+   "q": "Enteral feeding prevents:",
+   "opts": [
+    "Translocation of gut bacteria",
+    "Enterohepatic circulation",
+    "Gastric emptying",
+    "Bile secretion"
+   ],
+   "ans": 0,
+   "exp": "Enteral nutrition prevents translocation of gut bacteria. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-019",
+   "sec": "Enteral and Parenteral Nutrition",
+   "page": 28,
+   "q": "Parenteral nutrition is given by the I/V route and leads to:",
+   "opts": [
+    "Stasis",
+    "Enterohepatic circulation",
+    "Bacterial translocation prevention",
+    "Cheaper costs"
+   ],
+   "ans": 0,
+   "exp": "Parenteral: I/V : Stasis. (Book p28)"
+  },
+  {
+   "id": "SURG-C6-020",
+   "sec": "Enteral Nutrition: Route Algorithm",
+   "page": 29,
+   "q": "The best route of enteral nutrition is:",
+   "opts": [
+    "Oral",
+    "Nasogastric",
+    "Gastrostomy",
+    "Jejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Enteral nutrition: Best route: Oral. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-021",
+   "sec": "Enteral Nutrition: Route Algorithm",
+   "page": 29,
+   "q": "When oral nutrition is not possible, the next deciding factor is:",
+   "opts": [
+    "Duration of requirement",
+    "Patient's age",
+    "Serum albumin",
+    "BMI"
+   ],
+   "ans": 0,
+   "exp": "Oral nutrition not possible -> decide by Duration of requirement. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-022",
+   "sec": "Enteral Nutrition: Route Algorithm",
+   "page": 29,
+   "q": "Enteral feeding needed for <3 weeks with good gastric emptying is best given by:",
+   "opts": [
+    "Nasogastric tube / Ryles tube",
+    "Nasojejunal tube",
+    "Feeding gastrostomy",
+    "Feeding jejunostomy"
+   ],
+   "ans": 0,
+   "exp": "<3 weeks + gastric emptying good -> Nasogastric tube, Ryles tube. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-023",
+   "sec": "Enteral Nutrition: Route Algorithm",
+   "page": 29,
+   "q": "Enteral feeding needed for <3 weeks with poor gastric emptying (nausea, vomiting) is given by:",
+   "opts": [
+    "Nasogastric tube",
+    "Nasojejunal tube",
+    "Feeding gastrostomy",
+    "Ryles tube"
+   ],
+   "ans": 1,
+   "exp": "<3 weeks + gastric emptying poor (nausea, vomiting) -> Nasojejunal tube. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-024",
+   "sec": "Enteral Nutrition: Route Algorithm",
+   "page": 29,
+   "q": "Enteral feeding needed for >3 weeks with good gastric emptying is given by:",
+   "opts": [
+    "Nasogastric tube",
+    "Nasojejunal tube",
+    "Feeding gastrostomy",
+    "Feeding jejunostomy"
+   ],
+   "ans": 2,
+   "exp": ">3 weeks + gastric emptying good -> Feeding gastrostomy. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-025",
+   "sec": "Enteral Nutrition: Route Algorithm",
+   "page": 29,
+   "q": "Enteral feeding needed for >3 weeks with poor gastric emptying is given by:",
+   "opts": [
+    "Nasogastric tube",
+    "Ryles tube",
+    "Feeding gastrostomy",
+    "Feeding jejunostomy"
+   ],
+   "ans": 3,
+   "exp": ">3 weeks + gastric emptying poor -> Feeding jejunostomy. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-026",
+   "sec": "Ryles Tube",
+   "page": 29,
+   "q": "Best position for Ryles tube insertion is:",
+   "opts": [
+    "Supine with neck extended",
+    "Sitting with neck slightly flexed",
+    "Left lateral",
+    "Prone"
+   ],
+   "ans": 1,
+   "exp": "Ryles tube: Best position: Sitting with neck slightly flexed. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-027",
+   "sec": "Ryles Tube",
+   "page": 29,
+   "q": "Assessment of Ryles tube placement includes:",
+   "opts": [
+    "Aspiration of gastric contents",
+    "Aspiration of bile only",
+    "Abdominal ultrasound",
+    "Serum gastrin"
+   ],
+   "ans": 0,
+   "exp": "Assessment of placement: Aspiration of gastric contents. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-028",
+   "sec": "Ryles Tube",
+   "page": 29,
+   "q": "Pushing air through the Ryles tube while auscultating confirms placement over the:",
+   "opts": [
+    "Hypochondrium",
+    "Epigastrium",
+    "Suprapubic region",
+    "Flank"
+   ],
+   "ans": 1,
+   "exp": "Push air -> Auscultate in epigastrium. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-029",
+   "sec": "Ryles Tube",
+   "page": 29,
+   "q": "The length of a Ryles tube is measured from the nose to the ear and then to the:",
+   "opts": [
+    "Umbilicus",
+    "Xiphisternum",
+    "Iliac crest",
+    "Pubic symphysis"
+   ],
+   "ans": 1,
+   "exp": "Ryles tube measurement: Nose - Ear - Xiphisternum. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-030",
+   "sec": "Nasojejunal Tube",
+   "page": 29,
+   "q": "A nasojejunal tube is inserted into the jejunum under:",
+   "opts": [
+    "Fluoroscopic guidance",
+    "Direct vision",
+    "Blind bedside technique only",
+    "MRI guidance"
+   ],
+   "ans": 0,
+   "exp": "Nasojejunal tube: Inserted into jejunum under fluoroscopic guidance. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-031",
+   "sec": "Nasojejunal Tube",
+   "page": 29,
+   "q": "The nasojejunal tube has the advantage that it:",
+   "opts": [
+    "Bypasses the stomach",
+    "Bypasses the jejunum",
+    "Requires gastrostomy",
+    "Needs no guidance"
+   ],
+   "ans": 0,
+   "exp": "Nasojejunal tube: Bypasses stomach. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-032",
+   "sec": "Invasive Feeding Tubes",
+   "page": 29,
+   "q": "Feeding gastrostomy can be performed by all of the following EXCEPT:",
+   "opts": [
+    "Stamm",
+    "Witzel",
+    "PEG/RIG",
+    "Seldinger jejunostomy"
+   ],
+   "ans": 3,
+   "exp": "Feeding gastrostomy: Stamm, Witzel, PEG/RIG. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-033",
+   "sec": "Invasive Feeding Tubes",
+   "page": 29,
+   "q": "Feeding jejunostomy is performed by which techniques?",
+   "opts": [
+    "Stamm and Witzel",
+    "PEG and RIG",
+    "Witzel only",
+    "Stamm only"
+   ],
+   "ans": 0,
+   "exp": "Feeding jejunostomy: Stamm, Witzel. (Book p29)"
+  },
+  {
+   "id": "SURG-C6-034",
+   "sec": "Invasive Feeding Tubes",
+   "page": 30,
+   "q": "Compared with jejunostomy, gastrostomy feeding is:",
+   "opts": [
+    "More physiological but with increased risk of aspiration",
+    "Less physiological with less aspiration",
+    "More physiological with less aspiration",
+    "Less physiological with more aspiration"
+   ],
+   "ans": 0,
+   "exp": "Gastrostomy: more physiological; ↑ risk of aspiration. (Book p30)"
+  },
+  {
+   "id": "SURG-C6-035",
+   "sec": "Invasive Feeding Tubes",
+   "page": 30,
+   "q": "The main disadvantage of gastrostomy feeding compared to jejunostomy is:",
+   "opts": [
+    "Increased risk of aspiration",
+    "Less physiological",
+    "Cannot use a tube",
+    "Needs fluoroscopy always"
+   ],
+   "ans": 0,
+   "exp": "Gastrostomy: ↑ risk of aspiration. (Book p30)"
+  },
+  {
+   "id": "SURG-C6-036",
+   "sec": "Stamm vs Witzel",
+   "page": 30,
+   "q": "Stamm gastrostomy/jejunostomy is associated with:",
+   "opts": [
+    "Peridrain leakage",
+    "Less peridrain leakage",
+    "No leakage at all",
+    "Biliary leakage"
+   ],
+   "ans": 0,
+   "exp": "Stamm: Peridrain leakage. (Book p30)"
+  },
+  {
+   "id": "SURG-C6-037",
+   "sec": "Stamm vs Witzel",
+   "page": 30,
+   "q": "Witzel gastrostomy/jejunostomy is associated with:",
+   "opts": [
+    "More peridrain leakage",
+    "Less peridrain leakage",
+    "No tunnel",
+    "Gastric outlet obstruction"
+   ],
+   "ans": 1,
+   "exp": "Witzel: Less peridrain leakage. (Book p30)"
+  },
+  {
+   "id": "SURG-C6-038",
+   "sec": "Stamm vs Witzel",
+   "page": 30,
+   "q": "In Stamm technique, the tube used and the suture material are:",
+   "opts": [
+    "Red Robinson tube and non-absorbable suture",
+    "Foley catheter and absorbable suture",
+    "Ryles tube and absorbable suture",
+    "PEG tube only"
+   ],
+   "ans": 0,
+   "exp": "Stamm: Red Robinson tube, Non-absorbable suture. (Book p30)"
+  },
+  {
+   "id": "SURG-C6-039",
+   "sec": "Stamm vs Witzel",
+   "page": 30,
+   "q": "The steps of Stamm technique are:",
+   "opts": [
+    "1. Stab incision, 2. Purse string suture",
+    "1. Tunnel, 2. Anastomosis",
+    "1. Purse string, 2. Resection",
+    "1. Stab incision, 2. Tunnel over distal jejunum"
+   ],
+   "ans": 0,
+   "exp": "Stamm: 1. Stab incision; 2. Purse string suture (small bowel). (Book p30)"
+  },
+  {
+   "id": "SURG-C6-040",
+   "sec": "Stamm vs Witzel",
+   "page": 30,
+   "q": "In Witzel technique the tube is buried in a tunnel made in the:",
+   "opts": [
+    "Distal jejunum",
+    "Proximal duodenum",
+    "Stomach fundus",
+    "Transverse colon"
+   ],
+   "ans": 0,
+   "exp": "Witzel: Tunnel in distal jejunum. (Book p30)"
+  },
+  {
+   "id": "SURG-C6-041",
+   "sec": "Technique of PEG",
+   "page": 31,
+   "q": "In PEG technique, step A is:",
+   "opts": [
+    "Endoscope is advanced transorally into the stomach with insufflation",
+    "Transillumination of the abdominal wall",
+    "Seldinger puncture",
+    "Transgastric suture fixation"
+   ],
+   "ans": 0,
+   "exp": "PEG step A: Endoscope is advanced transorally into the stomach with insufflation. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-042",
+   "sec": "Technique of PEG",
+   "page": 31,
+   "q": "Steps B and C of PEG technique are:",
+   "opts": [
+    "Transillumination and finger indentation of the anterior abdominal wall",
+    "Balloon dilatation of the esophagus",
+    "Laparoscopic port insertion",
+    "Needle jejunostomy"
+   ],
+   "ans": 0,
+   "exp": "PEG steps B, C: Transillumination and finger indentation of the anterior abdominal wall. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-043",
+   "sec": "Technique of PEG",
+   "page": 31,
+   "q": "Steps D to G of PEG technique represent:",
+   "opts": [
+    "Transgastric suture fixation of stomach to the abdominal wall",
+    "Seldinger gastrostomy",
+    "Tube removal",
+    " Jejunal extension placement"
+   ],
+   "ans": 0,
+   "exp": "PEG steps D-G: Transgastric suture fixation of stomach to the abdominal wall. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-044",
+   "sec": "Technique of PEG",
+   "page": 31,
+   "q": "Steps H to K of PEG technique use which method to create the gastrostomy?",
+   "opts": [
+    "Seldinger technique",
+    "Open Stamm technique",
+    "Witzel tunnel",
+    "Laparoscopic stapling"
+   ],
+   "ans": 0,
+   "exp": "PEG steps H-K: Seldinger technique used to create a gastrostomy. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-045",
+   "sec": "Radiologically Inserted Gastrostomy",
+   "page": 31,
+   "q": "Radiologically inserted gastrostomy (RIG) is indicated in:",
+   "opts": [
+    "Patients where endoscopy is not possible",
+    "Patients needing jejunostomy",
+    "Patients with normal anatomy",
+    "Short-term feeding <1 week"
+   ],
+   "ans": 0,
+   "exp": "RIG indications: Patients where endoscopy is not possible. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-046",
+   "sec": "Radiologically Inserted Gastrostomy",
+   "page": 31,
+   "q": "Which respiratory situation favours RIG over PEG?",
+   "opts": [
+    "Compromised respiratory function",
+    "Normal spirometry",
+    "Asthma on inhalers",
+    "Recent cough"
+   ],
+   "ans": 0,
+   "exp": "RIG indications: Compromised respiratory function. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-047",
+   "sec": "Radiologically Inserted Gastrostomy",
+   "page": 31,
+   "q": "Compromised oropharyngeal anatomy is an indication for:",
+   "opts": [
+    "RIG",
+    "Ryles tube",
+    "Nasojejunal tube",
+    "Oral feeds"
+   ],
+   "ans": 0,
+   "exp": "RIG indications: Compromised oropharyngeal anatomy. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-048",
+   "sec": "Enteral Nutrition: Principle",
+   "page": 31,
+   "q": "Enteral feeding rate is started gradually at:",
+   "opts": [
+    "10-20 mL/hr",
+    "50-60 mL/hr",
+    "75-100 mL/hr",
+    "150 mL/hr"
+   ],
+   "ans": 0,
+   "exp": "Rate of feeding: Started gradually: 10-20 mL/hr. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-049",
+   "sec": "Enteral Nutrition: Principle",
+   "page": 31,
+   "q": "If tolerated, the enteral feeding rate is increased up to:",
+   "opts": [
+    "40 mL/hr",
+    "60 mL/hr",
+    "75 mL/hr",
+    "120 mL/hr"
+   ],
+   "ans": 2,
+   "exp": "Increased upto 75 mL/hr, if tolerated. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-050",
+   "sec": "Enteral Nutrition: Principle",
+   "page": 31,
+   "q": "Before a subsequent enteral meal one should aspirate; the next feed is withheld if the aspirate is:",
+   "opts": [
+    ">25-50 cc",
+    ">75-100 cc",
+    ">150-200 cc",
+    ">300 cc"
+   ],
+   "ans": 1,
+   "exp": "Aspirate before subsequent meal: If aspirate is >75-100 cc: withhold next feed. (Book p31)"
+  },
+  {
+   "id": "SURG-C6-051",
+   "sec": "Enteral Nutrition: Principle",
+   "page": 31,
+   "q": "Withholding the feed for a large gastric aspirate avoids aspiration due to:",
+   "opts": [
+    "Over distention of stomach",
+    "Under feeding",
+    "Tube blockage",
+    "Hypokalemia"
+   ],
+   "ans": 0,
+   "exp": "Withhold next feed (To avoid aspiration d/t over distention of stomach). (Book p31)"
+  },
+  {
+   "id": "SURG-C6-052",
+   "sec": "Complications of Enteral Nutrition",
+   "page": 32,
+   "q": "The most common (m/c) category of enteral nutrition complications is:",
+   "opts": [
+    "Tube related",
+    "Feeding regime related",
+    "Metabolic",
+    "Cardiac"
+   ],
+   "ans": 0,
+   "exp": "Complications: a. Tube related: m/c. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-053",
+   "sec": "Complications of Enteral Nutrition",
+   "page": 32,
+   "q": "Tube related complications include all of the following EXCEPT:",
+   "opts": [
+    "Blockage",
+    "Migration",
+    "Leakage",
+    "Hyperglycemia"
+   ],
+   "ans": 3,
+   "exp": "Tube related: Blockage, migration, leakage. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-054",
+   "sec": "Complications of Enteral Nutrition",
+   "page": 32,
+   "q": "The m/c feeding regime related complication of enteral nutrition is:",
+   "opts": [
+    "Osmotic diarrhoea",
+    "Constipation",
+    "Hyperglycemia",
+    "Hypophosphatemia"
+   ],
+   "ans": 0,
+   "exp": "Feeding regime related: Osmotic diarrhoea: m/c. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-055",
+   "sec": "Complications of Enteral Nutrition",
+   "page": 32,
+   "q": "A hyperosmolar feed causes diarrhoea because of:",
+   "opts": [
+    "Rapid transit",
+    "Slow transit",
+    "Bacterial overgrowth",
+    "Tube migration"
+   ],
+   "ans": 0,
+   "exp": "Hyperosmolar feed: Rapid transit -> Diarrhoea. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-056",
+   "sec": "Complications of Enteral Nutrition",
+   "page": 32,
+   "q": "Overfeeding during enteral nutrition causes:",
+   "opts": [
+    "Aspiration",
+    "Constipation",
+    "Hypoglycemia",
+    "Tube blockage"
+   ],
+   "ans": 0,
+   "exp": "Overfeeding causes aspiration. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-057",
+   "sec": "Parenteral Nutrition: Indications",
+   "page": 32,
+   "q": "Parenteral nutrition is indicated in prolonged paralytic ileus lasting more than:",
+   "opts": [
+    "24 hrs",
+    "48 hrs",
+    "72 hrs",
+    "1 week"
+   ],
+   "ans": 2,
+   "exp": "Indication: Prolonged paralytic ileus >72 hrs. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-058",
+   "sec": "Parenteral Nutrition: Indications",
+   "page": 32,
+   "q": "A non-contracting bowel causes no transit of food leading to:",
+   "opts": [
+    "Obstruction, vomiting",
+    "Diarrhoea",
+    "Hyperglycemia",
+    "Refeeding syndrome"
+   ],
+   "ans": 0,
+   "exp": "Non-contracting bowel -> No transit of food -> Obstruction, vomiting. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-059",
+   "sec": "Parenteral Nutrition: Indications",
+   "page": 32,
+   "q": "Which syndrome of the small bowel is an indication for parenteral nutrition?",
+   "opts": [
+    "Short bowel syndrome",
+    "Irritable bowel syndrome",
+    "Dumping syndrome",
+    "Zollinger-Ellison syndrome"
+   ],
+   "ans": 0,
+   "exp": "Indication: Short bowel syndrome. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-060",
+   "sec": "Parenteral Nutrition: Indications",
+   "page": 32,
+   "q": "High output faecal fistula requiring parenteral nutrition is defined as output greater than:",
+   "opts": [
+    ">200 cc/24 hrs",
+    ">350 cc/24 hrs",
+    ">500 cc/24 hrs",
+    ">1000 cc/24 hrs"
+   ],
+   "ans": 2,
+   "exp": "Indication: High output faecal fistula (>500 cc/24 hrs). (Book p32)"
+  },
+  {
+   "id": "SURG-C6-061",
+   "sec": "Parenteral Nutrition: Indications",
+   "page": 32,
+   "q": "In an acute episode of inflammatory bowel disease, parenteral nutrition is used because of:",
+   "opts": [
+    "Malabsorption and need for bowel rest",
+    "Hyperglycemia",
+    "Tube blockage",
+    "Aspiration risk"
+   ],
+   "ans": 0,
+   "exp": "Acute episode of IBD: Malabsorption; Need for bowel rest. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-062",
+   "sec": "Parenteral Nutrition: Indications",
+   "page": 32,
+   "q": "Parenteral nutrition is indicated in which phase of acute severe pancreatitis?",
+   "opts": [
+    "Initial phase",
+    "Recovery phase",
+    "Chronic phase",
+    "Never indicated"
+   ],
+   "ans": 0,
+   "exp": "Initial phase of acute severe pancreatitis. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-063",
+   "sec": "Routes of TPN",
+   "page": 32,
+   "q": "The best route of total parenteral nutrition is:",
+   "opts": [
+    "Central line",
+    "PICC",
+    "Peripheral I/V line",
+    "Oral"
+   ],
+   "ans": 0,
+   "exp": "Routes of TPN: Central line = Best. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-064",
+   "sec": "Routes of TPN",
+   "page": 32,
+   "q": "PICC stands for:",
+   "opts": [
+    "Peripherally inserted central catheter",
+    "Percutaneous internal central catheter",
+    "Peripheral insulin control catheter",
+    "Peritoneal inserted central catheter"
+   ],
+   "ans": 0,
+   "exp": "Peripherally inserted central catheter (PICC). (Book p32)"
+  },
+  {
+   "id": "SURG-C6-065",
+   "sec": "Routes of TPN",
+   "page": 32,
+   "q": "The least preferred route of TPN is the:",
+   "opts": [
+    "Peripheral I/V line",
+    "Central line",
+    "PICC",
+    "Subclavian line"
+   ],
+   "ans": 0,
+   "exp": "Peripheral I/V line: Least preferred. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-066",
+   "sec": "Routes of TPN",
+   "page": 32,
+   "q": "Peripheral I/V TPN carries an increased risk of:",
+   "opts": [
+    "Thrombophlebitis",
+    "Pneumothorax",
+    "Air embolism",
+    "Arrhythmia"
+   ],
+   "ans": 0,
+   "exp": "Peripheral I/V line: ↑ risk of thrombophlebitis. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-067",
+   "sec": "Central Line: Vein Comparison",
+   "page": 32,
+   "q": "Risk of thrombosis and infection is LEAST with which central venous access?",
+   "opts": [
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Femoral vein",
+    "Peripheral vein"
+   ],
+   "ans": 0,
+   "exp": "Central line table: Risk of thrombosis & infection: Subclavian = Least. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-068",
+   "sec": "Central Line: Vein Comparison",
+   "page": 32,
+   "q": "Risk of thrombosis and infection is MAXIMUM with which vein?",
+   "opts": [
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Femoral vein",
+    "Cephalic vein"
+   ],
+   "ans": 2,
+   "exp": "Central line table: Risk of thrombosis & infection: Femoral = Max. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-069",
+   "sec": "Central Line: Vein Comparison",
+   "page": 32,
+   "q": "Risk of pneumothorax is maximum with which central line?",
+   "opts": [
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Femoral vein",
+    "PICC"
+   ],
+   "ans": 0,
+   "exp": "Central line table: Risk of pneumothorax: Subclavian = Max. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-070",
+   "sec": "Central Line: Vein Comparison",
+   "page": 32,
+   "q": "Risk of pneumothorax is least with which central line?",
+   "opts": [
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Femoral vein",
+    "PICC"
+   ],
+   "ans": 2,
+   "exp": "Central line table: Risk of pneumothorax: Femoral = Least. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-071",
+   "sec": "Central Line: Vein Comparison",
+   "page": 32,
+   "q": "Ease of insertion is maximum for which vein?",
+   "opts": [
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Femoral vein",
+    "External jugular"
+   ],
+   "ans": 1,
+   "exp": "Central line table: Ease of insertion: Internal jugular = Max. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-072",
+   "sec": "Central Line: Vein Comparison",
+   "page": 32,
+   "q": "The vein most commonly used in TPN is the:",
+   "opts": [
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Femoral vein",
+    "Basilic vein"
+   ],
+   "ans": 0,
+   "exp": "Central line table: Other features: Subclavian = m/c used in TPN. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-073",
+   "sec": "Central Line: Vein Comparison",
+   "page": 32,
+   "q": "The most commonly used central vein overall is the:",
+   "opts": [
+    "Subclavian vein",
+    "Internal jugular vein",
+    "Femoral vein",
+    "Brachial vein"
+   ],
+   "ans": 1,
+   "exp": "Central line table: Other features: Internal jugular = m/c used vein overall. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-074",
+   "sec": "Central Line: Assessment",
+   "page": 32,
+   "q": "After central line insertion, the tip should be located in the:",
+   "opts": [
+    "Superior vena cava just above right atrium",
+    "Right atrium",
+    "Right ventricle",
+    "Innominate vein"
+   ],
+   "ans": 0,
+   "exp": "Assessment: Tip located in the superior vena cava just above right atrium. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-075",
+   "sec": "Central Line: Assessment",
+   "page": 32,
+   "q": "A central line tip lying inside the right atrium can cause:",
+   "opts": [
+    "Ectopic beats/arrhythmia",
+    "Pneumothorax",
+    "Thrombophlebitis",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Tip in right atrium -> Ectopic beats/Arrhythmia. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-076",
+   "sec": "Central Line: Assessment",
+   "page": 32,
+   "q": "A chest X-ray after central line insertion is done to visualize the tip and to:",
+   "opts": [
+    "Rule out pneumothorax",
+    "Check gastric emptying",
+    "Measure cardiac size",
+    "Confirm bowel contractility"
+   ],
+   "ans": 0,
+   "exp": "Assessment after insertion: To visualize the tip; To r/o pneumothorax. (Book p32)"
+  },
+  {
+   "id": "SURG-C6-077",
+   "sec": "PICC Line",
+   "page": 33,
+   "q": "A PICC line is inserted with which guidance into a peripheral vessel?",
+   "opts": [
+    "Ultrasound guidance",
+    "Fluoroscopy only",
+    "CT guidance",
+    "Blind landmark only"
+   ],
+   "ans": 0,
+   "exp": "PICC line: Inserted with ultrasound guidance in peripheral vessel. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-078",
+   "sec": "PICC Line",
+   "page": 33,
+   "q": "The tip of a PICC line lies:",
+   "opts": [
+    "Just above right atrium",
+    "In the right ventricle",
+    "In the femoral vein",
+    "In the peripheral vein itself"
+   ],
+   "ans": 0,
+   "exp": "PICC line: Tip just above right atrium. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-079",
+   "sec": "PICC Line",
+   "page": 33,
+   "q": "The duration a PICC line can remain is:",
+   "opts": [
+    "2-3 months",
+    "2-3 days",
+    "2-3 weeks",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "PICC line: Duration: 2-3 months. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-080",
+   "sec": "PICC Line",
+   "page": 33,
+   "q": "Uses of a PICC line include all of the following EXCEPT:",
+   "opts": [
+    "Chemotherapy",
+    "TPN",
+    "Prolonged antibiotics",
+    "Routine blood donation"
+   ],
+   "ans": 3,
+   "exp": "PICC uses: Chemotherapy, TPN, Prolonged antibiotics. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-081",
+   "sec": "PICC Line",
+   "page": 33,
+   "q": "A PICC line requires:",
+   "opts": [
+    "Regular dressing and management",
+    "No maintenance",
+    "Daily replacement",
+    "Heparin lock only"
+   ],
+   "ans": 0,
+   "exp": "PICC line: Regular dressing & management is required. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-082",
+   "sec": "TPN Solution",
+   "page": 33,
+   "q": "The amount of TPN solution given is:",
+   "opts": [
+    "1-2 litres over 24 hrs",
+    "3-4 litres over 12 hrs",
+    "500 mL over 48 hrs",
+    "5 litres over 24 hrs"
+   ],
+   "ans": 0,
+   "exp": "TPN solution: Amount: 1-2 litres over 24 hrs. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-083",
+   "sec": "TPN Solution",
+   "page": 33,
+   "q": "The TPN composition ratio 20:30:50 corresponds to:",
+   "opts": [
+    "Protein : Fat : Carbohydrate",
+    "Fat : Protein : Carbohydrate",
+    "Carbohydrate : Fat : Protein",
+    "Protein : Carbohydrate : Fat"
+   ],
+   "ans": 0,
+   "exp": "Composition: 20 : 30 : 50 = Protein : Fat : Carbohydrate. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-084",
+   "sec": "TPN Solution",
+   "page": 33,
+   "q": "A '3 in 1' TPN bag contains:",
+   "opts": [
+    "All three components",
+    "Fat and carbohydrates only",
+    "Protein and fat only",
+    "Only carbohydrates"
+   ],
+   "ans": 0,
+   "exp": "3 in 1: All three components. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-085",
+   "sec": "TPN Solution",
+   "page": 33,
+   "q": "A '2 in 1' TPN bag contains:",
+   "opts": [
+    "Fat and carbohydrates",
+    "Protein and fat",
+    "Protein and carbohydrates",
+    "Vitamins and minerals"
+   ],
+   "ans": 0,
+   "exp": "2 in 1: Fat & carbohydrates. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-086",
+   "sec": "TPN Solution",
+   "page": 33,
+   "q": "Which of the following can be added to a TPN solution?",
+   "opts": [
+    "Trace elements and vitamins",
+    "Fibre",
+    "Enteral formula",
+    "Bile salts"
+   ],
+   "ans": 0,
+   "exp": "Trace elements, vitamins can be added. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-087",
+   "sec": "TPN Solution",
+   "page": 33,
+   "q": "TPN solution contains:",
+   "opts": [
+    "No fibre",
+    "High fibre",
+    "Whole protein only",
+    "Only lactate"
+   ],
+   "ans": 0,
+   "exp": "TPN composition: No fibre. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-088",
+   "sec": "TPN Types",
+   "page": 33,
+   "q": "High osmolar TPN has increased carbohydrates leading to increased:",
+   "opts": [
+    "CO2 and H2O",
+    "Urea only",
+    "Bile",
+    "Fibre"
+   ],
+   "ans": 0,
+   "exp": "High osmolar: ↑ carbohydrates -> ↑ CO2, H2O. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-089",
+   "sec": "TPN Types",
+   "page": 33,
+   "q": "High osmolar TPN carries an increased risk of:",
+   "opts": [
+    "Thrombosis",
+    "Hypoglycemia",
+    "Diarrhoea",
+    "Aspiration"
+   ],
+   "ans": 0,
+   "exp": "High osmolar TPN: ↑ risk of thrombosis. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-090",
+   "sec": "TPN Types",
+   "page": 33,
+   "q": "Low osmolar TPN decreases CO2 production and is therefore used in:",
+   "opts": [
+    "Pulmonary failure",
+    "Renal failure",
+    "Liver failure",
+    "Cardiac failure"
+   ],
+   "ans": 0,
+   "exp": "Low osmolar: ↓ CO2 production -> used in pulmonary failure. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-091",
+   "sec": "TPN Types",
+   "page": 33,
+   "q": "Low volume, low protein TPN is used in:",
+   "opts": [
+    "Renal failure",
+    "Pulmonary failure",
+    "Short bowel syndrome",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Low volume, Low protein: Used in renal failure. (Book p33)"
+  },
+  {
+   "id": "SURG-C6-092",
+   "sec": "Daily Monitoring",
+   "page": 34,
+   "q": "Daily monitoring on nutritional support includes all of the following EXCEPT:",
+   "opts": [
+    "Pulse, BP, temperature",
+    "Body weight, abdominal gain",
+    "Fluid balance input-output charting",
+    "Weekly endoscopy"
+   ],
+   "ans": 3,
+   "exp": "Daily monitoring: Pulse, BP, temperature; Body weight, abdominal gain; Fluid balance: Input-output charting; Type & quantity of food consumed. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-093",
+   "sec": "Daily Monitoring",
+   "page": 34,
+   "q": "The earliest sign of overfeeding is:",
+   "opts": [
+    ">1 Kg/day weight gain",
+    ">1 Kg/week weight gain",
+    "Hyperglycemia",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Earliest sign of overfeeding: If >1 Kg/day weight gain. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-094",
+   "sec": "Daily Monitoring",
+   "page": 34,
+   "q": "Fluid balance during nutritional support is monitored by:",
+   "opts": [
+    "Input-output charting",
+    "Daily X-ray",
+    "Serum albumin",
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "Fluid balance: Input - output charting. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-095",
+   "sec": "Daily Monitoring",
+   "page": 34,
+   "q": "Daily monitoring also records the:",
+   "opts": [
+    "Type and quantity of food consumed",
+    "Daily endoscopy findings",
+    "Central line pressure",
+    "Stool culture"
+   ],
+   "ans": 0,
+   "exp": "Daily monitoring: Type & quantity of food consumed. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-096",
+   "sec": "Plasma Monitoring",
+   "page": 34,
+   "q": "Plasma monitoring includes sodium, potassium, urea, creatinine, blood glucose and:",
+   "opts": [
+    "Magnesium, phosphate",
+    "Calcium only",
+    "Serum amylase",
+    "Coagulation profile"
+   ],
+   "ans": 0,
+   "exp": "Plasma monitoring: Sodium, potassium, urea, creatinine; Blood glucose; Magnesium, phosphate. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-097",
+   "sec": "Plasma Monitoring",
+   "page": 34,
+   "q": "Which additional test is part of plasma monitoring on TPN?",
+   "opts": [
+    "Liver function test",
+    "Thyroid profile",
+    "Serum cortisol",
+    "Blood group"
+   ],
+   "ans": 0,
+   "exp": "Plasma monitoring: Liver function test. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-098",
+   "sec": "Plasma Monitoring",
+   "page": 34,
+   "q": "Once a stable feeding regime is established, plasma monitoring is done:",
+   "opts": [
+    "Once weekly",
+    "Every hour",
+    "Twice daily",
+    "Once monthly"
+   ],
+   "ans": 0,
+   "exp": "Once weekly after establishing a stable feeding regime. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-099",
+   "sec": "Complications of TPN: Line",
+   "page": 34,
+   "q": "The m/c central line related complication of TPN is:",
+   "opts": [
+    "Catheter related sepsis",
+    "Pneumothorax",
+    "Air embolism",
+    "Migration of line"
+   ],
+   "ans": 0,
+   "exp": "Central line related: Catheter related sepsis (m/c). (Book p34)"
+  },
+  {
+   "id": "SURG-C6-100",
+   "sec": "Complications of TPN: Line",
+   "page": 34,
+   "q": "Catheter related sepsis is confirmed by blood cultures from the peripheral line and central line showing:",
+   "opts": [
+    "Same organism",
+    "Different organisms",
+    "Sterile growth",
+    "Fungal growth only"
+   ],
+   "ans": 0,
+   "exp": "Confirmation: Blood culture from 1. Peripheral line, 2. Central line -> Same organism. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-101",
+   "sec": "Complications of TPN: Line",
+   "page": 34,
+   "q": "Other confirmation methods for catheter related sepsis include:",
+   "opts": [
+    "Endoluminal brush and catheter tip culture by removing the line",
+    "Wound swab only",
+    "Urine culture",
+    "Stool culture"
+   ],
+   "ans": 0,
+   "exp": "Confirmation: b. Endoluminal brush; c. Catheter tip culture by removing the line. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-102",
+   "sec": "Complications of TPN: Line",
+   "page": 34,
+   "q": "Central line related complications of TPN include all of the following EXCEPT:",
+   "opts": [
+    "Pneumothorax",
+    "Arrhythmias",
+    "Thrombosis",
+    "Osmotic diarrhoea"
+   ],
+   "ans": 3,
+   "exp": "Central line related: Pneumothorax, Arrhythmias, Thrombosis, Air embolism, Migration of line. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-103",
+   "sec": "Complications of TPN: Line",
+   "page": 34,
+   "q": "Air embolism and migration of line are complications of TPN related to:",
+   "opts": [
+    "The central line",
+    "The feeding regime",
+    "The liver",
+    "The kidney"
+   ],
+   "ans": 0,
+   "exp": "Central line related complications: Air embolism, Migration of line. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-104",
+   "sec": "Complications of TPN: Regime",
+   "page": 34,
+   "q": "The m/c feeding regime related complication of TPN is:",
+   "opts": [
+    "Hyperglycemia",
+    "Cholestasis",
+    "Refeeding syndrome",
+    "Zinc deficiency"
+   ],
+   "ans": 0,
+   "exp": "Feeding regime: Hyperglycemia (m/c). (Book p34)"
+  },
+  {
+   "id": "SURG-C6-105",
+   "sec": "Complications of TPN: Regime",
+   "page": 34,
+   "q": "Weight gain on TPN typically starts after:",
+   "opts": [
+    "5-7 days",
+    "24 hours",
+    "48 hours",
+    "3 months"
+   ],
+   "ans": 0,
+   "exp": "Weight gain: Starts after 5-7 days. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-106",
+   "sec": "Complications of TPN: Regime",
+   "page": 34,
+   "q": "Cholestasis on TPN presents with deranged liver function and jaundice; the management is to:",
+   "opts": [
+    "Withhold TPN",
+    "Double the TPN",
+    "Add lipid emulsion",
+    "Give steroids"
+   ],
+   "ans": 0,
+   "exp": "Cholestasis: Deranged liver function, Jaundice -> Withhold TPN. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-107",
+   "sec": "Complications of TPN: Regime",
+   "page": 34,
+   "q": "The m/c micronutrient deficiency on TPN is:",
+   "opts": [
+    "Zinc",
+    "Copper",
+    "Selenium",
+    "Iron"
+   ],
+   "ans": 0,
+   "exp": "Micronutrient deficiency: Zinc: m/c. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-108",
+   "sec": "Complications of TPN: Regime",
+   "page": 34,
+   "q": "Feeding regime related complications of TPN include refeeding syndrome and:",
+   "opts": [
+    "Electrolyte imbalance",
+    "Pneumothorax",
+    "Air embolism",
+    "Catheter sepsis"
+   ],
+   "ans": 0,
+   "exp": "Feeding regime: Refeeding syndrome; Electrolyte imbalance. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-109",
+   "sec": "Deranged Liver Enzyme",
+   "page": 34,
+   "q": "Deranged liver enzymes on TPN are seen in what percentage of long term TPN use?",
+   "opts": [
+    "25%",
+    "5%",
+    "50%",
+    "75%"
+   ],
+   "ans": 0,
+   "exp": "Deranged liver enzyme: Seen in 25% of long term TPN use. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-110",
+   "sec": "Deranged Liver Enzyme",
+   "page": 34,
+   "q": "Deranged liver enzymes on TPN are common in:",
+   "opts": [
+    "Children",
+    "Elderly",
+    "Pregnant women",
+    "Athletes"
+   ],
+   "ans": 0,
+   "exp": "Deranged liver enzyme: Common in children. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-111",
+   "sec": "Deranged Liver Enzyme",
+   "page": 34,
+   "q": "Which hepatic change may be seen on long term TPN?",
+   "opts": [
+    "Fatty liver",
+    "Cirrhosis only",
+    "Hepatitis A",
+    "Liver abscess"
+   ],
+   "ans": 0,
+   "exp": "Fatty liver: May be seen. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-112",
+   "sec": "Deranged Liver Enzyme",
+   "page": 34,
+   "q": "Fibrosis on long term TPN is described as which associated disease (IFALD)?",
+   "opts": [
+    "Intestinal (interstitial) failure associated disease",
+    "Insulin failure associated disease",
+    "Immune failure associated disease",
+    "Iron failure associated disease"
+   ],
+   "ans": 0,
+   "exp": "Fibrosis: Interstitial failure associated disease (IFALD) may be seen. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-113",
+   "sec": "Deranged Liver Enzyme",
+   "page": 34,
+   "q": "Management of TPN-related deranged liver enzymes/fibrosis is:",
+   "opts": [
+    "Lipid free solutions",
+    "High lipid solutions",
+    "Steroids",
+    "Liver transplant always"
+   ],
+   "ans": 0,
+   "exp": "Mx: Lipid free solutions. (Book p34)"
+  },
+  {
+   "id": "SURG-C6-114",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "Refeeding syndrome occurs when:",
+   "opts": [
+    "Large quantities of nutrition are given to a chronically malnourished patient",
+    "Small feeds are given to an obese patient",
+    "Enteral feed is given post-op day 1",
+    "TPN is stopped abruptly"
+   ],
+   "ans": 0,
+   "exp": "Refeeding syndrome: Large quantities of nutrition given to chronically malnourished patient. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-115",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "In refeeding syndrome, giving TPN in large quantity shifts the patient from a catabolic state to:",
+   "opts": [
+    "An anabolic state",
+    "A catabolic state",
+    "A starved state",
+    "A septic state"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: Catabolic state (malnourished) + TPN (large quantity) -> Anabolic state. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-116",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "The anabolic shift in refeeding syndrome causes influx of which ions into cells?",
+   "opts": [
+    "PO4 3-, Mg 2+, K+, Ca 2+",
+    "Na+ and Cl- only",
+    "Only H+",
+    "Fe 2+ and Zn 2+"
+   ],
+   "ans": 0,
+   "exp": "Influx of PO4^3-, Mg^2+, K+, Ca^2+ into cell. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-117",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "Which hormone is released during the anabolic shift of refeeding syndrome?",
+   "opts": [
+    "Insulin",
+    "Glucagon",
+    "Cortisol",
+    "Adrenaline"
+   ],
+   "ans": 0,
+   "exp": "Release of insulin. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-118",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "Refeeding syndrome produces which electrolyte picture?",
+   "opts": [
+    "Hypophosphatemia, hypocalcemia, hypomagnesemia, hypokalemia + fluid overload",
+    "Hyperphosphatemia and hyperkalemia",
+    "Hypercalcemia and dehydration",
+    "Only hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "Hypophosphatemia, Hypocalcemia, Hypomagnesemia, Hypokalemia + Fluid overload. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-119",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "The electrolyte derangement of refeeding syndrome leads to:",
+   "opts": [
+    "CHF and arrhythmia",
+    "Pneumothorax",
+    "Fistula formation",
+    "Cholestasis"
+   ],
+   "ans": 0,
+   "exp": "Hypophosphatemia etc -> CHF, Arrhythmia. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-120",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "The m/c cause of death in refeeding syndrome is:",
+   "opts": [
+    "CHF/arrhythmia",
+    "Sepsis",
+    "Aspiration",
+    "Liver failure"
+   ],
+   "ans": 0,
+   "exp": "CHF, Arrhythmia -> m/c cause of death. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-121",
+   "sec": "Refeeding Syndrome",
+   "page": 35,
+   "q": "The main driver of metabolic derangement in refeeding syndrome is:",
+   "opts": [
+    "Hypophosphatemia",
+    "Hypokalemia",
+    "Hypocalcemia",
+    "Hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "Hypophosphatemia: Main driver of metabolic derangement. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-122",
+   "sec": "Refeeding Syndrome: Risk Factors",
+   "page": 35,
+   "q": "A BMI below which value is a risk factor for refeeding syndrome?",
+   "opts": [
+    "<16 Kg/m2",
+    "<20 Kg/m2",
+    "<25 Kg/m2",
+    "<30 Kg/m2"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: BMI <16 Kg/m2. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-123",
+   "sec": "Refeeding Syndrome: Risk Factors",
+   "page": 35,
+   "q": "Unintentional weight loss of >15% in the last how many months is a refeeding risk factor?",
+   "opts": [
+    "3-6 months",
+    "1 month",
+    "12-24 months",
+    "1 week"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Unintentional weight loss >15% in last 3-6 months. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-124",
+   "sec": "Refeeding Syndrome: Risk Factors",
+   "page": 35,
+   "q": "Little or no nutritional intake for how long is a refeeding risk factor?",
+   "opts": [
+    ">10 days",
+    ">24 hours",
+    ">48 hours",
+    ">5 days"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Little or no nutritional intake for >10 days. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-125",
+   "sec": "Refeeding Syndrome: Risk Factors",
+   "page": 35,
+   "q": "Which pre-feeding laboratory pattern is a refeeding risk factor?",
+   "opts": [
+    "Low potassium, phosphate or magnesium levels",
+    "High potassium and phosphate",
+    "High magnesium",
+    "Low sodium only"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Low potassium, phosphate or magnesium levels prior to feeding. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-126",
+   "sec": "Refeeding Syndrome: Prevention",
+   "page": 35,
+   "q": "Prevention of refeeding syndrome includes gradual increase of feeds up to a maximum of:",
+   "opts": [
+    "10 Kcal/kg/day initially, reaching full needs in 4-7 days",
+    "40 Kcal/kg/day on day 1",
+    "20 Kcal/kg/day in 24 hours",
+    "Full needs on day 1"
+   ],
+   "ans": 0,
+   "exp": "Prevention: Gradual increase of quantity of feeds; max 10 Kcal/kg/day -> 4-7 days -> Full needs. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-127",
+   "sec": "Refeeding Syndrome: Prevention",
+   "page": 35,
+   "q": "Prevention of refeeding syndrome includes strict electrolyte monitoring and:",
+   "opts": [
+    "Thiamine supplementation",
+    "Insulin infusion",
+    "Calcium bolus",
+    "Sodium restriction"
+   ],
+   "ans": 0,
+   "exp": "Prevention: Strict electrolyte monitoring; Thiamine supplementation. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-128",
+   "sec": "Post Operative Fluid Requirement",
+   "page": 35,
+   "q": "Post operative fluid replacement follows:",
+   "opts": [
+    "Goal directed therapy",
+    "Fixed 5 litres for everyone",
+    "No fluids for 3 days",
+    "Oral fluids only"
+   ],
+   "ans": 0,
+   "exp": "Post Operative Fluid Requirement: Goal directed therapy. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-129",
+   "sec": "Post Operative Fluid Requirement",
+   "page": 35,
+   "q": "Insensible losses (breathing, sweating) are replaced with:",
+   "opts": [
+    "30-40 mL/kg/day",
+    "10 mL/kg/day",
+    "100 mL/kg/day",
+    "5 mL/kg/day"
+   ],
+   "ans": 0,
+   "exp": "Loss/Replacement table: Insensible losses (Breathing, sweating) -> 30-40 mL/kg/day. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-130",
+   "sec": "Post Operative Fluid Requirement",
+   "page": 35,
+   "q": "Ryles tube aspirate losses are replaced with:",
+   "opts": [
+    "NS + KCl",
+    "RL",
+    "DNS only",
+    "Colloids"
+   ],
+   "ans": 0,
+   "exp": "Loss/Replacement table: Ryles tube aspirate -> NS + KCl. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-131",
+   "sec": "Post Operative Fluid Requirement",
+   "page": 35,
+   "q": "Drain losses are replaced with:",
+   "opts": [
+    "RL",
+    "NS + KCl",
+    "DNS",
+    "Half normal saline"
+   ],
+   "ans": 0,
+   "exp": "Loss/Replacement table: Drains -> RL. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-132",
+   "sec": "Post Operative Fluid Requirement",
+   "page": 35,
+   "q": "Urine losses are replaced with:",
+   "opts": [
+    "NS/DNS",
+    "RL",
+    "Colloids",
+    "D5W only"
+   ],
+   "ans": 0,
+   "exp": "Loss/Replacement table: Urine -> NS/DNS. (Book p35)"
+  },
+  {
+   "id": "SURG-C6-133",
+   "sec": "K+ Replacement",
+   "page": 36,
+   "q": "Potassium replacement in the post operative period is:",
+   "opts": [
+    "Not given on day 1",
+    "Given on day 1",
+    "Given only intra-operatively",
+    "Never given"
+   ],
+   "ans": 0,
+   "exp": "K+ replacement: Not on day 1. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-134",
+   "sec": "K+ Replacement",
+   "page": 36,
+   "q": "Surgery causes injury to cells leading to:",
+   "opts": [
+    "Efflux of K+ from cells",
+    "Influx of K+ into cells",
+    "No K+ movement",
+    "Loss of K+ in sweat"
+   ],
+   "ans": 0,
+   "exp": "Sx -> Injury to cell -> Efflux of K+ from cell. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-135",
+   "sec": "K+ Replacement",
+   "page": 36,
+   "q": "Potassium is replaced from which post operative day?",
+   "opts": [
+    "Day 2",
+    "Day 1",
+    "Day 5",
+    "Day 7"
+   ],
+   "ans": 0,
+   "exp": "K+ replacement: Replaced from day 2. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-136",
+   "sec": "Daily Electrolyte Requirements",
+   "page": 36,
+   "q": "Daily sodium requirement is:",
+   "opts": [
+    "50-90 mmol/day",
+    "10-20 mmol/day",
+    "150-200 mmol/day",
+    "300 mmol/day"
+   ],
+   "ans": 0,
+   "exp": "Daily electrolyte requirements: Sodium: 50-90 mmol/day. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-137",
+   "sec": "Daily Electrolyte Requirements",
+   "page": 36,
+   "q": "Daily potassium requirement is:",
+   "opts": [
+    "50 mmol/day",
+    "20 mmol/day",
+    "100 mmol/day",
+    "5 mmol/day"
+   ],
+   "ans": 0,
+   "exp": "Daily electrolyte requirements: Potassium: 50 mmol/day. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-138",
+   "sec": "Daily Electrolyte Requirements",
+   "page": 36,
+   "q": "Daily calcium requirement is:",
+   "opts": [
+    "5 mmol/day",
+    "1 mmol/day",
+    "20 mmol/day",
+    "50 mmol/day"
+   ],
+   "ans": 0,
+   "exp": "Daily electrolyte requirements: Calcium: 5 mmol/day. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-139",
+   "sec": "Daily Electrolyte Requirements",
+   "page": 36,
+   "q": "Daily magnesium requirement is:",
+   "opts": [
+    "1 mmol/day",
+    "5 mmol/day",
+    "10 mmol/day",
+    "50 mmol/day"
+   ],
+   "ans": 0,
+   "exp": "Daily electrolyte requirements: Magnesium: 1 mmol/day. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-140",
+   "sec": "Fluids: Crystalloids",
+   "page": 36,
+   "q": "Hartmann's solution (RL) contains sodium (mmol/L) of:",
+   "opts": [
+    "131",
+    "154",
+    "111",
+    "29"
+   ],
+   "ans": 0,
+   "exp": "Crystalloid table: Hartmann's solution (RL): Na 131. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-141",
+   "sec": "Fluids: Crystalloids",
+   "page": 36,
+   "q": "Hartmann's solution (RL) contains potassium, calcium and lactate (mmol/L) of:",
+   "opts": [
+    "K 5, Ca 2, Lactate 29",
+    "K 2, Ca 5, Lactate 111",
+    "K 0, Ca 0, Lactate 0",
+    "K 20, Ca 5, Lactate 29"
+   ],
+   "ans": 0,
+   "exp": "Crystalloid table: Hartmann's (RL): K 5, Ca 2, Lactate 29. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-142",
+   "sec": "Fluids: Crystalloids",
+   "page": 36,
+   "q": "The chloride content of Hartmann's solution and normal saline respectively is:",
+   "opts": [
+    "111 and 154",
+    "154 and 111",
+    "131 and 154",
+    "29 and 154"
+   ],
+   "ans": 0,
+   "exp": "Crystalloid table: RL Cl 111; Normal saline Cl 154. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-143",
+   "sec": "Fluids: Crystalloids",
+   "page": 36,
+   "q": "Normal saline contains sodium and chloride (mmol/L) of:",
+   "opts": [
+    "154 and 154",
+    "131 and 111",
+    "154 and 111",
+    "131 and 154"
+   ],
+   "ans": 0,
+   "exp": "Crystalloid table: Normal saline: Na 154, Cl 154. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-144",
+   "sec": "Fluids: Colloids",
+   "page": 36,
+   "q": "Colloids include all of the following EXCEPT:",
+   "opts": [
+    "Gelofusine",
+    "Haemaccel",
+    "Hetastarch",
+    "Hartmann's solution"
+   ],
+   "ans": 3,
+   "exp": "Colloids: Gelofusine, Haemaccel, Hetastarch, Blood products. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-145",
+   "sec": "Fluids: Colloids",
+   "page": 36,
+   "q": "The main action of colloids (Gelofusine, Haemaccel, Hetastarch, blood products) is to:",
+   "opts": [
+    "Expand blood volume",
+    "Provide calories",
+    "Correct acidosis",
+    "Replace potassium"
+   ],
+   "ans": 0,
+   "exp": "Colloids: Expand blood volume. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-146",
+   "sec": "Calories",
+   "page": 36,
+   "q": "Calories obtained from carbohydrate and amino acids respectively are:",
+   "opts": [
+    "4 Kcal/g and 4 Kcal/g",
+    "4 Kcal/g and 9 Kcal/g",
+    "9 Kcal/g and 4 Kcal/g",
+    "7 Kcal/g and 4 Kcal/g"
+   ],
+   "ans": 0,
+   "exp": "Calories obtained: Carbohydrate: 4 Kcal/g; Aminoacid: 4 Kcal/g. (Book p36)"
+  },
+  {
+   "id": "SURG-C6-147",
+   "sec": "Calories",
+   "page": 36,
+   "q": "Calories obtained from fat are:",
+   "opts": [
+    "9 Kcal/g",
+    "4 Kcal/g",
+    "7 Kcal/g",
+    "2 Kcal/g"
+   ],
+   "ans": 0,
+   "exp": "Calories obtained: Fat: 9 Kcal/g. (Book p36)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U6-1",
+   "ch": 6,
+   "n": 1,
+   "title": "Nutritional Assessment: Indicators",
+   "sec": "Nutritional Assessment · p28",
+   "qs": [
+    "SURG-C6-001",
+    "SURG-C6-002",
+    "SURG-C6-003",
+    "SURG-C6-004",
+    "SURG-C6-005",
+    "SURG-C6-006",
+    "SURG-C6-007",
+    "SURG-C6-008"
+   ],
+   "guide": "No single biochemical marker identifies malnutrition: low albumin foretells poor outcome while pre albumin tracks better, >10% unintentional weight loss in 6 months and BMI <15 signal poor prognosis, and skin fold thickness reads body fat while mid arm circumference reads muscle mass."
+  },
+  {
+   "id": "SURG-U6-2",
+   "ch": 6,
+   "n": 2,
+   "title": "MUST Tool & Energy Requirement",
+   "sec": "Malnutrition Universal Screening Tool · p28",
+   "qs": [
+    "SURG-C6-009",
+    "SURG-C6-010",
+    "SURG-C6-011",
+    "SURG-C6-012",
+    "SURG-C6-013",
+    "SURG-C6-014",
+    "SURG-C6-015"
+   ],
+   "guide": "The MUST tool adds BMI score, unintentional weight loss and acute disease affect score into an overall malnutrition risk, while the REE table climbs from 1 (20 Kcal/kg/day sedentary) through 1.4 and 1.8 sepsis to 2 with 40 Kcal/kg/day in severe burns."
+  },
+  {
+   "id": "SURG-U6-3",
+   "ch": 6,
+   "n": 3,
+   "title": "Enteral vs Parenteral & Route Algorithm",
+   "sec": "Enteral and Parenteral Nutrition · p28",
+   "qs": [
+    "SURG-C6-016",
+    "SURG-C6-017",
+    "SURG-C6-018",
+    "SURG-C6-019",
+    "SURG-C6-020",
+    "SURG-C6-021",
+    "SURG-C6-022",
+    "SURG-C6-023",
+    "SURG-C6-024",
+    "SURG-C6-025"
+   ],
+   "guide": "Enteral beats parenteral because it is physiological, cheap, maintains enterohepatic circulation and blocks bacterial translocation. When oral fails, duration and gastric emptying decide: under 3 weeks a nasogastric or nasojejunal tube, beyond 3 weeks a gastrostomy or jejunostomy."
+  },
+  {
+   "id": "SURG-U6-4",
+   "ch": 6,
+   "n": 4,
+   "title": "Ryles & Nasojejunal Tubes",
+   "sec": "Ryles Tube · p29",
+   "qs": [
+    "SURG-C6-026",
+    "SURG-C6-027",
+    "SURG-C6-028",
+    "SURG-C6-029",
+    "SURG-C6-030",
+    "SURG-C6-031"
+   ],
+   "guide": "Insert the Ryles tube sitting with the neck slightly flexed, measure nose-ear-xiphisternum, and confirm by aspirating gastric contents or auscultating pushed air over the epigastrium; the nasojejunal tube goes in under fluoroscopy and bypasses the stomach."
+  },
+  {
+   "id": "SURG-U6-5",
+   "ch": 6,
+   "n": 5,
+   "title": "Invasive Feeding Tubes: Stamm, Witzel, Gastrostomy vs Jejunostomy",
+   "sec": "Invasive Feeding Tubes · p30",
+   "qs": [
+    "SURG-C6-032",
+    "SURG-C6-033",
+    "SURG-C6-034",
+    "SURG-C6-035",
+    "SURG-C6-036",
+    "SURG-C6-037",
+    "SURG-C6-038",
+    "SURG-C6-039",
+    "SURG-C6-040"
+   ],
+   "guide": "Gastrostomy (Stamm, Witzel, PEG/RIG) is more physiological than jejunostomy (Stamm, Witzel) but risks aspiration. Stamm uses a Red Robinson tube through a stab incision and purse string with peridrain leakage; Witzel tunnels the distal jejunum and leaks less."
+  },
+  {
+   "id": "SURG-U6-6",
+   "ch": 6,
+   "n": 6,
+   "title": "Technique of PEG & RIG",
+   "sec": "Technique of PEG · p31",
+   "qs": [
+    "SURG-C6-041",
+    "SURG-C6-042",
+    "SURG-C6-043",
+    "SURG-C6-044",
+    "SURG-C6-045",
+    "SURG-C6-046",
+    "SURG-C6-047"
+   ],
+   "guide": "PEG runs from transoral endoscope insufflation through transillumination and finger indentation, transgastric suture fixation and a Seldinger gastrostomy; RIG steps in when endoscopy is impossible or respiratory or oropharyngeal function is compromised."
+  },
+  {
+   "id": "SURG-U6-7",
+   "ch": 6,
+   "n": 7,
+   "title": "Enteral Principle & Complications",
+   "sec": "Enteral Nutrition: Principle · p31",
+   "qs": [
+    "SURG-C6-048",
+    "SURG-C6-049",
+    "SURG-C6-050",
+    "SURG-C6-051",
+    "SURG-C6-052",
+    "SURG-C6-053",
+    "SURG-C6-054",
+    "SURG-C6-055",
+    "SURG-C6-056"
+   ],
+   "guide": "Start feeds at 10-20 mL/hr and climb to 75 mL/hr if tolerated, withholding the next feed when aspirates exceed 75-100 cc. Tube problems (blockage, migration, leakage) are the m/c complication, while osmotic diarrhoea from hyperosmolar feeds leads feeding-regime trouble."
+  },
+  {
+   "id": "SURG-U6-8",
+   "ch": 6,
+   "n": 8,
+   "title": "Parenteral Nutrition: Indications & Routes",
+   "sec": "Parenteral Nutrition · p32",
+   "qs": [
+    "SURG-C6-057",
+    "SURG-C6-058",
+    "SURG-C6-059",
+    "SURG-C6-060",
+    "SURG-C6-061",
+    "SURG-C6-062",
+    "SURG-C6-063",
+    "SURG-C6-064",
+    "SURG-C6-065",
+    "SURG-C6-066"
+   ],
+   "guide": "TPN serves paralytic ileus beyond 72 hours, non-contracting bowel, short bowel syndrome, >500 cc faecal fistulas, acute IBD needing bowel rest and early severe pancreatitis. The central line is the best route, PICC sits in between, and peripheral lines are least preferred for thrombophlebitis."
+  },
+  {
+   "id": "SURG-U6-9",
+   "ch": 6,
+   "n": 9,
+   "title": "Central Line: Vein Comparison & Assessment",
+   "sec": "Central Line · p32",
+   "qs": [
+    "SURG-C6-067",
+    "SURG-C6-068",
+    "SURG-C6-069",
+    "SURG-C6-070",
+    "SURG-C6-071",
+    "SURG-C6-072",
+    "SURG-C6-073",
+    "SURG-C6-074",
+    "SURG-C6-075",
+    "SURG-C6-076"
+   ],
+   "guide": "Subclavian lines thrombose and infect least but pneumothorax most and dominate TPN; the internal jugular is easiest to place and the commonest vein overall; femoral lines infect most. The tip must sit in the SVC just above the right atrium, and the X-ray also rules out pneumothorax."
+  },
+  {
+   "id": "SURG-U6-10",
+   "ch": 6,
+   "n": 10,
+   "title": "PICC Line",
+   "sec": "PICC Line · p33",
+   "qs": [
+    "SURG-C6-077",
+    "SURG-C6-078",
+    "SURG-C6-079",
+    "SURG-C6-080",
+    "SURG-C6-081"
+   ],
+   "guide": "Ultrasound-guided into a peripheral vessel with the tip just above the right atrium, a PICC lasts 2-3 months for chemotherapy, TPN or prolonged antibiotics - but demands regular dressing and care."
+  },
+  {
+   "id": "SURG-U6-11",
+   "ch": 6,
+   "n": 11,
+   "title": "TPN Solution & Types",
+   "sec": "TPN Solution · p33",
+   "qs": [
+    "SURG-C6-082",
+    "SURG-C6-083",
+    "SURG-C6-084",
+    "SURG-C6-085",
+    "SURG-C6-086",
+    "SURG-C6-087",
+    "SURG-C6-088",
+    "SURG-C6-089",
+    "SURG-C6-090",
+    "SURG-C6-091"
+   ],
+   "guide": "1-2 litres over 24 hours in a 20:30:50 protein:fat:carbohydrate mix, as 3-in-1 or 2-in-1 bags with trace elements and vitamins but no fibre. High osmolar bags raise CO2 and thrombosis risk, low osmolar bags suit pulmonary failure, and low volume low protein bags suit renal failure."
+  },
+  {
+   "id": "SURG-U6-12",
+   "ch": 6,
+   "n": 12,
+   "title": "Monitoring on Nutritional Support",
+   "sec": "Monitoring · p34",
+   "qs": [
+    "SURG-C6-092",
+    "SURG-C6-093",
+    "SURG-C6-094",
+    "SURG-C6-095",
+    "SURG-C6-096",
+    "SURG-C6-097",
+    "SURG-C6-098"
+   ],
+   "guide": "Daily: pulse, BP, temperature, weight and abdominal gain (>1 Kg/day is the earliest sign of overfeeding), input-output charts and food consumed. Plasma: Na, K, urea, creatinine, glucose, magnesium, phosphate and LFTs, weekly once the regime is stable."
+  },
+  {
+   "id": "SURG-U6-13",
+   "ch": 6,
+   "n": 13,
+   "title": "Complications of TPN",
+   "sec": "Complications of TPN · p34",
+   "qs": [
+    "SURG-C6-099",
+    "SURG-C6-100",
+    "SURG-C6-101",
+    "SURG-C6-102",
+    "SURG-C6-103",
+    "SURG-C6-104",
+    "SURG-C6-105",
+    "SURG-C6-106",
+    "SURG-C6-107",
+    "SURG-C6-108",
+    "SURG-C6-109",
+    "SURG-C6-110",
+    "SURG-C6-111",
+    "SURG-C6-112",
+    "SURG-C6-113"
+   ],
+   "guide": "Catheter related sepsis is the m/c line complication, confirmed by matching peripheral and central cultures, endoluminal brush or tip culture; lines also bring pneumothorax, arrhythmias, thrombosis, air embolism and migration. The regime brings hyperglycemia, cholestasis (withhold TPN), zinc deficiency, refeeding and electrolyte imbalance, and 25% of long-term users derange liver enzymes - managed with lipid free solutions."
+  },
+  {
+   "id": "SURG-U6-14",
+   "ch": 6,
+   "n": 14,
+   "title": "Refeeding Syndrome",
+   "sec": "Refeeding Syndrome · p35",
+   "qs": [
+    "SURG-C6-114",
+    "SURG-C6-115",
+    "SURG-C6-116",
+    "SURG-C6-117",
+    "SURG-C6-118",
+    "SURG-C6-119",
+    "SURG-C6-120",
+    "SURG-C6-121",
+    "SURG-C6-122",
+    "SURG-C6-123",
+    "SURG-C6-124",
+    "SURG-C6-125",
+    "SURG-C6-126",
+    "SURG-C6-127"
+   ],
+   "guide": "Feeding a chronically starved patient flips catabolism into an insulin-driven anabolic state that drags phosphate, magnesium, potassium and calcium into cells; hypophosphatemia drives the derangement and CHF/arrhythmia kill. Risk: BMI <16, >15% weight loss in 3-6 months, >10 days without intake, low pre-feeding electrolytes - prevent with slow feeds (max 10 Kcal/kg/day to full needs over 4-7 days), electrolyte monitoring and thiamine."
+  },
+  {
+   "id": "SURG-U6-15",
+   "ch": 6,
+   "n": 15,
+   "title": "Post Operative Fluid Requirement",
+   "sec": "Post Operative Fluid Requirement · p35",
+   "qs": [
+    "SURG-C6-128",
+    "SURG-C6-129",
+    "SURG-C6-130",
+    "SURG-C6-131",
+    "SURG-C6-132"
+   ],
+   "guide": "Goal directed replacement: insensible losses 30-40 mL/kg/day, Ryles aspirate with NS + KCl, drains with RL and urine with NS/DNS."
+  },
+  {
+   "id": "SURG-U6-16",
+   "ch": 6,
+   "n": 16,
+   "title": "K+, Daily Electrolytes, Fluids & Calories",
+   "sec": "K+ Replacement · p36",
+   "qs": [
+    "SURG-C6-133",
+    "SURG-C6-134",
+    "SURG-C6-135",
+    "SURG-C6-136",
+    "SURG-C6-137",
+    "SURG-C6-138",
+    "SURG-C6-139",
+    "SURG-C6-140",
+    "SURG-C6-141",
+    "SURG-C6-142",
+    "SURG-C6-143",
+    "SURG-C6-144",
+    "SURG-C6-145",
+    "SURG-C6-146",
+    "SURG-C6-147"
+   ],
+   "guide": "Potassium waits until day 2 because surgical cell injury dumps K+ out of cells; daily needs run Na 50-90, K 50, Ca 5, Mg 1 mmol. Hartmann's (Na 131, K 5, Ca 2, Cl 111, lactate 29) contrasts with normal saline (154/154), colloids expand blood volume, and calories come 4-4-9 from carbohydrate, amino acid and fat."
+  }
+ ]
+}
