@@ -27,10 +27,10 @@ import os, sys
 
 def pdf_for(book):
     """Return list of (file, pdf_page) for a book page (usually one; book p9 has two)."""
-    if 1 <= book <= 9:
+    if 1 <= book <= 8:
         return [("Surgery Vol. 1-1-90.pdf", book + 8)]
-    if book == 9:  # also render the duplicate
-        return [("Surgery Vol. 1-1-90.pdf", 18)]
+    if book == 9:  # the book prints page 9 twice
+        return [("Surgery Vol. 1-1-90.pdf", 17), ("Surgery Vol. 1-1-90.pdf", 18)]
     if 10 <= book <= 81:
         return [("Surgery Vol. 1-1-90.pdf", book + 9)]
     if 82 <= book <= 159:
