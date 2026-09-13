@@ -85,7 +85,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## Status — ALL 72 chapters (tracked from day one; "Soon" until merged)
 - [x] ch1 Patient Safety, OT Zones and Surgery Positions — p1-5 — **DONE (79 qs, 12 units)** 2026-09-13
-- [ ] ch2 Surgical Blades and Energy Sources — p6-9 — Soon
+- [x] ch2 Surgical Blades and Energy Sources — p6-9 — **DONE (79 qs, 11 units)** 2026-09-13
 - [ ] ch3 Surgical Drains, Knots and Sutures — p10-17 — Soon
 - [ ] ch4 Post-operative Fever and Wound Infection — p18-24 — Soon
 - [ ] ch5 Day Care Surgery — p25-27 — Soon
@@ -158,8 +158,8 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [ ] ch72 Surgical Instruments — p550-558 — Soon
 
 ## Totals / live link
-- Live chapters: 1/72 · Questions: 79 · Units: 12
-- NEXT: ch2 Surgical Blades and Energy Sources — p6-9 (v1a pdf 14-18, incl. duplicate p9)
+- Live chapters: 2/72 · Questions: 158 · Units: 23
+- NEXT: ch3 Surgical Drains, Knots and Sutures — p10-17 (v1a pdf 19-26)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/SURGERY/ (needs GitHub Pages enabled once:
   Repo → Settings → Pages → Source "Deploy from a branch" → main / (root) → Save;

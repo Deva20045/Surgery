@@ -1,0 +1,1301 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C2-001",
+   "sec": "Blades",
+   "page": 6,
+   "q": "The use of surgical blades, as stated in the book, is to:",
+   "opts": [
+    "Make incisions",
+    "Control bleeding",
+    "Close wounds",
+    "Retract tissues"
+   ],
+   "ans": 0,
+   "exp": "Uses: make Incisions. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-002",
+   "sec": "Blades",
+   "page": 6,
+   "q": "The sharpest part of a surgical blade is its:",
+   "opts": [
+    "Back edge",
+    "Slot",
+    "Belly",
+    "Shank"
+   ],
+   "ans": 2,
+   "exp": "Belly of the blade: Sharpest. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-003",
+   "sec": "Blades",
+   "page": 6,
+   "q": "The No. 11 blade is described as a:",
+   "opts": [
+    "Curved blade",
+    "Pointed / stab blade",
+    "Broad spade blade",
+    "Hooked blade"
+   ],
+   "ans": 1,
+   "exp": "No 11 Blade: Pointed/Stab blade. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-004",
+   "sec": "Blades",
+   "page": 6,
+   "q": "Incision and drainage (I & D) of an abscess is a listed use of the:",
+   "opts": [
+    "No. 12 blade",
+    "No. 10 blade",
+    "No. 11 blade",
+    "No. 22 blade"
+   ],
+   "ans": 2,
+   "exp": "No 11 Blade uses: Incision & drainage (I & D) of abscess. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-005",
+   "sec": "Blades",
+   "page": 6,
+   "q": "Arteriotomy is a listed use of the:",
+   "opts": [
+    "No. 12 blade",
+    "No. 11 blade",
+    "No. 15 blade",
+    "No. 23 blade"
+   ],
+   "ans": 1,
+   "exp": "No 11 Blade uses: I & D of abscess and Arteriotomy. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-006",
+   "sec": "Blades",
+   "page": 6,
+   "q": "The No. 12 blade is:",
+   "opts": [
+    "Straight",
+    "Pointed",
+    "Serrated",
+    "Curved"
+   ],
+   "ans": 3,
+   "exp": "No 12 Blade: Curved. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-007",
+   "sec": "Blades",
+   "page": 6,
+   "q": "Suture removal is the listed use of the:",
+   "opts": [
+    "No. 12 blade",
+    "No. 11 blade",
+    "No. 10 blade",
+    "No. 15 blade"
+   ],
+   "ans": 0,
+   "exp": "No 12 Blade uses: Suture removal. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-008",
+   "sec": "Blades",
+   "page": 6,
+   "q": "The book's Types of Blades diagram includes all of the following EXCEPT:",
+   "opts": [
+    "No. 10",
+    "No. 15",
+    "No. 20",
+    "No. 22"
+   ],
+   "ans": 2,
+   "exp": "The diagram shows No. 10, 11, 15, 22, 23 and the curved No. 12 - there is no No. 20. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-009",
+   "sec": "Blade Handling",
+   "page": 6,
+   "q": "While passing, a blade is passed:",
+   "opts": [
+    "Hand to hand",
+    "On a sponge",
+    "In a kidney tray",
+    "In a gallipot"
+   ],
+   "ans": 2,
+   "exp": "Passed in kidney tray / pointed end facing towards self. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-010",
+   "sec": "Blade Handling",
+   "page": 6,
+   "q": "While passing a blade, its pointed end faces:",
+   "opts": [
+    "Towards the surgeon",
+    "Upwards",
+    "Downwards",
+    "Towards self (the passer)"
+   ],
+   "ans": 3,
+   "exp": "Passed in kidney tray / pointed end facing towards self. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-011",
+   "sec": "Blade Handling",
+   "page": 6,
+   "q": "Blades are mounted on the:",
+   "opts": [
+    "Mayo handle",
+    "BP (Bard Parker) handle",
+    "Kocher handle",
+    "Allis handle"
+   ],
+   "ans": 1,
+   "exp": "Mounted on BP (Bard Parker) handle. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-012",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "Skin incisions are made:",
+   "opts": [
+    "Parallel to skin",
+    "Perpendicular to skin",
+    "At 45 degrees to skin",
+    "Tangential to skin"
+   ],
+   "ans": 1,
+   "exp": "Incisions: Perpendicular to skin. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-013",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "An incision proceeds:",
+   "opts": [
+    "Far to near",
+    "Near to far",
+    "Left to right",
+    "Deep to superficial"
+   ],
+   "ans": 0,
+   "exp": "Go far to Near. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-014",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "Langer's lines are also called:",
+   "opts": [
+    "Relaxed pressure lines",
+    "Dermal grid lines",
+    "Relaxed tension lines",
+    "Collagen cleft lines"
+   ],
+   "ans": 2,
+   "exp": "Langer's lines (Relaxed tension lines). (Book p6)"
+  },
+  {
+   "id": "SURG-C2-015",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "Langer's lines represent the orientation of:",
+   "opts": [
+    "Muscle fibres",
+    "Dermal collagen fibres",
+    "Cutaneous nerves",
+    "Subdermal vessels"
+   ],
+   "ans": 1,
+   "exp": "Langer's lines: orientation of dermal collagen fibers. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-016",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "An incision placed parallel to Langer's lines gives a:",
+   "opts": [
+    "Wide scar",
+    "Good scar",
+    "Hypertrophic scar",
+    "Contracted scar"
+   ],
+   "ans": 1,
+   "exp": "Incision placed parallel: Good scar. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-017",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "Muscle fibre action runs _____ to Langer's lines:",
+   "opts": [
+    "Parallel",
+    "Perpendicular",
+    "Oblique",
+    "Spiral"
+   ],
+   "ans": 1,
+   "exp": "Muscle fibre action is perpendicular. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-018",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "While planning an incision, one must avoid injury to:",
+   "opts": [
+    "Skin creases",
+    "Langer's lines",
+    "Anatomical structures",
+    "Scar tissue"
+   ],
+   "ans": 2,
+   "exp": "Avoid injury to anatomical structures. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-019",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "For a good cosmetic result, incisions are placed parallel to Langer's lines or:",
+   "opts": [
+    "Across skin creases",
+    "Over bony points",
+    "Through hair-bearing skin",
+    "Hidden in skin creases"
+   ],
+   "ans": 3,
+   "exp": "Cosmetic factor: Parallel to Langer's lines / hidden in skin creases. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-020",
+   "sec": "Incisions",
+   "page": 6,
+   "q": "Which of the following is a factor while planning an incision?",
+   "opts": [
+    "Adequate access",
+    "Maximum length",
+    "Maximum depth",
+    "Avoiding Langer's lines"
+   ],
+   "ans": 0,
+   "exp": "Factors while planning an incision include adequate access. (Book p6)"
+  },
+  {
+   "id": "SURG-C2-021",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "In monopolar cautery, current flows from the machine to the:",
+   "opts": [
+    "Pad",
+    "Tip (Bovie tip)",
+    "Earth wire",
+    "Patient skin directly"
+   ],
+   "ans": 1,
+   "exp": "Machine Current -> Tip (Bovie tip). (Book p7)"
+  },
+  {
+   "id": "SURG-C2-022",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "The tip used in monopolar cautery is called the:",
+   "opts": [
+    "Bovie tip",
+    "Mayo tip",
+    "Ligasure tip",
+    "CUSA tip"
+   ],
+   "ans": 0,
+   "exp": "Tip (Bovie tip). (Book p7)"
+  },
+  {
+   "id": "SURG-C2-023",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "The correct order of the monopolar circuit is:",
+   "opts": [
+    "Machine -> Tip -> Cut/Coagulate -> Body -> Pad -> Machine",
+    "Machine -> Pad -> Body -> Tip -> Cut/Coagulate -> Machine",
+    "Tip -> Machine -> Pad -> Body -> Cut/Coagulate -> Tip",
+    "Machine -> Body -> Tip -> Pad -> Cut/Coagulate -> Machine"
+   ],
+   "ans": 0,
+   "exp": "Circuit: machine -> Tip -> Cut/Coagulate -> to body -> Pad -> machine. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-024",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "The cautery handpiece carries buttons for:",
+   "opts": [
+    "Irrigation and suction",
+    "Cutting and coagulation",
+    "Cutting only",
+    "Coagulation only"
+   ],
+   "ans": 1,
+   "exp": "The handpiece is labelled Coagulation and Cutting. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-025",
+   "sec": "Cautery Pad",
+   "page": 7,
+   "q": "The cautery pad is placed over a:",
+   "opts": [
+    "Bony prominence",
+    "Scarred area",
+    "Poorly perfused area",
+    "Well-vascularized area"
+   ],
+   "ans": 3,
+   "exp": "Cautery pad: Placed over well-vascularized area. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-026",
+   "sec": "Cautery Pad",
+   "page": 7,
+   "q": "The cautery pad must have:",
+   "opts": [
+    "Point contact",
+    "Wide area of contact",
+    "Minimal contact",
+    "No direct skin contact"
+   ],
+   "ans": 1,
+   "exp": "Have wide area of contact. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-027",
+   "sec": "Cautery Pad",
+   "page": 7,
+   "q": "A small cautery pad causes:",
+   "opts": [
+    "Faster cutting",
+    "Better coagulation",
+    "Burns at site",
+    "No effect"
+   ],
+   "ans": 2,
+   "exp": "Small cautery pad: Burns at site. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-028",
+   "sec": "Cautery Pad",
+   "page": 7,
+   "q": "With no cautery pad, the circuit is incomplete and:",
+   "opts": [
+    "Only cutting works",
+    "Only coagulation works",
+    "Bipolar takes over",
+    "Monopolar will not work"
+   ],
+   "ans": 3,
+   "exp": "No cautery pad: Circuit incomplete -> monopolar will not work. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-029",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Lateral spread of current in monopolar cautery causes:",
+   "opts": [
+    "Thermal damage to nearby structures",
+    "Faster healing",
+    "Reduced bleeding elsewhere",
+    "Cooling of the field"
+   ],
+   "ans": 0,
+   "exp": "Disadvantage: Lateral spread of current -> Thermal damage to nearby structures. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-030",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Monopolar current interferes with:",
+   "opts": [
+    "Renal function",
+    "Hepatic blood flow",
+    "Cardiac conduction",
+    "Gut motility"
+   ],
+   "ans": 2,
+   "exp": "Current interferes with cardiac conduction. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-031",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Because it interferes with cardiac conduction, monopolar cautery is avoided in patients with:",
+   "opts": [
+    "Diabetes",
+    "Hypertension",
+    "Cardiac pacemakers",
+    "Asthma"
+   ],
+   "ans": 2,
+   "exp": "Avoid in patients with cardiac pacemakers. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-032",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Current applied over a pedicle undergoes:",
+   "opts": [
+    "Dissipation",
+    "Channelisation of current",
+    "Reflection",
+    "Absorption"
+   ],
+   "ans": 1,
+   "exp": "Pedicle -> Channelisation of current. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-033",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "In a pedicle, the channelled current:",
+   "opts": [
+    "Stays at the tip",
+    "Returns directly to the machine",
+    "Spreads to the skin",
+    "Runs to base"
+   ],
+   "ans": 3,
+   "exp": "Current runs to base. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-034",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Monopolar cautery is avoided close to:",
+   "opts": [
+    "Large veins",
+    "End arteries",
+    "Skin surface",
+    "Fat planes"
+   ],
+   "ans": 1,
+   "exp": "Avoid close to end arteries. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-035",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "The uses of monopolar cautery are:",
+   "opts": [
+    "Cutting and coagulation",
+    "Coagulation only",
+    "Cutting only",
+    "Vessel sealing only"
+   ],
+   "ans": 0,
+   "exp": "Uses: Cutting and Coagulation. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-036",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Monopolar cautery is avoided in all of the following EXCEPT:",
+   "opts": [
+    "CNS surgery",
+    "Parotid / Thyroid surgery",
+    "Ear lobule",
+    "Subcutaneous lipoma excision"
+   ],
+   "ans": 3,
+   "exp": "Avoided in: CNS Sx, Parotid/Thyroid Sx, Ear lobule, Penile region, Patient with Pacemakers. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-037",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Which of the following regions is listed for avoidance of monopolar cautery?",
+   "opts": [
+    "Abdominal wall",
+    "Thigh",
+    "Back",
+    "Penile region"
+   ],
+   "ans": 3,
+   "exp": "Avoided in: CNS Sx, Parotid/Thyroid Sx, Ear lobule, Penile region, Patient with Pacemakers. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-038",
+   "sec": "Monopolar Cautery",
+   "page": 7,
+   "q": "Parotid / Thyroid surgery appears in the book under:",
+   "opts": [
+    "Sites where monopolar cautery is avoided",
+    "Uses of bipolar cautery",
+    "Uses of the harmonic scalpel",
+    "Sites for the grounding pad"
+   ],
+   "ans": 0,
+   "exp": "Avoided in: CNS Sx, Parotid/Thyroid Sx, Ear lobule, Penile region, Patient with Pacemakers. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-039",
+   "sec": "Bipolar Cautery",
+   "page": 7,
+   "q": "In bipolar cautery, the circuit is:",
+   "opts": [
+    "Completed via a pad",
+    "Completed via earth",
+    "Completed locally",
+    "Left open"
+   ],
+   "ans": 2,
+   "exp": "Bipolar cautery: Circuit completed locally. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-040",
+   "sec": "Bipolar Cautery",
+   "page": 7,
+   "q": "The bipolar instrument has:",
+   "opts": [
+    "One prong",
+    "Two prongs",
+    "A pad",
+    "A grounding wire"
+   ],
+   "ans": 1,
+   "exp": "Two prongs complete the circuit locally. (Book p7)"
+  },
+  {
+   "id": "SURG-C2-041",
+   "sec": "Bipolar Cautery",
+   "page": 8,
+   "q": "An advantage of bipolar cautery is:",
+   "opts": [
+    "Grounding pad needed",
+    "Two pads needed",
+    "No cautery pad required",
+    "Works only with large pads"
+   ],
+   "ans": 2,
+   "exp": "Advantages: No cautery pad required. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-042",
+   "sec": "Bipolar Cautery",
+   "page": 8,
+   "q": "Bipolar cautery is safe:",
+   "opts": [
+    "Only on skin",
+    "Only in open surgery",
+    "Close to vital structures and end arteries",
+    "Only for large vessels"
+   ],
+   "ans": 2,
+   "exp": "Safe close to vital structure and end arteries. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-043",
+   "sec": "Bipolar Cautery",
+   "page": 8,
+   "q": "Bipolar cautery is used for:",
+   "opts": [
+    "Cutting only",
+    "Cutting and coagulation",
+    "Coagulation only",
+    "Fulguration only"
+   ],
+   "ans": 2,
+   "exp": "Uses: Coagulation only. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-044",
+   "sec": "Currents",
+   "page": 8,
+   "q": "The cutting mode is a:",
+   "opts": [
+    "Low voltage, continuous current",
+    "High voltage, alternating current",
+    "Low voltage, interrupted current",
+    "High voltage, continuous current"
+   ],
+   "ans": 0,
+   "exp": "Cutting mode: Low voltage, continuous current. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-045",
+   "sec": "Currents",
+   "page": 8,
+   "q": "Blend mode is a combination of:",
+   "opts": [
+    "Two cutting modes",
+    "Two coagulation modes",
+    "Cutting & coagulation mode",
+    "Cutting & fulguration only"
+   ],
+   "ans": 2,
+   "exp": "Blend mode: Combination of cutting & coagulation mode. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-046",
+   "sec": "Currents",
+   "page": 8,
+   "q": "The coagulation mode is a:",
+   "opts": [
+    "Low voltage, continuous current",
+    "High voltage, alternating current",
+    "Low voltage, direct current",
+    "High voltage, direct current"
+   ],
+   "ans": 1,
+   "exp": "Coagulation mode: High voltage, alternating current. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-047",
+   "sec": "Currents",
+   "page": 8,
+   "q": "Fulguration mode is:",
+   "opts": [
+    "A cutting mode",
+    "A type of coagulation with higher voltage peaks",
+    "A blend of two cutting modes",
+    "An ultrasonic mode"
+   ],
+   "ans": 1,
+   "exp": "Fulguration mode: Type of coagulation with higher voltage peaks. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-048",
+   "sec": "Currents",
+   "page": 8,
+   "q": "The fulguration waveform is labelled with:",
+   "opts": [
+    "Peak voltage and average voltage",
+    "Current and resistance",
+    "Frequency and wavelength",
+    "Power and energy"
+   ],
+   "ans": 0,
+   "exp": "Fulguration waveform labels Peak voltage and Average voltage. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-049",
+   "sec": "Currents",
+   "page": 8,
+   "q": "Cutting current acts by heat causing:",
+   "opts": [
+    "Dehydration + protein denaturation",
+    "Slow desiccation",
+    "Cell water explosion",
+    "Protein cross-linking only"
+   ],
+   "ans": 2,
+   "exp": "Cutting current: Heat -> Cell water explosion. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-050",
+   "sec": "Currents",
+   "page": 8,
+   "q": "Coagulation current causes:",
+   "opts": [
+    "Cell water explosion",
+    "Dehydration + protein denaturation",
+    "Slow vaporization",
+    "Tissue freezing"
+   ],
+   "ans": 1,
+   "exp": "Coagulation current: Dehydration + Protein Denaturation. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-051",
+   "sec": "Currents",
+   "page": 8,
+   "q": "Dehydration + protein denaturation by coagulation current leads to:",
+   "opts": [
+    "Cell swelling",
+    "Cell division",
+    "Cell repair",
+    "Cell death"
+   ],
+   "ans": 3,
+   "exp": "Dehydration + Protein Denaturation -> Cell death. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-052",
+   "sec": "Ligasure",
+   "page": 8,
+   "q": "Ligasure works by:",
+   "opts": [
+    "Ultrasound alone",
+    "Cold + pressure",
+    "Heat + pressure",
+    "Microwaves"
+   ],
+   "ans": 2,
+   "exp": "Ligasure: Heat + pressure. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-053",
+   "sec": "Ligasure",
+   "page": 8,
+   "q": "Ligasure uses the body's _____ to seal & divide:",
+   "opts": [
+    "Water & fat",
+    "Collagen & elastin",
+    "Calcium & iron",
+    "Fibrin & platelets"
+   ],
+   "ans": 1,
+   "exp": "Uses body collagen & elastin to seal & divide. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-054",
+   "sec": "Ligasure",
+   "page": 8,
+   "q": "The feedback mechanism in Ligasure:",
+   "opts": [
+    "Cools the tissue",
+    "Regulates energy delivery",
+    "Increases smoke",
+    "Delays sealing"
+   ],
+   "ans": 1,
+   "exp": "Feedback mechanism: Regulate energy delivery. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-055",
+   "sec": "Ligasure",
+   "page": 8,
+   "q": "On seal closure, Ligasure shows:",
+   "opts": [
+    "Continued heating",
+    "Alarm only",
+    "Manual reset need",
+    "Automatic discontinuation"
+   ],
+   "ans": 3,
+   "exp": "Automatic discontinuation on seal closure. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-056",
+   "sec": "Ligasure",
+   "page": 8,
+   "q": "Ligasure is used for vessels till _____ diameter:",
+   "opts": [
+    "3 mm",
+    "3 cm",
+    "7 mm",
+    "14 mm"
+   ],
+   "ans": 2,
+   "exp": "Used till 7mm diameter. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-057",
+   "sec": "Ligasure",
+   "page": 8,
+   "q": "A disadvantage of Ligasure is that it:",
+   "opts": [
+    "Needs a grounding pad",
+    "Cannot be used close to vital structures",
+    "Works only in open surgery",
+    "Cannot seal vessels"
+   ],
+   "ans": 1,
+   "exp": "Disadvantage: cannot be used close to vital structures. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-058",
+   "sec": "Harmonic Scalpel",
+   "page": 8,
+   "q": "The harmonic scalpel works on the:",
+   "opts": [
+    "Electrocautery principle",
+    "Ultrasonic principle",
+    "Laser principle",
+    "Cryotherapy principle"
+   ],
+   "ans": 1,
+   "exp": "Works on ultrasonic principle. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-059",
+   "sec": "Harmonic Scalpel",
+   "page": 8,
+   "q": "The oscillatory blade oscillates between:",
+   "opts": [
+    "2000-50000 Hz",
+    "50-60 Hz",
+    "500-1000 Hz",
+    "1-2 MHz"
+   ],
+   "ans": 0,
+   "exp": "Oscillatory blade: Oscillates between 2000-50000 Hz. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-060",
+   "sec": "Harmonic Scalpel",
+   "page": 8,
+   "q": "The harmonic scalpel produces:",
+   "opts": [
+    "Heat + cell water explosion",
+    "Protein denaturation + coagulation without heat production",
+    "Dehydration with high heat",
+    "Char + smoke"
+   ],
+   "ans": 1,
+   "exp": "Protein denaturation + coagulation without heat production. (Book p8)"
+  },
+  {
+   "id": "SURG-C2-061",
+   "sec": "Harmonic Scalpel",
+   "page": 9,
+   "q": "An advantage of the harmonic scalpel is that it:",
+   "opts": [
+    "Needs a grounding pad",
+    "Can be used close to vital structures",
+    "Seals 7 mm vessels",
+    "Works by heat + pressure"
+   ],
+   "ans": 1,
+   "exp": "Advantages: Can be used close to vital structures. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-062",
+   "sec": "Harmonic Scalpel",
+   "page": 9,
+   "q": "Which of the following is an advantage of the harmonic scalpel?",
+   "opts": [
+    "Precise cuts",
+    "Needs large pads",
+    "High heat spread",
+    "Slow sealing only"
+   ],
+   "ans": 0,
+   "exp": "Advantages: Precise cuts. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-063",
+   "sec": "Harmonic Scalpel",
+   "page": 9,
+   "q": "The harmonic scalpel can:",
+   "opts": [
+    "Cut through scar tissue",
+    "Replace all sutures",
+    "Work without power",
+    "Ablate 3 cm tumours"
+   ],
+   "ans": 0,
+   "exp": "Advantages: Cut through scar tissue. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-064",
+   "sec": "Harmonic Scalpel",
+   "page": 9,
+   "q": "A disadvantage of the harmonic scalpel is that it is:",
+   "opts": [
+    "Unsafe near vital structures",
+    "Imprecise",
+    "Time consuming",
+    "Heat producing"
+   ],
+   "ans": 2,
+   "exp": "Disadvantages: Time consuming. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-065",
+   "sec": "CUSA",
+   "page": 9,
+   "q": "CUSA is a type of:",
+   "opts": [
+    "Monopolar cautery",
+    "Bipolar cautery",
+    "Harmonic scalpel",
+    "Laser"
+   ],
+   "ans": 2,
+   "exp": "CUSA: Type of harmonic scalpel. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-066",
+   "sec": "CUSA",
+   "page": 9,
+   "q": "CUSA is used for:",
+   "opts": [
+    "Thyroid surgery",
+    "CNS surgery",
+    "Liver resection",
+    "Skin incisions"
+   ],
+   "ans": 2,
+   "exp": "Used for liver resection. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-067",
+   "sec": "CUSA",
+   "page": 9,
+   "q": "During CUSA, hepatocytes are susceptible to oscillatory fragmentation because of their:",
+   "opts": [
+    "High fat content",
+    "Low blood supply",
+    "Dense fibrosis",
+    "High water content and collagen"
+   ],
+   "ans": 3,
+   "exp": "Hepatocytes susceptible to oscillatory fragmentation d/t high water content and collagen. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-068",
+   "sec": "CUSA",
+   "page": 9,
+   "q": "CUSA works better in:",
+   "opts": [
+    "Cirrhotic liver",
+    "Non-cirrhotic liver",
+    "Fatty pancreas",
+    "Fibrotic lung"
+   ],
+   "ans": 1,
+   "exp": "Better in non-cirrhotic liver. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-069",
+   "sec": "CUSA",
+   "page": 9,
+   "q": "CUSA can also:",
+   "opts": [
+    "Coagulate bone",
+    "Aspirate gases",
+    "Cut metal",
+    "Place sutures"
+   ],
+   "ans": 1,
+   "exp": "Can aspirate gases as well. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-070",
+   "sec": "CUSA",
+   "page": 9,
+   "q": "Which of the following is a labelled part of the CUSA handpiece?",
+   "opts": [
+    "Power cable",
+    "Laser fibre",
+    "Bovie tip",
+    "Grounding pad"
+   ],
+   "ans": 0,
+   "exp": "CUSA handpiece: CUSA tip, Irrigation port, Suction port, Power cable. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-071",
+   "sec": "Thunderbeat S",
+   "page": 9,
+   "q": "Thunderbeat S combines features of:",
+   "opts": [
+    "Monopolar + Bipolar",
+    "Ligasure + Harmonic Scalpel",
+    "RFA + Microwave",
+    "CUSA + Laser"
+   ],
+   "ans": 1,
+   "exp": "Features of both Ligasure + Harmonic Scalpel. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-072",
+   "sec": "RFA",
+   "page": 9,
+   "q": "Radio Frequency Ablation uses:",
+   "opts": [
+    "Low voltage continuous current",
+    "Ultrasonic oscillation",
+    "Microwaves",
+    "High frequency, alternating current"
+   ],
+   "ans": 3,
+   "exp": "RFA: High frequency, alternating current. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-073",
+   "sec": "RFA",
+   "page": 9,
+   "q": "Similar to electrocautery, RFA needs a:",
+   "opts": [
+    "Kidney tray",
+    "Second surgeon",
+    "Grounding pad",
+    "Cooling jacket"
+   ],
+   "ans": 2,
+   "exp": "Similar to electrocautery: Grounding pad needed. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-074",
+   "sec": "RFA",
+   "page": 9,
+   "q": "RFA is used for liver tumour resection upto:",
+   "opts": [
+    "3 mm",
+    "7 mm",
+    "3 cm",
+    "10 cm"
+   ],
+   "ans": 2,
+   "exp": "Use: Liver tumor resection upto 3 cm. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-075",
+   "sec": "Microwave",
+   "page": 9,
+   "q": "Microwaves lie between:",
+   "opts": [
+    "X-rays & gamma rays",
+    "Infra-red & radiowaves",
+    "UV & visible light",
+    "Sound & ultrasound"
+   ],
+   "ans": 1,
+   "exp": "Between infra-red & radiowaves. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-076",
+   "sec": "Microwave",
+   "page": 9,
+   "q": "Microwave ablation acts by:",
+   "opts": [
+    "Cell water explosion",
+    "Protein freezing",
+    "Ionizing radiation",
+    "Oscillation & frictional heat"
+   ],
+   "ans": 3,
+   "exp": "Oscillation & frictional heat. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-077",
+   "sec": "Microwave",
+   "page": 9,
+   "q": "An advantage of microwave ablation is:",
+   "opts": [
+    "Grounding pad needed",
+    "No grounding pad required",
+    "Longer time than RFA",
+    "Patchy ablation"
+   ],
+   "ans": 1,
+   "exp": "Advantages: No grounding pad required. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-078",
+   "sec": "Microwave",
+   "page": 9,
+   "q": "Compared to RFA, microwave ablation takes:",
+   "opts": [
+    "More time",
+    "Equal time",
+    "Less time than RFA",
+    "Double the time"
+   ],
+   "ans": 2,
+   "exp": "Advantages: Less time than RFA. (Book p9)"
+  },
+  {
+   "id": "SURG-C2-079",
+   "sec": "Microwave",
+   "page": 9,
+   "q": "Microwave ablation produces a:",
+   "opts": [
+    "Patchy zone of ablation",
+    "Narrow line burn",
+    "Surface burn only",
+    "Homogenous zone of ablation"
+   ],
+   "ans": 3,
+   "exp": "Homogenous zone of ablation. (Book p9)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U2-1",
+   "ch": 2,
+   "n": 1,
+   "title": "Types of Surgical Blades",
+   "sec": "Blades · p6",
+   "qs": [
+    "SURG-C2-001",
+    "SURG-C2-002",
+    "SURG-C2-003",
+    "SURG-C2-004",
+    "SURG-C2-005",
+    "SURG-C2-006",
+    "SURG-C2-007",
+    "SURG-C2-008"
+   ],
+   "guide": "Blades exist to make incisions, and the belly is the sharpest part. The pointed No. 11 stab blade opens abscesses and arteries, while the curved No. 12 slips under sutures to remove them - with No. 10, 15, 22 and 23 completing the tray."
+  },
+  {
+   "id": "SURG-U2-2",
+   "ch": 2,
+   "n": 2,
+   "title": "Blade Handling & the BP Handle",
+   "sec": "Blade Handling · p6",
+   "qs": [
+    "SURG-C2-009",
+    "SURG-C2-010",
+    "SURG-C2-011"
+   ],
+   "guide": "Sharps travel safely in a kidney tray with the pointed end facing the passer, never the surgeon. Every blade clicks onto the familiar BP (Bard Parker) handle before it touches skin."
+  },
+  {
+   "id": "SURG-U2-3",
+   "ch": 2,
+   "n": 3,
+   "title": "Incisions & Langer's Lines",
+   "sec": "Incisions · p6",
+   "qs": [
+    "SURG-C2-012",
+    "SURG-C2-013",
+    "SURG-C2-014",
+    "SURG-C2-015",
+    "SURG-C2-016",
+    "SURG-C2-017",
+    "SURG-C2-018",
+    "SURG-C2-019",
+    "SURG-C2-020"
+   ],
+   "guide": "Cut perpendicular to skin, travelling far to near. Respect Langer's relaxed tension lines - the grain of dermal collagen - because parallel incisions heal into fine scars, hide in creases, spare anatomical structures and still give adequate access."
+  },
+  {
+   "id": "SURG-U2-4",
+   "ch": 2,
+   "n": 4,
+   "title": "Monopolar Cautery: Circuit & Cautery Pad",
+   "sec": "Monopolar Cautery · p7",
+   "qs": [
+    "SURG-C2-021",
+    "SURG-C2-022",
+    "SURG-C2-023",
+    "SURG-C2-024",
+    "SURG-C2-025",
+    "SURG-C2-026",
+    "SURG-C2-027",
+    "SURG-C2-028"
+   ],
+   "guide": "Current sprints from machine to Bovie tip, through tissue, body and pad, then home to the machine. That pad must sit broad on well-vascularized skin - shrink it and you burn the patient, skip it and monopolar simply will not work."
+  },
+  {
+   "id": "SURG-U2-5",
+   "ch": 2,
+   "n": 5,
+   "title": "Monopolar Cautery: Hazards, Uses & Avoidance",
+   "sec": "Monopolar Cautery · p7",
+   "qs": [
+    "SURG-C2-029",
+    "SURG-C2-030",
+    "SURG-C2-031",
+    "SURG-C2-032",
+    "SURG-C2-033",
+    "SURG-C2-034",
+    "SURG-C2-035",
+    "SURG-C2-036",
+    "SURG-C2-037",
+    "SURG-C2-038"
+   ],
+   "guide": "Monopolar cuts and coagulates, but its current wanders - scorching neighbours, confusing pacemakers and channelling down pedicles to their base. Keep it away from end arteries, the CNS, parotid and thyroid, the ear lobule, the penis and any paced heart."
+  },
+  {
+   "id": "SURG-U2-6",
+   "ch": 2,
+   "n": 6,
+   "title": "Bipolar Cautery",
+   "sec": "Bipolar Cautery · p7",
+   "qs": [
+    "SURG-C2-039",
+    "SURG-C2-040",
+    "SURG-C2-041",
+    "SURG-C2-042",
+    "SURG-C2-043"
+   ],
+   "guide": "Bipolar current hops between two prongs and finishes its circuit right there in the forceps tips. With no pad and no stray current, it coagulates safely beside vital structures and end arteries - but it only coagulates, never cuts."
+  },
+  {
+   "id": "SURG-U2-7",
+   "ch": 2,
+   "n": 7,
+   "title": "Currents & Waveforms",
+   "sec": "Currents · p8",
+   "qs": [
+    "SURG-C2-044",
+    "SURG-C2-045",
+    "SURG-C2-046",
+    "SURG-C2-047",
+    "SURG-C2-048",
+    "SURG-C2-049",
+    "SURG-C2-050",
+    "SURG-C2-051"
+   ],
+   "guide": "Low-voltage continuous waves slice by exploding cell water; high-voltage interrupted waves desiccate and denature protein until the cell dies. Blend mixes the two, while fulguration spikes the voltage peaks higher still."
+  },
+  {
+   "id": "SURG-U2-8",
+   "ch": 2,
+   "n": 8,
+   "title": "Ligasure",
+   "sec": "Ligasure · p8",
+   "qs": [
+    "SURG-C2-052",
+    "SURG-C2-053",
+    "SURG-C2-054",
+    "SURG-C2-055",
+    "SURG-C2-056",
+    "SURG-C2-057"
+   ],
+   "guide": "Ligasure squeezes vessels with heat plus pressure, melting the body's own collagen and elastin into a seal, then stops itself the instant the seal closes. A live feedback loop meters every joule - good till 7 mm, but keep it away from vital structures."
+  },
+  {
+   "id": "SURG-U2-9",
+   "ch": 2,
+   "n": 9,
+   "title": "Harmonic Scalpel",
+   "sec": "Harmonic Scalpel · p8",
+   "qs": [
+    "SURG-C2-058",
+    "SURG-C2-059",
+    "SURG-C2-060",
+    "SURG-C2-061",
+    "SURG-C2-062",
+    "SURG-C2-063",
+    "SURG-C2-064"
+   ],
+   "guide": "The harmonic blade shivers 2,000 to 50,000 times a second, denaturing protein and coagulating without heat. It carves precisely, even through scar and beside vital structures - at the price of patience, because it is slow."
+  },
+  {
+   "id": "SURG-U2-10",
+   "ch": 2,
+   "n": 10,
+   "title": "CUSA & Thunderbeat S",
+   "sec": "CUSA · p9",
+   "qs": [
+    "SURG-C2-065",
+    "SURG-C2-066",
+    "SURG-C2-067",
+    "SURG-C2-068",
+    "SURG-C2-069",
+    "SURG-C2-070",
+    "SURG-C2-071"
+   ],
+   "guide": "CUSA is a harmonic scalpel that crumbles watery hepatocytes for liver resection - happiest in a soft, non-cirrhotic liver - while sucking debris and even gases away. Thunderbeat S then marries Ligasure's sealing to the harmonic's cut in one jaw."
+  },
+  {
+   "id": "SURG-U2-11",
+   "ch": 2,
+   "n": 11,
+   "title": "RFA & Microwave Ablation",
+   "sec": "RFA & Microwave · p9",
+   "qs": [
+    "SURG-C2-072",
+    "SURG-C2-073",
+    "SURG-C2-074",
+    "SURG-C2-075",
+    "SURG-C2-076",
+    "SURG-C2-077",
+    "SURG-C2-078",
+    "SURG-C2-079"
+   ],
+   "guide": "RFA burns liver tumours up to 3 cm with high-frequency alternating current, grounding pad and all. Microwaves, humming between infra-red and radiowaves, need no pad, finish faster and leave a smooth homogenous kill zone."
+  }
+ ]
+}
