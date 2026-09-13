@@ -1,0 +1,2121 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C4-001",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "The most common cause of post-operative fever on POD 1 is:",
+   "opts": [
+    "Pneumonia",
+    "Atelectasis",
+    "UTI",
+    "Wound infection"
+   ],
+   "ans": 1,
+   "exp": "POD 1: Atelectasis (m/c on POD 1). (Book p18)"
+  },
+  {
+   "id": "SURG-C4-002",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "Causes of fever on POD 2-3 include all of the following EXCEPT:",
+   "opts": [
+    "Pneumonia",
+    "Superficial thrombophlebitis",
+    "UTI",
+    "Burst abdomen"
+   ],
+   "ans": 3,
+   "exp": "POD 2-3: Pneumonia, Superficial thrombophlebitis, UTI. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-003",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "UTI is described as the:",
+   "opts": [
+    "m/c cause of post-op fever on POD 1",
+    "m/c cause of hospital acquired infections",
+    "m/c cause of burst abdomen",
+    "m/c indication for laparotomy"
+   ],
+   "ans": 1,
+   "exp": "POD 2-3: UTI (m/c cause of hospital acquired infections). (Book p18)"
+  },
+  {
+   "id": "SURG-C4-004",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "Fever on POD 4-5 is caused by:",
+   "opts": [
+    "Atelectasis",
+    "Pneumonia",
+    "Surgical site infection / DVT",
+    "Burst abdomen"
+   ],
+   "ans": 2,
+   "exp": "POD 4-5: Surgical site infections (SSI)/wound infection; Deep vein thrombosis. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-005",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "Fever with wound dehiscence on POD 6 suggests:",
+   "opts": [
+    "Atelectasis",
+    "UTI",
+    "Pneumonia",
+    "Burst abdomen / Abdominal wound dehiscence"
+   ],
+   "ans": 3,
+   "exp": "POD 6: Burst abdomen/Abdominal wound dehiscence. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-006",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "Fever on POD 7 and beyond is caused by:",
+   "opts": [
+    "Atelectasis",
+    "Superficial thrombophlebitis",
+    "Pneumonia",
+    "Intra-abdominal wound infection / collections"
+   ],
+   "ans": 3,
+   "exp": "POD 7 & beyond: Intra-abdominal wound infection/collections. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-007",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "A patient spikes fever on the first post-operative day. The most likely cause is:",
+   "opts": [
+    "Wound infection",
+    "Atelectasis",
+    "DVT",
+    "Intra-abdominal abscess"
+   ],
+   "ans": 1,
+   "exp": "Atelectasis: m/c cause of post op fever on day 1. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-008",
+   "sec": "Fever Causes",
+   "page": 18,
+   "q": "Deep vein thrombosis presents as post-operative fever on:",
+   "opts": [
+    "POD 1",
+    "POD 2-3",
+    "POD 4-5",
+    "POD 7 and beyond"
+   ],
+   "ans": 2,
+   "exp": "POD 4-5: SSI/wound infection; Deep vein thrombosis. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-009",
+   "sec": "Pneumonia",
+   "page": 18,
+   "q": "The clinical feature of post-operative pneumonia is:",
+   "opts": [
+    "Pain",
+    "Fever",
+    "Swelling",
+    "Cough with haemoptysis"
+   ],
+   "ans": 1,
+   "exp": "Pneumonia: Clinical features: Fever; Rx: Antibiotics. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-010",
+   "sec": "Pneumonia",
+   "page": 18,
+   "q": "The treatment of post-operative pneumonia is:",
+   "opts": [
+    "Topical heparinoids",
+    "Antibiotics",
+    "Incentive spirometry alone",
+    "Anticoagulation"
+   ],
+   "ans": 1,
+   "exp": "Pneumonia: Rx: Antibiotics. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-011",
+   "sec": "Thrombophlebitis",
+   "page": 18,
+   "q": "Superficial thrombophlebitis presents with:",
+   "opts": [
+    "Fever only",
+    "Pain and fever",
+    "Swelling only",
+    "Dyspnea"
+   ],
+   "ans": 1,
+   "exp": "Superficial thrombophlebitis: Clinical features: Pain, fever; Rx: Topical heparinoids. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-012",
+   "sec": "Thrombophlebitis",
+   "page": 18,
+   "q": "The treatment of superficial thrombophlebitis is:",
+   "opts": [
+    "Antibiotics",
+    "Topical heparinoids",
+    "Anticoagulation",
+    "Surgical excision"
+   ],
+   "ans": 1,
+   "exp": "Superficial thrombophlebitis: Rx: Topical heparinoids. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-013",
+   "sec": "Atelectasis",
+   "page": 18,
+   "q": "Atelectasis is:",
+   "opts": [
+    "Collection of pus",
+    "Collapse of alveoli",
+    "Clot in deep veins",
+    "Lung malignancy"
+   ],
+   "ans": 1,
+   "exp": "Atelectasis: Collapse of alveoli; m/c cause of post op fever on day 1. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-014",
+   "sec": "Atelectasis",
+   "page": 18,
+   "q": "Atelectasis is the most common cause of post-operative fever on:",
+   "opts": [
+    "Day 1",
+    "Day 4-5",
+    "Day 6",
+    "Day 7 and beyond"
+   ],
+   "ans": 0,
+   "exp": "Atelectasis: m/c cause of post op fever on day 1. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-015",
+   "sec": "Atelectasis",
+   "page": 18,
+   "q": "Chest physiotherapy to prevent atelectasis uses the:",
+   "opts": [
+    "Nebulizer",
+    "Incentive spirometer",
+    "Oxygen mask",
+    "Ventilator"
+   ],
+   "ans": 1,
+   "exp": "Atelectasis Prevention: Chest physiotherapy: Incentive spirometer. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-016",
+   "sec": "Atelectasis",
+   "page": 18,
+   "q": "Prevention of atelectasis includes all of the following EXCEPT:",
+   "opts": [
+    "Chest physiotherapy with incentive spirometer",
+    "Pain control",
+    "Steam inhalation",
+    "Bed rest without mobilization"
+   ],
+   "ans": 3,
+   "exp": "Atelectasis prevention: chest physiotherapy, pain control, treat CHF & COPD, steam inhalation, stop smoking. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-017",
+   "sec": "Atelectasis",
+   "page": 18,
+   "q": "Before surgery, to prevent atelectasis, one must treat:",
+   "opts": [
+    "Diabetes and hypertension",
+    "Congestive heart failure & COPD",
+    "Anemia and jaundice",
+    "UTI and wound infection"
+   ],
+   "ans": 1,
+   "exp": "Treat congestive heart failure (CHF) & chronic obstructive pulmonary disease (COPD) before Sx. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-018",
+   "sec": "Atelectasis",
+   "page": 18,
+   "q": "Smoking must be stopped how long prior to surgery to prevent atelectasis?",
+   "opts": [
+    "1-2 days",
+    "1 week",
+    "4-6 weeks",
+    "6 months"
+   ],
+   "ans": 2,
+   "exp": "Cessation of smoking 4-6 weeks prior to Sx. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-019",
+   "sec": "Atelectasis",
+   "page": 18,
+   "q": "Steam inhalation is listed in the prevention of:",
+   "opts": [
+    "DVT",
+    "Atelectasis",
+    "UTI",
+    "Wound infection"
+   ],
+   "ans": 1,
+   "exp": "Atelectasis Prevention: ... Steam inhalation. (Book p18)"
+  },
+  {
+   "id": "SURG-C4-020",
+   "sec": "DVT",
+   "page": 19,
+   "q": "Deep vein thrombosis is typically:",
+   "opts": [
+    "Bilateral",
+    "Unilateral (U/L)",
+    "Upper limb only",
+    "Facial"
+   ],
+   "ans": 1,
+   "exp": "DVT Clinical Features: U/L; Lower limbs > Upper limbs; Swelling & pain. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-021",
+   "sec": "DVT",
+   "page": 19,
+   "q": "In DVT, involvement is:",
+   "opts": [
+    "Upper limbs > Lower limbs",
+    "Lower limbs > Upper limbs",
+    "Equal in all limbs",
+    "Facial veins only"
+   ],
+   "ans": 1,
+   "exp": "DVT: Lower limbs > Upper limbs; Swelling & pain. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-022",
+   "sec": "DVT",
+   "page": 19,
+   "q": "DVT presents with:",
+   "opts": [
+    "Swelling & pain",
+    "Fever only",
+    "Hiccups",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "DVT Clinical Features: Swelling & pain. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-023",
+   "sec": "DVT",
+   "page": 19,
+   "q": "The investigation of choice for DVT is:",
+   "opts": [
+    "CT venography",
+    "Duplex scan",
+    "D-dimer",
+    "Contrast MRI"
+   ],
+   "ans": 1,
+   "exp": "DVT Ix: Duplex scan (IOC). (Book p19)"
+  },
+  {
+   "id": "SURG-C4-024",
+   "sec": "DVT",
+   "page": 19,
+   "q": "Early ambulation prevents DVT because:",
+   "opts": [
+    "Clots dissolve",
+    "Stasis is prevented",
+    "Veins constrict",
+    "Platelets fall"
+   ],
+   "ans": 1,
+   "exp": "Mechanical prophylaxis: Early ambulation: Stasis prevented. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-025",
+   "sec": "DVT",
+   "page": 19,
+   "q": "Mechanical prophylaxis of DVT includes:",
+   "opts": [
+    "Heparin",
+    "Pneumatic stockings",
+    "Warfarin",
+    "Aspirin"
+   ],
+   "ans": 1,
+   "exp": "Mechanical prophylaxis: Early ambulation; Pneumatic stockings. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-026",
+   "sec": "DVT",
+   "page": 19,
+   "q": "The drug of choice for pharmacological prophylaxis of DVT is:",
+   "opts": [
+    "Unfractionated heparin",
+    "Low molecular weight heparin",
+    "Warfarin",
+    "Aspirin"
+   ],
+   "ans": 1,
+   "exp": "Pharmacological prophylaxis: DOC: Low molecular weight heparin. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-027",
+   "sec": "DVT",
+   "page": 19,
+   "q": "The pneumatic compression stocking is noted to have:",
+   "opts": [
+    "Numbering present on it",
+    "No numbering present on it",
+    "A heparin coating",
+    "Steel wires"
+   ],
+   "ans": 1,
+   "exp": "Pneumatic compression stocking: No numbering present on it; Connected to machine. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-028",
+   "sec": "DVT",
+   "page": 19,
+   "q": "Pneumatic anti-DVT stockings work when:",
+   "opts": [
+    "Worn loose",
+    "Connected to machine",
+    "Filled with water",
+    "Heated"
+   ],
+   "ans": 1,
+   "exp": "Pneumatic compression stocking: Connected to machine. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-029",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "Burst abdomen means: after abdominal surgery, the rectus sheath opens up with:",
+   "opts": [
+    "Bleeding only",
+    "Direct visualization of bowel",
+    "Fever only",
+    "Urinary retention"
+   ],
+   "ans": 1,
+   "exp": "Burst abdomen: Abdominal Sx -> Rectus sheath opens up -> Direct visualization of bowel. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-030",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "Cough on POD 6 is a clinical feature of:",
+   "opts": [
+    "Atelectasis",
+    "Burst abdomen",
+    "Pneumonia",
+    "UTI"
+   ],
+   "ans": 1,
+   "exp": "Burst abdomen Clinical Features: Cough on POD 6. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-031",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "In burst abdomen, the dressing is soaked with:",
+   "opts": [
+    "Clear urine",
+    "Reddish fluid",
+    "Green bile",
+    "Black stool"
+   ],
+   "ans": 1,
+   "exp": "Burst abdomen: Dressing soaked with reddish fluid; Serous/salmon fluid sign. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-032",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "The serous/salmon fluid sign is seen in:",
+   "opts": [
+    "Atelectasis",
+    "Burst abdomen",
+    "DVT",
+    "UTI"
+   ],
+   "ans": 1,
+   "exp": "Burst abdomen: Serous/salmon fluid sign. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-033",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "Emergency management of burst abdomen is:",
+   "opts": [
+    "Immediate resuturing in OT",
+    "Reposit the bowel + urobag/Bogota bag laparostomy",
+    "Antibiotics alone",
+    "Percutaneous drainage"
+   ],
+   "ans": 1,
+   "exp": "Burst abdomen Emergency mx: Reposit the bowel + urobag/Bogota bag laparostomy. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-034",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "Definitive management of burst abdomen is:",
+   "opts": [
+    "Urobag laparostomy",
+    "Resuturing of rectus sheath (OT)",
+    "Skin grafting",
+    "Pigtail drainage"
+   ],
+   "ans": 1,
+   "exp": "Burst abdomen Definitive mx: Resuturing of rectus sheath (OT). (Book p19)"
+  },
+  {
+   "id": "SURG-C4-035",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "Patient factors predisposing to burst abdomen include all of the following EXCEPT:",
+   "opts": [
+    "Chronic cough",
+    "Obesity",
+    "Young athletic age",
+    "Malnourished"
+   ],
+   "ans": 2,
+   "exp": "Patient factors: Chronic cough, Constipation, Infection, Obesity, Immunocompromised, Malnourished. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-036",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "Which pair predisposes to burst abdomen?",
+   "opts": [
+    "Immunocompromised and malnourished",
+    "Young and athletic",
+    "Thin and tall",
+    "None of these"
+   ],
+   "ans": 0,
+   "exp": "Patient factors: ... Immunocompromised, Malnourished. (Book p19)"
+  },
+  {
+   "id": "SURG-C4-037",
+   "sec": "Burst Abdomen",
+   "page": 19,
+   "q": "In the Bogota bag laparostomy diagram, the urobag is:",
+   "opts": [
+    "Placed inside the peritoneum",
+    "Sutured with skin sheath",
+    "Connected to suction",
+    "Left open to air"
+   ],
+   "ans": 1,
+   "exp": "Diagram: urobag sutured with skin sheath (Urobag/Bogota bag laparostomy). (Book p19)"
+  },
+  {
+   "id": "SURG-C4-038",
+   "sec": "Sx Factors",
+   "page": 20,
+   "q": "For burst abdomen, the higher-risk incision is:",
+   "opts": [
+    "Transverse incision",
+    "Midline incision",
+    "Subcostal incision",
+    "Pfannenstiel incision"
+   ],
+   "ans": 1,
+   "exp": "Surgeon/Sx factors: Midline incision > transverse incision. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-039",
+   "sec": "Sx Factors",
+   "page": 20,
+   "q": "Burst abdomen is more common after:",
+   "opts": [
+    "Elective Sx",
+    "Emergency Sx",
+    "Day care Sx",
+    "Laparoscopic Sx"
+   ],
+   "ans": 1,
+   "exp": "Surgeon/Sx factors: Emergency Sx > elective Sx. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-040",
+   "sec": "Sx Factors",
+   "page": 20,
+   "q": "For rectus sheath closure, the higher-risk technique is:",
+   "opts": [
+    "Interrupted sutures",
+    "Continuous sutures",
+    "Staples",
+    "Glue"
+   ],
+   "ans": 1,
+   "exp": "Surgeon/Sx factors: Continuous sutures > interrupted sutures. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-041",
+   "sec": "Sx Factors",
+   "page": 20,
+   "q": "For sheath closure, long bites (1 cm) are worse than short bites of:",
+   "opts": [
+    "0.5 cm",
+    "2 cm",
+    "3 cm",
+    "5 cm"
+   ],
+   "ans": 0,
+   "exp": "Long bites (1 cm) > short bites (0.5 cm). (Book p20)"
+  },
+  {
+   "id": "SURG-C4-042",
+   "sec": "Sx Factors",
+   "page": 20,
+   "q": "Jenkins' theory states: Length of thread = minimum 4 times:",
+   "opts": [
+    "Thickness of rectus",
+    "Length of the wound",
+    "Patient weight",
+    "Suture diameter"
+   ],
+   "ans": 1,
+   "exp": "Short thread > long thread (Jenkins' theory: Length of thread = min 4 times length of the wound). (Book p20)"
+  },
+  {
+   "id": "SURG-C4-043",
+   "sec": "Sx Factors",
+   "page": 20,
+   "q": "For rectus sheath closure, preferred suture is:",
+   "opts": [
+    "Absorbable over non absorbable",
+    "Non absorbable over absorbable",
+    "Catgut only",
+    "Staples only"
+   ],
+   "ans": 1,
+   "exp": "For rectus sheath closure: Non absorbable > absorbable. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-044",
+   "sec": "Sx Factors",
+   "page": 20,
+   "q": "For rectus sheath closure in children, the book advises:",
+   "opts": [
+    "Silk",
+    "Polydioxanone suture-PDS (Delayed absorbable)",
+    "Plain catgut",
+    "Steel wire"
+   ],
+   "ans": 1,
+   "exp": "In children: Polydioxanone suture-PDS (Delayed absorbable sutures) is used. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-045",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "Overall, the most common site of intra-abdominal abscess is the:",
+   "opts": [
+    "Morrison's pouch",
+    "Pelvis/pouch of Douglas",
+    "Subdiaphragmatic space",
+    "Lesser sac"
+   ],
+   "ans": 1,
+   "exp": "Intra-abdominal abscess Site: m/c Overall: Pelvis/pouch of Douglas. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-046",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "In a supine patient, the most common site of collection is:",
+   "opts": [
+    "Pelvis",
+    "Morrison's pouch / right hepatorenal pouch",
+    "Left paracolic gutter",
+    "Spleen"
+   ],
+   "ans": 1,
+   "exp": "Supine patient: Morrison's pouch/right hepatorenal pouch. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-047",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "In an ambulatory patient, the most common site of collection is the:",
+   "opts": [
+    "Morrison's pouch",
+    "Pelvis/pouch of Douglas",
+    "Subdiaphragmatic space",
+    "Liver"
+   ],
+   "ans": 1,
+   "exp": "Ambulatory patient: Pelvis/pouch of Douglas. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-048",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "Intra-abdominal abscess presents with:",
+   "opts": [
+    "Fever with chills & rigor",
+    "Painless swelling",
+    "Jaundice only",
+    "Constipation only"
+   ],
+   "ans": 0,
+   "exp": "Abscess Clinical features: Fever with chills & rigor. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-049",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "Hiccups suggest a collection in the:",
+   "opts": [
+    "Pelvis",
+    "Subdiaphragmatic space",
+    "Morrison's pouch",
+    "Paracolic gutter"
+   ],
+   "ans": 1,
+   "exp": "Subdiaphragmatic space collection: Hiccups; Shoulder pain (Referred pain). (Book p20)"
+  },
+  {
+   "id": "SURG-C4-050",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "Shoulder pain in a subdiaphragmatic collection is a:",
+   "opts": [
+    "Direct pain",
+    "Referred pain",
+    "Psychogenic pain",
+    "Cardiac pain"
+   ],
+   "ans": 1,
+   "exp": "Subdiaphragmatic space: Shoulder pain (Referred pain). (Book p20)"
+  },
+  {
+   "id": "SURG-C4-051",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "Pelvic diarrhoea, mainly mucous, suggests a collection in the:",
+   "opts": [
+    "Subdiaphragmatic space",
+    "Pelvis",
+    "Liver",
+    "Spleen"
+   ],
+   "ans": 1,
+   "exp": "Pelvis collection: Pelvic diarrhoea (mainly mucous); increased frequency of micturition. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-052",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "Increased frequency of micturition suggests a collection in the:",
+   "opts": [
+    "Subdiaphragmatic space",
+    "Pelvis",
+    "Morrison's pouch",
+    "Kidney"
+   ],
+   "ans": 1,
+   "exp": "Pelvis collection: increased frequency of micturition. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-053",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "The investigation of choice for intra-abdominal abscess is:",
+   "opts": [
+    "USG abdomen",
+    "CECT Abdomen",
+    "Plain X-ray",
+    "PET scan"
+   ],
+   "ans": 1,
+   "exp": "Ix: CECT Abdomen (IOC). (Book p20)"
+  },
+  {
+   "id": "SURG-C4-054",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "Management of intra-abdominal abscess is:",
+   "opts": [
+    "Open surgery always",
+    "Drainage with pigtail catheter under USG guidance",
+    "Antibiotics alone",
+    "Observation only"
+   ],
+   "ans": 1,
+   "exp": "Mx: Drainage with pigtail catheter under USG guidance. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-055",
+   "sec": "Abscess",
+   "page": 20,
+   "q": "On CECT, a pelvic abscess appears as a:",
+   "opts": [
+    "Homogeneous enhancement",
+    "Heterogeneous collection",
+    "Calcified mass",
+    "Air-fluid cyst"
+   ],
+   "ans": 1,
+   "exp": "CECT Pelvic abscess: Heterogeneous collection. (Book p20)"
+  },
+  {
+   "id": "SURG-C4-056",
+   "sec": "SSI",
+   "page": 21,
+   "q": "Surgical site infection is a wound infection occurring within:",
+   "opts": [
+    "7 days of Sx",
+    "30 days of Sx",
+    "6 months of Sx",
+    "5 years of Sx"
+   ],
+   "ans": 1,
+   "exp": "SSI: wound infection within 30 days of Sx. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-057",
+   "sec": "SSI",
+   "page": 21,
+   "q": "If an implant is placed, SSI is defined within:",
+   "opts": [
+    "30 days of Sx",
+    "One year of Sx",
+    "5 years of Sx",
+    "10 years of Sx"
+   ],
+   "ans": 1,
+   "exp": "SSI: within 30 days of Sx or if an implant is placed within one year of Sx. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-058",
+   "sec": "SSI",
+   "page": 21,
+   "q": "Superficial SSI is:",
+   "opts": [
+    "Below fascia",
+    "Above fascia",
+    "Collection in organ/cavity",
+    "Bloodstream infection"
+   ],
+   "ans": 1,
+   "exp": "SSI Types: Superficial: Above fascia; Deep: Below fascia; Organ space: Collection in organ/cavity. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-059",
+   "sec": "SSI",
+   "page": 21,
+   "q": "Deep SSI is:",
+   "opts": [
+    "Above fascia",
+    "Below fascia",
+    "Skin redness only",
+    "Bloodstream infection"
+   ],
+   "ans": 1,
+   "exp": "SSI Types: Deep: Below fascia. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-060",
+   "sec": "SSI",
+   "page": 21,
+   "q": "Organ space SSI is:",
+   "opts": [
+    "Above fascia",
+    "Below skin only",
+    "Collection in organ/cavity",
+    "Fever without focus"
+   ],
+   "ans": 2,
+   "exp": "SSI Types: Organ space: Collection in organ/cavity. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-061",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "'Additional treatment' in the ASEPSIS score includes:",
+   "opts": [
+    "Only antibiotics",
+    "Antibiotics, drainage of pus under LA, debridement under GA",
+    "Only dressings",
+    "Only physiotherapy"
+   ],
+   "ans": 1,
+   "exp": "ASEPSIS Additional treatment: Antibiotics; Drainage of pus under LA; Debridement under GA. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-062",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "In the ASEPSIS score, drainage of pus is done under __ and debridement under __:",
+   "opts": [
+    "GA, LA",
+    "LA, GA",
+    "LA, LA",
+    "GA, GA"
+   ],
+   "ans": 1,
+   "exp": "Drainage of pus under local anesthesia; Wound debridement under general anesthesia. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-063",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "In ASEPSIS, the first 'S' stands for:",
+   "opts": [
+    "Surgery",
+    "Serous discharge",
+    "Sepsis",
+    "Stitch abscess"
+   ],
+   "ans": 1,
+   "exp": "ASEPSIS: Serous discharge; Erythema; Purulent exudate; Separation of deep tissues; Isolation of bacteria; Stay prolonged. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-064",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "'Erythema' in ASEPSIS stands for the letter:",
+   "opts": [
+    "A",
+    "S",
+    "E",
+    "P"
+   ],
+   "ans": 2,
+   "exp": "ASEPSIS: ... Erythema ... (Book p21)"
+  },
+  {
+   "id": "SURG-C4-065",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "'Purulent exudate' in ASEPSIS stands for the letter:",
+   "opts": [
+    "A",
+    "S",
+    "E",
+    "P"
+   ],
+   "ans": 3,
+   "exp": "ASEPSIS: ... Purulent exudate ... (Book p21)"
+  },
+  {
+   "id": "SURG-C4-066",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "Separation of deep tissues in ASEPSIS stands for the second:",
+   "opts": [
+    "A",
+    "P",
+    "S",
+    "I"
+   ],
+   "ans": 2,
+   "exp": "ASEPSIS: ... Separation of deep tissues ... (Book p21)"
+  },
+  {
+   "id": "SURG-C4-067",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "'Isolation of bacteria from the wound' stands for the letter:",
+   "opts": [
+    "A",
+    "P",
+    "I",
+    "S"
+   ],
+   "ans": 2,
+   "exp": "ASEPSIS: ... Isolation of bacteria from the wound ... (Book p21)"
+  },
+  {
+   "id": "SURG-C4-068",
+   "sec": "ASEPSIS",
+   "page": 21,
+   "q": "In ASEPSIS, prolonged inpatient stay means over:",
+   "opts": [
+    "7 days",
+    "14 days due to wound infection",
+    "30 days",
+    "1 year"
+   ],
+   "ans": 1,
+   "exp": "ASEPSIS: Stay as inpatient prolonged over 14 days due to wound infection. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-069",
+   "sec": "Southampton",
+   "page": 21,
+   "q": "Southampton grade 0 means:",
+   "opts": [
+    "Mild bruising",
+    "Normal healing",
+    "Erythema",
+    "Pus discharge"
+   ],
+   "ans": 1,
+   "exp": "Southampton: 0: Normal healing. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-070",
+   "sec": "Southampton",
+   "page": 21,
+   "q": "Southampton grade I means:",
+   "opts": [
+    "Normal healing",
+    "Normal healing with mild bruising or erythema",
+    "Erythema plus inflammation",
+    "Pus discharge"
+   ],
+   "ans": 1,
+   "exp": "Southampton: I: Normal healing with mild bruising or erythema. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-071",
+   "sec": "Southampton",
+   "page": 21,
+   "q": "Southampton grade II means:",
+   "opts": [
+    "Normal healing",
+    "Mild bruising",
+    "Erythema plus other signs of inflammation",
+    "Pus discharge"
+   ],
+   "ans": 2,
+   "exp": "Southampton: II: Erythema plus other signs of inflammation. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-072",
+   "sec": "Southampton",
+   "page": 21,
+   "q": "Southampton grade III means:",
+   "opts": [
+    "Normal healing",
+    "Erythema",
+    "Clear or haemoserous discharge",
+    "Pus/purulent discharge"
+   ],
+   "ans": 2,
+   "exp": "Southampton: III: Clear or haemoserous discharge. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-073",
+   "sec": "Southampton",
+   "page": 21,
+   "q": "Southampton grade IV means:",
+   "opts": [
+    "Clear discharge",
+    "Haemoserous discharge",
+    "Erythema only",
+    "Pus/purulent discharge"
+   ],
+   "ans": 3,
+   "exp": "Southampton: IV: Pus/purulent discharge. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-074",
+   "sec": "Southampton",
+   "page": 21,
+   "q": "Southampton grade V means:",
+   "opts": [
+    "Normal healing",
+    "Mild bruising",
+    "Clear discharge",
+    "Deep or severe wound infection with or without tissue breakdown"
+   ],
+   "ans": 3,
+   "exp": "Southampton: V: Deep or severe wound infection with or without tissue breakdown. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-075",
+   "sec": "Risk Factors",
+   "page": 21,
+   "q": "Extremes of age at risk for SSI are:",
+   "opts": [
+    "Neonates and older adults",
+    "Teenagers only",
+    "Middle-aged only",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Extremities of age: Neonates, older adults. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-076",
+   "sec": "Risk Factors",
+   "page": 21,
+   "q": "Which pair is listed as SSI risk factors?",
+   "opts": [
+    "Recent Sx of chest/abdomen and coexisting remote infection",
+    "Tall height and fair skin",
+    "Male sex and blood group O",
+    "None of these"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Recent Sx especially of chest/abdomen; Coexisting infection remote to surgical site. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-077",
+   "sec": "Risk Factors",
+   "page": 21,
+   "q": "Which pair is listed as SSI risk factors?",
+   "opts": [
+    "Diabetes mellitus and corticosteroid therapy",
+    "Hypertension and asthma",
+    "Migraine and epilepsy",
+    "None of these"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Diabetes mellitus; Corticosteroid therapy. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-078",
+   "sec": "Risk Factors",
+   "page": 21,
+   "q": "Which metabolic factor increases SSI risk?",
+   "opts": [
+    "Hypercholesterolemia",
+    "Hypocholesterolemia",
+    "Hypernatremia",
+    "Hypokalemia"
+   ],
+   "ans": 1,
+   "exp": "Risk factors: Hypocholesterolemia. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-079",
+   "sec": "Risk Factors",
+   "page": 21,
+   "q": "Which pair is listed as SSI risk factors?",
+   "opts": [
+    "Obesity and malnutrition",
+    "Fitness and protein diet",
+    "Youth and exercise",
+    "None of these"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Obesity; Malnutrition. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-080",
+   "sec": "Risk Factors",
+   "page": 21,
+   "q": "Which pair is listed as SSI risk factors?",
+   "opts": [
+    "Chronic inflammation and prior site irradiation",
+    "Acute pain and fever",
+    "Single surgery and youth",
+    "None of these"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Chronic inflammation; Prior site irradiation. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-081",
+   "sec": "Risk Factors",
+   "page": 21,
+   "q": "Which pair is listed as SSI risk factors?",
+   "opts": [
+    "Hypothermia and hypoxemia",
+    "Hyperthermia and hyperoxia",
+    "Fever and tachycardia",
+    "None of these"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Hypothermia; Hypoxemia. (Book p21)"
+  },
+  {
+   "id": "SURG-C4-082",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Clean (Class I) wounds include all of the following EXCEPT:",
+   "opts": [
+    "Thyroid surgery",
+    "Breast surgery",
+    "CABG",
+    "Emergency appendectomy"
+   ],
+   "ans": 3,
+   "exp": "Class I Clean: Thyroid, Breast, CABG, Knee replacement, Uncomplicated inguinal hernia Sx. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-083",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Uncomplicated inguinal hernia surgery is a:",
+   "opts": [
+    "Clean wound",
+    "Clean contaminated wound",
+    "Contaminated wound",
+    "Dirty wound"
+   ],
+   "ans": 0,
+   "exp": "Class I Clean: ... Uncomplicated inguinal hernia surgery. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-084",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "SSI rate in clean wounds with and without antibiotic prophylaxis is:",
+   "opts": [
+    "1-2% both",
+    "3% and 6-9%",
+    "6% and 20%",
+    "7-8% and 20-40%"
+   ],
+   "ans": 0,
+   "exp": "Clean wound SSI: 1-2% with and 1-2% without prophylaxis. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-085",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Prophylactic antibiotics have no role in clean wounds EXCEPT when:",
+   "opts": [
+    "Patient is young",
+    "An implant or mesh has been placed",
+    "Surgery is short",
+    "Wound is small"
+   ],
+   "ans": 1,
+   "exp": "No role of prophylactic antibiotics in clean wounds except when an implant or mesh is placed. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-086",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Clean contaminated (Class II) wounds involve the GI/GU system but:",
+   "opts": [
+    "With pus",
+    "With no inflammation",
+    "With fecal contamination",
+    "After 6 hours trauma"
+   ],
+   "ans": 1,
+   "exp": "Class II: GI/GU system - but there is no inflammation. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-087",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Class II wounds include all of the following EXCEPT:",
+   "opts": [
+    "Elective cholecystectomy",
+    "Elective appendectomy",
+    "LSCS",
+    "Emergency appendectomy"
+   ],
+   "ans": 3,
+   "exp": "Class II: Elective/interval cholecystectomy, Elective appendectomy, LSCS, Lap hysterectomy, prepared bowel Sx. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-088",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Bowel surgery belongs to Class II if the bowel is:",
+   "opts": [
+    "Unprepared",
+    "Prepared (Enema or Peglec)",
+    "Obstructed",
+    "Perforated"
+   ],
+   "ans": 1,
+   "exp": "Class II: Bowel surgery, if the bowel is prepared (Enema or Peglec). (Book p22)"
+  },
+  {
+   "id": "SURG-C4-089",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Urinary stone removal without UTI is a:",
+   "opts": [
+    "Clean wound",
+    "Clean contaminated wound",
+    "Contaminated wound",
+    "Dirty wound"
+   ],
+   "ans": 1,
+   "exp": "Class II: Urinary stone removal when no UTI. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-090",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "SSI rate in Class II wounds with vs without prophylaxis is:",
+   "opts": [
+    "1-2% both",
+    "3% vs 6-9%",
+    "6% vs 20%",
+    "7-8% vs 20-40%"
+   ],
+   "ans": 1,
+   "exp": "Class II SSI: 3% with, 6-9% without prophylaxis. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-091",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Contaminated (Class III) wounds involve the GI/GU system with:",
+   "opts": [
+    "No inflammation",
+    "Non-purulent inflammation",
+    "Pus",
+    "Fecal contamination"
+   ],
+   "ans": 1,
+   "exp": "Class III: GI/GU system when non-purulent inflammation is present. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-092",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Class III wounds include all of the following EXCEPT:",
+   "opts": [
+    "Emergency cholecystectomy",
+    "Emergency appendectomy",
+    "Elective cholecystectomy",
+    "Bowel opened in intestinal obstruction"
+   ],
+   "ans": 2,
+   "exp": "Class III: Emergency cholecystectomy, Emergency appendectomy, bowel opened in obstruction, open cardiac massage. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-093",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Open cardiac massage is a Class III wound because of:",
+   "opts": [
+    "Pus",
+    "Major break in sterile technique",
+    "Fecal contamination",
+    "Delayed closure"
+   ],
+   "ans": 1,
+   "exp": "Class III: Open cardiac massage (Major break in sterile technique). (Book p22)"
+  },
+  {
+   "id": "SURG-C4-094",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "SSI rate in Class III wounds with vs without prophylaxis is:",
+   "opts": [
+    "1-2% both",
+    "3% vs 6-9%",
+    "6% vs 20%",
+    "7-8% vs 20-40%"
+   ],
+   "ans": 2,
+   "exp": "Class III SSI: 6% with, 20% without prophylaxis. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-095",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "In contaminated (Class III) wounds:",
+   "opts": [
+    "No antibiotics needed",
+    "Antibiotics should be continued",
+    "Single dose only",
+    "Antibiotics stopped"
+   ],
+   "ans": 1,
+   "exp": "Class III: Antibiotics should be continued. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-096",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Dirty (Class IV) wounds are defined by:",
+   "opts": [
+    "No inflammation",
+    "Non-purulent inflammation",
+    "Pus present",
+    "Clean incision"
+   ],
+   "ans": 2,
+   "exp": "Class IV Dirty wound: Pus present. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-097",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "Class IV wounds include all of the following EXCEPT:",
+   "opts": [
+    "All abscesses",
+    "Peritonitis/fecal contamination",
+    "Neglected traumatic wound >6 hours",
+    "Elective hernia repair"
+   ],
+   "ans": 3,
+   "exp": "Class IV: All abscesses; Peritonitis/fecal contamination; Neglected traumatic wound >6 hours. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-098",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "A neglected traumatic wound becomes a dirty wound after:",
+   "opts": [
+    "1 hour",
+    "4 hours",
+    "6 hours",
+    "24 hours"
+   ],
+   "ans": 2,
+   "exp": "Class IV: Any neglected traumatic wound >6 hours. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-099",
+   "sec": "Wound Types",
+   "page": 22,
+   "q": "SSI rate in Class IV wounds with vs without prophylaxis is:",
+   "opts": [
+    "1-2% both",
+    "3% vs 6-9%",
+    "6% vs 20%",
+    "7-8% vs 20-40%"
+   ],
+   "ans": 3,
+   "exp": "Class IV SSI: 7-8% with, 20-40% without prophylaxis. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-100",
+   "sec": "Periods",
+   "page": 22,
+   "q": "The golden period for a traumatic wound is:",
+   "opts": [
+    "1 hour",
+    "4 hours",
+    "6 hours",
+    "24 hours"
+   ],
+   "ans": 2,
+   "exp": "Golden period: Traumatic wound: 6 hours. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-101",
+   "sec": "Periods",
+   "page": 22,
+   "q": "For trauma, the golden period is:",
+   "opts": [
+    "1 hour following trauma",
+    "4 hours following trauma",
+    "6 hours following trauma",
+    "24 hours following trauma"
+   ],
+   "ans": 0,
+   "exp": "Golden period: Trauma: 1 hour following trauma. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-102",
+   "sec": "Periods",
+   "page": 22,
+   "q": "The decisive period is 4 hours - the time between:",
+   "opts": [
+    "Trauma and admission",
+    "Skin incision & bacterial colonisation",
+    "Fever and antibiotics",
+    "Surgery and discharge"
+   ],
+   "ans": 1,
+   "exp": "Decisive period: 4 hours - time b/w skin incision & bacterial colonisation. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-103",
+   "sec": "Periods",
+   "page": 22,
+   "q": "In an elective OT list:",
+   "opts": [
+    "Dirty cases are posted first",
+    "Clean cases are posted first",
+    "Emergency cases first",
+    "Order does not matter"
+   ],
+   "ans": 1,
+   "exp": "In an elective OT list, clean cases are posted first. (Book p22)"
+  },
+  {
+   "id": "SURG-C4-104",
+   "sec": "Hand Hygiene",
+   "page": 23,
+   "q": "The most important factor in prevention of wound infection is:",
+   "opts": [
+    "Antibiotics",
+    "Hand hygiene by surgeon",
+    "OT temperature",
+    "Suture type"
+   ],
+   "ans": 1,
+   "exp": "Hand hygiene by surgeon: most important factor. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-105",
+   "sec": "Hand Hygiene",
+   "page": 23,
+   "q": "Minimum duration of surgical handwash is:",
+   "opts": [
+    "1 min",
+    "3 mins",
+    "10 mins",
+    "30 secs"
+   ],
+   "ans": 1,
+   "exp": "Min duration of handwash: 3 mins. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-106",
+   "sec": "Hand Hygiene",
+   "page": 23,
+   "q": "For routine hand hygiene, one may use:",
+   "opts": [
+    "Only soap & water",
+    "Soap & water / alcohol hand rub",
+    "Only alcohol",
+    "Only betadine"
+   ],
+   "ans": 1,
+   "exp": "Soap & water/alcohol hand rub should be used. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-107",
+   "sec": "Hand Hygiene",
+   "page": 23,
+   "q": "After toilet visit or if hands are visibly soiled:",
+   "opts": [
+    "Only alcohol rub is used",
+    "Only soap & water used",
+    "No wash needed",
+    "Gloves suffice"
+   ],
+   "ans": 1,
+   "exp": "After toilet visit / visibly soiled: Only soap & water used. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-108",
+   "sec": "Hand Hygiene",
+   "page": 23,
+   "q": "The 'before' moments of hand hygiene are:",
+   "opts": [
+    "Before touching a patient; Before clean/aseptic procedure",
+    "After touching a patient only",
+    "After toilet only",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "5 moments: Before touching a patient; Before clean/aseptic procedure; After body fluid risk; After touching patient; After surroundings. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-109",
+   "sec": "Hand Hygiene",
+   "page": 23,
+   "q": "The 'after' moments of hand hygiene include all of the following EXCEPT:",
+   "opts": [
+    "After body fluid exposure risk",
+    "After touching a patient",
+    "After touching patient's surroundings",
+    "After entering the hospital gate"
+   ],
+   "ans": 3,
+   "exp": "5 moments include: After body fluid risk; After touching patient; After touching surroundings. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-110",
+   "sec": "Part Prep",
+   "page": 23,
+   "q": "The best method to remove hair before surgery is:",
+   "opts": [
+    "Shaving with razor",
+    "Hair clipper",
+    "Waxing",
+    "Depilatory cream"
+   ],
+   "ans": 1,
+   "exp": "To remove hair before Sx: Hair clipper (Best method). (Book p23)"
+  },
+  {
+   "id": "SURG-C4-111",
+   "sec": "Part Prep",
+   "page": 23,
+   "q": "Shaving of hair is not done because it causes microabrasions leading to:",
+   "opts": [
+    "Less pain",
+    "Bacterial colonisation -> increased SSI rates",
+    "Faster healing",
+    "Better cosmesis"
+   ],
+   "ans": 1,
+   "exp": "Shaving (Not done): microabrasions -> Bacterial colonisation -> increased SSI rates. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-112",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "The preferred sterilising agent for skin preparation is:",
+   "opts": [
+    "Betadine alone",
+    "Chlorhexidine + alcohol > betadine",
+    "Saline alone",
+    "Hydrogen peroxide"
+   ],
+   "ans": 1,
+   "exp": "Sterilising agent: Chlorhexidine + alcohol > betadine. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-113",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "In a female patient for abdominal surgery, the area cleaned is:",
+   "opts": [
+    "Nipple to mid thigh",
+    "Infra mammary crease to mid thigh",
+    "Neck to ankle",
+    "Umbilicus only"
+   ],
+   "ans": 1,
+   "exp": "Area cleaned: Female: Infra mammary crease to mid thigh; Male: Nipple to mid thigh. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-114",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "In a male patient for abdominal surgery, the area cleaned is:",
+   "opts": [
+    "Infra mammary crease to mid thigh",
+    "Nipple to mid thigh",
+    "Neck to ankle",
+    "Umbilicus only"
+   ],
+   "ans": 1,
+   "exp": "Area cleaned: Male: Nipple to mid thigh. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-115",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "The abdomen is cleaned:",
+   "opts": [
+    "Lateral to medial",
+    "Medial to lateral",
+    "Upwards only",
+    "In circles anywhere"
+   ],
+   "ans": 1,
+   "exp": "Abdomen: Cleaned medial to lateral; Thigh: lateral to medial. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-116",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "The thigh is cleaned:",
+   "opts": [
+    "Medial to lateral",
+    "Lateral to medial",
+    "Upwards only",
+    "Distal to proximal only"
+   ],
+   "ans": 1,
+   "exp": "Thigh: Cleaned lateral to medial. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-117",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "Limbs are cleaned till:",
+   "opts": [
+    "One joint up",
+    "One joint down",
+    "Toes only",
+    "Whole body"
+   ],
+   "ans": 0,
+   "exp": "Limbs: Till one joint up. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-118",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "After cleaning the part, one must:",
+   "opts": [
+    "Cover immediately while wet",
+    "Always let the area dry up",
+    "Wipe with dry cloth fast",
+    "Apply powder"
+   ],
+   "ans": 1,
+   "exp": "Always let the area dry up after cleaning. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-119",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "While cleaning, the rule is:",
+   "opts": [
+    "Clean periphery first",
+    "Always clean the incision site first, go outwards",
+    "Clean randomly",
+    "Clean twice with same gauze"
+   ],
+   "ans": 1,
+   "exp": "Always clean the incision site first, go outwards; Cleaned twice (1 gauze + another gauze). (Book p23)"
+  },
+  {
+   "id": "SURG-C4-120",
+   "sec": "Cleaning",
+   "page": 23,
+   "q": "The part is cleaned twice using:",
+   "opts": [
+    "Same gauze twice",
+    "1 gauze then another gauze",
+    "Same mop",
+    "Water only"
+   ],
+   "ans": 1,
+   "exp": "Cleaned twice: 1 gauze + Another gauze. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-121",
+   "sec": "Prophylactic Abx",
+   "page": 23,
+   "q": "The best time for prophylactic antibiotics is:",
+   "opts": [
+    "At skin closure",
+    "30-60 mins before Sx",
+    "One day before Sx",
+    "After Sx only"
+   ],
+   "ans": 1,
+   "exp": "Prophylactic antibiotics: Best time: 30-60 mins before Sx. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-122",
+   "sec": "Prophylactic Abx",
+   "page": 23,
+   "q": "In prolonged surgery, the prophylactic dose is repeated after:",
+   "opts": [
+    "1 hour",
+    "2 hours",
+    "4 hours",
+    "12 hours"
+   ],
+   "ans": 2,
+   "exp": "In prolonged Sx: Repeat dose after 4 hours. (Book p23)"
+  },
+  {
+   "id": "SURG-C4-123",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "HEPA filters must be 90% efficient in removing particles greater than:",
+   "opts": [
+    "0.5 mm",
+    "5 mm",
+    "5 cm",
+    "0.5 cm"
+   ],
+   "ans": 0,
+   "exp": "Ultra clean laminar air flow: Hepa filters -> must be 90% efficient in removing particles >0.5 mm. (Book p24)"
+  },
+  {
+   "id": "SURG-C4-124",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "The optimum OT temperature is:",
+   "opts": [
+    "10-14 C",
+    "18-22 C",
+    "25-30 C",
+    "32-36 C"
+   ],
+   "ans": 1,
+   "exp": "Optimum temperature: 18-22 C - Avoid hypothermia. (Book p24)"
+  },
+  {
+   "id": "SURG-C4-125",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "The Bair hugger is used to:",
+   "opts": [
+    "Prevent hypothermia",
+    "Prevent hyperthermia",
+    "Give oxygen",
+    "Monitor BP"
+   ],
+   "ans": 0,
+   "exp": "Bair hugger (To prevent hypothermia). (Book p24)"
+  },
+  {
+   "id": "SURG-C4-126",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "The optimum relative humidity in OT is:",
+   "opts": [
+    "20-30%",
+    "50-60%",
+    "80-90%",
+    "100%"
+   ],
+   "ans": 1,
+   "exp": "Relative humidity: 50-60%. (Book p24)"
+  },
+  {
+   "id": "SURG-C4-127",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "Laminar air flow in OT is:",
+   "opts": [
+    "4 fresh air changes/hour from clean to dirty area",
+    "1 change/hour dirty to clean",
+    "No changes needed",
+    "20 changes/hour"
+   ],
+   "ans": 0,
+   "exp": "Laminar air flow: 4 fresh air changes/hour from clean -> Dirty area. (Book p24)"
+  },
+  {
+   "id": "SURG-C4-128",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "Inside the OT there must be:",
+   "opts": [
+    "Negative pressure",
+    "Positive pressure",
+    "Zero pressure",
+    "Vacuum"
+   ],
+   "ans": 1,
+   "exp": "Positive pressure inside OT. (Book p24)"
+  },
+  {
+   "id": "SURG-C4-129",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "To prevent wound infection, blood sugar must be controlled to:",
+   "opts": [
+    "Prevent hyperglycemia",
+    "Allow hyperglycemia",
+    "Cause hypoglycemia",
+    "Ignore sugar"
+   ],
+   "ans": 0,
+   "exp": "Prevent hyperglycemia. (Book p24)"
+  },
+  {
+   "id": "SURG-C4-130",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "Proper hemostasis is listed in the prevention of:",
+   "opts": [
+    "DVT",
+    "Wound infection",
+    "Atelectasis",
+    "Hypothermia"
+   ],
+   "ans": 1,
+   "exp": "Prevention: Proper hemostasis. (Book p24)"
+  },
+  {
+   "id": "SURG-C4-131",
+   "sec": "OT Parameters",
+   "page": 24,
+   "q": "In the immediate post-operative period, the patient must be given:",
+   "opts": [
+    "Antibiotics",
+    "O2",
+    "Blood",
+    "Sedation"
+   ],
+   "ans": 1,
+   "exp": "Give O2 in immediate post operative period. (Book p24)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U4-1",
+   "ch": 4,
+   "n": 1,
+   "title": "Post-op Fever: Causes by Day",
+   "sec": "Fever Causes · p18",
+   "qs": [
+    "SURG-C4-001",
+    "SURG-C4-002",
+    "SURG-C4-003",
+    "SURG-C4-004",
+    "SURG-C4-005",
+    "SURG-C4-006",
+    "SURG-C4-007",
+    "SURG-C4-008"
+   ],
+   "guide": "Fever tells time after surgery: atelectasis on day 1, pneumonia, thrombophlebitis and UTI on days 2-3, wound infection and DVT on days 4-5, burst abdomen on day 6, and deep intra-abdominal collections from day 7 onward."
+  },
+  {
+   "id": "SURG-U4-2",
+   "ch": 4,
+   "n": 2,
+   "title": "Pneumonia, Thrombophlebitis & Atelectasis",
+   "sec": "Atelectasis · p18",
+   "qs": [
+    "SURG-C4-009",
+    "SURG-C4-010",
+    "SURG-C4-011",
+    "SURG-C4-012",
+    "SURG-C4-013",
+    "SURG-C4-014",
+    "SURG-C4-015",
+    "SURG-C4-016",
+    "SURG-C4-017",
+    "SURG-C4-018",
+    "SURG-C4-019"
+   ],
+   "guide": "Post-operative pneumonia brings fever cured by antibiotics, while superficial thrombophlebitis adds pain soothed by topical heparinoids. Atelectasis - collapsed alveoli, the commonest day-1 fever - is prevented by incentive spirometry, pain control, treating CHF and COPD, steam, and quitting smoking 4-6 weeks ahead."
+  },
+  {
+   "id": "SURG-U4-3",
+   "ch": 4,
+   "n": 3,
+   "title": "Deep Vein Thrombosis",
+   "sec": "DVT · p19",
+   "qs": [
+    "SURG-C4-020",
+    "SURG-C4-021",
+    "SURG-C4-022",
+    "SURG-C4-023",
+    "SURG-C4-024",
+    "SURG-C4-025",
+    "SURG-C4-026",
+    "SURG-C4-027",
+    "SURG-C4-028"
+   ],
+   "guide": "DVT swells one leg - lower limbs far more than upper - and is confirmed on duplex scan. Early ambulation defeats stasis, pneumatic stockings squeeze the calves, and low molecular weight heparin is the drug of choice for prophylaxis."
+  },
+  {
+   "id": "SURG-U4-4",
+   "ch": 4,
+   "n": 4,
+   "title": "Burst Abdomen",
+   "sec": "Burst Abdomen · p19",
+   "qs": [
+    "SURG-C4-029",
+    "SURG-C4-030",
+    "SURG-C4-031",
+    "SURG-C4-032",
+    "SURG-C4-033",
+    "SURG-C4-034",
+    "SURG-C4-035",
+    "SURG-C4-036",
+    "SURG-C4-037"
+   ],
+   "guide": "On day 6 a cough can split the rectus sheath open, baring bowel beneath a dressing soaked in reddish salmon fluid. The emergency answer is repositing bowel under a Bogota bag, with definitive resuturing in theatre - while chronic cough, constipation, infection, obesity, immunosuppression and malnutrition set the stage."
+  },
+  {
+   "id": "SURG-U4-5",
+   "ch": 4,
+   "n": 5,
+   "title": "Surgeon Factors & Rectus Closure",
+   "sec": "Sx Factors · p20",
+   "qs": [
+    "SURG-C4-038",
+    "SURG-C4-039",
+    "SURG-C4-040",
+    "SURG-C4-041",
+    "SURG-C4-042",
+    "SURG-C4-043",
+    "SURG-C4-044"
+   ],
+   "guide": "Midline, emergency, continuous, long-bite, short-thread closures burst most - Jenkins demands thread four times the wound length. Non-absorbable suture closes adult rectus, while children get delayed-absorbable PDS."
+  },
+  {
+   "id": "SURG-U4-6",
+   "ch": 4,
+   "n": 6,
+   "title": "Intra-abdominal Abscesses",
+   "sec": "Abscess · p20",
+   "qs": [
+    "SURG-C4-045",
+    "SURG-C4-046",
+    "SURG-C4-047",
+    "SURG-C4-048",
+    "SURG-C4-049",
+    "SURG-C4-050",
+    "SURG-C4-051",
+    "SURG-C4-052",
+    "SURG-C4-053",
+    "SURG-C4-054",
+    "SURG-C4-055"
+   ],
+   "guide": "Pus seeks the pelvis in walkers and Morrison's pouch in the bedridden, announcing itself with fever, chills and rigor. Subdiaphragmatic pus triggers hiccups and referred shoulder pain; pelvic pus brings mucous diarrhoea and frequent micturition - diagnosed by CECT and drained by USG-guided pigtail."
+  },
+  {
+   "id": "SURG-U4-7",
+   "ch": 4,
+   "n": 7,
+   "title": "SSI: Definition & Types",
+   "sec": "SSI · p21",
+   "qs": [
+    "SURG-C4-056",
+    "SURG-C4-057",
+    "SURG-C4-058",
+    "SURG-C4-059",
+    "SURG-C4-060"
+   ],
+   "guide": "A surgical site infection strikes within 30 days - or within a year if an implant was placed. Superficial infection stays above fascia, deep goes below it, and organ-space infection pools inside an organ or cavity."
+  },
+  {
+   "id": "SURG-U4-8",
+   "ch": 4,
+   "n": 8,
+   "title": "ASEPSIS Wound Score",
+   "sec": "ASEPSIS · p21",
+   "qs": [
+    "SURG-C4-061",
+    "SURG-C4-062",
+    "SURG-C4-063",
+    "SURG-C4-064",
+    "SURG-C4-065",
+    "SURG-C4-066",
+    "SURG-C4-067",
+    "SURG-C4-068"
+   ],
+   "guide": "ASEPSIS grades wounds by Additional treatment, Serous discharge, Erythema, Purulent exudate, Separation of deep tissues, Isolation of bacteria, and inpatient Stay beyond 14 days - with pus drained under local but debridement under general anaesthesia."
+  },
+  {
+   "id": "SURG-U4-9",
+   "ch": 4,
+   "n": 9,
+   "title": "Southampton Wound Score",
+   "sec": "Southampton · p21",
+   "qs": [
+    "SURG-C4-069",
+    "SURG-C4-070",
+    "SURG-C4-071",
+    "SURG-C4-072",
+    "SURG-C4-073",
+    "SURG-C4-074"
+   ],
+   "guide": "Southampton climbs from 0 - normal healing - through bruising, erythema and clear discharge to frank pus at grade IV and deep severe infection with or without breakdown at grade V."
+  },
+  {
+   "id": "SURG-U4-10",
+   "ch": 4,
+   "n": 10,
+   "title": "SSI Risk Factors",
+   "sec": "Risk Factors · p21",
+   "qs": [
+    "SURG-C4-075",
+    "SURG-C4-076",
+    "SURG-C4-077",
+    "SURG-C4-078",
+    "SURG-C4-079",
+    "SURG-C4-080",
+    "SURG-C4-081"
+   ],
+   "guide": "Neonates and the elderly, recent chest or abdominal surgery, distant coexisting infection, diabetes, steroids, low cholesterol, obesity, malnutrition, chronic inflammation, prior irradiation, hypothermia and hypoxemia - twelve flags that mark a wound for infection."
+  },
+  {
+   "id": "SURG-U4-11",
+   "ch": 4,
+   "n": 11,
+   "title": "Wound Classes I-IV",
+   "sec": "Wound Types · p22",
+   "qs": [
+    "SURG-C4-082",
+    "SURG-C4-083",
+    "SURG-C4-084",
+    "SURG-C4-085",
+    "SURG-C4-086",
+    "SURG-C4-087",
+    "SURG-C4-088",
+    "SURG-C4-089",
+    "SURG-C4-090",
+    "SURG-C4-091",
+    "SURG-C4-092",
+    "SURG-C4-093",
+    "SURG-C4-094",
+    "SURG-C4-095",
+    "SURG-C4-096",
+    "SURG-C4-097",
+    "SURG-C4-098",
+    "SURG-C4-099"
+   ],
+   "guide": "Clean wounds infect at 1-2% with or without antibiotics; clean-contaminated at 3% versus 6-9%; contaminated at 6% versus 20% with antibiotics continued; and dirty pus-filled wounds at 7-8% versus 20-40% - from thyroid and hernia surgery at one end to abscesses and peritonitis at the other."
+  },
+  {
+   "id": "SURG-U4-12",
+   "ch": 4,
+   "n": 12,
+   "title": "Golden & Decisive Periods",
+   "sec": "Periods · p22",
+   "qs": [
+    "SURG-C4-100",
+    "SURG-C4-101",
+    "SURG-C4-102",
+    "SURG-C4-103"
+   ],
+   "guide": "The golden period gives traumatic wounds 6 hours - just 1 hour after major trauma - while the decisive 4 hours span skin incision to bacterial colonisation. On elective lists, clean cases always go first."
+  },
+  {
+   "id": "SURG-U4-13",
+   "ch": 4,
+   "n": 13,
+   "title": "Hand Hygiene & Part Preparation",
+   "sec": "Hand Hygiene · p23",
+   "qs": [
+    "SURG-C4-104",
+    "SURG-C4-105",
+    "SURG-C4-106",
+    "SURG-C4-107",
+    "SURG-C4-108",
+    "SURG-C4-109",
+    "SURG-C4-110",
+    "SURG-C4-111"
+   ],
+   "guide": "The surgeon's hands matter most: 3-minute scrubs with soap or alcohol rub - soap alone after toilets or visible soil - across the five WHO moments. Hair falls to clippers, never razors, whose microabrasions seed infection."
+  },
+  {
+   "id": "SURG-U4-14",
+   "ch": 4,
+   "n": 14,
+   "title": "Cleaning the Operative Part",
+   "sec": "Cleaning · p23",
+   "qs": [
+    "SURG-C4-112",
+    "SURG-C4-113",
+    "SURG-C4-114",
+    "SURG-C4-115",
+    "SURG-C4-116",
+    "SURG-C4-117",
+    "SURG-C4-118",
+    "SURG-C4-119",
+    "SURG-C4-120",
+    "SURG-C4-121",
+    "SURG-C4-122"
+   ],
+   "guide": "Chlorhexidine plus alcohol beats betadine for skin prep - inframammary crease to mid-thigh in women, nipple to mid-thigh in men, abdomen medial-to-lateral, thigh lateral-to-medial, limbs a joint beyond, always incision-first and outward, twice over, then left to dry."
+  },
+  {
+   "id": "SURG-U4-15",
+   "ch": 4,
+   "n": 15,
+   "title": "Prophylactic Antibiotics & OT Parameters",
+   "sec": "OT Parameters · p24",
+   "qs": [
+    "SURG-C4-123",
+    "SURG-C4-124",
+    "SURG-C4-125",
+    "SURG-C4-126",
+    "SURG-C4-127",
+    "SURG-C4-128",
+    "SURG-C4-129",
+    "SURG-C4-130",
+    "SURG-C4-131"
+   ],
+   "guide": "Antibiotics peak 30-60 minutes before incision and repeat at 4 hours in long cases. The theatre breathes HEPA-filtered laminar flow at 4 changes an hour under positive pressure, 18-22 degrees, 50-60% humidity - with the Bair hugger, euglycemia, hemostasis and post-operative oxygen completing the shield."
+  }
+ ]
+}

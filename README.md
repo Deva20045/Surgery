@@ -3,7 +3,7 @@
 Single-file quiz app (`pulse-surgery-complete.html`) being extended chapter-by-chapter,
 line-by-line from the Marrow Surgery Edition 8 book (2 volumes, **72 chapters**, book pages 1-550).
 
-**Live: 2/72 chapters** — see PROGRESS.md for the build tracker.
+**Local build: 5/72 chapters** (the `.html` stays local-only; GitHub copy frozen at 2/72) — see PROGRESS.md for the build tracker.
 
 ## Repo layout
 ```
