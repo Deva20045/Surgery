@@ -1,0 +1,2126 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C15-001",
+   "sec": "Thyroid Cancers: IOC & Syndromes",
+   "page": 90,
+   "q": "The IOC (investigation of choice) for thyroid cancers is:",
+   "opts": [
+    "FNAC",
+    "USG neck",
+    "CT neck",
+    "TFT"
+   ],
+   "ans": 0,
+   "exp": "IOC: FNAC. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-002",
+   "sec": "Thyroid Cancers: IOC & Syndromes",
+   "page": 90,
+   "q": "Medullary thyroid cancer is associated with which syndrome and gene?",
+   "opts": [
+    "MEN2 / RET",
+    "MEN1 / Menin",
+    "Cowden / PTEN",
+    "Werner / WRN"
+   ],
+   "ans": 0,
+   "exp": "Medullary: MEN2 syndrome; Gene: RET. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-003",
+   "sec": "Thyroid Cancers: IOC & Syndromes",
+   "page": 90,
+   "q": "Cowden syndrome (↑ risk of breast & thyroid cancer, benign GI polyps) is associated with which histology and gene?",
+   "opts": [
+    "Follicular / PTEN (Ch 10)",
+    "Papillary / AP (Ch 5)",
+    "Medullary / RET",
+    "Papillary / PRKAR1A"
+   ],
+   "ans": 0,
+   "exp": "Follicular: Cowden syndrome (↑ breast & thyroid cancer risk, GI polyps benign) - PTEN gene: Ch 10. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-004",
+   "sec": "Thyroid Cancers: IOC & Syndromes",
+   "page": 90,
+   "q": "Werner/adult progeroid syndrome (follicular cancer association) involves which gene?",
+   "opts": [
+    "WRN",
+    "RET",
+    "PTEN",
+    "PRKAR1A"
+   ],
+   "ans": 0,
+   "exp": "Werner/Adult progeroid syndrome: WRN gene. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-005",
+   "sec": "Thyroid Cancers: IOC & Syndromes",
+   "page": 90,
+   "q": "Familial adenomatous polyposis (≥100 polyps, 100% colorectal cancer risk) is associated with which thyroid histology?",
+   "opts": [
+    "Papillary",
+    "Follicular",
+    "Medullary",
+    "Anaplastic"
+   ],
+   "ans": 0,
+   "exp": "Papillary associations: FAP (≥100 polyps, 100% colorectal cancer risk), Cowden, Carney complex, familial non-medullary & familial papillary syndromes. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-006",
+   "sec": "Thyroid Cancers: IOC & Syndromes",
+   "page": 90,
+   "q": "Carney complex is also known as:",
+   "opts": [
+    "Batman's syndrome",
+    "Sipple syndrome",
+    "Wermer syndrome",
+    "MEN3 syndrome"
+   ],
+   "ans": 0,
+   "exp": "Carney complex/Batman's syndrome - papillary association. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-007",
+   "sec": "Thyroid Cancers: IOC & Syndromes",
+   "page": 90,
+   "q": "The AP gene (FAP) is on which chromosome, and PRKAR1A links to which histology?",
+   "opts": [
+    "Ch 5 / papillary",
+    "Ch 10 / follicular",
+    "Ch 11 / medullary",
+    "Ch 12 / anaplastic"
+   ],
+   "ans": 0,
+   "exp": "Papillary genes: AP gene Ch 5, PTEN, PRKAR1A. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-008",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "T1 thyroid tumor size is:",
+   "opts": [
+    "≤ 2 cm",
+    "≤ 1 cm",
+    "> 2 but ≤ 4 cm",
+    "> 4 cm"
+   ],
+   "ans": 0,
+   "exp": "T1: Tumor ≤ 2cm (T1a ≤ 1cm; T1b > 1cm but ≤ 2cm). (Book p90)"
+  },
+  {
+   "id": "SURG-C15-009",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "T1b thyroid tumor is:",
+   "opts": [
+    "Tumor > 1 cm but ≤ 2 cm",
+    "Tumor ≤ 1 cm",
+    "Tumor > 2 but ≤ 4 cm",
+    "Tumor > 4 cm"
+   ],
+   "ans": 0,
+   "exp": "T1b: Tumor > 1cm but ≤ 2cm. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-010",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "T2 thyroid tumor is:",
+   "opts": [
+    "Tumor > 2 cm but ≤ 4 cm",
+    "Tumor ≤ 2 cm",
+    "Tumor > 4 cm limited to thyroid",
+    "Any size invading strap muscles"
+   ],
+   "ans": 0,
+   "exp": "T2: Tumor > 2cm but ≤ 4cm. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-011",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "T3a thyroid tumor is:",
+   "opts": [
+    "Tumor > 4 cm limited to thyroid",
+    "Tumor > 4 cm with strap muscle invasion",
+    "Gross extrathyroidal extension",
+    "Tumor ≤ 4 cm"
+   ],
+   "ans": 0,
+   "exp": "T3a: Tumor > 4cm limited to thyroid. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-012",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "T3b (recent update) is a tumor of:",
+   "opts": [
+    "Any size invading only strap muscles",
+    "Any size invading trachea",
+    "> 4 cm limited to thyroid",
+    "Any size with major neck structure invasion"
+   ],
+   "ans": 0,
+   "exp": "T3b: Tumor of any size invading ONLY strap muscles (recent update). (Book p90)"
+  },
+  {
+   "id": "SURG-C15-013",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "T4 thyroid tumor denotes:",
+   "opts": [
+    "Gross extrathyroidal extension into major neck structures",
+    "Strap muscle invasion only",
+    "Tumor > 4 cm limited to thyroid",
+    "Substernal extension only"
+   ],
+   "ans": 0,
+   "exp": "T4: Gross extrathyroidal extension into major neck structures. (Book p90)"
+  },
+  {
+   "id": "SURG-C15-014",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "N1 in thyroid cancer means:",
+   "opts": [
+    "Metastasis to regional nodes",
+    "No regional LN metastasis",
+    "Regional LN can't be assessed",
+    "Distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "N1: Metastasis to regional nodes (N0 none; Nx can't be assessed). (Book p90)"
+  },
+  {
+   "id": "SURG-C15-015",
+   "sec": "TNM Staging",
+   "page": 90,
+   "q": "M1 in thyroid cancer means:",
+   "opts": [
+    "Distant metastasis (+)",
+    "No distant metastasis",
+    "Regional nodes (+)",
+    "Tumor can't be assessed"
+   ],
+   "ans": 0,
+   "exp": "M0: No distant metastasis; M1: Distant metastasis (+). (Book p90)"
+  },
+  {
+   "id": "SURG-C15-016",
+   "sec": "DTC & Updates",
+   "page": 91,
+   "q": "Differentiated thyroid cancer (DTC) includes:",
+   "opts": [
+    "Papillary, follicular & Hurthle cell cancers",
+    "Papillary & anaplastic only",
+    "Medullary & follicular",
+    "Anaplastic & Hurthle cell"
+   ],
+   "ans": 0,
+   "exp": "DTC: Papillary, follicular, Hurthle cell - arise from thyroid epithelial cells & take up iodine. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-017",
+   "sec": "DTC & Updates",
+   "page": 91,
+   "q": "DTC diagnosed at <55 years carries:",
+   "opts": [
+    "Good prognosis",
+    "Bad prognosis",
+    "No prognostic meaning",
+    "Worse prognosis than >55"
+   ],
+   "ans": 0,
+   "exp": "Updates: DTC Dx by age - <55 yrs good prognosis; >55 yrs bad prognosis. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-018",
+   "sec": "DTC & Updates",
+   "page": 91,
+   "q": "Which cancer (previously staged T4) is now staged the same as DTC?",
+   "opts": [
+    "Anaplastic cancer",
+    "Medullary cancer",
+    "Thyroid lymphoma",
+    "Hurthle cell cancer"
+   ],
+   "ans": 0,
+   "exp": "Anaplastic cancer (previously T4): staged same as DTC. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-019",
+   "sec": "PTC: Risk Factors & Genetics",
+   "page": 91,
+   "q": "The most common thyroid cancer is:",
+   "opts": [
+    "Papillary",
+    "Follicular",
+    "Medullary",
+    "Anaplastic"
+   ],
+   "ans": 0,
+   "exp": "PTC: m/c thyroid cancer with BEST prognosis. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-020",
+   "sec": "PTC: Risk Factors & Genetics",
+   "page": 91,
+   "q": "Which is NOT a listed risk factor for PTC?",
+   "opts": [
+    "Iodine deficiency",
+    "Radiation exposure",
+    "Family history",
+    "Obesity"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: 1. Radiation exposure; 2. Family history; 3. Obesity (iodine deficiency is FTC's). (Book p91)"
+  },
+  {
+   "id": "SURG-C15-021",
+   "sec": "PTC: Risk Factors & Genetics",
+   "page": 91,
+   "q": "Radiation exposure risk includes all EXCEPT:",
+   "opts": [
+    "Radioiodine ablation therapy at old age",
+    "Nuclear fall out",
+    "Post radiotherapy of head & neck",
+    "Radioiodine ablation therapy at young age"
+   ],
+   "ans": 0,
+   "exp": "Radiation: nuclear fall out, post radiotherapy head & neck, radioiodine ablation at YOUNG age. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-022",
+   "sec": "PTC: Risk Factors & Genetics",
+   "page": 91,
+   "q": "PTC genes exposed to radiation are:",
+   "opts": [
+    "More aggressive",
+    "Less aggressive",
+    "Unchanged",
+    "Radioresistant"
+   ],
+   "ans": 0,
+   "exp": "PTC genes exposed to radiation are more aggressive. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-023",
+   "sec": "PTC: Risk Factors & Genetics",
+   "page": 91,
+   "q": "The most common (m/c) mutation in PTC is:",
+   "opts": [
+    "BRAF",
+    "GDNF",
+    "RET/PTC",
+    "P53"
+   ],
+   "ans": 0,
+   "exp": "Genetics: mutation of BRAF (m/c), GDNF, RET/PTC. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-024",
+   "sec": "PTC: Risk Factors & Genetics",
+   "page": 91,
+   "q": "GDNF stands for:",
+   "opts": [
+    "Glial derived neurotrophic factor",
+    "Glandular derived neoplastic factor",
+    "Glial derived neoplastic factor",
+    "Gonadal derived neurotrophic factor"
+   ],
+   "ans": 0,
+   "exp": "GDNF: Glial derived neurotrophic factor. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-025",
+   "sec": "PTC: Risk Factors & Genetics",
+   "page": 91,
+   "q": "The female:male ratio and decade for PTC are:",
+   "opts": [
+    "3:1, 3rd-5th decade",
+    "1:3, 3rd-5th decade",
+    "3:1, 6th-7th decade",
+    "2:1, 5th-7th decade"
+   ],
+   "ans": 0,
+   "exp": "Incidence: Female:male = 3:1; 3rd-5th decade. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-026",
+   "sec": "PTC: Clinical Features & Spread",
+   "page": 91,
+   "q": "The most common presentation of PTC is:",
+   "opts": [
+    "Thyroid swelling",
+    "Hoarseness",
+    "Stridor",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "Thyroid swelling: m/c presentation; B/L multicentric → Rx: total thyroidectomy. (Book p91)"
+  },
+  {
+   "id": "SURG-C15-027",
+   "sec": "PTC: Clinical Features & Spread",
+   "page": 92,
+   "q": "The FIRST lymphatic spread of PTC is to:",
+   "opts": [
+    "Level 6 lymph nodes (central compartment/delphian)",
+    "Level 3 nodes",
+    "Mediastinal nodes",
+    "Retropharyngeal nodes"
+   ],
+   "ans": 0,
+   "exp": "Lymphatic: Level 6 lymph nodes 1st (central compartment/delphian lymph nodes). (Book p92)"
+  },
+  {
+   "id": "SURG-C15-028",
+   "sec": "PTC: Clinical Features & Spread",
+   "page": 92,
+   "q": "The most common site of haematogenous spread in PTC is:",
+   "opts": [
+    "Lungs",
+    "Liver",
+    "Bone",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "Haematogenous: Lungs (m/c). (Book p92)"
+  },
+  {
+   "id": "SURG-C15-029",
+   "sec": "PTC: Clinical Features & Spread",
+   "page": 92,
+   "q": "Lateral aberrant thyroid is:",
+   "opts": [
+    "Level 6 LN enlargement (d/t PTC) with non-palpable thyroid",
+    "Ectopic lateral thyroid tissue",
+    "A lateral thyroglossal cyst",
+    "Metastatic follicular carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Lateral aberrant thyroid: level 6 LN enlargement (d/t PTC) & non-palpable thyroid. (Book p92)"
+  },
+  {
+   "id": "SURG-C15-030",
+   "sec": "PTC: Clinical Features & Spread",
+   "page": 92,
+   "q": "A thyroid incidentaloma is:",
+   "opts": [
+    "Incidental Dx, size < 1 cm",
+    "Always malignant",
+    "Size > 2 cm",
+    "A palpable nodule"
+   ],
+   "ans": 0,
+   "exp": "Thyroid incidentaloma: incidental Dx; size < 1cm. (Book p92)"
+  },
+  {
+   "id": "SURG-C15-031",
+   "sec": "PTC: Diagnosis & Histology",
+   "page": 92,
+   "q": "The IOC for diagnosing PTC is:",
+   "opts": [
+    "FNAC",
+    "Core biopsy",
+    "CT",
+    "Thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "Ix: FNAC = IOC. (Book p92)"
+  },
+  {
+   "id": "SURG-C15-032",
+   "sec": "PTC: Diagnosis & Histology",
+   "page": 92,
+   "q": "'Orphan Annie eyed'/coffee bean nuclei on H&E indicate:",
+   "opts": [
+    "Papillary thyroid carcinoma",
+    "Follicular carcinoma",
+    "Medullary carcinoma",
+    "Anaplastic carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Orphan Annie eyed/coffee bean nuclei - PTC. (Book p92)"
+  },
+  {
+   "id": "SURG-C15-033",
+   "sec": "PTC: Diagnosis & Histology",
+   "page": 92,
+   "q": "Pseudo (intranuclear) inclusions are a feature of:",
+   "opts": [
+    "PTC",
+    "FTC",
+    "MTC",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Pseudo (intranuclear) inclusions - PTC. (Book p92)"
+  },
+  {
+   "id": "SURG-C15-034",
+   "sec": "PTC: Diagnosis & Histology",
+   "page": 92,
+   "q": "Psammoma bodies are:",
+   "opts": [
+    "Foci of dystrophic calcification",
+    "Foci of amyloid",
+    "Intranuclear inclusions",
+    "Colloid-filled follicles"
+   ],
+   "ans": 0,
+   "exp": "Psammoma bodies: foci of dystrophic calcification. (Book p92)"
+  },
+  {
+   "id": "SURG-C15-035",
+   "sec": "PTC: Diagnosis & Histology",
+   "page": 92,
+   "q": "Psammoma bodies are seen in all EXCEPT:",
+   "opts": [
+    "Follicular thyroid carcinoma",
+    "PTC",
+    "Serous cystadenoma of ovary",
+    "Meningioma"
+   ],
+   "ans": 0,
+   "exp": "Psammoma bodies: PTC, serous cystadenoma of ovary, papillary RCC, meningioma. (Book p92)"
+  },
+  {
+   "id": "SURG-C15-036",
+   "sec": "PTC: Surgical Options",
+   "page": 93,
+   "q": "Hemithyroidectomy criteria include all of the following EXCEPT:",
+   "opts": [
+    "Extrathyroidal spread",
+    "Low risk",
+    "U/L",
+    "1-4 cm"
+   ],
+   "ans": 0,
+   "exp": "Hemithyroidectomy: ALL of - low risk, U/L, 1-4 cm, NO extrathyroidal spread. (Book p93)"
+  },
+  {
+   "id": "SURG-C15-037",
+   "sec": "PTC: Surgical Options",
+   "page": 93,
+   "q": "Minimum total thyroidectomy is indicated for all EXCEPT:",
+   "opts": [
+    "Unilateral low-risk 2 cm tumor",
+    "Radiation induced DTC",
+    "Familial non-medullary thyroid cancer",
+    "Multifocal B/L DTC"
+   ],
+   "ans": 0,
+   "exp": "Minimum total thyroidectomy: radiation induced DTC, familial non-medullary TC, multifocal B/L DTC, extrathyroid extension. (Book p93)"
+  },
+  {
+   "id": "SURG-C15-038",
+   "sec": "PTC: Surgical Options",
+   "page": 93,
+   "q": "Prophylactic central neck dissection (total thyroidectomy + CND) is done for:",
+   "opts": [
+    "T3, T4 tumors",
+    "T1a tumors",
+    "Benign nodules",
+    "Incidentaloma only"
+   ],
+   "ans": 0,
+   "exp": "Total thyroidectomy + CND (level 6 LN removal): T3, T4 (prophylactic CND done); level 6 LN (+). (Book p93)"
+  },
+  {
+   "id": "SURG-C15-039",
+   "sec": "PTC: Surgical Options",
+   "page": 93,
+   "q": "Total thyroidectomy + CND + modified radical neck dissection (U/L or B/L) is for:",
+   "opts": [
+    "PTC involving level 6 + other neck LN",
+    "T1 tumors",
+    "Prophylactic cases",
+    "FTC adenoma"
+   ],
+   "ans": 0,
+   "exp": "Total + CND + MRND (U/L/B/L): PTC involving level 6 + other neck LN. (Book p93)"
+  },
+  {
+   "id": "SURG-C15-040",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 93,
+   "q": "The prerequisite TSH level for a whole body iodine scan is:",
+   "opts": [
+    "TSH > 30 (to enhance iodine uptake)",
+    "TSH < 0.1",
+    "TSH 5-10",
+    "Normal TSH"
+   ],
+   "ans": 0,
+   "exp": "Prerequisite: TSH > 30 to enhance iodine uptake. (Book p93)"
+  },
+  {
+   "id": "SURG-C15-041",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 93,
+   "q": "In the traditional method of raising TSH, thyroxine is not supplemented for 4-6 weeks; the disadvantage is:",
+   "opts": [
+    "Patient suffers hypothyroidism for 4-6 weeks",
+    "Risk of thyrotoxicosis",
+    "False positive scans",
+    "Hypertensive crisis"
+   ],
+   "ans": 0,
+   "exp": "Traditional: wait 4-6 weeks post Sx, don't supplement thyroxine - patient suffers hypothyroidism 4-6 weeks. (Book p93)"
+  },
+  {
+   "id": "SURG-C15-042",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 93,
+   "q": "The alternative to thyroxine withdrawal for raising TSH is:",
+   "opts": [
+    "Recombinant TSH injections",
+    "High-dose thyroxine",
+    "Pentagastrin",
+    "ACTH infusion"
+   ],
+   "ans": 0,
+   "exp": "Recombinant TSH injections avoid withdrawal hypothyroidism. (Book p93)"
+  },
+  {
+   "id": "SURG-C15-043",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 94,
+   "q": "A positive whole body iodine scan (residual disease/mets) is treated with:",
+   "opts": [
+    "Radioiodine ablation (RIA)",
+    "TSH suppression only",
+    "External beam RT",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "(+) scan → Rx: Radioiodine ablation (RIA). (Book p94)"
+  },
+  {
+   "id": "SURG-C15-044",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 94,
+   "q": "RIA uses I-131 which acts via:",
+   "opts": [
+    "β rays",
+    "α rays",
+    "γ rays",
+    "Auger electrons"
+   ],
+   "ans": 0,
+   "exp": "I131 acts via β rays. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-045",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 94,
+   "q": "The half life of I-131 is:",
+   "opts": [
+    "7-8 days",
+    "7-8 hours",
+    "70 days",
+    "48 hours"
+   ],
+   "ans": 0,
+   "exp": "I131 ½ life: 7-8 days. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-046",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 94,
+   "q": "Indications for RIA include all EXCEPT:",
+   "opts": [
+    "Normal thyroglobulin with negative scan",
+    "Residual disease",
+    "Metastases",
+    "Persistently high thyroglobulin after Sx"
+   ],
+   "ans": 0,
+   "exp": "RIA indications: residual disease, metastases, +ve lymph nodes, persistently high thyroglobulin after Sx. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-047",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 94,
+   "q": "A negative scan is managed with TSH suppression to the lower limit of normal using:",
+   "opts": [
+    "Thyroxine",
+    "Propylthiouracil",
+    "Carbimazole",
+    "Radioiodine"
+   ],
+   "ans": 0,
+   "exp": "(-) scan → TSH suppression to lower limit of N: thyroxine (↓ recurrence of PTC). (Book p94)"
+  },
+  {
+   "id": "SURG-C15-048",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 94,
+   "q": "Life-long follow-up of DTC uses USG neck plus which tumor marker, checked 6-monthly?",
+   "opts": [
+    "S. thyroglobulin",
+    "Calcitonin",
+    "CEA",
+    "CA-125"
+   ],
+   "ans": 0,
+   "exp": "Life-long follow-up: USG neck + S. thyroglobulin (tumor marker for DTC) 6-monthly. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-049",
+   "sec": "Whole Body Iodine Scan & RIA",
+   "page": 94,
+   "q": "S. thyroglobulin is NOT a reliable marker if:",
+   "opts": [
+    "Anti-Tg antibodies are (+)",
+    "TSH is suppressed",
+    "Patient is on thyroxine",
+    "Scan is negative"
+   ],
+   "ans": 0,
+   "exp": "Not reliable if anti-Tg antibodies (+). (Book p94)"
+  },
+  {
+   "id": "SURG-C15-050",
+   "sec": "Radioiodine Resistant DTC & Lindsey Tumor",
+   "page": 94,
+   "q": "Immunotherapy (targeted therapy) for radioiodine-resistant DTC includes:",
+   "opts": [
+    "Sorafenib, lenvatinib",
+    "Dabrafenib",
+    "Vandetinib",
+    "Doxorubicin"
+   ],
+   "ans": 0,
+   "exp": "RAI-resistant DTC: 1. Immunotherapy sorafenib, lenvatinib; 2. EBRT; 3. Chemo doxorubicin. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-051",
+   "sec": "Radioiodine Resistant DTC & Lindsey Tumor",
+   "page": 94,
+   "q": "The chemotherapy drug for radioiodine-resistant DTC is:",
+   "opts": [
+    "Doxorubicin",
+    "Cisplatin",
+    "Methotrexate",
+    "5-FU"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy: doxorubicin. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-052",
+   "sec": "Radioiodine Resistant DTC & Lindsey Tumor",
+   "page": 94,
+   "q": "Lindsey tumor is:",
+   "opts": [
+    "Follicular variety of papillary with similar prognosis as PTC",
+    "A variant of FTC with poor prognosis",
+    "Medullary cancer in MEN2",
+    "Anaplastic cancer post-radiation"
+   ],
+   "ans": 0,
+   "exp": "Lindsey tumor: follicular variety of papillary; similar prognosis as PTC. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-053",
+   "sec": "FTC: Basics, Features & Spread",
+   "page": 94,
+   "q": "The second most common thyroid cancer is:",
+   "opts": [
+    "Follicular",
+    "Papillary",
+    "Medullary",
+    "Hurthle cell"
+   ],
+   "ans": 0,
+   "exp": "FTC: 2nd m/c thyroid cancer; m/c cancer in iodine deficient areas. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-054",
+   "sec": "FTC: Basics, Features & Spread",
+   "page": 94,
+   "q": "FTC genetics shows upregulation of miRNA:",
+   "opts": [
+    "197, 346",
+    "17-92",
+    "21, 155",
+    "197 only"
+   ],
+   "ans": 0,
+   "exp": "Genetics: upregulation of miRNA-197, 346; mutation of PTEN & BAX gene. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-055",
+   "sec": "FTC: Basics, Features & Spread",
+   "page": 94,
+   "q": "The genes mutated in FTC are:",
+   "opts": [
+    "PTEN & BAX",
+    "BRAF & RET",
+    "P53 & B-catenin",
+    "K-RAS & WRN"
+   ],
+   "ans": 0,
+   "exp": "Mutation of PTEN & BAX gene. (Book p94)"
+  },
+  {
+   "id": "SURG-C15-056",
+   "sec": "FTC: Basics, Features & Spread",
+   "page": 95,
+   "q": "The risk factor for FTC is:",
+   "opts": [
+    "Long standing multinodular goitre",
+    "Radiation",
+    "Hashimoto's thyroiditis",
+    "Obesity"
+   ],
+   "ans": 0,
+   "exp": "Risk factor: long standing multinodular goitre; Females > males. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-057",
+   "sec": "FTC: Basics, Features & Spread",
+   "page": 95,
+   "q": "Pressure symptoms in FTC: trachea causes stridor and RLN causes:",
+   "opts": [
+    "Hoarseness",
+    "Stridor",
+    "Dysphagia",
+    "Ptosis"
+   ],
+   "ans": 0,
+   "exp": "Pressure: trachea → stridor; RLN → hoarseness. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-058",
+   "sec": "FTC: Basics, Features & Spread",
+   "page": 95,
+   "q": "Haematogenous spread of FTC classically produces:",
+   "opts": [
+    "Pulsatile bony mets (highly vascular, osteolytic > osteoblastic)",
+    "Sclerotic bony mets",
+    "Liver mets first",
+    "Brain mets first"
+   ],
+   "ans": 0,
+   "exp": "Haematogenous: pulsatile bony mets - highly vascular; osteolytic > osteoblastic. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-059",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "page": 95,
+   "q": "FNAC in FTC reports:",
+   "opts": [
+    "Follicular neoplasm (Thy 3)",
+    "Papillary carcinoma",
+    "Benign colloid",
+    "Anaplastic"
+   ],
+   "ans": 0,
+   "exp": "FNAC: follicular neoplasm (Thy 3). (Book p95)"
+  },
+  {
+   "id": "SURG-C15-060",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "page": 95,
+   "q": "FNAC cannot differentiate:",
+   "opts": [
+    "Follicular adenoma vs carcinoma",
+    "PTC vs FTC",
+    "MTC vs lymphoma",
+    "Benign vs colloid"
+   ],
+   "ans": 0,
+   "exp": "Cannot differentiate follicular adenoma vs carcinoma on FNAC. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-061",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "page": 95,
+   "q": "The adenoma vs carcinoma distinction is made by:",
+   "opts": [
+    "Hemithyroidectomy → frozen section",
+    "FNAC repeat",
+    "Iodine scan",
+    "Serum thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "Hemithyroidectomy → frozen section: cancer → mx same as PTC; adenoma → no mx. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-062",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "page": 95,
+   "q": "FTC prognosis compared to PTC is:",
+   "opts": [
+    "Slightly poorer",
+    "Better",
+    "Identical",
+    "Worst of all"
+   ],
+   "ans": 0,
+   "exp": "Prognosis: slightly poorer than PTC. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-063",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "page": 95,
+   "q": "Hurthle cell carcinoma presents in which decade and the cells are rich in:",
+   "opts": [
+    "6th-7th decade, mitochondria",
+    "3rd-5th decade, mitochondria",
+    "6th-7th decade, amyloid",
+    "5th-7th decade, colloid"
+   ],
+   "ans": 0,
+   "exp": "Hurthle cell carcinoma: 6th-7th decade; oxyphilic Hurthle cells rich in mitochondria. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-064",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "page": 95,
+   "q": "Compared to other DTC, Hurthle cell carcinoma is:",
+   "opts": [
+    "Less radioactive avid & more aggressive",
+    "More radioactive avid",
+    "Less aggressive",
+    "Always benign"
+   ],
+   "ans": 0,
+   "exp": "More aggressive than FTC; LESS radioactive avid than other DTC; mx same as PTC; prognosis poorer than FTC. (Book p95)"
+  },
+  {
+   "id": "SURG-C15-065",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "page": 96,
+   "q": "Hurthle cells are seen in all EXCEPT:",
+   "opts": [
+    "Riedel thyroiditis",
+    "Hurthle cell carcinoma",
+    "Hashimoto thyroiditis",
+    "Thyroid lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Hurthle cells seen in: Hurthle cell carcinoma, Hashimoto thyroiditis, thyroid lymphoma. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-066",
+   "sec": "Prognostic Scores (AGES/AMES/MACIS)",
+   "page": 96,
+   "q": "The AGES system comprises:",
+   "opts": [
+    "Age, histologic grade, extrathyroidal invasion, size",
+    "Age, metastases, extrathyroidal spread, size",
+    "Metastases, age, completeness of resection, invasion, size",
+    "Age, grade, nodes, size"
+   ],
+   "ans": 0,
+   "exp": "AGES: Age, histologic Grade, Extrathyroidal invasion, Size. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-067",
+   "sec": "Prognostic Scores (AGES/AMES/MACIS)",
+   "page": 96,
+   "q": "The AMES system comprises:",
+   "opts": [
+    "Age, metastases, extrathyroidal spread, size of tumors",
+    "Age, grade, extension, size",
+    "Metastases, age, completeness, invasion, size",
+    "Age, nodes, mets, size"
+   ],
+   "ans": 0,
+   "exp": "AMES: Age, Metastases, Extrathyroidal spread, Size of tumors. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-068",
+   "sec": "Prognostic Scores (AGES/AMES/MACIS)",
+   "page": 96,
+   "q": "The 'C' (completeness of original surgical resection - post op criteria) belongs to:",
+   "opts": [
+    "MACIS",
+    "AGES",
+    "AMES",
+    "TNM"
+   ],
+   "ans": 0,
+   "exp": "MACIS: Metastases, Age, Completeness of original surgical resection (post op criteria), extrathyroidal invasion, size of original lesion. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-069",
+   "sec": "Anaplastic Carcinoma",
+   "page": 96,
+   "q": "The least common thyroid cancer with the worst prognosis is:",
+   "opts": [
+    "Anaplastic",
+    "Papillary",
+    "Follicular",
+    "Medullary"
+   ],
+   "ans": 0,
+   "exp": "Anaplastic: least common type; WORST prognosis. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-070",
+   "sec": "Anaplastic Carcinoma",
+   "page": 96,
+   "q": "Anaplastic carcinoma incidence peaks in:",
+   "opts": [
+    "5th-7th decade",
+    "3rd-5th decade",
+    "Childhood",
+    "6th-7th decade"
+   ],
+   "ans": 0,
+   "exp": "Incidence: 5th-7th decade. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-071",
+   "sec": "Anaplastic Carcinoma",
+   "page": 96,
+   "q": "Anaplastic genetics shows:",
+   "opts": [
+    "miRNA 17-92 upregulation; mutation in p53 & B-catenin",
+    "BRAF mutation",
+    "RET/PTC",
+    "PTEN & BAX"
+   ],
+   "ans": 0,
+   "exp": "Genetics: miRNA 17-92 upregulation; mutation in p53 & B-catenin. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-072",
+   "sec": "Anaplastic Carcinoma",
+   "page": 96,
+   "q": "Anaplastic neck swelling is characteristically:",
+   "opts": [
+    "Rapid ↑ in size, hard in consistency",
+    "Soft and mobile",
+    "Slow growing and cystic",
+    "Tender and warm"
+   ],
+   "ans": 0,
+   "exp": "Neck swelling: rapid ↑ in size, hard in consistency; H/o multinodular goitre (follicular > anaplastic). (Book p96)"
+  },
+  {
+   "id": "SURG-C15-073",
+   "sec": "Anaplastic Carcinoma",
+   "page": 96,
+   "q": "The important differential diagnosis of anaplastic carcinoma is:",
+   "opts": [
+    "Riedel thyroiditis (fibrosis of thyroid gland)",
+    "Hashimoto thyroiditis",
+    "Thyroid lymphoma",
+    "De Quervain's"
+   ],
+   "ans": 0,
+   "exp": "D/D: Riedel thyroiditis (fibrosis of thyroid gland). (Book p96)"
+  },
+  {
+   "id": "SURG-C15-074",
+   "sec": "Anaplastic Carcinoma",
+   "page": 96,
+   "q": "Spread of anaplastic carcinoma is predominantly:",
+   "opts": [
+    "Distant metastases: lungs (m/c)",
+    "Lymphatic only",
+    "Local only",
+    "Bone only"
+   ],
+   "ans": 0,
+   "exp": "Spread: distant metastases - lungs (m/c). (Book p96)"
+  },
+  {
+   "id": "SURG-C15-075",
+   "sec": "Anaplastic Carcinoma",
+   "page": 96,
+   "q": "FNAC in anaplastic carcinoma is often inconclusive; next step is:",
+   "opts": [
+    "USG guided core biopsy",
+    "Repeat FNAC",
+    "Iodine scan",
+    "Empirical surgery"
+   ],
+   "ans": 0,
+   "exp": "FNAC inconclusive → USG guided core biopsy. (Book p96)"
+  },
+  {
+   "id": "SURG-C15-076",
+   "sec": "Anaplastic Carcinoma",
+   "page": 97,
+   "q": "Staging of anaplastic carcinoma is:",
+   "opts": [
+    "Same as DTC",
+    "Same as MTC",
+    "Separate system",
+    "Same as lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Staging is same as DTC. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-077",
+   "sec": "Anaplastic Carcinoma",
+   "page": 97,
+   "q": "Localised anaplastic disease is managed aggressively with:",
+   "opts": [
+    "Total thyroidectomy + CND + modified radical neck dissection",
+    "Hemithyroidectomy",
+    "RIA alone",
+    "Thyroxine suppression"
+   ],
+   "ans": 0,
+   "exp": "Localised: aggressive mx - Sx total thyroidectomy + CND + MRND. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-078",
+   "sec": "Anaplastic Carcinoma",
+   "page": 97,
+   "q": "In advanced anaplastic disease, isthmusectomy is done to:",
+   "opts": [
+    "↓ pressure over trachea",
+    "Cure the disease",
+    "Enable RIA",
+    "Prevent hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Advanced/metastatic: tumor debulking; isthmusectomy (↓ pressure over trachea); TKI dabrafenib (immunotherapy); chemotherapy. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-079",
+   "sec": "Anaplastic Carcinoma",
+   "page": 97,
+   "q": "The tyrosine kinase inhibitor named for advanced anaplastic cancer is:",
+   "opts": [
+    "Dabrafenib",
+    "Sorafenib",
+    "Vandetinib",
+    "Lenvatinib"
+   ],
+   "ans": 0,
+   "exp": "Tyrosine kinase inhibitors: dabrafenib (immunotherapy). (Book p97)"
+  },
+  {
+   "id": "SURG-C15-080",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "The most common type of thyroid lymphoma is:",
+   "opts": [
+    "Diffuse large B cell lymphoma (DLBCL)",
+    "Small blue cell lymphoma",
+    "Hodgkin lymphoma",
+    "Burkitt lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Types: DLBCL (m/c); small blue cell. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-081",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "The risk factor for thyroid lymphoma is:",
+   "opts": [
+    "Long standing Hashimoto/lymphocytic thyroiditis",
+    "Radiation",
+    "Iodine deficiency",
+    "MEN2"
+   ],
+   "ans": 0,
+   "exp": "Risk factor: long standing Hashimoto/lymphocytic thyroiditis; 5th-7th decade; rare. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-082",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "B symptoms of lymphoma include all EXCEPT:",
+   "opts": [
+    "Hypertension",
+    "Weight loss",
+    "Night sweats",
+    "Fever"
+   ],
+   "ans": 0,
+   "exp": "B symptoms: weight loss, fever, night sweats, itching; thyroid swelling m/c. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-083",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "The investigation of choice for thyroid lymphoma is:",
+   "opts": [
+    "Core/trucut biopsy",
+    "FNAC",
+    "USG",
+    "TFT"
+   ],
+   "ans": 0,
+   "exp": "Core/trucut biopsy (FNAC cannot characterize a lymphoma). (Book p97)"
+  },
+  {
+   "id": "SURG-C15-084",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "The 1st line Rx of thyroid lymphoma is:",
+   "opts": [
+    "Chemotherapy (R-CHOP)",
+    "Surgery",
+    "RIA",
+    "Thyroxine"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy 1st line Rx: R-CHOP. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-085",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "In R-CHOP, 'R' is rituximab which is a monoclonal antibody against:",
+   "opts": [
+    "CD20",
+    "CD3",
+    "CD5",
+    "HER2"
+   ],
+   "ans": 0,
+   "exp": "R: rituximab (monoclonal antibody against CD20). (Book p97)"
+  },
+  {
+   "id": "SURG-C15-086",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "In R-CHOP, 'H' and 'O' stand for:",
+   "opts": [
+    "Hydroxydaunorubicin; oncovin/vincristine",
+    "Hydrocortisone; oxaliplatin",
+    "Hydroxyurea; oncovin",
+    "Hydroxydaunorubicin; oxaliplatin"
+   ],
+   "ans": 0,
+   "exp": "H: hydroxydaunorubicin; O: oncovin/vincristine; C cyclophosphamide; P prednisolone. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-087",
+   "sec": "Thyroid Lymphoma",
+   "page": 97,
+   "q": "Surgery in thyroid lymphoma is indicated:",
+   "opts": [
+    "Only in residual/recurrent disease",
+    "As 1st line",
+    "Never",
+    "For diagnosis only"
+   ],
+   "ans": 0,
+   "exp": "Sx indication: only in residual/recurrent disease. (Book p97)"
+  },
+  {
+   "id": "SURG-C15-088",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "Medullary thyroid carcinoma arises from:",
+   "opts": [
+    "Parafollicular/C cells",
+    "Follicular cells",
+    "Epithelial cells",
+    "Lymphocytes"
+   ],
+   "ans": 0,
+   "exp": "Arises from parafollicular/C cells (neural crest → ultimobranchial bodies → C cells). (Book p98)"
+  },
+  {
+   "id": "SURG-C15-089",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "MTC secretes all EXCEPT:",
+   "opts": [
+    "Thyroxine",
+    "Calcitonin",
+    "CEA",
+    "Chromogranin A"
+   ],
+   "ans": 0,
+   "exp": "Secrete: calcitonin, CEA, chromogranin A. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-090",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "In MTC, a sign of dedifferentiation (more aggressive) is:",
+   "opts": [
+    "CEA (carcinoembryonic antigen)",
+    "Calcitonin",
+    "Chromogranin A",
+    "Thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "CEA: sign of dedifferentiation (more aggressive). (Book p98)"
+  },
+  {
+   "id": "SURG-C15-091",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "Chromogranin A is also released in:",
+   "opts": [
+    "Carcinoid tumors",
+    "Insulinoma",
+    "Pheochromocytoma only",
+    "Gastrinoma"
+   ],
+   "ans": 0,
+   "exp": "Chromogranin A also released in carcinoid tumors. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-092",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "The more common (m/c) type of MTC is:",
+   "opts": [
+    "Sporadic (4th-6th decade)",
+    "Familial (3rd-4th decade)",
+    "MEN2B associated",
+    "Juvenile"
+   ],
+   "ans": 0,
+   "exp": "Sporadic: m/c, 4th-6th decade, less aggressive; familial: MEN2 syndromes, more aggressive, multifocal. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-093",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "The most aggressive MTC is associated with:",
+   "opts": [
+    "MEN 2B",
+    "MEN 1",
+    "MEN 2A",
+    "MEN 4"
+   ],
+   "ans": 0,
+   "exp": "MEN 2B: most aggressive. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-094",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "Diarrhoea in MTC is due to:",
+   "opts": [
+    "Serotonin",
+    "ACTH",
+    "Histamine",
+    "Calcitonin"
+   ],
+   "ans": 0,
+   "exp": "Diarrhoea: serotonin. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-095",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "Cushing syndrome in MTC is due to:",
+   "opts": [
+    "ACTH",
+    "Serotonin",
+    "Histamine",
+    "VIP"
+   ],
+   "ans": 0,
+   "exp": "Cushing syndrome: ACTH. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-096",
+   "sec": "MTC: Origin, Secretions & Types",
+   "page": 98,
+   "q": "Flushing in MTC is due to:",
+   "opts": [
+    "Histamine",
+    "Serotonin",
+    "ACTH",
+    "Calcitonin"
+   ],
+   "ans": 0,
+   "exp": "Flushing: histamine. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-097",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 98,
+   "q": "H&E of MTC classically shows:",
+   "opts": [
+    "Amyloid rich stroma",
+    "Orphan Annie nuclei",
+    "Follicles",
+    "Psammoma bodies"
+   ],
+   "ans": 0,
+   "exp": "Amyloid rich stroma. (Book p98)"
+  },
+  {
+   "id": "SURG-C15-098",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 98,
+   "q": "Haematogenous spread of MTC is most commonly to:",
+   "opts": [
+    "Liver",
+    "Lungs",
+    "Bone",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "Lymphatic: level 6 LNs; haematogenous: liver (m/c). (Book p98)"
+  },
+  {
+   "id": "SURG-C15-099",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 99,
+   "q": "The 1st line Mx of MTC is:",
+   "opts": [
+    "Surgery",
+    "RIA",
+    "Chemotherapy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Sx: 1st line Mx. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-100",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 99,
+   "q": "Tumor localized to thyroid in MTC is treated with:",
+   "opts": [
+    "Total thyroidectomy + CND",
+    "Hemithyroidectomy",
+    "Total + CND + B/L MRND",
+    "RIA"
+   ],
+   "ans": 0,
+   "exp": "Localized to thyroid: total thyroidectomy + CND. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-101",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 99,
+   "q": "Tumor involving thyroid + level 6 + other LN in MTC needs:",
+   "opts": [
+    "Total thyroidectomy + CND + MRND on B/L sides",
+    "Total + CND only",
+    "Hemithyroidectomy",
+    "Debulking only"
+   ],
+   "ans": 0,
+   "exp": "Thyroid + level 6 & other LN: total + CND + MRND on B/L sides. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-102",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 99,
+   "q": "Whole body iodine scan/RIA in MTC has:",
+   "opts": [
+    "No role (cells do not take up iodine)",
+    "A major role",
+    "A diagnostic role",
+    "A follow-up role"
+   ],
+   "ans": 0,
+   "exp": "No role in MTC - cells do not take up iodine. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-103",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 99,
+   "q": "Before treating MTC, always rule out which MEN2 association that must be managed FIRST?",
+   "opts": [
+    "Pheochromocytoma",
+    "Hyperparathyroidism",
+    "Prolactinoma",
+    "Insulinoma"
+   ],
+   "ans": 0,
+   "exp": "Rule out pheochromocytoma (managed FIRST, then MTC); hyperparathyroidism managed together. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-104",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 99,
+   "q": "Tyrosine kinase inhibitors for advanced MTC are:",
+   "opts": [
+    "Vandetinib, carbozantinib",
+    "Sorafenib, lenvatinib",
+    "Dabrafenib",
+    "Imatinib"
+   ],
+   "ans": 0,
+   "exp": "Advanced: tumor debulking, radiotherapy, TKI vandetinib, carbozantinib. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-105",
+   "sec": "MTC: Dx, Spread & Mx",
+   "page": 99,
+   "q": "Follow-up markers of MTC are:",
+   "opts": [
+    "Calcitonin & CEA",
+    "Thyroglobulin",
+    "TSH",
+    "CA-125"
+   ],
+   "ans": 0,
+   "exp": "Follow up: calcitonin & CEA. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-106",
+   "sec": "Summary of Thyroid Cancers",
+   "page": 99,
+   "q": "Match the genetics: follicular thyroid carcinoma shows:",
+   "opts": [
+    "K-RAS, PI3K",
+    "BRAF, RET-PTC",
+    "RET, MEN II",
+    "P53"
+   ],
+   "ans": 0,
+   "exp": "Follicular: K-RAS, PI3K (papillary BRAF/RET-PTC; medullary RET/MEN II; anaplastic P53). (Book p99)"
+  },
+  {
+   "id": "SURG-C15-107",
+   "sec": "Summary of Thyroid Cancers",
+   "page": 99,
+   "q": "The metastasis pattern of medullary and anaplastic cancers is:",
+   "opts": [
+    "Both (lymphatic + haematogenous)",
+    "Lymphatic only",
+    "Haematogenous only",
+    "No spread"
+   ],
+   "ans": 0,
+   "exp": "Papillary lymphatic; follicular haematogenous (bony mets); medullary & anaplastic BOTH. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-108",
+   "sec": "Summary of Thyroid Cancers",
+   "page": 99,
+   "q": "The origin of anaplastic carcinoma is:",
+   "opts": [
+    "Follicular cells",
+    "Parafollicular cells",
+    "C cells",
+    "Lymphocytes"
+   ],
+   "ans": 0,
+   "exp": "Anaplastic origin: follicular cells (medullary: parafollicular cells). (Book p99)"
+  },
+  {
+   "id": "SURG-C15-109",
+   "sec": "Summary of Thyroid Cancers",
+   "page": 99,
+   "q": "Risk factors for papillary cancer include radiation, thyroglossal cyst and:",
+   "opts": [
+    "Hashimoto's thyroiditis",
+    "MNG",
+    "Iodine deficiency",
+    "MEN2"
+   ],
+   "ans": 0,
+   "exp": "Papillary risk: radiation, thyroglossal cyst, Hashimoto's thyroiditis; follicular: iodine deficiency, MNG. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-110",
+   "sec": "Summary of Thyroid Cancers",
+   "page": 99,
+   "q": "On H&E, medullary carcinoma shows:",
+   "opts": [
+    "Amyloid",
+    "Orphan Annie eye & psammoma",
+    "Follicles",
+    "Nothing specific"
+   ],
+   "ans": 0,
+   "exp": "H&E: papillary - Orphan Annie eye, psammoma; follicular - follicles; medullary - amyloid. (Book p99)"
+  },
+  {
+   "id": "SURG-C15-111",
+   "sec": "MEN 1 Syndrome",
+   "page": 100,
+   "q": "MEN 1 (Wermer syndrome) is due to mutation of:",
+   "opts": [
+    "Menin gene on Ch 11",
+    "RET on Ch 10",
+    "CDKN1B on Ch 12",
+    "PTEN on Ch 10"
+   ],
+   "ans": 0,
+   "exp": "MEN1 (Wermer): menin gene on Ch 11. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-112",
+   "sec": "MEN 1 Syndrome",
+   "page": 100,
+   "q": "The most common pituitary adenoma in MEN1 is:",
+   "opts": [
+    "Prolactinoma",
+    "Somatotroph adenoma",
+    "Corticotroph adenoma",
+    "Non-functional"
+   ],
+   "ans": 0,
+   "exp": "3 Ps: pituitary adenomas (prolactinoma m/c). (Book p100)"
+  },
+  {
+   "id": "SURG-C15-113",
+   "sec": "MEN 1 Syndrome",
+   "page": 100,
+   "q": "The most common abnormality in MEN1 (95% cases) is:",
+   "opts": [
+    "Parathyroid adenoma >> hyperplasia",
+    "Parathyroid hyperplasia >> adenoma",
+    "Parathyroid carcinoma",
+    "Normal parathyroid"
+   ],
+   "ans": 0,
+   "exp": "Parathyroid abnormalities (m/c: 95% cases): adenoma >> hyperplasia. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-114",
+   "sec": "MEN 1 Syndrome",
+   "page": 100,
+   "q": "The most common pancreatic endocrine tumor overall vs in MEN1 are respectively:",
+   "opts": [
+    "Insulinoma; gastrinoma",
+    "Gastrinoma; insulinoma",
+    "PPoma; insulinoma",
+    "VIPoma; gastrinoma"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic: m/c overall insulinoma; in MEN1 gastrinoma; non-functional PPoma. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-115",
+   "sec": "MEN 1 Syndrome",
+   "page": 100,
+   "q": "The non-functional pancreatic tumor seen in MEN1 is:",
+   "opts": [
+    "PPoma",
+    "Insulinoma",
+    "Gastrinoma",
+    "VIPoma"
+   ],
+   "ans": 0,
+   "exp": "Non functional pancreatic tumor: PPoma. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-116",
+   "sec": "MEN 1 Syndrome",
+   "page": 100,
+   "q": "Other tumors seen in MEN1 include:",
+   "opts": [
+    "Collagenomas, adrenocortical & thymic tumors",
+    "Pheochromocytoma",
+    "Mucosal neuromas",
+    "Renal tumors"
+   ],
+   "ans": 0,
+   "exp": "Also collagenomas, adrenocortical tumors, thymic tumors. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-117",
+   "sec": "MEN 2 Syndrome",
+   "page": 100,
+   "q": "MEN 2 syndrome is due to:",
+   "opts": [
+    "RET proto-oncogene on Ch 10",
+    "Menin on Ch 11",
+    "CDKN1B on Ch 12",
+    "WRN on Ch 8"
+   ],
+   "ans": 0,
+   "exp": "RET proto-oncogene on Ch 10. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-118",
+   "sec": "MEN 2 Syndrome",
+   "page": 100,
+   "q": "The MEN2 type with MTC only carries exon mutation:",
+   "opts": [
+    "618",
+    "634",
+    "918",
+    "768"
+   ],
+   "ans": 0,
+   "exp": "Types: MTC only (exon 618), MEN 2A, MEN 2B. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-119",
+   "sec": "MEN 2 Syndrome",
+   "page": 100,
+   "q": "MEN 2A (Sipple syndrome) features include all EXCEPT:",
+   "opts": [
+    "Mucosal neuromas",
+    "MTC (m/c)",
+    "Parathyroid abnormalities (adenoma > hyperplasia)",
+    "Pheochromocytoma"
+   ],
+   "ans": 0,
+   "exp": "2A: MTC m/c, parathyroid (adenoma > hyperplasia), pheochromocytoma, megacolon/Hirschsprung (2A > 2B); exon 634. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-120",
+   "sec": "MEN 2 Syndrome",
+   "page": 100,
+   "q": "The '5 Ms' (MTC m/c most aggressive, marfanoid, mucosal neuromas, medullated corneal fibres, megacolon) describe:",
+   "opts": [
+    "MEN 2B (MEN3 syndrome), exon 918",
+    "MEN 2A, exon 634",
+    "MEN 1",
+    "MEN 4"
+   ],
+   "ans": 0,
+   "exp": "MEN 2B (MEN3): 5 Ms; exon 918; medullated corneal fibres cause visual problems. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-121",
+   "sec": "MEN 2 Syndrome",
+   "page": 100,
+   "q": "Megacolon/Hirschsprung disease is more common in:",
+   "opts": [
+    "MEN 2A > 2B",
+    "MEN 2B > 2A",
+    "MEN 1",
+    "Equal in both"
+   ],
+   "ans": 0,
+   "exp": "Megacolon/Hirschsprung disease: MEN 2A > 2B. (Book p100)"
+  },
+  {
+   "id": "SURG-C15-122",
+   "sec": "RET Testing & MEN 4",
+   "page": 101,
+   "q": "Who should undergo RET testing?",
+   "opts": [
+    "1st degree relatives of MTC/MEN2 patients",
+    "All thyroid patients",
+    "Only symptomatic patients",
+    "Only MEN1 families"
+   ],
+   "ans": 0,
+   "exp": "1st degree relatives should undergo RET testing. (Book p101)"
+  },
+  {
+   "id": "SURG-C15-123",
+   "sec": "RET Testing & MEN 4",
+   "page": 101,
+   "q": "Low risk RET mutations (exons 768, 790) need prophylactic thyroidectomy:",
+   "opts": [
+    "Upto 20 years",
+    "Upto 5-6 years",
+    "Before 1 year",
+    "At birth"
+   ],
+   "ans": 0,
+   "exp": "Low: 768, 790 → upto 20 years. (Book p101)"
+  },
+  {
+   "id": "SURG-C15-124",
+   "sec": "RET Testing & MEN 4",
+   "page": 101,
+   "q": "Medium risk RET mutations (exons 618, 634) need prophylactic thyroidectomy:",
+   "opts": [
+    "Upto 5-6 years",
+    "Upto 20 years",
+    "Before 1 year",
+    "After 30 years"
+   ],
+   "ans": 0,
+   "exp": "Medium: 618, 634 → upto 5-6 years. (Book p101)"
+  },
+  {
+   "id": "SURG-C15-125",
+   "sec": "RET Testing & MEN 4",
+   "page": 101,
+   "q": "High risk RET mutation (exon 918) needs prophylactic thyroidectomy:",
+   "opts": [
+    "Before 1 year",
+    "Upto 5-6 years",
+    "Upto 20 years",
+    "Only if symptomatic"
+   ],
+   "ans": 0,
+   "exp": "High: 918 → before 1 year. (Book p101)"
+  },
+  {
+   "id": "SURG-C15-126",
+   "sec": "RET Testing & MEN 4",
+   "page": 101,
+   "q": "If tumor is +ve, the pentagastrin stimulation test shows:",
+   "opts": [
+    "↑↑ calcitonin",
+    "↓ calcitonin",
+    "↑ TSH",
+    "↑ thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "If tumor +ve → pentagastrin stimulation test → ↑↑ calcitonin. (Book p101)"
+  },
+  {
+   "id": "SURG-C15-127",
+   "sec": "RET Testing & MEN 4",
+   "page": 101,
+   "q": "MEN 4 syndrome is due to:",
+   "opts": [
+    "CDKN1B gene on Ch 12",
+    "RET on Ch 10",
+    "Menin on Ch 11",
+    "PTEN on Ch 10"
+   ],
+   "ans": 0,
+   "exp": "MEN4: CDKN1B gene on Ch 12. (Book p101)"
+  },
+  {
+   "id": "SURG-C15-128",
+   "sec": "RET Testing & MEN 4",
+   "page": 101,
+   "q": "Features of MEN4 include pituitary, parathyroid adenomas plus:",
+   "opts": [
+    "Renal, adrenocortical & reproductive organ tumors",
+    "Pheochromocytoma & MTC",
+    "Mucosal neuromas",
+    "Pancreatic tumors only"
+   ],
+   "ans": 0,
+   "exp": "MEN4: pituitary adenomas, parathyroid adenomas, renal tumors, adrenocortical tumors, reproductive organ tumors. (Book p101)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U15-1",
+   "ch": 15,
+   "n": 1,
+   "title": "Thyroid Cancers: IOC & Syndromes",
+   "sec": "Thyroid Cancers: IOC & Syndromes · p90",
+   "qs": [
+    "SURG-C15-001",
+    "SURG-C15-002",
+    "SURG-C15-003",
+    "SURG-C15-004",
+    "SURG-C15-005",
+    "SURG-C15-006",
+    "SURG-C15-007"
+   ],
+   "guide": "IOC for thyroid cancers is FNAC. Syndrome links: medullary → MEN2/RET; follicular → Cowden (PTEN Ch10, ↑ breast & thyroid cancer, benign GI polyps) & Werner (WRN); papillary → FAP (AP Ch5, ≥100 polyps, 100% colorectal risk), Cowden, Carney/Batman's, PRKAR1A."
+  },
+  {
+   "id": "SURG-U15-2",
+   "ch": 15,
+   "n": 2,
+   "title": "TNM Staging",
+   "sec": "TNM Staging · p90",
+   "qs": [
+    "SURG-C15-008",
+    "SURG-C15-009",
+    "SURG-C15-010",
+    "SURG-C15-011",
+    "SURG-C15-012",
+    "SURG-C15-013",
+    "SURG-C15-014",
+    "SURG-C15-015"
+   ],
+   "guide": "T1 ≤2cm (1a ≤1cm, 1b >1-≤2cm); T2 >2-≤4cm; T3a >4cm limited to thyroid; T3b any size invading ONLY strap muscles (recent update); T4 gross extension into major neck structures. N1 regional nodes; M1 distant mets."
+  },
+  {
+   "id": "SURG-U15-3",
+   "ch": 15,
+   "n": 3,
+   "title": "DTC & Updates",
+   "sec": "DTC & Updates · p91",
+   "qs": [
+    "SURG-C15-016",
+    "SURG-C15-017",
+    "SURG-C15-018"
+   ],
+   "guide": "DTC = papillary + follicular + Hurthle cell: arise from epithelial cells and take up iodine. New rule: age cutoff 55 - younger good prognosis, older bad; anaplastic (previously T4) now staged like DTC."
+  },
+  {
+   "id": "SURG-U15-4",
+   "ch": 15,
+   "n": 4,
+   "title": "PTC: Risk Factors & Genetics",
+   "sec": "PTC: Risk Factors & Genetics · p91",
+   "qs": [
+    "SURG-C15-019",
+    "SURG-C15-020",
+    "SURG-C15-021",
+    "SURG-C15-022",
+    "SURG-C15-023",
+    "SURG-C15-024",
+    "SURG-C15-025"
+   ],
+   "guide": "PTC = m/c thyroid cancer with best prognosis. Risks: radiation (fallout, head-neck RT, RAI at young age - more aggressive tumors), family history, obesity. Genetics BRAF (m/c), GDNF, RET/PTC. F:M 3:1, 3rd-5th decade."
+  },
+  {
+   "id": "SURG-U15-5",
+   "ch": 15,
+   "n": 5,
+   "title": "PTC: Clinical Features & Spread",
+   "sec": "PTC: Clinical Features & Spread · p91",
+   "qs": [
+    "SURG-C15-026",
+    "SURG-C15-027",
+    "SURG-C15-028",
+    "SURG-C15-029",
+    "SURG-C15-030"
+   ],
+   "guide": "Presents as thyroid swelling, B/L multicentric → total thyroidectomy. Lymphatic first to level 6 (central/delphian), haematogenous to lungs. Lateral aberrant thyroid = level 6 LN mets with non-palpable gland; incidentaloma <1cm."
+  },
+  {
+   "id": "SURG-U15-6",
+   "ch": 15,
+   "n": 6,
+   "title": "PTC: Diagnosis & Histology",
+   "sec": "PTC: Diagnosis & Histology · p92",
+   "qs": [
+    "SURG-C15-031",
+    "SURG-C15-032",
+    "SURG-C15-033",
+    "SURG-C15-034",
+    "SURG-C15-035"
+   ],
+   "guide": "FNAC is IOC. Histology: Orphan Annie eyed/coffee bean nuclei, pseudo intranuclear inclusions, psammoma bodies (dystrophic calcification - also in serous cystadenoma ovary, papillary RCC, meningioma)."
+  },
+  {
+   "id": "SURG-U15-7",
+   "ch": 15,
+   "n": 7,
+   "title": "PTC: Surgical Options",
+   "sec": "PTC: Surgical Options · p93",
+   "qs": [
+    "SURG-C15-036",
+    "SURG-C15-037",
+    "SURG-C15-038",
+    "SURG-C15-039"
+   ],
+   "guide": "Hemithyroidectomy when ALL: low risk, U/L, 1-4 cm, no extrathyroidal spread. Minimum total for radiation-induced, familial non-medullary, multifocal B/L, extrathyroid extension. Add CND for T3/T4 or level 6 (+); add MRND when level 6 + other neck nodes."
+  },
+  {
+   "id": "SURG-U15-8",
+   "ch": 15,
+   "n": 8,
+   "title": "Whole Body Iodine Scan & RIA",
+   "sec": "Whole Body Iodine Scan & RIA · p93",
+   "qs": [
+    "SURG-C15-040",
+    "SURG-C15-041",
+    "SURG-C15-042",
+    "SURG-C15-043",
+    "SURG-C15-044",
+    "SURG-C15-045",
+    "SURG-C15-046",
+    "SURG-C15-047",
+    "SURG-C15-048",
+    "SURG-C15-049"
+   ],
+   "guide": "Post-Sx scan needs TSH >30 (withdraw thyroxine 4-6 wks - patient hypothyroid - or recombinant TSH). (+) scan → RIA with I131 (β rays, t½ 7-8 d) for residual/mets/+ve nodes/high Tg; (-) → thyroxine TSH suppression + life-long 6-monthly USG & thyroglobulin (unreliable if anti-Tg Ab +)."
+  },
+  {
+   "id": "SURG-U15-9",
+   "ch": 15,
+   "n": 9,
+   "title": "Radioiodine Resistant DTC & Lindsey Tumor",
+   "sec": "Radioiodine Resistant DTC & Lindsey Tumor · p94",
+   "qs": [
+    "SURG-C15-050",
+    "SURG-C15-051",
+    "SURG-C15-052"
+   ],
+   "guide": "RAI-resistant DTC: sorafenib/lenvatinib, EBRT, doxorubicin. Lindsey tumor = follicular variety of papillary, prognosis like PTC."
+  },
+  {
+   "id": "SURG-U15-10",
+   "ch": 15,
+   "n": 10,
+   "title": "FTC: Basics, Features & Spread",
+   "sec": "FTC: Basics, Features & Spread · p94",
+   "qs": [
+    "SURG-C15-053",
+    "SURG-C15-054",
+    "SURG-C15-055",
+    "SURG-C15-056",
+    "SURG-C15-057",
+    "SURG-C15-058"
+   ],
+   "guide": "2nd m/c; m/c in iodine deficiency; risk long-standing MNG; females > males. miRNA 197/346, PTEN & BAX. Rapid neck swelling, pressure symptoms; pulsatile vascular osteolytic bony mets; lymphatic to level 6."
+  },
+  {
+   "id": "SURG-U15-11",
+   "ch": 15,
+   "n": 11,
+   "title": "FTC: Dx, Mx & Hurthle Cell Carcinoma",
+   "sec": "FTC: Dx, Mx & Hurthle Cell Carcinoma · p95",
+   "qs": [
+    "SURG-C15-059",
+    "SURG-C15-060",
+    "SURG-C15-061",
+    "SURG-C15-062",
+    "SURG-C15-063",
+    "SURG-C15-064",
+    "SURG-C15-065"
+   ],
+   "guide": "FNAC gives follicular neoplasm (Thy 3) but can't split adenoma vs carcinoma - hemithyroidectomy + frozen section decides. Prognosis slightly poorer than PTC. Hurthle cell: 6th-7th decade, mitochondria-rich oxyphilic cells, less RAI-avid, more aggressive, poorer than FTC; Hurthle cells also in Hashimoto's & thyroid lymphoma."
+  },
+  {
+   "id": "SURG-U15-12",
+   "ch": 15,
+   "n": 12,
+   "title": "Prognostic Scores (AGES/AMES/MACIS)",
+   "sec": "Prognostic Scores (AGES/AMES/MACIS) · p96",
+   "qs": [
+    "SURG-C15-066",
+    "SURG-C15-067",
+    "SURG-C15-068"
+   ],
+   "guide": "Well-differentiated TC scores: AGES = age, grade, extrathyroidal invasion, size; AMES = age, metastases, extrathyroidal spread, size; MACIS = metastases, age, completeness of original resection (post-op criteria), invasion, size."
+  },
+  {
+   "id": "SURG-U15-13",
+   "ch": 15,
+   "n": 13,
+   "title": "Anaplastic Carcinoma",
+   "sec": "Anaplastic Carcinoma · p96",
+   "qs": [
+    "SURG-C15-069",
+    "SURG-C15-070",
+    "SURG-C15-071",
+    "SURG-C15-072",
+    "SURG-C15-073",
+    "SURG-C15-074",
+    "SURG-C15-075",
+    "SURG-C15-076",
+    "SURG-C15-077",
+    "SURG-C15-078",
+    "SURG-C15-079"
+   ],
+   "guide": "Least common, worst prognosis; 5th-7th decade; miRNA 17-92, p53 & B-catenin. Rapid hard neck swelling on MNG background, pressure symptoms; D/D Riedel thyroiditis; spreads to lungs; FNAC inconclusive → core biopsy. Localised: total + CND + MRND; advanced: debulking, isthmusectomy for tracheal pressure, dabrafenib, chemo."
+  },
+  {
+   "id": "SURG-U15-14",
+   "ch": 15,
+   "n": 14,
+   "title": "Thyroid Lymphoma",
+   "sec": "Thyroid Lymphoma · p97",
+   "qs": [
+    "SURG-C15-080",
+    "SURG-C15-081",
+    "SURG-C15-082",
+    "SURG-C15-083",
+    "SURG-C15-084",
+    "SURG-C15-085",
+    "SURG-C15-086",
+    "SURG-C15-087"
+   ],
+   "guide": "Rare, 5th-7th decade, on long-standing Hashimoto's. DLBCL m/c; thyroid swelling + B symptoms (weight loss, fever, night sweats, itching). Core/trucut biopsy (FNAC can't characterize). Chemo R-CHOP 1st line (rituximab anti-CD20, cyclophosphamide, hydroxydaunorubicin, oncovin/vincristine, prednisolone); surgery only for residual/recurrent."
+  },
+  {
+   "id": "SURG-U15-15",
+   "ch": 15,
+   "n": 15,
+   "title": "MTC: Origin, Secretions & Types",
+   "sec": "MTC: Origin, Secretions & Types · p98",
+   "qs": [
+    "SURG-C15-088",
+    "SURG-C15-089",
+    "SURG-C15-090",
+    "SURG-C15-091",
+    "SURG-C15-092",
+    "SURG-C15-093",
+    "SURG-C15-094",
+    "SURG-C15-095",
+    "SURG-C15-096"
+   ],
+   "guide": "From parafollicular/C cells (neural crest → ultimobranchial bodies). Secretes calcitonin, CEA (dedifferentiation marker), chromogranin A. Sporadic m/c (4th-6th decade); familial = MEN2 (2B most aggressive, multifocal). Atypical symptoms: diarrhoea (serotonin), Cushing (ACTH), flushing (histamine)."
+  },
+  {
+   "id": "SURG-U15-16",
+   "ch": 15,
+   "n": 16,
+   "title": "MTC: Dx, Spread & Mx",
+   "sec": "MTC: Dx, Spread & Mx · p98",
+   "qs": [
+    "SURG-C15-097",
+    "SURG-C15-098",
+    "SURG-C15-099",
+    "SURG-C15-100",
+    "SURG-C15-101",
+    "SURG-C15-102",
+    "SURG-C15-103",
+    "SURG-C15-104",
+    "SURG-C15-105"
+   ],
+   "guide": "FNAC + amyloid-rich stroma; lymphatic level 6, haematogenous liver. Sx 1st line: total + CND (add MRND as nodal spread widens). No RIA role. Rule out pheochromocytoma FIRST & treat hyperparathyroidism together. Advanced: debulking, RT, vandetinib/carbozantinib; follow-up calcitonin + CEA."
+  },
+  {
+   "id": "SURG-U15-17",
+   "ch": 15,
+   "n": 17,
+   "title": "Summary of Thyroid Cancers",
+   "sec": "Summary of Thyroid Cancers · p99",
+   "qs": [
+    "SURG-C15-106",
+    "SURG-C15-107",
+    "SURG-C15-108",
+    "SURG-C15-109",
+    "SURG-C15-110"
+   ],
+   "guide": "Papillary: m/c, best, BRAF/RET-PTC, lymphatic, Orphan Annie + psammoma. Follicular: iodine deficiency/MNG, K-RAS/PI3K, bony mets, follicles. Medullary: parafollicular, RET/MEN2, both routes, amyloid. Anaplastic: L/C, worst, P53, both routes."
+  },
+  {
+   "id": "SURG-U15-18",
+   "ch": 15,
+   "n": 18,
+   "title": "MEN 1 Syndrome",
+   "sec": "MEN 1 Syndrome · p100",
+   "qs": [
+    "SURG-C15-111",
+    "SURG-C15-112",
+    "SURG-C15-113",
+    "SURG-C15-114",
+    "SURG-C15-115",
+    "SURG-C15-116"
+   ],
+   "guide": "Wermer syndrome, menin on Ch 11. 3 Ps: pituitary (prolactinoma m/c), parathyroid (95%, adenoma >> hyperplasia), pancreatic (overall insulinoma, in MEN1 gastrinoma, non-functional PPoma); plus collagenomas, adrenocortical & thymic tumors."
+  },
+  {
+   "id": "SURG-U15-19",
+   "ch": 15,
+   "n": 19,
+   "title": "MEN 2 Syndrome",
+   "sec": "MEN 2 Syndrome · p100",
+   "qs": [
+    "SURG-C15-117",
+    "SURG-C15-118",
+    "SURG-C15-119",
+    "SURG-C15-120",
+    "SURG-C15-121"
+   ],
+   "guide": "RET on Ch 10. MTC-only exon 618; 2A (Sipple) exon 634: MTC, parathyroid, pheochromocytoma, megacolon/Hirschsprung (2A > 2B); 2B (MEN3) exon 918: 5 Ms - MTC most aggressive, marfanoid, mucosal neuromas, medullated corneal fibres, megacolon."
+  },
+  {
+   "id": "SURG-U15-20",
+   "ch": 15,
+   "n": 20,
+   "title": "RET Testing & MEN 4",
+   "sec": "RET Testing & MEN 4 · p101",
+   "qs": [
+    "SURG-C15-122",
+    "SURG-C15-123",
+    "SURG-C15-124",
+    "SURG-C15-125",
+    "SURG-C15-126",
+    "SURG-C15-127",
+    "SURG-C15-128"
+   ],
+   "guide": "1st-degree relatives get RET testing: low (768/790) prophylactic thyroidectomy upto 20 yrs; medium (618/634) upto 5-6 yrs; high (918) before 1 yr. Tumor +ve → pentagastrin stimulation → ↑↑ calcitonin. MEN4 = CDKN1B on Ch 12: pituitary, parathyroid, renal, adrenocortical, reproductive organ tumors."
+  }
+ ]
+}
