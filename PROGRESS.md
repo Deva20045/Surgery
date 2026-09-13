@@ -81,14 +81,14 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 1. Clone the repo, read this PROGRESS.md — it is the single source of truth.
 2. Source PDFs are already in the repo root (no re-upload needed).
 3. Find the NEXT chapter in the Status table, run the pipeline above.
-4. Commit + push after each chapter.
+4. Commit + push data/work/docs after each chapter (NEVER the .html — local-only rule).
 
 ## Status — ALL 72 chapters (tracked from day one; "Soon" until merged)
 - [x] ch1 Patient Safety, OT Zones and Surgery Positions — p1-5 — **DONE (79 qs, 12 units)** 2026-09-13
 - [x] ch2 Surgical Blades and Energy Sources — p6-9 — **DONE (79 qs, 11 units)** 2026-09-13
-- [ ] ch3 Surgical Drains, Knots and Sutures — p10-17 — Soon
-- [ ] ch4 Post-operative Fever and Wound Infection — p18-24 — Soon
-- [ ] ch5 Day Care Surgery — p25-27 — Soon
+- [x] ch3 Surgical Drains, Knots and Sutures — p10-17 — **DONE (151 qs, 16 units)** 2026-09-13
+- [x] ch4 Post-operative Fever and Wound Infection — p18-24 — **DONE (131 qs, 15 units)** 2026-09-13
+- [x] ch5 Day Care Surgery — p25-27 — **DONE (64 qs, 7 units)** 2026-09-13
 - [ ] ch6 Surgical Nutrition — p28-36 — Soon
 - [ ] ch7 Shock : Part 1 — p37-43 — Soon
 - [ ] ch8 Shock : Part 2 — p44-48 — Soon
@@ -157,9 +157,21 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [ ] ch71 Common Ulcers — p547-549 — Soon
 - [ ] ch72 Surgical Instruments — p550-558 — Soon
 
+## Session rule (set 2026-09-13 — KEEP until user changes it)
+- Work chapter-wise in **batches of 3** (ch3-5, ch6-8, …). After each batch, **pop up the
+  updated `pulse-surgery-complete.html`** to the user for preview/testing.
+- **The `.html` file is LOCAL-ONLY — never `git add` / commit / push it.**
+  Push only `data/`, `work/`, `PROGRESS.md`, `README.md`. (The HTML on GitHub stays
+  frozen at ch1-2 until the user says otherwise; local HTML is the full build.)
+- Merge + integrity still run locally every batch so the preview HTML is always verified.
+- After each batch, also refresh the download copy at workspace root:
+  `cp pulse-surgery-complete.html /home/user/pulse-surgery-complete.html`
+  (mirrors the Ortho session layout — user downloads it from the Workspace panel).
+
 ## Totals / live link
-- Live chapters: 2/72 · Questions: 158 · Units: 23
-- NEXT: ch3 Surgical Drains, Knots and Sutures — p10-17 (v1a pdf 19-26)
+- Local HTML: **5/72 chapters live** · Questions: 504 · Units: 61
+- GitHub HTML: frozen at 2/72 (local-only rule — see above)
+- NEXT: ch6 Surgical Nutrition — p28-36 (v1a pdf 37-45)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/SURGERY/ (needs GitHub Pages enabled once:
   Repo → Settings → Pages → Source "Deploy from a branch" → main / (root) → Save;

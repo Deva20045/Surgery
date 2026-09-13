@@ -1,0 +1,2431 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C3-001",
+   "sec": "Drains",
+   "page": 10,
+   "q": "Open drains are described in the book as:",
+   "opts": [
+    "Obsolete",
+    "First choice for the abdomen",
+    "Always kept under negative pressure",
+    "Connected to a collection bag"
+   ],
+   "ans": 0,
+   "exp": "Open: Obsolete. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-002",
+   "sec": "Drains",
+   "page": 10,
+   "q": "In the open-drain diagram, discharge from the abscess cavity ends up in a:",
+   "opts": [
+    "Closed bag",
+    "Soak dressing",
+    "Underwater seal",
+    "Suction bulb"
+   ],
+   "ans": 1,
+   "exp": "The open-drain diagram shows the drain leading from the abscess cavity to a soak dressing. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-003",
+   "sec": "Drains",
+   "page": 10,
+   "q": "Closed drains:",
+   "opts": [
+    "Drain onto a soak dressing",
+    "Empty into a container/bag",
+    "Are obsolete",
+    "Need no collection system"
+   ],
+   "ans": 1,
+   "exp": "Closed: Empty into a container/bag. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-004",
+   "sec": "Drains",
+   "page": 10,
+   "q": "The Romovac suction drain is a:",
+   "opts": [
+    "Open drain",
+    "Closed drain with -ve pressure",
+    "Closed drain with no pressure",
+    "Underwater seal drain"
+   ],
+   "ans": 1,
+   "exp": "Romovac suction drain: Closed drain with -ve pressure. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-005",
+   "sec": "Drains",
+   "page": 10,
+   "q": "A Romovac drain is used after all of the following EXCEPT:",
+   "opts": [
+    "Mastectomy",
+    "Thyroidectomy",
+    "Neck dissection",
+    "Laparotomy"
+   ],
+   "ans": 3,
+   "exp": "Romovac used after mastectomy, thyroidectomy, neck dissection. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-006",
+   "sec": "Drains",
+   "page": 10,
+   "q": "Which operation is a listed indication for a Romovac suction drain?",
+   "opts": [
+    "Mastectomy",
+    "Inguinal hernia repair",
+    "Appendectomy",
+    "Haemorrhoidectomy"
+   ],
+   "ans": 0,
+   "exp": "Romovac used after mastectomy, thyroidectomy, neck dissection. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-007",
+   "sec": "Drains",
+   "page": 10,
+   "q": "A Romovac drain is avoided in the abdomen because it is a rounded drain with a risk of:",
+   "opts": [
+    "Perforation",
+    "Excessive suction",
+    "Tube kinking",
+    "Bag overflow"
+   ],
+   "ans": 0,
+   "exp": "Avoided in abdomen d/t rounded drain risk of perforation. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-008",
+   "sec": "Drains",
+   "page": 10,
+   "q": "The Romovac assembly diagram labels all of the following EXCEPT:",
+   "opts": [
+    "Connected to bag",
+    "Bag",
+    "Inserted to body",
+    "Underwater seal"
+   ],
+   "ans": 3,
+   "exp": "The Romovac diagram labels Connected to bag, Bag and Inserted to body. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-009",
+   "sec": "Drains",
+   "page": 10,
+   "q": "The minivac drain is used after:",
+   "opts": [
+    "Sentinel LN biopsy",
+    "Mastectomy",
+    "Thyroidectomy",
+    "Laparotomy"
+   ],
+   "ans": 0,
+   "exp": "Minivac drain: used after sentinel LN biopsy. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-010",
+   "sec": "Drains: JP & Abdominal",
+   "page": 10,
+   "q": "The Jackson Pratt drain is a:",
+   "opts": [
+    "Open drain",
+    "-ve pressure drain",
+    "Passive bag drain",
+    "Underwater seal drain"
+   ],
+   "ans": 1,
+   "exp": "Jackson Pratt drain: -ve pressure drain. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-011",
+   "sec": "Drains: JP & Abdominal",
+   "page": 10,
+   "q": "The Jackson Pratt drain can be used in the abdomen because it has:",
+   "opts": [
+    "Rounded tubes",
+    "Flat tubes",
+    "No tubes",
+    "Rigid metal tubes"
+   ],
+   "ans": 1,
+   "exp": "Jackson Pratt: Flat tubes -> Can be used in abdomen. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-012",
+   "sec": "Drains: JP & Abdominal",
+   "page": 10,
+   "q": "In the Jackson Pratt diagram, the squeezable reservoir is labelled as the:",
+   "opts": [
+    "Bag",
+    "Bulb",
+    "Bellows",
+    "Bottle"
+   ],
+   "ans": 1,
+   "exp": "The Jackson Pratt diagram labels the reservoir Bulb and the tube Flat. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-013",
+   "sec": "Drains: JP & Abdominal",
+   "page": 10,
+   "q": "In the Jackson Pratt diagram, the drainage tube is labelled as:",
+   "opts": [
+    "Round",
+    "Flat",
+    "Ribbed",
+    "Fenestrated"
+   ],
+   "ans": 1,
+   "exp": "The Jackson Pratt diagram labels the reservoir Bulb and the tube Flat. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-014",
+   "sec": "Drains: JP & Abdominal",
+   "page": 10,
+   "q": "The abdominal drain is a:",
+   "opts": [
+    "Closed drain, no -ve pressure",
+    "Closed drain with -ve pressure",
+    "Open drain",
+    "Underwater seal drain"
+   ],
+   "ans": 0,
+   "exp": "Abdominal drain: Closed drain, no -ve pressure. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-015",
+   "sec": "Drains: JP & Abdominal",
+   "page": 10,
+   "q": "A rounded suction drain that is avoided in the abdomen is the:",
+   "opts": [
+    "Jackson Pratt drain",
+    "Romovac drain",
+    "Abdominal drain",
+    "Minivac drain"
+   ],
+   "ans": 1,
+   "exp": "Romovac: avoided in abdomen d/t rounded drain risk of perforation. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-016",
+   "sec": "Drains: JP & Abdominal",
+   "page": 10,
+   "q": "A suction drain with flat tubes that can be used in the abdomen is the:",
+   "opts": [
+    "Romovac drain",
+    "Minivac drain",
+    "Jackson Pratt drain",
+    "Open corrugated drain"
+   ],
+   "ans": 2,
+   "exp": "Jackson Pratt: Flat tubes -> Can be used in abdomen. (Book p10)"
+  },
+  {
+   "id": "SURG-C3-017",
+   "sec": "Underwater Seal",
+   "page": 11,
+   "q": "In the underwater seal bag, the tube is kept submerged underwater:",
+   "opts": [
+    "To measure output",
+    "To prevent air being sucked in",
+    "To warm the fluid",
+    "To create positive pressure"
+   ],
+   "ans": 1,
+   "exp": "Underwater seal bag: Tube submerged underwater (To prevent air being sucked in). (Book p11)"
+  },
+  {
+   "id": "SURG-C3-018",
+   "sec": "Underwater Seal",
+   "page": 11,
+   "q": "The underwater seal bag is connected to a:",
+   "opts": [
+    "Chest tube",
+    "Urinary catheter",
+    "Ryle's tube",
+    "Central line"
+   ],
+   "ans": 0,
+   "exp": "Underwater seal bag: Connected to chest tube. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-019",
+   "sec": "Knots",
+   "page": 11,
+   "q": "The most basic knot is the:",
+   "opts": [
+    "Surgeon's knot",
+    "Square/Reef knot",
+    "Granny knot",
+    "Aberdeen's knot"
+   ],
+   "ans": 1,
+   "exp": "Square/Reef knot: most basic knot. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-020",
+   "sec": "Knots",
+   "page": 11,
+   "q": "A square/reef knot is tied as:",
+   "opts": [
+    "One square throw followed by another square throw",
+    "Two throws followed by a single throw",
+    "Three identical throws",
+    "A single throw pulled tight"
+   ],
+   "ans": 0,
+   "exp": "Square knot: One square throw Followed by Another square throw. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-021",
+   "sec": "Knots",
+   "page": 11,
+   "q": "When the crossings are the same (black over pink), the result is a:",
+   "opts": [
+    "Granny/slip knot",
+    "Surgeon's knot",
+    "Reef or square knot",
+    "Aberdeen's knot"
+   ],
+   "ans": 2,
+   "exp": "Crossings are same (Black over pink): Reef or square knot. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-022",
+   "sec": "Knots",
+   "page": 11,
+   "q": "When the crossings are opposite (black/pink), the result is a:",
+   "opts": [
+    "Reef knot",
+    "Square knot",
+    "Surgeon's knot",
+    "Granny/slip knot"
+   ],
+   "ans": 3,
+   "exp": "Crossings are opposite (Black/pink): Granny/slip knot. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-023",
+   "sec": "Knots",
+   "page": 11,
+   "q": "The problem with a granny/slip knot is that its throws:",
+   "opts": [
+    "Cut through tissue",
+    "Don't cross and open up",
+    "Are too bulky",
+    "Need cutting to untie"
+   ],
+   "ans": 1,
+   "exp": "Granny/slip knot: Don't cross, Open up. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-024",
+   "sec": "Knots",
+   "page": 11,
+   "q": "A slip knot is another name for a:",
+   "opts": [
+    "Square knot",
+    "Reef knot",
+    "Granny knot",
+    "Surgeon's knot"
+   ],
+   "ans": 2,
+   "exp": "Crossings opposite: Granny/slip knot - Don't cross, Open up. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-025",
+   "sec": "Knots",
+   "page": 11,
+   "q": "The surgeon's knot is tied as:",
+   "opts": [
+    "One throw followed by one throw",
+    "2 throws followed by single throw",
+    "Single throw followed by 2 throws",
+    "Three single throws"
+   ],
+   "ans": 1,
+   "exp": "Surgeon's knot: 2 throws Followed by Single throw. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-026",
+   "sec": "Knots",
+   "page": 11,
+   "q": "The reef knot is also called the:",
+   "opts": [
+    "Granny knot",
+    "Slip knot",
+    "Square knot",
+    "Surgeon's knot"
+   ],
+   "ans": 2,
+   "exp": "Square/Reef knot: most basic knot - crossings same. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-027",
+   "sec": "Skin Suturing",
+   "page": 11,
+   "q": "Skin suturing requires:",
+   "opts": [
+    "Inverted edges",
+    "Everted edges",
+    "Overlapping edges",
+    "Gaped edges"
+   ],
+   "ans": 1,
+   "exp": "Skin suturing: Everted edges. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-028",
+   "sec": "Skin Suturing",
+   "page": 11,
+   "q": "While suturing skin, the needle enters the skin at:",
+   "opts": [
+    "45 degrees",
+    "90 degrees",
+    "30 degrees",
+    "180 degrees"
+   ],
+   "ans": 1,
+   "exp": "Skin suturing: Enter skin at 90 degrees. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-029",
+   "sec": "Skin Suturing",
+   "page": 11,
+   "q": "As per the principles of suturing, the bite on each side is:",
+   "opts": [
+    "x",
+    "2x",
+    "x/2",
+    "3x"
+   ],
+   "ans": 0,
+   "exp": "Principles of suturing: Bite on each side: x; Distance b/w 2 sutures: 2x. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-030",
+   "sec": "Skin Suturing",
+   "page": 11,
+   "q": "As per the principles of suturing, the distance between 2 sutures is:",
+   "opts": [
+    "x",
+    "2x",
+    "x/2",
+    "4x"
+   ],
+   "ans": 1,
+   "exp": "Principles of suturing: Bite on each side: x; Distance b/w 2 sutures: 2x. (Book p11)"
+  },
+  {
+   "id": "SURG-C3-031",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "The simple suture:",
+   "opts": [
+    "Causes eversion",
+    "Fails to cause eversion",
+    "Gives hemostasis",
+    "Leaves no marks"
+   ],
+   "ans": 1,
+   "exp": "Simple suture: Fail to cause eversion. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-032",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "Mattress sutures:",
+   "opts": [
+    "Fail to cause eversion",
+    "Cause eversion",
+    "Invert the edges",
+    "Cannot achieve hemostasis"
+   ],
+   "ans": 1,
+   "exp": "Mattress suture: Cause eversion; Hemostasis. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-033",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "An advantage of mattress sutures is:",
+   "opts": [
+    "Hemostasis",
+    "No marks",
+    "Single layer closure",
+    "No needle needed"
+   ],
+   "ans": 0,
+   "exp": "Mattress suture: Cause eversion; Hemostasis. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-034",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "The vertical mattress suture passes at:",
+   "opts": [
+    "The same depth on both sides",
+    "Superficial and deep levels",
+    "Subcuticular plane only",
+    "Fascial level only"
+   ],
+   "ans": 1,
+   "exp": "Vertical mattress: passes Superficial and Deep. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-035",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "The horizontal mattress suture passes at:",
+   "opts": [
+    "Superficial and deep levels",
+    "The same depth on both sides",
+    "Fascial level only",
+    "Subcuticular plane only"
+   ],
+   "ans": 1,
+   "exp": "Horizontal mattress: Same depth. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-036",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "The suture with the least cut through rate is the:",
+   "opts": [
+    "Simple suture",
+    "Vertical mattress",
+    "Horizontal mattress",
+    "Subcuticular suture"
+   ],
+   "ans": 2,
+   "exp": "Horizontal mattress: Least cut through rate. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-037",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "Subcuticular sutures are preferred because they are:",
+   "opts": [
+    "Strongest",
+    "Cosmetically better (No marks)",
+    "Fastest to apply",
+    "Usable on fascia"
+   ],
+   "ans": 1,
+   "exp": "Subcuticular sutures: Cosmetically better (No marks). (Book p12)"
+  },
+  {
+   "id": "SURG-C3-038",
+   "sec": "Suture Types",
+   "page": 12,
+   "q": "The suture material for subcuticular closure is:",
+   "opts": [
+    "3-0 monocryl on a cutting needle",
+    "1-0 silk on a round body needle",
+    "2-0 prolene on a cutting needle",
+    "5-0 vicryl on a round body needle"
+   ],
+   "ans": 0,
+   "exp": "Subcuticular suture material: 3-0 monocryl on a cutting needle. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-039",
+   "sec": "Other Sutures",
+   "page": 12,
+   "q": "The knot used for closure of a continuous suture is:",
+   "opts": [
+    "Square knot",
+    "Surgeon's knot",
+    "Aberdeen's/Cobbler's knot",
+    "Granny knot"
+   ],
+   "ans": 2,
+   "exp": "Aberdeen's/Cobbler's knot for closure (of continuous suture). (Book p12)"
+  },
+  {
+   "id": "SURG-C3-040",
+   "sec": "Other Sutures",
+   "page": 12,
+   "q": "The book's 'Other sutures' panel includes all of the following EXCEPT:",
+   "opts": [
+    "Continuous suture",
+    "Interrupted suture",
+    "Buried mattress suture",
+    "Horizontal mattress suture"
+   ],
+   "ans": 3,
+   "exp": "Other sutures: Continuous, Interrupted, Buried mattress, Lock and Purse string sutures. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-041",
+   "sec": "Other Sutures",
+   "page": 12,
+   "q": "The lock suture is a:",
+   "opts": [
+    "Interrupted suture",
+    "Continuous suture with locking",
+    "Subcuticular suture",
+    "Purse string suture"
+   ],
+   "ans": 1,
+   "exp": "Lock suture: Continuous suture with locking. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-042",
+   "sec": "Other Sutures",
+   "page": 12,
+   "q": "The lock suture gives:",
+   "opts": [
+    "Distribution of tension",
+    "Eversion only",
+    "Inversion of edges",
+    "No marks"
+   ],
+   "ans": 0,
+   "exp": "Lock suture: Distribution of tension. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-043",
+   "sec": "Other Sutures",
+   "page": 12,
+   "q": "The purse string suture is used to:",
+   "opts": [
+    "Close skin",
+    "Bury appendicular stump",
+    "Repair fascia",
+    "Close a fasciotomy wound"
+   ],
+   "ans": 1,
+   "exp": "Purse string Suture uses: Bury appendicular stump; Cervical encerclage. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-044",
+   "sec": "Other Sutures",
+   "page": 12,
+   "q": "Cervical encerclage is a listed use of the:",
+   "opts": [
+    "Lock suture",
+    "Purse string suture",
+    "Vertical mattress",
+    "Far-near-near-far suture"
+   ],
+   "ans": 1,
+   "exp": "Purse string Suture uses: Bury appendicular stump; Cervical encerclage. (Book p12)"
+  },
+  {
+   "id": "SURG-C3-045",
+   "sec": "Special Sutures",
+   "page": 13,
+   "q": "The Far-Near-Near-Far suture is used for:",
+   "opts": [
+    "Skin closure",
+    "Obliteration of a large cavity",
+    "Bowel anastomosis",
+    "Cervical encerclage"
+   ],
+   "ans": 1,
+   "exp": "Far-Near-Near-Far suture uses: Obliteration of a large cavity. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-046",
+   "sec": "Special Sutures",
+   "page": 13,
+   "q": "Obliteration of a large cavity is the listed use of the:",
+   "opts": [
+    "Shoe string technique",
+    "Far-Near-Near-Far suture",
+    "Purse string suture",
+    "Lock suture"
+   ],
+   "ans": 1,
+   "exp": "Far-Near-Near-Far suture uses: Obliteration of a large cavity. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-047",
+   "sec": "Special Sutures",
+   "page": 13,
+   "q": "The shoe string technique is used for:",
+   "opts": [
+    "Fasciotomy wound closure",
+    "Bowel anastomosis",
+    "Skin graft fixation",
+    "Hernia mesh fixation"
+   ],
+   "ans": 0,
+   "exp": "Shoe string technique uses: Fasciotomy wound closure. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-048",
+   "sec": "Special Sutures",
+   "page": 13,
+   "q": "The shoe string technique involves:",
+   "opts": [
+    "Immediate tight closure",
+    "Gradual tightening of suture",
+    "Daily dressing only",
+    "Negative pressure"
+   ],
+   "ans": 1,
+   "exp": "Shoe string technique: Gradual tightening of suture. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-049",
+   "sec": "Special Sutures",
+   "page": 13,
+   "q": "Wound healing in the shoe string technique is by:",
+   "opts": [
+    "Primary intention",
+    "Secondary intention",
+    "3 degree intention / delayed 1 degree closure",
+    "Skin grafting"
+   ],
+   "ans": 2,
+   "exp": "Shoe string technique: Healing by 3 degree intention / delayed 1 degree closure. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-050",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "A round body needle:",
+   "opts": [
+    "Cuts tissue",
+    "Splits tissue",
+    "Burns tissue",
+    "Crushes tissue"
+   ],
+   "ans": 1,
+   "exp": "Round body: Splits tissue; Relatively atraumatic. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-051",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "A round body needle is:",
+   "opts": [
+    "More traumatic",
+    "Relatively atraumatic",
+    "Used for skin",
+    "Used for fascia"
+   ],
+   "ans": 1,
+   "exp": "Round body: Splits tissue; Relatively atraumatic. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-052",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "Round body needles are used for delicate structures (the B's) - all of the following EXCEPT:",
+   "opts": [
+    "Bowel",
+    "Bladder",
+    "Skin",
+    "CBD"
+   ],
+   "ans": 2,
+   "exp": "Round body for delicate structures (B's): Bowel, Bladder, Blood vessels, CBD. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-053",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "The common bile duct (CBD) is repaired with a:",
+   "opts": [
+    "Cutting needle",
+    "Round body needle",
+    "Reverse cutting needle",
+    "Tapered drill"
+   ],
+   "ans": 1,
+   "exp": "Round body for delicate structures: Bowel, Bladder, Blood vessels, CBD. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-054",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "Blood vessel anastomosis uses a:",
+   "opts": [
+    "Cutting needle",
+    "Round body needle",
+    "Reverse cutting needle",
+    "Shoe string suture"
+   ],
+   "ans": 1,
+   "exp": "Round body for delicate structures: Bowel, Bladder, Blood vessels, CBD. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-055",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "A cutting/reverse cutting needle:",
+   "opts": [
+    "Splits tissue",
+    "Cuts tissue",
+    "Coagulates tissue",
+    "Staples tissue"
+   ],
+   "ans": 1,
+   "exp": "Cutting/reverse cutting: Cuts tissue; more traumatic. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-056",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "A cutting needle is:",
+   "opts": [
+    "Relatively atraumatic",
+    "More traumatic",
+    "Used for bowel",
+    "Used for bladder"
+   ],
+   "ans": 1,
+   "exp": "Cutting/reverse cutting: Cuts tissue; more traumatic. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-057",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "Cutting needles are used for tough structures (the S's) - all of the following EXCEPT:",
+   "opts": [
+    "Sheath",
+    "Skin",
+    "Fascia",
+    "Small bowel"
+   ],
+   "ans": 3,
+   "exp": "Cutting for tough structures (S's): Sheath, Skin, Fascia. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-058",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "Skin is closed with a:",
+   "opts": [
+    "Round body needle",
+    "Cutting/reverse cutting needle",
+    "Blunt needle",
+    "No needle - glue only"
+   ],
+   "ans": 1,
+   "exp": "Cutting for tough structures (S's): Sheath, Skin, Fascia. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-059",
+   "sec": "Needles: Types",
+   "page": 13,
+   "q": "Sheath and fascia are sutured with a:",
+   "opts": [
+    "Round body needle",
+    "Cutting/reverse cutting needle",
+    "Blunt needle",
+    "Curved blade"
+   ],
+   "ans": 1,
+   "exp": "Cutting for tough structures (S's): Sheath, Skin, Fascia. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-060",
+   "sec": "Needles: Parts",
+   "page": 13,
+   "q": "The swaged end of a needle is the:",
+   "opts": [
+    "Sharp tip",
+    "End to which suture material is attached",
+    "Middle of the shaft",
+    "Eye of the needle"
+   ],
+   "ans": 1,
+   "exp": "Swaged end: End to which suture material is attached. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-061",
+   "sec": "Needles: Parts",
+   "page": 13,
+   "q": "The swaged end forms what proportion of the needle?",
+   "opts": [
+    "1/3rd",
+    "2/3rd",
+    "1/2",
+    "Entire needle"
+   ],
+   "ans": 0,
+   "exp": "Swaged end: 1/3rd; Body (Shaft): 2/3rd. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-062",
+   "sec": "Needles: Parts",
+   "page": 13,
+   "q": "The body (shaft) of the needle forms:",
+   "opts": [
+    "1/3rd",
+    "2/3rd",
+    "1/4th",
+    "Entire needle"
+   ],
+   "ans": 1,
+   "exp": "Body (Shaft): 2/3rd; Swaged end: 1/3rd. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-063",
+   "sec": "Needles: Parts",
+   "page": 13,
+   "q": "The needle is grasped with a:",
+   "opts": [
+    "Thumb forceps",
+    "Needle holder",
+    "Sponge holder",
+    "Towel clip"
+   ],
+   "ans": 1,
+   "exp": "Needle diagram: Point, Body (Shaft), Swaged end, Needle holder. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-064",
+   "sec": "Needles: Parts",
+   "page": 13,
+   "q": "The tip of the needle is labelled as the:",
+   "opts": [
+    "Swaged end",
+    "Body",
+    "Point",
+    "Eye"
+   ],
+   "ans": 2,
+   "exp": "Needle diagram labels: Point, Body (Shaft), Swaged end. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-065",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "Brown color codes the suture:",
+   "opts": [
+    "Vicryl",
+    "Prolene",
+    "Silk",
+    "Catgut"
+   ],
+   "ans": 3,
+   "exp": "Color coding: Brown - Catgut; Violet - Vicryl; Blue - Prolene; Black - Silk. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-066",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "Violet color codes the suture:",
+   "opts": [
+    "Catgut",
+    "Vicryl",
+    "Prolene",
+    "Silk"
+   ],
+   "ans": 1,
+   "exp": "Color coding: Violet - Vicryl. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-067",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "Blue color codes the suture:",
+   "opts": [
+    "Catgut",
+    "Vicryl",
+    "Prolene",
+    "Silk"
+   ],
+   "ans": 2,
+   "exp": "Color coding: Blue - Prolene. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-068",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "Black color codes the suture:",
+   "opts": [
+    "Catgut",
+    "Vicryl",
+    "Prolene",
+    "Silk"
+   ],
+   "ans": 3,
+   "exp": "Color coding: Black - Silk. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-069",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "Suture diameter equals:",
+   "opts": [
+    "1/10th of a mm",
+    "1 mm",
+    "1 cm",
+    "1/100th of a mm"
+   ],
+   "ans": 0,
+   "exp": "Suture numbering: Suture diameter = 1/10th of a mm. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-070",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "The thickest suture is:",
+   "opts": [
+    "11.0",
+    "No 1",
+    "2.0",
+    "10-0"
+   ],
+   "ans": 1,
+   "exp": "Suture numbering: No 1 -> Thickest ... 11.0 -> Finest. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-071",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "The finest suture is:",
+   "opts": [
+    "No 1",
+    "1.0",
+    "2.0",
+    "11.0"
+   ],
+   "ans": 3,
+   "exp": "Suture numbering: No 1 -> Thickest ... 11.0 -> Finest. (Book p13)"
+  },
+  {
+   "id": "SURG-C3-072",
+   "sec": "Suture Coding",
+   "page": 13,
+   "q": "Higher suture numbers (toward 11.0) mean:",
+   "opts": [
+    "Thicker suture",
+    "Finer suture (more finesse)",
+    "Longer suture",
+    "Braided suture"
+   ],
+   "ans": 1,
+   "exp": "Suture numbering: No 1 -> Thickest; 1.0, 2.0 ... 11.0 -> Finest (Finesse increases). (Book p13)"
+  },
+  {
+   "id": "SURG-C3-073",
+   "sec": "Classification",
+   "page": 14,
+   "q": "The natural suture materials listed are:",
+   "opts": [
+    "Prolene and PDS",
+    "Silk and catgut",
+    "Vicryl and monocryl",
+    "Nylon and steel"
+   ],
+   "ans": 1,
+   "exp": "Natural: Eg - Silk, Catgut. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-074",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Natural sutures are antigens (+) and hence:",
+   "opts": [
+    "Cause no reaction",
+    "Mount strong inflammatory reaction",
+    "Dissolve by hydrolysis",
+    "Are most inert"
+   ],
+   "ans": 1,
+   "exp": "Natural: Antigens (+) -> mount strong inflammatory reaction. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-075",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Natural sutures dissolve by:",
+   "opts": [
+    "Hydrolysis",
+    "Proteolysis",
+    "Phagocytosis only",
+    "Evaporation"
+   ],
+   "ans": 1,
+   "exp": "Natural: Dissolution by proteolysis. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-076",
+   "sec": "Classification",
+   "page": 14,
+   "q": "The synthetic sutures listed include all of the following EXCEPT:",
+   "opts": [
+    "Prolene",
+    "PDS",
+    "Vicryl",
+    "Silk"
+   ],
+   "ans": 3,
+   "exp": "Synthetic: Eg - Prolene, PDS, Vicryl. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-077",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Synthetic sutures are inert and cause:",
+   "opts": [
+    "Strong inflammation",
+    "Less tissue inflammation",
+    "No healing",
+    "Proteolysis"
+   ],
+   "ans": 1,
+   "exp": "Synthetic: Inert - Less tissue inflammation. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-078",
+   "sec": "Classification",
+   "page": 14,
+   "q": "The most inert suture (least inflammation) is:",
+   "opts": [
+    "Natural absorbable",
+    "Natural non absorbable",
+    "Synthetic non absorbable",
+    "Natural braided"
+   ],
+   "ans": 2,
+   "exp": "Most inert: Synthetic non absorbable (Least inflammation). (Book p14)"
+  },
+  {
+   "id": "SURG-C3-079",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Synthetic sutures dissolve by:",
+   "opts": [
+    "Proteolysis",
+    "Hydrolysis",
+    "Oxidation",
+    "Ionization"
+   ],
+   "ans": 1,
+   "exp": "Synthetic: Dissolution by hydrolysis. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-080",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Monofilament sutures include all of the following EXCEPT:",
+   "opts": [
+    "Catgut",
+    "Prolene",
+    "PDS",
+    "Vicryl"
+   ],
+   "ans": 3,
+   "exp": "Monofilament: Catgut, Prolene, PDS, Nylon, Monocryl. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-081",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Nylon and monocryl are:",
+   "opts": [
+    "Braided sutures",
+    "Monofilament sutures",
+    "Natural sutures",
+    "Steel sutures"
+   ],
+   "ans": 1,
+   "exp": "Monofilament: Catgut, Prolene, PDS, Nylon, Monocryl. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-082",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Monofilament sutures are:",
+   "opts": [
+    "Easier to handle",
+    "Difficult to handle",
+    "Braided",
+    "High infection risk"
+   ],
+   "ans": 1,
+   "exp": "Monofilament: Difficult to handle; Strong memory -> more knots. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-083",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Monofilament sutures have a strong memory, so they need:",
+   "opts": [
+    "Fewer knots",
+    "More knots",
+    "No knots",
+    "Glue instead"
+   ],
+   "ans": 1,
+   "exp": "Monofilament: Strong memory -> more knots. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-084",
+   "sec": "Classification",
+   "page": 14,
+   "q": "The braided sutures listed are:",
+   "opts": [
+    "Prolene and PDS",
+    "Vicryl and silk",
+    "Nylon and monocryl",
+    "Catgut and steel"
+   ],
+   "ans": 1,
+   "exp": "Braided: Eg - Vicryl, Silk. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-085",
+   "sec": "Classification",
+   "page": 14,
+   "q": "Braided sutures are:",
+   "opts": [
+    "Difficult to handle",
+    "Easier to handle",
+    "Monofilament",
+    "Memory-free"
+   ],
+   "ans": 1,
+   "exp": "Braided: Easier to handle; increased risk of infection. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-086",
+   "sec": "Classification",
+   "page": 14,
+   "q": "A disadvantage of braided sutures is:",
+   "opts": [
+    "Strong memory",
+    "Increased risk of infection",
+    "Difficult handling",
+    "Early dissolution"
+   ],
+   "ans": 1,
+   "exp": "Braided: Easier to handle; increased risk of infection. (Book p14)"
+  },
+  {
+   "id": "SURG-C3-087",
+   "sec": "Classification",
+   "page": 14,
+   "q": "In the book's tree, absorbable and non-absorbable sutures are each divided into:",
+   "opts": [
+    "Monofilament and braided",
+    "Natural and synthetic",
+    "Thick and fine",
+    "Cutting and round body"
+   ],
+   "ans": 1,
+   "exp": "Classification tree: Absorbable (Natural/Synthetic) and Non-absorbable (Natural/Synthetic). (Book p14)"
+  },
+  {
+   "id": "SURG-C3-088",
+   "sec": "Natural Absorbable",
+   "page": 15,
+   "q": "Catgut is derived from the:",
+   "opts": [
+    "Serosa of human gut",
+    "Submucosa of a sheep gut",
+    "Skin of a silkworm",
+    "Tendon of cattle"
+   ],
+   "ans": 1,
+   "exp": "Catgut: Derived from submucosa of a sheep gut. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-089",
+   "sec": "Natural Absorbable",
+   "page": 15,
+   "q": "Catgut undergoes phagocytosis and enzymatic degradation within:",
+   "opts": [
+    "7-10 days",
+    "21-28 days",
+    "60-90 days",
+    "180 days"
+   ],
+   "ans": 0,
+   "exp": "Catgut: phagocytosis & enzymatic degradation within 7-10 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-090",
+   "sec": "Natural Absorbable",
+   "page": 15,
+   "q": "The tensile strength of chromic catgut lasts:",
+   "opts": [
+    "7-10 days",
+    "21-28 days",
+    "60-90 days",
+    "180 days"
+   ],
+   "ans": 1,
+   "exp": "Chromic catgut: Tensile strength: 21-28 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-091",
+   "sec": "Natural Absorbable",
+   "page": 15,
+   "q": "Chromic catgut is completely absorbed in:",
+   "opts": [
+    "7-10 days",
+    "21-28 days",
+    "90 days",
+    "180 days"
+   ],
+   "ans": 2,
+   "exp": "Chromic catgut: Complete absorption in 90 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-092",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Monocryl is:",
+   "opts": [
+    "Polyglactin",
+    "Poliglecaprone",
+    "Polydiaxone",
+    "Polyglycolic acid"
+   ],
+   "ans": 1,
+   "exp": "Monocryl (Poliglecaprone). (Book p15)"
+  },
+  {
+   "id": "SURG-C3-093",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Monocryl is a:",
+   "opts": [
+    "Braided suture",
+    "Monofilament suture",
+    "Steel suture",
+    "Natural suture"
+   ],
+   "ans": 1,
+   "exp": "Monocryl: monofilament. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-094",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Monocryl for subcuticular closure is used as:",
+   "opts": [
+    "3-0/4-0 cutting/reverse cutting needle",
+    "1/1-0/2-0 round body",
+    "5-0 round body",
+    "10-0 cutting"
+   ],
+   "ans": 0,
+   "exp": "Monocryl: Subcuticular: 3-0/4-0 cutting/reverse cutting needle. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-095",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl is:",
+   "opts": [
+    "Poliglecaprone",
+    "Polyglactin",
+    "Polydiaxone",
+    "Polypropylene"
+   ],
+   "ans": 1,
+   "exp": "Vicryl (Polyglactin). (Book p15)"
+  },
+  {
+   "id": "SURG-C3-096",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl is a:",
+   "opts": [
+    "Monofilament suture",
+    "Braided suture",
+    "Steel suture",
+    "Natural suture"
+   ],
+   "ans": 1,
+   "exp": "Vicryl: Braided; Dissolves in 60-90 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-097",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl dissolves in:",
+   "opts": [
+    "7-10 days",
+    "21-28 days",
+    "60-90 days",
+    "180 days"
+   ],
+   "ans": 2,
+   "exp": "Vicryl: Dissolves in 60-90 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-098",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl for CBD repair is:",
+   "opts": [
+    "3-0",
+    "5-0",
+    "2-0",
+    "10-0"
+   ],
+   "ans": 1,
+   "exp": "Vicryl uses: CBD: 5-0; Bowel: 3-0; Bladder: 3-0 (Round body). (Book p15)"
+  },
+  {
+   "id": "SURG-C3-099",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl for bowel and bladder repair is:",
+   "opts": [
+    "5-0",
+    "3-0",
+    "2-0",
+    "1-0"
+   ],
+   "ans": 1,
+   "exp": "Vicryl uses: CBD: 5-0; Bowel: 3-0; Bladder: 3-0 (Round body). (Book p15)"
+  },
+  {
+   "id": "SURG-C3-100",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl for CBD/bowel/bladder is mounted on a:",
+   "opts": [
+    "Cutting needle",
+    "Round body needle",
+    "Reverse cutting needle",
+    "Straight needle"
+   ],
+   "ans": 1,
+   "exp": "Vicryl uses: CBD/bowel/bladder - Round body. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-101",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl plus is coated with antibiotic triclosan, which:",
+   "opts": [
+    "Increases strength",
+    "Decreases risk of infection",
+    "Speeds absorption",
+    "Adds color"
+   ],
+   "ans": 1,
+   "exp": "Vicryl plus: Coated with antibiotic triclosan (decreased risk of infection). (Book p15)"
+  },
+  {
+   "id": "SURG-C3-102",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Barbed vicryl is characterized by:",
+   "opts": [
+    "A triclosan coat",
+    "Thorns on suture",
+    "Rapid dissolution",
+    "Steel core"
+   ],
+   "ans": 1,
+   "exp": "Barbed vicryl: Thorns on suture. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-103",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Barbed vicryl is used for:",
+   "opts": [
+    "Bowel anastomosis",
+    "Face lift Sx",
+    "Cataract Sx",
+    "Sternotomy closure"
+   ],
+   "ans": 1,
+   "exp": "Barbed vicryl: Used: Face lift Sx; Disadvantage: Painful. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-104",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "A disadvantage of barbed vicryl is that it is:",
+   "opts": [
+    "Weak",
+    "Painful",
+    "Braided",
+    "Non-absorbable"
+   ],
+   "ans": 1,
+   "exp": "Barbed vicryl: Disadvantage: Painful. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-105",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl rapide is:",
+   "opts": [
+    "Polyglactin 910",
+    "Poliglecaprone",
+    "Polydiaxone",
+    "Plain catgut"
+   ],
+   "ans": 0,
+   "exp": "Vicryl rapide: Polyglactin 910; Rapidly dissolves within 21-28 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-106",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "Vicryl rapide dissolves:",
+   "opts": [
+    "Within 7-10 days",
+    "Within 21-28 days",
+    "In 60-90 days",
+    "In 180 days"
+   ],
+   "ans": 1,
+   "exp": "Vicryl rapide: Rapidly dissolves within 21-28 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-107",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "PDS (polydiaxone) is a:",
+   "opts": [
+    "Braided suture",
+    "Monofilament suture",
+    "Natural suture",
+    "Steel suture"
+   ],
+   "ans": 1,
+   "exp": "PDS: monofilament; Dissolves: 180 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-108",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "PDS dissolves in:",
+   "opts": [
+    "7-10 days",
+    "21-28 days",
+    "60-90 days",
+    "180 days"
+   ],
+   "ans": 3,
+   "exp": "PDS: Dissolves: 180 days. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-109",
+   "sec": "Synthetic Absorbable",
+   "page": 15,
+   "q": "PDS is used for:",
+   "opts": [
+    "Same as vicryl + tracheobronchial repair",
+    "Skin only",
+    "Cataract Sx",
+    "Sternotomy closure"
+   ],
+   "ans": 0,
+   "exp": "PDS uses: Same as vicryl + tracheobronchial repair. (Book p15)"
+  },
+  {
+   "id": "SURG-C3-110",
+   "sec": "Silk",
+   "page": 16,
+   "q": "Silk is a:",
+   "opts": [
+    "Blue monofilament suture",
+    "Black, braided suture",
+    "Violet braided suture",
+    "Brown monofilament suture"
+   ],
+   "ans": 1,
+   "exp": "Silk: Black, braided suture; Source: Silkworm. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-111",
+   "sec": "Silk",
+   "page": 16,
+   "q": "The source of silk suture is the:",
+   "opts": [
+    "Sheep gut",
+    "Silkworm",
+    "Catgut plant",
+    "Petroleum lab"
+   ],
+   "ans": 1,
+   "exp": "Silk: Source: Silkworm. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-112",
+   "sec": "Silk",
+   "page": 16,
+   "q": "Silk for skin closure is used as:",
+   "opts": [
+    "2-0/3-0 cutting",
+    "5-0 round body",
+    "10-0 cutting",
+    "No 1 round body"
+   ],
+   "ans": 0,
+   "exp": "Silk uses: Skin: 2-0/3-0 cutting. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-113",
+   "sec": "Silk",
+   "page": 16,
+   "q": "Silk to fix a surgical drain is:",
+   "opts": [
+    "3-0 round body",
+    "5-0 round body",
+    "No 1/1-0/2-0",
+    "10-0 cutting"
+   ],
+   "ans": 2,
+   "exp": "Silk uses: Fix drain: No 1/1-0/2-0. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-114",
+   "sec": "Silk",
+   "page": 16,
+   "q": "The 2nd layer of bowel anastomosis uses silk as:",
+   "opts": [
+    "3-0 round body",
+    "5-0 round body",
+    "2-0 cutting",
+    "10-0 cutting"
+   ],
+   "ans": 0,
+   "exp": "Silk uses: 2nd layer of bowel anastomosis: 3-0 round body. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-115",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Prolene is a:",
+   "opts": [
+    "Black braided suture",
+    "Blue monofilament suture",
+    "Violet braided suture",
+    "Brown monofilament suture"
+   ],
+   "ans": 1,
+   "exp": "Prolene: Blue monofilament suture. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-116",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Prolene is used for:",
+   "opts": [
+    "Hernia mesh",
+    "Cataract Sx",
+    "Face lift",
+    "Bowel mucosa"
+   ],
+   "ans": 0,
+   "exp": "Prolene uses: Hernia mesh; Close abdominal sheath; Vascular repair. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-117",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Jenkin's rule for closing the abdominal sheath states: Length of suture:",
+   "opts": [
+    "= length of wound",
+    ">= 4x length of wound",
+    "<= length of wound",
+    "= 2x length of wound"
+   ],
+   "ans": 1,
+   "exp": "Prolene: Close abdominal sheath: Jenkin's rule: Length of suture >= 4x length of wound. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-118",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Prolene for aortic repair is:",
+   "opts": [
+    "6-0",
+    "4-0",
+    "2-0",
+    "10-0"
+   ],
+   "ans": 2,
+   "exp": "Prolene vascular repair: Aorta: 2-0; Femoral artery: 4-0; Popliteal artery: 6-0. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-119",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Prolene for femoral artery repair is:",
+   "opts": [
+    "2-0",
+    "4-0",
+    "6-0",
+    "10-0"
+   ],
+   "ans": 1,
+   "exp": "Prolene vascular repair: Aorta: 2-0; Femoral artery: 4-0; Popliteal artery: 6-0. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-120",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Prolene for popliteal artery repair is:",
+   "opts": [
+    "2-0",
+    "4-0",
+    "6-0",
+    "1-0"
+   ],
+   "ans": 2,
+   "exp": "Prolene vascular repair: Aorta: 2-0; Femoral artery: 4-0; Popliteal artery: 6-0. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-121",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Nylon/Ethilon is a:",
+   "opts": [
+    "Braided suture",
+    "Monofilament suture",
+    "Natural suture",
+    "Absorbable suture"
+   ],
+   "ans": 1,
+   "exp": "Nylon/Ethilon: monofilament suture. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-122",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Nylon is used as a:",
+   "opts": [
+    "Bowel suture",
+    "Skin suture",
+    "CBD suture",
+    "Bladder suture"
+   ],
+   "ans": 1,
+   "exp": "Nylon uses: Skin suture; Cataract Sx: 10-0; Nerve & tendon repair. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-123",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Cataract surgery uses nylon as:",
+   "opts": [
+    "2-0",
+    "6-0",
+    "10-0",
+    "No 1"
+   ],
+   "ans": 2,
+   "exp": "Nylon uses: Cataract Sx: 10-0. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-124",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Nerve and tendon repair is a listed use of:",
+   "opts": [
+    "Catgut",
+    "Nylon/Ethilon",
+    "Vicryl rapide",
+    "Steel"
+   ],
+   "ans": 1,
+   "exp": "Nylon uses: Nerve & tendon repair. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-125",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Steel suture is used for:",
+   "opts": [
+    "Sternotomy incision following CABG",
+    "Skin closure",
+    "Bowel anastomosis",
+    "Cataract Sx"
+   ],
+   "ans": 0,
+   "exp": "Steel suture uses: Sternotomy incision following CABG. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-126",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Polyester/Ethibond is used for the:",
+   "opts": [
+    "Skin",
+    "CBD",
+    "Rectus sheath",
+    "Cornea"
+   ],
+   "ans": 2,
+   "exp": "Polyester/Ethibond uses: Rectus sheath; Tendon repair. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-127",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Tendon repair is a listed use of:",
+   "opts": [
+    "Polyester/Ethibond",
+    "Catgut",
+    "Vicryl rapide",
+    "Steel suture"
+   ],
+   "ans": 0,
+   "exp": "Polyester/Ethibond uses: Rectus sheath; Tendon repair. (Book p16)"
+  },
+  {
+   "id": "SURG-C3-128",
+   "sec": "Synthetic Non-absorbable",
+   "page": 16,
+   "q": "Polybutester is used for:",
+   "opts": [
+    "Plastic Sx (Rarely used)",
+    "Hernia mesh",
+    "Sternotomy closure",
+    "Bowel anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Polybutester uses: Plastic Sx (Rarely used). (Book p16)"
+  },
+  {
+   "id": "SURG-C3-129",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "Suture removal timings apply to:",
+   "opts": [
+    "Absorbable sutures",
+    "Non-absorbable sutures",
+    "All sutures",
+    "Staples only"
+   ],
+   "ans": 1,
+   "exp": "Suture removal: For non-absorbable sutures. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-130",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "Scalp sutures are removed in:",
+   "opts": [
+    "3-5 days",
+    "5-7 days",
+    "10-12 days",
+    "12-14 days"
+   ],
+   "ans": 1,
+   "exp": "Suture removal: Scalp: 5-7 days. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-131",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "Face sutures are removed in:",
+   "opts": [
+    "3-5 days (Earliest)",
+    "5-7 days",
+    "10-12 days",
+    "12-14 days"
+   ],
+   "ans": 0,
+   "exp": "Suture removal: Face: 3-5 days (Earliest). (Book p17)"
+  },
+  {
+   "id": "SURG-C3-132",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "Neck sutures are removed in:",
+   "opts": [
+    "3-5 days",
+    "5-7 days",
+    "10-12 days",
+    "12-14 days"
+   ],
+   "ans": 1,
+   "exp": "Suture removal: Neck: 5-7 days. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-133",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "Thorax sutures are removed in:",
+   "opts": [
+    "3-5 days",
+    "5-7 days",
+    "10-12 days",
+    "12-14 days"
+   ],
+   "ans": 2,
+   "exp": "Suture removal: Thorax: 10-12 days. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-134",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "Abdominal sutures are removed in:",
+   "opts": [
+    "3-5 days",
+    "5-7 days",
+    "10-12 days",
+    "12-14 days"
+   ],
+   "ans": 3,
+   "exp": "Suture removal: Abdomen: 12-14 days. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-135",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "Perineal sutures are removed in:",
+   "opts": [
+    "3-5 days",
+    "5-7 days",
+    "10-12 days",
+    "12-14 days"
+   ],
+   "ans": 2,
+   "exp": "Suture removal: Perineum: 10-12 days. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-136",
+   "sec": "Suture Removal",
+   "page": 17,
+   "q": "The earliest suture removal is from the:",
+   "opts": [
+    "Scalp",
+    "Face (3-5 days)",
+    "Abdomen",
+    "Thorax"
+   ],
+   "ans": 1,
+   "exp": "Suture removal: Face: 3-5 days (Earliest). (Book p17)"
+  },
+  {
+   "id": "SURG-C3-137",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Bowel anastomosis requires:",
+   "opts": [
+    "Everted edges",
+    "Inverted edges",
+    "Gaped edges",
+    "Overlapping edges"
+   ],
+   "ans": 1,
+   "exp": "Bowel anastomosis: Inverted Edges; Strongest layer: Submucosa. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-138",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "The strongest layer of the bowel wall is the:",
+   "opts": [
+    "Serosa",
+    "Mucosa",
+    "Submucosa",
+    "Muscle"
+   ],
+   "ans": 2,
+   "exp": "Bowel anastomosis: Strongest layer: Submucosa. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-139",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "The book states that the result is ___ despite the technique used:",
+   "opts": [
+    "Different",
+    "Same",
+    "Better with staplers",
+    "Worse with sutures"
+   ],
+   "ans": 1,
+   "exp": "Techniques: Same result despite technique used. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-140",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Single layer bowel repair is:",
+   "opts": [
+    "Seromuscular repair",
+    "Extramucosal repair",
+    "Full thickness repair",
+    "Stapled repair"
+   ],
+   "ans": 1,
+   "exp": "Single layer: Extramucosal repair. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-141",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "In the anastomosis diagrams, 'S/m' denotes the:",
+   "opts": [
+    "Serosa",
+    "Mucosa",
+    "Submucosa",
+    "Muscle"
+   ],
+   "ans": 2,
+   "exp": "Diagram key: S: Serosa; m: mucosa; S/m: Submucosa; muscle. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-142",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "The Albert layer is:",
+   "opts": [
+    "Outer seromuscular interrupted nonabsorbable suture",
+    "Inner continuous absorbable suture with stitching of all layers",
+    "Single extramucosal layer",
+    "Stapled layer"
+   ],
+   "ans": 1,
+   "exp": "2 layer: inner continuous absorbable suture with stitching of all layers: Albert layer. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-143",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "The Lembert layer is:",
+   "opts": [
+    "Inner continuous absorbable suture of all layers",
+    "Outer seromuscular interrupted nonabsorbable suture",
+    "Single extramucosal layer",
+    "Stapled layer"
+   ],
+   "ans": 1,
+   "exp": "2 layer: outer seromuscular interrupted nonabsorbable suture: Lembert layer. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-144",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Side-to-side anastomosis is a listed use of the:",
+   "opts": [
+    "Circular stapler",
+    "Linear stapler",
+    "Purse string suture",
+    "Lock suture"
+   ],
+   "ans": 1,
+   "exp": "Linear stapler uses: Side-to-side anastomosis; Sleeve gastrectomy; Zenker's diverticulum. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-145",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Sleeve gastrectomy (bariatric Sx) uses a:",
+   "opts": [
+    "Circular stapler",
+    "Linear stapler",
+    "Purse string suture",
+    "Barbed suture"
+   ],
+   "ans": 1,
+   "exp": "Linear stapler uses: Sleeve gastrectomy (Bariatric Sx). (Book p17)"
+  },
+  {
+   "id": "SURG-C3-146",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Zenker's diverticulum surgery uses a:",
+   "opts": [
+    "Circular stapler",
+    "Linear stapler",
+    "Purse string suture",
+    "Far-near-near-far suture"
+   ],
+   "ans": 1,
+   "exp": "Linear stapler uses: Zenker's diverticulum. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-147",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Stapler hemorrhoidopexy (hemorrhoid repair) uses a:",
+   "opts": [
+    "Linear stapler",
+    "Circular stapler",
+    "Purse string suture",
+    "Lock suture"
+   ],
+   "ans": 1,
+   "exp": "Circular stapler uses: Stapler hemorrhoidopexy: Hemorrhoid repair. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-148",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "LAR (low anterior resection) for sigmoid colon cancer surgery uses a:",
+   "opts": [
+    "Linear stapler",
+    "Circular stapler",
+    "Purse string suture",
+    "Subcuticular suture"
+   ],
+   "ans": 1,
+   "exp": "Circular stapler uses: LAR (Low anterior resection): Sigmoid colon cancer Sx. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-149",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Cheatle's slit is a:",
+   "opts": [
+    "Transverse cut on mesenteric border",
+    "Longitudinal split along anti mesenteric border",
+    "Circular stapler line",
+    "Seromuscular bite"
+   ],
+   "ans": 1,
+   "exp": "Cheatle's slit: Longitudinal split along anti mesenteric border -> Enlarges lumen. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-150",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "Cheatle's slit enlarges the lumen for:",
+   "opts": [
+    "Side-to-side anastomosis",
+    "End-to-end anastomosis",
+    "Stapler firing",
+    "Stoma creation"
+   ],
+   "ans": 1,
+   "exp": "Cheatle's slit: Enlarges lumen for end-to-end anastomosis. (Book p17)"
+  },
+  {
+   "id": "SURG-C3-151",
+   "sec": "Bowel Anastomosis",
+   "page": 17,
+   "q": "The Connel loop is taken at the edge of the anastomosis and ensures:",
+   "opts": [
+    "Hemostasis",
+    "Bowel inversion",
+    "Eversion",
+    "Lumen enlargement"
+   ],
+   "ans": 1,
+   "exp": "Connel loop: Taken at edge of anastomosis -> Ensures bowel inversion. (Book p17)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U3-1",
+   "ch": 3,
+   "n": 1,
+   "title": "Drains: Open, Closed, Romovac & Minivac",
+   "sec": "Drains · p10",
+   "qs": [
+    "SURG-C3-001",
+    "SURG-C3-002",
+    "SURG-C3-003",
+    "SURG-C3-004",
+    "SURG-C3-005",
+    "SURG-C3-006",
+    "SURG-C3-007",
+    "SURG-C3-008",
+    "SURG-C3-009"
+   ],
+   "guide": "Open drains are obsolete museum pieces that stain a soak dressing, while closed drains empty into a container or bag. Romovac - a closed negative-pressure system for mastectomy, thyroidectomy and neck dissection - must never enter the abdomen, where its rounded tip risks perforation; the tiny minivac instead follows sentinel node biopsy."
+  },
+  {
+   "id": "SURG-U3-2",
+   "ch": 3,
+   "n": 2,
+   "title": "Drains: Jackson Pratt, Abdominal & Underwater Seal",
+   "sec": "Drains · p10",
+   "qs": [
+    "SURG-C3-010",
+    "SURG-C3-011",
+    "SURG-C3-012",
+    "SURG-C3-013",
+    "SURG-C3-014",
+    "SURG-C3-015",
+    "SURG-C3-016",
+    "SURG-C3-017",
+    "SURG-C3-018"
+   ],
+   "guide": "The Jackson Pratt pairs a squeezable bulb with flat tubes that slide safely into the abdomen, unlike the rounded Romovac. A plain abdominal drain is closed but pressure-free, while chest tubes bubble through an underwater seal whose submerged tip bars air from being sucked in."
+  },
+  {
+   "id": "SURG-U3-3",
+   "ch": 3,
+   "n": 3,
+   "title": "Knot Types: Reef, Granny & Surgeon's",
+   "sec": "Knots · p11",
+   "qs": [
+    "SURG-C3-019",
+    "SURG-C3-020",
+    "SURG-C3-021",
+    "SURG-C3-022",
+    "SURG-C3-023",
+    "SURG-C3-024",
+    "SURG-C3-025",
+    "SURG-C3-026"
+   ],
+   "guide": "The reef (square) knot - one square throw on another with matching crossings - is the most basic knot in surgery. Cross the throws oppositely and you get a granny or slip knot that opens up, while the surgeon's knot doubles the first throw for extra grip before a single locking throw."
+  },
+  {
+   "id": "SURG-U3-4",
+   "ch": 3,
+   "n": 4,
+   "title": "Skin Suturing & Principles",
+   "sec": "Skin Suturing · p11",
+   "qs": [
+    "SURG-C3-027",
+    "SURG-C3-028",
+    "SURG-C3-029",
+    "SURG-C3-030"
+   ],
+   "guide": "Skin heals kindest when its edges are everted and the needle bites at a full 90 degrees. The geometry is simple arithmetic: take a bite of x on each side and space the sutures 2x apart."
+  },
+  {
+   "id": "SURG-U3-5",
+   "ch": 3,
+   "n": 5,
+   "title": "Suture Types: Simple, Mattress & Subcuticular",
+   "sec": "Suture Types · p12",
+   "qs": [
+    "SURG-C3-031",
+    "SURG-C3-032",
+    "SURG-C3-033",
+    "SURG-C3-034",
+    "SURG-C3-035",
+    "SURG-C3-036",
+    "SURG-C3-037",
+    "SURG-C3-038"
+   ],
+   "guide": "Simple sutures fail to evert, but mattress sutures evert and staunch bleeding - vertical at two depths, horizontal at one depth with the least cut-through. When scars must vanish, a 3-0 monocryl on a cutting needle runs hidden beneath the skin in a mark-free subcuticular line."
+  },
+  {
+   "id": "SURG-U3-6",
+   "ch": 3,
+   "n": 6,
+   "title": "Other Sutures: Lock & Purse String",
+   "sec": "Other Sutures · p12",
+   "qs": [
+    "SURG-C3-039",
+    "SURG-C3-040",
+    "SURG-C3-041",
+    "SURG-C3-042",
+    "SURG-C3-043",
+    "SURG-C3-044"
+   ],
+   "guide": "A continuous suture closes with an Aberdeen's or Cobbler's knot, and locking each loop spreads tension evenly along the wound. The purse string instead cinches like a drawstring - burying the appendicular stump or encircling the cervix."
+  },
+  {
+   "id": "SURG-U3-7",
+   "ch": 3,
+   "n": 7,
+   "title": "Far-Near-Near-Far & Shoe String",
+   "sec": "Special Sutures · p13",
+   "qs": [
+    "SURG-C3-045",
+    "SURG-C3-046",
+    "SURG-C3-047",
+    "SURG-C3-048",
+    "SURG-C3-049"
+   ],
+   "guide": "The far-near-near-far stitch collapses and obliterates a large dead cavity in one pass. Fasciotomy wounds instead close slowly with the shoe string technique - gradual tightening that heals by tertiary intention, a delayed primary closure."
+  },
+  {
+   "id": "SURG-U3-8",
+   "ch": 3,
+   "n": 8,
+   "title": "Needles: Round Body vs Cutting",
+   "sec": "Needles · p13",
+   "qs": [
+    "SURG-C3-050",
+    "SURG-C3-051",
+    "SURG-C3-052",
+    "SURG-C3-053",
+    "SURG-C3-054",
+    "SURG-C3-055",
+    "SURG-C3-056",
+    "SURG-C3-057",
+    "SURG-C3-058",
+    "SURG-C3-059"
+   ],
+   "guide": "Round-bodied needles split tissue atraumatically, gliding through the delicate B's - bowel, bladder, blood vessels and CBD. Cutting and reverse-cutting needles slice through the tough S's - sheath, skin and fascia - at the price of greater trauma."
+  },
+  {
+   "id": "SURG-U3-9",
+   "ch": 3,
+   "n": 9,
+   "title": "Needle Parts, Color Codes & Numbering",
+   "sec": "Suture Coding · p13",
+   "qs": [
+    "SURG-C3-060",
+    "SURG-C3-061",
+    "SURG-C3-062",
+    "SURG-C3-063",
+    "SURG-C3-064",
+    "SURG-C3-065",
+    "SURG-C3-066",
+    "SURG-C3-067",
+    "SURG-C3-068",
+    "SURG-C3-069",
+    "SURG-C3-070",
+    "SURG-C3-071",
+    "SURG-C3-072"
+   ],
+   "guide": "Every needle runs from point through a two-thirds shaft to a one-third swaged end that carries the suture, gripped by a needle holder. Colors speak instantly - brown catgut, violet vicryl, blue prolene, black silk - while numbers whisper finesse: No. 1 is thickest and 11-0 the finest."
+  },
+  {
+   "id": "SURG-U3-10",
+   "ch": 3,
+   "n": 10,
+   "title": "Suture Classification",
+   "sec": "Classification · p14",
+   "qs": [
+    "SURG-C3-073",
+    "SURG-C3-074",
+    "SURG-C3-075",
+    "SURG-C3-076",
+    "SURG-C3-077",
+    "SURG-C3-078",
+    "SURG-C3-079",
+    "SURG-C3-080",
+    "SURG-C3-081",
+    "SURG-C3-082",
+    "SURG-C3-083",
+    "SURG-C3-084",
+    "SURG-C3-085",
+    "SURG-C3-086",
+    "SURG-C3-087"
+   ],
+   "guide": "Natural sutures like silk and catgut are antigenic, provoke strong inflammation and dissolve by proteolysis. Synthetic sutures - prolene, PDS, vicryl - stay inert and dissolve by hydrolysis, with synthetic non-absorbables the most inert of all; monofilaments handle stiffly with strong memory while braids handle sweetly but invite infection."
+  },
+  {
+   "id": "SURG-U3-11",
+   "ch": 3,
+   "n": 11,
+   "title": "Natural Absorbable: Catgut",
+   "sec": "Natural Absorbable · p15",
+   "qs": [
+    "SURG-C3-088",
+    "SURG-C3-089",
+    "SURG-C3-090",
+    "SURG-C3-091"
+   ],
+   "guide": "Plain catgut - sheep gut submucosa - vanishes by phagocytosis within 7 to 10 days. Chromic tanning stretches its tensile strength to 21-28 days and full absorption to 90 days."
+  },
+  {
+   "id": "SURG-U3-12",
+   "ch": 3,
+   "n": 12,
+   "title": "Synthetic Absorbable: Monocryl, Vicryl & PDS",
+   "sec": "Synthetic Absorbable · p15",
+   "qs": [
+    "SURG-C3-092",
+    "SURG-C3-093",
+    "SURG-C3-094",
+    "SURG-C3-095",
+    "SURG-C3-096",
+    "SURG-C3-097",
+    "SURG-C3-098",
+    "SURG-C3-099",
+    "SURG-C3-100",
+    "SURG-C3-101",
+    "SURG-C3-102",
+    "SURG-C3-103",
+    "SURG-C3-104",
+    "SURG-C3-105",
+    "SURG-C3-106",
+    "SURG-C3-107",
+    "SURG-C3-108",
+    "SURG-C3-109"
+   ],
+   "guide": "Monofilament monocryl runs subcuticular lines on cutting needles, while braided vicryl holds CBD, bowel and bladder on round-bodied needles for 60-90 days - with triclosan-coated, barbed and rapide avatars. PDS outlasts them all at 180 days and even repairs the tracheobronchial tree."
+  },
+  {
+   "id": "SURG-U3-13",
+   "ch": 3,
+   "n": 13,
+   "title": "Silk: Natural Non-absorbable",
+   "sec": "Silk · p16",
+   "qs": [
+    "SURG-C3-110",
+    "SURG-C3-111",
+    "SURG-C3-112",
+    "SURG-C3-113",
+    "SURG-C3-114"
+   ],
+   "guide": "Silk - black, braided, spun by silkworms - closes skin with 2-0 or 3-0 on cutting needles, anchors drains with stout No. 1 to 2-0, and lays the second layer of bowel anastomosis with 3-0 on a round body."
+  },
+  {
+   "id": "SURG-U3-14",
+   "ch": 3,
+   "n": 14,
+   "title": "Synthetic Non-absorbable: Prolene to Polybutester",
+   "sec": "Synthetic Non-absorbable · p16",
+   "qs": [
+    "SURG-C3-115",
+    "SURG-C3-116",
+    "SURG-C3-117",
+    "SURG-C3-118",
+    "SURG-C3-119",
+    "SURG-C3-120",
+    "SURG-C3-121",
+    "SURG-C3-122",
+    "SURG-C3-123",
+    "SURG-C3-124",
+    "SURG-C3-125",
+    "SURG-C3-126",
+    "SURG-C3-127",
+    "SURG-C3-128"
+   ],
+   "guide": "Blue monofilament prolene weaves hernia mesh, closes sheaths by Jenkin's four-to-one rule, and steps down vessels from 2-0 aorta to 6-0 popliteal. Nylon serves skin, cataract and nerve-tendon repairs, steel wires post-CABG sternums, polyester holds rectus and tendon, and polybutester lingers rarely in plastic surgery."
+  },
+  {
+   "id": "SURG-U3-15",
+   "ch": 3,
+   "n": 15,
+   "title": "Suture Removal Timings",
+   "sec": "Suture Removal · p17",
+   "qs": [
+    "SURG-C3-129",
+    "SURG-C3-130",
+    "SURG-C3-131",
+    "SURG-C3-132",
+    "SURG-C3-133",
+    "SURG-C3-134",
+    "SURG-C3-135",
+    "SURG-C3-136"
+   ],
+   "guide": "Only non-absorbable sutures come out: face first at 3-5 days, scalp and neck at 5-7, thorax and perineum at 10-12, and abdomen last at 12-14 days."
+  },
+  {
+   "id": "SURG-U3-16",
+   "ch": 3,
+   "n": 16,
+   "title": "Bowel Anastomosis & Staplers",
+   "sec": "Bowel Anastomosis · p17",
+   "qs": [
+    "SURG-C3-137",
+    "SURG-C3-138",
+    "SURG-C3-139",
+    "SURG-C3-140",
+    "SURG-C3-141",
+    "SURG-C3-142",
+    "SURG-C3-143",
+    "SURG-C3-144",
+    "SURG-C3-145",
+    "SURG-C3-146",
+    "SURG-C3-147",
+    "SURG-C3-148",
+    "SURG-C3-149",
+    "SURG-C3-150",
+    "SURG-C3-151"
+   ],
+   "guide": "Bowel demands inverted edges, trusting the submucosa as its strongest layer - whether joined by single extramucosal, two-layer Albert-plus-Lembert, or stapler. Linear staplers fire side-to-side joins, sleeves and Zenker's pouches; circular staplers fix haemorrhoids and low anterior resections; Cheatle's slit widens narrow ends and the Connel loop guarantees inversion."
+  }
+ ]
+}

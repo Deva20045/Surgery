@@ -1,0 +1,1036 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C5-001",
+   "sec": "Definition",
+   "page": 25,
+   "q": "Day care surgery is defined as: the patient is admitted and discharged within:",
+   "opts": [
+    "6 hours",
+    "12 hours",
+    "24 hours",
+    "48 hours"
+   ],
+   "ans": 1,
+   "exp": "Definition: The patient is admitted and discharged within 12 hours. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-002",
+   "sec": "Examples: Abdominal",
+   "page": 25,
+   "q": "Abdominal day care procedures include all of the following EXCEPT:",
+   "opts": [
+    "Haemorrhoidectomy",
+    "Laparoscopic cholecystectomy",
+    "Laparoscopic fundoplication",
+    "Whipple's procedure"
+   ],
+   "ans": 3,
+   "exp": "Abdominal day care: anal lesions, haemorrhoidectomy, inguinal/femoral hernia, lap cholecystectomy, lap fundoplication, pilonidal sinus Sx. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-003",
+   "sec": "Examples: Abdominal",
+   "page": 25,
+   "q": "Which hernia repairs are listed as day care surgery?",
+   "opts": [
+    "Primary and recurrent inguinal/femoral hernia",
+    "Only primary umbilical hernia",
+    "Only hiatus hernia",
+    "Only incisional hernia"
+   ],
+   "ans": 0,
+   "exp": "Abdominal day care: primary and recurrent inguinal/femoral hernia. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-004",
+   "sec": "Examples: Abdominal",
+   "page": 25,
+   "q": "Pilonidal sinus surgery is listed as a day care procedure of the:",
+   "opts": [
+    "Breast region",
+    "Abdominal region",
+    "Vascular region",
+    "Orthopedic region"
+   ],
+   "ans": 1,
+   "exp": "Abdominal day care includes pilonidal sinus surgery. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-005",
+   "sec": "Examples: Breast",
+   "page": 25,
+   "q": "Breast day care procedures listed are:",
+   "opts": [
+    "Mastectomy and axillary clearance",
+    "Excision/biopsy breast lesion, sentinel node excision",
+    "Breast reconstruction",
+    "Bilateral mastectomy"
+   ],
+   "ans": 1,
+   "exp": "Breast day care: Excision/biopsy breast lesion, sentinel node excision. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-006",
+   "sec": "Examples: GU",
+   "page": 25,
+   "q": "Genitourinary day care procedures include all of the following EXCEPT:",
+   "opts": [
+    "Laser prostatectomy",
+    "Orchidectomy",
+    "Circumcision",
+    "Radical cystectomy"
+   ],
+   "ans": 3,
+   "exp": "GU day care: Laser prostatectomy, orchidectomy, circumcision, hydrocele/varicocele/epididymis excision, TURP. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-007",
+   "sec": "Examples: GU",
+   "page": 25,
+   "q": "TURP is listed as a day care procedure of the:",
+   "opts": [
+    "Abdominal region",
+    "Genitourinary region",
+    "Vascular region",
+    "Breast region"
+   ],
+   "ans": 1,
+   "exp": "GU day care includes TURP. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-008",
+   "sec": "Examples: Ortho",
+   "page": 25,
+   "q": "Orthopedic day care procedures include all of the following EXCEPT:",
+   "opts": [
+    "Dupuytren's fasciotomy",
+    "Carpal tunnel release",
+    "Therapeutic arthroscopy of knee or shoulder",
+    "Total hip replacement"
+   ],
+   "ans": 3,
+   "exp": "Orthopedic day care: Dupuytren's fasciotomy, carpal tunnel release, arthroscopy knee/shoulder, bunion ops, metalwork removal. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-009",
+   "sec": "Examples: Ortho",
+   "page": 25,
+   "q": "Removal of metalwork is listed as a day care procedure of the:",
+   "opts": [
+    "Vascular region",
+    "Orthopedic region",
+    "Abdominal region",
+    "Breast region"
+   ],
+   "ans": 1,
+   "exp": "Orthopedic day care includes removal of metalwork. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-010",
+   "sec": "Examples: Vascular",
+   "page": 25,
+   "q": "Vascular day care procedures listed are:",
+   "opts": [
+    "Aortic aneurysm repair",
+    "Varicose vein procedures, thoracoscopic sympathectomy",
+    "Carotid endarterectomy",
+    "Femoral bypass"
+   ],
+   "ans": 1,
+   "exp": "Vascular day care: Varicose vein procedures, thoracoscopic sympathectomy. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-011",
+   "sec": "Selection: Medical",
+   "page": 25,
+   "q": "For day care selection, one must use:",
+   "opts": [
+    "Chronological age > physiological age",
+    "Physiological age > chronological age",
+    "Only chronological age",
+    "Only BMI"
+   ],
+   "ans": 1,
+   "exp": "Selection Medical: use physiological age > Chronological age. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-012",
+   "sec": "Selection: Medical",
+   "page": 25,
+   "q": "ASA Class I & II patients are fit for a:",
+   "opts": [
+    "Stand alone day care centre",
+    "Integrated day care unit (Hospital)",
+    "ICU",
+    "Emergency OT only"
+   ],
+   "ans": 0,
+   "exp": "ASA: Class I & II: Stand alone day care centre; Class III: Integrated day care unit (Hospital). (Book p25)"
+  },
+  {
+   "id": "SURG-C5-013",
+   "sec": "Selection: Medical",
+   "page": 25,
+   "q": "ASA Class III patients need an:",
+   "opts": [
+    "Stand alone day care centre",
+    "Integrated day care unit (Hospital)",
+    "Home surgery",
+    "No surgery"
+   ],
+   "ans": 1,
+   "exp": "ASA Class III: Integrated day care unit (Hospital). (Book p25)"
+  },
+  {
+   "id": "SURG-C5-014",
+   "sec": "Selection: Medical",
+   "page": 25,
+   "q": "For laparoscopic day care procedures, BMI must be:",
+   "opts": [
+    "<= 38",
+    "<= 40",
+    "<= 45",
+    "<= 30"
+   ],
+   "ans": 0,
+   "exp": "BMI: <=38: Laparoscopic procedures; <=40: Surface procedures. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-015",
+   "sec": "Selection: Medical",
+   "page": 25,
+   "q": "For surface day care procedures, BMI must be:",
+   "opts": [
+    "<= 38",
+    "<= 40",
+    "<= 45",
+    "<= 30"
+   ],
+   "ans": 1,
+   "exp": "BMI: <=40: Surface procedures. (Book p25)"
+  },
+  {
+   "id": "SURG-C5-016",
+   "sec": "Selection: Medical",
+   "page": 26,
+   "q": "A diabetic with HbA1C < 8.5 posted for day care surgery is advised to:",
+   "opts": [
+    "Double the OHA dose",
+    "Skip morning dose of OHA",
+    "Stop all drugs for a week",
+    "Take insulin instead"
+   ],
+   "ans": 1,
+   "exp": "HbA1C < 8.5: Advice to skip morning dose of OHA. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-017",
+   "sec": "Selection: Medical",
+   "page": 26,
+   "q": "For day care surgery, blood pressure must be below:",
+   "opts": [
+    "140/90",
+    "180/100",
+    "200/120",
+    "160/110"
+   ],
+   "ans": 1,
+   "exp": "BP < 180/100. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-018",
+   "sec": "Selection: Medical",
+   "page": 26,
+   "q": "Which epilepsy patients are fit for day care surgery?",
+   "opts": [
+    "All epilepsy patients",
+    "Well controlled cases of epilepsy",
+    "Only new cases",
+    "None"
+   ],
+   "ans": 1,
+   "exp": "Well controlled cases of epilepsy. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-019",
+   "sec": "Selection: Social",
+   "page": 26,
+   "q": "Social selection for day care needs responsible adult care availability for:",
+   "opts": [
+    "6 hours",
+    "12 hours",
+    "24 hours",
+    "1 week"
+   ],
+   "ans": 2,
+   "exp": "Social: Responsible adult care availability for 24 hours. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-020",
+   "sec": "Selection: Social",
+   "page": 26,
+   "q": "Social selection for day care includes all of the following EXCEPT:",
+   "opts": [
+    "Responsible adult for 24 hours",
+    "Suitable home conditions",
+    "Ability to contact hospital in emergency",
+    "Owning a car"
+   ],
+   "ans": 3,
+   "exp": "Social: Responsible adult 24h; Suitable home conditions; Ability to contact hospital in emergency. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-021",
+   "sec": "Selection: Surgical",
+   "page": 26,
+   "q": "Day care operations must be doable within up to:",
+   "opts": [
+    "30 minutes",
+    "2 hours",
+    "6 hours",
+    "12 hours"
+   ],
+   "ans": 1,
+   "exp": "Surgical: Operations upto 2 hours. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-022",
+   "sec": "Selection: Surgical",
+   "page": 26,
+   "q": "Surgical selection needs the ability to:",
+   "opts": [
+    "Eat & drink within a reasonable timescale",
+    "Fast for 3 days",
+    "Stay in ICU",
+    "Walk 10 km"
+   ],
+   "ans": 0,
+   "exp": "Surgical: Ability to eat & drink within a reasonable timescale. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-023",
+   "sec": "Scheduling",
+   "page": 26,
+   "q": "In a stand alone day care unit, priority is given to:",
+   "opts": [
+    "Healthy patients",
+    "Comorbid patients",
+    "Emergency cases",
+    "Children only"
+   ],
+   "ans": 1,
+   "exp": "Stand alone day care unit: Priority for comorbid patients. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-024",
+   "sec": "Scheduling",
+   "page": 26,
+   "q": "In a mixed OT list:",
+   "opts": [
+    "Day care Sx done first",
+    "Day care Sx done last",
+    "Day care Sx cancelled",
+    "Order is random"
+   ],
+   "ans": 0,
+   "exp": "Mixed list: Day care Sx done first. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-025",
+   "sec": "Anaesthesia",
+   "page": 26,
+   "q": "Anaesthesia of choice for day care surgery is TIVA using:",
+   "opts": [
+    "Ketamine",
+    "Propofol",
+    "Thiopentone",
+    "Etomidate"
+   ],
+   "ans": 1,
+   "exp": "TIVA (Total intravenous anaesthesia): using Propofol. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-026",
+   "sec": "Anaesthesia",
+   "page": 26,
+   "q": "TIVA with propofol causes:",
+   "opts": [
+    "More post-op nausea & vomiting",
+    "Less post-op nausea & vomiting",
+    "More pain",
+    "Delayed recovery"
+   ],
+   "ans": 1,
+   "exp": "TIVA using Propofol: Less post-op nausea & vomiting. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-027",
+   "sec": "Anaesthesia",
+   "page": 26,
+   "q": "Analgesia for day care surgery is by infiltration of:",
+   "opts": [
+    "Lidocaine spray",
+    "Bupivacane",
+    "Morphine IV",
+    "Oral paracetamol only"
+   ],
+   "ans": 1,
+   "exp": "Analgesia: Infiltration of Bupivacane. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-028",
+   "sec": "Complications",
+   "page": 26,
+   "q": "The most common complication requiring re-admission after day care surgery is:",
+   "opts": [
+    "Pain",
+    "Haemorrhage",
+    "PONV",
+    "Fever"
+   ],
+   "ans": 1,
+   "exp": "Haemorrhage: m/c complication requiring re-admission. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-029",
+   "sec": "Complications",
+   "page": 26,
+   "q": "Primary haemorrhage occurs:",
+   "opts": [
+    "During Sx",
+    "4 to 24 hours after Sx",
+    "Few days after Sx",
+    "After 1 month"
+   ],
+   "ans": 0,
+   "exp": "Primary: During Sx; Reactionary: 4 to 24 hours; Secondary: Few days after Sx. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-030",
+   "sec": "Complications",
+   "page": 26,
+   "q": "Reactionary haemorrhage occurs:",
+   "opts": [
+    "During Sx",
+    "4 to 24 hours after Sx",
+    "Few days after Sx",
+    "After 1 month"
+   ],
+   "ans": 1,
+   "exp": "Reactionary: 4 to 24 hours after Sx. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-031",
+   "sec": "Complications",
+   "page": 26,
+   "q": "Secondary haemorrhage occurs a few days after surgery due to:",
+   "opts": [
+    "Hypertension",
+    "Infection",
+    "Coughing",
+    "Heparin"
+   ],
+   "ans": 1,
+   "exp": "Secondary: Few days after Sx (d/t infection). (Book p26)"
+  },
+  {
+   "id": "SURG-C5-032",
+   "sec": "Complications",
+   "page": 26,
+   "q": "The most common complication after day care surgery overall is:",
+   "opts": [
+    "Haemorrhage",
+    "Post-op nausea & vomiting (PONV)",
+    "Burst abdomen",
+    "DVT"
+   ],
+   "ans": 1,
+   "exp": "Post-op nausea & vomiting (PONV): m/c Complication. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-033",
+   "sec": "Complications",
+   "page": 26,
+   "q": "The score used to predict PONV is the:",
+   "opts": [
+    "Apfel score",
+    "Apgar score",
+    "Alvarado score",
+    "Child-Pugh score"
+   ],
+   "ans": 0,
+   "exp": "Apfel score: used to predict PONV. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-034",
+   "sec": "Complications",
+   "page": 26,
+   "q": "Which of the following is listed as a post-op complication of day care surgery?",
+   "opts": [
+    "Pain",
+    "Burst abdomen",
+    "Fistula",
+    "Stricture"
+   ],
+   "ans": 0,
+   "exp": "Post-op complications: Haemorrhage; PONV; Pain. (Book p26)"
+  },
+  {
+   "id": "SURG-C5-035",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Vital signs must be stable for at least ___ before day care discharge:",
+   "opts": [
+    "15 minutes",
+    "1 hour",
+    "6 hours",
+    "24 hours"
+   ],
+   "ans": 1,
+   "exp": "Discharge: Vital signs stable for at least 1 hour. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-036",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Before discharge, the patient must be oriented to:",
+   "opts": [
+    "Time only",
+    "Time, place, and person",
+    "Person only",
+    "Hospital only"
+   ],
+   "ans": 1,
+   "exp": "Discharge: Oriented to time, place, and person. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-037",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Pain control at discharge needs:",
+   "opts": [
+    "IV morphine pump",
+    "Adequate pain control with a supply of oral analgesia",
+    "No analgesia",
+    "Epidural catheter"
+   ],
+   "ans": 1,
+   "exp": "Discharge: Adequate pain control with a supply of oral analgesia. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-038",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "The patient must understand:",
+   "opts": [
+    "How to use oral analgesia supplied",
+    "Surgical technique",
+    "Drug manufacturing",
+    "Hospital billing"
+   ],
+   "ans": 0,
+   "exp": "Discharge: Understands how to use oral analgesia supplied. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-039",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Before discharge, the patient must have the ability to:",
+   "opts": [
+    "Run a mile",
+    "Dress and walk where appropriate",
+    "Drive home alone",
+    "Cook a meal"
+   ],
+   "ans": 1,
+   "exp": "Discharge: Ability to dress and walk where appropriate. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-040",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "At discharge there must be minimal:",
+   "opts": [
+    "Pain only",
+    "Nausea, vomiting or dizziness",
+    "Urine output",
+    "Sleep"
+   ],
+   "ans": 1,
+   "exp": "Discharge: minimal nausea, vomiting or dizziness. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-041",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Before discharge, the patient must have:",
+   "opts": [
+    "Taken oral fluids",
+    "Fasted 24 hours",
+    "Passed stool",
+    "Donated blood"
+   ],
+   "ans": 0,
+   "exp": "Discharge: Has taken oral fluids. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-042",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "At discharge there must be minimal:",
+   "opts": [
+    "Urine output",
+    "Bleeding or wound drainage",
+    "Oral intake",
+    "Movement"
+   ],
+   "ans": 1,
+   "exp": "Discharge: minimal bleeding or wound drainage. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-043",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Before discharge, the patient must have passed urine:",
+   "opts": [
+    "Always in all cases",
+    "If appropriate",
+    "Never needed",
+    "Only after 24 hours"
+   ],
+   "ans": 1,
+   "exp": "Discharge: Has passed urine (if appropriate). (Book p27)"
+  },
+  {
+   "id": "SURG-C5-044",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "For discharge, the patient must have:",
+   "opts": [
+    "A responsible adult to take them home",
+    "A personal car",
+    "A smartphone",
+    "Insurance papers"
+   ],
+   "ans": 0,
+   "exp": "Discharge: Has a responsible adult to take them home. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-045",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Instructions about postoperative care must be given:",
+   "opts": [
+    "Only verbally",
+    "Written and verbal",
+    "Only written",
+    "Not needed"
+   ],
+   "ans": 1,
+   "exp": "Discharge: Written and verbal instructions given about postoperative care. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-046",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "The patient must know when to come back for follow-up:",
+   "opts": [
+    "Always",
+    "If appropriate",
+    "Never",
+    "After 1 year only"
+   ],
+   "ans": 1,
+   "exp": "Discharge: Knows when to come back for follow-up (if appropriate). (Book p27)"
+  },
+  {
+   "id": "SURG-C5-047",
+   "sec": "Discharge",
+   "page": 27,
+   "q": "Before leaving, the patient must be supplied with:",
+   "opts": [
+    "Emergency contact number",
+    "Hospital map",
+    "Free medicines for a year",
+    "A wheelchair"
+   ],
+   "ans": 0,
+   "exp": "Discharge: Emergency contact number supplied. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-048",
+   "sec": "ERAS",
+   "page": 27,
+   "q": "ERAS protocol stands for:",
+   "opts": [
+    "Emergency recovery after Sx",
+    "Enhanced recovery after Sx",
+    "Early re-admission after Sx",
+    "Extended rest after Sx"
+   ],
+   "ans": 1,
+   "exp": "ERAS protocol (Enhanced recovery after Sx). (Book p27)"
+  },
+  {
+   "id": "SURG-C5-049",
+   "sec": "ERAS: Preop",
+   "page": 27,
+   "q": "Preoperative ERAS includes:",
+   "opts": [
+    "Mechanical bowel preparation",
+    "Patient counselling & expectations",
+    "Prolonged fasting",
+    "No counselling"
+   ],
+   "ans": 1,
+   "exp": "ERAS Preoperative: Patient counselling & expectations; Avoid mechanical bowel preparation. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-050",
+   "sec": "ERAS: Preop",
+   "page": 27,
+   "q": "Preoperative ERAS advises to:",
+   "opts": [
+    "Do mechanical bowel preparation",
+    "Avoid mechanical bowel preparation",
+    "Give enemas hourly",
+    "Fast for 24 hours"
+   ],
+   "ans": 1,
+   "exp": "ERAS Preoperative: Avoid mechanical bowel preparation. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-051",
+   "sec": "ERAS: Preop",
+   "page": 27,
+   "q": "As per ERAS, solids are allowed up to:",
+   "opts": [
+    "2 hours prior to Sx",
+    "6 hours prior to Sx",
+    "12 hours prior to Sx",
+    "24 hours prior to Sx"
+   ],
+   "ans": 1,
+   "exp": "ERAS: Solids up to 6 hours prior to Sx. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-052",
+   "sec": "ERAS: Preop",
+   "page": 27,
+   "q": "As per ERAS, carbohydrate loading is done:",
+   "opts": [
+    "2 to 3 hours before Sx",
+    "12 hours before Sx",
+    "During Sx",
+    "After Sx"
+   ],
+   "ans": 0,
+   "exp": "ERAS: Carbohydrate loading: 2 to 3 hours before Sx. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-053",
+   "sec": "ERAS: Preop",
+   "page": 27,
+   "q": "As per ERAS, clear liquids are allowed up to:",
+   "opts": [
+    "2 hours prior to Sx",
+    "6 hours prior to Sx",
+    "12 hours prior to Sx",
+    "1 hour prior to Sx"
+   ],
+   "ans": 0,
+   "exp": "ERAS: Clear liquids up to 2 hours prior to Sx. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-054",
+   "sec": "ERAS: Preop",
+   "page": 27,
+   "q": "Preoperative ERAS considers all of the following EXCEPT:",
+   "opts": [
+    "Acetaminophen",
+    "Pregabalin / gabapentin",
+    "Celecoxib",
+    "IV morphine load"
+   ],
+   "ans": 3,
+   "exp": "ERAS: Consider acetaminophen, pregabalin, gabapentin or celecoxib prior to Sx. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-055",
+   "sec": "ERAS: Intraop",
+   "page": 27,
+   "q": "Intraoperative ERAS prefers a:",
+   "opts": [
+    "Open approach",
+    "Minimally invasive surgical approach",
+    "Emergency approach",
+    "Staged approach"
+   ],
+   "ans": 1,
+   "exp": "ERAS Intraoperative: minimally invasive surgical approach. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-056",
+   "sec": "ERAS: Intraop",
+   "page": 27,
+   "q": "Intraoperative ERAS uses local anesthetic or long acting local like:",
+   "opts": [
+    "Plain lidocaine only",
+    "Liposomal bupivacaine",
+    "IV paracetamol",
+    "Oral ibuprofen"
+   ],
+   "ans": 1,
+   "exp": "ERAS: Local anesthetic or long acting local (liposomal bupivacaine). (Book p27)"
+  },
+  {
+   "id": "SURG-C5-057",
+   "sec": "ERAS: Intraop",
+   "page": 27,
+   "q": "Intraoperative ERAS advises to:",
+   "opts": [
+    "Cool the patient",
+    "Keep patient warm",
+    "Restrict all fluids",
+    "Avoid monitoring"
+   ],
+   "ans": 1,
+   "exp": "ERAS Intraoperative: Keep patient warm; IV fluid maintenance. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-058",
+   "sec": "ERAS: Intraop",
+   "page": 27,
+   "q": "ERAS prophylaxis for nausea & vomiting must cover at least:",
+   "opts": [
+    "1 class of medications",
+    "2 classes of medications",
+    "4 classes of medications",
+    "No prophylaxis"
+   ],
+   "ans": 1,
+   "exp": "ERAS: Prophylaxis for nausea & vomiting (At least 2 classes of medications). (Book p27)"
+  },
+  {
+   "id": "SURG-C5-059",
+   "sec": "ERAS: Intraop",
+   "page": 27,
+   "q": "Which drug is listed 'if appropriate' intraoperatively in ERAS?",
+   "opts": [
+    "Morphine",
+    "Toradol",
+    "Ketamine",
+    "Steroid"
+   ],
+   "ans": 1,
+   "exp": "ERAS Intraoperative: Toradol (if appropriate). (Book p27)"
+  },
+  {
+   "id": "SURG-C5-060",
+   "sec": "ERAS: Postop",
+   "page": 27,
+   "q": "Postoperative ERAS analgesia uses:",
+   "opts": [
+    "Opioids first",
+    "NSAIDS, acetaminophen, gabapentin",
+    "Only IV morphine",
+    "No analgesia"
+   ],
+   "ans": 1,
+   "exp": "ERAS Postoperative: NSAIDS, acetaminophen, gabapentin. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-061",
+   "sec": "ERAS: Postop",
+   "page": 27,
+   "q": "In postoperative ERAS, opioids are used:",
+   "opts": [
+    "As first line",
+    "Only for breakthrough pain",
+    "Continuously",
+    "Never"
+   ],
+   "ans": 1,
+   "exp": "ERAS: Opioids only for breakthrough pain. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-062",
+   "sec": "ERAS: Postop",
+   "page": 27,
+   "q": "As per ERAS, regular diet is resumed:",
+   "opts": [
+    "Within 24 hours",
+    "After 1 week",
+    "After 1 month",
+    "Immediately on table"
+   ],
+   "ans": 0,
+   "exp": "ERAS: Regular diet within 24 hours. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-063",
+   "sec": "ERAS: Postop",
+   "page": 27,
+   "q": "As per ERAS, IV fluids are discontinued:",
+   "opts": [
+    "Within 24 hours",
+    "After 1 week",
+    "After 1 month",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "ERAS: Discontinue IV fluids within 24 hours. (Book p27)"
+  },
+  {
+   "id": "SURG-C5-064",
+   "sec": "ERAS: Postop",
+   "page": 27,
+   "q": "As per ERAS, the patient must ambulate:",
+   "opts": [
+    "Within 24 hours",
+    "After 1 week",
+    "After 1 month",
+    "On day 7"
+   ],
+   "ans": 0,
+   "exp": "ERAS: Ambulate within 24 hours. (Book p27)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U5-1",
+   "ch": 5,
+   "n": 1,
+   "title": "Definition & Day-Care Examples",
+   "sec": "Definition · p25",
+   "qs": [
+    "SURG-C5-001",
+    "SURG-C5-002",
+    "SURG-C5-003",
+    "SURG-C5-004",
+    "SURG-C5-005",
+    "SURG-C5-006",
+    "SURG-C5-007",
+    "SURG-C5-008",
+    "SURG-C5-009",
+    "SURG-C5-010"
+   ],
+   "guide": "Day care means in and out within 12 hours - from haemorrhoids, hernias and lap cholecystectomy to breast biopsy, TURP, carpal tunnel release and varicose vein procedures."
+  },
+  {
+   "id": "SURG-U5-2",
+   "ch": 5,
+   "n": 2,
+   "title": "Selection: Medical Criteria",
+   "sec": "Selection · p25",
+   "qs": [
+    "SURG-C5-011",
+    "SURG-C5-012",
+    "SURG-C5-013",
+    "SURG-C5-014",
+    "SURG-C5-015"
+   ],
+   "guide": "Physiological age trumps chronological age: ASA I-II patients suit stand-alone centres while ASA III needs a hospital unit, with BMI capped at 38 for laparoscopic and 40 for surface procedures."
+  },
+  {
+   "id": "SURG-U5-3",
+   "ch": 5,
+   "n": 3,
+   "title": "Selection: Diabetes, Social & Surgical",
+   "sec": "Selection · p26",
+   "qs": [
+    "SURG-C5-016",
+    "SURG-C5-017",
+    "SURG-C5-018",
+    "SURG-C5-019",
+    "SURG-C5-020",
+    "SURG-C5-021",
+    "SURG-C5-022"
+   ],
+   "guide": "Diabetics under HbA1C 8.5 skip the morning OHA, blood pressure stays below 180/100, and epilepsy must be well controlled. Behind every day-care patient stands a responsible adult for 24 hours, a suitable home, operations under 2 hours, and a quick return to eating and drinking."
+  },
+  {
+   "id": "SURG-U5-4",
+   "ch": 5,
+   "n": 4,
+   "title": "Scheduling & Anaesthesia",
+   "sec": "Scheduling · p26",
+   "qs": [
+    "SURG-C5-023",
+    "SURG-C5-024",
+    "SURG-C5-025",
+    "SURG-C5-026",
+    "SURG-C5-027"
+   ],
+   "guide": "Comorbid patients get priority in stand-alone units, and day cases lead mixed lists. Propofol TIVA keeps nausea away while bupivacaine infiltration handles the pain."
+  },
+  {
+   "id": "SURG-U5-5",
+   "ch": 5,
+   "n": 5,
+   "title": "Post-op Complications",
+   "sec": "Complications · p26",
+   "qs": [
+    "SURG-C5-028",
+    "SURG-C5-029",
+    "SURG-C5-030",
+    "SURG-C5-031",
+    "SURG-C5-032",
+    "SURG-C5-033",
+    "SURG-C5-034"
+   ],
+   "guide": "Haemorrhage - primary during surgery, reactionary within 4-24 hours, secondary days later from infection - is the commonest cause of re-admission. PONV, predicted by the Apfel score, is the commonest complication overall, followed by pain."
+  },
+  {
+   "id": "SURG-U5-6",
+   "ch": 5,
+   "n": 6,
+   "title": "Discharge Criteria",
+   "sec": "Discharge · p27",
+   "qs": [
+    "SURG-C5-035",
+    "SURG-C5-036",
+    "SURG-C5-037",
+    "SURG-C5-038",
+    "SURG-C5-039",
+    "SURG-C5-040",
+    "SURG-C5-041",
+    "SURG-C5-042",
+    "SURG-C5-043",
+    "SURG-C5-044",
+    "SURG-C5-045",
+    "SURG-C5-046",
+    "SURG-C5-047"
+   ],
+   "guide": "Discharge demands an hour of stable vitals, full orientation, controlled pain with oral analgesia in hand, the ability to dress and walk, minimal nausea or bleeding, sips of fluid, passed urine, a responsible escort, clear written and verbal instructions, a follow-up plan and an emergency number."
+  },
+  {
+   "id": "SURG-U5-7",
+   "ch": 5,
+   "n": 7,
+   "title": "ERAS Protocol",
+   "sec": "ERAS · p27",
+   "qs": [
+    "SURG-C5-048",
+    "SURG-C5-049",
+    "SURG-C5-050",
+    "SURG-C5-051",
+    "SURG-C5-052",
+    "SURG-C5-053",
+    "SURG-C5-054",
+    "SURG-C5-055",
+    "SURG-C5-056",
+    "SURG-C5-057",
+    "SURG-C5-058",
+    "SURG-C5-059",
+    "SURG-C5-060",
+    "SURG-C5-061",
+    "SURG-C5-062",
+    "SURG-C5-063",
+    "SURG-C5-064"
+   ],
+   "guide": "ERAS fast-tracks recovery: counselled patients skip bowel prep, take solids till 6 hours and carb drinks till 2-3 hours, glide through minimally invasive surgery kept warm with multimodal antiemetics, then eat, walk and leave IV fluids behind - all within 24 hours on non-opioid analgesia."
+  }
+ ]
+}
