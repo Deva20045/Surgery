@@ -94,7 +94,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch8 Shock : Part 2 — p44-48 — **DONE (81 qs, 11 units)** 2026-09-13
 - [x] ch9 Breast : Part 1 — p49-54 — **DONE (85 qs, 10 units)** 2026-09-13
 - [x] ch10 Breast : Part 2 — p55-60 — **DONE (96 qs, 11 units)** 2026-09-13
-- [ ] ch11 Breast : Part 3 — p61-67 — Soon
+- [x] ch11 Breast : Part 3 — p61-67 — **DONE (90 qs, 11 units)** 2026-09-13
 - [ ] ch12 Breast : Part 4 — p68-74 — Soon
 - [ ] ch13 Breast : Part 5 — p75-81 — Soon
 - [ ] ch14 Thyroid : Part 1 — p82-89 — Soon
@@ -169,9 +169,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **10/72 chapters live** · Questions: 1039 · Units: 121
-- GitHub HTML: **synced at 10/72** (pushed 2026-09-13 after ch6-10 batch)
-- NEXT: ch11 Breast : Part 3 — p61-67 (v1a pdf 70-76)
+- Local HTML: **11/72 chapters live** · Questions: 1129 · Units: 132
+- GitHub HTML: **synced at 11/72** (pushed 2026-09-13 after ch11)
+- NEXT: ch12 Breast : Part 4 — p68-74 (v1a pdf 77-83)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).

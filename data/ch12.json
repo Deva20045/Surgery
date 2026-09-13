@@ -1,0 +1,2126 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C12-001",
+   "sec": "Chemotherapy Indications & NACT",
+   "page": 68,
+   "q": "Which of the following is NOT a listed indication for chemotherapy in breast cancer?",
+   "opts": [
+    "T1 tumor with ER, PR +ve and low recurrence risk",
+    "+ve lymph nodes",
+    "Locally advanced breast cancers",
+    "Her 2 neu +ve tumors"
+   ],
+   "ans": 0,
+   "exp": "Indications for chemotherapy: 1. +ve lymph nodes; 2. Locally advanced breast cancers; 3. ER, PR -ve tumors; 4. Her 2 neu +ve tumors; 5. metastasis. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-002",
+   "sec": "Chemotherapy Indications & NACT",
+   "page": 68,
+   "q": "Chemotherapy is indicated for breast tumors that are:",
+   "opts": [
+    "ER, PR -ve",
+    "ER, PR +ve",
+    "ER +ve only",
+    "PR +ve only"
+   ],
+   "ans": 0,
+   "exp": "Indication #3 for chemotherapy: ER, PR -ve tumors. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-003",
+   "sec": "Chemotherapy Indications & NACT",
+   "page": 68,
+   "q": "Which is NOT an indication for neoadjuvant chemotherapy (NACT)?",
+   "opts": [
+    "Small tumor with no desire for breast conservation",
+    "Locally advanced breast cancer (LABC)",
+    "Triple negative breast cancer (TNBC)",
+    "Large tumor with patient desiring BCS"
+   ],
+   "ans": 0,
+   "exp": "NACT indications: 1. LABC; 2. TNBC; 3. HER 2 Neu +ve; 4. Large tumors with patient desiring Breast conservation Sx (BCS). (Book p68)"
+  },
+  {
+   "id": "SURG-C12-004",
+   "sec": "Chemotherapy Indications & NACT",
+   "page": 68,
+   "q": "NACT is indicated for large tumors when the patient desires:",
+   "opts": [
+    "Breast conservation surgery (BCS)",
+    "Mastectomy",
+    "Radiotherapy alone",
+    "Hormonal therapy alone"
+   ],
+   "ans": 0,
+   "exp": "NACT indication #4: Large tumors with patient desiring Breast conservation Sx (BCS). (Book p68)"
+  },
+  {
+   "id": "SURG-C12-005",
+   "sec": "Chemotherapy Indications & NACT",
+   "page": 68,
+   "q": "Which is an advantage of NACT?",
+   "opts": [
+    "Downstage/downsize the tumour",
+    "Increase micrometastasis",
+    "Replace the need for surgery",
+    "Remove the need for RT after BCS"
+   ],
+   "ans": 0,
+   "exp": "Advantages of NACT: Downstage/downsize the tumour; ↓ micrometastasis; in vivo chemosensitivity indicator (RECIST criteria). (Book p68)"
+  },
+  {
+   "id": "SURG-C12-006",
+   "sec": "Chemotherapy Indications & NACT",
+   "page": 68,
+   "q": "NACT decreases which of the following?",
+   "opts": [
+    "Micrometastasis",
+    "Tumor size only",
+    "Lymph node yield",
+    "RECIST score"
+   ],
+   "ans": 0,
+   "exp": "Advantages of NACT include ↓ micrometastasis. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-007",
+   "sec": "Chemotherapy Indications & NACT",
+   "page": 68,
+   "q": "The in vivo chemosensitivity indicator during NACT is assessed by:",
+   "opts": [
+    "RECIST criteria",
+    "TNM staging",
+    "Van Nuys index",
+    "Karnofsky score"
+   ],
+   "ans": 0,
+   "exp": "In vivo chemosensitivity indicator: RECIST criteria (Response evaluation criteria in solid tumors). (Book p68)"
+  },
+  {
+   "id": "SURG-C12-008",
+   "sec": "RECIST Criteria",
+   "page": 68,
+   "q": "RECIST stands for:",
+   "opts": [
+    "Response Evaluation Criteria In Solid Tumors",
+    "Response Estimation Criteria In Soft Tissues",
+    "Recurrence Evaluation Criteria In Solid Tumors",
+    "Response Evaluation Criteria In Skin Tumors"
+   ],
+   "ans": 0,
+   "exp": "RECIST criteria = Response evaluation criteria in solid tumors. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-009",
+   "sec": "RECIST Criteria",
+   "page": 68,
+   "q": "On RECIST, Complete Response (CR) means:",
+   "opts": [
+    "Disappearance of all lesions & pathological lymph nodes",
+    "≥30% decrease in single largest diameter",
+    "No PR or PD",
+    "≥20% increase in SLD"
+   ],
+   "ans": 0,
+   "exp": "CR: Disappearance of all lesions & pathological lymph nodes. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-010",
+   "sec": "RECIST Criteria",
+   "page": 68,
+   "q": "Which breast cancer subtype has the highest pathological CR (pCR) rates?",
+   "opts": [
+    "TNBC",
+    "ER +ve lobular cancer",
+    "Her 2 neu -ve luminal A",
+    "LCIS"
+   ],
+   "ans": 0,
+   "exp": "pCR: TNBC have highest pCR rates. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-011",
+   "sec": "RECIST Criteria",
+   "page": 68,
+   "q": "Partial Response (PR) on RECIST requires at least what change in the single largest diameter (SLD)?",
+   "opts": [
+    "≥30% decrease",
+    "≥20% decrease",
+    "≥50% decrease",
+    "Any decrease"
+   ],
+   "ans": 0,
+   "exp": "PR: ≥30% ↓ in single largest diameter (SLD), no new lesions, no progression of non target lesions. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-012",
+   "sec": "RECIST Criteria",
+   "page": 68,
+   "q": "Which is required for a Partial Response (PR) on RECIST?",
+   "opts": [
+    "No new lesions and no progression of non target lesions",
+    "Disappearance of all lymph nodes",
+    "≥20% increase in SLD",
+    "New lesions <1 cm"
+   ],
+   "ans": 0,
+   "exp": "PR: ≥30% ↓ SLD; No new lesions; No progression of non target lesions. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-013",
+   "sec": "RECIST Criteria",
+   "page": 68,
+   "q": "Stable Disease (SD) on RECIST is defined as:",
+   "opts": [
+    "No PR or PD",
+    "Disappearance of target lesions",
+    "≥30% ↓ in SLD",
+    "≥20% ↑ in SLD"
+   ],
+   "ans": 0,
+   "exp": "SD: No PR or PD. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-014",
+   "sec": "RECIST Criteria",
+   "page": 68,
+   "q": "Progressive Disease (PD) on RECIST includes ≥20% increase in SLD, progression of non target lesions, or:",
+   "opts": [
+    "New lesions",
+    "≥30% decrease in SLD",
+    "Stable non target lesions",
+    "Disappearance of lesions"
+   ],
+   "ans": 0,
+   "exp": "PD: ≥20% ↑ SLD (or) Progression of non target lesions (or) New lesions. (Book p68)"
+  },
+  {
+   "id": "SURG-C12-015",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "A chemoport is placed:",
+   "opts": [
+    "Below the clavicle",
+    "Above the clavicle",
+    "In the femoral vein",
+    "In the internal jugular vein"
+   ],
+   "ans": 0,
+   "exp": "Chemoport: Placed below the clavicle; used to deliver chemo drugs; prevents thrombophlebitis. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-016",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "On X-ray, the chemoport tip lies in:",
+   "opts": [
+    "SVC just above right atrium",
+    "Right ventricle",
+    "Left atrium",
+    "Subclavian vein"
+   ],
+   "ans": 0,
+   "exp": "X Ray chemoport: Tip lies in SVC just above right atrium. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-017",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "A chemoport prevents which complication of chemotherapy delivery?",
+   "opts": [
+    "Thrombophlebitis",
+    "Peripheral neuropathy",
+    "Osteoporosis",
+    "Hot flashes"
+   ],
+   "ans": 0,
+   "exp": "Chemoport prevents thrombophlebitis. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-018",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "In the CAF/CMF regimens (now not used), F stands for:",
+   "opts": [
+    "5-Fluorouracil",
+    "Flutamide",
+    "Folinic acid",
+    "Fulvestrant"
+   ],
+   "ans": 0,
+   "exp": "CAF/CMF (not used): C cyclophosphamide, A Adriamycin, F 5-Fluorouracil, m methotrexate. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-019",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "In CMF, the letter m stands for:",
+   "opts": [
+    "Methotrexate",
+    "Mitomycin",
+    "Melphalan",
+    "Methoxy psoralen"
+   ],
+   "ans": 0,
+   "exp": "m: methotrexate. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-020",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "In CAF, the letter A stands for:",
+   "opts": [
+    "Adriamycin",
+    "Anastrozole",
+    "Abemaciclib",
+    "Atezolizumab"
+   ],
+   "ans": 0,
+   "exp": "A: Adriamycin. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-021",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "The currently used regimen for Her 2 neu -ve breast cancer is:",
+   "opts": [
+    "4 cycles AC/EC then 4 cycles T",
+    "6 cycles TCH + P",
+    "CAF for 6 cycles",
+    "CMF for 1 year"
+   ],
+   "ans": 0,
+   "exp": "Her 2 neu -ve: Currently used = 4 cycles AC/EC then 4 cycles T. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-022",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "In the AC/EC regimen, E stands for:",
+   "opts": [
+    "Epirubicin",
+    "Etoposide",
+    "Erlotinib",
+    "Everolimus"
+   ],
+   "ans": 0,
+   "exp": "E: Epirubicin. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-023",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "The T in '4 cycles T' refers to:",
+   "opts": [
+    "Taxanes (Paclitaxel/Docetaxel)",
+    "Tamoxifen",
+    "Trastuzumab",
+    "Topotecan"
+   ],
+   "ans": 0,
+   "exp": "T: Taxanes (Paclitaxel/Docetaxel). (Book p69)"
+  },
+  {
+   "id": "SURG-C12-024",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "The side effect of Paclitaxel is:",
+   "opts": [
+    "Peripheral neuropathy",
+    "Endometrial hyperplasia",
+    "Osteoporosis",
+    "DVT"
+   ],
+   "ans": 0,
+   "exp": "S/E of Paclitaxel: Peripheral neuropathy. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-025",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "The regimen for Her 2 neu +ve breast cancer is:",
+   "opts": [
+    "6 cycles TCH + P",
+    "4 cycles AC/EC then 4 cycles T",
+    "CAF/CMF",
+    "Tamoxifen for 5 years"
+   ],
+   "ans": 0,
+   "exp": "Her 2 neu +ve: 6 cycles TCH + P. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-026",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "In TCH + P, the C stands for:",
+   "opts": [
+    "Carboplatin",
+    "Cyclophosphamide",
+    "Cisplatin",
+    "Capecitabine"
+   ],
+   "ans": 0,
+   "exp": "TCH + P: T Taxanes, C Carboplatin, H Herceptin, P Pertuzumab. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-027",
+   "sec": "Chemoport & Regimens",
+   "page": 69,
+   "q": "Which two drugs in TCH + P are the anti-Her 2 neu agents?",
+   "opts": [
+    "Herceptin and Pertuzumab",
+    "Taxanes and Carboplatin",
+    "Herceptin and Tamoxifen",
+    "Pertuzumab and Paclitaxel"
+   ],
+   "ans": 0,
+   "exp": "H: Herceptin + P: Pertuzumab = Anti-Her 2 neu. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-028",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "Chemotherapy is avoided in breast cancer patients with:",
+   "opts": [
+    "Poor performance status (Karnofsky/ECOG score)",
+    "TNBC subtype",
+    "Her 2 neu +ve disease",
+    "+ve lymph nodes"
+   ],
+   "ans": 0,
+   "exp": "Avoid chemotherapy in: 1. Poor performance status (Karnofsky/ECOG score); 2. Low-risk molecular profile. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-029",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "In T1/T2, N0/N1, M0 with ER ± and Her 2 neu -ve disease, molecular testing is done to indicate:",
+   "opts": [
+    "Risk of recurrence",
+    "Risk of lymphedema",
+    "RT dose",
+    "Need for SLNB"
+   ],
+   "ans": 0,
+   "exp": "For T1/T2, N0/N1, M0, ER±, Her2 neu- patients: Do molecular testing (indicates risk of recurrence). (Book p69)"
+  },
+  {
+   "id": "SURG-C12-030",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "If molecular testing shows LOW risk of recurrence, the plan is:",
+   "opts": [
+    "Avoid chemo",
+    "Give chemo",
+    "Give RT only",
+    "Mastectomy"
+   ],
+   "ans": 0,
+   "exp": "Molecular testing: Low → Avoid chemo; High → Chemo given. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-031",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "Oncotype Dx is a:",
+   "opts": [
+    "21 gene assay",
+    "70 gene assay",
+    "12 gene assay",
+    "50 gene assay"
+   ],
+   "ans": 0,
+   "exp": "Oncotype Dx: 21 gene assay. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-032",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "Mammaprint is a:",
+   "opts": [
+    "70 gene assay",
+    "21 gene assay",
+    "12 gene assay",
+    "50 gene assay"
+   ],
+   "ans": 0,
+   "exp": "Mammaprint: 70 gene assay. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-033",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "Endopredict is a:",
+   "opts": [
+    "12 gene assay",
+    "21 gene assay",
+    "70 gene assay",
+    "50 gene assay"
+   ],
+   "ans": 0,
+   "exp": "Endopredict: 12 gene assay. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-034",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "PAM 50 is a:",
+   "opts": [
+    "50 gene assay",
+    "21 gene assay",
+    "70 gene assay",
+    "12 gene assay"
+   ],
+   "ans": 0,
+   "exp": "PAM 50: 50 gene assay. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-035",
+   "sec": "Avoiding Chemo & Molecular Tests",
+   "page": 69,
+   "q": "The Indian molecular test for recurrence risk in breast cancer is:",
+   "opts": [
+    "CAN assist",
+    "Oncotype Dx",
+    "Mammaprint",
+    "Endopredict"
+   ],
+   "ans": 0,
+   "exp": "CAN assist: Indian test. (Book p69)"
+  },
+  {
+   "id": "SURG-C12-036",
+   "sec": "Radiotherapy: WBI vs APBI",
+   "page": 70,
+   "q": "Which is NOT a listed indication for radiotherapy in breast cancer?",
+   "opts": [
+    "T1 tumor <2 cm with clear margins and N0",
+    "+ve lymph nodes",
+    "Tumor >5 cm (> T3)",
+    "After BCS"
+   ],
+   "ans": 0,
+   "exp": "RT indications: 1. +ve lymph nodes; 2. Tumor >5 cm (> T3); 3. Locally advanced breast carcinoma (LABC); 4. After BCS. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-037",
+   "sec": "Radiotherapy: WBI vs APBI",
+   "page": 70,
+   "q": "Whole breast irradiation (WBI) targets the breast and which lymph nodes?",
+   "opts": [
+    "Axilla, infra & supraclavicular, internal mammary",
+    "Axilla only",
+    "Internal mammary only",
+    "Supraclavicular only"
+   ],
+   "ans": 0,
+   "exp": "WBI target sites: Breast + Lymph nodes: Axilla, infra & supraclavicular, internal mammary. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-038",
+   "sec": "Radiotherapy: WBI vs APBI",
+   "page": 70,
+   "q": "The duration and dose of WBI is:",
+   "opts": [
+    "25 days: 50-54 Gy",
+    "5 days: 30-34 Gy",
+    "10 days: 40 Gy",
+    "30 days: 60-70 Gy"
+   ],
+   "ans": 0,
+   "exp": "WBI duration: 25 days: 50-54 Gy. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-039",
+   "sec": "Radiotherapy: WBI vs APBI",
+   "page": 70,
+   "q": "Accelerated partial breast irradiation (APBI) is delivered over:",
+   "opts": [
+    "5 days: 30-34 Gy",
+    "25 days: 50-54 Gy",
+    "15 days: 45 Gy",
+    "3 days: 20 Gy"
+   ],
+   "ans": 0,
+   "exp": "APBI duration: 5 days: 30-34 Gy. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-040",
+   "sec": "Radiotherapy: WBI vs APBI",
+   "page": 70,
+   "q": "The target site of APBI is:",
+   "opts": [
+    "Partial breast",
+    "Whole breast + axilla",
+    "Internal mammary chain",
+    "Chest wall"
+   ],
+   "ans": 0,
+   "exp": "APBI target: Partial breast. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-041",
+   "sec": "Radiotherapy: WBI vs APBI",
+   "page": 70,
+   "q": "Which is NOT an indication of APBI?",
+   "opts": [
+    "Age <50 years",
+    "T1 tumor",
+    "ER, PR (+)",
+    "-ve lymphovascular invasion"
+   ],
+   "ans": 0,
+   "exp": "APBI indications: 1. T1; 2. ER, PR (+); 3. -ve lymphovascular invasion; 4. Unifocal; 5. -ve margins; 6. ≥50 years. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-042",
+   "sec": "Radiotherapy: WBI vs APBI",
+   "page": 70,
+   "q": "In APBI, the electrodes are placed in:",
+   "opts": [
+    "The tumor cavity",
+    "The axilla",
+    "The skin surface",
+    "The internal mammary chain"
+   ],
+   "ans": 0,
+   "exp": "APBI: Electrodes placed in cavity. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-043",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "Hormonal therapy in breast cancer is indicated when:",
+   "opts": [
+    "Either or both ER/PR +ve",
+    "Only when both ER and PR are +ve",
+    "Only in metastatic disease",
+    "Only after chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Hormonal therapy indication: Either or both ER/PR +ve. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-044",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "The drug for pre-menopausal women is:",
+   "opts": [
+    "Tamoxifen (SERM)",
+    "Letrozole",
+    "Anastrozole",
+    "Olaparib"
+   ],
+   "ans": 0,
+   "exp": "Pre-menopausal: Selective estrogen receptor modulator (SERM): Tamoxifen. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-045",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "Tamoxifen belongs to which drug class?",
+   "opts": [
+    "Selective estrogen receptor modulator (SERM)",
+    "Aromatase inhibitor",
+    "LHRH analogue",
+    "CDK 4/6 inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen = SERM. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-046",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "The drugs for post-menopausal women are:",
+   "opts": [
+    "Aromatase inhibitors: Letrozole, Anastrozole",
+    "Tamoxifen only",
+    "Fulvestrant only",
+    "Zoladex only"
+   ],
+   "ans": 0,
+   "exp": "Post-menopausal: Aromatase inhibitors: Letrozole, Anastrozole. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-047",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "The standard duration of tamoxifen is:",
+   "opts": [
+    "5 years (extended upto 10 years in some cases)",
+    "1 year",
+    "2 years",
+    "Lifetime"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen duration: 5 years; in some cases extended upto 10 years. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-048",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "The duration of aromatase inhibitor therapy is:",
+   "opts": [
+    "5-10 years",
+    "1-2 years",
+    "6 months",
+    "20 years"
+   ],
+   "ans": 0,
+   "exp": "Aromatase inhibitors duration: 5-10 years. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-049",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "The most common side effect of tamoxifen is:",
+   "opts": [
+    "Hot flashes",
+    "Osteoporosis",
+    "Peripheral neuropathy",
+    "Cardiotoxicity"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen side effects: Hot flashes (m/c), endometrial hyperplasia, DVT. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-050",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "Besides hot flashes, tamoxifen causes:",
+   "opts": [
+    "Endometrial hyperplasia and DVT",
+    "Osteoporosis",
+    "Cataract",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen S/E: Hot flashes (m/c); Endometrial hyperplasia; DVT. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-051",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "The most common side effect of aromatase inhibitors is:",
+   "opts": [
+    "Osteoporosis",
+    "Endometrial hyperplasia",
+    "DVT",
+    "Hot flashes"
+   ],
+   "ans": 0,
+   "exp": "Aromatase inhibitors: Osteoporosis (m/c). (Book p70)"
+  },
+  {
+   "id": "SURG-C12-052",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "Before starting aromatase inhibitors, which baseline test is done?",
+   "opts": [
+    "DEXA scan",
+    "Mammogram",
+    "Pelvic USG",
+    "LFT"
+   ],
+   "ans": 0,
+   "exp": "Before starting aromatase inhibitors, baseline DEXA scan done. If low, start vit D3, Ca2+ & bisphosphonate. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-053",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "If the DEXA scan is low before starting aromatase inhibitors, start:",
+   "opts": [
+    "Vit D3, Ca2+ & bisphosphonate",
+    "Tamoxifen",
+    "Estrogen supplements",
+    "RT"
+   ],
+   "ans": 0,
+   "exp": "If DEXA low: start vit D3, Ca2+ & bisphosphonate. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-054",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "When planning pregnancy while on tamoxifen, tamoxifen must be completely taken for how many years (out of 5)?",
+   "opts": [
+    "2 years",
+    "1 year",
+    "4 years",
+    "5 years without break"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen has to be completely taken for 2 years (out of 5 years) before pausing for pregnancy. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-055",
+   "sec": "Hormonal Therapy",
+   "page": 70,
+   "q": "If a patient on tamoxifen wants to conceive after 2 years (no distant mets/contraindication), tamoxifen must be stopped:",
+   "opts": [
+    "3 months prior to conception",
+    "1 week prior",
+    "1 year prior",
+    "It need not be stopped"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen has to be stopped 3 months prior to conception. (Book p70)"
+  },
+  {
+   "id": "SURG-C12-056",
+   "sec": "Prognostic Factors",
+   "page": 71,
+   "q": "The most important prognostic factor in breast cancer is:",
+   "opts": [
+    "Axillary LN status",
+    "Tumor size",
+    "Grade",
+    "Age"
+   ],
+   "ans": 0,
+   "exp": "Most important prognostic factor: Axillary LN status. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-057",
+   "sec": "Prognostic Factors",
+   "page": 71,
+   "q": "In metastatic breast cancer, the most important prognostic factor is:",
+   "opts": [
+    "ER, PR status",
+    "Axillary LN status",
+    "Ki-67 index",
+    "Tumor size"
+   ],
+   "ans": 0,
+   "exp": "In metastatic breast cancer: ER, PR status. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-058",
+   "sec": "Prognostic Factors",
+   "page": 71,
+   "q": "Which is a poor prognostic DISEASE factor?",
+   "opts": [
+    "High Ki-67 index",
+    "Older age",
+    "Post-menopausal status",
+    "Absence of DCIS component"
+   ],
+   "ans": 0,
+   "exp": "Disease factors: ↑ size, ↑ stage, axillary LN involvement, ↑ grade, aggressive histopathological variant, lymphovascular invasion, extensive DCIS component, high Ki-67 index. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-059",
+   "sec": "Prognostic Factors",
+   "page": 71,
+   "q": "Which histopathological variant of breast cancer is aggressive?",
+   "opts": [
+    "Metaplastic carcinoma",
+    "Tubular carcinoma",
+    "Papillary DCIS",
+    "Fibroadenoma"
+   ],
+   "ans": 0,
+   "exp": "Histopathological variant: metaplastic carcinoma is aggressive. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-060",
+   "sec": "Prognostic Factors",
+   "page": 71,
+   "q": "Poor prognostic disease factors include Her2/neu positive and which subtype?",
+   "opts": [
+    "Triple negative",
+    "Luminal A",
+    "LCIS",
+    "Lobular in situ"
+   ],
+   "ans": 0,
+   "exp": "Aggressive biology: Her2/neu positive and triple negative. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-061",
+   "sec": "Prognostic Factors",
+   "page": 71,
+   "q": "Which is a poor prognostic PATIENT factor?",
+   "opts": [
+    "Younger age",
+    "Older age",
+    "Male sex",
+    "Absence of family history"
+   ],
+   "ans": 0,
+   "exp": "Patient factors: Younger age, premenopausal women, BRCA-associated tumour, family history, prior history, obesity/sedentary lifestyle, failure to complete intended treatment. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-062",
+   "sec": "Prognostic Factors",
+   "page": 71,
+   "q": "BRCA-associated tumours and lobular histology are listed under:",
+   "opts": [
+    "Poor prognostic patient factors / bilateral cancer features",
+    "Good prognostic factors",
+    "RECIST criteria",
+    "APBI indications"
+   ],
+   "ans": 0,
+   "exp": "Patient factors include BRCA-associated tumour; bilateral breast carcinoma is usually BRCA (+) with lobular histology. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-063",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "In follow-up, clinical visits in the first 2 years are:",
+   "opts": [
+    "Every 3 months",
+    "Every 6 months",
+    "Every year",
+    "Every month"
+   ],
+   "ans": 0,
+   "exp": "Clinical visits: Every 3 months for first 2 years; every 6 months b/w 2-5 years; every year after 5 years. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-064",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "Between 2-5 years, follow-up visits are:",
+   "opts": [
+    "Every 6 months",
+    "Every 3 months",
+    "Every 2 years",
+    "Monthly"
+   ],
+   "ans": 0,
+   "exp": "Every 6 months b/w 2-5 years. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-065",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "After 5 years, follow-up visits are:",
+   "opts": [
+    "Every year",
+    "Every 3 months",
+    "Every 6 months",
+    "Only if symptomatic"
+   ],
+   "ans": 0,
+   "exp": "Every year after 5 years. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-066",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "Mammogram/USG in follow-up is done:",
+   "opts": [
+    "Once a year",
+    "Every 3 months",
+    "Every 2 years",
+    "Once in 5 years"
+   ],
+   "ans": 0,
+   "exp": "Mammogram/USG: Once a year. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-067",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "A patient on tamoxifen needs which investigation in follow-up?",
+   "opts": [
+    "USG pelvis (endometrial thickness)",
+    "DEXA scan yearly",
+    "CT chest",
+    "Serum CEA"
+   ],
+   "ans": 0,
+   "exp": "Patient on tamoxifen: USG pelvis (Endometrial thickness). (Book p71)"
+  },
+  {
+   "id": "SURG-C12-068",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "The serum marker for breast cancer is:",
+   "opts": [
+    "S. Ca 15-3",
+    "CEA",
+    "CA 19-9",
+    "AFP"
+   ],
+   "ans": 0,
+   "exp": "Serum marker: S. Ca 15-3. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-069",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "In early breast cancer (T1, T2/N0, N1/M0), if N0 the nodal procedure is:",
+   "opts": [
+    "SLNB",
+    "Full axillary clearance",
+    "No nodal surgery",
+    "Radiotherapy to axilla"
+   ],
+   "ans": 0,
+   "exp": "Sx: 1. BCS; 2. If N0 → SLNB; 3. If BCS C/I → mastectomy. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-070",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "In early breast cancer, BCS is contraindicated; the surgical alternative is:",
+   "opts": [
+    "Mastectomy",
+    "SLNB",
+    "RT alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "If BCS C/I → mastectomy. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-071",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "In early breast cancer, radiotherapy (RT) is indicated after:",
+   "opts": [
+    "BCS and in LN +ve disease",
+    "Mastectomy for T1N0",
+    "SLNB alone",
+    "Hormonal therapy only"
+   ],
+   "ans": 0,
+   "exp": "RT indications in summary: BCS; LN +ve. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-072",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "Hormonal therapy in the early breast cancer summary is given when:",
+   "opts": [
+    "ER, PR +ve",
+    "ER, PR -ve",
+    "Her 2 neu +ve",
+    "Always"
+   ],
+   "ans": 0,
+   "exp": "Hormonal: ER, PR +ve. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-073",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "In early breast cancer with ER, PR ± and LOW risk on molecular tests:",
+   "opts": [
+    "Avoid chemo",
+    "Give chemo",
+    "Give trastuzumab",
+    "Give RT only"
+   ],
+   "ans": 0,
+   "exp": "T1, T2/N0, N1/M0 & ER, PR ± → molecular tests: Low risk → Avoid chemo; High risk → Give chemo. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-074",
+   "sec": "Follow up & Treatment Summary",
+   "page": 71,
+   "q": "Which subtypes receive chemotherapy regardless of molecular testing?",
+   "opts": [
+    "TNBC and Her 2 neu +ve",
+    "ER +ve low risk",
+    "LCIS",
+    "T1N0 lobular"
+   ],
+   "ans": 0,
+   "exp": "TNBC, Her 2 neu +ve → Chemo. (Book p71)"
+  },
+  {
+   "id": "SURG-C12-075",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "Criteria for LABC include T3N1M0 and:",
+   "opts": [
+    "Any T4, any N2, any N3 (M0)",
+    "T1N0M0",
+    "Only T2N1",
+    "Any M1"
+   ],
+   "ans": 0,
+   "exp": "LABC criteria: T3N1M0, Any T4, Any N2, Any N3 → M0. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-076",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "Peau d' orange corresponds to which T stage?",
+   "opts": [
+    "T4b",
+    "T1",
+    "T2",
+    "T3"
+   ],
+   "ans": 0,
+   "exp": "Peau d' orange = T4b (shown with LABC). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-077",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "The management sequence of LABC is:",
+   "opts": [
+    "NACT → Sx (BCS/mastectomy) → RT",
+    "Sx → NACT → RT",
+    "RT → Sx → NACT",
+    "HT → Sx → RT"
+   ],
+   "ans": 0,
+   "exp": "Mx of LABC: NACT → Sx (BCS/mastectomy) → RT. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-078",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "In LABC that is ER, PR +ve, what is added to treatment?",
+   "opts": [
+    "Hormonal therapy",
+    "Olaparib",
+    "Lapatinib",
+    "Bisphosphonates"
+   ],
+   "ans": 0,
+   "exp": "ER, PR +ve → Hormonal therapy. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-079",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "In Her 2 neu +ve LABC, the targeted drug and its duration is:",
+   "opts": [
+    "Trastuzumab for 1 year",
+    "Lapatinib for 6 months",
+    "TDM1 for 2 years",
+    "Pertuzumab for 5 years"
+   ],
+   "ans": 0,
+   "exp": "Her 2 neu +ve → Trastuzumab (For 1 year). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-080",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "Metastatic breast cancer is defined by:",
+   "opts": [
+    "M1",
+    "T4",
+    "N3",
+    "Any T with LVI"
+   ],
+   "ans": 0,
+   "exp": "Metastatic breast cancer: Criteria: M1. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-081",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "The aim of treatment in metastatic breast cancer is:",
+   "opts": [
+    "Palliative",
+    "Curative",
+    "Prophylactic",
+    "Neoadjuvant"
+   ],
+   "ans": 0,
+   "exp": "Mx of metastatic disease: Palliative. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-082",
+   "sec": "LABC & Metastatic Disease",
+   "page": 72,
+   "q": "In metastatic breast cancer, Olaparib is used if:",
+   "opts": [
+    "BRCA +ve",
+    "ER +ve",
+    "Her 2 neu +ve",
+    "PD-L1 +ve"
+   ],
+   "ans": 0,
+   "exp": "Olaparib is used if BRCA +ve. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-083",
+   "sec": "Metastatic Subtype-directed Therapy",
+   "page": 72,
+   "q": "In ER, PR +ve / Her 2 neu -ve metastatic disease, hormonal therapy is combined with:",
+   "opts": [
+    "CDK 4/6 inhibitors (Palbociclib, Ribociclib, Abemaciclib)",
+    "Pembrolizumab",
+    "Trastuzumab",
+    "Methotrexate"
+   ],
+   "ans": 0,
+   "exp": "ER, PR +ve Her2-: Hormonal therapy + CD 4/6 (-) inhibitors: Palbociclib, Ribociclib, Abemaciclib. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-084",
+   "sec": "Metastatic Subtype-directed Therapy",
+   "page": 72,
+   "q": "If resistance develops in ER/PR +ve metastatic disease, the options are:",
+   "opts": [
+    "Chemo, Zoladex (LHRH analogues), Fulvestrant (HT)",
+    "Lapatinib",
+    "TDM1",
+    "Pembrolizumab"
+   ],
+   "ans": 0,
+   "exp": "If resistance develops: Chemo; Zoladex (LHRH analogues); Fulvestrant (HT). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-085",
+   "sec": "Metastatic Subtype-directed Therapy",
+   "page": 72,
+   "q": "Fulvestrant works as:",
+   "opts": [
+    "Hormonal therapy (HT)",
+    "CDK 4/6 inhibitor",
+    "Anti-Her 2 neu",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Fulvestrant (HT). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-086",
+   "sec": "Metastatic Subtype-directed Therapy",
+   "page": 72,
+   "q": "In metastatic TNBC, chemo is combined with:",
+   "opts": [
+    "Pembrolizumab and Atezolizumab (PD-L1)",
+    "Palbociclib",
+    "Trastuzumab",
+    "Tamoxifen"
+   ],
+   "ans": 0,
+   "exp": "TNBC: Chemo + Pembrolizumab/Atezolizumab (PDL1). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-087",
+   "sec": "Metastatic Subtype-directed Therapy",
+   "page": 72,
+   "q": "In metastatic Her 2 neu +ve disease, chemo is combined with:",
+   "opts": [
+    "Trastuzumab",
+    "Lapatinib first line",
+    "Fulvestrant",
+    "Ribociclib"
+   ],
+   "ans": 0,
+   "exp": "Her 2 neu +: Chemo + Trastuzumab. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-088",
+   "sec": "Metastatic Subtype-directed Therapy",
+   "page": 72,
+   "q": "If resistance develops in Her 2 neu +ve metastatic disease, the ORAL anti-Her 2 drug that crosses the blood-brain barrier (brain mets) is:",
+   "opts": [
+    "Lapatinib",
+    "TDM1",
+    "Pertuzumab",
+    "Trastuzumab"
+   ],
+   "ans": 0,
+   "exp": "Lapatinib (Oral anti Her 2 neu) - Rx of brain mets (Cross blood brain barrier). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-089",
+   "sec": "Metastatic Subtype-directed Therapy",
+   "page": 72,
+   "q": "The IV anti-Her 2 neu agent used after resistance is:",
+   "opts": [
+    "TDM1",
+    "Lapatinib",
+    "Palbociclib",
+    "Olaparib"
+   ],
+   "ans": 0,
+   "exp": "TDM1 (IV anti Her 2 neu). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-090",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 72,
+   "q": "Pregnancy associated breast cancer is breast cancer occurring:",
+   "opts": [
+    "During pregnancy or within 1 year of delivery",
+    "Only during pregnancy",
+    "Within 5 years of delivery",
+    "During lactation only"
+   ],
+   "ans": 0,
+   "exp": "Criteria: Breast cancer during pregnancy / within 1 year of delivery. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-091",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 72,
+   "q": "Pregnancy associated breast cancers are typically:",
+   "opts": [
+    "ER, PR -ve and aggressive",
+    "ER, PR +ve and indolent",
+    "Her 2 neu +ve only",
+    "LCIS"
+   ],
+   "ans": 0,
+   "exp": "Features: ER, PR -ve; Aggressive tumors. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-092",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 72,
+   "q": "Diagnosis of pregnancy associated breast cancer is by:",
+   "opts": [
+    "Core biopsy",
+    "FNAC only",
+    "PET scan",
+    "Mammogram"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: Core biopsy. (Book p72)"
+  },
+  {
+   "id": "SURG-C12-093",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 72,
+   "q": "The investigation of choice (IOC) in pregnancy is:",
+   "opts": [
+    "USG",
+    "Mammogram",
+    "CT",
+    "PET"
+   ],
+   "ans": 0,
+   "exp": "Ix: USG (IOC). (Book p72)"
+  },
+  {
+   "id": "SURG-C12-094",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 73,
+   "q": "In the 1st trimester, the surgery of choice is:",
+   "opts": [
+    "Mastectomy",
+    "BCS with immediate RT",
+    "SLNB only",
+    "No surgery ever"
+   ],
+   "ans": 0,
+   "exp": "Sx: Mastectomy in 1st trimester; BCS in 2nd/3rd trimester → RT after delivery. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-095",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 73,
+   "q": "BCS in pregnancy is done in the 2nd/3rd trimester; RT is given:",
+   "opts": [
+    "After delivery",
+    "Immediately in 2nd trimester",
+    "During 3rd trimester",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "BCS in 2nd/3rd trimester → RT after delivery. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-096",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 73,
+   "q": "Chemotherapy in pregnancy is:",
+   "opts": [
+    "C/I in 1st trimester; safe in 2nd/3rd trimester",
+    "Safe in all trimesters",
+    "C/I in all trimesters",
+    "Safe only in 1st trimester"
+   ],
+   "ans": 0,
+   "exp": "Chemo: C/I in 1st trimester; Safe in 2nd/3rd trimester. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-097",
+   "sec": "Pregnancy Associated Breast Cancer",
+   "page": 73,
+   "q": "Hormonal therapy and RT during pregnancy are:",
+   "opts": [
+    "C/I in all trimesters",
+    "Safe in 2nd trimester",
+    "Safe in 3rd trimester",
+    "C/I only in 1st trimester"
+   ],
+   "ans": 0,
+   "exp": "HT & RT: C/I in all trimesters. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-098",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "Bilateral breast carcinoma is usually:",
+   "opts": [
+    "BRCA (+) with lobular histology",
+    "BRCA negative with ductal histology",
+    "Unrelated to genetics",
+    "Always comedo type"
+   ],
+   "ans": 0,
+   "exp": "Features: Usually BRCA (+); Lobular histology. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-099",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "If bilateral breast cancers are diagnosed at the same time:",
+   "opts": [
+    "Both are staged separately",
+    "They are staged as one cancer",
+    "Only the larger one is staged",
+    "Staging is not needed"
+   ],
+   "ans": 0,
+   "exp": "Dx: If diagnosed at the same time → Both staged separately. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-100",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "Treatment of bilateral breast carcinoma is governed by:",
+   "opts": [
+    "The more advanced/aggressive cancer",
+    "The smaller cancer",
+    "Always bilateral mastectomy only",
+    "LCIS protocol"
+   ],
+   "ans": 0,
+   "exp": "Treatment: Governed by more advance/aggressive cancer. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-101",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "The most important BRCA risk factor for male breast cancer is:",
+   "opts": [
+    "BRCA 2 > BRCA 1",
+    "BRCA 1 only",
+    "No BRCA link",
+    "BRCA 2 only in females"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: 1. BRCA 2 > 1; 2. Obesity; 3. Klinefelter syndrome; 4. Alcohol intake; 5. Liver cirrhosis. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-102",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "Which syndrome is a risk factor for male breast cancer?",
+   "opts": [
+    "Klinefelter syndrome",
+    "Turner syndrome",
+    "Down syndrome",
+    "Marfan syndrome"
+   ],
+   "ans": 0,
+   "exp": "Risk factor #3: Klinefelter syndrome. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-103",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "Besides BRCA2, risk factors for male breast cancer include:",
+   "opts": [
+    "Obesity, alcohol intake and liver cirrhosis",
+    "Smoking only",
+    "Early puberty",
+    "High testosterone"
+   ],
+   "ans": 0,
+   "exp": "Obesity, alcohol intake, liver cirrhosis (with Klinefelter). (Book p73)"
+  },
+  {
+   "id": "SURG-C12-104",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "The clinical feature of male breast cancer is:",
+   "opts": [
+    "Hard mass/lump",
+    "Diffuse tenderness",
+    "Skin rash",
+    "Galactorrhea only"
+   ],
+   "ans": 0,
+   "exp": "C/F: Hard mass/lump. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-105",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "Diagnosis of male breast cancer is by:",
+   "opts": [
+    "Biopsy",
+    "USG only",
+    "Serum PSA",
+    "Clinical exam alone"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: Biopsy. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-106",
+   "sec": "Bilateral & Male Breast Carcinoma",
+   "page": 73,
+   "q": "Mx & prognosis of male breast cancer is:",
+   "opts": [
+    "Same as female breast cancer",
+    "Worse with no treatment options",
+    "Better and needs no therapy",
+    "Only palliative"
+   ],
+   "ans": 0,
+   "exp": "Mx & prognosis: Same as female breast cancer. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-107",
+   "sec": "DCIS & Van Nuys",
+   "page": 73,
+   "q": "Ductal carcinoma in situ (DCIS) is:",
+   "opts": [
+    "Non invasive",
+    "Invasive by definition",
+    "Always metastatic",
+    "A lobular lesion"
+   ],
+   "ans": 0,
+   "exp": "DCIS: Non invasive. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-108",
+   "sec": "DCIS & Van Nuys",
+   "page": 73,
+   "q": "The most common type of DCIS is:",
+   "opts": [
+    "Papillary",
+    "Comedo",
+    "Solid",
+    "Cribriform"
+   ],
+   "ans": 0,
+   "exp": "Types: Papillary (m/c), Cribriform, Solid, Comedo. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-109",
+   "sec": "DCIS & Van Nuys",
+   "page": 73,
+   "q": "Papillary, cribriform and solid DCIS types are typically:",
+   "opts": [
+    "ER, PR (+) with microcalcification (+)",
+    "ER, PR -ve with no calcification",
+    "Necrotic and aggressive",
+    "Invasive"
+   ],
+   "ans": 0,
+   "exp": "Papillary/Cribriform/Solid: ER, PR (+); microcalcification (+). (Book p73)"
+  },
+  {
+   "id": "SURG-C12-110",
+   "sec": "DCIS & Van Nuys",
+   "page": 73,
+   "q": "The most aggressive type of DCIS is:",
+   "opts": [
+    "Comedo (with necrosis)",
+    "Papillary",
+    "Cribriform",
+    "Solid"
+   ],
+   "ans": 0,
+   "exp": "Comedo: With necrosis = most aggressive. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-111",
+   "sec": "DCIS & Van Nuys",
+   "page": 73,
+   "q": "Comedo DCIS is typically:",
+   "opts": [
+    "ER, PR -ve and presents as a lump",
+    "ER, PR +ve with microcalcification only",
+    "Non palpable always",
+    "Bilateral always"
+   ],
+   "ans": 0,
+   "exp": "Comedo: ER, PR -ve; Presents as a lump. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-112",
+   "sec": "DCIS & Van Nuys",
+   "page": 73,
+   "q": "On mammogram, DCIS classically shows:",
+   "opts": [
+    "Clustered microcalcifications",
+    "A spiculated mass",
+    "Architectural distortion only",
+    "A cyst"
+   ],
+   "ans": 0,
+   "exp": "Clustered microcalcifications on mammogram. (Book p73)"
+  },
+  {
+   "id": "SURG-C12-113",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "Diagnosis of DCIS is by:",
+   "opts": [
+    "Image guided core biopsy",
+    "Clinical exam",
+    "Serum Ca 15-3",
+    "USG alone"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: Image guided core biopsy. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-114",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "Surgical options for DCIS are:",
+   "opts": [
+    "Simple mastectomy or BCS + RT",
+    "Radical mastectomy always",
+    "SLNB only",
+    "No surgery"
+   ],
+   "ans": 0,
+   "exp": "Mx: Sx → Simple mastectomy OR BCS → RT. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-115",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "BCS is contraindicated in DCIS when:",
+   "opts": [
+    "Extensive microcalcification (+)",
+    "Microcalcification is focal",
+    "Tumor is papillary",
+    "Patient is ER +ve"
+   ],
+   "ans": 0,
+   "exp": "BCS is C/I if extensive microcalcification (+). (Book p74)"
+  },
+  {
+   "id": "SURG-C12-116",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "The role of chemotherapy in DCIS is:",
+   "opts": [
+    "No role",
+    "First line",
+    "After RT",
+    "Only in comedo type"
+   ],
+   "ans": 0,
+   "exp": "No role of chemo. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-117",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "Hormonal therapy in DCIS is given when:",
+   "opts": [
+    "ER, PR +ve",
+    "Always",
+    "Never",
+    "Only after mastectomy"
+   ],
+   "ans": 0,
+   "exp": "HT: ER, PR +ve. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-118",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "Parameters of the Van Nuys prognostic index are:",
+   "opts": [
+    "Size, margins, grade & necrosis, age",
+    "ER, PR, Her2, Ki-67",
+    "T stage, N stage, M stage, grade",
+    "Age, sex, BMI, smoking"
+   ],
+   "ans": 0,
+   "exp": "Van Nuys parameters: Size; Margins; Grade & necrosis; Age. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-119",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "Which is NOT included in the Van Nuys prognostic index?",
+   "opts": [
+    "ER, PR status",
+    "Size",
+    "Margins",
+    "Age"
+   ],
+   "ans": 0,
+   "exp": "ER, PR status not included. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-120",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "A LOW Van Nuys score means:",
+   "opts": [
+    "RT can be avoided",
+    "RT is mandatory",
+    "Mastectomy is mandatory",
+    "Chemo is given"
+   ],
+   "ans": 0,
+   "exp": "Low score → RT can be avoided. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-121",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "An INTERMEDIATE Van Nuys score is managed with:",
+   "opts": [
+    "RT given",
+    "No treatment",
+    "Mastectomy",
+    "Chemo"
+   ],
+   "ans": 0,
+   "exp": "Intermediate → RT given. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-122",
+   "sec": "DCIS & Van Nuys",
+   "page": 74,
+   "q": "A HIGH Van Nuys score is managed with:",
+   "opts": [
+    "Mastectomy",
+    "RT alone",
+    "Observation",
+    "HT alone"
+   ],
+   "ans": 0,
+   "exp": "High score → Mastectomy. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-123",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "LCIS is now classified as:",
+   "opts": [
+    "A risk factor for Ca breast (1%/year risk of conversion)",
+    "An invasive cancer",
+    "A metastatic lesion",
+    "A benign cyst"
+   ],
+   "ans": 0,
+   "exp": "LCIS now classified as risk factor for Ca breast (1%/year risk of conversion). (Book p74)"
+  },
+  {
+   "id": "SURG-C12-124",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "The annual risk of conversion of LCIS to invasive cancer is:",
+   "opts": [
+    "1%/year",
+    "10%/year",
+    "0.1%/year",
+    "25%/year"
+   ],
+   "ans": 0,
+   "exp": "1%/year risk of conversion. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-125",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "Features of LCIS include:",
+   "opts": [
+    "B/L, multicentric and ER, PR +ve",
+    "Unilateral and ER -ve",
+    "Comedo necrosis",
+    "Microcalcifications only"
+   ],
+   "ans": 0,
+   "exp": "Features: B/L, multicentric; ER, PR +ve. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-126",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "LCIS is usually diagnosed:",
+   "opts": [
+    "As an incidental diagnosis",
+    "By a palpable lump",
+    "By nipple discharge",
+    "By peau d' orange"
+   ],
+   "ans": 0,
+   "exp": "Dx: Usually an incidental diagnosis. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-127",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "Management of LCIS is:",
+   "opts": [
+    "Patient is kept under surveillance",
+    "Mastectomy always",
+    "Chemotherapy",
+    "RT"
+   ],
+   "ans": 0,
+   "exp": "Mx: Patient is kept under surveillance. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-128",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "LCIS can progress to:",
+   "opts": [
+    "Invasive ductal and invasive lobular carcinoma",
+    "Only DCIS",
+    "Fibroadenoma",
+    "Phyllodes"
+   ],
+   "ans": 0,
+   "exp": "Progression: LCIS → Invasive ductal / Invasive lobular. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-129",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "Invasive lobular carcinoma is characteristically:",
+   "opts": [
+    "B/L multicentric with E cadherin mutation (+)",
+    "Unilateral unifocal",
+    "E cadherin intact",
+    "Treated with BCS always"
+   ],
+   "ans": 0,
+   "exp": "Invasive lobular: B/L multicentric (BCS is C/D); E cadherin mutation (+). (Book p74)"
+  },
+  {
+   "id": "SURG-C12-130",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "In invasive lobular carcinoma, BCS is:",
+   "opts": [
+    "Contraindicated (B/L multicentric)",
+    "The treatment of choice",
+    "Done with RT",
+    "Done in 1st trimester"
+   ],
+   "ans": 0,
+   "exp": "B/L multicentric (BCS is C/D). (Book p74)"
+  },
+  {
+   "id": "SURG-C12-131",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "The HPE pattern of invasive lobular cancer is:",
+   "opts": [
+    "Indian or single file pattern",
+    "Cribriform pattern",
+    "Comedo necrosis",
+    "Papillary fronds"
+   ],
+   "ans": 0,
+   "exp": "HPE of invasive lobular cancer: Indian or single file pattern. (Book p74)"
+  },
+  {
+   "id": "SURG-C12-132",
+   "sec": "LCIS",
+   "page": 74,
+   "q": "CDH gene mutation with ↓/loss of E-cadherin leads to invasive lobular carcinoma and:",
+   "opts": [
+    "Diffuse gastric cancer",
+    "Colon cancer",
+    "Hepatocellular carcinoma",
+    "Renal cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "CDH gene mutation → ↓/loss of E-cadherin → Invasive lobular Ca + Diffuse gastric Ca. (Book p74)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U12-1",
+   "ch": 12,
+   "n": 1,
+   "title": "Chemotherapy Indications & NACT",
+   "sec": "Chemotherapy Indications & NACT · p68",
+   "qs": [
+    "SURG-C12-001",
+    "SURG-C12-002",
+    "SURG-C12-003",
+    "SURG-C12-004",
+    "SURG-C12-005",
+    "SURG-C12-006",
+    "SURG-C12-007"
+   ],
+   "guide": "Chemo is for +ve nodes, locally advanced disease, ER/PR -ve, Her2 +ve and metastasis; NACT is for LABC, TNBC, HER2 +ve and large tumors wanting BCS - it downstages, cuts micrometastasis and gives an in vivo chemosensitivity readout."
+  },
+  {
+   "id": "SURG-U12-2",
+   "ch": 12,
+   "n": 2,
+   "title": "RECIST Criteria",
+   "sec": "RECIST Criteria · p68",
+   "qs": [
+    "SURG-C12-008",
+    "SURG-C12-009",
+    "SURG-C12-010",
+    "SURG-C12-011",
+    "SURG-C12-012",
+    "SURG-C12-013",
+    "SURG-C12-014"
+   ],
+   "guide": "RECIST grades response in solid tumors: CR wipes out all lesions and pathological nodes, pCR is highest in TNBC, PR needs ≥30% fall in single largest diameter with no new/progressing lesions, SD is neither PR nor PD, and PD is ≥20% rise, progression or new lesions."
+  },
+  {
+   "id": "SURG-U12-3",
+   "ch": 12,
+   "n": 3,
+   "title": "Chemoport & Regimens",
+   "sec": "Chemoport & Regimens · p69",
+   "qs": [
+    "SURG-C12-015",
+    "SURG-C12-016",
+    "SURG-C12-017",
+    "SURG-C12-018",
+    "SURG-C12-019",
+    "SURG-C12-020",
+    "SURG-C12-021",
+    "SURG-C12-022",
+    "SURG-C12-023",
+    "SURG-C12-024",
+    "SURG-C12-025",
+    "SURG-C12-026",
+    "SURG-C12-027"
+   ],
+   "guide": "The chemoport sits below the clavicle with its tip in the SVC just above the right atrium, sparing veins from thrombophlebitis. Old CAF/CMF is retired; Her2 -ve gets 4 cycles AC/EC then 4 cycles T (paclitaxel causes peripheral neuropathy), Her2 +ve gets 6 cycles TCH + P with Herceptin and Pertuzumab as the anti-Her2 duo."
+  },
+  {
+   "id": "SURG-U12-4",
+   "ch": 12,
+   "n": 4,
+   "title": "Avoiding Chemo & Molecular Tests",
+   "sec": "Avoiding Chemo & Molecular Tests · p69",
+   "qs": [
+    "SURG-C12-028",
+    "SURG-C12-029",
+    "SURG-C12-030",
+    "SURG-C12-031",
+    "SURG-C12-032",
+    "SURG-C12-033",
+    "SURG-C12-034",
+    "SURG-C12-035"
+   ],
+   "guide": "Skip chemo in poor performance status and low-risk molecular profiles (T1/T2, N0/N1, M0, ER±, Her2 -ve). The assays: Oncotype Dx 21 genes, Mammaprint 70, Endopredict 12, PAM 50 fifty, and CAN assist is the Indian test; low risk avoids chemo, high risk gets it."
+  },
+  {
+   "id": "SURG-U12-5",
+   "ch": 12,
+   "n": 5,
+   "title": "Radiotherapy: WBI vs APBI",
+   "sec": "Radiotherapy: WBI vs APBI · p70",
+   "qs": [
+    "SURG-C12-036",
+    "SURG-C12-037",
+    "SURG-C12-038",
+    "SURG-C12-039",
+    "SURG-C12-040",
+    "SURG-C12-041",
+    "SURG-C12-042"
+   ],
+   "guide": "RT follows BCS always and covers +ve nodes, >5 cm tumors and LABC. WBI bathes breast plus axillary, infra/supraclavicular and internal mammary nodes over 25 days (50-54 Gy); APBI shrinks this to partial breast, 5 days (30-34 Gy) with cavity electrodes, for T1, ER/PR +, no LVI, unifocal, -ve margins, ≥50 years."
+  },
+  {
+   "id": "SURG-U12-6",
+   "ch": 12,
+   "n": 6,
+   "title": "Hormonal Therapy",
+   "sec": "Hormonal Therapy · p70",
+   "qs": [
+    "SURG-C12-043",
+    "SURG-C12-044",
+    "SURG-C12-045",
+    "SURG-C12-046",
+    "SURG-C12-047",
+    "SURG-C12-048",
+    "SURG-C12-049",
+    "SURG-C12-050",
+    "SURG-C12-051",
+    "SURG-C12-052",
+    "SURG-C12-053",
+    "SURG-C12-054",
+    "SURG-C12-055"
+   ],
+   "guide": "Either ER or PR +ve qualifies. Pre-menopausal women take tamoxifen (SERM) 5 years (up to 10) with hot flashes, endometrial hyperplasia and DVT; post-menopausal get letrozole/anastrozole 5-10 years with osteoporosis - baseline DEXA first, vit D3/Ca/bisphosphonate if low. Pause for pregnancy only after 2 full years, stopping 3 months before conception."
+  },
+  {
+   "id": "SURG-U12-7",
+   "ch": 12,
+   "n": 7,
+   "title": "Prognostic Factors",
+   "sec": "Prognostic Factors · p71",
+   "qs": [
+    "SURG-C12-056",
+    "SURG-C12-057",
+    "SURG-C12-058",
+    "SURG-C12-059",
+    "SURG-C12-060",
+    "SURG-C12-061",
+    "SURG-C12-062"
+   ],
+   "guide": "Axillary LN status is the single most important prognosticator, replaced by ER/PR status in metastatic disease. Poor disease factors: bigger, higher stage/grade, nodal spread, metaplastic variant, LVI, extensive DCIS, high Ki-67; poor patient factors: young, premenopausal, BRCA, family/prior history, obesity and unfinished treatment."
+  },
+  {
+   "id": "SURG-U12-8",
+   "ch": 12,
+   "n": 8,
+   "title": "Follow up & Treatment Summary",
+   "sec": "Follow up & Treatment Summary · p71",
+   "qs": [
+    "SURG-C12-063",
+    "SURG-C12-064",
+    "SURG-C12-065",
+    "SURG-C12-066",
+    "SURG-C12-067",
+    "SURG-C12-068",
+    "SURG-C12-069",
+    "SURG-C12-070",
+    "SURG-C12-071",
+    "SURG-C12-072",
+    "SURG-C12-073",
+    "SURG-C12-074"
+   ],
+   "guide": "Review 3-monthly for 2 years, 6-monthly to 5 years, yearly after; physical exam every visit, mammogram/USG yearly, pelvic USG for tamoxifen endometrium, and S. Ca 15-3 as marker. Early cancer: BCS with SLNB if N0 (mastectomy if BCS C/I), RT after BCS or with +ve nodes, HT if ER/PR +ve, chemo only for high-risk molecular or TNBC/Her2 +ve."
+  },
+  {
+   "id": "SURG-U12-9",
+   "ch": 12,
+   "n": 9,
+   "title": "LABC & Metastatic Disease",
+   "sec": "LABC & Metastatic Disease · p72",
+   "qs": [
+    "SURG-C12-075",
+    "SURG-C12-076",
+    "SURG-C12-077",
+    "SURG-C12-078",
+    "SURG-C12-079",
+    "SURG-C12-080",
+    "SURG-C12-081",
+    "SURG-C12-082"
+   ],
+   "guide": "LABC = T3N1M0 or any T4/N2/N3 (peau d' orange is T4b), treated NACT → surgery → RT, plus HT if ER/PR +ve and a year of trastuzumab if Her2 +ve. Metastatic (M1) disease is palliative; BRCA +ve tumors get Olaparib."
+  },
+  {
+   "id": "SURG-U12-10",
+   "ch": 12,
+   "n": 10,
+   "title": "Metastatic Subtype-directed Therapy",
+   "sec": "Metastatic Subtype-directed Therapy · p72",
+   "qs": [
+    "SURG-C12-083",
+    "SURG-C12-084",
+    "SURG-C12-085",
+    "SURG-C12-086",
+    "SURG-C12-087",
+    "SURG-C12-088",
+    "SURG-C12-089"
+   ],
+   "guide": "ER/PR +ve Her2- metastases: hormonal therapy plus CDK4/6 inhibitors (palbociclib, ribociclib, abemaciclib), switching to chemo, Zoladex or fulvestrant on resistance. TNBC adds pembrolizumab/atezolizumab (PD-L1); Her2 +ve adds trastuzumab, then lapatinib orally for brain mets or IV TDM1 when resistance appears."
+  },
+  {
+   "id": "SURG-U12-11",
+   "ch": 12,
+   "n": 11,
+   "title": "Pregnancy Associated Breast Cancer",
+   "sec": "Pregnancy Associated Breast Cancer · p72",
+   "qs": [
+    "SURG-C12-090",
+    "SURG-C12-091",
+    "SURG-C12-092",
+    "SURG-C12-093",
+    "SURG-C12-094",
+    "SURG-C12-095",
+    "SURG-C12-096",
+    "SURG-C12-097"
+   ],
+   "guide": "Cancer during pregnancy or within a year of delivery - ER/PR -ve, aggressive, diagnosed by core biopsy with USG as IOC. Mastectomy in 1st trimester, BCS in 2nd/3rd with RT after delivery; chemo C/I in 1st but safe later; HT and RT C/I in all trimesters."
+  },
+  {
+   "id": "SURG-U12-12",
+   "ch": 12,
+   "n": 12,
+   "title": "Bilateral & Male Breast Carcinoma",
+   "sec": "Bilateral & Male Breast Carcinoma · p73",
+   "qs": [
+    "SURG-C12-098",
+    "SURG-C12-099",
+    "SURG-C12-100",
+    "SURG-C12-101",
+    "SURG-C12-102",
+    "SURG-C12-103",
+    "SURG-C12-104",
+    "SURG-C12-105",
+    "SURG-C12-106"
+   ],
+   "guide": "Bilateral disease is usually BRCA (+) lobular, staged separately when synchronous and treated per the more aggressive side. Male cancer rides on BRCA2 > BRCA1, obesity, Klinefelter, alcohol and cirrhosis, presents as a hard lump, is biopsied and managed exactly like female breast cancer."
+  },
+  {
+   "id": "SURG-U12-13",
+   "ch": 12,
+   "n": 13,
+   "title": "DCIS & Van Nuys",
+   "sec": "DCIS & Van Nuys · p73",
+   "qs": [
+    "SURG-C12-107",
+    "SURG-C12-108",
+    "SURG-C12-109",
+    "SURG-C12-110",
+    "SURG-C12-111",
+    "SURG-C12-112",
+    "SURG-C12-113",
+    "SURG-C12-114",
+    "SURG-C12-115",
+    "SURG-C12-116",
+    "SURG-C12-117",
+    "SURG-C12-118",
+    "SURG-C12-119",
+    "SURG-C12-120",
+    "SURG-C12-121",
+    "SURG-C12-122"
+   ],
+   "guide": "DCIS is non invasive: papillary (m/c), cribriform and solid are ER/PR + with clustered microcalcifications, while comedo with necrosis is the aggressive ER/PR -ve lump-former. Image-guided core biopsy diagnoses; simple mastectomy or BCS + RT treats (BCS C/I if extensive calcification), chemo has no role, HT if ER/PR +ve. Van Nuys scores size, margins, grade & necrosis, age (not ER/PR): low avoids RT, intermediate gets RT, high gets mastectomy."
+  },
+  {
+   "id": "SURG-U12-14",
+   "ch": 12,
+   "n": 14,
+   "title": "LCIS",
+   "sec": "LCIS · p74",
+   "qs": [
+    "SURG-C12-123",
+    "SURG-C12-124",
+    "SURG-C12-125",
+    "SURG-C12-126",
+    "SURG-C12-127",
+    "SURG-C12-128",
+    "SURG-C12-129",
+    "SURG-C12-130",
+    "SURG-C12-131",
+    "SURG-C12-132"
+   ],
+   "guide": "LCIS is now a risk marker (1%/year conversion), B/L multicentric, ER/PR +ve, found incidentally and kept under surveillance. It progresses to invasive ductal or lobular cancer; invasive lobular is B/L multicentric (BCS C/D) with E-cadherin loss, Indian/single-file cells, and CDH mutation also drives diffuse gastric cancer."
+  }
+ ]
+}

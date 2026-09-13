@@ -1,0 +1,1696 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C14-001",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "The thyroid gland is described as:",
+   "opts": [
+    "Butterfly shaped",
+    "Horseshoe shaped",
+    "Pear shaped",
+    "Dumbbell shaped"
+   ],
+   "ans": 0,
+   "exp": "Butterfly shaped gland. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-002",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "The superior thyroid artery arises from the external carotid and is ligated:",
+   "opts": [
+    "Close to the gland",
+    "At its origin",
+    "Away from the gland",
+    "With the carotid"
+   ],
+   "ans": 0,
+   "exp": "Superior Thyroid artery: Liged close to the gland. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-003",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "The inferior thyroid artery arises from:",
+   "opts": [
+    "Thyrocervical trunk (subclavian artery)",
+    "External carotid",
+    "Arch of aorta directly",
+    "Brachiocephalic trunk"
+   ],
+   "ans": 0,
+   "exp": "Inferior thyroid artery from Thyrocervical trunk ← Subclavian artery. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-004",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "Why are only the capsular branches of the inferior thyroid artery ligated?",
+   "opts": [
+    "To prevent devascularisation of parathyroid & hence prevent hypocalcemia",
+    "To prevent RLN injury",
+    "To reduce bleeding only",
+    "To preserve the thymus"
+   ],
+   "ans": 0,
+   "exp": "Inferior thyroid artery also supplies parathyroid; only capsular branches ligated to prevent devascularisation of parathyroid & hence prevent hypocalcemia. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-005",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "Arteria thyroidea ima is:",
+   "opts": [
+    "A direct branch of arch of aorta",
+    "A branch of external carotid",
+    "A branch of thyrocervical trunk",
+    "A branch of internal carotid"
+   ],
+   "ans": 0,
+   "exp": "Arteria thyroidea ima: Direct branch of arch of aorta. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-006",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "The superior thyroid vein drains into:",
+   "opts": [
+    "Internal jugular vein",
+    "Left brachiocephalic vein",
+    "External jugular vein",
+    "SVC"
+   ],
+   "ans": 0,
+   "exp": "Superior thyroid vein → Internal jugular vein. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-007",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "The FIRST vessel ligated during thyroid surgery is:",
+   "opts": [
+    "Middle thyroid vein (seen in 30%)",
+    "Superior thyroid artery",
+    "Inferior thyroid vein",
+    "Inferior thyroid artery"
+   ],
+   "ans": 0,
+   "exp": "Middle thyroid vein (seen in 30%): First vessel ligated during thyroid Sx. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-008",
+   "sec": "Surgical Anatomy: Arteries & Veins",
+   "page": 82,
+   "q": "The inferior thyroid vein drains into:",
+   "opts": [
+    "Left brachiocephalic vein",
+    "Internal jugular vein",
+    "Right brachiocephalic vein",
+    "Azygos"
+   ],
+   "ans": 0,
+   "exp": "Inferior thyroid vein → Left brachiocephalic vein. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-009",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "The right recurrent laryngeal nerve winds around:",
+   "opts": [
+    "Subclavian vessels",
+    "Arch of aorta",
+    "Innominate artery",
+    "Carotid bifurcation"
+   ],
+   "ans": 0,
+   "exp": "Rt recurrent laryngeal nerve: winds around subclavian vessels. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-010",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "The left recurrent laryngeal nerve winds around the arch of aorta and has:",
+   "opts": [
+    "A longer course",
+    "A shorter course",
+    "No relation to vessels",
+    "The same course as right"
+   ],
+   "ans": 0,
+   "exp": "Lt recurrent laryngeal nerve: winds around arch of aorta; Longer course. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-011",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "Both recurrent laryngeal nerves pass:",
+   "opts": [
+    "Between branches of the inferior thyroid artery",
+    "Anterior to the trachea",
+    "Within Berry's ligament",
+    "With the middle thyroid vein"
+   ],
+   "ans": 0,
+   "exp": "RLN passes b/w branches of inferior thyroid artery. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-012",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "Non recurrent laryngeal nerves are seen in what percentage of individuals?",
+   "opts": [
+    "2%",
+    "10%",
+    "20%",
+    "0.2%"
+   ],
+   "ans": 0,
+   "exp": "In 2% individuals: Non recurrent laryngeal nerves. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-013",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "The external laryngeal nerve lies near:",
+   "opts": [
+    "The superior pole of gland",
+    "The inferior pole",
+    "The isthmus",
+    "The trachea"
+   ],
+   "ans": 0,
+   "exp": "External Laryngeal Nerve Site: Near superior pole of gland. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-014",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "Berry's ligament is a:",
+   "opts": [
+    "Condensation of pre-tracheal fascia",
+    "Part of carotid sheath",
+    "Condensation of buccopharyngeal fascia",
+    "Remnant of thyroglossal duct"
+   ],
+   "ans": 0,
+   "exp": "Berry's ligament: Condensation of pre-tracheal fascia. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-015",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "Berry's ligament attaches the thyroid gland to:",
+   "opts": [
+    "Trachea",
+    "Cricoid cartilage",
+    "Hyoid bone",
+    "Sternohyoid"
+   ],
+   "ans": 0,
+   "exp": "Attaches thyroid gland to trachea. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-016",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "Thyroid swelling moves on deglutition because of:",
+   "opts": [
+    "Berry's ligament",
+    "Strap muscles",
+    "Carotid sheath",
+    "Prevertebral fascia"
+   ],
+   "ans": 0,
+   "exp": "Helps in movement of thyroid swelling on deglutition. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-017",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "The most common site of injury of the RLN is:",
+   "opts": [
+    "Berry's ligament",
+    "Thoracic inlet",
+    "Carotid sheath",
+    "Superior pole"
+   ],
+   "ans": 0,
+   "exp": "Berry's Ligament: m/c site of injury of RLN. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-018",
+   "sec": "Nerves & Berry's Ligament",
+   "page": 82,
+   "q": "Beahr's (recurrent laryngeal nerve) triangle helps to:",
+   "opts": [
+    "Locate RLN during Sx",
+    "Locate superior parathyroid",
+    "Avoid middle thyroid vein",
+    "Find arteria thyroidea ima"
+   ],
+   "ans": 0,
+   "exp": "Recurrent laryngeal nerve triangle (Beahr's triangle): Helps to locate RLN during Sx. (Book p82)"
+  },
+  {
+   "id": "SURG-C14-019",
+   "sec": "Thyroid Examination & TFT",
+   "page": 83,
+   "q": "A normal thyroid gland is:",
+   "opts": [
+    "Neither visible nor palpable",
+    "Palpable but not visible",
+    "Visible but not palpable",
+    "Always palpable"
+   ],
+   "ans": 0,
+   "exp": "Normal thyroid gland: neither visible nor palpable. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-020",
+   "sec": "Thyroid Examination & TFT",
+   "page": 83,
+   "q": "Which is NOT a clinical method of thyroid examination?",
+   "opts": [
+    "Kocher's method",
+    "Pizillo's method",
+    "Lahey's method",
+    "Crile's method"
+   ],
+   "ans": 0,
+   "exp": "Clinical methods: 1. Pizillo's; 2. Lahey's; 3. Crile's method. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-021",
+   "sec": "Thyroid Examination & TFT",
+   "page": 83,
+   "q": "The ideal method to look for nodularity is:",
+   "opts": [
+    "Crile's method",
+    "Pizillo's method",
+    "Lahey's method",
+    "Inspection only"
+   ],
+   "ans": 0,
+   "exp": "Crile's method: Ideal method to look for nodularity. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-022",
+   "sec": "Thyroid Examination & TFT",
+   "page": 83,
+   "q": "The FIRST investigation done in thyroid disorders is:",
+   "opts": [
+    "Thyroid Function Tests (TFT)",
+    "USG neck",
+    "FNAC",
+    "CT"
+   ],
+   "ans": 0,
+   "exp": "TFT: First investigation done. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-023",
+   "sec": "Thyroid Examination & TFT",
+   "page": 83,
+   "q": "The active form of thyroid hormone measured in TFT is:",
+   "opts": [
+    "T3",
+    "T4",
+    "TSH",
+    "Thyroglobulin"
+   ],
+   "ans": 0,
+   "exp": "Components: T3 (active form), T4, TSH, Anti thyroid antibodies. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-024",
+   "sec": "Thyroid Examination & TFT",
+   "page": 83,
+   "q": "A DECREASED TSH indicates:",
+   "opts": [
+    "Hyperthyroidism",
+    "Hypothyroidism",
+    "Euthyroid state",
+    "Medullary cancer"
+   ],
+   "ans": 0,
+   "exp": "TSH ↓: Hyperthyroidism; ↑: Hypothyroidism. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-025",
+   "sec": "Thyroid Examination & TFT",
+   "page": 83,
+   "q": "An INCREASED TSH indicates:",
+   "opts": [
+    "Hypothyroidism",
+    "Hyperthyroidism",
+    "Thyroiditis always",
+    "Cancer"
+   ],
+   "ans": 0,
+   "exp": "TSH ↑: Hypothyroidism. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-026",
+   "sec": "USG Neck & TIRADS",
+   "page": 83,
+   "q": "Which USG feature suggests a BENIGN thyroid nodule?",
+   "opts": [
+    "Wider > taller",
+    "Taller > wider",
+    "Microcalcifications",
+    "Infiltrative margins"
+   ],
+   "ans": 0,
+   "exp": "Benign: Iso- or hyperechoic, macrocalcifications, regular border, wider > taller, no infiltrative margins, kidney-shaped nodes, peripheral vascularity. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-027",
+   "sec": "USG Neck & TIRADS",
+   "page": 83,
+   "q": "Which USG feature suggests a MALIGNANT thyroid nodule?",
+   "opts": [
+    "Hypoechoic with microcalcifications",
+    "Hyperechoic",
+    "Regular border",
+    "Wider > taller"
+   ],
+   "ans": 0,
+   "exp": "Malignant: Hypoechoic, microcalcifications, border irregularity, taller > wider, infiltrative margins. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-028",
+   "sec": "USG Neck & TIRADS",
+   "page": 83,
+   "q": "Abnormal cervical lymph nodes in malignancy are:",
+   "opts": [
+    "Round shaped with loss of fatty hilum",
+    "Kidney shaped with fatty hilum",
+    "Elongated",
+    "Always calcified"
+   ],
+   "ans": 0,
+   "exp": "Abnormal cervical lymph nodes (Round shaped) Loss of fatty hilum. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-029",
+   "sec": "USG Neck & TIRADS",
+   "page": 83,
+   "q": "Malignant nodules show which vascularity pattern?",
+   "opts": [
+    "Increased intranodular vascularity",
+    "Peripheral vascularity",
+    "No vascularity",
+    "Avascular core"
+   ],
+   "ans": 0,
+   "exp": "Malignant: Increased intranodular vascularity (benign: peripheral). (Book p83)"
+  },
+  {
+   "id": "SURG-C14-030",
+   "sec": "USG Neck & TIRADS",
+   "page": 83,
+   "q": "TIRADS criteria include composition, margin, shape, echogenicity and:",
+   "opts": [
+    "Echogenic foci",
+    "Vascularity",
+    "Size",
+    "Site"
+   ],
+   "ans": 0,
+   "exp": "TIRADS criteria: Composition, Margin, Shape, Echogenicity, Echogenic foci. (Book p83)"
+  },
+  {
+   "id": "SURG-C14-031",
+   "sec": "USG Neck & TIRADS",
+   "page": 84,
+   "q": "TIRADS TR1 and TR2 are managed with:",
+   "opts": [
+    "No FNAC required",
+    "FNAC required",
+    "Surgery",
+    "CT neck"
+   ],
+   "ans": 0,
+   "exp": "TR1 Benign, TR2 Not Suspicious → No FNAC required. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-032",
+   "sec": "USG Neck & TIRADS",
+   "page": 84,
+   "q": "FNAC is required for which TIRADS scores?",
+   "opts": [
+    "TR 3-5",
+    "TR 1-2",
+    "Only TR5",
+    "TR 2-4"
+   ],
+   "ans": 0,
+   "exp": "TR3 mildly, TR4 moderately, TR5 highly suspicious → FNAC required. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-033",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "FNAC in thyroid disorders is IOC but CANNOT differentiate:",
+   "opts": [
+    "Follicular adenoma vs carcinoma",
+    "Papillary vs medullary cancer",
+    "Benign vs malignant nodes",
+    "Cyst vs solid"
+   ],
+   "ans": 0,
+   "exp": "IOC in Thyroid disorders, but can't differentiate b/w follicular adenoma & carcinoma. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-034",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "The needle used for thyroid FNAC is:",
+   "opts": [
+    "23-30 gauge",
+    "16-18 gauge",
+    "10-12 gauge",
+    "30-32 gauge"
+   ],
+   "ans": 0,
+   "exp": "Needle used: 23 - 30 gauge. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-035",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "Criteria for FNAC adequacy: at least how many groups of follicular cells?",
+   "opts": [
+    "6 groups with ≥10 cells each on a single slide",
+    "3 groups with ≥5 cells",
+    "10 groups with ≥6 cells",
+    "1 group of 100 cells"
+   ],
+   "ans": 0,
+   "exp": "At least 6 groups of follicular cells, each group having at least 10 cells on a single slide. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-036",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "Thy 1 and Thy 1c (non-diagnostic / non-diagnostic cystic) are managed by:",
+   "opts": [
+    "USG guided FNAC repeated",
+    "Surgery",
+    "Follow up",
+    "Hemithyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "Thy 1 / Thy 1c → USG guided FNAC repeated. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-037",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "Thy 2 (non-neoplastic) is managed with:",
+   "opts": [
+    "Follow up",
+    "Surgery",
+    "Repeat FNAC",
+    "RT"
+   ],
+   "ans": 0,
+   "exp": "Thy 2 → Follow up. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-038",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "Thy 3 (follicular) is managed with:",
+   "opts": [
+    "Hemithyroidectomy",
+    "Total thyroidectomy",
+    "Follow up",
+    "Repeat FNAC"
+   ],
+   "ans": 0,
+   "exp": "Thy 3 → Hemithyroidectomy. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-039",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "Thy 4 (suspicious) and Thy 5 (malignant) are managed with:",
+   "opts": [
+    "Sx",
+    "Follow up",
+    "Repeat FNAC",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Thy 4 / Thy 5 → Sx. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-040",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "FNNAC (Fine Needle Non Aspiration Cytology) is used in:",
+   "opts": [
+    "Superficial swellings",
+    "Deep retrosternal goitre",
+    "Cysts only",
+    "Bone lesions"
+   ],
+   "ans": 0,
+   "exp": "FNNAC: Fine Needle Non Aspiration Cytology - Used in superficial swellings. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-041",
+   "sec": "FNAC & Royal College Classification",
+   "page": 84,
+   "q": "Thyroid FNAC is also reported using:",
+   "opts": [
+    "Bethesda Criteria",
+    "TIRADS",
+    "TNM",
+    "RECIST"
+   ],
+   "ans": 0,
+   "exp": "Thyroid FNAC is also reported using Bethesda Criteria. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-042",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 84,
+   "q": "Indications for thyroid scan are ↓TSH with features of hyperthyroidism and:",
+   "opts": [
+    "Ectopic/aberrant thyroid tissue",
+    "Hypothyroidism",
+    "Cancer staging",
+    "Retrosternal goitre"
+   ],
+   "ans": 0,
+   "exp": "Indications: 1. ↓ TSH with features of hyperthyroidism; 2. Ectopic/aberrant thyroid tissue. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-043",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 84,
+   "q": "On thyroid scan, Tc99 assesses:",
+   "opts": [
+    "Uptake",
+    "Uptake & organification",
+    "Organification only",
+    "Excretion"
+   ],
+   "ans": 0,
+   "exp": "Tc99 uptake assessed. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-044",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 84,
+   "q": "I123 assesses:",
+   "opts": [
+    "Uptake & organification",
+    "Uptake only",
+    "Perfusion",
+    "Size"
+   ],
+   "ans": 0,
+   "exp": "I123: uptake & organification assessed. (Book p84)"
+  },
+  {
+   "id": "SURG-C14-045",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 85,
+   "q": "A non functioning/COLD nodule carries what malignancy risk?",
+   "opts": [
+    "30%",
+    "4%",
+    "1%",
+    "70%"
+   ],
+   "ans": 0,
+   "exp": "Non functioning/cold nodule (30% malignant). (Book p85)"
+  },
+  {
+   "id": "SURG-C14-046",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 85,
+   "q": "A hyperfunctioning/HOT nodule carries what malignancy risk?",
+   "opts": [
+    "4%",
+    "30%",
+    "50%",
+    "10%"
+   ],
+   "ans": 0,
+   "exp": "Hyperfunctioning/hot nodule (4% malignant). (Book p85)"
+  },
+  {
+   "id": "SURG-C14-047",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 85,
+   "q": "Graves' disease shows on thyroid scan:",
+   "opts": [
+    "Diffuse increased uptake",
+    "Diffuse decreased uptake",
+    "Cold nodule",
+    "Hot nodule"
+   ],
+   "ans": 0,
+   "exp": "Graves' disease: Diffuse ↑ uptake. (Book p85)"
+  },
+  {
+   "id": "SURG-C14-048",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 85,
+   "q": "Thyroiditis shows on thyroid scan:",
+   "opts": [
+    "Diffuse decreased uptake",
+    "Diffuse increased uptake",
+    "Solitary hot nodule",
+    "Multiple cold nodules"
+   ],
+   "ans": 0,
+   "exp": "Thyroiditis: Diffuse ↓ uptake. (Book p85)"
+  },
+  {
+   "id": "SURG-C14-049",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 85,
+   "q": "Toxic nodular goitre is also called:",
+   "opts": [
+    "Plummer's disease",
+    "Graves' disease",
+    "Hashimoto's",
+    "Riedel's"
+   ],
+   "ans": 0,
+   "exp": "Toxic nodular goitre (Plummer's disease). (Book p85)"
+  },
+  {
+   "id": "SURG-C14-050",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 85,
+   "q": "CECT neck & thorax is indicated for:",
+   "opts": [
+    "Retrosternal goitre and large malignant goitre",
+    "All goitres",
+    "Only thyrotoxicosis",
+    "Thyroiditis"
+   ],
+   "ans": 0,
+   "exp": "CECT indications: 1. Retrosternal goitre; 2. Large malignant goitre. (Book p85)"
+  },
+  {
+   "id": "SURG-C14-051",
+   "sec": "Thyroid Scan & Imaging",
+   "page": 85,
+   "q": "Whole body iodine scan is used in differentiated thyroid cancer:",
+   "opts": [
+    "After total thyroidectomy to look for residual recurrent disease",
+    "Before FNAC",
+    "For initial diagnosis",
+    "For retrosternal goitre"
+   ],
+   "ans": 0,
+   "exp": "DTC: After total thyroidectomy to look for residual recurrent disease. (Book p85)"
+  },
+  {
+   "id": "SURG-C14-052",
+   "sec": "Thyroidectomy Indications",
+   "page": 85,
+   "q": "Which is NOT an indication for thyroidectomy?",
+   "opts": [
+    "Thy 2 on FNAC",
+    "Neoplasia",
+    "FNAC +ve Thy 3-5",
+    "Toxic adenoma"
+   ],
+   "ans": 0,
+   "exp": "Indications: 1. Neoplasia; 2. FNAC +ve Thy 3-5; 3. Clinical suspicion; 4. Toxic adenoma; 5. Pressure symptoms; 6. Cosmetic purpose. (Book p85)"
+  },
+  {
+   "id": "SURG-C14-053",
+   "sec": "Thyroidectomy Indications",
+   "page": 85,
+   "q": "Clinical suspicion warranting thyroidectomy includes all EXCEPT:",
+   "opts": [
+    "Soft mobile nodule in a young female",
+    "↑ Age",
+    "Male sex",
+    "Hard, fixed nodule"
+   ],
+   "ans": 0,
+   "exp": "Clinical suspicion: ↑ Age; male sex; Hard, fixed nodule; RLN palsy; Lymphadenopathy; Recurrent cyst. (Book p85)"
+  },
+  {
+   "id": "SURG-C14-054",
+   "sec": "Thyroidectomy Indications",
+   "page": 85,
+   "q": "Which features raise clinical suspicion for thyroid cancer?",
+   "opts": [
+    "RLN palsy, lymphadenopathy, recurrent cyst",
+    "Diffuse soft goitre",
+    "Thyroiditis",
+    "Family history only"
+   ],
+   "ans": 0,
+   "exp": "RLN palsy; Lymphadenopathy; Recurrent cyst (plus ↑ age, male sex, hard fixed nodule). (Book p85)"
+  },
+  {
+   "id": "SURG-C14-055",
+   "sec": "Types of Thyroidectomy",
+   "page": 86,
+   "q": "Hemithyroidectomy removes:",
+   "opts": [
+    "1 lobe + isthmus",
+    "Both lobes + isthmus",
+    "Majority of both glands",
+    "One lobe only"
+   ],
+   "ans": 0,
+   "exp": "Hemithyroidectomy: Removal of 1 lobe + isthmus. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-056",
+   "sec": "Types of Thyroidectomy",
+   "page": 86,
+   "q": "Total thyroidectomy removes:",
+   "opts": [
+    "Both lobes + isthmus",
+    "1 lobe + isthmus",
+    "4-8 g remnant on both sides",
+    "One lobe + subtotal other"
+   ],
+   "ans": 0,
+   "exp": "Total thyroidectomy: Removal of both lobes + isthmus. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-057",
+   "sec": "Types of Thyroidectomy",
+   "page": 86,
+   "q": "Subtotal thyroidectomy leaves:",
+   "opts": [
+    "4-8 g of gland on both sides",
+    "1 lobe intact",
+    "The isthmus only",
+    "Nothing"
+   ],
+   "ans": 0,
+   "exp": "Subtotal: Removal of majority of both glands + isthmus; 4-8g of gland left on both sides. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-058",
+   "sec": "Types of Thyroidectomy",
+   "page": 86,
+   "q": "Near total thyroidectomy is also called:",
+   "opts": [
+    "Hartley Dunhill procedure",
+    "Halstead procedure",
+    "Joll's procedure",
+    "Sistrunk procedure"
+   ],
+   "ans": 0,
+   "exp": "Near total thyroidectomy (Hartley Dunhill procedure). (Book p86)"
+  },
+  {
+   "id": "SURG-C14-059",
+   "sec": "Types of Thyroidectomy",
+   "page": 86,
+   "q": "In the Hartley Dunhill procedure:",
+   "opts": [
+    "One side lobectomy + isthmus removal; other side subtotal lobectomy",
+    "Both sides total",
+    "Both sides subtotal",
+    "Isthmus only"
+   ],
+   "ans": 0,
+   "exp": "One side: Lobectomy + isthmus removal; Other side: Subtotal lobectomy. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-060",
+   "sec": "Types of Thyroidectomy",
+   "page": 86,
+   "q": "Which thyroidectomy types are NOT done anymore?",
+   "opts": [
+    "Subtotal and near total",
+    "Total and hemi",
+    "Only total",
+    "Hemi only"
+   ],
+   "ans": 0,
+   "exp": "Subtotal & near total: ↓ risk of recurrence but (Not done anymore). (Book p86)"
+  },
+  {
+   "id": "SURG-C14-061",
+   "sec": "Types of Thyroidectomy",
+   "page": 86,
+   "q": "Incidence of hypothyroidism, RLN injury & hypoparathyroidism is:",
+   "opts": [
+    "Equal in all types of thyroidectomy",
+    "Highest in total",
+    "Lowest in hemi",
+    "Only in subtotal"
+   ],
+   "ans": 0,
+   "exp": "Incidence of hypothyroidism, RLN injury & hypoparathyroidism is equal in all types of thyroidectomy. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-062",
+   "sec": "Procedure & Position",
+   "page": 86,
+   "q": "The position for thyroidectomy is:",
+   "opts": [
+    "Rose/Barking Dog Position",
+    "Lithotomy",
+    "Prone",
+    "Lateral"
+   ],
+   "ans": 0,
+   "exp": "Rose/Barking Dog Position. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-063",
+   "sec": "Procedure & Position",
+   "page": 86,
+   "q": "The 30° elevation in thyroid position gives a bloodless field by ↓ venous congestion but ↑ risk of:",
+   "opts": [
+    "Air embolism",
+    "DVT",
+    "Hypotension",
+    "Bradyarrhythmia"
+   ],
+   "ans": 0,
+   "exp": "30° elevation ↓ venous congestion (bloodless field), ↑ risk of air embolism. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-064",
+   "sec": "Procedure & Position",
+   "page": 86,
+   "q": "Neck extension during thyroidectomy is achieved by:",
+   "opts": [
+    "Towel roll below shoulder",
+    "Head ring",
+    "Shoulder strap",
+    "Prone pillow"
+   ],
+   "ans": 0,
+   "exp": "Neck extension by towel roll below shoulder. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-065",
+   "sec": "Procedure & Position",
+   "page": 86,
+   "q": "Joll's thyroid retractor is:",
+   "opts": [
+    "Placed on each side of thyroid gland during open Sx; not used now",
+    "Used in MIVAT",
+    "A self-retaining abdominal retractor",
+    "Used for sternotomy"
+   ],
+   "ans": 0,
+   "exp": "Joll's thyroid retractor: Placed on each side of thyroid gland during open Sx; Not used now. (Book p86)"
+  },
+  {
+   "id": "SURG-C14-066",
+   "sec": "Procedure & Position",
+   "page": 87,
+   "q": "The collar incision is made how far above the suprasternal notch?",
+   "opts": [
+    "2 finger breadth",
+    "1 finger breadth",
+    "5 cm",
+    "At the notch"
+   ],
+   "ans": 0,
+   "exp": "Collar incision: 2 finger breadth suprasternal notch. (Book p87)"
+  },
+  {
+   "id": "SURG-C14-067",
+   "sec": "Procedure & Position",
+   "page": 87,
+   "q": "After the collar incision, the next step is raising the:",
+   "opts": [
+    "Sub platysmal tunnel",
+    "Strap muscles",
+    "Carotid sheath",
+    "Prevertebral fascia"
+   ],
+   "ans": 0,
+   "exp": "2. Sub platysmal tunnel. (Book p87)"
+  },
+  {
+   "id": "SURG-C14-068",
+   "sec": "Procedure & Position",
+   "page": 87,
+   "q": "If strap muscles must be cut, it is done HIGH up to avoid injury to:",
+   "opts": [
+    "Ansa cervicalis",
+    "RLN",
+    "External laryngeal nerve",
+    "Vagus"
+   ],
+   "ans": 0,
+   "exp": "If strap muscles are cut: Done high up (to avoid ansa cervicalis injury). (Book p87)"
+  },
+  {
+   "id": "SURG-C14-069",
+   "sec": "Procedure & Position",
+   "page": 87,
+   "q": "Order of vessel ligation in thyroidectomy: middle thyroid vein, superior pole vessels, then:",
+   "opts": [
+    "Capsular branches of inferior thyroid artery",
+    "Origin of inferior thyroid artery",
+    "Inferior thyroid vein first",
+    "Arteria thyroidea ima"
+   ],
+   "ans": 0,
+   "exp": "Ligate middle thyroid vein, superior pole vessels → Capsular branches of inferior thyroid artery. (Book p87)"
+  },
+  {
+   "id": "SURG-C14-070",
+   "sec": "Procedure & Position",
+   "page": 87,
+   "q": "Parathyroid glands are identified intraoperatively as yellowish structures due to:",
+   "opts": [
+    "Sentinel pad of fat",
+    "Their capsule",
+    "Calcium content",
+    "Adjacent thymus"
+   ],
+   "ans": 0,
+   "exp": "Parathyroid gland (yellowish, d/t sentinel pad of fat). (Book p87)"
+  },
+  {
+   "id": "SURG-C14-071",
+   "sec": "Procedure & Position",
+   "page": 87,
+   "q": "After removing the thyroid, the incision is closed with insertion of:",
+   "opts": [
+    "Romovac suction drain",
+    "Corrugated rubber",
+    "Penrose drain",
+    "No drain ever"
+   ],
+   "ans": 0,
+   "exp": "Close the incision & insert Romovac suction drain. (Book p87)"
+  },
+  {
+   "id": "SURG-C14-072",
+   "sec": "MIVAT",
+   "page": 87,
+   "q": "MIVAT stands for:",
+   "opts": [
+    "Minimally Invasive Video Assisted Thyroid Sx",
+    "Minimal Incision Video Ablation Therapy",
+    "Minimally Invasive Vascular Access Technique",
+    "Micro Invasive Video Assisted Tracheostomy"
+   ],
+   "ans": 0,
+   "exp": "MIVAT: Minimally Invasive Video Assisted Thyroid Sx. (Book p87)"
+  },
+  {
+   "id": "SURG-C14-073",
+   "sec": "MIVAT",
+   "page": 87,
+   "q": "The most common approach in remote-access thyroid surgery is:",
+   "opts": [
+    "Trans axillary",
+    "Trans oral robotic Sx (TORS)",
+    "Retroauricular",
+    "Nipple"
+   ],
+   "ans": 0,
+   "exp": "Approaches: Trans axillary: m/c; TORS; Retroauricular; Nipple. (Book p87)"
+  },
+  {
+   "id": "SURG-C14-074",
+   "sec": "MIVAT",
+   "page": 87,
+   "q": "Which is NOT a remote access approach listed for thyroid surgery?",
+   "opts": [
+    "Transumbilical",
+    "Trans axillary",
+    "Retroauricular",
+    "Nipple"
+   ],
+   "ans": 0,
+   "exp": "Approaches: Trans axillary (m/c), Trans oral robotic Sx (TORS), Retroauricular, Nipple. (Book p87)"
+  },
+  {
+   "id": "SURG-C14-075",
+   "sec": "MIVAT",
+   "page": 88,
+   "q": "Indications of MIVAT include:",
+   "opts": [
+    "<3cm nodule, T1 papillary thyroid cancer, parathyroid adenomas",
+    "Large tumors",
+    "Thyroiditis",
+    "Retrosternal goitre"
+   ],
+   "ans": 0,
+   "exp": "Indications: <3cm nodule; T1 Papillary thyroid cancer; Parathyroid adenomas. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-076",
+   "sec": "MIVAT",
+   "page": 88,
+   "q": "Contraindications of MIVAT are:",
+   "opts": [
+    "Large tumor and thyroiditis",
+    "Small nodule",
+    "T1 papillary cancer",
+    "Parathyroid adenoma"
+   ],
+   "ans": 0,
+   "exp": "C/I: Large tumor; Thyroiditis. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-077",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "Reactionary hemorrhage after thyroid surgery occurs:",
+   "opts": [
+    "Few hours after Sx",
+    "During Sx",
+    "After 7 days",
+    "After 1 month"
+   ],
+   "ans": 0,
+   "exp": "Types: 1° during Sx; Reactionary: Few hours after Sx. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-078",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "Incidence of nerve injury in thyroid surgery is:",
+   "opts": [
+    "2-10%",
+    "20-30%",
+    "0-1%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Injury to nerves: Incidence: 2-10%. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-079",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "Nerve injury during thyroid surgery is prevented by:",
+   "opts": [
+    "Nerve monitoring",
+    "Big incisions",
+    "Routine strap muscle cut",
+    "Drains"
+   ],
+   "ans": 0,
+   "exp": "Prevention: Nerve monitoring. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-080",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "The MOST common nerve injury (often unnoticed) is to the:",
+   "opts": [
+    "External laryngeal nerve",
+    "Recurrent laryngeal nerve",
+    "Vagus",
+    "Ansa cervicalis"
+   ],
+   "ans": 0,
+   "exp": "External laryngeal nerve: m/c, but goes unnoticed. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-081",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "The external laryngeal nerve supplies:",
+   "opts": [
+    "Cricothyroid",
+    "All larynx muscles",
+    "Sensory supply of larynx",
+    "Strap muscles"
+   ],
+   "ans": 0,
+   "exp": "External laryngeal nerve muscles supplied: Cricothyroid. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-082",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "Unilateral external laryngeal nerve injury causes:",
+   "opts": [
+    "Hoarseness",
+    "Aspiration",
+    "Stridor",
+    "Aphonia"
+   ],
+   "ans": 0,
+   "exp": "ELN U/L: Hoarseness; B/L: Aspiration; Not life threatening (NLT). (Book p88)"
+  },
+  {
+   "id": "SURG-C14-083",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "Bilateral external laryngeal nerve injury causes:",
+   "opts": [
+    "Aspiration",
+    "Hoarseness only",
+    "Stridor",
+    "Aphonia"
+   ],
+   "ans": 0,
+   "exp": "ELN B/L: Aspiration (NLT). (Book p88)"
+  },
+  {
+   "id": "SURG-C14-084",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "The RLN supplies:",
+   "opts": [
+    "All muscles of larynx except cricothyroid + sensory supply of larynx",
+    "Only cricothyroid",
+    "Only sensory",
+    "Strap muscles"
+   ],
+   "ans": 0,
+   "exp": "RLN: All muscles of larynx except cricothyroid; Sensory supply of larynx. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-085",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "Unilateral RLN injury causes hoarseness; the patient:",
+   "opts": [
+    "Can speak (not life threatening)",
+    "Cannot speak at all",
+    "Develops stridor",
+    "Aspirates always"
+   ],
+   "ans": 0,
+   "exp": "RLN U/L: Hoarseness: Patient can speak (NLT). (Book p88)"
+  },
+  {
+   "id": "SURG-C14-086",
+   "sec": "Complications: Hemorrhage & Nerves",
+   "page": 88,
+   "q": "Bilateral RLN injury causes:",
+   "opts": [
+    "Aphonia, stridor, aspiration (life threatening)",
+    "Hoarseness only",
+    "No symptoms",
+    "Cough only"
+   ],
+   "ans": 0,
+   "exp": "RLN B/L: Aphonia, Stridor, Aspiration (↓ sensation) - LT. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-087",
+   "sec": "Respiratory Distress & Hypoparathyroidism",
+   "page": 88,
+   "q": "The most common cause of post operative respiratory distress after thyroidectomy is:",
+   "opts": [
+    "Laryngeal edema",
+    "Tension haematoma",
+    "Laryngomalacia",
+    "B/L RLN injury"
+   ],
+   "ans": 0,
+   "exp": "Causes: a. Laryngeal edema: m/c. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-088",
+   "sec": "Respiratory Distress & Hypoparathyroidism",
+   "page": 88,
+   "q": "Tension haematoma causing respiratory distress is due to:",
+   "opts": [
+    "Reactionary hemorrhage → tense swelling pressing on trachea",
+    "Laryngeal edema",
+    "Tracheal collapse",
+    "Pneumothorax"
+   ],
+   "ans": 0,
+   "exp": "Reactionary hemorrhage → Tense swelling pressing on trachea. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-089",
+   "sec": "Respiratory Distress & Hypoparathyroidism",
+   "page": 88,
+   "q": "Immediate management of tension haematoma is:",
+   "opts": [
+    "Open the sutures, evacuate the hematoma, ligate bleeding vessels in the OT",
+    "Intubate and observe",
+    "Needle aspiration only",
+    "IV antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Mx: Open the sutures; Evacuate the hematoma; Ligate bleeding vessels in the OT. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-090",
+   "sec": "Respiratory Distress & Hypoparathyroidism",
+   "page": 88,
+   "q": "Laryngomalacia after thyroidectomy is due to:",
+   "opts": [
+    "Removal of long standing thyroid swelling → tracheal rings collapse",
+    "RLN injury",
+    "Edema",
+    "Hematoma"
+   ],
+   "ans": 0,
+   "exp": "Removal of long standing thyroid swelling → tracheal rings collapse. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-091",
+   "sec": "Respiratory Distress & Hypoparathyroidism",
+   "page": 88,
+   "q": "Laryngomalacia is prevented by:",
+   "opts": [
+    "Adequate examination of larynx & vocal cords before Sx",
+    "Routine intubation",
+    "Steroids",
+    "Smaller incision"
+   ],
+   "ans": 0,
+   "exp": "Prevention: Adequate examination of larynx & vocal cords before sx. (Book p88)"
+  },
+  {
+   "id": "SURG-C14-092",
+   "sec": "Respiratory Distress & Hypoparathyroidism",
+   "page": 89,
+   "q": "Hypoparathyroidism as a complication appears as a LATE cause at:",
+   "opts": [
+    "48-72 hrs after Sx",
+    "6 hrs",
+    "1 week",
+    "1 month"
+   ],
+   "ans": 0,
+   "exp": "Hypoparathyroidism: Late cause: 48-72 hrs after sx. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-093",
+   "sec": "Respiratory Distress & Hypoparathyroidism",
+   "page": 89,
+   "q": "The other late complications listed are:",
+   "opts": [
+    "Keloid and recurrence",
+    "Hemorrhage",
+    "Air embolism",
+    "Ansa cervicalis injury"
+   ],
+   "ans": 0,
+   "exp": "4. Keloid; 5. Recurrence. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-094",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "The most common cause of hypoparathyroidism after thyroid surgery is vascular insult via:",
+   "opts": [
+    "Inferior thyroid artery",
+    "Superior thyroid artery",
+    "Middle thyroid vein",
+    "Arteria thyroidea ima"
+   ],
+   "ans": 0,
+   "exp": "Cause: Vascular insult to parathyroid glands: inferior thyroid artery: m/c. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-095",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Symptoms of hypoparathyroidism start at:",
+   "opts": [
+    "48-72 hrs after Sx",
+    "Immediately in OT",
+    "1 week",
+    "6 hours"
+   ],
+   "ans": 0,
+   "exp": "Start 48-72 hrs after Sx. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-096",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "The EARLIEST symptom of hypoparathyroidism is:",
+   "opts": [
+    "Perioral numbness",
+    "Tetany",
+    "Respiratory distress",
+    "Carpopedal spasm"
+   ],
+   "ans": 0,
+   "exp": "Earliest: Perioral numbness → tingling/paresthesia → Tetany → Respiratory distress (Cause of death). (Book p89)"
+  },
+  {
+   "id": "SURG-C14-097",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "The cause of death in untreated hypoparathyroidism is:",
+   "opts": [
+    "Respiratory distress",
+    "Cardiac arrest from hypercalcemia",
+    "Hemorrhage",
+    "Sepsis"
+   ],
+   "ans": 0,
+   "exp": "Tetany → Respiratory distress (Cause of death). (Book p89)"
+  },
+  {
+   "id": "SURG-C14-098",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Chvostek sign is:",
+   "opts": [
+    "Twitching of facial muscles on tapping over facial nerve",
+    "Carpopedal spasm",
+    "Hand spasm with BP cuff",
+    "Numbness of lips"
+   ],
+   "ans": 0,
+   "exp": "Chvostek sign: Twitching of facial muscles on tapping over facial nerve. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-099",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Trousseau sign is:",
+   "opts": [
+    "Carpopedal spasm/obstetrician's hand; hand spasm when BP cuff inflated above systolic BP",
+    "Facial twitching on tapping",
+    "Knee jerk loss",
+    "Papilledema"
+   ],
+   "ans": 0,
+   "exp": "Trousseau sign (Carpopedal spasm)/Obstetrician's hand: Spasm of hand when BP cuff inflated above systolic BP. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-100",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Trousseau sign indicates:",
+   "opts": [
+    "Neuromuscular hyperexcitability (hypocalcemia & hypoparathyroidism)",
+    "Hypokalemia",
+    "Hypercalcemia",
+    "Neuropathy"
+   ],
+   "ans": 0,
+   "exp": "D/t neuromuscular hyperexcitability; Seen in hypocalcemia & hypoparathyroidism. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-101",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Monitoring in hypoparathyroidism uses S. calcium (ionized > total) and S. PTH whose half life is:",
+   "opts": [
+    "7 minutes",
+    "7 hours",
+    "7 days",
+    "70 minutes"
+   ],
+   "ans": 0,
+   "exp": "S. PTH (1/2 life: 7 minutes). (Book p89)"
+  },
+  {
+   "id": "SURG-C14-102",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Major symptoms or S.Ca2+ <8 mg/dl is treated with:",
+   "opts": [
+    "I/V Calcium gluconate + oral Ca2+ + oral Vit D3",
+    "Oral Ca only",
+    "Observation",
+    "IV magnesium"
+   ],
+   "ans": 0,
+   "exp": "Major symptoms or S.Ca2+ <8mg/dl → I/V Calcium gluconate + oral Ca2+ + oral Vit D3. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-103",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Minor symptoms with S.Ca2+ >8 mg/dl are treated with:",
+   "opts": [
+    "Oral Ca2+ + oral Vit D3",
+    "IV calcium gluconate",
+    "IV PTH",
+    "Dialysis"
+   ],
+   "ans": 0,
+   "exp": "Minor symptoms & S.Ca2+ >8mg/dl → Oral Ca2+ + oral Vit D3. (Book p89)"
+  },
+  {
+   "id": "SURG-C14-104",
+   "sec": "Hypoparathyroidism",
+   "page": 89,
+   "q": "Permanent hypoparathyroidism (due to removal of parathyroid glands) occurs in about:",
+   "opts": [
+    "1% cases, symptoms last >1 year",
+    "10% cases",
+    "50% cases",
+    "0.01%"
+   ],
+   "ans": 0,
+   "exp": "Permanent hypoparathyroidism: D/t removal of parathyroid glands; 1% cases; Symptoms last >1 year. (Book p89)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U14-1",
+   "ch": 14,
+   "n": 1,
+   "title": "Surgical Anatomy: Arteries & Veins",
+   "sec": "Surgical Anatomy: Arteries & Veins · p82",
+   "qs": [
+    "SURG-C14-001",
+    "SURG-C14-002",
+    "SURG-C14-003",
+    "SURG-C14-004",
+    "SURG-C14-005",
+    "SURG-C14-006",
+    "SURG-C14-007",
+    "SURG-C14-008"
+   ],
+   "guide": "Butterfly gland: superior thyroid artery (external carotid) ligated close to the gland; inferior thyroid artery (thyrocervical trunk) feeds parathyroids too, so only capsular branches are tied to dodge hypocalcemia; arteria thyroidea ima sprouts from the aortic arch. Veins: superior → IJV, middle (30%, first ligated) → IJV, inferior → left brachiocephalic."
+  },
+  {
+   "id": "SURG-U14-2",
+   "ch": 14,
+   "n": 2,
+   "title": "Nerves & Berry's Ligament",
+   "sec": "Nerves & Berry's Ligament · p82",
+   "qs": [
+    "SURG-C14-009",
+    "SURG-C14-010",
+    "SURG-C14-011",
+    "SURG-C14-012",
+    "SURG-C14-013",
+    "SURG-C14-014",
+    "SURG-C14-015",
+    "SURG-C14-016",
+    "SURG-C14-017",
+    "SURG-C14-018"
+   ],
+   "guide": "Right RLN loops the subclavian vessels, left the aortic arch (longer course); both run between inferior thyroid artery branches, and 2% of people have non-recurrent nerves. The external laryngeal nerve hugs the superior pole. Berry's ligament - pre-tracheal fascia condensing onto trachea - makes the gland move on swallowing and is the m/c site of RLN injury; Beahr's triangle locates the RLN."
+  },
+  {
+   "id": "SURG-U14-3",
+   "ch": 14,
+   "n": 3,
+   "title": "Thyroid Examination & TFT",
+   "sec": "Thyroid Examination & TFT · p83",
+   "qs": [
+    "SURG-C14-019",
+    "SURG-C14-020",
+    "SURG-C14-021",
+    "SURG-C14-022",
+    "SURG-C14-023",
+    "SURG-C14-024",
+    "SURG-C14-025"
+   ],
+   "guide": "Normal thyroid is neither visible nor palpable; examine by Pizillo's, Lahey's or Crile's (best for nodularity). TFT is the first test - T3 the active hormone - with TSH down in hyper- and up in hypothyroidism."
+  },
+  {
+   "id": "SURG-U14-4",
+   "ch": 14,
+   "n": 4,
+   "title": "USG Neck & TIRADS",
+   "sec": "USG Neck & TIRADS · p83",
+   "qs": [
+    "SURG-C14-026",
+    "SURG-C14-027",
+    "SURG-C14-028",
+    "SURG-C14-029",
+    "SURG-C14-030",
+    "SURG-C14-031",
+    "SURG-C14-032"
+   ],
+   "guide": "Benign nodules are iso/hyperechoic, macrocalcified, regular, wider-than-taller with peripheral flow and kidney-shaped nodes; malignancy flips every feature (hypoechoic, microcalcifications, taller-than-wide, infiltrative, round nodes losing fatty hilum, intranodular flow). TIRADS scores composition, margin, shape, echogenicity, echogenic foci: TR1-2 need no FNAC, TR3-5 do."
+  },
+  {
+   "id": "SURG-U14-5",
+   "ch": 14,
+   "n": 5,
+   "title": "FNAC & Royal College Classification",
+   "sec": "FNAC & Royal College Classification · p84",
+   "qs": [
+    "SURG-C14-033",
+    "SURG-C14-034",
+    "SURG-C14-035",
+    "SURG-C14-036",
+    "SURG-C14-037",
+    "SURG-C14-038",
+    "SURG-C14-039",
+    "SURG-C14-040",
+    "SURG-C14-041"
+   ],
+   "guide": "FNAC is IOC with a 23-30G needle and needs 6 groups of ≥10 follicular cells, yet cannot split follicular adenoma from carcinoma. Royal College: Thy1/1c repeat USG-FNAC, Thy2 follow up, Thy3 hemithyroidectomy, Thy4/5 surgery; FNNAC serves superficial swellings and Bethesda also reports thyroid FNAC."
+  },
+  {
+   "id": "SURG-U14-6",
+   "ch": 14,
+   "n": 6,
+   "title": "Thyroid Scan & Imaging",
+   "sec": "Thyroid Scan & Imaging · p84",
+   "qs": [
+    "SURG-C14-042",
+    "SURG-C14-043",
+    "SURG-C14-044",
+    "SURG-C14-045",
+    "SURG-C14-046",
+    "SURG-C14-047",
+    "SURG-C14-048",
+    "SURG-C14-049",
+    "SURG-C14-050",
+    "SURG-C14-051"
+   ],
+   "guide": "Scan when TSH is low with thyrotoxic features or for ectopic tissue: Tc99 reads uptake, I123 uptake plus organification. Cold nodules are 30% malignant vs 4% hot; Graves' lights up diffusely, thyroiditis stays dark, Plummer's shows toxic nodular goitre. CECT for retrosternal/large malignant goitre; whole-body iodine scan hunts residual DTC after total thyroidectomy."
+  },
+  {
+   "id": "SURG-U14-7",
+   "ch": 14,
+   "n": 7,
+   "title": "Thyroidectomy Indications",
+   "sec": "Thyroidectomy Indications · p85",
+   "qs": [
+    "SURG-C14-052",
+    "SURG-C14-053",
+    "SURG-C14-054"
+   ],
+   "guide": "Operate for neoplasia, FNAC Thy3-5, clinical suspicion (age, male, hard fixed nodule, RLN palsy, lymphadenopathy, recurrent cyst), toxic adenoma, pressure symptoms or cosmetics."
+  },
+  {
+   "id": "SURG-U14-8",
+   "ch": 14,
+   "n": 8,
+   "title": "Types of Thyroidectomy",
+   "sec": "Types of Thyroidectomy · p86",
+   "qs": [
+    "SURG-C14-055",
+    "SURG-C14-056",
+    "SURG-C14-057",
+    "SURG-C14-058",
+    "SURG-C14-059",
+    "SURG-C14-060",
+    "SURG-C14-061"
+   ],
+   "guide": "Hemi = lobe + isthmus; total = both lobes + isthmus; subtotal leaves 4-8 g each side and near-total (Hartley Dunhill) does lobectomy + isthmus one side with subtotal lobectomy opposite - the last two are retired. Hypothyroidism, RLN injury and hypoparathyroidism rates are equal across all types."
+  },
+  {
+   "id": "SURG-U14-9",
+   "ch": 14,
+   "n": 9,
+   "title": "Procedure & Position",
+   "sec": "Procedure & Position · p86",
+   "qs": [
+    "SURG-C14-062",
+    "SURG-C14-063",
+    "SURG-C14-064",
+    "SURG-C14-065",
+    "SURG-C14-066",
+    "SURG-C14-067",
+    "SURG-C14-068",
+    "SURG-C14-069",
+    "SURG-C14-070",
+    "SURG-C14-071"
+   ],
+   "guide": "Rose/barking-dog position: 30° head-up for a bloodless field at the price of air embolism risk, neck extended on a towel roll. Collar incision two finger-breadths above the sternal notch, subplatysmal tunnel, strap muscles cut high to spare ansa cervicalis; ligate middle vein, superior pole vessels then capsular inferior artery branches; parathyroids glow yellowish via sentinel fat; finish with a Romovac drain. Joll's retractor is history."
+  },
+  {
+   "id": "SURG-U14-10",
+   "ch": 14,
+   "n": 10,
+   "title": "MIVAT",
+   "sec": "MIVAT · p87",
+   "qs": [
+    "SURG-C14-072",
+    "SURG-C14-073",
+    "SURG-C14-074",
+    "SURG-C14-075",
+    "SURG-C14-076"
+   ],
+   "guide": "Minimally Invasive Video Assisted Thyroid Sx suits <3 cm nodules, T1 papillary cancers and parathyroid adenomas but not large tumors or thyroiditis; remote access routes: trans-axillary (m/c), TORS, retroauricular, nipple."
+  },
+  {
+   "id": "SURG-U14-11",
+   "ch": 14,
+   "n": 11,
+   "title": "Complications: Hemorrhage & Nerves",
+   "sec": "Complications: Hemorrhage & Nerves · p88",
+   "qs": [
+    "SURG-C14-077",
+    "SURG-C14-078",
+    "SURG-C14-079",
+    "SURG-C14-080",
+    "SURG-C14-081",
+    "SURG-C14-082",
+    "SURG-C14-083",
+    "SURG-C14-084",
+    "SURG-C14-085",
+    "SURG-C14-086"
+   ],
+   "guide": "Primary bleeding is intra-op, reactionary hours later. Nerve injury 2-10%, prevented by monitoring: external laryngeal (cricothyroid) is m/c but silent - U/L hoarseness, B/L aspiration, never fatal; RLN U/L hoarseness with preserved speech, B/L aphonia-stridor-aspiration and life threatening."
+  },
+  {
+   "id": "SURG-U14-12",
+   "ch": 14,
+   "n": 12,
+   "title": "Respiratory Distress & Hypoparathyroidism",
+   "sec": "Respiratory Distress & Hypoparathyroidism · p88",
+   "qs": [
+    "SURG-C14-087",
+    "SURG-C14-088",
+    "SURG-C14-089",
+    "SURG-C14-090",
+    "SURG-C14-091",
+    "SURG-C14-092",
+    "SURG-C14-093"
+   ],
+   "guide": "Post-op distress: laryngeal edema m/c, tension haematoma (open sutures, evacuate, ligate in OT), laryngomalacia from collapsed tracheal rings after long goitres (pre-op laryngoscopy prevents), B/L RLN injury; hypoparathyroidism is the late 48-72 h cause, plus keloid and recurrence."
+  },
+  {
+   "id": "SURG-U14-13",
+   "ch": 14,
+   "n": 13,
+   "title": "Hypoparathyroidism",
+   "sec": "Hypoparathyroidism · p89",
+   "qs": [
+    "SURG-C14-094",
+    "SURG-C14-095",
+    "SURG-C14-096",
+    "SURG-C14-097",
+    "SURG-C14-098",
+    "SURG-C14-099",
+    "SURG-C14-100",
+    "SURG-C14-101",
+    "SURG-C14-102",
+    "SURG-C14-103",
+    "SURG-C14-104"
+   ],
+   "guide": "Vascular insult via the inferior thyroid artery starves parathyroids; perioral numbness at 48-72 h escalates to tingling, tetany and fatal respiratory distress. Chvostek = facial tap twitching; Trousseau = carpopedal/obstetric hand with cuff above systolic. Watch ionized Ca and PTH (t½ 7 min): <8 mg/dl or major symptoms → IV calcium gluconate plus oral Ca/D3, otherwise oral; permanent form (glands removed) hits 1% and lasts >1 year."
+  }
+ ]
+}

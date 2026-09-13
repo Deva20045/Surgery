@@ -1,0 +1,1891 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C13-001",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "Which is more common?",
+   "opts": [
+    "Lactational breast abscess > Non lactational",
+    "Non lactational > Lactational",
+    "Both equal",
+    "Lactational only in males"
+   ],
+   "ans": 0,
+   "exp": "Breast abscess: Lactational > Non lactational. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-002",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "The most common organism in lactational breast abscess is:",
+   "opts": [
+    "S. aureus",
+    "E. coli",
+    "Streptococcus pyogenes",
+    "Pseudomonas"
+   ],
+   "ans": 0,
+   "exp": "Organism: S. aureus (m/c). (Book p75)"
+  },
+  {
+   "id": "SURG-C13-003",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "The source of infection in lactational breast abscess is:",
+   "opts": [
+    "Oropharynx of the child",
+    "Skin of the mother",
+    "Blood stream",
+    "Lymphatics"
+   ],
+   "ans": 0,
+   "exp": "Source: Oropharynx of the child. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-004",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "The entry point of organisms in lactational breast abscess is:",
+   "opts": [
+    "Cracked nipple",
+    "Blocked duct",
+    "Sebaceous cyst",
+    "Axillary tail"
+   ],
+   "ans": 0,
+   "exp": "Entry point: Cracked nipple. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-005",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "Symptoms of breast abscess include:",
+   "opts": [
+    "Pain, swelling and fever",
+    "Painless lump",
+    "Nipple retraction only",
+    "Skin dimpling only"
+   ],
+   "ans": 0,
+   "exp": "Symptoms: Pain, Swelling, Fever. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-006",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "The LATE sign of breast abscess is:",
+   "opts": [
+    "Fluctuation",
+    "Redness",
+    "Warmth",
+    "Tenderness"
+   ],
+   "ans": 0,
+   "exp": "Signs: Signs of inflammation (+); Fluctuation (Late sign). (Book p75)"
+  },
+  {
+   "id": "SURG-C13-007",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "Fluctuation is a late sign in which group of abscesses?",
+   "opts": [
+    "Breast, parotid, ischiorectal, palmar & plantar",
+    "Dental, peritonsillar, submandibular",
+    "Liver, splenic, renal",
+    "Psoas and iliac"
+   ],
+   "ans": 0,
+   "exp": "Fluctuation is a late sign in: Breast, parotid, ischiorectal abscess, palmar & plantar abscess. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-008",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "Investigation of choice for breast abscess is:",
+   "opts": [
+    "USG",
+    "Mammogram",
+    "FNAC",
+    "CT"
+   ],
+   "ans": 0,
+   "exp": "Ix: USG (IOC). (Book p75)"
+  },
+  {
+   "id": "SURG-C13-009",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "Antibiotics used for lactational breast abscess are:",
+   "opts": [
+    "Amoxicillin + Clavulanic acid or Cloxacillin",
+    "Vancomycin only",
+    "Metronidazole only",
+    "Linezolid only"
+   ],
+   "ans": 0,
+   "exp": "Rx: Antibiotics: Amoxicillin + Clavulanic acid or Cloxacillin. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-010",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "Regarding breast milk during lactational abscess treatment:",
+   "opts": [
+    "Breast milk to be expressed",
+    "Breast feeding must stop forever",
+    "Milk must be suppressed with drugs",
+    "Only contralateral feeding allowed"
+   ],
+   "ans": 0,
+   "exp": "Rx: Breast milk to be expressed. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-011",
+   "sec": "Breast Abscess: Lactational",
+   "page": 75,
+   "q": "If pus is present, after 2 failed attempts of USG guided aspiration with a still recurrent abscess, the next step is:",
+   "opts": [
+    "Incision & drainage with blade no. 11",
+    "Continue aspiration for 10 more attempts",
+    "Mastectomy",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "If pus + → 2 attempts of USG guided aspiration; if abscess still recurrent → Incision & drainage (Blade no. 11). (Book p75)"
+  },
+  {
+   "id": "SURG-C13-012",
+   "sec": "Recurrent Non-lactational Abscesses",
+   "page": 75,
+   "q": "A recurrent non-lactational abscess with caseating granulomas, AFB +ve and GeneXpert +ve is treated with:",
+   "opts": [
+    "ATT",
+    "Steroids",
+    "Mastectomy",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "Tuberculosis: HPE caseating granulomas, AFB +ve, Gene expert +ve → Rx ATT. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-013",
+   "sec": "Recurrent Non-lactational Abscesses",
+   "page": 75,
+   "q": "Idiopathic granulomatous mastitis shows on HPE:",
+   "opts": [
+    "Non caseating granulomas",
+    "Caseating granulomas",
+    "Carcinoma",
+    "Normal tissue"
+   ],
+   "ans": 0,
+   "exp": "Idiopathic granulomatous mastitis: Non caseating granulomas; AFB -ve; Gene expert -ve. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-014",
+   "sec": "Recurrent Non-lactational Abscesses",
+   "page": 75,
+   "q": "Idiopathic granulomatous mastitis is a diagnosis of exclusion treated with:",
+   "opts": [
+    "Steroids",
+    "ATT",
+    "Antibiotics",
+    "Surgery always"
+   ],
+   "ans": 0,
+   "exp": "Rx: Diagnosis of exclusion; Rx: Steroids. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-015",
+   "sec": "Recurrent Non-lactational Abscesses",
+   "page": 75,
+   "q": "In the recurrent non-lactational abscess table, inflammatory cancer shows on HPE:",
+   "opts": [
+    "Carcinoma",
+    "Caseating granulomas",
+    "Non caseating granulomas",
+    "Fat necrosis"
+   ],
+   "ans": 0,
+   "exp": "Inflammatory cancer: HPE carcinoma → Rx of cancer. (Book p75)"
+  },
+  {
+   "id": "SURG-C13-016",
+   "sec": "Recurrent Non-lactational Abscesses",
+   "page": 75,
+   "q": "AFB stain and GeneXpert are negative in:",
+   "opts": [
+    "Idiopathic granulomatous mastitis",
+    "Tuberculous abscess",
+    "Both TB and cancer",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Idiopathic granulomatous mastitis: AFB -ve, Gene expert for TB -ve (TB is +ve for both). (Book p75)"
+  },
+  {
+   "id": "SURG-C13-017",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "ANDI stands for:",
+   "opts": [
+    "Aberrations of Normal Development & Involution",
+    "Abnormal Nodular Disease of Involution",
+    "Aberrations of Neoplastic Development & Involution",
+    "Atypical Normal Duct Involution"
+   ],
+   "ans": 0,
+   "exp": "ANDI: Aberrations of Normal Development & Involution. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-018",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "The most common benign breast condition in age 15-25 is:",
+   "opts": [
+    "Fibroadenoma",
+    "Fibrocystic disease",
+    "Duct ectasia",
+    "Papilloma"
+   ],
+   "ans": 0,
+   "exp": "Age 15-25: Fibroadenoma. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-019",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "In age 25-40, the most common benign condition is:",
+   "opts": [
+    "Fibrocystic disease/Fibroadenosis",
+    "Fibroadenoma",
+    "Duct ectasia",
+    "Phyllodes"
+   ],
+   "ans": 0,
+   "exp": "Age 25-40: Fibrocystic disease/Fibroadenosis. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-020",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "Above 40 years, the common benign conditions are:",
+   "opts": [
+    "Fibrocystic disease > Duct ectasia",
+    "Fibroadenoma > cyst",
+    "Papilloma > ectasia",
+    "Phyllodes > fibroadenoma"
+   ],
+   "ans": 0,
+   "exp": ">40: Fibrocystic disease > Duct ectasia. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-021",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "The most common cause of breast lump is:",
+   "opts": [
+    "Fibroadenoma",
+    "Fibrocystic disease",
+    "Cancer",
+    "Abscess"
+   ],
+   "ans": 0,
+   "exp": "Fibroadenoma: m/c cause of breast lump. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-022",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "Fibroadenoma typically occurs at age:",
+   "opts": [
+    "15-25",
+    "35-45",
+    "45-55",
+    ">60"
+   ],
+   "ans": 0,
+   "exp": "Age: 15-25. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-023",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "Clinical features of fibroadenoma are:",
+   "opts": [
+    "Firm, painless, lobulated, mobile",
+    "Hard, fixed, painful",
+    "Soft, tender, fluctuant",
+    "Cystic and transilluminant"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: Firm, Painless, Lobulated, Mobile (Breast mouse). (Book p76)"
+  },
+  {
+   "id": "SURG-C13-024",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "The 'Breast mouse' refers to:",
+   "opts": [
+    "Fibroadenoma (mobile)",
+    "Phyllodes",
+    "Lipoma",
+    "DCIS"
+   ],
+   "ans": 0,
+   "exp": "Mobile (Breast mouse) = fibroadenoma. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-025",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "On mammogram, fibroadenoma shows:",
+   "opts": [
+    "Popcorn calcification",
+    "Clustered microcalcifications",
+    "Spiculated mass",
+    "Architectural distortion"
+   ],
+   "ans": 0,
+   "exp": "Mammogram showing popcorn calcification in fibroadenoma. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-026",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "USG (IOC) features of fibroadenoma are:",
+   "opts": [
+    "Smooth well defined, wider than taller, no increase in vascularity",
+    "Irregular, taller than wide, vascular",
+    "Cystic with debris",
+    "Shadowing lesion"
+   ],
+   "ans": 0,
+   "exp": "USG Breast (IOC): Smooth, well defined tumor; Wider than taller; No ↑ in vascularity. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-027",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "The usual BIRADS score of fibroadenoma is:",
+   "opts": [
+    "BIRADS II",
+    "BIRADS I",
+    "BIRADS IVb",
+    "BIRADS V"
+   ],
+   "ans": 0,
+   "exp": "Staging: BIRADS II (m/c). (Book p76)"
+  },
+  {
+   "id": "SURG-C13-028",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "Complex/Atypical fibroadenoma is graded:",
+   "opts": [
+    "BIRADS III/IVa",
+    "BIRADS I",
+    "BIRADS II",
+    "BIRADS V"
+   ],
+   "ans": 0,
+   "exp": "Complex/Atypical fibroadenoma: BIRADS III/IVa. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-029",
+   "sec": "ANDI & Fibroadenoma",
+   "page": 76,
+   "q": "BIRADS IVa fibroadenoma requires:",
+   "opts": [
+    "Biopsy",
+    "Observation",
+    "MRI only",
+    "Mastectomy"
+   ],
+   "ans": 0,
+   "exp": "BIRADS IVa → Biopsy required. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-030",
+   "sec": "Fibroadenoma: Staging & Rx",
+   "page": 76,
+   "q": "Which is NOT an indication for surgery in fibroadenoma?",
+   "opts": [
+    "Stable 1 cm lesion with no symptoms or anxiety",
+    "Increase in size/rapid increase",
+    "Family H/o breast cancer",
+    "Giant fibroadenoma (>4-5 cm)"
+   ],
+   "ans": 0,
+   "exp": "Indications for Sx: ↑ size/rapid ↑ size; Family H/o Breast cancer; Painful fibroadenoma; Giant (>4-5 cm); If patient desires. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-031",
+   "sec": "Fibroadenoma: Staging & Rx",
+   "page": 76,
+   "q": "A giant fibroadenoma is defined as size greater than:",
+   "opts": [
+    "4-5 cm",
+    "1 cm",
+    "2 cm",
+    "10 cm"
+   ],
+   "ans": 0,
+   "exp": "Giant Fibroadenoma (>4-5 cm). (Book p76)"
+  },
+  {
+   "id": "SURG-C13-032",
+   "sec": "Fibroadenoma: Staging & Rx",
+   "page": 76,
+   "q": "In open excision of fibroadenoma, the incision is:",
+   "opts": [
+    "Periareolar",
+    "Radial only",
+    "Transverse axillary",
+    "Circumareolar skin excision"
+   ],
+   "ans": 0,
+   "exp": "Older methods: Open Sx - Incision: Periareolar. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-033",
+   "sec": "Fibroadenoma: Staging & Rx",
+   "page": 76,
+   "q": "Closure after open fibroadenoma excision is with:",
+   "opts": [
+    "Subcuticular sutures with 3-0 monocryl",
+    "Interrupted prolene 1-0",
+    "Staplers",
+    "Secondary intention"
+   ],
+   "ans": 0,
+   "exp": "Closure: Subcuticular sutures with 3-0 monocryl. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-034",
+   "sec": "Fibroadenoma: Staging & Rx",
+   "page": 76,
+   "q": "The latest methods of fibroadenoma removal are:",
+   "opts": [
+    "Vacuum assisted/scarless breast Sx",
+    "Halstead radical Sx",
+    "Simple mastectomy",
+    "RT ablation"
+   ],
+   "ans": 0,
+   "exp": "Latest methods: Vacuum assisted/scarless breast Sx. (Book p76)"
+  },
+  {
+   "id": "SURG-C13-035",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Phyllodes tumor is also known as:",
+   "opts": [
+    "Cystosarcoma phyllodes",
+    "Cystosarcoma mammae",
+    "Sarcoma botryoides",
+    "Adenosarcoma"
+   ],
+   "ans": 0,
+   "exp": "AKA Cystosarcoma phyllodes. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-036",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Phyllodes tumor is a:",
+   "opts": [
+    "Stromal tumor",
+    "Epithelial tumor",
+    "Lymphoid tumor",
+    "Vascular tumor"
+   ],
+   "ans": 0,
+   "exp": "Stromal tumor. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-037",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Phyllodes tumor typically occurs in which decade?",
+   "opts": [
+    "4th/5th decade",
+    "2nd decade",
+    "6th/7th decade",
+    "Childhood"
+   ],
+   "ans": 0,
+   "exp": "Age: 4th/5th decade. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-038",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Clinical features of phyllodes include:",
+   "opts": [
+    "Rapid increase in breast size with firm/hard variegated consistency",
+    "Slow painful lump",
+    "Nipple discharge only",
+    "Skin puckering"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: Rapid ↑ size of breast; Firm/hard with variegated consistency. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-039",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Spread to lymph nodes in phyllodes is:",
+   "opts": [
+    "<10%",
+    ">50%",
+    "Always",
+    "30-40%"
+   ],
+   "ans": 0,
+   "exp": "<10% Spread to Lymph nodes. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-040",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Malignant phyllodes metastasizes to:",
+   "opts": [
+    "Lungs",
+    "Liver first",
+    "Bone only",
+    "Brain only"
+   ],
+   "ans": 0,
+   "exp": "If malignant → metastasize to lungs. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-041",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "To confirm diagnosis of phyllodes, core biopsy is based on:",
+   "opts": [
+    "Mitotic figures (benign/borderline/malignant)",
+    "ER status",
+    "Calcification",
+    "Cyst size"
+   ],
+   "ans": 0,
+   "exp": "Core biopsy (To confirm Dx): Based on mitotic figures: Benign, Borderline, malignant. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-042",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "First line treatment of phyllodes is:",
+   "opts": [
+    "Surgery: wide local excision/lumpectomy",
+    "Chemotherapy",
+    "RT alone",
+    "Hormonal therapy"
+   ],
+   "ans": 0,
+   "exp": "Rx: Surgery (1st line): Wide local excision/Lumpectomy. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-043",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Simple mastectomy in phyllodes is done for:",
+   "opts": [
+    "Large tumors, malignant phyllodes post Sx (RT given), recurrent phyllodes",
+    "All phyllodes",
+    "Only benign small phyllodes",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Simple mastectomy for: Large tumors; malignant phyllodes Post Sx → RT given; Recurrent phyllodes. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-044",
+   "sec": "Phyllodes Tumor",
+   "page": 77,
+   "q": "Role of chemotherapy in phyllodes is:",
+   "opts": [
+    "No role",
+    "First line",
+    "Adjuvant always",
+    "Only borderline"
+   ],
+   "ans": 0,
+   "exp": "No role of chemotherapy. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-045",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 77,
+   "q": "Incidence of fibroadenosis/fibrocystic disease is:",
+   "opts": [
+    "Age >25 years till menopause",
+    "Age 15-25",
+    "Post menopause only",
+    "Any age equally"
+   ],
+   "ans": 0,
+   "exp": "Incidence: Age >25 years till menopause. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-046",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 77,
+   "q": "The most common cause of cyclical mastalgia is:",
+   "opts": [
+    "Fibroadenosis",
+    "Fibroadenoma",
+    "Duct ectasia",
+    "Cancer"
+   ],
+   "ans": 0,
+   "exp": "Cyclical mastalgia: m/c cause is Fibroadenosis. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-047",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 77,
+   "q": "In cyclical mastalgia, pain is maximal:",
+   "opts": [
+    "Before menstrual cycle",
+    "During menstrual cycle",
+    "After menopause",
+    "At ovulation only"
+   ],
+   "ans": 0,
+   "exp": "Before menstrual cycle: max pain; During menstrual cycle: Pain reduces. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-048",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 77,
+   "q": "Tender nodularities/lumps in fibrocystic disease are assessed by:",
+   "opts": [
+    "Cardiff Lucknow Nodularity Score",
+    "VAS only",
+    "BIRADS",
+    "Van Nuys score"
+   ],
+   "ans": 0,
+   "exp": "Assessed by Cardiff Lucknow Nodularity Score. (Book p77)"
+  },
+  {
+   "id": "SURG-C13-049",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 78,
+   "q": "USG in fibrocystic disease shows:",
+   "opts": [
+    "Cysts",
+    "Solid masses",
+    "Microcalcifications",
+    "Duct dilatation only"
+   ],
+   "ans": 0,
+   "exp": "Ix: USG: Cysts seen. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-050",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 78,
+   "q": "A simple cyst on USG is:",
+   "opts": [
+    "Smooth walled with no solid component; BIRADS 2; observation",
+    "Solid components in wall; BIRADS 4",
+    "Infective floating debris",
+    "Septated with vegetations"
+   ],
+   "ans": 0,
+   "exp": "Simple cyst: Smooth walled, No solid component; BIRADS 2; Observation. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-051",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 78,
+   "q": "A complex cyst (solid components in cyst wall) has BIRADS score 4 and needs:",
+   "opts": [
+    "Core biopsy to rule out cancer",
+    "Observation",
+    "Antibiotics",
+    "Aspiration only"
+   ],
+   "ans": 0,
+   "exp": "Complex cyst: Solid components in cyst wall; BIRADS 4; Core biopsy to rule out cancer. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-052",
+   "sec": "Fibroadenosis & Cysts",
+   "page": 78,
+   "q": "A complicated cyst shows:",
+   "opts": [
+    "Infective intracystic floating debris; position changes with posture; if infected → antibiotics",
+    "Smooth wall only",
+    "Solid mural nodule",
+    "Popcorn calcification"
+   ],
+   "ans": 0,
+   "exp": "Complicated cyst: Infective intracystic floating debris within the cyst; Position changes with posture; If infected: Antibiotics. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-053",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Lifestyle/pain measures in fibrocystic disease include:",
+   "opts": [
+    "Reassurance with VAS breast pain chart, avoid caffeine/stress/sugar, tight sports brassiere",
+    "Immediate biopsy",
+    "Empiric antibiotics",
+    "Mastectomy"
+   ],
+   "ans": 0,
+   "exp": "Reassure with VAS breast pain chart; Avoid caffeine, stress, sugar; Adequate support: Tight sports brassiere during the day. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-054",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Flax seed 30 g daily is rich in:",
+   "opts": [
+    "Omega 3 fatty acids",
+    "γ-linolenic acid",
+    "Vitamin E",
+    "Phytoestrogens only"
+   ],
+   "ans": 0,
+   "exp": "Flax seed 30g daily: Rich sources of Omega 3 fatty acids; oil of evening primrose: γ-linolenic acid. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-055",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Oil of evening primrose is a rich source of:",
+   "opts": [
+    "γ-linolenic acid",
+    "Omega 3",
+    "Omega 6 only",
+    "Vitamin D"
+   ],
+   "ans": 0,
+   "exp": "Oil of evening primrose: Rich in γ-linolenic acid. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-056",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Topical NSAID creams for mastalgia include diclofenac/piroxicam applied:",
+   "opts": [
+    "4 times/day",
+    "Once daily",
+    "Once weekly",
+    "Only at night"
+   ],
+   "ans": 0,
+   "exp": "Topical NSAID cream (Diclofenac/Piroxicam: 4 times/day). (Book p78)"
+  },
+  {
+   "id": "SURG-C13-057",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Systemic medication is considered when pain score is ≥3 on a VAS of:",
+   "opts": [
+    "0-10",
+    "0-5",
+    "0-100",
+    "1-3"
+   ],
+   "ans": 0,
+   "exp": "Consider systemic medication if pain score ≥3 on a VAS of 0-10. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-058",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Tamoxifen dose for mastalgia is:",
+   "opts": [
+    "10 mg daily for 3-6 months",
+    "20 mg twice daily",
+    "5 mg weekly",
+    "40 mg daily"
+   ],
+   "ans": 0,
+   "exp": "Tamoxifen: 10mg daily, 3-6 months. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-059",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Which systemic drug for mastalgia is NOT preferred?",
+   "opts": [
+    "Danazol",
+    "Tamoxifen",
+    "Ormeloxifene",
+    "Topical NSAID"
+   ],
+   "ans": 0,
+   "exp": "Danazol (Not preferred): 50-300mg daily, 3-6 months. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-060",
+   "sec": "Mastalgia Rx",
+   "page": 78,
+   "q": "Ormeloxifene (Centchroman) dose and role is:",
+   "opts": [
+    "30 mg twice a week; treats cyclical & non cyclical mastalgia and nodularity",
+    "10 mg daily only for pain",
+    "300 mg daily",
+    "Only pre-operative"
+   ],
+   "ans": 0,
+   "exp": "Ormeloxifene (Centchroman): 30 mg twice a week; 3-6 months in both cyclical & non cyclical mastalgia to treat nodularity. (Book p78)"
+  },
+  {
+   "id": "SURG-C13-061",
+   "sec": "Mondor's & Tietze's",
+   "page": 78,
+   "q": "Mondor's disease is:",
+   "opts": [
+    "Thrombophlebitis of chest veins (lateral thoracic vein m/c)",
+    "Costochondritis",
+    "Duct ectasia",
+    "Fat necrosis"
+   ],
+   "ans": 0,
+   "exp": "Mondor's disease: Thrombophlebitis of chest veins: Lateral thoracic vein (m/c). (Book p78)"
+  },
+  {
+   "id": "SURG-C13-062",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Clinical feature of Mondor's disease is:",
+   "opts": [
+    "Non cyclical mastalgia",
+    "Cyclical mastalgia",
+    "Bloody nipple discharge",
+    "Fever with pus"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: Non cyclical mastalgia. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-063",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Risk of Mondor's disease is increased in:",
+   "opts": [
+    "Smokers",
+    "Diabetics",
+    "Hypertensives",
+    "Vegetarians"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: ↑ Risk in smokers. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-064",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Cancer risk in Mondor's disease is:",
+   "opts": [
+    "No risk of cancer",
+    "High",
+    "Moderate",
+    "Only with BRCA"
+   ],
+   "ans": 0,
+   "exp": "No risk of cancer. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-065",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Treatment of Mondor's disease is:",
+   "opts": [
+    "Painkillers",
+    "Anticoagulation",
+    "Excision of vein",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Rx: Painkillers. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-066",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Tietze's syndrome is also known as:",
+   "opts": [
+    "Costochondritis",
+    "Mondor's cord",
+    "Zuska disease",
+    "Poland syndrome"
+   ],
+   "ans": 0,
+   "exp": "Tietze's syndrome AKA costochondritis. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-067",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Tietze's syndrome presents with non cyclical mastalgia and:",
+   "opts": [
+    "Trigger point at costochondral junction",
+    "Trigger point at sternum only",
+    "Nipple retraction",
+    "Axillary nodes"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: Non cyclical mastalgia; Trigger point at costochondral junction. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-068",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Management of Tietze's syndrome is:",
+   "opts": [
+    "Anti-inflammatory agents and intralesional steroid",
+    "Surgery",
+    "Antibiotics",
+    "RT"
+   ],
+   "ans": 0,
+   "exp": "Mx: Anti-inflammatory agents; Intralesional steroid. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-069",
+   "sec": "Mondor's & Tietze's",
+   "page": 79,
+   "q": "Which statement about Mondor's & Tietze's syndrome is correct?",
+   "opts": [
+    "They are not a part of ANDI",
+    "They are core ANDI conditions",
+    "They are premalignant",
+    "They occur only in men"
+   ],
+   "ans": 0,
+   "exp": "Note: mondor's & Tietze's syndrome are not a part of ANDI. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-070",
+   "sec": "Nipple Discharge",
+   "page": 79,
+   "q": "Which nipple discharge is suspicious?",
+   "opts": [
+    "Spontaneous & not expressed discharge",
+    "Only on expression",
+    "During lactation",
+    "After exercise"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous & not expressed discharge: Suspicious. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-071",
+   "sec": "Nipple Discharge",
+   "page": 79,
+   "q": "IOC for nipple discharge is USG; which tests are NOT sensitive?",
+   "opts": [
+    "Mammography and nipple discharge cytology",
+    "USG and MRI",
+    "Core biopsy and FNAC",
+    "PET and CT"
+   ],
+   "ans": 0,
+   "exp": "Ix: USG (IOC); Mammography is not sensitive; Nipple discharge cytology is not sensitive. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-072",
+   "sec": "Nipple Discharge",
+   "page": 79,
+   "q": "Physiological causes of serous discharge are:",
+   "opts": [
+    "Puberty and pregnancy",
+    "Lactation only",
+    "Cancer",
+    "Duct ectasia"
+   ],
+   "ans": 0,
+   "exp": "Serous: Physiological = Puberty, Pregnancy; Pathological = Cancer, Duct ectasia. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-073",
+   "sec": "Nipple Discharge",
+   "page": 79,
+   "q": "Pathological causes of serous discharge include:",
+   "opts": [
+    "Cancer and duct ectasia",
+    "Puberty",
+    "Pregnancy",
+    "Lactation"
+   ],
+   "ans": 0,
+   "exp": "Serous pathological: Cancer, Duct ectasia. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-074",
+   "sec": "Nipple Discharge",
+   "page": 79,
+   "q": "Milky discharge with high prolactin is seen in prolactinoma and hypothyroidism; treatment is:",
+   "opts": [
+    "Cabergoline/Bromocriptine",
+    "Tamoxifen",
+    "Surgery",
+    "RT"
+   ],
+   "ans": 0,
+   "exp": "↑ prolactin (Prolactinoma, hypothyroidism): Mx: Cabergoline/Bromocriptine. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-075",
+   "sec": "Nipple Discharge",
+   "page": 79,
+   "q": "Green/bluish nipple discharge from multiple ducts is due to:",
+   "opts": [
+    "Duct ectasia (m/c)",
+    "Cancer",
+    "Papilloma",
+    "TB"
+   ],
+   "ans": 0,
+   "exp": "Green/Bluish: Duct ectasia (m/c), multiple ducts. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-076",
+   "sec": "Nipple Discharge",
+   "page": 79,
+   "q": "Benign causes of bloody nipple discharge include:",
+   "opts": [
+    "Duct papilloma (single duct), lactation due to cracked nipple, baby bites",
+    "Only cancer",
+    "Duct ectasia",
+    "Mondor's disease"
+   ],
+   "ans": 0,
+   "exp": "Bloody: Duct papilloma (Single duct); Lactation (D/t cracked nipple); Baby bites the nipple; Pathological: Cancer. (Book p79)"
+  },
+  {
+   "id": "SURG-C13-077",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "The most common cause of bloody nipple discharge from a SINGLE duct is:",
+   "opts": [
+    "Duct papilloma",
+    "Duct ectasia",
+    "Cancer",
+    "Cracked nipple"
+   ],
+   "ans": 0,
+   "exp": "Duct papilloma: m/c cause of bloody nipple discharge from a single duct. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-078",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Duct ectasia is the most common cause of:",
+   "opts": [
+    "Pathological nipple discharge",
+    "Bloody single-duct discharge",
+    "Cyclical mastalgia",
+    "Popcorn calcification"
+   ],
+   "ans": 0,
+   "exp": "Duct ectasia: Pathological nipple discharge. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-079",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Risk factors for duct ectasia are:",
+   "opts": [
+    ">45 years (premenopausal) and smokers",
+    "<25 years",
+    "Male sex",
+    "BRCA only"
+   ],
+   "ans": 0,
+   "exp": "Duct ectasia risk: >45 years (Premenopausal); Smokers. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-080",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "10% of duct papilloma cases are associated with:",
+   "opts": [
+    "Papillary DCIS",
+    "Invasive lobular cancer",
+    "LCIS",
+    "Phyllodes"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: 10% cases a/w papillary DCIS. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-081",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Clinical feature of duct papilloma is a U/L periareolar nodule that on press gives:",
+   "opts": [
+    "Bloody discharge",
+    "Milky discharge",
+    "Green discharge",
+    "Serous discharge"
+   ],
+   "ans": 0,
+   "exp": "U/L Periareolar nodule → press → Bloody discharge. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-082",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "In duct ectasia, stasis of secretion in dilated ducts causes periductal mastitis also called:",
+   "opts": [
+    "Zuska disease",
+    "Mondor's disease",
+    "Tietze's syndrome",
+    "Peau d' orange"
+   ],
+   "ans": 0,
+   "exp": "Dilated ducts → Stasis of secretion → Periductal mastitis (Zuska disease). (Book p80)"
+  },
+  {
+   "id": "SURG-C13-083",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Duct ectasia can present with greenish/bluish discharge (multiple ducts) or:",
+   "opts": [
+    "Periareolar abscess or sinuses (aerobic + anaerobic)",
+    "Bloody single duct discharge",
+    "Popcorn calcification",
+    "Nipple adenoma"
+   ],
+   "ans": 0,
+   "exp": "Periductal mastitis → Greenish or bluish discharge (multiple ducts) OR Periareolar abscess or sinuses (aerobic + anaerobic). (Book p80)"
+  },
+  {
+   "id": "SURG-C13-084",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "USG in duct papilloma shows papillomatous growth within dilated ducts; if USG is inconclusive, do:",
+   "opts": [
+    "MRI",
+    "CT",
+    "PET",
+    "Repeat USG in 6 months"
+   ],
+   "ans": 0,
+   "exp": "USG inconclusive → MRI. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-085",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "IOC for duct ectasia is:",
+   "opts": [
+    "USG",
+    "MRI",
+    "Ductogram",
+    "CT"
+   ],
+   "ans": 0,
+   "exp": "Duct ectasia Ix: USG (IOC). (Book p80)"
+  },
+  {
+   "id": "SURG-C13-086",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Treatment of duct papilloma is:",
+   "opts": [
+    "Microdochectomy (removal of duct + papilla)",
+    "Antibiotics",
+    "Major duct excision",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Mx: Microdochectomy (Removal of duct + papilla). (Book p80)"
+  },
+  {
+   "id": "SURG-C13-087",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "In duct ectasia, if antibiotics fail, the surgery is:",
+   "opts": [
+    "Major duct excision: Hadfield procedure/Cone excision of ducts",
+    "Microdochectomy",
+    "Simple mastectomy",
+    "Incision & drainage"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics → Fails → major duct excision: Hadfield procedure/Cone excision of ducts. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-088",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Relative risk of cancer with solitary papilloma is:",
+   "opts": [
+    "1.5-2 times",
+    "3 times",
+    "5 times",
+    "No risk"
+   ],
+   "ans": 0,
+   "exp": "Solitary papilloma: RR of cancer: 1.5-2 times. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-089",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Papillomatosis (B/L ≥5 papillomas) carries a relative cancer risk of:",
+   "opts": [
+    "3 times",
+    "1.5-2 times",
+    "10 times",
+    "1 time"
+   ],
+   "ans": 0,
+   "exp": "Papillomatosis: B/L ≥5 papillomas & RR of cancer: 3 times. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-090",
+   "sec": "Duct Papilloma & Duct Ectasia",
+   "page": 80,
+   "q": "Juvenile papillomatosis is also called:",
+   "opts": [
+    "Swiss cheese disease",
+    "Zuska disease",
+    "Mondor's disease",
+    "Breast mouse"
+   ],
+   "ans": 0,
+   "exp": "Juvenile papillomatosis (Swiss cheese disease): multiple papillomas in a young female with palpable nodules. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-091",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "Paget's disease of nipple is typically:",
+   "opts": [
+    "Unilateral (U/L)",
+    "Bilateral (B/L)",
+    "Central only",
+    "Absent in women"
+   ],
+   "ans": 0,
+   "exp": "Site: Paget's U/L; Eczema B/L. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-092",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "Eczema of the nipple is typically:",
+   "opts": [
+    "Bilateral",
+    "Unilateral",
+    "With destruction of NAC",
+    "With an underlying lump"
+   ],
+   "ans": 0,
+   "exp": "Eczema: B/L. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-093",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "Itching in Paget's disease and eczema is:",
+   "opts": [
+    "Present in both",
+    "Absent in both",
+    "Only in Paget's",
+    "Only in eczema"
+   ],
+   "ans": 0,
+   "exp": "Itching: Present (both). (Book p80)"
+  },
+  {
+   "id": "SURG-C13-094",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "Destruction of the nipple areolar complex is seen in:",
+   "opts": [
+    "Paget's disease",
+    "Eczema",
+    "Both",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Nipple areolar complex: Destruction (+) in Paget's; No destruction in eczema. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-095",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "In Paget's disease, what percentage have an underlying lump?",
+   "opts": [
+    ">70% (DCIS > invasive ductal cancer)",
+    "<10%",
+    "50% always invasive lobular",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": ">70% have an underlying lump (DCIS > Invasive ductal cancer). (Book p80)"
+  },
+  {
+   "id": "SURG-C13-096",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "Diagnosis of Paget's disease rests on Paget cells which are usually:",
+   "opts": [
+    "ER & PR -ve, CEA +ve",
+    "ER & PR +ve, CEA -ve",
+    "ER +ve only",
+    "Her 2 -ve always"
+   ],
+   "ans": 0,
+   "exp": "Dx: Paget cells; Usually ER & PR -ve, CEA +ve. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-097",
+   "sec": "Paget's vs Eczema",
+   "page": 81,
+   "q": "On HPE, Paget cells are:",
+   "opts": [
+    "Large cells with clear cytoplasm, prominent nuclei in the epidermis",
+    "Small blue cells in dermis",
+    "Granulomas",
+    "Signet ring cells in stroma"
+   ],
+   "ans": 0,
+   "exp": "Paget cells: Large cells with clear cytoplasm, prominent nuclei in the epidermis. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-098",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "Management of Paget's disease is:",
+   "opts": [
+    "Mx of the underlying lump",
+    "Topical steroids",
+    "Antibiotics",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Mx: Mx of lump (Paget's); Topical Steroids (eczema). (Book p80)"
+  },
+  {
+   "id": "SURG-C13-099",
+   "sec": "Paget's vs Eczema",
+   "page": 80,
+   "q": "Eczema of the nipple is treated with:",
+   "opts": [
+    "Topical steroids",
+    "Mastectomy",
+    "RT",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Eczema: Topical Steroids. (Book p80)"
+  },
+  {
+   "id": "SURG-C13-100",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "Gynecomastia is:",
+   "opts": [
+    "Enlargement of male breast (U/L or B/L)",
+    "Enlargement of female breast",
+    "Male breast cancer",
+    "Accessory nipple"
+   ],
+   "ans": 0,
+   "exp": "Gynecomastia: Enlargement of male breast; U/L or B/L. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-101",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "Physiological causes of gynecomastia are:",
+   "opts": [
+    "Newborn, puberty, senile",
+    "Only drugs",
+    "Liver disease",
+    "Klinefelter only"
+   ],
+   "ans": 0,
+   "exp": "Physiological: 1. Newborn; 2. Puberty; 3. Senile. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-102",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "In the DISCKO mnemonic for drug-induced gynecomastia, D and I stand for:",
+   "opts": [
+    "Digoxin and Isoniazid",
+    "Diazepam and Insulin",
+    "Digoxin and Ibuprofen",
+    "Danazol and Isoniazid"
+   ],
+   "ans": 0,
+   "exp": "DISCKO: D - Digoxin; I - Isoniazid. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-103",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "In DISCKO, the S drugs are:",
+   "opts": [
+    "Steroids and Spironolactone",
+    "Sertraline and Statins",
+    "Spironolactone only",
+    "Salbutamol"
+   ],
+   "ans": 0,
+   "exp": "S - Steroids, Spironolactone. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-104",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "In DISCKO, C and K stand for:",
+   "opts": [
+    "Cimetidine and Ketoconazole",
+    "Clofazimine and Ketamine",
+    "Captopril and Ketoconazole",
+    "Cimetidine and Clonidine"
+   ],
+   "ans": 0,
+   "exp": "C - Cimetidine; K - Ketoconazole. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-105",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "In DISCKO, O stands for:",
+   "opts": [
+    "Oestrogen",
+    "Omeprazole",
+    "Ondansetron",
+    "Oxytocin"
+   ],
+   "ans": 0,
+   "exp": "O - Oestrogen. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-106",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "Which pathological cause of gynecomastia increases the risk of male breast cancer?",
+   "opts": [
+    "Klinefelter syndrome",
+    "Liver disease",
+    "Mumps orchitis",
+    "Idiopathic"
+   ],
+   "ans": 0,
+   "exp": "Klinefelter syndrome (↑ Risk of male breast cancer). (Book p81)"
+  },
+  {
+   "id": "SURG-C13-107",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "Paraneoplastic gynecomastia is seen in:",
+   "opts": [
+    "HCC, RCC, testicular cancer",
+    "Lung and colon cancer",
+    "Prostate cancer",
+    "Melanoma"
+   ],
+   "ans": 0,
+   "exp": "Paraneoplastic conditions in HCC, RCC, Testicular cancer. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-108",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "Lepromatous and which orchitis cause gynecomastia?",
+   "opts": [
+    "Mumps orchitis",
+    "TB orchitis",
+    "Filarial orchitis",
+    "E. coli orchitis"
+   ],
+   "ans": 0,
+   "exp": "Lepromatous / mumps orchitis. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-109",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "IOC in gynecomastia is USG showing:",
+   "opts": [
+    "Disc of breast tissue",
+    "Cyst",
+    "Solid mass",
+    "Lymph node"
+   ],
+   "ans": 0,
+   "exp": "IOC: USG (Disc of breast tissue). (Book p81)"
+  },
+  {
+   "id": "SURG-C13-110",
+   "sec": "Gynecomastia",
+   "page": 81,
+   "q": "Treatment of gynecomastia is:",
+   "opts": [
+    "Liposuction + gland excision",
+    "Tamoxifen only",
+    "Observation always",
+    "Mastectomy with nodes"
+   ],
+   "ans": 0,
+   "exp": "Mx: Liposuction + Gland excision. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-111",
+   "sec": "Polymastia, Amastia & Polythelia",
+   "page": 81,
+   "q": "Polymastia is:",
+   "opts": [
+    "Accessory breast tissue",
+    "Absent breast",
+    "Accessory nipple",
+    "Male breast enlargement"
+   ],
+   "ans": 0,
+   "exp": "Polymastia: Accessory breast tissue. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-112",
+   "sec": "Polymastia, Amastia & Polythelia",
+   "page": 81,
+   "q": "The most common site of polymastia is:",
+   "opts": [
+    "Axilla",
+    "Abdomen",
+    "Back",
+    "Groin"
+   ],
+   "ans": 0,
+   "exp": "Site: Axilla (m/c). (Book p81)"
+  },
+  {
+   "id": "SURG-C13-113",
+   "sec": "Polymastia, Amastia & Polythelia",
+   "page": 81,
+   "q": "Polymastia becomes prominent during:",
+   "opts": [
+    "Puberty/pregnancy",
+    "Old age",
+    "Exercise",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Prominent during puberty/pregnancy. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-114",
+   "sec": "Polymastia, Amastia & Polythelia",
+   "page": 81,
+   "q": "Polymastia is excised when:",
+   "opts": [
+    "Pain (+)/cosmetic reasons",
+    "Always at birth",
+    "Only if malignant",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Mx: if pain(+)/cosmetic reasons → Excision. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-115",
+   "sec": "Polymastia, Amastia & Polythelia",
+   "page": 81,
+   "q": "Amastia is seen in:",
+   "opts": [
+    "Poland syndrome",
+    "Turner syndrome",
+    "Klinefelter syndrome",
+    "Marfan syndrome"
+   ],
+   "ans": 0,
+   "exp": "Amastia: Seen in Poland syndrome. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-116",
+   "sec": "Polymastia, Amastia & Polythelia",
+   "page": 81,
+   "q": "In Poland syndrome, which structures do not develop?",
+   "opts": [
+    "P. major & breast tissue",
+    "Latissimus dorsi",
+    "Serratus anterior",
+    "Pectoralis minor only"
+   ],
+   "ans": 0,
+   "exp": "P. major & breast tissue do not develop. (Book p81)"
+  },
+  {
+   "id": "SURG-C13-117",
+   "sec": "Polymastia, Amastia & Polythelia",
+   "page": 81,
+   "q": "Polythelia is:",
+   "opts": [
+    "Accessory nipple",
+    "Accessory breast",
+    "Absent nipple",
+    "Inverted nipple"
+   ],
+   "ans": 0,
+   "exp": "Polythelia: Accessory nipple. (Book p81)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U13-1",
+   "ch": 13,
+   "n": 1,
+   "title": "Breast Abscess: Lactational",
+   "sec": "Breast Abscess: Lactational · p75",
+   "qs": [
+    "SURG-C13-001",
+    "SURG-C13-002",
+    "SURG-C13-003",
+    "SURG-C13-004",
+    "SURG-C13-005",
+    "SURG-C13-006",
+    "SURG-C13-007",
+    "SURG-C13-008",
+    "SURG-C13-009",
+    "SURG-C13-010",
+    "SURG-C13-011"
+   ],
+   "guide": "Lactational beats non-lactational: S. aureus from the child's oropharynx enters through a cracked nipple giving pain, swelling, fever; fluctuation is a LATE sign (as in parotid, ischiorectal, palmar/plantar abscesses). USG is IOC; amoxicillin-clavulanate or cloxacillin, express milk, two USG-guided aspirations, then I&D with a no. 11 blade if it recurs."
+  },
+  {
+   "id": "SURG-U13-2",
+   "ch": 13,
+   "n": 2,
+   "title": "Recurrent Non-lactational Abscesses",
+   "sec": "Recurrent Non-lactational Abscesses · p75",
+   "qs": [
+    "SURG-C13-012",
+    "SURG-C13-013",
+    "SURG-C13-014",
+    "SURG-C13-015",
+    "SURG-C13-016"
+   ],
+   "guide": "Three culprits: TB (caseating granulomas, AFB/GeneXpert +ve → ATT), idiopathic granulomatous mastitis (non-caseating, both negative, diagnosis of exclusion → steroids) and inflammatory cancer (carcinoma on HPE → treat the cancer)."
+  },
+  {
+   "id": "SURG-U13-3",
+   "ch": 13,
+   "n": 3,
+   "title": "ANDI & Fibroadenoma",
+   "sec": "ANDI & Fibroadenoma · p76",
+   "qs": [
+    "SURG-C13-017",
+    "SURG-C13-018",
+    "SURG-C13-019",
+    "SURG-C13-020",
+    "SURG-C13-021",
+    "SURG-C13-022",
+    "SURG-C13-023",
+    "SURG-C13-024",
+    "SURG-C13-025",
+    "SURG-C13-026",
+    "SURG-C13-027",
+    "SURG-C13-028",
+    "SURG-C13-029"
+   ],
+   "guide": "ANDI = Aberrations of Normal Development & Involution: 15-25 fibroadenoma, 25-40 fibrocystic disease, >40 fibrocystic > duct ectasia. The fibroadenoma is the m/c breast lump, a firm painless lobulated mobile 'breast mouse' of 15-25 with popcorn calcification, USG smooth wider-than-taller avascular, BIRADS II (complex III/IVa, IVa needs biopsy)."
+  },
+  {
+   "id": "SURG-U13-4",
+   "ch": 13,
+   "n": 4,
+   "title": "Fibroadenoma: Staging & Rx",
+   "sec": "Fibroadenoma: Staging & Rx · p76",
+   "qs": [
+    "SURG-C13-030",
+    "SURG-C13-031",
+    "SURG-C13-032",
+    "SURG-C13-033",
+    "SURG-C13-034"
+   ],
+   "guide": "Excise when growing fast, family history, painful, giant >4-5 cm or the patient wishes; open surgery uses a periareolar incision closed subcuticularly with 3-0 monocryl, while the latest vacuum-assisted scarless breast surgery leaves no mark."
+  },
+  {
+   "id": "SURG-U13-5",
+   "ch": 13,
+   "n": 5,
+   "title": "Phyllodes Tumor",
+   "sec": "Phyllodes Tumor · p77",
+   "qs": [
+    "SURG-C13-035",
+    "SURG-C13-036",
+    "SURG-C13-037",
+    "SURG-C13-038",
+    "SURG-C13-039",
+    "SURG-C13-040",
+    "SURG-C13-041",
+    "SURG-C13-042",
+    "SURG-C13-043",
+    "SURG-C13-044"
+   ],
+   "guide": "Cystosarcoma phyllodes is a stromal tumor of the 4th/5th decade growing rapidly into a firm variegated mass; nodes <10% but malignant forms fly to lungs. Core biopsy grades benign/borderline/malignant by mitotic figures; wide local excision first, simple mastectomy for large/malignant (post-op RT)/recurrent, and chemo has no role."
+  },
+  {
+   "id": "SURG-U13-6",
+   "ch": 13,
+   "n": 6,
+   "title": "Fibroadenosis & Cysts",
+   "sec": "Fibroadenosis & Cysts · p77",
+   "qs": [
+    "SURG-C13-045",
+    "SURG-C13-046",
+    "SURG-C13-047",
+    "SURG-C13-048",
+    "SURG-C13-049",
+    "SURG-C13-050",
+    "SURG-C13-051",
+    "SURG-C13-052"
+   ],
+   "guide": "From 25 to menopause, fibroadenosis is the m/c cause of cyclical mastalgia (worst pre-menstrually, easing with the cycle) with nodularity scored by the Cardiff Lucknow score. USG cysts: simple (smooth, no solid part, BIRADS 2, observe), complex (mural solid parts, BIRADS 4, core biopsy), complicated (floating infective debris shifting with posture, antibiotics if infected)."
+  },
+  {
+   "id": "SURG-U13-7",
+   "ch": 13,
+   "n": 7,
+   "title": "Mastalgia Rx",
+   "sec": "Mastalgia Rx · p78",
+   "qs": [
+    "SURG-C13-053",
+    "SURG-C13-054",
+    "SURG-C13-055",
+    "SURG-C13-056",
+    "SURG-C13-057",
+    "SURG-C13-058",
+    "SURG-C13-059",
+    "SURG-C13-060"
+   ],
+   "guide": "Start with reassurance via a VAS pain chart, cutting caffeine/stress/sugar and a tight sports bra; add flax seed (omega-3) or evening primrose oil (γ-linolenic) and topical NSAIDs 4×/day. At VAS ≥3 go systemic: tamoxifen 10 mg daily, danazol (not preferred) or ormeloxifene 30 mg twice weekly which also settles nodularity."
+  },
+  {
+   "id": "SURG-U13-8",
+   "ch": 13,
+   "n": 8,
+   "title": "Mondor's & Tietze's",
+   "sec": "Mondor's & Tietze's · p78",
+   "qs": [
+    "SURG-C13-061",
+    "SURG-C13-062",
+    "SURG-C13-063",
+    "SURG-C13-064",
+    "SURG-C13-065",
+    "SURG-C13-066",
+    "SURG-C13-067",
+    "SURG-C13-068",
+    "SURG-C13-069"
+   ],
+   "guide": "Mondor's is thrombophlebitis of chest wall veins (lateral thoracic m/c) in smokers - non-cyclical pain, no cancer risk, painkillers. Tietze's (costochondritis) triggers at the costochondral junction, treated with anti-inflammatories and intralesional steroid. Neither belongs to ANDI."
+  },
+  {
+   "id": "SURG-U13-9",
+   "ch": 13,
+   "n": 9,
+   "title": "Nipple Discharge",
+   "sec": "Nipple Discharge · p79",
+   "qs": [
+    "SURG-C13-070",
+    "SURG-C13-071",
+    "SURG-C13-072",
+    "SURG-C13-073",
+    "SURG-C13-074",
+    "SURG-C13-075",
+    "SURG-C13-076"
+   ],
+   "guide": "Spontaneous unexpressed discharge is suspicious; USG is IOC because mammography and discharge cytology are not sensitive. Serous: puberty/pregnancy vs cancer/ectasia; milky: lactation vs prolactinoma/hypothyroid (cabergoline/bromocriptine); green-bluish: ectasia; bloody: papilloma, cracked nipple, baby bites - or cancer."
+  },
+  {
+   "id": "SURG-U13-10",
+   "ch": 13,
+   "n": 10,
+   "title": "Duct Papilloma & Duct Ectasia",
+   "sec": "Duct Papilloma & Duct Ectasia · p80",
+   "qs": [
+    "SURG-C13-077",
+    "SURG-C13-078",
+    "SURG-C13-079",
+    "SURG-C13-080",
+    "SURG-C13-081",
+    "SURG-C13-082",
+    "SURG-C13-083",
+    "SURG-C13-084",
+    "SURG-C13-085",
+    "SURG-C13-086",
+    "SURG-C13-087",
+    "SURG-C13-088",
+    "SURG-C13-089",
+    "SURG-C13-090"
+   ],
+   "guide": "Papilloma = m/c bloody single-duct discharge from a pressable periareolar nodule (10% a/w papillary DCIS; USG papillomatous growth, MRI if unsure; microdochectomy). Ectasia hits >45 smokers: stasis → Zuska periductal mastitis, green-bluish multi-duct discharge or periareolar abscess/sinuses; antibiotics, then Hadfield major duct excision. Solitary RR 1.5-2×, papillomatosis (≥5, B/L) 3×, juvenile = Swiss cheese disease."
+  },
+  {
+   "id": "SURG-U13-11",
+   "ch": 13,
+   "n": 11,
+   "title": "Paget's vs Eczema",
+   "sec": "Paget's vs Eczema · p80",
+   "qs": [
+    "SURG-C13-091",
+    "SURG-C13-092",
+    "SURG-C13-093",
+    "SURG-C13-094",
+    "SURG-C13-095",
+    "SURG-C13-096",
+    "SURG-C13-097",
+    "SURG-C13-098",
+    "SURG-C13-099"
+   ],
+   "guide": "Both itch, but Paget's is unilateral with nipple-areolar destruction and >70% hide an underlying lump (DCIS > invasive ductal); its Paget cells - large, clear cytoplasm, prominent nuclei in epidermis, ER/PR -ve, CEA +ve - demand treatment of the lump, while bilateral non-destructive eczema takes topical steroids."
+  },
+  {
+   "id": "SURG-U13-12",
+   "ch": 13,
+   "n": 12,
+   "title": "Gynecomastia",
+   "sec": "Gynecomastia · p81",
+   "qs": [
+    "SURG-C13-100",
+    "SURG-C13-101",
+    "SURG-C13-102",
+    "SURG-C13-103",
+    "SURG-C13-104",
+    "SURG-C13-105",
+    "SURG-C13-106",
+    "SURG-C13-107",
+    "SURG-C13-108",
+    "SURG-C13-109",
+    "SURG-C13-110"
+   ],
+   "guide": "Male breast enlargement, U/L or B/L: physiological at newborn, puberty, senile; pathological via DISCKO drugs (digoxin, isoniazid, steroids/spironolactone, cimetidine, ketoconazole, oestrogen), idiopathic, Klinefelter (raises male cancer risk), liver disease, paraneoplastic HCC/RCC/testicular and lepromatous/mumps orchitis. USG shows the breast disc; liposuction + gland excision cures."
+  },
+  {
+   "id": "SURG-U13-13",
+   "ch": 13,
+   "n": 13,
+   "title": "Polymastia, Amastia & Polythelia",
+   "sec": "Polymastia, Amastia & Polythelia · p81",
+   "qs": [
+    "SURG-C13-111",
+    "SURG-C13-112",
+    "SURG-C13-113",
+    "SURG-C13-114",
+    "SURG-C13-115",
+    "SURG-C13-116",
+    "SURG-C13-117"
+   ],
+   "guide": "Polymastia is accessory breast tissue, axilla m/c, swelling at puberty/pregnancy, excised for pain or cosmetics; amastia (absent breast with missing pectoralis major) marks Poland syndrome; polythelia is simply an accessory nipple."
+  }
+ ]
+}
