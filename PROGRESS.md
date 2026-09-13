@@ -160,9 +160,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 ## Session rule (set 2026-09-13 — KEEP until user changes it)
 - Work chapter-wise in **batches of 3** (ch3-5, ch6-8, …). After each batch, **pop up the
   updated `pulse-surgery-complete.html`** to the user for preview/testing.
-- **The `.html` file is LOCAL-ONLY — never `git add` / commit / push it.**
-  Push only `data/`, `work/`, `PROGRESS.md`, `README.md`. (The HTML on GitHub stays
-  frozen at ch1-2 until the user says otherwise; local HTML is the full build.)
+- ~~LOCAL-ONLY html~~ **RULE CHANGED 2026-09-13:** user wants the live GitHub Pages
+  site kept in sync — commit + push `pulse-surgery-complete.html` together with
+  `data/`, `work/`, `PROGRESS.md`, `README.md` after each batch (via arena branch + PR).
 - Merge + integrity still run locally every batch so the preview HTML is always verified.
 - After each batch, also refresh the download copy at workspace root:
   `cp pulse-surgery-complete.html /home/user/pulse-surgery-complete.html`
@@ -170,10 +170,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## Totals / live link
 - Local HTML: **5/72 chapters live** · Questions: 504 · Units: 61
-- GitHub HTML: frozen at 2/72 (local-only rule — see above)
+- GitHub HTML: **synced at 5/72** (pushed 2026-09-13 after user asked for live-site sync)
 - NEXT: ch6 Surgical Nutrition — p28-36 (v1a pdf 37-45)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
-- LIVE LINK: https://deva20045.github.io/SURGERY/ (needs GitHub Pages enabled once:
-  Repo → Settings → Pages → Source "Deploy from a branch" → main / (root) → Save;
-  site rebuilds ~1 min after every push).
+- LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
+  deploys from main; site rebuilds ~1 min after every push to main).
 - Git: push per chapter to `main` of https://github.com/Deva20045/SURGERY.
