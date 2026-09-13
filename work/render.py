@@ -3,19 +3,19 @@
 
 Source mapping (from PROGRESS.md — verified against printed page headers):
 
-  v1a "Surgery Vol. 1-1-90.pdf" (90 pages):
+  v1a "pdfs/Surgery Vol. 1-1-90.pdf" (90 pages):
       pdf 1-8  = unnumbered front matter (cover, author, title, instructions, TOC x3, blank)
       pdf 9-18 = book p1-p9   (book = pdf - 8)
       pdf 18   = DUPLICATE book p9  (the book itself prints "9" twice: pdf 17 AND pdf 18)
       pdf 19-90= book p10-p81 (book = pdf - 9)
-  v1b "Surgery Vol. 1-91-168.pdf" (78 pages): book = pdf + 81   -> book 82-159
-  v1c "Surgery Vol. 1-168-237.pdf"(70 pages): book = pdf + 158  -> book 159-228 (p159 duplicates v1b p78)
-  v1d "Surgery Vol. 1-238-316.pdf"(79 pages): book = pdf + 228  -> book 229-306 (pdf 79 = blank, unnumbered)
-  v2a "Surgery Vol. 2_part_1.pdf" (82 pages): pdf 1-9 = unnumbered front matter (cover, author, title,
+  v1b "pdfs/Surgery Vol. 1-91-168.pdf" (78 pages): book = pdf + 81   -> book 82-159
+  v1c "pdfs/Surgery Vol. 1-168-237.pdf"(70 pages): book = pdf + 158  -> book 159-228 (p159 duplicates v1b p78)
+  v1d "pdfs/Surgery Vol. 1-238-316.pdf"(79 pages): book = pdf + 228  -> book 229-306 (pdf 79 = blank, unnumbered)
+  v2a "pdfs/Surgery Vol. 2_part_1.pdf" (82 pages): pdf 1-9 = unnumbered front matter (cover, author, title,
       instructions, TOC x3, blanks); book = pdf + 297 -> book 307-378
-  v2b "Surgery Vol. 2_part_2.pdf" (75 pages): book = pdf + 377  -> book 379-452
-  v2c "Surgery Vol. 2_part_3.pdf" (71 pages): book = pdf + 452  -> book 453-523
-  v2d "Surgery Vol. 2_part_4.pdf" (35 pages): book = pdf + 523  -> book 524-558 (content ends ~p558; back cover included)
+  v2b "pdfs/Surgery Vol. 2_part_2.pdf" (75 pages): book = pdf + 377  -> book 379-452
+  v2c "pdfs/Surgery Vol. 2_part_3.pdf" (71 pages): book = pdf + 452  -> book 453-523
+  v2d "pdfs/Surgery Vol. 2_part_4.pdf" (35 pages): book = pdf + 523  -> book 524-558 (content ends ~p558; back cover included)
 
 Every other file is provably sequential (last header - first header == page count - 1).
 The duplicate book p9 in v1a is real (printed in the book), so render book 9 twice.
@@ -28,25 +28,25 @@ import os, sys
 def pdf_for(book):
     """Return list of (file, pdf_page) for a book page (usually one; book p9 has two)."""
     if 1 <= book <= 8:
-        return [("Surgery Vol. 1-1-90.pdf", book + 8)]
+        return [("pdfs/Surgery Vol. 1-1-90.pdf", book + 8)]
     if book == 9:  # the book prints page 9 twice
-        return [("Surgery Vol. 1-1-90.pdf", 17), ("Surgery Vol. 1-1-90.pdf", 18)]
+        return [("pdfs/Surgery Vol. 1-1-90.pdf", 17), ("pdfs/Surgery Vol. 1-1-90.pdf", 18)]
     if 10 <= book <= 81:
-        return [("Surgery Vol. 1-1-90.pdf", book + 9)]
+        return [("pdfs/Surgery Vol. 1-1-90.pdf", book + 9)]
     if 82 <= book <= 159:
-        return [("Surgery Vol. 1-91-168.pdf", book - 81)]
+        return [("pdfs/Surgery Vol. 1-91-168.pdf", book - 81)]
     if 159 <= book <= 228:
-        return [("Surgery Vol. 1-168-237.pdf", book - 158)]
+        return [("pdfs/Surgery Vol. 1-168-237.pdf", book - 158)]
     if 229 <= book <= 306:
-        return [("Surgery Vol. 1-238-316.pdf", book - 228)]
+        return [("pdfs/Surgery Vol. 1-238-316.pdf", book - 228)]
     if 307 <= book <= 378:
-        return [("Surgery Vol. 2_part_1.pdf", book - 297)]
+        return [("pdfs/Surgery Vol. 2_part_1.pdf", book - 297)]
     if 379 <= book <= 452:
-        return [("Surgery Vol. 2_part_2.pdf", book - 377)]
+        return [("pdfs/Surgery Vol. 2_part_2.pdf", book - 377)]
     if 453 <= book <= 523:
-        return [("Surgery Vol. 2_part_3.pdf", book - 452)]
+        return [("pdfs/Surgery Vol. 2_part_3.pdf", book - 452)]
     if 524 <= book <= 558:
-        return [("Surgery Vol. 2_part_4.pdf", book - 523)]
+        return [("pdfs/Surgery Vol. 2_part_4.pdf", book - 523)]
     return None
 
 def render(a, b, dpi=100):

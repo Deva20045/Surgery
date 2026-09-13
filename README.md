@@ -16,7 +16,7 @@ work/validate.py              ← schema validator for data/chNN.json
 work/merge.py                 ← merge data into the HTML (idempotent)
 work/integrity.py             ← post-merge integrity check (node-backed)
 PROGRESS.md                   ← memory / single source of truth for continuation
-Surgery Vol. 1-*.pdf, Surgery Vol. 2_part_*.pdf   ← scanned source PDFs (no text layer)
+pdfs/*.pdf   ← scanned source PDFs (no text layer)
 ```
 
 ## ▶ Play
@@ -24,7 +24,7 @@ Open `index.html` (or `pulse-surgery-complete.html`) in any browser.
 
 ## Continue work (new session)
 1. Say **"continue"** in the Arena session — the agent reads PROGRESS.md (single source of truth).
-2. Source PDFs are stored in this repo root — no re-upload needed.
+2. Source PDFs are stored in pdfs/ — no re-upload needed.
 3. Pipeline per chapter: `work/render.py` → read pages as images → write `data/chNN.json`
    → `work/validate.py` → `work/merge.py` → `work/integrity.py` → commit + push.
 

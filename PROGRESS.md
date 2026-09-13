@@ -7,17 +7,17 @@ book pages 1-550) until ALL 72 chapters are live. Same style, same schema, same 
 as the ORTHO repo. No quality compromise: line-by-line questions, first line → last line,
 strict book order, 4 options each, book page cited in every explanation.
 
-## Sources (8 scanned PDFs, stored at repo root — NO text layer, read pages as images)
+## Sources (8 scanned PDFs, stored in pdfs/ — NO text layer, read pages as images)
 | File | Pages | **Offset formula (book page)** | Book pages covered |
 |---|---|---|---|
-| `Surgery Vol. 1-1-90.pdf` (v1a) | 90 | pdf 1-8 = unnumbered front matter; **pdf 9-18 → book = pdf − 8 (p1-p9)**; **pdf 19-90 → book = pdf − 9 (p10-p81)** | 1-81 |
-| `Surgery Vol. 1-91-168.pdf` (v1b) | 78 | **book = pdf + 81** | 82-159 |
-| `Surgery Vol. 1-168-237.pdf` (v1c) | 70 | **book = pdf + 158** (p1 duplicates v1b p78 = book p159) | 159-228 |
-| `Surgery Vol. 1-238-316.pdf` (v1d) | 79 | **book = pdf + 228** (pdf 79 = blank unnumbered page after p306) | 229-306 |
-| `Surgery Vol. 2_part_1.pdf` (v2a) | 82 | pdf 1-9 = unnumbered front matter; **book = pdf + 297** | 307-378 |
-| `Surgery Vol. 2_part_2.pdf` (v2b) | 75 | **book = pdf + 377** | 379-452 |
-| `Surgery Vol. 2_part_3.pdf` (v2c) | 71 | **book = pdf + 452** | 453-523 |
-| `Surgery Vol. 2_part_4.pdf` (v2d) | 35 | **book = pdf + 523** (content to ~p556, back cover at end) | 524-558 |
+| `pdfs/Surgery Vol. 1-1-90.pdf` (v1a) | 90 | pdf 1-8 = unnumbered front matter; **pdf 9-18 → book = pdf − 8 (p1-p9)**; **pdf 19-90 → book = pdf − 9 (p10-p81)** | 1-81 |
+| `pdfs/Surgery Vol. 1-91-168.pdf` (v1b) | 78 | **book = pdf + 81** | 82-159 |
+| `pdfs/Surgery Vol. 1-168-237.pdf` (v1c) | 70 | **book = pdf + 158** (p1 duplicates v1b p78 = book p159) | 159-228 |
+| `pdfs/Surgery Vol. 1-238-316.pdf` (v1d) | 79 | **book = pdf + 228** (pdf 79 = blank unnumbered page after p306) | 229-306 |
+| `pdfs/Surgery Vol. 2_part_1.pdf` (v2a) | 82 | pdf 1-9 = unnumbered front matter; **book = pdf + 297** | 307-378 |
+| `pdfs/Surgery Vol. 2_part_2.pdf` (v2b) | 75 | **book = pdf + 377** | 379-452 |
+| `pdfs/Surgery Vol. 2_part_3.pdf` (v2c) | 71 | **book = pdf + 452** | 453-523 |
+| `pdfs/Surgery Vol. 2_part_4.pdf` (v2d) | 35 | **book = pdf + 523** (content to ~p556, back cover at end) | 524-558 |
 
 **Quirk: the book itself prints page "9" twice** — v1a pdf 17 AND pdf 18 both carry header "9"
 (Surgical Blades & Energy Sources). So v1a's offset flips from −8 to −9 after that duplicate.
@@ -79,7 +79,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## How to CONTINUE in a new session (user says "continue")
 1. Clone the repo, read this PROGRESS.md — it is the single source of truth.
-2. Source PDFs are already in the repo root (no re-upload needed).
+2. Source PDFs are already in pdfs/ (no re-upload needed).
 3. Find the NEXT chapter in the Status table, run the pipeline above.
 4. Commit + push data/work/docs after each chapter (NEVER the .html — local-only rule).
 
