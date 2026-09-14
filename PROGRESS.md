@@ -142,7 +142,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch32 Colorectal Polyps and Cancer : Part 2 — p227-232 — **DONE (111 qs, 8 units)** 2026-09-14
 - [x] ch33 Rectum and Anal Canal — p233-244 — **DONE (199 qs, 27 units)** 2026-09-14
 - [x] ch34 Liver : Part 1 — p245-252 — **DONE (125 qs, 14 units)** 2026-09-14
-- [ ] ch35 Liver : Part 2 — p253-259 — Soon
+- [x] ch35 Liver : Part 2 — p253-259 — **DONE (104 qs, 15 units)** 2026-09-14
 - [ ] ch36 Spleen — p260-264 — Soon
 - [ ] ch37 Gall Bladder and Bile Ducts : Part 1 — p265-275 — Soon
 - [ ] ch38 Gall Bladder and Bile Ducts : Part 2 — p276-284 — Soon
@@ -197,9 +197,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **32/72 chapters live** · Questions: 3529 · Units: 409
+- Local HTML: **35/72 chapters live** · Questions: 3957 · Units: 465
 - GitHub HTML: **synced at 32/72** (merged to `main` via PR #14 on 2026-09-14)
-- NEXT: ch33 Rectum and Anal Canal — p233-244 (v1d p5-16)
+- NEXT: ch36 Spleen — p260-264 (v1d p32-36)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).
