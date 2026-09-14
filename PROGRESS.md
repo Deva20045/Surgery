@@ -71,6 +71,25 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 ## Pipeline per chapter
 1. `python3 work/render.py <book_a> <book_b> 100` (renders `work/pages/bNNN.png` using the offset table above; use 150 dpi for dense/handwritten pages)
    **OR (added 2026-09-14, use this if the session has no vision):** `python3 work/ocr.py <book_a> <book_b> [dpi=150]`
+   **Better:** `python3 work/ocrbox.py <book_a> <book_b> [dpi=150]` → column-aware reading order
+   (caches boxes to `work/ocr/box/bNNN.json`; re-print a cached dump with
+   `python3 work/ocrbox.py A B 150 > work/ocr/cols_A_B.txt` — fast, no re-OCR).
+   **Resolving garbled/uncertain lines (added 2026-09-14):** the scan is handwriting, so OCR
+   often mangles numbers/signs. Tools that fix it, in the order to try:
+   1. `python3 work/zoom2.py <book> <x0> <y0> <x1> <y1> ocr [dpi=900]` — renders ONLY that clip
+      at high dpi and OCRs it (fast, no full-page render). Coords are 150-dpi page space.
+   2. `python3 work/zoom2.py ... ascii [dpi=900] [cols]` — prints the clip as ASCII art so it
+      can literally be read character-by-character without vision.
+   3. `python3 work/glyphs.py <book> <x0> <y0> <x1> <y1> [dpi=900] [cols=30] [target_h=140]`
+      — splits the clip into individual glyphs and prints each one; use for `>`/`<` signs and
+      for digits the OCR keeps swapping (e.g. p255 adenoma cut-offs).
+   4. `python3 work/layout.py <book> <y0> <y1> [dpi=200]` — prints word-merged bounding boxes
+      of a page band, each with its OCR text; use to work out which column/label a stray
+      number belongs to (essential on diagram pages such as p234).
+   5. `python3 work/crop.py <book> list | <idxs> ...` — re-OCR single cached boxes with
+      auto-rotation (best for rotated/vertical text).
+   Colour-channel separation (R/G/B, invert, CLAHE) recovers lines RapidOCR fails on outright —
+   see the loop in `work/region.py` / the `ch.py` pattern.
    → renders the pages AND runs offline OCR (RapidOCR / PP-OCRv4 via onnxruntime) into
    `work/ocr/bNNN.txt` (each file has a `### raw` block = detection order and a `### geo`
    block = geometric reading order). Read the .txt files with `sed -n '/^### raw$/,/^### geo$/p'`
@@ -121,7 +140,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch30 Appendix — p208-217 — **DONE (150 qs, 6 units)** 2026-09-14
 - [x] ch31 Colorectal Polyps and Cancer : Part 1 — p218-226 — **DONE (129 qs, 8 units)** 2026-09-14
 - [x] ch32 Colorectal Polyps and Cancer : Part 2 — p227-232 — **DONE (111 qs, 8 units)** 2026-09-14
-- [ ] ch33 Rectum and Anal Canal — p233-244 — Soon
+- [ ] ch33 Rectum and Anal Canal — p233-244 — **IN PROGRESS** (pages OCR'd + transcribed 2026-09-14, questions pending)
 - [ ] ch34 Liver : Part 1 — p245-252 — Soon
 - [ ] ch35 Liver : Part 2 — p253-259 — Soon
 - [ ] ch36 Spleen — p260-264 — Soon

@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 .gitconfig
 work/ocr/
+work/hi/
