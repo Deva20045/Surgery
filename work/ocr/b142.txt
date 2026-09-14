@@ -1,0 +1,59 @@
+### raw
+142
+Gastrointestinal and Abdominal Surgery
+3. other hernias :
+--- Active space --.
+Type II:
+Type Iv :
+· mixed sliding + rolling.
+Paraesophageal hernia witn
+content other than the storro.-
+· mx : Governed by rolling component.
+ESOPHAGEALPERFORATION
+Types :
+latrogenic
+<<
+Spontaneous
+l. latrogenic :
+Post endoscopy.
+Site : Upper I/3rd(m/c).
+Risk factors :
+· Therapeutic endoscopy.
+·Lack of skill.
+· endoscopy in cancer.
+c/f : chest pain post endoscopy
+Ix : cect (Ioc).
+Rx:
+· Stable pt/small perforation :
+· Large/sepsis :
+a. Endoscopic sealing with clips or Sems
+(Self expanding metallic stent)
+b. Iv fuids.
+OR
+c. IV antibiotics.
+b. Surgical repair.
+dNo blind NG tube
+c. T-tube placement  repair.
+(↑ perforation)
+e. Pain mx
+a. Spontaneous :
+T-tube
+AKA Boerhaave syndrome.
+Site : Lower I/3rd (Left posterolateral wal).
+History :
+· Vomiting against closed glottis.
+· Alcoholic.
+Surgery·v1.0·Marrow8.0·2024
+### geo
+--- Active space --.  142  3. other hernias :  Gastrointestinal and Abdominal Surgery
+Type II:  · mixed sliding + rolling.  · mx : Governed by rolling component.  Type Iv :  content other than the storro.-  Paraesophageal hernia witn
+ESOPHAGEALPERFORATION  Types :
+latrogenic  Post endoscopy.  l. latrogenic :  <<  Spontaneous
+Site : Upper I/3rd(m/c).  Risk factors :  · Therapeutic endoscopy.
+c/f : chest pain post endoscopy  · endoscopy in cancer.  ·Lack of skill.
+Ix : cect (Ioc).  Rx:  · Stable pt/small perforation :  · Large/sepsis :
+c. IV antibiotics.  b. Iv fuids.  a. Endoscopic sealing with clips or Sems  (Self expanding metallic stent)  OR
+e. Pain mx  dNo blind NG tube  (↑ perforation)  c. T-tube placement  repair.  b. Surgical repair.
+Site : Lower I/3rd (Left posterolateral wal).  a. Spontaneous :  AKA Boerhaave syndrome.  T-tube
+History :  · Vomiting against closed glottis.  · Alcoholic.
+Surgery·v1.0·Marrow8.0·2024

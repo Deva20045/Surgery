@@ -1,0 +1,67 @@
+### raw
+Esophagus : Part 2
+137
+clinical features :
+.--Active space ---.
+classical triad :
+Dysphagia : Initially liquids > solids (Solids relax sphincter by their weight).
+Regurgitation : Earliest feature
+weight loss
+other clinical features :
+Complications :
+· Aspiration pneumonia (m/c).
+. Noctumal coughing.
+· Lung abscess.
+. Post prandial choking.
+Investigations :
+↑ IRP.
+· manometry : loc
+FailureofLeSrelaxation
+· endoscopy : Rule out cancer.
+·Barium swallow.
+Birdbeak
+appearance
+Bariumswallow:Achalasia
+chicago classification of achalasia :
+Disorders of
+mofmo rbo
+ElevatedmedianIRP
+Yes
+l00% failed peristalsis
+Achalasia
+dod mo4m
+l00% failed peristalsis with
+Yes
+l00%absent peristalsis.
+yes
+Achalasia II
+Yes
+Allswallowsareeither
+POP in ≥ao% swallows
+failedorpremature
+≥a0% swallows with premature
+Spastic contractions :
+Achalasia ll
+Yes
+- Failed peristalsis.
+- POP may be present.
+Achalasia-Eckardtscore:
+· 4 parameters :
+-Weight loss.
+Dysphagia.
+- Retrostermal pain.
+- Regurgitation.
+Each parameter scored : 0-3.
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+clinical features :  classical triad :  Esophagus : Part 2  .--Active space ---.  137
+weight loss  Dysphagia : Initially liquids > solids (Solids relax sphincter by their weight).  Regurgitation : Earliest feature
+other clinical features :  . Noctumal coughing.  . Post prandial choking.  Complications :  · Aspiration pneumonia (m/c).  · Lung abscess.
+Investigations :  · manometry : loc  · endoscopy : Rule out cancer.  FailureofLeSrelaxation  ↑ IRP.
+chicago classification of achalasia :  ·Barium swallow.  Bariumswallow:Achalasia  appearance  Birdbeak
+Disorders of  mofmo rbo  Achalasia  Yes  l00% failed peristalsis  ElevatedmedianIRP
+Achalasia II  Yes  l00% failed peristalsis with  POP in ≥ao% swallows  dod mo4m  Yes  l00%absent peristalsis.  Allswallowsareeither  yes
+Achalasia ll  Yes  ≥a0% swallows with premature  Spastic contractions :  failedorpremature
+- Failed peristalsis.  - POP may be present.  Achalasia-Eckardtscore:  · 4 parameters :  -Weight loss.
+Each parameter scored : 0-3.  - Retrostermal pain.  - Regurgitation.  Dysphagia.
+Surgery·v1.0·Marrow 8.0·2024

@@ -1,0 +1,61 @@
+### raw
+128
+Gastrointestinal and Abdominal Surgery
+---- Active space ---
+a. CORROSIVE INJURY
+Cause :
+Alkali
+Acid
+D/t saponification
+Coagulation of proteins
+Penetrate deeper
+Do not penetrate deep
+·Pylorospasm in stomach
+more damage
+more gastric damage
+management :
+· Iv fluids.
+· Avoid blind insertion of NG tube : can cause perforation.
+· No use of prophylactic antibiotics.
+Early skilled endoscopy within 48 hrs (most important).
+No role of steroids.
+Definitive mx :
+ Dilatation
+x-ray esophageal stricture
+Stricture mx :
+esophagectomy
+Perforation : Emergency Sx
+Grading of Injury :
+Zargar's Classifcation.
+Endoscopic finding
+Grade
+Normal
+Superfcial edema/erythema
+1
+mucosal/submucosal wlceration :
+a
+ Superfcial edema/erythema
+aA
+Deep or circwmferentia
+2B
+Transmural wlcerations with necrosis :
+3
+Focalnecrosis
+3A
+Extensivenecrosis
+3B
+Perforation
+4
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+---- Active space ---  128  a. CORROSIVE INJURY  Gastrointestinal and Abdominal Surgery
+Cause :  Alkali  Acid
+Penetrate deeper  D/t saponification  Do not penetrate deep  Coagulation of proteins  ·Pylorospasm in stomach
+management :  more damage  · Iv fluids.  more gastric damage
+· No use of prophylactic antibiotics.  · Avoid blind insertion of NG tube : can cause perforation.  No role of steroids.  Early skilled endoscopy within 48 hrs (most important).
+Definitive mx :  Stricture mx :   Dilatation  esophagectomy  x-ray esophageal stricture
+Grading of Injury :  Zargar's Classifcation.  Perforation : Emergency Sx
+mucosal/submucosal wlceration :  Superfcial edema/erythema  Endoscopic finding  Normal  Grade  1
+Transmural wlcerations with necrosis :   Superfcial edema/erythema  Deep or circwmferentia  2B  aA  3  a
+Focalnecrosis  Extensivenecrosis  Perforation  3B  3A  4
+Surgery·v1.0·Marrow 8.0·2024

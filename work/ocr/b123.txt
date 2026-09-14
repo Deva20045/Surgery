@@ -1,0 +1,76 @@
+### raw
+Adrenal Glands And Neuroendocrine Tumors
+123
+-Activespace
+Site
+Distribution (%)
+Appendix (m/e)
+40
+Smallbowel
+as
+Rectum
+15
+Lung
+10
+Colon
+Stomach
+S
+Duodenum
+a
+Carcinoid tumors :
+Foregut
+midqut
+Hindgut
+·Lungs
+·Small
+·Stomach
+·Colon
+Site
+intestine
+·m/c mets :
+·Rectum
+ xipuaddo .
+Bones
+Argentaffin
+(#
+(+
+Serotonin
+(#
+(+)(metabolised in liver)
+Others
+Chromogranin A (+)
+(#
+Carcinoid syndrome
+10% cases
+f liver mets (+)
+Clinicalfeatures:
+· Cutaneous flushing : m/C symptom.
+· Pain : m/c symptom of abdominal carcinoids.
+·Diarrhea
+·weight loss.
+·Bronchospasm
+·Right sided valvular lesions : m/c tricuspid valve.
+Investigations:
+urine:
+5 HIAA (hydroxy indole acetic acid) : metabolite of Serotonin.
+Blood : Chromogranin A
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+Adrenal Glands And Neuroendocrine Tumors  123
+Site  Distribution (%)  -Activespace
+Appendix (m/e)  Smallbowel  40  as
+Rectum  Lung  10  15
+Stomach  Colon  S
+Duodenum  a
+Carcinoid tumors :  Foregut  midqut  Hindgut
+Site  ·Lungs  ·Stomach  ·Small  intestine  ·Colon
+·m/c mets :  Bones   xipuaddo .  ·Rectum
+Argentaffin  Serotonin  (#  (#  (+)(metabolised in liver)  (+
+Carcinoid syndrome  Others  Chromogranin A (+)  10% cases  f liver mets (+)  (#
+Clinicalfeatures:  · Cutaneous flushing : m/C symptom.
+· Pain : m/c symptom of abdominal carcinoids.  ·Diarrhea
+·weight loss.
+·Bronchospasm  ·Right sided valvular lesions : m/c tricuspid valve.
+5 HIAA (hydroxy indole acetic acid) : metabolite of Serotonin.  urine:  Investigations:
+Blood : Chromogranin A
+Surgery·v1.0·Marrow 8.0·2024

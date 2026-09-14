@@ -1,0 +1,49 @@
+### raw
+150
+Gastrointestinal and Abdominal Surgery
+STOMACH : PART 1
+.--Active space -..
+RELEVANTANATOMY
+Fundus
+Parts of stomach :
+Cardia-
+Pylorus
+Body
+Antrum
+Partsofstomach
+Blood supply :
+Aorta
+Right and left hepatic.
+arteries
+-Left gastric artery
+Right gastric artery
+Short gastric arteries
+(Branches of splenic artery)
+Hepatic artery proper
+Gastroduodenal artery.
+Splenic artery
+Common hepatic artery
+Right gastroepipioic artery
+Coeliac trunk
+Blood supply of stomach
+Arterial supply : 4 major arteries.
+I. Left gastric artery : Branch of coeliac axis.
+- Dominant artery of stomach.
+- Involved in type IV gastric wcer, mallory weiss tear.
+a. Right gastric artery : Branch of common hepatic artery.
+4. Right gastroepiploic artery : Branch of gastroduodenal artery.
+- Extensive submucosal anastomosis between vessels (+)
+hence
+Stomach does not necrose even if a vessels are ligated
+Surgery·v1.0·Marrow8.0·2024
+### geo
+.--Active space -..  150  Gastrointestinal and Abdominal Surgery  STOMACH : PART 1
+Parts of stomach :  RELEVANTANATOMY  Fundus
+Pylorus  Cardia-  Body
+Blood supply :  Aorta  Partsofstomach  Antrum
+Right and left hepatic.  Hepatic artery proper  Right gastric artery  arteries  (Branches of splenic artery)  -Left gastric artery  Short gastric arteries
+Common hepatic artery  Gastroduodenal artery.  Right gastroepipioic artery  Splenic artery
+Coeliac trunk  Arterial supply : 4 major arteries.  I. Left gastric artery : Branch of coeliac axis.  Blood supply of stomach
+a. Right gastric artery : Branch of common hepatic artery.  - Involved in type IV gastric wcer, mallory weiss tear.  - Dominant artery of stomach.
+4. Right gastroepiploic artery : Branch of gastroduodenal artery.  - Extensive submucosal anastomosis between vessels (+)  Stomach does not necrose even if a vessels are ligated  hence
+Surgery·v1.0·Marrow8.0·2024

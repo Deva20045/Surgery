@@ -1,0 +1,59 @@
+### raw
+157
+STOMACH : PART 2
+--Active space-
+00:01:00
+Bilroth I gastrectomy :
+S)
+Stomach
+→End toend
+wmuapona
+gastro-duodenal
+wmumlart
+anastomosis
+Billroth I gastrectomy
+Distal gastrectomy
+Bilroth Il gastrectomy/Polya reconstruction :
+Closethe
+Afferent
+→Food
+duodenum
+loop
+→End to side gastro-
+Bile
+jejunal anastomosis
+efferent
+pancreatic juice
+loop
+Subtotal/partial
+BilrothIlgastrectomy
+gastrectomy
+Roux en Y gastrgjejunostomy/Roux-en-Y gastric bypass :
+Closed
+duodenal
+stump
+Rouxlimb
+Duodeno-jejunal←
+BPlimb
+so cm
+flexure
+wmum!ar
+Roux en Y gastrojejunostomy
+Surgery·v1.0·Marrow8.0·2024
+### geo
+157
+STOMACH : PART 2  --Active space-
+00:01:00
+Bilroth I gastrectomy :
+Stomach  S)
+wmumlart  wmuapona  →End toend  gastro-duodenal  anastomosis
+Distal gastrectomy  Billroth I gastrectomy
+Bilroth Il gastrectomy/Polya reconstruction :
+duodenum  Closethe  →Food  →End to side gastro-  Afferent  loop
+pancreatic juice  Bile  jejunal anastomosis  efferent  loop
+Subtotal/partial  gastrectomy  BilrothIlgastrectomy
+Roux en Y gastrgjejunostomy/Roux-en-Y gastric bypass :  duodenal  Closed
+stump  Rouxlimb
+Duodeno-jejunal←  flexure  BPlimb  wmum!ar  so cm
+Roux en Y gastrojejunostomy
+Surgery·v1.0·Marrow8.0·2024

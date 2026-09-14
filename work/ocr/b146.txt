@@ -1,0 +1,47 @@
+### raw
+146
+GastrointestinalandAbdominalSurgery
+--Activespace
+CLINICALFEATURES:
+· Eariest of m/e symptom : Progressive dysphogia. (Soids > liaquids).
+·Weight loss.
+Signs of advanced disease :
+malignant fstula with trachea Lt RLN invovement
+Chronic cough
+Hoarseress
+INVESTIGATIONS
+·IOc to diagnose : endoscopic biopsy.
+· IOC for overall staging : PeT-CT (Positron emission tomogrophy)
+I8-FDG compound (Ty,: IIO mins).
+· IOC for T  N staging : &us (endoscopic wtrasound).
+· Barium swallow : Rot tailVApple core appearance.
+EUS
+Hastoiogs
+Shouldering effect
+osoonw
+lrregular margins
+do
+Rot tail oppearance
+osomwqms
+Alternate hypo
+ hyper bands
+propria
+2215
+Serosa
+Z:CLYUSI80
+Endoscopic uSG
+Surgery·v1.0·Marrow8.0·2024
+### geo
+146  CLINICALFEATURES:  GastrointestinalandAbdominalSurgery
+--Activespace  · Eariest of m/e symptom : Progressive dysphogia. (Soids > liaquids).  ·Weight loss.
+Signs of advanced disease :  malignant fstula with trachea Lt RLN invovement
+INVESTIGATIONS  Chronic cough  Hoarseress
+· IOC for overall staging : PeT-CT (Positron emission tomogrophy)  ·IOc to diagnose : endoscopic biopsy.  I8-FDG compound (Ty,: IIO mins).
+· IOC for T  N staging : &us (endoscopic wtrasound).  · Barium swallow : Rot tailVApple core appearance.
+Shouldering effect  EUS  Hastoiogs  osoonw
+lrregular margins  do
+Rot tail oppearance
+Alternate hypo   hyper bands  osomwqms
+Z:CLYUSI80  2215  propria  Serosa
+Endoscopic uSG
+Surgery·v1.0·Marrow8.0·2024

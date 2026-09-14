@@ -1,0 +1,59 @@
+### raw
+134
+Gastrointestinal and Abdominal Surgery
+Prague C m Criteria :
+M:maximum extent =14 .rn
+---Active space -..
+4
+Distanceincmfrom
+10
+↑ risk of cancer
+Seattle Biopsy Protocol :
+Correctly identify the
+gastroesophageal junction
+· 4 quadrant biopsy every a cms.
+Recognize hiatus hernia
+Flat columnarmucosa
+Systematic cold biopsy
+Repeat OGD +
+ConArmed dysplasia by two
+Biopsy every
+independent pathologists
+3-s years
+HGDorcancer
+No dysplasia
+LGD
+mDT discussion
+OGD every
+l months wntil:
+Therapeutic
+a consecutive
+Intervention
+evidence of non-
+dysplastic BO
+Sx:Esophagectomy
+Follow non-
+Endoscopic
+dysplasia 
+RFA
+Howchart
+BO : Barrett's esophagus
+mDT : multidisciplinary team
+HGD : High-grade dysplasia
+OAC : esophageal adenocarcinoma
+LGD : Low-grade dysplasia
+OGD : esophagogastroduodenoscopy
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+134  Prague C m Criteria :  Gastrointestinal and Abdominal Surgery  M:maximum extent =14 .rn
+---Active space -..  10  4
+Seattle Biopsy Protocol :  ↑ risk of cancer  Distanceincmfrom  Correctly identify the
+· 4 quadrant biopsy every a cms.  Recognize hiatus hernia  gastroesophageal junction
+Systematic cold biopsy  Flat columnarmucosa
+Repeat OGD +  Biopsy every  3-s years  ConArmed dysplasia by two  independent pathologists  HGDorcancer
+No dysplasia  OGD every  LGD  mDT discussion
+l months wntil:  a consecutive  Therapeutic  Intervention
+evidence of non-  dysplastic BO  Sx:Esophagectomy
+Follow non-  Howchart  dysplasia   Endoscopic  RFA
+LGD : Low-grade dysplasia  HGD : High-grade dysplasia  BO : Barrett's esophagus  OGD : esophagogastroduodenoscopy  mDT : multidisciplinary team  OAC : esophageal adenocarcinoma
+Surgery·v1.0·Marrow 8.0·2024

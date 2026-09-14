@@ -1,0 +1,60 @@
+### raw
+118
+Endocrine System
+---- Active space ---
+management :
+unilateral adrenal mass
+Radiological suspicion of malignancy
+yes
+ON
+Local invasion
+Functional tumor
+Yes
+ON
+ON
+Yes
+Yes
+Open
+No surgery
+Diameter sbcm
+Laproscopic ←
+adrenalectomy
+adrenalectomy
+ON
+ Individualised surgical
+approach
+Non-functional tumors:
+a <4 cm /benign : No surgery , CT/mRI every 3-b months.
+b. 74 cm/features of malignancy (+)/signifcant growth : Adrenalectomy.
+Pheochromocytoma
+00:06:45
+Tumorofadrenalmedula
+Incidence :m = F
+Paraganglioma :
+· Extra adrenal tumors.
+>Sympathetic chain : Organ of Zuckerkandl.
+m/c site
+≥Parasympathetic chain : Carotid body.
+Rwle of 10
+· 10%: Familial
+10%:Bilatera
+10% :malignant
+l0%: εxtra adrenal
+10%: Children
+Syndrome associated with familial pheochromocytomas :
+m/c : meN a syndrome.
+Surgery·v1.0·Marrow8.0·2024
+### geo
+---- Active space ---  118  management :  Endocrine System
+Radiological suspicion of malignancy  unilateral adrenal mass  yes
+ON  Functional tumor  ON  Yes  ON  Local invasion  Yes
+No surgery  adrenalectomy  Laproscopic ←  Yes   Individualised surgical  Diameter sbcm  ON  adrenalectomy  Open
+Non-functional tumors:  approach
+b. 74 cm/features of malignancy (+)/signifcant growth : Adrenalectomy.  a <4 cm /benign : No surgery , CT/mRI every 3-b months.
+Pheochromocytoma  Tumorofadrenalmedula  00:06:45
+Paraganglioma :  Incidence :m = F  · Extra adrenal tumors.
+m/c site  Rwle of 10  ≥Parasympathetic chain : Carotid body.  >Sympathetic chain : Organ of Zuckerkandl.
+· 10%: Familial  10% :malignant  10%:Bilatera
+10%: Children  l0%: εxtra adrenal
+m/c : meN a syndrome.  Syndrome associated with familial pheochromocytomas :
+Surgery·v1.0·Marrow8.0·2024

@@ -1,0 +1,62 @@
+### raw
+154
+Gastrointestinal andAbdominal Surgery
+Complications :
+---- Active space ----
+I. Bleeding :
+m/c complication.
+ Posterior ulcers commonly involved.
+Implicated vessels : Gastroduodenal artery.
+m/c cause of upper gl hemorrhage.
+management :
+Coagulation
+Endoscopic management
+Adrenaline
+Re-bleeds
+Bleeding stops.
+ard trial of endoscopy.
+H.pylori eradication.
+↓Fails
+Surgery + under-run
+Perforation :
+the vessel (ligate).
+a. Anterior ulcers (m/c) :
+·Presents with peritonitis
+→Reboundtenderness.
+→Guarding, rigidity.
+→Xray : Gas under diaphragm (Hollow viscus perforation)
+management of perforation peritonitis.
+a. Iv Huids
+Preparation for emergency
+3. IV antibiotics
+laparotomy.
+(Aerobic + anaerobic cover)
+4. Analgesics
+followed by
+Gas under.
+diaphragm
+Omental patch repair/Graham's patch repair.
+Hollow viscus perforation
+b. Posterior wlcer (Rare)
+Perforates into
+Retroperitoneum
+Renol vein signs :
+valentino syndrome :
+Gas under right kidney
+mimicsacuteappendicitis
+Kocherisation : mobilisation of duodenum to view
+posterior ulcer.
+Omental patch repair
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+---- Active space ----  154  Complications :  Gastrointestinal andAbdominal Surgery
+I. Bleeding :  m/c complication.   Posterior ulcers commonly involved.  Implicated vessels : Gastroduodenal artery.
+management :  m/c cause of upper gl hemorrhage.  Endoscopic management  Coagulation  Adrenaline
+H.pylori eradication.  Bleeding stops.  ard trial of endoscopy.  Re-bleeds  ↓Fails
+a. Anterior ulcers (m/c) :  ·Presents with peritonitis  Perforation :  →Reboundtenderness.  Surgery + under-run  the vessel (ligate).
+management of perforation peritonitis.  →Xray : Gas under diaphragm (Hollow viscus perforation)  →Guarding, rigidity.
+4. Analgesics  3. IV antibiotics  a. Iv Huids  (Aerobic + anaerobic cover)  Preparation for emergency  laparotomy.
+Omental patch repair/Graham's patch repair.  followed by  b. Posterior wlcer (Rare)  diaphragm  Gas under.  Hollow viscus perforation
+Renol vein signs :  Retroperitoneum  Perforates into  valentino syndrome :
+Gas under right kidney  Kocherisation : mobilisation of duodenum to view  posterior ulcer.  mimicsacuteappendicitis  Omental patch repair
+Surgery·v1.0·Marrow 8.0·2024

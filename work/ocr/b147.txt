@@ -1,0 +1,84 @@
+### raw
+Esophagus:Part 3
+147
+CLASSIFICATION
+...-Active space.
+Tstatus
+Siewert classification for G-e junction tumors
+High-grade dysplasia
+Tis
+Invasion into the lamina propria,
+T
+muscularis mucosae or submucosa
+5cm
+Invasion into muscularis propria
+红以
+Proximal
+Invasion into adventitia
+Type 1
+Anatomical
+Invades resectable adjacent structures
+cardia
+T4a
+(Pleura, pericardium, diaphragm)
+Icm
+Type II
+Invades unresectable adjacent structures
+-acm-
+T4b
+(Aorta, vertebral body, trachea)
+Type II
+Nstatus
+Distal
+No regional lymph node metastases
+No
+I to & positive regional lymph nodes
+M
+Na
+3 to l positive regional lymph nodes
+EN
+7 or more positive regional lymph nodes
+m status
+mo
+No distantmetastases
+· Type I  lIl—→ &sophageal cancer.
+Distant metastases (m/c site : Liver)
+· Type ll -→ Gastric cancer.
+m
+MANAGEMENT
+Surgical management :
+..
+·TaN/T/T4 :
+- Advanced stage.
+- Above submucosa, metastasis rare.
+f/b≥Sx
+- endoscopic mucosal resection (emr).
+- Chemotherapy + Radiotherapy
+ Tib No/Ta No :
+(Neoadjuvant therapy)
+-Invades submucosa
+Clinical esophageal tumors:
+- esophagectomy.
+- Defnitive chemoradiotherapy (Preserves larynx).
+: huotoaboudosa fo sadioud
+Types of resection :
+· margins :
+· Ro : microscopic freedom from cancer.
+· R : microscopic disease left behind.
+- Proximal margin : Io cm.
+- Distal margin : S cm.
+·Ra : Gross disease (+).
+d/t ymphatic skip lesions.
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+CLASSIFICATION  Esophagus:Part 3  ...-Active space.  147
+Tstatus  Tis  T  muscularis mucosae or submucosa  Invasion into the lamina propria,  High-grade dysplasia  Siewert classification for G-e junction tumors  5cm
+T4a  红以  Invades resectable adjacent structures  (Pleura, pericardium, diaphragm)  Invasion into muscularis propria  Invasion into adventitia  Type 1  Proximal  Icm  Anatomical  cardia
+Nstatus  T4b  Invades unresectable adjacent structures  (Aorta, vertebral body, trachea)  Type II  Type II  Distal  -acm-
+Na  No  M  7 or more positive regional lymph nodes  I to & positive regional lymph nodes  3 to l positive regional lymph nodes  No regional lymph node metastases
+m status  mo  m  EN  Distant metastases (m/c site : Liver)  No distantmetastases  · Type ll -→ Gastric cancer.  · Type I  lIl—→ &sophageal cancer.
+MANAGEMENT  Surgical management :  ..  ·TaN/T/T4 :
+ Tib No/Ta No :  - endoscopic mucosal resection (emr).  - Above submucosa, metastasis rare.  -Invades submucosa  Clinical esophageal tumors:  - Advanced stage.  - Chemotherapy + Radiotherapy  (Neoadjuvant therapy)  f/b≥Sx
+: huotoaboudosa fo sadioud  · margins :  - esophagectomy.  Types of resection :  · Ro : microscopic freedom from cancer.  · R : microscopic disease left behind.  - Defnitive chemoradiotherapy (Preserves larynx).
+d/t ymphatic skip lesions.  - Distal margin : S cm.  - Proximal margin : Io cm.  ·Ra : Gross disease (+).
+Surgery·v1.0·Marrow 8.0·2024

@@ -1,0 +1,46 @@
+### raw
+156
+Gastrointestinal and Abdominal Surgery
+Type iv :
+---Active space --
+I. Pauchet procedure.
+Gastrum
+Stomach pouch left behind
+→ulcer
+Removal
+wmum!ar
+Roux-en-y
+a. Kelling madlener procedure
+gastrojejunostomy
+3. Csendes procedure.
+csendes procedure
+Kelling-madlener procedure
+Subtotal gastrectomy
+Pauchet procedure
+Roux-en-y
+esophagogastrgjejunostomy
+procedure
+Operations for gastric ulcer
+Note :
+H. pylori :
+· Common cause of gastric wcer disease.
+·CAG A, vAC A : Genes that encode for toxins.
+Urease enzyme (+) : Survives acidic environment.
+Pathogenicity :
+I.  Peptic ulcer.
+a. Type B gastritis.
+3. Gastric cancer.
+4. mALTomas (mucosal associated lymphoid tissue tumors).
+· Slightly protective against adenocarcinoma esophagus  GeRD.
+Surgery·v1.0·Marrow8.0·2024
+### geo
+---Active space --  156  Type iv :  Gastrointestinal and Abdominal Surgery
+I. Pauchet procedure.  Stomach pouch left behind  Gastrum
+→ulcer  Removal  Roux-en-y  wmum!ar
+3. Csendes procedure.  a. Kelling madlener procedure  gastrojejunostomy
+Pauchet procedure  Kelling-madlener procedure  esophagogastrgjejunostomy  Subtotal gastrectomy  Roux-en-y  procedure  csendes procedure
+H. pylori :  Note :  Operations for gastric ulcer
+· Common cause of gastric wcer disease.  ·CAG A, vAC A : Genes that encode for toxins.  Urease enzyme (+) : Survives acidic environment.  Pathogenicity :
+4. mALTomas (mucosal associated lymphoid tissue tumors).  a. Type B gastritis.  I.  Peptic ulcer.  3. Gastric cancer.
+· Slightly protective against adenocarcinoma esophagus  GeRD.
+Surgery·v1.0·Marrow8.0·2024

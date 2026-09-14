@@ -1,0 +1,62 @@
+### raw
+122
+Endocrine System
+.Active space--
+Investigations :
+mRI>>CT
+IOC
+mets:mlBGscan
+Ruleoutwilms'tumor:
+· Origin : kidney.
+·Abdominal mass: Does not cross midline.
+· Calcifications +/-
+Note:
+Histopathology : Small round blue cells.
+Small round blue cel tumors:
+1. Neuroblastoma
+a.Retinoblastoma
+Small roundblue
+3.Hepatoblastoma
+cells
+4.medulloblastoma
+5. Nephroblastoma
+6.Rhabdomyosarcoma
+7. &wing's sarcoma/PNET
+Prognostic factors:
+8. Lymphoma
+Variable
+Favourable
+Non-favourable
+Stage
+1,aA, aB, 4S
+3,4
+Age
+<18months
+> 18 months
+N-myc
+Not amplifed
+Amplifed
+management:
+Chemotherapy : &toposide + Cisplatin
++
+Surgery
+·mets : Aggressive management (Good survival chance).
+Carcinoid tumors & Adrenocortical carcinoma
+00:23:30
+CARCINOIDTUMORS
+Arisefrom theneuroendocrinecells.
+Newterm:Neuroendocrinetumors.
+Surgery·v1.0·Marrow8.0·2024
+### geo
+.Active space--  122  Investigations :  Endocrine System
+Ruleoutwilms'tumor:  · Origin : kidney.  IOC  mRI>>CT  mets:mlBGscan
+Histopathology : Small round blue cells.  ·Abdominal mass: Does not cross midline.  · Calcifications +/-  Small round blue cel tumors:  Note:
+Small roundblue  1. Neuroblastoma  3.Hepatoblastoma  a.Retinoblastoma
+cells  6.Rhabdomyosarcoma  4.medulloblastoma  5. Nephroblastoma
+Prognostic factors:  Variable  8. Lymphoma  7. &wing's sarcoma/PNET
+Stage  Age  1,aA, aB, 4S  <18months  Favourable  Non-favourable  > 18 months  3,4
+management:  Chemotherapy : &toposide + Cisplatin  N-myc  Not amplifed  Amplifed
+Surgery  ·mets : Aggressive management (Good survival chance).  +
+Arisefrom theneuroendocrinecells.  CARCINOIDTUMORS  Carcinoid tumors & Adrenocortical carcinoma  00:23:30
+Newterm:Neuroendocrinetumors.
+Surgery·v1.0·Marrow8.0·2024

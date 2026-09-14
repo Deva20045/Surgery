@@ -1,0 +1,2506 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C18-001",
+   "sec": "Adrenal Incidentaloma: Causes",
+   "page": 117,
+   "q": "Adrenal incidentaloma refers to:",
+   "opts": [
+    "Incidental diagnosis of adrenal lesions",
+    "Symptomatic adrenal mass detected clinically",
+    "Adrenal lesion detected only at autopsy",
+    "Adrenal enlargement due to chronic steroid use"
+   ],
+   "ans": 0,
+   "exp": "Adrenal incidentaloma = incidental diagnosis of adrenal lesions. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-002",
+   "sec": "Adrenal Incidentaloma: Causes",
+   "page": 117,
+   "q": "The m/c cause of an adrenal incidentaloma is:",
+   "opts": [
+    "Non-functional tumors",
+    "Metastases",
+    "Functional tumors",
+    "Adrenal cyst"
+   ],
+   "ans": 0,
+   "exp": "Causes of adrenal incidentaloma: non-functional tumors (m/c). (Book p117)"
+  },
+  {
+   "id": "SURG-C18-003",
+   "sec": "Adrenal Incidentaloma: Causes",
+   "page": 117,
+   "q": "Adrenal metastases detected as an incidentaloma can arise from all of the following EXCEPT:",
+   "opts": [
+    "Thyroid carcinoma",
+    "Breast cancer",
+    "Lung cancer",
+    "Renal cancer"
+   ],
+   "ans": 0,
+   "exp": "Metastases causing adrenal incidentaloma: breast cancer, lung cancer, renal cancer. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-004",
+   "sec": "Adrenal Incidentaloma: Causes",
+   "page": 117,
+   "q": "Functional tumors that can present as an adrenal incidentaloma include:",
+   "opts": [
+    "Cushing's syndrome",
+    "Conn's syndrome",
+    "Addison's disease",
+    "Congenital adrenal hyperplasia"
+   ],
+   "ans": 0,
+   "exp": "Functional tumors listed as a cause: Cushing's syndrome. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-005",
+   "sec": "Adrenal Incidentaloma: Causes",
+   "page": 117,
+   "q": "Adrenocortical carcinoma as a cause of adrenal incidentaloma is listed under:",
+   "opts": [
+    "Functional tumors",
+    "Non-functional tumors",
+    "Metastases",
+    "Cystic lesions"
+   ],
+   "ans": 0,
+   "exp": "Causes: functional tumors - Cushing's syndrome, carcinoma. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-006",
+   "sec": "Adrenal Incidentaloma: Causes",
+   "page": 117,
+   "q": "Benign adrenal tumors on NCCT characteristically show attenuation of:",
+   "opts": [
+    "<= 10 HU",
+    ">= 20 HU",
+    "30-40 HU",
+    "> 50 HU"
+   ],
+   "ans": 0,
+   "exp": "Benign adrenal tumors on NCCT: <= 10 HU. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-007",
+   "sec": "Adrenal Incidentaloma: Causes",
+   "page": 117,
+   "q": "The imaging shown in the book for an incidentally detected adrenal lesion is:",
+   "opts": [
+    "NCCT showing incidentaloma",
+    "CECT showing incidentaloma",
+    "MRI showing incidentaloma",
+    "Ultrasound showing incidentaloma"
+   ],
+   "ans": 0,
+   "exp": "Book image: NCCT showing an incidentaloma. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-008",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "Serum cortisol estimation in an adrenal incidentaloma is done to evaluate for:",
+   "opts": [
+    "Cushing's syndrome",
+    "Pheochromocytoma",
+    "Adrenocortical carcinoma",
+    "Primary aldosteronism"
+   ],
+   "ans": 0,
+   "exp": "Evaluation of functional tumors: serum cortisol (Cushing's). (Book p117)"
+  },
+  {
+   "id": "SURG-C18-009",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "Plasma free metanephrines are estimated in an adrenal incidentaloma to rule out:",
+   "opts": [
+    "Pheochromocytoma",
+    "Cushing's syndrome",
+    "Adrenocortical carcinoma",
+    "Conn's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Plasma free metanephrines - evaluation for pheochromocytoma. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-010",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "Serum DHEA is estimated in the evaluation of an adrenal incidentaloma to detect:",
+   "opts": [
+    "Adrenocortical carcinoma",
+    "Pheochromocytoma",
+    "Cushing's syndrome",
+    "Myelolipoma"
+   ],
+   "ans": 0,
+   "exp": "Serum DHEA - marker for adrenocortical carcinoma. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-011",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "The dexamethasone suppression test in the evaluation of an adrenal incidentaloma assesses:",
+   "opts": [
+    "Cortisol excess (Cushing's)",
+    "Catecholamine excess",
+    "Androgen excess",
+    "Aldosterone excess"
+   ],
+   "ans": 0,
+   "exp": "Dexamethasone suppression test & urinary cortisol - Cushing's evaluation. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-012",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "24 hour urinary cortisol is done in an adrenal incidentaloma as part of evaluation of:",
+   "opts": [
+    "Cushing's syndrome",
+    "Pheochromocytoma",
+    "Neuroblastoma",
+    "Carcinoid syndrome"
+   ],
+   "ans": 0,
+   "exp": "Urinary cortisol - evaluation of Cushing's syndrome. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-013",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "On imaging, radiological features suggesting adrenal malignancy include:",
+   "opts": [
+    "Diameter >= 4 cm and > 10 HU density",
+    "Diameter < 4 cm and < 10 HU density",
+    "Diameter >= 4 cm but < 10 HU density",
+    "Diameter < 2 cm with calcification"
+   ],
+   "ans": 0,
+   "exp": "Radiological suspicion of malignancy: diameter >= 4 cm and > 10 HU density. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-014",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "CECT is performed in an adrenal incidentaloma to assess:",
+   "opts": [
+    "Washout",
+    "Calcification",
+    "Fat content",
+    "Septations"
+   ],
+   "ans": 0,
+   "exp": "CECT: washout - characterisation of the adrenal lesion. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-015",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "FDG PET suggests adrenal malignancy when it shows:",
+   "opts": [
+    "Positive uptake",
+    "No uptake",
+    "Photopenic defect",
+    "Rim calcification"
+   ],
+   "ans": 0,
+   "exp": "FDG PET: positive uptake suggests malignancy. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-016",
+   "sec": "Adrenal Incidentaloma: Evaluation",
+   "page": 117,
+   "q": "FNAC of an adrenal mass is performed:",
+   "opts": [
+    "Only after ruling out pheochromocytoma",
+    "As the first investigation of every incidentaloma",
+    "Only in lesions < 1 cm",
+    "Never, in any adrenal lesion"
+   ],
+   "ans": 0,
+   "exp": "FNAC is done only after ruling out pheochromocytoma. (Book p117)"
+  },
+  {
+   "id": "SURG-C18-017",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "The management algorithm for a unilateral adrenal mass begins with assessing:",
+   "opts": [
+    "Radiological suspicion of malignancy",
+    "Size of the mass alone",
+    "Patient's age",
+    "Laterality of the mass"
+   ],
+   "ans": 0,
+   "exp": "Algorithm: unilateral adrenal mass - radiological suspicion of malignancy? (Book p118)"
+  },
+  {
+   "id": "SURG-C18-018",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "A unilateral adrenal mass with radiological suspicion of malignancy and local invasion is treated by:",
+   "opts": [
+    "Open adrenalectomy",
+    "Laparoscopic adrenalectomy",
+    "No surgery",
+    "Chemotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Local invasion (with suspicion of malignancy) - open adrenalectomy. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-019",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "Open adrenalectomy is preferred over the laparoscopic route when there is:",
+   "opts": [
+    "Local invasion",
+    "A functional tumor < 4 cm",
+    "A non-functional cyst",
+    "Bilateral disease"
+   ],
+   "ans": 0,
+   "exp": "Open adrenalectomy is used when local invasion is present. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-020",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "In a unilateral adrenal mass without suspicion of malignancy, a diameter <= 6 cm is treated by:",
+   "opts": [
+    "Laparoscopic adrenalectomy",
+    "Open adrenalectomy",
+    "Observation only",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Diameter <= 6 cm - laparoscopic adrenalectomy. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-021",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "For adrenal masses that do not fit the standard criteria (e.g. large but no invasion), the book advises:",
+   "opts": [
+    "Individualised surgical approach",
+    "No surgery for all such patients",
+    "Bilateral adrenalectomy",
+    "Radiofrequency ablation in all"
+   ],
+   "ans": 0,
+   "exp": "Individualised surgical approach for masses outside standard criteria. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-022",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "Non-functional adrenal tumors < 4 cm or clearly benign are managed by:",
+   "opts": [
+    "No surgery, CT/MRI every 3-6 months",
+    "Immediate adrenalectomy",
+    "Annual X-ray alone",
+    "FNAC and radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Non-functional tumors < 4 cm / benign: no surgery, CT or MRI every 3-6 months. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-023",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "The follow-up interval advised for small non-functional adrenal tumors is:",
+   "opts": [
+    "Every 3-6 months",
+    "Every 2 years",
+    "Every 5 years",
+    "Only if symptomatic"
+   ],
+   "ans": 0,
+   "exp": "Follow up: CT/MRI every 3-6 months. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-024",
+   "sec": "Management of Unilateral Adrenal Mass",
+   "page": 118,
+   "q": "Non-functional adrenal tumors >= 4 cm (or with features of malignancy / significant growth) are treated by:",
+   "opts": [
+    "Adrenalectomy",
+    "Observation",
+    "Chemotherapy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Non-functional tumors >= 4 cm / features of malignancy / significant growth: adrenalectomy. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-025",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "Pheochromocytoma is a tumor of the:",
+   "opts": [
+    "Adrenal medulla",
+    "Adrenal cortex",
+    "Sympathetic ganglion only",
+    "Carotid body"
+   ],
+   "ans": 0,
+   "exp": "Pheochromocytoma = tumor of the adrenal medulla. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-026",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "The incidence of pheochromocytoma shows:",
+   "opts": [
+    "Males = females",
+    "Male predominance 3:1",
+    "Female predominance 3:1",
+    "Seen only in children"
+   ],
+   "ans": 0,
+   "exp": "Incidence of pheochromocytoma: M = F. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-027",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "Paragangliomas are:",
+   "opts": [
+    "Extra-adrenal tumors",
+    "Cortical adenomas",
+    "Pituitary tumors",
+    "Thyroid C-cell tumors"
+   ],
+   "ans": 0,
+   "exp": "Paraganglioma: extra-adrenal tumors. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-028",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "The m/c site of a sympathetic chain paraganglioma is the:",
+   "opts": [
+    "Organ of Zuckerkandl",
+    "Carotid body",
+    "Glomus jugulare",
+    "Adrenal cortex"
+   ],
+   "ans": 0,
+   "exp": "Sympathetic chain paraganglioma - organ of Zuckerkandl (m/c site). (Book p118)"
+  },
+  {
+   "id": "SURG-C18-029",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "A parasympathetic chain paraganglioma classically arises from the:",
+   "opts": [
+    "Carotid body",
+    "Organ of Zuckerkandl",
+    "Adrenal medulla",
+    "Coeliac plexus"
+   ],
+   "ans": 0,
+   "exp": "Parasympathetic chain paraganglioma: carotid body. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-030",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "Carotid body tumors arise from the:",
+   "opts": [
+    "Parasympathetic chain",
+    "Sympathetic chain",
+    "Adrenal medulla",
+    "Vagus nerve nucleus"
+   ],
+   "ans": 0,
+   "exp": "Carotid body = parasympathetic chain paraganglioma. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-031",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "According to the rule of 10 for pheochromocytoma, the proportion that is familial is:",
+   "opts": [
+    "10%",
+    "1%",
+    "25%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Rule of 10: 10% familial. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-032",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "All of the following are part of the 'rule of 10' for pheochromocytoma EXCEPT:",
+   "opts": [
+    "10% are calcified",
+    "10% bilateral",
+    "10% malignant",
+    "10% extra-adrenal"
+   ],
+   "ans": 0,
+   "exp": "Rule of 10: familial, bilateral, malignant, extra-adrenal, children - calcification is not part of it. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-033",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "The proportion of pheochromocytomas occurring in children is:",
+   "opts": [
+    "10%",
+    "1%",
+    "30%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Rule of 10: 10% occur in children. (Book p118)"
+  },
+  {
+   "id": "SURG-C18-034",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma",
+   "page": 118,
+   "q": "The m/c syndrome associated with familial pheochromocytomas is:",
+   "opts": [
+    "MEN 2A syndrome",
+    "MEN 1 syndrome",
+    "MEN 2B syndrome",
+    "Von Hippel-Lindau disease"
+   ],
+   "ans": 0,
+   "exp": "Syndrome associated with familial pheochromocytomas: MEN 2A syndrome (m/c). (Book p118)"
+  },
+  {
+   "id": "SURG-C18-035",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "The gene involved in MEN 2A is:",
+   "opts": [
+    "RET",
+    "NF1",
+    "VHL",
+    "SDHB"
+   ],
+   "ans": 0,
+   "exp": "MEN 2A: RET gene. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-036",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "The triad of medullary thyroid carcinoma, pheochromocytoma and parathyroid hyperplasia occurs in:",
+   "opts": [
+    "MEN 2A",
+    "MEN 2B",
+    "MEN 1",
+    "Von Hippel-Lindau disease"
+   ],
+   "ans": 0,
+   "exp": "MEN 2A (RET): medullary thyroid carcinoma, pheochromocytoma, parathyroid hyperplasia. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-037",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Parathyroid hyperplasia with pheochromocytoma is characteristic of:",
+   "opts": [
+    "MEN 2A",
+    "MEN 2B",
+    "VHL disease",
+    "NF1"
+   ],
+   "ans": 0,
+   "exp": "Parathyroid hyperplasia is part of MEN 2A. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-038",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "The gene involved in MEN 2B is:",
+   "opts": [
+    "RET",
+    "NF1",
+    "SDHD",
+    "VHL"
+   ],
+   "ans": 0,
+   "exp": "MEN 2B: RET gene. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-039",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Marfanoid habitus with pheochromocytoma is characteristic of:",
+   "opts": [
+    "MEN 2B",
+    "MEN 2A",
+    "NF1",
+    "Familial paraganglioma type 3"
+   ],
+   "ans": 0,
+   "exp": "MEN 2B: pheochromocytoma, medullary thyroid carcinoma, marfanoid habitus, mucocutaneous ganglioneuromas. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-040",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Mucocutaneous ganglioneuromas are a feature of:",
+   "opts": [
+    "MEN 2B",
+    "MEN 2A",
+    "VHL disease",
+    "Carney triad"
+   ],
+   "ans": 0,
+   "exp": "Mucocutaneous ganglioneuromas: MEN 2B. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-041",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "The NF1 gene product is:",
+   "opts": [
+    "Neurofibromin",
+    "Succinate dehydrogenase",
+    "Ret proto-oncogene",
+    "VHL protein"
+   ],
+   "ans": 0,
+   "exp": "NF1 - neurofibromin. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-042",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Cafe-au-lait spots, neurofibromas and optic nerve glioma with pheochromocytoma suggest:",
+   "opts": [
+    "Neurofibromatosis type 1",
+    "MEN 2B",
+    "VHL disease",
+    "Tuberous sclerosis"
+   ],
+   "ans": 0,
+   "exp": "NF1: neurofibromas, cafe-au-lait spots, optic nerve glioma, pheochromocytoma. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-043",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Optic nerve glioma with pheochromocytoma is associated with:",
+   "opts": [
+    "NF1",
+    "MEN 2A",
+    "MEN 2B",
+    "VHL disease"
+   ],
+   "ans": 0,
+   "exp": "Optic nerve glioma: NF1. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-044",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "The gene involved in Von Hippel-Lindau disease is:",
+   "opts": [
+    "VHL",
+    "RET",
+    "NF1",
+    "SDHB"
+   ],
+   "ans": 0,
+   "exp": "Von Hippel-Lindau (VHL) disease: VHL gene. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-045",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Hemangioblastoma with pheochromocytoma suggests:",
+   "opts": [
+    "Von Hippel-Lindau disease",
+    "MEN 2A",
+    "NF1",
+    "Familial paraganglioma type 1"
+   ],
+   "ans": 0,
+   "exp": "VHL: pheochromocytoma, renal cell carcinoma, paraganglioma, hemangioblastoma, pancreatic endocrine neoplasm. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-046",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Renal cell carcinoma with pheochromocytoma is characteristic of:",
+   "opts": [
+    "Von Hippel-Lindau disease",
+    "MEN 2A",
+    "MEN 2B",
+    "NF1"
+   ],
+   "ans": 0,
+   "exp": "Renal cell carcinoma: VHL disease. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-047",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Pancreatic endocrine neoplasm with pheochromocytoma is seen in:",
+   "opts": [
+    "Von Hippel-Lindau disease",
+    "MEN 2B",
+    "NF1",
+    "Familial paraganglioma type 4"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic endocrine neoplasm: VHL disease. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-048",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Familial paraganglioma type 1 is caused by mutation of:",
+   "opts": [
+    "SDHD",
+    "SDHB",
+    "SDHC",
+    "RET"
+   ],
+   "ans": 0,
+   "exp": "Familial paraganglioma 1: SDHD - pheochromocytoma, paraganglioma. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-049",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Familial paraganglioma type 3 is associated with mutation of:",
+   "opts": [
+    "SDHC",
+    "SDHD",
+    "SDHB",
+    "NF1"
+   ],
+   "ans": 0,
+   "exp": "Familial paraganglioma 3: SDHC - paraganglioma. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-050",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "Familial paraganglioma type 4 is associated with mutation of:",
+   "opts": [
+    "SDHB",
+    "SDHD",
+    "SDHC",
+    "RET"
+   ],
+   "ans": 0,
+   "exp": "Familial paraganglioma 4: SDHB - pheochromocytoma, paraganglioma. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-051",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "SDHB stands for:",
+   "opts": [
+    "Succinate dehydrogenase complex, subunit B",
+    "Succinate dehydrogenase complex, subunit C",
+    "Succinate dehydrogenase complex, subunit D",
+    "Sodium dehydrogenase binding protein"
+   ],
+   "ans": 0,
+   "exp": "SDHB - succinate dehydrogenase complex, subunit B. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-052",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "SDHC stands for:",
+   "opts": [
+    "Succinate dehydrogenase complex, subunit C",
+    "Succinate dehydrogenase complex, subunit B",
+    "Succinate dehydrogenase complex, subunit D",
+    "Sodium-dependent catecholamine channel"
+   ],
+   "ans": 0,
+   "exp": "SDHC - succinate dehydrogenase complex, subunit C. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-053",
+   "sec": "Familial Pheochromocytoma Syndromes",
+   "page": 119,
+   "q": "SDHD stands for:",
+   "opts": [
+    "Succinate dehydrogenase complex, subunit D",
+    "Succinate dehydrogenase complex, subunit B",
+    "Succinate dehydrogenase complex, subunit C",
+    "Somatostatin-dependent hormone"
+   ],
+   "ans": 0,
+   "exp": "SDHD - succinate dehydrogenase complex, subunit D. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-054",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 119,
+   "q": "The gross appearance of pheochromocytoma is:",
+   "opts": [
+    "Tan brown colour",
+    "Pearly white",
+    "Jet black",
+    "Grey-white and firm"
+   ],
+   "ans": 0,
+   "exp": "Gross appearance: tan brown colour. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-055",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 119,
+   "q": "The tan brown colour of pheochromocytoma on cutting is due to the:",
+   "opts": [
+    "Chromaffin reaction",
+    "Melanin pigment",
+    "Hemosiderin deposition",
+    "Bile staining"
+   ],
+   "ans": 0,
+   "exp": "Tan brown colour is due to the chromaffin reaction. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-056",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 119,
+   "q": "Gross features of pheochromocytoma include necrosis and:",
+   "opts": [
+    "Hemorrhage",
+    "Calcification",
+    "Cavitation",
+    "Cartilage formation"
+   ],
+   "ans": 0,
+   "exp": "Gross: necrosis and hemorrhage. (Book p119)"
+  },
+  {
+   "id": "SURG-C18-057",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 120,
+   "q": "The classic microscopic pattern of pheochromocytoma is:",
+   "opts": [
+    "Zellballen pattern",
+    "Indian filing",
+    "Glandular acinar pattern",
+    "Storiform pattern"
+   ],
+   "ans": 0,
+   "exp": "Microscopy: Zellballen pattern. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-058",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 120,
+   "q": "'Salt and pepper' nuclei on microscopy are characteristic of:",
+   "opts": [
+    "Pheochromocytoma",
+    "Follicular carcinoma thyroid",
+    "Adrenocortical carcinoma",
+    "Carcinoid tumor"
+   ],
+   "ans": 0,
+   "exp": "Microscopy: Zellballen pattern with salt & pepper nuclei. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-059",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 120,
+   "q": "On IHC, pheochromocytoma is positive for:",
+   "opts": [
+    "Synaptophysin",
+    "Thyroglobulin",
+    "Calcitonin",
+    "PSA"
+   ],
+   "ans": 0,
+   "exp": "IHC positive for synaptophysin, neuron specific enolase and chromogranin. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-060",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 120,
+   "q": "Neuron specific enolase positivity on IHC is seen in:",
+   "opts": [
+    "Pheochromocytoma",
+    "Adrenocortical carcinoma",
+    "Renal cell carcinoma",
+    "Seminoma"
+   ],
+   "ans": 0,
+   "exp": "IHC: neuron specific enolase positive. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-061",
+   "sec": "Histopathology & IHC of Pheochromocytoma",
+   "page": 120,
+   "q": "Chromogranin positivity on IHC is seen in:",
+   "opts": [
+    "Pheochromocytoma",
+    "Adrenocortical carcinoma",
+    "Wilms' tumor",
+    "Hepatoblastoma"
+   ],
+   "ans": 0,
+   "exp": "IHC: chromogranin positive. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-062",
+   "sec": "Malignant Pheochromocytoma & Secretory Profile",
+   "page": 120,
+   "q": "The confirmatory sign of malignant pheochromocytoma is:",
+   "opts": [
+    "Metastases",
+    "Capsular invasion alone",
+    "Pleomorphism alone",
+    "Necrosis alone"
+   ],
+   "ans": 0,
+   "exp": "Malignant pheochromocytoma: metastases is the confirmatory sign. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-063",
+   "sec": "Malignant Pheochromocytoma & Secretory Profile",
+   "page": 120,
+   "q": "The PASS score used for malignant pheochromocytoma includes the proliferation marker:",
+   "opts": [
+    "Ki-67",
+    "CEA",
+    "CA 19-9",
+    "PSA"
+   ],
+   "ans": 0,
+   "exp": "PASS score: Ki-67 (proliferation marker), vascular invasion, capsular invasion. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-064",
+   "sec": "Malignant Pheochromocytoma & Secretory Profile",
+   "page": 120,
+   "q": "Vascular invasion and capsular invasion are components of the:",
+   "opts": [
+    "PASS score for malignant pheochromocytoma",
+    "Gleason score",
+    "Child-Pugh score",
+    "Ranson's criteria"
+   ],
+   "ans": 0,
+   "exp": "PASS score includes vascular invasion and capsular invasion. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-065",
+   "sec": "Malignant Pheochromocytoma & Secretory Profile",
+   "page": 120,
+   "q": "An adrenal pheochromocytoma predominantly secretes:",
+   "opts": [
+    "Noradrenaline > adrenaline",
+    "Adrenaline > noradrenaline",
+    "Dopamine only",
+    "Serotonin only"
+   ],
+   "ans": 0,
+   "exp": "Adrenal pheochromocytoma: noradrenaline > adrenaline. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-066",
+   "sec": "Malignant Pheochromocytoma & Secretory Profile",
+   "page": 120,
+   "q": "Paragangliomas characteristically secrete:",
+   "opts": [
+    "Noradrenaline",
+    "Adrenaline",
+    "Dopamine",
+    "Serotonin"
+   ],
+   "ans": 0,
+   "exp": "Paraganglioma: noradrenaline. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-067",
+   "sec": "Malignant Pheochromocytoma & Secretory Profile",
+   "page": 120,
+   "q": "Dopamine secretion is characteristic of:",
+   "opts": [
+    "Malignant pheochromocytoma",
+    "Benign adrenal adenoma",
+    "Paraganglioma",
+    "Neuroblastoma"
+   ],
+   "ans": 0,
+   "exp": "Malignant pheochromocytoma: dopamine. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-068",
+   "sec": "Clinical Features of Pheochromocytoma",
+   "page": 120,
+   "q": "The m/c symptom of pheochromocytoma is:",
+   "opts": [
+    "Headache",
+    "Weight loss",
+    "Sweating",
+    "Palpitations"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: headache is the m/c symptom. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-069",
+   "sec": "Clinical Features of Pheochromocytoma",
+   "page": 120,
+   "q": "The m/c sign of pheochromocytoma is:",
+   "opts": [
+    "Hypertension",
+    "Tachycardia",
+    "Pallor",
+    "Fever"
+   ],
+   "ans": 0,
+   "exp": "Headache is due to hypertension, which is the m/c sign. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-070",
+   "sec": "Clinical Features of Pheochromocytoma",
+   "page": 120,
+   "q": "The classical triad of pheochromocytoma (headache, palpitations and the third symptom) is completed by:",
+   "opts": [
+    "Sweating",
+    "Weight gain",
+    "Polyuria",
+    "Constipation"
+   ],
+   "ans": 0,
+   "exp": "Features: headache, sweating, palpitations, weight loss. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-071",
+   "sec": "Clinical Features of Pheochromocytoma",
+   "page": 120,
+   "q": "Palpitations in pheochromocytoma are due to:",
+   "opts": [
+    "Catecholamine excess",
+    "Anaemia",
+    "Thyrotoxicosis",
+    "Hypoglycaemia"
+   ],
+   "ans": 0,
+   "exp": "Palpitations are a feature of catecholamine excess in pheochromocytoma. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-072",
+   "sec": "Clinical Features of Pheochromocytoma",
+   "page": 120,
+   "q": "Weight loss is a recognised feature of:",
+   "opts": [
+    "Pheochromocytoma",
+    "Adrenocortical adenoma",
+    "Myelolipoma",
+    "Adrenal cyst"
+   ],
+   "ans": 0,
+   "exp": "Features: headache, sweating, palpitations and weight loss. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-073",
+   "sec": "Investigations of Pheochromocytoma",
+   "page": 120,
+   "q": "The screening test for pheochromocytoma is:",
+   "opts": [
+    "24 hour urinary VMA",
+    "Plasma free metanephrines",
+    "MRI abdomen",
+    "Gallium dotatate scan"
+   ],
+   "ans": 0,
+   "exp": "Screening test: 24 hour urinary VMA (vanillyl mandelic acid). (Book p120)"
+  },
+  {
+   "id": "SURG-C18-074",
+   "sec": "Investigations of Pheochromocytoma",
+   "page": 120,
+   "q": "VMA stands for:",
+   "opts": [
+    "Vanillyl mandelic acid",
+    "Vanillyl monoamine",
+    "Vasoactive monoamine",
+    "Volatile mandelic acid"
+   ],
+   "ans": 0,
+   "exp": "VMA = vanillyl mandelic acid - 24 hour urinary screening test. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-075",
+   "sec": "Investigations of Pheochromocytoma",
+   "page": 120,
+   "q": "The most sensitive test for pheochromocytoma is:",
+   "opts": [
+    "Plasma free metanephrines",
+    "24 hour urinary VMA",
+    "Urinary 5-HIAA",
+    "Serum chromogranin A"
+   ],
+   "ans": 0,
+   "exp": "Most sensitive: plasma free metanephrines. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-076",
+   "sec": "Investigations of Pheochromocytoma",
+   "page": 120,
+   "q": "The investigation of choice for localising a pheochromocytoma is:",
+   "opts": [
+    "MRI",
+    "CT scan",
+    "X-ray abdomen",
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "IOC for pheochromocytoma: MRI. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-077",
+   "sec": "Investigations of Pheochromocytoma",
+   "page": 120,
+   "q": "The 'light bulb sign' or 'Swiss cheese appearance' of pheochromocytoma is seen on:",
+   "opts": [
+    "MRI",
+    "CT scan",
+    "Plain X-ray",
+    "Bone scan"
+   ],
+   "ans": 0,
+   "exp": "MRI: light bulb sign / Swiss cheese appearance. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-078",
+   "sec": "Investigations of Pheochromocytoma",
+   "page": 120,
+   "q": "Extra-adrenal pheochromocytoma and metastases are best localised by:",
+   "opts": [
+    "Gallium dotatate scan",
+    "Plain CT alone",
+    "Intravenous urography",
+    "Bone scan"
+   ],
+   "ans": 0,
+   "exp": "Extra-adrenal pheochromocytoma / metastases: gallium dotatate scan. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-079",
+   "sec": "Investigations of Pheochromocytoma",
+   "page": 120,
+   "q": "Pheochromocytoma commonly metastasises to the:",
+   "opts": [
+    "Bones and liver",
+    "Brain and spleen",
+    "Kidneys and pancreas",
+    "Skin and thyroid"
+   ],
+   "ans": 0,
+   "exp": "Pheochromocytoma commonly metastasises to bones and liver. (Book p120)"
+  },
+  {
+   "id": "SURG-C18-080",
+   "sec": "Management of Pheochromocytoma",
+   "page": 121,
+   "q": "Medical management of pheochromocytoma is started with:",
+   "opts": [
+    "Alpha blocker",
+    "Beta blocker",
+    "Calcium channel blocker",
+    "ACE inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Medical management: alpha blockade first. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-081",
+   "sec": "Management of Pheochromocytoma",
+   "page": 121,
+   "q": "A beta blocker is added in the medical management of pheochromocytoma if there is:",
+   "opts": [
+    "Tachycardia",
+    "Bradycardia",
+    "Hypotension",
+    "Bronchospasm"
+   ],
+   "ans": 0,
+   "exp": "If tachycardia is present, add a beta blocker. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-082",
+   "sec": "Management of Pheochromocytoma",
+   "page": 121,
+   "q": "If a beta blocker is given before an alpha blocker in pheochromocytoma, it causes:",
+   "opts": [
+    "Unopposed alpha action leading to vasospasm and hypertensive crisis",
+    "Unopposed beta action causing severe bradycardia",
+    "Complete catecholamine depletion",
+    "Acute Addisonian crisis"
+   ],
+   "ans": 0,
+   "exp": "Beta blocker before alpha blocker: unopposed alpha action -> vasospasm, hypertensive crisis. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-083",
+   "sec": "Management of Pheochromocytoma",
+   "page": 121,
+   "q": "Definitive management of pheochromocytoma is:",
+   "opts": [
+    "Laparoscopic or open adrenalectomy",
+    "Lifelong alpha blockade only",
+    "Radiotherapy",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Surgery: laparoscopic or open adrenalectomy. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-084",
+   "sec": "Management of Pheochromocytoma",
+   "page": 121,
+   "q": "Sudden hypotension during adrenalectomy for pheochromocytoma occurs when:",
+   "opts": [
+    "The adrenal vein is clipped",
+    "The peritoneum is opened",
+    "The tumour capsule is incised",
+    "The patient is intubated"
+   ],
+   "ans": 0,
+   "exp": "Adrenal vein clipped: sudden hypotension. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-085",
+   "sec": "Management of Pheochromocytoma",
+   "page": 121,
+   "q": "Hypotension after clipping of the adrenal vein is prevented by:",
+   "opts": [
+    "Administering large amounts of IV fluids +/- vasopressors",
+    "Giving a beta blocker bolus",
+    "Clamping the inferior vena cava",
+    "Induced hypothermia"
+   ],
+   "ans": 0,
+   "exp": "Prevention: administering large amount of IV fluids +/- vasopressors. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-086",
+   "sec": "Pheochromocytoma in Pregnancy",
+   "page": 121,
+   "q": "Pheochromocytoma presenting in the 1st or 2nd trimester of pregnancy is managed by:",
+   "opts": [
+    "Alpha blocker followed by surgery",
+    "Immediate delivery followed by surgery",
+    "Beta blocker alone till term",
+    "Surgery in the postpartum period only"
+   ],
+   "ans": 0,
+   "exp": "1st and 2nd trimester: alpha blocker then surgery. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-087",
+   "sec": "Pheochromocytoma in Pregnancy",
+   "page": 121,
+   "q": "Pheochromocytoma presenting in the 3rd trimester of pregnancy is managed by:",
+   "opts": [
+    "Alpha blocker, early delivery, then surgery",
+    "Surgery alone, ignoring the pregnancy",
+    "Alpha blocker alone till term, no surgery",
+    "Termination of pregnancy followed by radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "3rd trimester: alpha blocker -> early delivery -> surgery. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-088",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "The m/c abdominal malignancy in a child is:",
+   "opts": [
+    "Neuroblastoma",
+    "Wilms' tumor",
+    "Hepatoblastoma",
+    "Rhabdomyosarcoma"
+   ],
+   "ans": 0,
+   "exp": "M/c abdominal malignancy in a child: neuroblastoma (more than Wilms' tumor). (Book p121)"
+  },
+  {
+   "id": "SURG-C18-089",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "Neuroblastoma arises from:",
+   "opts": [
+    "Adrenal medulla > sympathetic chain",
+    "Adrenal cortex",
+    "Renal pelvis",
+    "Liver"
+   ],
+   "ans": 0,
+   "exp": "Arises from: adrenal medulla > sympathetic chain. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-090",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "N-myc amplification is associated with:",
+   "opts": [
+    "Neuroblastoma",
+    "Wilms' tumor",
+    "Hepatoblastoma",
+    "Pheochromocytoma"
+   ],
+   "ans": 0,
+   "exp": "Features: N-myc amplification present. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-091",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "Neuroblastoma may occur as:",
+   "opts": [
+    "Sporadic or familial",
+    "Only sporadic",
+    "Only familial",
+    "Only radiation-induced"
+   ],
+   "ans": 0,
+   "exp": "Neuroblastoma: sporadic or familial. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-092",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "The m/c age of presentation of neuroblastoma is:",
+   "opts": [
+    "5 years",
+    "1 year",
+    "15 years",
+    "25 years"
+   ],
+   "ans": 0,
+   "exp": "Presentation: m/c age is 5 years. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-093",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "The m/c presenting feature of neuroblastoma is:",
+   "opts": [
+    "Abdominal mass crossing the midline",
+    "Hematuria",
+    "Jaundice",
+    "Bone pain"
+   ],
+   "ans": 0,
+   "exp": "M/c symptom: abdominal mass that crosses the midline. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-094",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "The proportion of neuroblastoma patients presenting with metastases at diagnosis is:",
+   "opts": [
+    "50-70%",
+    "Less than 5%",
+    "10-20%",
+    "Almost 100%"
+   ],
+   "ans": 0,
+   "exp": "50-70% present with metastasis at diagnosis. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-095",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "'Raccoon eyes' in neuroblastoma refers to:",
+   "opts": [
+    "Orbital metastasis with swollen eyes and bruising",
+    "Periorbital oedema due to nephrotic syndrome",
+    "Allergic shiners",
+    "Basal skull fracture"
+   ],
+   "ans": 0,
+   "exp": "Raccoon eyes: swollen eyes with bruising due to orbital metastases. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-096",
+   "sec": "Neuroblastoma: Features & Presentation",
+   "page": 121,
+   "q": "'Blueberry muffin' lesions are atypical metastases seen in:",
+   "opts": [
+    "Neuroblastoma",
+    "Wilms' tumor",
+    "Retinoblastoma",
+    "Hepatoblastoma"
+   ],
+   "ans": 0,
+   "exp": "Blueberry muffin lesions: atypical metastases of neuroblastoma. (Book p121)"
+  },
+  {
+   "id": "SURG-C18-097",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "The investigation of choice for neuroblastoma is:",
+   "opts": [
+    "MRI",
+    "CT scan",
+    "Plain X-ray",
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "Investigations: MRI (> CT) is the IOC. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-098",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "MIBG scan in neuroblastoma is used to detect:",
+   "opts": [
+    "Metastases",
+    "Calcification",
+    "Cystic degeneration",
+    "Vascular invasion"
+   ],
+   "ans": 0,
+   "exp": "Mets: MIBG scan. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-099",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "Wilms' tumor is differentiated from neuroblastoma because it arises from the:",
+   "opts": [
+    "Kidney",
+    "Adrenal medulla",
+    "Sympathetic chain",
+    "Liver"
+   ],
+   "ans": 0,
+   "exp": "Rule out Wilms' tumor: origin is the kidney. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-100",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "Unlike neuroblastoma, the abdominal mass of Wilms' tumor:",
+   "opts": [
+    "Does not cross the midline",
+    "Always crosses the midline",
+    "Is always calcified",
+    "Is always cystic"
+   ],
+   "ans": 0,
+   "exp": "Wilms' tumor: abdominal mass does not cross the midline. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-101",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "Histopathology of neuroblastoma shows:",
+   "opts": [
+    "Small round blue cells",
+    "Spindle cells",
+    "Clear cells",
+    "Signet ring cells"
+   ],
+   "ans": 0,
+   "exp": "Histopathology: small round blue cells. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-102",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "Small round blue cell tumors include all of the following EXCEPT:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Neuroblastoma",
+    "Medulloblastoma",
+    "Ewing's sarcoma / PNET"
+   ],
+   "ans": 0,
+   "exp": "Small round blue cell tumors: neuroblastoma, retinoblastoma, hepatoblastoma, medulloblastoma, nephroblastoma, rhabdomyosarcoma, Ewing's sarcoma/PNET, lymphoma. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-103",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "Medulloblastoma belongs to the group of:",
+   "opts": [
+    "Small round blue cell tumors",
+    "Germ cell tumors",
+    "Neuroendocrine tumors",
+    "Mesenchymal tumors"
+   ],
+   "ans": 0,
+   "exp": "Small round blue cell tumors include medulloblastoma. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-104",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "Favourable prognostic stage in neuroblastoma is:",
+   "opts": [
+    "Stage 4S",
+    "Stage 3",
+    "Stage 4",
+    "Stage 3 and 4"
+   ],
+   "ans": 0,
+   "exp": "Favourable stage: 1, 2A, 2B, 4S; unfavourable: 3 and 4. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-105",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "The favourable age group in neuroblastoma prognosis is:",
+   "opts": [
+    "< 18 months",
+    "> 18 months",
+    "> 5 years",
+    "> 10 years"
+   ],
+   "ans": 0,
+   "exp": "Age: < 18 months is favourable, > 18 months unfavourable. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-106",
+   "sec": "Neuroblastoma: Investigations & Prognosis",
+   "page": 122,
+   "q": "N-myc amplification in neuroblastoma indicates:",
+   "opts": [
+    "Unfavourable prognosis",
+    "Favourable prognosis",
+    "Spontaneous regression",
+    "Benign behaviour"
+   ],
+   "ans": 0,
+   "exp": "N-myc amplified = non-favourable prognosis. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-107",
+   "sec": "Neuroblastoma: Management",
+   "page": 122,
+   "q": "Chemotherapy for neuroblastoma uses:",
+   "opts": [
+    "Etoposide + cisplatin",
+    "Vincristine + methotrexate",
+    "5-FU + leucovorin",
+    "Bleomycin + dacarbazine"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy: etoposide + cisplatin, plus surgery. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-108",
+   "sec": "Neuroblastoma: Management",
+   "page": 122,
+   "q": "Neuroblastoma with metastases is managed by:",
+   "opts": [
+    "Aggressive management (good survival chance)",
+    "Only palliative care",
+    "No treatment",
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Mets: aggressive management - good survival chance. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-109",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 122,
+   "q": "Carcinoid tumors arise from:",
+   "opts": [
+    "Neuroendocrine cells",
+    "Squamous epithelium",
+    "Smooth muscle",
+    "Adipose tissue"
+   ],
+   "ans": 0,
+   "exp": "Carcinoid tumors arise from the neuroendocrine cells. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-110",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 122,
+   "q": "The new term for carcinoid tumors is:",
+   "opts": [
+    "Neuroendocrine tumors",
+    "Adenocarcinoid tumors",
+    "Argentaffinomas",
+    "Chromaffin tumors"
+   ],
+   "ans": 0,
+   "exp": "New term: neuroendocrine tumors. (Book p122)"
+  },
+  {
+   "id": "SURG-C18-111",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 123,
+   "q": "The m/c site of carcinoid tumors is the:",
+   "opts": [
+    "Appendix",
+    "Rectum",
+    "Lung",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Site distribution: appendix is the m/c site (40%). (Book p123)"
+  },
+  {
+   "id": "SURG-C18-112",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 123,
+   "q": "After the appendix, the next m/c site of carcinoid tumors is the:",
+   "opts": [
+    "Small bowel",
+    "Colon",
+    "Duodenum",
+    "Lung"
+   ],
+   "ans": 0,
+   "exp": "Distribution: appendix (m/c, 40%) followed by small bowel (25%). (Book p123)"
+  },
+  {
+   "id": "SURG-C18-113",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 123,
+   "q": "Foregut carcinoids include those arising in the:",
+   "opts": [
+    "Lungs and stomach",
+    "Appendix and caecum",
+    "Colon and rectum",
+    "Rectum and anal canal"
+   ],
+   "ans": 0,
+   "exp": "Foregut: lungs, stomach; midgut: small intestine, appendix; hindgut: colon, rectum. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-114",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 123,
+   "q": "Hindgut carcinoids arise from the:",
+   "opts": [
+    "Colon and rectum",
+    "Stomach and duodenum",
+    "Lungs",
+    "Appendix"
+   ],
+   "ans": 0,
+   "exp": "Hindgut: colon and rectum. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-115",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 123,
+   "q": "The m/c site of metastases in carcinoid tumors is the:",
+   "opts": [
+    "Bones",
+    "Brain",
+    "Spleen",
+    "Kidneys"
+   ],
+   "ans": 0,
+   "exp": "Carcinoid tumors: m/c metastasis to bones. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-116",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 123,
+   "q": "Serotonin produced by carcinoid tumors is metabolised in the:",
+   "opts": [
+    "Liver",
+    "Kidney",
+    "Lung",
+    "Spleen"
+   ],
+   "ans": 0,
+   "exp": "Serotonin is metabolised in the liver. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-117",
+   "sec": "Carcinoid Tumors: Origin & Sites",
+   "page": 123,
+   "q": "Chromogranin A positivity is seen in:",
+   "opts": [
+    "Carcinoid tumors",
+    "Adrenocortical carcinoma",
+    "Squamous cell carcinoma",
+    "Wilms' tumor"
+   ],
+   "ans": 0,
+   "exp": "Others: chromogranin A positive. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-118",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "Carcinoid syndrome occurs in what proportion of patients with carcinoid tumors?",
+   "opts": [
+    "10%",
+    "50%",
+    "90%",
+    "1%"
+   ],
+   "ans": 0,
+   "exp": "Carcinoid syndrome: 10% of cases, when liver metastases are present. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-119",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "Carcinoid syndrome develops when the tumor has:",
+   "opts": [
+    "Liver metastases",
+    "Bone metastases",
+    "Nodal metastases only",
+    "Peritoneal seedlings only"
+   ],
+   "ans": 0,
+   "exp": "Carcinoid syndrome occurs if liver metastases are present (hormones escape hepatic metabolism). (Book p123)"
+  },
+  {
+   "id": "SURG-C18-120",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "The m/c symptom of carcinoid syndrome is:",
+   "opts": [
+    "Cutaneous flushing",
+    "Diarrhea",
+    "Bronchospasm",
+    "Palpitations"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: cutaneous flushing is the m/c symptom. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-121",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "The m/c symptom of abdominal carcinoids is:",
+   "opts": [
+    "Pain",
+    "Flushing",
+    "Jaundice",
+    "Hematuria"
+   ],
+   "ans": 0,
+   "exp": "Pain is the m/c symptom of abdominal carcinoids. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-122",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "Diarrhea in carcinoid syndrome is due to:",
+   "opts": [
+    "Serotonin",
+    "Gastrin",
+    "Vasoactive intestinal peptide only",
+    "Histamine from the stomach"
+   ],
+   "ans": 0,
+   "exp": "Diarrhea is a feature of carcinoid syndrome (serotonin mediated). (Book p123)"
+  },
+  {
+   "id": "SURG-C18-123",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "Bronchospasm and weight loss are recognised features of:",
+   "opts": [
+    "Carcinoid syndrome",
+    "Cushing's syndrome",
+    "Conn's syndrome",
+    "Addison's disease"
+   ],
+   "ans": 0,
+   "exp": "Features: flushing, pain, diarrhea, weight loss, bronchospasm, right sided valve lesions. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-124",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "Right sided valvular lesions in carcinoid syndrome most often involve the:",
+   "opts": [
+    "Tricuspid valve",
+    "Mitral valve",
+    "Aortic valve",
+    "Pulmonary vein"
+   ],
+   "ans": 0,
+   "exp": "Right sided valvular lesions: tricuspid valve is the m/c. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-125",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "The urinary investigation for carcinoid syndrome is:",
+   "opts": [
+    "5-HIAA (hydroxy indole acetic acid)",
+    "VMA",
+    "Catecholamines",
+    "Metanephrines"
+   ],
+   "ans": 0,
+   "exp": "Urine: 5-HIAA (hydroxy indole acetic acid). (Book p123)"
+  },
+  {
+   "id": "SURG-C18-126",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "Urinary 5-HIAA is the metabolite of:",
+   "opts": [
+    "Serotonin",
+    "Adrenaline",
+    "Dopamine",
+    "Histamine"
+   ],
+   "ans": 0,
+   "exp": "5-HIAA is the metabolite of serotonin. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-127",
+   "sec": "Carcinoid Syndrome: Features & Investigations",
+   "page": 123,
+   "q": "The blood investigation used for carcinoid tumors is:",
+   "opts": [
+    "Chromogranin A",
+    "Serum cortisol",
+    "Plasma metanephrines",
+    "Serum calcitonin"
+   ],
+   "ans": 0,
+   "exp": "Blood: chromogranin A. (Book p123)"
+  },
+  {
+   "id": "SURG-C18-128",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "CT scan in carcinoid tumors is done to:",
+   "opts": [
+    "Localise the lesion",
+    "Assess valvular lesions",
+    "Measure serotonin levels",
+    "Detect bone marrow uptake"
+   ],
+   "ans": 0,
+   "exp": "CT scan: to localise the lesion. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-129",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "Serotonin / somatostatin receptor scintigraphy in carcinoid is used for:",
+   "opts": [
+    "Localisation of the tumor and its metastases",
+    "Measuring urinary 5-HIAA",
+    "Assessing cardiac valves",
+    "Staging of liver function"
+   ],
+   "ans": 0,
+   "exp": "Serotonin/somatostatin receptor scintigraphy localises tumor and metastases. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-130",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "A Dotatate PET scan in carcinoid disease is used to:",
+   "opts": [
+    "Localise metastases",
+    "Replace histopathology",
+    "Measure Ki-67",
+    "Assess valvular disease"
+   ],
+   "ans": 0,
+   "exp": "Dotatate PET scan localises metastases. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-131",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "A high Ki-67 in a neuroendocrine tumor indicates:",
+   "opts": [
+    "Malignancy / metastases",
+    "Benign behavior",
+    "Good prognosis",
+    "Response to octreotide"
+   ],
+   "ans": 0,
+   "exp": "High Ki-67: malignancy / metastases. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-132",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "In localised carcinoid disease, the surgical approach is:",
+   "opts": [
+    "Radical resection",
+    "Palliative resection",
+    "No resection",
+    "Biopsy only"
+   ],
+   "ans": 0,
+   "exp": "Localised disease: radical resection. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-133",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "The aim of surgery in localised carcinoid disease is:",
+   "opts": [
+    "R0 - microscopic freedom from disease",
+    "R1 - leaving microscopic disease",
+    "Debulking only for symptom relief",
+    "Cytoreduction to < 50%"
+   ],
+   "ans": 0,
+   "exp": "Aim in localised disease: R0 (microscopic freedom from disease). (Book p124)"
+  },
+  {
+   "id": "SURG-C18-134",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "In regional carcinoid disease, the resection includes:",
+   "opts": [
+    "Primary tumor and nodes along the mesentery",
+    "Primary tumor alone",
+    "Liver metastases only",
+    "Only the mesenteric nodes"
+   ],
+   "ans": 0,
+   "exp": "Regional disease: resection of primary and nodes along the mesentery. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-135",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "In distant / metastatic carcinoid disease, the intent of surgery is:",
+   "opts": [
+    "Palliative",
+    "Curative in all cases",
+    "Diagnostic only",
+    "Never indicated"
+   ],
+   "ans": 0,
+   "exp": "Distant disease: palliative intent. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-136",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "Palliative resection in carcinoid disease is done to avoid:",
+   "opts": [
+    "Obstructive complications",
+    "Hypertensive crisis",
+    "Bone pain",
+    "Valvular regurgitation"
+   ],
+   "ans": 0,
+   "exp": "Palliative resection: to avoid obstructive complications (R1). (Book p124)"
+  },
+  {
+   "id": "SURG-C18-137",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "No resection is advised in carcinoid disease when the tumor is:",
+   "opts": [
+    "Irresectable or the patient has comorbidities",
+    "Localised",
+    "Regional",
+    "Less than 1 cm in the appendix"
+   ],
+   "ans": 0,
+   "exp": "No resection: due to irresectability or comorbidities. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-138",
+   "sec": "Carcinoid: Localisation & Surgical Management",
+   "page": 124,
+   "q": "Octreotide is used in carcinoid disease:",
+   "opts": [
+    "For metastases - it controls symptoms",
+    "To cure localised disease",
+    "As a screening test",
+    "To prevent bone metastases"
+   ],
+   "ans": 0,
+   "exp": "Octreotide: for metastases - controls symptoms. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-139",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 124,
+   "q": "Appendiceal carcinoids are m/c located at the:",
+   "opts": [
+    "Tip of the appendix",
+    "Base of the appendix",
+    "Mid appendix only",
+    "Mesenteric border"
+   ],
+   "ans": 0,
+   "exp": "Appendiceal carcinoid: m/c at the tip of the appendix. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-140",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 124,
+   "q": "An appendiceal carcinoid can present as:",
+   "opts": [
+    "Appendicitis",
+    "Carcinoid syndrome",
+    "Intussusception",
+    "Upper GI bleed"
+   ],
+   "ans": 0,
+   "exp": "Appendiceal carcinoid can present as appendicitis. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-141",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 124,
+   "q": "Appendiceal carcinoid < 1 cm has an excellent prognosis and is treated by:",
+   "opts": [
+    "Appendicectomy",
+    "Right hemicolectomy",
+    "Chemotherapy",
+    "Observation alone"
+   ],
+   "ans": 0,
+   "exp": "< 1 cm (excellent prognosis): appendicectomy. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-142",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 124,
+   "q": "For appendiceal carcinoids of 1-2 cm, further management is based on:",
+   "opts": [
+    "Mitotic figures and Ki-67",
+    "Patient's age only",
+    "Serum chromogranin A only",
+    "Size of the appendix"
+   ],
+   "ans": 0,
+   "exp": "1-2 cm: management based on mitotic figures and Ki-67. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-143",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 124,
+   "q": "Right hemicolectomy for appendiceal carcinoid is indicated for all of the following EXCEPT:",
+   "opts": [
+    "Tumor at the tip measuring 0.5 cm",
+    "Tumor >= 2 cm",
+    "Tumor close to the base",
+    "Infiltration of the mesoappendix"
+   ],
+   "ans": 0,
+   "exp": "Right hemicolectomy: tumor >= 2 cm, close to the base, or infiltrating the mesoappendix. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-144",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 124,
+   "q": "Infiltration of the mesoappendix by an appendiceal carcinoid warrants:",
+   "opts": [
+    "Right hemicolectomy",
+    "Simple appendicectomy",
+    "Observation",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Infiltration of the mesoappendix: right hemicolectomy. (Book p124)"
+  },
+  {
+   "id": "SURG-C18-145",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 125,
+   "q": "Type 1 gastric carcinoids are seen in:",
+   "opts": [
+    "Chronic atrophic gastritis with hypergastrinemia",
+    "Gastrinoma in MEN 1",
+    "Sporadic ECLomas unrelated to hypergastrinemia",
+    "Small cell neuroendocrine carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Type 1: ECLomas in chronic atrophic gastritis with hypergastrinemia - benign, non-functional, well differentiated. (Book p125)"
+  },
+  {
+   "id": "SURG-C18-146",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 125,
+   "q": "Type 2 gastric carcinoids are associated with:",
+   "opts": [
+    "Gastrinoma in MEN 1",
+    "Chronic atrophic gastritis",
+    "Pernicious anaemia",
+    "Small cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Type 2: ECLomas with hypergastrinemia as a result of gastrinoma in MEN 1. (Book p125)"
+  },
+  {
+   "id": "SURG-C18-147",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 125,
+   "q": "Type 3 gastric carcinoids are:",
+   "opts": [
+    "Sporadic ECLomas not related to hypergastrinemia",
+    "Associated with MEN 1",
+    "Associated with atrophic gastritis",
+    "Always benign"
+   ],
+   "ans": 0,
+   "exp": "Type 3: sporadic ECLomas, not related to hypergastrinemia - low grade malignant. (Book p125)"
+  },
+  {
+   "id": "SURG-C18-148",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 125,
+   "q": "Type 4 gastric carcinoid is:",
+   "opts": [
+    "High grade malignant neuroendocrine carcinoma with poor prognosis",
+    "A benign non-functional tumor",
+    "Always associated with MEN 1",
+    "Associated with chronic atrophic gastritis"
+   ],
+   "ans": 0,
+   "exp": "Type 4: intermediate or small cell type, high grade malignant (neuroendocrine carcinoma), causative factor unknown, poor prognosis. (Book p125)"
+  },
+  {
+   "id": "SURG-C18-149",
+   "sec": "Appendiceal & Gastric Carcinoids",
+   "page": 125,
+   "q": "ECL in the gastric carcinoid classification stands for:",
+   "opts": [
+    "Enterochromaffin-like",
+    "Enterochromaffin cell lymphoma",
+    "Endocrine cell lesion",
+    "Eosinophilic crypt lesion"
+   ],
+   "ans": 0,
+   "exp": "ECL: enterochromaffin-like; MEN: multiple endocrine neoplasia. (Book p125)"
+  },
+  {
+   "id": "SURG-C18-150",
+   "sec": "Adrenocortical Carcinoma",
+   "page": 125,
+   "q": "Adrenocortical carcinoma is seen in children and in the:",
+   "opts": [
+    "4th to 5th decade",
+    "1st decade only",
+    "7th decade",
+    "9th decade"
+   ],
+   "ans": 0,
+   "exp": "Adrenocortical carcinoma: children and 4th to 5th decade. (Book p125)"
+  },
+  {
+   "id": "SURG-C18-151",
+   "sec": "Adrenocortical Carcinoma",
+   "page": 125,
+   "q": "Adrenocortical carcinomas are:",
+   "opts": [
+    "Non-functional >> functional (aggressive)",
+    "Functional >> non-functional",
+    "Always functional",
+    "Always non-functional and benign"
+   ],
+   "ans": 0,
+   "exp": "Features: non-functional >> functional (aggressive). (Book p125)"
+  },
+  {
+   "id": "SURG-C18-152",
+   "sec": "Adrenocortical Carcinoma",
+   "page": 125,
+   "q": "The m/c functional presentation of adrenocortical carcinoma is:",
+   "opts": [
+    "Cushing's syndrome",
+    "Conn's syndrome",
+    "Pheochromocytoma",
+    "Addison's disease"
+   ],
+   "ans": 0,
+   "exp": "Cushing's syndrome is the m/c functional presentation. (Book p125)"
+  },
+  {
+   "id": "SURG-C18-153",
+   "sec": "Adrenocortical Carcinoma",
+   "page": 125,
+   "q": "The investigation of choice for adrenocortical carcinoma is:",
+   "opts": [
+    "MRI > CECT",
+    "CECT > MRI",
+    "Plain X-ray",
+    "Ultrasound only"
+   ],
+   "ans": 0,
+   "exp": "Investigations: IOC is MRI (> CECT). (Book p125)"
+  },
+  {
+   "id": "SURG-C18-154",
+   "sec": "Adrenocortical Carcinoma",
+   "page": 125,
+   "q": "The McFarlane classification of adrenocortical carcinoma is based on:",
+   "opts": [
+    "Size",
+    "Depth of invasion",
+    "Nodal status",
+    "Hormone secretion"
+   ],
+   "ans": 0,
+   "exp": "McFarlane classification: based on size. (Book p125)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U18-1",
+   "ch": 18,
+   "n": 1,
+   "title": "Adrenal Incidentaloma: Causes",
+   "sec": "Adrenal Incidentaloma: Causes · p117",
+   "qs": [
+    "SURG-C18-001",
+    "SURG-C18-002",
+    "SURG-C18-003",
+    "SURG-C18-004",
+    "SURG-C18-005",
+    "SURG-C18-006",
+    "SURG-C18-007"
+   ],
+   "guide": "Adrenal incidentaloma = an adrenal lesion found while imaging for something else; non-functional tumours are the commonest cause, followed by metastases (breast, lung, kidney) and functional lesions (Cushing's, carcinoma). The NCCT density is the great splitter: benign lesions are lipid-rich and read <= 10 HU."
+  },
+  {
+   "id": "SURG-U18-2",
+   "ch": 18,
+   "n": 2,
+   "title": "Adrenal Incidentaloma: Evaluation",
+   "sec": "Adrenal Incidentaloma: Evaluation · p117",
+   "qs": [
+    "SURG-C18-008",
+    "SURG-C18-009",
+    "SURG-C18-010",
+    "SURG-C18-011",
+    "SURG-C18-012",
+    "SURG-C18-013",
+    "SURG-C18-014",
+    "SURG-C18-015",
+    "SURG-C18-016"
+   ],
+   "guide": "Work every incidentaloma twice: is it functional (serum cortisol, urinary cortisol, dexamethasone suppression; plasma free metanephrines for pheochromocytoma; serum DHEA for cortical carcinoma) and is it malignant (>= 4 cm, > 10 HU, CECT washout, FDG PET uptake). FNAC only after pheochromocytoma is excluded - needling one can be fatal."
+  },
+  {
+   "id": "SURG-U18-3",
+   "ch": 18,
+   "n": 3,
+   "title": "Management of Unilateral Adrenal Mass",
+   "sec": "Management of Unilateral Adrenal Mass · p118",
+   "qs": [
+    "SURG-C18-017",
+    "SURG-C18-018",
+    "SURG-C18-019",
+    "SURG-C18-020",
+    "SURG-C18-021",
+    "SURG-C18-022",
+    "SURG-C18-023",
+    "SURG-C18-024"
+   ],
+   "guide": "Unilateral adrenal mass: suspicion of malignancy with local invasion goes straight to open adrenalectomy; <= 6 cm without invasion is laparoscopic; odd cases get an individualised plan. Non-functional and < 4 cm/benign: no surgery, just CT or MRI every 3-6 months; >= 4 cm, malignant features or significant growth - adrenalectomy."
+  },
+  {
+   "id": "SURG-U18-4",
+   "ch": 18,
+   "n": 4,
+   "title": "Pheochromocytoma: Basics & Paraganglioma",
+   "sec": "Pheochromocytoma: Basics & Paraganglioma · p118",
+   "qs": [
+    "SURG-C18-025",
+    "SURG-C18-026",
+    "SURG-C18-027",
+    "SURG-C18-028",
+    "SURG-C18-029",
+    "SURG-C18-030",
+    "SURG-C18-031",
+    "SURG-C18-032",
+    "SURG-C18-033",
+    "SURG-C18-034"
+   ],
+   "guide": "Pheochromocytoma is an adrenal-medulla tumour (M = F) and the classic 'rule of 10' applies: 10% familial, bilateral, malignant, extra-adrenal and in children. Paraganglioma is the extra-adrenal counterpart - sympathetic chain (organ of Zuckerkandl, the commonest site) or parasympathetic chain (carotid body)."
+  },
+  {
+   "id": "SURG-U18-5",
+   "ch": 18,
+   "n": 5,
+   "title": "Familial Pheochromocytoma Syndromes",
+   "sec": "Familial Pheochromocytoma Syndromes · p119",
+   "qs": [
+    "SURG-C18-035",
+    "SURG-C18-036",
+    "SURG-C18-037",
+    "SURG-C18-038",
+    "SURG-C18-039",
+    "SURG-C18-040",
+    "SURG-C18-041",
+    "SURG-C18-042",
+    "SURG-C18-043",
+    "SURG-C18-044",
+    "SURG-C18-045",
+    "SURG-C18-046",
+    "SURG-C18-047",
+    "SURG-C18-048",
+    "SURG-C18-049",
+    "SURG-C18-050",
+    "SURG-C18-051",
+    "SURG-C18-052",
+    "SURG-C18-053"
+   ],
+   "guide": "Know the familial syndromes by their gene and their signature partner lesions: MEN 2A (RET) triad = MTC + pheochromocytoma + parathyroid hyperplasia; MEN 2B (RET) = marfanoid habitus and mucocutaneous ganglioneuromas; NF1 (neurofibromin) = neurofibromas, cafe-au-lait spots, optic glioma; VHL = RCC, hemangioblastoma, pancreatic endocrine tumour; SDHD/SDHB/SDHC = familial paragangliomas 1/4/3."
+  },
+  {
+   "id": "SURG-U18-6",
+   "ch": 18,
+   "n": 6,
+   "title": "Histopathology & IHC of Pheochromocytoma",
+   "sec": "Histopathology & IHC of Pheochromocytoma · p119",
+   "qs": [
+    "SURG-C18-054",
+    "SURG-C18-055",
+    "SURG-C18-056",
+    "SURG-C18-057",
+    "SURG-C18-058",
+    "SURG-C18-059",
+    "SURG-C18-060",
+    "SURG-C18-061"
+   ],
+   "guide": "Cut surface is tan-brown because of the chromaffin reaction, with necrosis and haemorrhage; microscopy shows the Zellballen (cell-ball) nests with salt-and-pepper chromatin. IHC is neuroendocrine: synaptophysin, neuron-specific enolase and chromogranin."
+  },
+  {
+   "id": "SURG-U18-7",
+   "ch": 18,
+   "n": 7,
+   "title": "Malignant Pheochromocytoma & Secretory Profile",
+   "sec": "Malignant Pheochromocytoma & Secretory Profile · p120",
+   "qs": [
+    "SURG-C18-062",
+    "SURG-C18-063",
+    "SURG-C18-064",
+    "SURG-C18-065",
+    "SURG-C18-066",
+    "SURG-C18-067"
+   ],
+   "guide": "Malignancy is proven only by metastases - histology alone cannot call it. The PASS score weighs Ki-67 proliferation, vascular invasion and capsular invasion. Secretory fingerprint: adrenal tumours noradrenaline > adrenaline, paragangliomas noradrenaline, malignant lesions dopamine."
+  },
+  {
+   "id": "SURG-U18-8",
+   "ch": 18,
+   "n": 8,
+   "title": "Clinical Features of Pheochromocytoma",
+   "sec": "Clinical Features of Pheochromocytoma · p120",
+   "qs": [
+    "SURG-C18-068",
+    "SURG-C18-069",
+    "SURG-C18-070",
+    "SURG-C18-071",
+    "SURG-C18-072"
+   ],
+   "guide": "Episodic headache is the commonest symptom and hypertension the commonest sign; add sweating, palpitations and weight loss. The classic triad is episodic headache, sweating and palpitations in a hypertensive young patient."
+  },
+  {
+   "id": "SURG-U18-9",
+   "ch": 18,
+   "n": 9,
+   "title": "Investigations of Pheochromocytoma",
+   "sec": "Investigations of Pheochromocytoma · p120",
+   "qs": [
+    "SURG-C18-073",
+    "SURG-C18-074",
+    "SURG-C18-075",
+    "SURG-C18-076",
+    "SURG-C18-077",
+    "SURG-C18-078",
+    "SURG-C18-079"
+   ],
+   "guide": "Screen with 24-hour urinary VMA (vanillyl mandelic acid); plasma free metanephrines is the most sensitive test; MRI is the investigation of choice and gives the light-bulb/Swiss-cheese appearance; gallium dotatate scan for extra-adrenal disease and metastases (bones and liver are the usual targets)."
+  },
+  {
+   "id": "SURG-U18-10",
+   "ch": 18,
+   "n": 10,
+   "title": "Management of Pheochromocytoma",
+   "sec": "Management of Pheochromocytoma · p121",
+   "qs": [
+    "SURG-C18-080",
+    "SURG-C18-081",
+    "SURG-C18-082",
+    "SURG-C18-083",
+    "SURG-C18-084",
+    "SURG-C18-085"
+   ],
+   "guide": "Never block beta first: alpha blockade (phenoxybenzamine) comes first, then a beta blocker only if tachycardia - otherwise unopposed alpha action causes vasospasm and hypertensive crisis. Definitive treatment is laparoscopic or open adrenalectomy; clipping the adrenal vein causes sudden hypotension, prevented by generous IV fluids +/- vasopressors."
+  },
+  {
+   "id": "SURG-U18-11",
+   "ch": 18,
+   "n": 11,
+   "title": "Pheochromocytoma in Pregnancy",
+   "sec": "Pheochromocytoma in Pregnancy · p121",
+   "qs": [
+    "SURG-C18-086",
+    "SURG-C18-087"
+   ],
+   "guide": "In pregnancy, alpha blockade then surgery in the 1st or 2nd trimester; in the 3rd trimester, alpha blockade, early delivery, then surgery."
+  },
+  {
+   "id": "SURG-U18-12",
+   "ch": 18,
+   "n": 12,
+   "title": "Neuroblastoma: Features & Presentation",
+   "sec": "Neuroblastoma: Features & Presentation · p121",
+   "qs": [
+    "SURG-C18-088",
+    "SURG-C18-089",
+    "SURG-C18-090",
+    "SURG-C18-091",
+    "SURG-C18-092",
+    "SURG-C18-093",
+    "SURG-C18-094",
+    "SURG-C18-095",
+    "SURG-C18-096"
+   ],
+   "guide": "Neuroblastoma is the commonest abdominal malignancy of childhood (more than Wilms'), arising from the adrenal medulla more often than the sympathetic chain, with N-myc amplification, sporadic or familial. Around 5 years of age it presents as an abdominal mass crossing the midline; 50-70% already have metastases, with the tell-tale raccoon eyes and blueberry muffin skin nodules."
+  },
+  {
+   "id": "SURG-U18-13",
+   "ch": 18,
+   "n": 13,
+   "title": "Neuroblastoma: Investigations & Prognosis",
+   "sec": "Neuroblastoma: Investigations & Prognosis · p122",
+   "qs": [
+    "SURG-C18-097",
+    "SURG-C18-098",
+    "SURG-C18-099",
+    "SURG-C18-100",
+    "SURG-C18-101",
+    "SURG-C18-102",
+    "SURG-C18-103",
+    "SURG-C18-104",
+    "SURG-C18-105",
+    "SURG-C18-106"
+   ],
+   "guide": "MRI beats CT as the IOC and MIBG scintigraphy picks up metastases; exclude Wilms' tumour (renal origin, does not cross the midline, may calcify). Biopsy shows small round blue cells - the family that also includes retinoblastoma, hepatoblastoma, medulloblastoma, nephroblastoma, rhabdomyosarcoma, Ewing's/PNET and lymphoma. Good prognosis: stage 1, 2A, 2B or 4S, age < 18 months, N-myc not amplified."
+  },
+  {
+   "id": "SURG-U18-14",
+   "ch": 18,
+   "n": 14,
+   "title": "Neuroblastoma: Management",
+   "sec": "Neuroblastoma: Management · p122",
+   "qs": [
+    "SURG-C18-107",
+    "SURG-C18-108"
+   ],
+   "guide": "Treatment is etoposide plus cisplatin chemotherapy together with surgery; even metastatic disease is treated aggressively because survival is genuinely good."
+  },
+  {
+   "id": "SURG-U18-15",
+   "ch": 18,
+   "n": 15,
+   "title": "Carcinoid Tumors: Origin & Sites",
+   "sec": "Carcinoid Tumors: Origin & Sites · p122",
+   "qs": [
+    "SURG-C18-109",
+    "SURG-C18-110",
+    "SURG-C18-111",
+    "SURG-C18-112",
+    "SURG-C18-113",
+    "SURG-C18-114",
+    "SURG-C18-115",
+    "SURG-C18-116",
+    "SURG-C18-117"
+   ],
+   "guide": "Carcinoid tumours - now called neuroendocrine tumours - arise from neuroendocrine cells, most often in the appendix, then small bowel, rectum and lung; foregut (lung, stomach), midgut (small intestine, appendix) and hindgut (colon, rectum) behave differently, bone is the commonest metastatic site, and serotonin they make is normally destroyed by the liver."
+  },
+  {
+   "id": "SURG-U18-16",
+   "ch": 18,
+   "n": 16,
+   "title": "Carcinoid Syndrome: Features & Investigations",
+   "sec": "Carcinoid Syndrome: Features & Investigations · p123",
+   "qs": [
+    "SURG-C18-118",
+    "SURG-C18-119",
+    "SURG-C18-120",
+    "SURG-C18-121",
+    "SURG-C18-122",
+    "SURG-C18-123",
+    "SURG-C18-124",
+    "SURG-C18-125",
+    "SURG-C18-126",
+    "SURG-C18-127"
+   ],
+   "guide": "Carcinoid syndrome needs liver metastases - only then do hormones bypass hepatic metabolism; it affects about 10%. Flushing is the commonest symptom (pain for abdominal primaries), with diarrhoea, weight loss, bronchospasm and right-sided tricuspid valve disease. Test urine for 5-HIAA (the serotonin metabolite) and blood for chromogranin A."
+  },
+  {
+   "id": "SURG-U18-17",
+   "ch": 18,
+   "n": 17,
+   "title": "Carcinoid: Localisation & Surgical Management",
+   "sec": "Carcinoid: Localisation & Surgical Management · p124",
+   "qs": [
+    "SURG-C18-128",
+    "SURG-C18-129",
+    "SURG-C18-130",
+    "SURG-C18-131",
+    "SURG-C18-132",
+    "SURG-C18-133",
+    "SURG-C18-134",
+    "SURG-C18-135",
+    "SURG-C18-136",
+    "SURG-C18-137",
+    "SURG-C18-138"
+   ],
+   "guide": "Localise with CT, somatostatin-receptor scintigraphy or Dotatate PET; high Ki-67 means malignancy/metastases. Localised disease gets radical R0 resection, regional disease resection of primary plus mesenteric nodes, distant disease only palliative resection to prevent obstruction; irresectable disease or comorbid patients are palliated with octreotide, which controls symptoms."
+  },
+  {
+   "id": "SURG-U18-18",
+   "ch": 18,
+   "n": 18,
+   "title": "Appendiceal & Gastric Carcinoids",
+   "sec": "Appendiceal & Gastric Carcinoids · p124",
+   "qs": [
+    "SURG-C18-139",
+    "SURG-C18-140",
+    "SURG-C18-141",
+    "SURG-C18-142",
+    "SURG-C18-143",
+    "SURG-C18-144",
+    "SURG-C18-145",
+    "SURG-C18-146",
+    "SURG-C18-147",
+    "SURG-C18-148",
+    "SURG-C18-149"
+   ],
+   "guide": "Appendix: usually the tip, may mimic appendicitis; < 1 cm = appendicectomy (excellent prognosis), 1-2 cm is decided by mitotic figures and Ki-67, and right hemicolectomy for >= 2 cm, base involvement or mesoappendix infiltration. Gastric carcinoids: type 1 atrophic gastritis/hypergastrinaemia, type 2 gastrinoma in MEN 1, type 3 sporadic ECLoma, type 4 high-grade small-cell type with poor prognosis."
+  },
+  {
+   "id": "SURG-U18-19",
+   "ch": 18,
+   "n": 19,
+   "title": "Adrenocortical Carcinoma",
+   "sec": "Adrenocortical Carcinoma · p125",
+   "qs": [
+    "SURG-C18-150",
+    "SURG-C18-151",
+    "SURG-C18-152",
+    "SURG-C18-153",
+    "SURG-C18-154"
+   ],
+   "guide": "Adrenocortical carcinoma hits children and the 4th-5th decade, is usually non-functional and therefore aggressive, and when functional it presents as Cushing's. MRI beats CECT as the IOC, and the McFarlane classification stages it by size."
+  }
+ ]
+}

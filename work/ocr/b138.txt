@@ -1,0 +1,81 @@
+### raw
+138
+Gastrointestinal andAbdominal Surgery
+management :
+.---- Active space --.
+modalities
+Botox
+Balloondilatation
+Surgeries
+Laparoscopic
+WBOd
+Open
+1. Botox :
+cause_ Relaxation.
+· Inject botulinum toxin
+·Adverse effects:
+-Highest rate of recurrence.
+- Repeat administration
+Fibrosis.
+·Indications :
+- Elderly patients with co-morbidities.
+a. Balloon (Pneumatic) dilatation :
+ Insert to esophagus> Inflate.
+·Deflated balloon
+· Serial dilatations : Similar efficacy to sx myotomy.
+· Best responders :
+- >4s years.
+- Females.
+- Previously undilated esophagus.
+Type a achalasia.
+Risk of perforation : ↓ with balloon <30 mm.
+3. Surgeries :
+Heller's myotomy
+POem (Per Oral endoscopic myotomy)
+Cut muscle 6 cm proximal  a-3 cm distal
+Procedure
+Type of NOTeS (Natural orifice
+to Ge junction
+transluminal endoscopic Sx)
+Response
+Surgical outcome : Type 1 a > 3
+Type 3  other spastic conditions 
+respond best
+Complication
+m/c : GeRD (Prevented by fundoplication)
+↑ ↑ risk of GERD
+Achalasia type
+Best mx
+Removecircular
+Closure of
+Type 1
+Heller's myotomy
+mucosal
+muscle layer
+tunnel
+entry
+Heller's +
+(hwoohw)
+entry
+Type a
+Pneumatic dilation
+Type 3
+WBOd
+W3Od
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+138  Gastrointestinal andAbdominal Surgery
+.---- Active space --.  management :  modalities
+Botox  Balloondilatation  Open  Laparoscopic  Surgeries  WBOd
+1. Botox :  · Inject botulinum toxin  cause_ Relaxation.
+·Adverse effects:  - Repeat administration  -Highest rate of recurrence.  Fibrosis.
+·Indications :  - Elderly patients with co-morbidities.
+a. Balloon (Pneumatic) dilatation :  ·Deflated balloon   Insert to esophagus> Inflate.
+· Serial dilatations : Similar efficacy to sx myotomy.  · Best responders :  - >4s years.
+- Females.  - Previously undilated esophagus.  Type a achalasia.
+3. Surgeries :  Risk of perforation : ↓ with balloon <30 mm.
+Procedure  Cut muscle 6 cm proximal  a-3 cm distal  Heller's myotomy  to Ge junction  POem (Per Oral endoscopic myotomy)  Type of NOTeS (Natural orifice  transluminal endoscopic Sx)
+Complication  Response  m/c : GeRD (Prevented by fundoplication)  Surgical outcome : Type 1 a > 3  Type 3  other spastic conditions   ↑ ↑ risk of GERD  respond best
+Achalasia type  Type 1  Heller's myotomy  Heller's +  Best mx  mucosal  entry  tunnel  Removecircular  muscle layer  (hwoohw)  Closure of  entry
+Type 3  Type a  Pneumatic dilation  WBOd
+Surgery·v1.0·Marrow 8.0·2024  W3Od

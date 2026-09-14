@@ -1,0 +1,77 @@
+### raw
+124
+Endocrine System
+.....Active space --
+CTscan
+To localize lesion
+Serotonin/somatostatin
+receptor scintigraphy
+HighKio7
+malignancy/mets
+DotatatePeTscanlocalises
+mets)
+management :
+DotatePET Scan
+Surgery
+Chemotherapy : malignant 
+Disease status
+Localised
+Regional
+Distant
+Stage
+(2)=
+Iv (m)
+Surgical
+Rodical resection
+Radical -Curative
+Palliative
+No resection
+approach
+intent
+resection
+Resection of
+Resection of
+Due to
+·Primary
+Irresectable
+·Nodes (along
+·Nodes (along mesentery)
+Comorbidities
+mesentery)
+·Liver metastases
+Aim
+R.microscopic freedom
+R。
+To avoid
+from disease
+obstructive
+complications(RI)
+·Octreotide : For metastases (controls symptoms)
+Appendiceal carcinoid:
+·m/c: Present at tip of appendix
+· Can present as appendicitis
+Treatment:
+a. <I cm (excellent prognosis) :
+c. Right hemicolectomy
+Appendicectomy 
+·7acm
+b.I-a cm:Based onmitotic
+·Close to base
+fgures Kilo7
+·Inflitration of
+mesoappendix
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+124  Endocrine System  CTscan
+.....Active space --  To localize lesion  Serotonin/somatostatin  receptor scintigraphy
+malignancy/mets  DotatatePeTscanlocalises  HighKio7  mets)
+management :  DotatePET Scan
+Disease status  Stage  Localised  Surgery  Regional  (2)=  Chemotherapy : malignant   Iv (m)  Distant
+approach  Surgical  Resection of  Rodical resection  Resection of  Radical -Curative  intent  resection  Palliative  Due to  No resection
+·Primary  ·Nodes (along  mesentery)  ·Liver metastases  ·Nodes (along mesentery)  Comorbidities  Irresectable
+Aim  R.microscopic freedom  from disease  R。  complications(RI)  obstructive  To avoid
+Appendiceal carcinoid:  ·m/c: Present at tip of appendix  ·Octreotide : For metastases (controls symptoms)
+Treatment:  a. <I cm (excellent prognosis) :  · Can present as appendicitis  c. Right hemicolectomy
+b.I-a cm:Based onmitotic  Appendicectomy   fgures Kilo7  ·Close to base  ·7acm  ·Inflitration of
+mesoappendix
+Surgery·v1.0·Marrow 8.0·2024
