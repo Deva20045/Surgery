@@ -1,0 +1,2626 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C40-001",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "The most common carcinoma of the pancreas is:",
+   "opts": [
+    "Pancreatic ductal adenocarcinoma",
+    "Insulinoma",
+    "Gastrinoma",
+    "Glucagonoma"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic ductal adenocarcinoma: m/c carcinoma of pancreas. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-002",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "Which of the following is a risk factor for pancreatic ductal adenocarcinoma?",
+   "opts": [
+    "Smoking",
+    "Tonsillitis",
+    "Otitis media",
+    "Sinusitis"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: smoking, obesity, African American ethnicity, genetic factors, chronic pancreatitis, syndromes. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-003",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "Which of the following is a risk factor for pancreatic cancer?",
+   "opts": [
+    "African American ethnicity",
+    "Cystic fibrosis only",
+    "Down's syndrome",
+    "Addison's disease"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: African American ethnicity. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-004",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "The PRSS1 gene is associated with which pancreatic condition as a risk factor for cancer?",
+   "opts": [
+    "Hereditary pancreatitis",
+    "Tropical calcific pancreatitis",
+    "Pancreas divisum",
+    "Duodenal atresia"
+   ],
+   "ans": 0,
+   "exp": "Genetic factors: PRSS1 gene — hereditary pancreatitis. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-005",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "The SPINK1 gene is associated with:",
+   "opts": [
+    "Tropical calcific pancreatitis",
+    "Hereditary pancreatitis",
+    "Chronic cholecystitis",
+    "Gastric ulcer"
+   ],
+   "ans": 0,
+   "exp": "Genetic factors: SPINK1 gene — tropical calcific pancreatitis. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-006",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "Which syndrome raises the risk of pancreatic cancer by 100 folds?",
+   "opts": [
+    "STK11 Peutz-Jeghers syndrome",
+    "Turner syndrome",
+    "Down's syndrome",
+    "Marfan syndrome"
+   ],
+   "ans": 0,
+   "exp": "Syndromes: STK11 Peutz-Jeghers syndrome — risk of pancreatic cancer raised by 100 folds. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-007",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "Which of the following is a syndrome listed as a risk factor for pancreatic cancer?",
+   "opts": [
+    "Familial atypical mole and multiple melanoma syndrome",
+    "Carpal tunnel syndrome",
+    "Horner's syndrome",
+    "Raynaud's phenomenon"
+   ],
+   "ans": 0,
+   "exp": "Syndromes: familial atypical mole and multiple melanoma syndrome, cystic fibrosis, BRCA-2 gene mutation, Lynch syndrome, familial adenomatous polyposis. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-008",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "Familial adenomatous polyposis raises the risk of:",
+   "opts": [
+    "Periampullary cancer and pancreatic ductal adenocarcinoma",
+    "Only colon polyps",
+    "Only thyroid cancer",
+    "Only oral cancer"
+   ],
+   "ans": 0,
+   "exp": "Syndromes: familial adenomatous polyposis — risk of periampullary cancer, pancreatic ductal adenocarcinoma. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-009",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "The BRCA-2 gene predisposes to which combination of cancers?",
+   "opts": [
+    "Pancreatic, prostate and male breast cancer",
+    "Only breast cancer",
+    "Only lung cancer",
+    "Only thyroid cancer"
+   ],
+   "ans": 0,
+   "exp": "Note: BRCA-2 gene predisposes to pancreatic, prostate, male breast cancer. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-010",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "Lynch syndrome raises the risk of:",
+   "opts": [
+    "Colorectal cancer",
+    "Only melanoma",
+    "Only oral cancer",
+    "Only skin sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Note: Lynch — raised risk of colorectal cancer. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-011",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "PanIN stands for:",
+   "opts": [
+    "Pancreatic intraepithelial neoplasia",
+    "Pancreatic intraductal neoplasm",
+    "Pancreatic interstitial neuroendocrine",
+    "Primary acinar node infarction"
+   ],
+   "ans": 0,
+   "exp": "PanIN: pancreatic intraepithelial neoplasia. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-012",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "In the PanIN sequence, the first and most common mutation is:",
+   "opts": [
+    "K-ras (in PanIN-1A and 1B)",
+    "CDKN2A",
+    "p53",
+    "SMAD4"
+   ],
+   "ans": 0,
+   "exp": "PanIN diagram: PanIN-1A/1B — K-ras, 1st and m/c mutation. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-013",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "In the PanIN sequence, the mutation seen at PanIN-2A is:",
+   "opts": [
+    "CDKN2A",
+    "K-ras",
+    "p53",
+    "SMAD4"
+   ],
+   "ans": 0,
+   "exp": "PanIN diagram: PanIN-2A — CDKN2A. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-014",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "In the PanIN sequence, PanIN-3 carries which mutations before the final hit?",
+   "opts": [
+    "p53 and SMAD4",
+    "K-ras and CDKN2A",
+    "Only K-ras",
+    "BRCA-2 and TP53"
+   ],
+   "ans": 0,
+   "exp": "PanIN diagram: PanIN-3 — p53, SMAD4, then final hit. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-015",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "page": 297,
+   "q": "The mnemonic for the pancreatic cancer mutation sequence (K-ras, p53, SMAD4) is:",
+   "opts": [
+    "K53",
+    "K75",
+    "K12",
+    "K9"
+   ],
+   "ans": 0,
+   "exp": "Mnemonic: K53. (Book p297)"
+  },
+  {
+   "id": "SURG-C40-016",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "Periampullary carcinoma is a group of how many cancers within 2 cm of the ampullary opening?",
+   "opts": [
+    "Four",
+    "Two",
+    "Three",
+    "Five"
+   ],
+   "ans": 0,
+   "exp": "Periampullary carcinoma: group of 4 cancers within 2 cm of ampullary opening. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-017",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "Which of the following is one of the four periampullary cancers?",
+   "opts": [
+    "Ampullary variety",
+    "Insulinoma",
+    "Glucagonoma",
+    "Ganglioneuroma"
+   ],
+   "ans": 0,
+   "exp": "Periampullary: 1. Carcinoma head of pancreas, 2. Ampullary variety, 3. Cholangiocarcinoma of distal CBD, 4. Duodenal adenocarcinoma. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-018",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "The four periampullary cancers share:",
+   "opts": [
+    "Similar presentation and management",
+    "Different management only",
+    "Different presentation only",
+    "No relation at all"
+   ],
+   "ans": 0,
+   "exp": "Periampullary carcinoma: similar presentation and Mx. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-019",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "The most common presentation of periampullary carcinoma is:",
+   "opts": [
+    "Progressive obstructive jaundice due to CBD obstruction",
+    "Non-bilious vomiting",
+    "Haematemesis",
+    "Chronic diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Clinical presentation: progressive obstructive jaundice d/t CBD obstruction — m/c presentation. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-020",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "Obstructive jaundice from a periampullary tumour is also called:",
+   "opts": [
+    "Surgical jaundice",
+    "Hepatic jaundice",
+    "Haemolytic jaundice",
+    "Physiological jaundice"
+   ],
+   "ans": 0,
+   "exp": "Clinical presentation: aka surgical jaundice. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-021",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "Pain in pancreatic carcinoma is of high intensity when the tumour is in the:",
+   "opts": [
+    "Tail and body",
+    "Head only",
+    "Uncinate process only",
+    "Ampulla only"
+   ],
+   "ans": 0,
+   "exp": "Clinical presentation: pain — high intensity in tail and body. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-022",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "Waxing and waning jaundice is a specific presentation of:",
+   "opts": [
+    "The ampullary variety",
+    "Body tumour only",
+    "Tail tumour only",
+    "Duodenal adenocarcinoma only"
+   ],
+   "ans": 0,
+   "exp": "Specific presentations: waxing and waning of jaundice — seen in ampullary variety. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-023",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "In waxing jaundice of an ampullary tumour, the fall in jaundice is associated with:",
+   "opts": [
+    "Melena",
+    "Constipation",
+    "Weight gain",
+    "Pallor only"
+   ],
+   "ans": 0,
+   "exp": "Waxing and waning: decreased jaundice — associated with melena (friable tumour growth obstructs bile, then sloughs off, causing decreased jaundice and melena). (Book p298)"
+  },
+  {
+   "id": "SURG-C40-024",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "Gastric outlet obstruction with jaundice is a specific presentation of:",
+   "opts": [
+    "Duodenal adenocarcinoma",
+    "Insulinoma",
+    "Tail tumour",
+    "Gastrinoma only"
+   ],
+   "ans": 0,
+   "exp": "Specific presentations: gastric outlet obstruction — seen in duodenal adenocarcinoma, associated with jaundice. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-025",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "Courvoisier's law states that obstructive jaundice with a palpable gallbladder is:",
+   "opts": [
+    "Seldom due to stone disease",
+    "Almost always due to stones",
+    "Always due to a Phrygian cap",
+    "Due to hepatitis"
+   ],
+   "ans": 0,
+   "exp": "Courvoisier's law: obstructive jaundice + palpable gallbladder — seldom d/t stone disease. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-026",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "A tumour blocking the CBD produces:",
+   "opts": [
+    "A dilated biliary tree and a distended, palpable, pyriform gallbladder",
+    "A shrunken gallbladder",
+    "A normal biliary tree",
+    "A calcified gallbladder only"
+   ],
+   "ans": 0,
+   "exp": "Courvoisier's law: tumour blocking CBD — obstruction, dilated biliary tree, distended gallbladder (palpable, pyriform shaped). (Book p298)"
+  },
+  {
+   "id": "SURG-C40-027",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 298,
+   "q": "In gall stone obstruction of the CBD, the gallbladder does NOT distend because of:",
+   "opts": [
+    "Inflammatory fibrosis of the gallbladder",
+    "Normal physiology",
+    "Pyloric stenosis",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Courvoisier's law: gall stones causing obstruction of CBD — no distension of GB d/t inflammatory fibrosis of gallbladder; jaundice plus shrunken gallbladder. (Book p298)"
+  },
+  {
+   "id": "SURG-C40-028",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 299,
+   "q": "An exception to Courvoisier's law is:",
+   "opts": [
+    "Primary CBD stones (10% of cases)",
+    "Pancreatitis",
+    "Appendicitis",
+    "Hernia"
+   ],
+   "ans": 0,
+   "exp": "Exceptions: primary CBD stones (10% cases). (Book p299)"
+  },
+  {
+   "id": "SURG-C40-029",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 299,
+   "q": "Which of the following is an exception to Courvoisier's law?",
+   "opts": [
+    "Double impaction of stone",
+    "A Phrygian cap",
+    "A WES sign",
+    "Bouveret syndrome"
+   ],
+   "ans": 0,
+   "exp": "Exceptions: double impaction of stone, oriental cholangiohepatitis, Mirizzi syndrome. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-030",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 299,
+   "q": "Oriental cholangiohepatitis, an exception to Courvoisier's law, is due to infection by:",
+   "opts": [
+    "The Chinese liver fluke",
+    "Echinococcus",
+    "Taenia solium",
+    "Entamoeba"
+   ],
+   "ans": 0,
+   "exp": "Exceptions: oriental cholangiohepatitis — d/t infection by Chinese liver fluke. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-031",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law",
+   "page": 299,
+   "q": "Mirizzi syndrome, an exception to Courvoisier's law, involves:",
+   "opts": [
+    "A fistula between the gallbladder and the CBD",
+    "A fistula to the stomach",
+    "A fistula to the colon",
+    "A patent ampulla"
+   ],
+   "ans": 0,
+   "exp": "Exceptions: Mirizzi syndrome — fistula between gallbladder and CBD. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-032",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "The investigation of choice for pancreatic carcinoma is:",
+   "opts": [
+    "CECT",
+    "USG alone",
+    "Plain X-ray",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CECT — IOC. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-033",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "Duodenography in pancreatic carcinoma shows:",
+   "opts": [
+    "The Frostberg reverse 3 sign",
+    "A double bubble sign",
+    "A sentinel loop",
+    "A WES sign"
+   ],
+   "ans": 0,
+   "exp": "Duodenography: Frostberg reverse 3 sign. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-034",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "Duodenography for pancreatic carcinoma is:",
+   "opts": [
+    "Obsolete",
+    "The current gold standard",
+    "The IOC",
+    "Never done"
+   ],
+   "ans": 0,
+   "exp": "Duodenography: obsolete. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-035",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "The X-ray finding in pancreatic carcinoma is:",
+   "opts": [
+    "Widening of the duodenal loops",
+    "A double bubble",
+    "Free air",
+    "Pneumobilia"
+   ],
+   "ans": 0,
+   "exp": "X-ray: widening of duodenal loops. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-036",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "The double duct sign on MRCP/ERCP means:",
+   "opts": [
+    "Blockage of the ampullary opening with widening of the pancreatic duct and CBD",
+    "A dilated gallbladder only",
+    "Air in the biliary tree",
+    "A sentinel loop"
+   ],
+   "ans": 0,
+   "exp": "MRCP, ERCP — double duct sign: blockage of ampullary opening, widening of pancreatic duct and CBD. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-037",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "When the radiological diagnosis of a pancreatic head mass is in doubt, the next step is:",
+   "opts": [
+    "Transgastric EUS guided FNAC",
+    "Laparotomy without biopsy",
+    "Observation for 6 months",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "Radiological diagnosis, in doubt — trans gastric EUS guided FNAC (EUS — endoscopic guided ultrasound). (Book p299)"
+  },
+  {
+   "id": "SURG-C40-038",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "CA 19-9 in pancreatic cancer is:",
+   "opts": [
+    "A predictive and prognostic marker",
+    "Only a therapeutic target",
+    "A radiological sign",
+    "A histological grade"
+   ],
+   "ans": 0,
+   "exp": "CA 19-9: predictive and prognostic marker. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-039",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "CA 19-9 helps identify patients for:",
+   "opts": [
+    "Staging laparoscopy",
+    "Cholecystectomy",
+    "Hernia repair",
+    "Appendectomy"
+   ],
+   "ans": 0,
+   "exp": "CA 19-9: identifies patients for staging laparoscopy — done prior to definitive Sx in GI tumors to identify metastases. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-040",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "A raised CA 19-9 is an indication for:",
+   "opts": [
+    "Staging laparoscopy",
+    "Immediate Whipple's surgery",
+    "No further workup",
+    "Cholecystectomy"
+   ],
+   "ans": 0,
+   "exp": "CA 19-9: raised CA 19-9 — indication for staging laparoscopy. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-041",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "A normal CA 19-9 after neoadjuvant chemotherapy is:",
+   "opts": [
+    "An important prognostic marker (not specific)",
+    "Irrelevant",
+    "A sign of metastasis",
+    "A contraindication to surgery"
+   ],
+   "ans": 0,
+   "exp": "CA 19-9 (normal) after neoadjuvant chemotherapy — important prognostic marker (not specific). (Book p299)"
+  },
+  {
+   "id": "SURG-C40-042",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "Which of the following conditions shows a raised CA 19-9?",
+   "opts": [
+    "Cholangiocarcinoma",
+    "Appendicitis",
+    "Hernia",
+    "Hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "Conditions with raised CA 19-9: cholangio-carcinoma, gall bladder cancer, pancreatic cancer. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-043",
+   "sec": "Investigation of Pancreatic Cancer",
+   "page": 299,
+   "q": "Staging of pancreatic cancer uses PET CT, which stands for:",
+   "opts": [
+    "Positron emission tomography",
+    "Plain enhanced thoracic contrast",
+    "Pancreatic enzymatic tomography",
+    "Percutaneous endoscopic transluminal"
+   ],
+   "ans": 0,
+   "exp": "Staging: PET CT — positron emitted tomography. (Book p299)"
+  },
+  {
+   "id": "SURG-C40-044",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "In the AJCC classification (7th and 8th editions), T1 pancreatic cancer is:",
+   "opts": [
+    "Diameter 2 cm or less",
+    "Diameter 2-4 cm",
+    "Diameter more than 4 cm",
+    "Adjacent structure involvement"
+   ],
+   "ans": 0,
+   "exp": "AJCC: T1 — diameter ≤2 cm. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-045",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "T2 pancreatic cancer is:",
+   "opts": [
+    "Diameter 2-4 cm",
+    "Diameter ≤2 cm",
+    "Diameter >4 cm",
+    "Adjacent structure involvement"
+   ],
+   "ans": 0,
+   "exp": "AJCC: T2 — diameter 2-4 cm. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-046",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "T3 pancreatic cancer is:",
+   "opts": [
+    "Diameter more than 4 cm",
+    "Diameter ≤2 cm",
+    "Diameter 2-4 cm",
+    "Carcinoma in situ"
+   ],
+   "ans": 0,
+   "exp": "AJCC: T3 — diameter >4 cm. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-047",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "T4 pancreatic cancer is defined by:",
+   "opts": [
+    "Adjacent structure involvement",
+    "Size only",
+    "Lymph node count only",
+    "A normal size"
+   ],
+   "ans": 0,
+   "exp": "AJCC: T4 — adjacent structure involvement. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-048",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "The most common site of distant metastasis (M1) in pancreatic cancer is:",
+   "opts": [
+    "The liver",
+    "The lung",
+    "The bone",
+    "The brain"
+   ],
+   "ans": 0,
+   "exp": "Metastasis staging: M1 — distant metastasis, m/c site — liver. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-049",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "In nodal staging, N1 pancreatic cancer means:",
+   "opts": [
+    "1-3 regional nodes",
+    "No regional nodes",
+    "More than 3 regional nodes",
+    "Distant nodes only"
+   ],
+   "ans": 0,
+   "exp": "Nodal staging: N0 — no regional nodes, N1 — 1-3 regional nodes, N2 — >3 regional nodes. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-050",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "In nodal staging, N2 pancreatic cancer means:",
+   "opts": [
+    "More than 3 regional nodes",
+    "No nodes",
+    "Exactly 1 node",
+    "Exactly 3 nodes"
+   ],
+   "ans": 0,
+   "exp": "Nodal staging: N2 — >3 regional nodes. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-051",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "In the Varadhachary-Katz criteria, a RESCTABLE pancreatic tumour has:",
+   "opts": [
+    "No involvement of the superior mesenteric artery with a patent portal vein junction",
+    "Encasement of the superior mesenteric artery",
+    "Long segment occlusion of the portal vein",
+    "Abutment of the celiac axis of 180 degrees"
+   ],
+   "ans": 0,
+   "exp": "Varadhachary-Katz: resectable (all 4 resectables), AJCC I/II — SMA no involvement, SMV/portal V junction patent — surgery. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-052",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "In the Varadhachary-Katz criteria, BORDERLINE pancreatic tumour has:",
+   "opts": [
+    "Abutment of the superior mesenteric artery (180 degrees or less than 50%) and short segment occlusion of the portal vein junction",
+    "Encasement of the superior mesenteric artery",
+    "No vessel involvement at all",
+    "Long segment occlusion only"
+   ],
+   "ans": 0,
+   "exp": "Borderline, AJCC III — SMA abutment (≥180° or <50%), celiac axis abutment, short segment occlusion of SMV/portal junction — chemotherapy then surgery. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-053",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "Borderline pancreatic tumours in the Varadhachary-Katz criteria are managed by:",
+   "opts": [
+    "Chemotherapy followed by surgery",
+    "Surgery alone",
+    "Palliation only",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Borderline: Mx — chemotherapy, then Sx. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-054",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "In the Varadhachary-Katz criteria, a LOCALLY ADVANCED pancreatic tumour has:",
+   "opts": [
+    "Encasement of the superior mesenteric artery with long segment occlusion of the portal vein",
+    "No involvement at all",
+    "Only abutment",
+    "A patent portal vein"
+   ],
+   "ans": 0,
+   "exp": "Locally advanced: SMA encasement, excessive encasement of the common hepatic artery, long segment of occlusion — Mx: unresectable, palliative. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-055",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "The investigation of choice for peritoneal metastases in pancreatic cancer is:",
+   "opts": [
+    "Diagnostic laparoscopy",
+    "USG",
+    "Plain X-ray",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Peritoneal mets: diagnostic laparoscopy — IOC. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-056",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "If peritoneal metastases are found at diagnostic laparoscopy, the procedure is:",
+   "opts": [
+    "Abandoned",
+    "Completed as planned",
+    "Converted to Whipple's",
+    "Repeated in 2 weeks"
+   ],
+   "ans": 0,
+   "exp": "Peritoneal mets: mets (+) — procedure abandoned. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-057",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "Which of the following is a criterion of unresectability in pancreatic cancer?",
+   "opts": [
+    "Malignant ascites",
+    "A small tumour",
+    "No lymph nodes",
+    "A normal CA 19-9"
+   ],
+   "ans": 0,
+   "exp": "Criteria of unresectability: peritoneal mets, malignant ascites, liver mets. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-058",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "Which of the following is a criterion of unresectability in pancreatic cancer?",
+   "opts": [
+    "Liver metastases",
+    "A T1 tumour",
+    "N0 status",
+    "A 2 cm size"
+   ],
+   "ans": 0,
+   "exp": "Criteria of unresectability: liver mets. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-059",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "A resectable pancreatic tumour in the HEAD (the commonest site) or periampullary is managed by:",
+   "opts": [
+    "Whipple's surgery",
+    "Distal pancreatectomy",
+    "Total pancreatectomy in all",
+    "Chemotherapy only"
+   ],
+   "ans": 0,
+   "exp": "Surgical management: resectable — head (m/c site), periampullary — Whipple surgery. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-060",
+   "sec": "Staging and Resectability",
+   "page": 300,
+   "q": "A resectable pancreatic tumour in the BODY or TAIL is managed by:",
+   "opts": [
+    "Distal pancreatectomy",
+    "Whipple's surgery",
+    "Enucleation always",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Surgical management: body/tail — distal pancreatectomy. (Book p300)"
+  },
+  {
+   "id": "SURG-C40-061",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "Whipple's surgery is also called:",
+   "opts": [
+    "Pancreaticoduodenectomy",
+    "Distal pancreatectomy",
+    "Hepaticojejunostomy only",
+    "Gastrojejunostomy only"
+   ],
+   "ans": 0,
+   "exp": "Whipple surgery: pancreaticoduodenectomy. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-062",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The pylorus preserving Whipple is the:",
+   "opts": [
+    "Longmire transverso procedure",
+    "Beger's procedure",
+    "Frey's procedure",
+    "Duval procedure"
+   ],
+   "ans": 0,
+   "exp": "Pylorus preserving Whipple: Longmire transverso procedure. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-063",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The pylorus preserving Whipple:",
+   "opts": [
+    "Reduces the chances of dumping syndrome and is the preferred procedure",
+    "Increases dumping syndrome",
+    "Is obsolete",
+    "Removes the pylorus always"
+   ],
+   "ans": 0,
+   "exp": "Pylorus preserving Whipple: decreased chances of dumping syndrome, preferred procedure. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-064",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The traditional Whipple is used when:",
+   "opts": [
+    "The pylorus is involved or the margin is unattainable",
+    "The pylorus is normal",
+    "The tumour is in the tail",
+    "There is no jaundice"
+   ],
+   "ans": 0,
+   "exp": "Pylorus preserving Whipple: involvement of pylorus/unattainable margin — traditional Whipple's. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-065",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The incision for Whipple's surgery is:",
+   "opts": [
+    "Chevron / roof top",
+    "Midline vertical only",
+    "Langer's incision",
+    "McBurney's incision"
+   ],
+   "ans": 0,
+   "exp": "Incision: chevron/roof top. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-066",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "Structures removed in Whipple's surgery include all of the following EXCEPT:",
+   "opts": [
+    "The spleen",
+    "The gallbladder (cholecystectomy)",
+    "The CBD",
+    "The duodenum"
+   ],
+   "ans": 0,
+   "exp": "Procedure: 1. Cholecystectomy, 2. CBD, 3. Pylorus, 4. Pancreatectomy, 5. Duodenectomy. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-067",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The anastomoses performed in Whipple's surgery are:",
+   "opts": [
+    "Hepaticojejunostomy, gastrojejunostomy and pancreaticojejunostomy",
+    "Only a gastrojejunostomy",
+    "Only a hepaticojejunostomy",
+    "A choledochojejunostomy and a sleeve gastrostomy"
+   ],
+   "ans": 0,
+   "exp": "Procedure: hepaticojejunostomy (anastomoses with common hepatic duct), gastrojejunostomy, pancreaticojejunostomy. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-068",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "In Whipple's surgery, the hepaticojejunostomy is made with the:",
+   "opts": [
+    "Common hepatic duct",
+    "Cystic duct",
+    "Right hepatic duct only",
+    "Left hepatic duct only"
+   ],
+   "ans": 0,
+   "exp": "Anastomoses: hepaticojejunostomy — anastomoses with common hepatic duct. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-069",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The tunnel of love in Whipple's surgery is:",
+   "opts": [
+    "The space between the vessels and the pancreas, which needs to be intact to proceed",
+    "The duodenal lumen",
+    "The cystic duct",
+    "The lesser sac"
+   ],
+   "ans": 0,
+   "exp": "Tunnel of love: space between the vessels and pancreas; needs to be intact to proceed with Whipple's. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-070",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The most common complication of Whipple's surgery is:",
+   "opts": [
+    "Impaired gastric emptying",
+    "Pancreatic fistula",
+    "Wound infection",
+    "Recurrence"
+   ],
+   "ans": 0,
+   "exp": "Complication: impaired gastric emptying — m/c. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-071",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "Impaired gastric emptying after Whipple's is due to:",
+   "opts": [
+    "Loss of receptive relaxation",
+    "Gastric ulceration",
+    "Pyloric oedema only",
+    "Adhesions only"
+   ],
+   "ans": 0,
+   "exp": "Impaired gastric emptying: d/t loss of receptive relaxation. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-072",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "Impaired gastric emptying after Whipple's is more common after:",
+   "opts": [
+    "Conventional Whipple than pylorus preserving",
+    "Pylorus preserving Whipple than conventional",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Impaired gastric emptying: conventional Whipple > pylorus preserving. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-073",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "The most common cause of death after Whipple's surgery is:",
+   "opts": [
+    "Sepsis due to anastomotic leak",
+    "Wound infection",
+    "Haemorrhage",
+    "Dumping syndrome"
+   ],
+   "ans": 0,
+   "exp": "Complication: sepsis d/t anastomotic leak — m/c cause of death. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-074",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "Pancreatic fistula after Whipple's is due to:",
+   "opts": [
+    "Pancreaticojejunal anastomotic leak",
+    "Gastrojejunal leak only",
+    "Hepaticojejunal leak only",
+    "Duodenal stump closure only"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic fistula: d/t pancreaticojejunal anastomotic leak. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-075",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "Pancreatic fistula after Whipple's classically appears on:",
+   "opts": [
+    "Post op day 2-3 with turbid, amylase-rich drainage",
+    "Post op day 20",
+    "Immediately at the end of surgery",
+    "At discharge only"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic fistula: post op day 2-3, turbid drainage rich in amylase. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-076",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "Pancreatic fistula after Whipple's:",
+   "opts": [
+    "Stops spontaneously and octreotide is effective",
+    "Always needs a second laparotomy",
+    "Is fatal in all",
+    "Requires a total pancreatectomy"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic fistula: stops spontaneously; octreotide is effective. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-077",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "For efficacy, the better pancreatic cancer chemotherapy regimen is:",
+   "opts": [
+    "Gemcitabine plus capecitabine over gemcitabine monotherapy",
+    "Gemcitabine monotherapy alone",
+    "Cisplatin alone",
+    "No chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy: effectiveness — gemcitabine + capecitabine > gemcitabine monotherapy. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-078",
+   "sec": "Whipple's Surgery",
+   "page": 301,
+   "q": "For survival, the better pancreatic cancer chemotherapy regimen is:",
+   "opts": [
+    "FOLFIRINOX over gemcitabine monotherapy",
+    "Gemcitabine monotherapy alone",
+    "5-FU alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy: survival — FOLFIRINOX > gemcitabine monotherapy. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-079",
+   "sec": "Management of Unresectable Tumour",
+   "page": 301,
+   "q": "The management of an unresectable pancreatic tumour includes palliation of:",
+   "opts": [
+    "Pruritus and jaundice",
+    "Only pruritus",
+    "Only constipation",
+    "Only diabetes"
+   ],
+   "ans": 0,
+   "exp": "Management of unresectable tumour: palliation of pruritus and jaundice. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-080",
+   "sec": "Management of Unresectable Tumour",
+   "page": 301,
+   "q": "Palliation of jaundice in an unresectable pancreatic tumour is done by:",
+   "opts": [
+    "ERCP with stenting",
+    "Cholecystectomy",
+    "Whipple's surgery",
+    "Appendectomy"
+   ],
+   "ans": 0,
+   "exp": "Palliation: ERCP and stenting. (Book p301)"
+  },
+  {
+   "id": "SURG-C40-081",
+   "sec": "Management of Unresectable Tumour",
+   "page": 302,
+   "q": "Percutaneous transhepatic biliary drainage (PTBD) works because:",
+   "opts": [
+    "Distal blockage dilates the proximal radicals, which are punctured to drain bile",
+    "It dissolves the tumour",
+    "It removes the stones",
+    "It cures the pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "PTBD: distal blockage — dilatation of proximal radicals, punctured, drainage of bile. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-082",
+   "sec": "Management of Unresectable Tumour",
+   "page": 302,
+   "q": "The chemotherapy listed for unresectable pancreatic tumour is:",
+   "opts": [
+    "NAB paclitaxel",
+    "Oral amoxicillin",
+    "Intramuscular penicillin",
+    "Topical iodine"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy: NAB paclitaxel. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-083",
+   "sec": "Management of Unresectable Tumour",
+   "page": 302,
+   "q": "The triple bypass palliation in an unresectable pancreatic tumour consists of:",
+   "opts": [
+    "Hepaticojejunostomy, gastrojejunostomy and jejunojejunostomy, without removing the tumour",
+    "Whipple's surgery",
+    "Distal pancreatectomy",
+    "Splenectomy"
+   ],
+   "ans": 0,
+   "exp": "Palliative Sx: a. Triple bypass — hepaticojejunostomy, gastrojejunostomy, jejunojejunostomy; tumour is not removed. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-084",
+   "sec": "Management of Unresectable Tumour",
+   "page": 302,
+   "q": "In the triple bypass, the gastrojejunostomy is done to:",
+   "opts": [
+    "Prevent gastric outlet obstruction",
+    "Prevent jaundice",
+    "Remove the tumour",
+    "Treat the diabetes"
+   ],
+   "ans": 0,
+   "exp": "Triple bypass: gastrojejunostomy — to prevent gastric outlet obstruction. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-085",
+   "sec": "Management of Unresectable Tumour",
+   "page": 302,
+   "q": "In the triple bypass, the hepaticojejunostomy diverts:",
+   "opts": [
+    "Bile into the jejunum",
+    "Bile into the stomach",
+    "Pancreatic juice into the stomach",
+    "Chyme into the colon"
+   ],
+   "ans": 0,
+   "exp": "Triple bypass: hepaticojejunostomy — bile to jejunum. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-086",
+   "sec": "Management of Unresectable Tumour",
+   "page": 302,
+   "q": "Palliative coeliac ganglion block in pancreatic cancer is done to:",
+   "opts": [
+    "Reduce the pain",
+    "Reduce the jaundice",
+    "Prevent the fistula",
+    "Treat the diabetes"
+   ],
+   "ans": 0,
+   "exp": "Palliative Sx: b. Coeliac ganglion block — decreases pain. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-087",
+   "sec": "Management of Unresectable Tumour",
+   "page": 302,
+   "q": "The most important prognostic factor in pancreatic cancer is:",
+   "opts": [
+    "Stage",
+    "Gender",
+    "Smoking history only",
+    "CA 19-9 level only"
+   ],
+   "ans": 0,
+   "exp": "Prognostic factor: stage (most important). (Book p302)"
+  },
+  {
+   "id": "SURG-C40-088",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "The most common endocrine tumour of the pancreas is:",
+   "opts": [
+    "Insulinoma",
+    "Gastrinoma",
+    "Glucagonoma",
+    "VIPoma"
+   ],
+   "ans": 0,
+   "exp": "Insulinoma: m/c endocrine tumour. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-089",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "Insulinoma arises from:",
+   "opts": [
+    "Beta cells",
+    "Alpha cells",
+    "G cells",
+    "D cells"
+   ],
+   "ans": 0,
+   "exp": "Insulinoma: arises from beta-cells. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-090",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "What proportion of insulinomas are benign?",
+   "opts": [
+    "90%",
+    "10%",
+    "50%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "Insulinoma: 90% benign. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-091",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "Insulinomas are distributed in the pancreas:",
+   "opts": [
+    "Evenly distributed throughout",
+    "Only in the head",
+    "Only in the tail",
+    "Only in the uncinate process"
+   ],
+   "ans": 0,
+   "exp": "Insulinoma: evenly distributed throughout. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-092",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "Whipple's triad in insulinoma consists of:",
+   "opts": [
+    "Fasting hypoglycaemia, a low blood glucose value (less than 50 mg/dL) and rapid resolution on giving glucose",
+    "Fever, jaundice and pain",
+    "Pain, mass and jaundice",
+    "Pneumobilia, SBO and a stone"
+   ],
+   "ans": 0,
+   "exp": "Whipple's triad: fasting hypoglycaemia, low blood glucose value (<50 mg/dL), rapid resolution on giving glucose. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-093",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "In Whipple's triad, the blood glucose value is:",
+   "opts": [
+    "Less than 50 mg/dL",
+    "Greater than 200 mg/dL",
+    "Exactly 100 mg/dL",
+    "Greater than 150 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "Whipple's triad: low blood glucose value (<50 mg/dL). (Book p302)"
+  },
+  {
+   "id": "SURG-C40-094",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "The gold standard test for insulinoma is:",
+   "opts": [
+    "The 72 hours fasting test (now obsolete)",
+    "A plain X-ray",
+    "USG",
+    "A barium meal"
+   ],
+   "ans": 0,
+   "exp": "Investigation: gold standard test — 72 hrs fasting test; obsolete. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-095",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "In insulinoma, the insulin to glucose ratio is:",
+   "opts": [
+    "Greater than 0.3",
+    "Less than 0.1",
+    "Exactly 1.0",
+    "Zero"
+   ],
+   "ans": 0,
+   "exp": "Investigation: insulin/glucose >0.3. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-096",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "The best method of localisation of an insulinoma is:",
+   "opts": [
+    "Endoscopic ultrasound",
+    "Plain X-ray",
+    "Barium meal",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: best method of localisation — endoscopic ultrasound. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-097",
+   "sec": "Insulinoma",
+   "page": 302,
+   "q": "Compared with exogenous insulin injection, an insulinoma shows:",
+   "opts": [
+    "A raised C peptide",
+    "A normal C peptide",
+    "A zero C peptide",
+    "No insulin at all"
+   ],
+   "ans": 0,
+   "exp": "Table: conditions with raised fasting insulin — exogenous insulin injections have a normal C peptide; insulinoma has a raised C peptide. (Book p302)"
+  },
+  {
+   "id": "SURG-C40-098",
+   "sec": "Insulinoma",
+   "page": 303,
+   "q": "An insulinoma GREATER than 2 cm is managed by:",
+   "opts": [
+    "Wider resection",
+    "Enucleation only",
+    "Observation",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Management: >2 cm — wider resection. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-099",
+   "sec": "Insulinoma",
+   "page": 303,
+   "q": "An insulinoma LESS than 2 cm is managed by:",
+   "opts": [
+    "Enucleation",
+    "Whipple's surgery",
+    "Total pancreatectomy",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Management: <2 cm — enucleation. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-100",
+   "sec": "Insulinoma",
+   "page": 303,
+   "q": "Diazoxide in insulinoma:",
+   "opts": [
+    "Inhibits insulin release and prevents hypoglycaemia",
+    "Increases insulin release",
+    "Dissolves the tumour",
+    "Treats the diabetes"
+   ],
+   "ans": 0,
+   "exp": "Management: diazoxide — inhibits release of insulin and prevents hypoglycaemia. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-101",
+   "sec": "Insulinoma",
+   "page": 303,
+   "q": "Insulinoma with metastasis is treated with:",
+   "opts": [
+    "Chemotherapy, streptozocin and diazoxide",
+    "Observation only",
+    "Antibiotics only",
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Management: in metastasis — chemotherapy, streptozocin, diazoxide. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-102",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "Gastrinoma is also known as:",
+   "opts": [
+    "Zollinger Ellison syndrome",
+    "MEN syndrome",
+    "WDHA syndrome",
+    "Peutz-Jeghers syndrome"
+   ],
+   "ans": 0,
+   "exp": "Gastrinoma: aka Zollinger Ellison syndrome. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-103",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "Gastrinoma arises from:",
+   "opts": [
+    "Gastrin producing G-cells",
+    "Beta cells",
+    "Alpha cells",
+    "Parietal cells"
+   ],
+   "ans": 0,
+   "exp": "Gastrinoma: arise from gastrin producing (G-cells) cells. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-104",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "Gastrinoma is the most common pancreatic endocrine neoplasm in:",
+   "opts": [
+    "MEN 1 syndrome",
+    "MEN 2 syndrome",
+    "Down's syndrome",
+    "Turner syndrome"
+   ],
+   "ans": 0,
+   "exp": "Gastrinoma: m/c pancreatic endocrine neoplasm in MEN 1 syndrome. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-105",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "What proportion of gastrinomas are malignant?",
+   "opts": [
+    "70-80%",
+    "10-20%",
+    "50%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "Gastrinoma: malignant (70-80%). (Book p303)"
+  },
+  {
+   "id": "SURG-C40-106",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "Passaro's (gastrinoma) triangle is:",
+   "opts": [
+    "The most common site of the gastrinoma",
+    "The site of the cystic artery",
+    "The gallbladder fossa",
+    "The splenic hilum"
+   ],
+   "ans": 0,
+   "exp": "Passaro's triangle/gastrinoma triangle: m/c site of the gastrinoma. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-107",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "One boundary of Passaro's triangle is:",
+   "opts": [
+    "The junction of the cystic and common hepatic duct",
+    "The splenic flexure",
+    "The falciform ligament",
+    "The left kidney"
+   ],
+   "ans": 0,
+   "exp": "Boundaries: junction of cystic + common hepatic duct. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-108",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "Another boundary of Passaro's triangle is:",
+   "opts": [
+    "The junction of the head and neck with the body of the pancreas",
+    "The pancreatic tail",
+    "The duodenojejunal flexure",
+    "The hepatic flexure"
+   ],
+   "ans": 0,
+   "exp": "Boundaries: junction of head and neck with body of the pancreas. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-109",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "The third boundary of Passaro's triangle is:",
+   "opts": [
+    "The junction of D2 and D3 of the duodenum",
+    "The pylorus",
+    "The ampulla only",
+    "The jejunum"
+   ],
+   "ans": 0,
+   "exp": "Boundaries: junction of D2 and D3 (D: duodenum). (Book p303)"
+  },
+  {
+   "id": "SURG-C40-110",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "The most common site of a gastrinoma is the wall of:",
+   "opts": [
+    "D1",
+    "D3",
+    "The jejunum",
+    "The stomach antrum"
+   ],
+   "ans": 0,
+   "exp": "M/c site of gastrinoma: wall of D1. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-111",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "A gastrinoma located OUTSIDE Passaro's triangle is:",
+   "opts": [
+    "More aggressive, larger in size, with poor prognosis",
+    "More indolent and smaller",
+    "Always benign",
+    "Always in D1"
+   ],
+   "ans": 0,
+   "exp": "Gastrinoma outside Passaro's triangle: more aggressive, larger in size, poor prognosis. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-112",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "The clinical features of gastrinoma include:",
+   "opts": [
+    "Pain, diarrhoea, multiple recurrent peptic ulcers",
+    "Painless jaundice only",
+    "Obstipation",
+    "Weight gain"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain, diarrhoea, peptic ulcer, multiple, recurrent. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-113",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "Atypical locations of gastrinoma peptic ulcers include:",
+   "opts": [
+    "D3 and the jejunum",
+    "Only the stomach",
+    "Only the duodenal bulb",
+    "Only the colon"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: atypical locations — D3, jejunum. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-114",
+   "sec": "Gastrinoma",
+   "page": 303,
+   "q": "In gastrinoma, the diarrhoea is due to:",
+   "opts": [
+    "Acidic pH in the duodenum causing non-activation of pancreatic enzymes and malabsorption",
+    "Bacterial overgrowth only",
+    "Lactose intolerance",
+    "A normal mechanism"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology: raised gastrin — raised HCl production, peptic ulcer; acidic pH in duodenum — non-activation pancreatic enzyme, malabsorption and diarrhoea. (Book p303)"
+  },
+  {
+   "id": "SURG-C40-115",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "The Zollinger Ellison triad consists of:",
+   "opts": [
+    "Increased gastrin, increased acid output and a non-beta cell tumour",
+    "Fasting hypoglycaemia, low glucose and resolution on glucose",
+    "Pain, jaundice and fever",
+    "Pneumobilia, SBO and stone"
+   ],
+   "ans": 0,
+   "exp": "Zollinger Ellison triad: 1. Increased gastrin, 2. Increased acid output, 3. Non-beta cell tumour. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-116",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "A serum gastrin level greater than 1000 pg/mL in gastrinoma is:",
+   "opts": [
+    "Diagnostic",
+    "Normal",
+    "Mildly raised",
+    "A false positive"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: S. gastrin >1000 pg/mL — diagnostic. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-117",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "When the serum gastrin is less than 1000 pg/mL, the secretin stimulation test is positive if:",
+   "opts": [
+    "Serum gastrin rises by 300 pg/mL after the test",
+    "Serum gastrin falls by 300 pg/mL",
+    "The pH becomes alkaline",
+    "The C peptide falls"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: S. gastrin <1000 pg/mL — secretin stimulation test, S. gastrin increased by 300 pg/mL after test — positive. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-118",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "A pH of less than 2.0 in the duodenum is:",
+   "opts": [
+    "Diagnostic of gastrinoma",
+    "Normal",
+    "Seen only in Zollinger Ellison triad patients with no treatment",
+    "Excludes gastrinoma"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: pH <2.0 — diagnostic. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-119",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "For localisation, gastrinoma is investigated by SRS, which stands for:",
+   "opts": [
+    "Somatostatin receptor scintigraphy",
+    "Standard radio isotope survey",
+    "Small bowel radio series",
+    "Sequential radiological scintigraphy"
+   ],
+   "ans": 0,
+   "exp": "Localisation: SRS — somatostatin receptor scintigraphy. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-120",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "On somatostatin receptor scintigraphy, a gastrinoma:",
+   "opts": [
+    "Lightens up",
+    "Does not light up",
+    "Disappears",
+    "Calcifies"
+   ],
+   "ans": 0,
+   "exp": "SRS: does not lighten — insulinoma; lightens — gastrinoma. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-121",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "On somatostatin receptor scintigraphy, an insulinoma:",
+   "opts": [
+    "Does not light up",
+    "Lightens up",
+    "Disappears completely",
+    "Shows a double duct sign"
+   ],
+   "ans": 0,
+   "exp": "SRS: does not lighten — insulinoma. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-122",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "A patient with gastrinoma should also be evaluated for:",
+   "opts": [
+    "MEN 1 syndrome",
+    "Down's syndrome",
+    "Turner syndrome",
+    "Addison's disease"
+   ],
+   "ans": 0,
+   "exp": "Localisation: evaluation for MEN 1 syndrome. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-123",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "A gastrinoma GREATER than 5 mm is managed by:",
+   "opts": [
+    "Full thickness resection",
+    "Enucleation",
+    "Observation",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Management: >5 mm — full thickness resection. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-124",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "A gastrinoma of 5 mm or LESS is managed by:",
+   "opts": [
+    "Enucleation",
+    "Full thickness resection",
+    "Whipple's surgery in all",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Management: <5 mm — enucleation. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-125",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "The most common site of gastrinoma metastasis is:",
+   "opts": [
+    "The liver",
+    "The lung",
+    "The bone",
+    "The brain"
+   ],
+   "ans": 0,
+   "exp": "Metastasis: m/c site — liver. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-126",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "Octreotide in gastrinoma is used to:",
+   "opts": [
+    "Decrease gastrin secretion",
+    "Increase acid output",
+    "Remove the tumour",
+    "Prevent the ulcers mechanically"
+   ],
+   "ans": 0,
+   "exp": "Metastasis: octreotide — decreased secretion of gastrin. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-127",
+   "sec": "Gastrinoma",
+   "page": 304,
+   "q": "Streptozocin is used in gastrinoma for:",
+   "opts": [
+    "Malignant or metastatic carcinoma",
+    "Benign gastrinoma only",
+    "Gastric ulcers only",
+    "Pancreatitis only"
+   ],
+   "ans": 0,
+   "exp": "Metastasis: streptozocin — for malignant/metastatic carcinoma. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-128",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 304,
+   "q": "Glucagonoma arises from:",
+   "opts": [
+    "Alpha cells of the islets of Langerhans",
+    "Beta cells",
+    "G cells",
+    "Parietal cells"
+   ],
+   "ans": 0,
+   "exp": "Glucagonoma: origin — alpha cells of islets of Langerhans. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-129",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 304,
+   "q": "Diabetes in glucagonoma is due to:",
+   "opts": [
+    "Raised blood sugar",
+    "Low blood sugar",
+    "Insulin excess",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Glucagonoma: diabetes — d/t raised blood sugar. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-130",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 304,
+   "q": "The dermatitis of glucagonoma is:",
+   "opts": [
+    "Necrolytic migratory rash",
+    "Psoriasis",
+    "Eczema",
+    "Urticaria"
+   ],
+   "ans": 0,
+   "exp": "Glucagonoma: dermatitis — necrolytic migratory rash. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-131",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 304,
+   "q": "Migratory thrombophlebitis in glucagonoma is also known as:",
+   "opts": [
+    "Trousseau syndrome",
+    "Courvoisier's law",
+    "Rigler's triad",
+    "Bouveret syndrome"
+   ],
+   "ans": 0,
+   "exp": "Glucagonoma: DVT — migratory thrombophlebitis — Trousseau syndrome. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-132",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 304,
+   "q": "Which of the following is a feature of glucagonoma?",
+   "opts": [
+    "Depression",
+    "Fasting hypoglycaemia",
+    "A WES sign",
+    "Pneumobilia"
+   ],
+   "ans": 0,
+   "exp": "Glucagonoma: depression. (Book p304)"
+  },
+  {
+   "id": "SURG-C40-133",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 305,
+   "q": "WDHA syndrome is also known as:",
+   "opts": [
+    "Verner Morrison syndrome",
+    "Zollinger Ellison syndrome",
+    "Peutz-Jeghers syndrome",
+    "MEN 1 syndrome"
+   ],
+   "ans": 0,
+   "exp": "WDHA syndrome: aka Verner Morrison syndrome. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-134",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 305,
+   "q": "WDHA syndrome is due to a raised:",
+   "opts": [
+    "Vasoactive intestinal peptide (VIPoma)",
+    "Gastrin",
+    "Insulin",
+    "Glucagon"
+   ],
+   "ans": 0,
+   "exp": "WDHA syndrome: d/t raised vasoactive intestinal peptide — VIPoma. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-135",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 305,
+   "q": "The features of WDHA syndrome include:",
+   "opts": [
+    "Watery diarrhoea, hypokalaemia, achlorhydria and acidosis",
+    "Steatorrhoea only",
+    "Hypertension only",
+    "Painless jaundice"
+   ],
+   "ans": 0,
+   "exp": "WDHA: watery diarrhoea, hypokalaemia, achlorhydria, acidosis. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-136",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma",
+   "page": 305,
+   "q": "The features of somatostatinoma include:",
+   "opts": [
+    "Steatorrhoea due to malabsorption, diabetes and cholelithiasis",
+    "Fasting hypoglycaemia",
+    "Necrolytic migratory rash",
+    "Watery diarrhoea with hypokalaemia"
+   ],
+   "ans": 0,
+   "exp": "Somatostatinoma: steatorrhoea d/t malabsorption, diabetes, cholelithiasis. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-137",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "A non functional pancreatic endocrine neoplasm is typically seen in:",
+   "opts": [
+    "Elderly patients",
+    "Neonates",
+    "Only in pregnancy",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "Non functional pancreatic endocrine neoplasm: elderly patients. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-138",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "A non functional pancreatic endocrine neoplasm is usually:",
+   "opts": [
+    "Malignant",
+    "Always benign",
+    "Benign in 90%",
+    "Cystic"
+   ],
+   "ans": 0,
+   "exp": "Non functional: malignant. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-139",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "The most common site of origin of a non functional pancreatic endocrine neoplasm is:",
+   "opts": [
+    "The head of the pancreas",
+    "The tail",
+    "The body only",
+    "The uncinate process only"
+   ],
+   "ans": 0,
+   "exp": "Non functional: origin — m/c head of pancreas. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-140",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "Blood markers of a non functional pancreatic endocrine neoplasm include:",
+   "opts": [
+    "Chromogranin A and synaptophysin",
+    "AFP",
+    "PSA",
+    "CA-125 only"
+   ],
+   "ans": 0,
+   "exp": "Non functional: presence of chromogranin A, synaptophysin in blood. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-141",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "The management of a non functional pancreatic endocrine neoplasm is:",
+   "opts": [
+    "Resection",
+    "Observation",
+    "Antibiotics",
+    "Diazoxide"
+   ],
+   "ans": 0,
+   "exp": "Non functional: Mx — resection. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-142",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "A serous cystic neoplasm of the pancreas is most commonly sited at:",
+   "opts": [
+    "The head of the pancreas",
+    "The tail",
+    "The body only",
+    "The uncinate process only"
+   ],
+   "ans": 0,
+   "exp": "Serous cystic neoplasm: site — head of pancreas (m/c). (Book p305)"
+  },
+  {
+   "id": "SURG-C40-143",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "Serous cystic neoplasms are seen in:",
+   "opts": [
+    "Older patients",
+    "Neonates",
+    "Only in pregnancy",
+    "Only in the young"
+   ],
+   "ans": 0,
+   "exp": "Serous cystic neoplasm: older patients. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-144",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "Serous cystic neoplasms are characterised histologically by:",
+   "opts": [
+    "Glycogen rich cells",
+    "Ovarian-like stroma",
+    "Beta catenin mutation",
+    "Inflammatory cells only"
+   ],
+   "ans": 0,
+   "exp": "Serous cystic neoplasm: presence of glycogen rich cells. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-145",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "In a serous cystic neoplasm, the CEA is:",
+   "opts": [
+    "Not raised",
+    "Markedly raised",
+    "Always zero",
+    "Unmeasurable"
+   ],
+   "ans": 0,
+   "exp": "Serous cystic neoplasm: CEA not raised; large multiloculate mass, usually benign. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-146",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "A serous cystic neoplasm on CECT shows:",
+   "opts": [
+    "A sunburst appearance",
+    "An egg shell calcification",
+    "A double duct sign",
+    "A double bubble"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CECT (IOC) — sunburst appearance. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-147",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "A large and symptomatic serous cystic neoplasm is managed by:",
+   "opts": [
+    "Enucleation",
+    "Observation",
+    "Chemotherapy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Management: large and symptomatic — enucleation. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-148",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 305,
+   "q": "A small and asymptomatic serous cystic neoplasm is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate enucleation",
+    "Whipple's surgery",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Management: small and asymptomatic — observation. (Book p305)"
+  },
+  {
+   "id": "SURG-C40-149",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "Mucinous tumours of the pancreas are most commonly sited at:",
+   "opts": [
+    "The body and tail of the pancreas",
+    "The head only",
+    "The uncinate process only",
+    "The ampulla only"
+   ],
+   "ans": 0,
+   "exp": "Mucinous tumours: site — body and tail of pancreas. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-150",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "Mucinous cystic neoplasms are most common in:",
+   "opts": [
+    "Pre-menopausal females",
+    "Males",
+    "Children",
+    "Both sexes equally"
+   ],
+   "ans": 0,
+   "exp": "Mucinous tumours: m/c in females (pre menopausal). (Book p306)"
+  },
+  {
+   "id": "SURG-C40-151",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The characteristic stroma of a mucinous cystic neoplasm is:",
+   "opts": [
+    "Ovarian like stroma",
+    "Granulation tissue",
+    "Fibrous tissue only",
+    "Adipose tissue only"
+   ],
+   "ans": 0,
+   "exp": "Mucinous tumours: ovarian like stroma. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-152",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "Mucinous cystic neoplasms are:",
+   "opts": [
+    "ER and PR positive",
+    "ER and PR negative",
+    "Only CEA positive",
+    "Only AFP positive"
+   ],
+   "ans": 0,
+   "exp": "Mucinous tumours: ER, PR +ve. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-153",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The CEA in a mucinous tumour of the pancreas is:",
+   "opts": [
+    "Raised",
+    "Normal",
+    "Zero",
+    "Unmeasurable"
+   ],
+   "ans": 0,
+   "exp": "Mucinous tumours: raised CEA. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-154",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "A history of pancreatitis is a feature of a mucinous tumour, and the differential diagnosis is:",
+   "opts": [
+    "Pseudocyst",
+    "Phrygian cap",
+    "Porcelain gallbladder",
+    "Bouveret syndrome"
+   ],
+   "ans": 0,
+   "exp": "Mucinous tumours: H/o pancreatitis (+); D/d — pseudocyst. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-155",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "Compared with a mucinous tumour, a pseudocyst is:",
+   "opts": [
+    "Homogeneous with CEA not elevated",
+    "Heterogeneous with raised CEA",
+    "Ovarian stroma positive",
+    "ER positive"
+   ],
+   "ans": 0,
+   "exp": "Note: pseudocyst — homogenous, CEA not elevated. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-156",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "On CT, a mucinous tumour shows:",
+   "opts": [
+    "Egg shell calcification with a heterogeneous lining",
+    "A sunburst appearance",
+    "A double duct sign",
+    "A double bubble sign"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CT — egg shell calcification, heterogeneous lining. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-157",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "Intraductal papillary mucinous neoplasm (IPMN) has how many types?",
+   "opts": [
+    "Three",
+    "One",
+    "Two",
+    "Four"
+   ],
+   "ans": 0,
+   "exp": "IPMN: 3 types. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-158",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The types of IPMN are:",
+   "opts": [
+    "Branch duct, main duct and mixed",
+    "Serous and mucinous only",
+    "Solid and cystic only",
+    "Benign and malignant only"
+   ],
+   "ans": 0,
+   "exp": "IPMN: branch duct type, main duct type, mixed type (starts in branch duct, then main duct). (Book p306)"
+  },
+  {
+   "id": "SURG-C40-159",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The mixed type of IPMN:",
+   "opts": [
+    "Starts in the branch duct and then involves the main duct",
+    "Involves only the main duct",
+    "Involves only the branch duct",
+    "Never involves the ducts"
+   ],
+   "ans": 0,
+   "exp": "IPMN: mixed type — starts in branch duct, main duct. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-160",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "Ohashi's triad of IPMN consists of:",
+   "opts": [
+    "Dilated hepatopancreatic duct, fish mouth appearance of the ampulla and mucin coming out",
+    "Waxing jaundice, melena and a mass",
+    "Pain, jaundice and fever",
+    "Pneumobilia, SBO and a stone"
+   ],
+   "ans": 0,
+   "exp": "Ohashi triad: 1. Dilated hepatopancreatic duct, 2. Fish mouth appearance of ampulla, 3. Mucin coming out. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-161",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The diagnosis of IPMN is made by:",
+   "opts": [
+    "ERCP",
+    "Plain X-ray",
+    "USG alone",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "IPMN: Dx — ERCP. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-162",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "A MAIN DUCT or MIXED type IPMN greater than 2 cm is managed by:",
+   "opts": [
+    "Resection",
+    "Observation",
+    "Antibiotics",
+    "Diazoxide"
+   ],
+   "ans": 0,
+   "exp": "IPMN Mx: main duct/mixed type >2 cm — resection. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-163",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "A BRANCH DUCT type IPMN of 2 cm or less is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate resection",
+    "Chemotherapy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "IPMN Mx: branch duct type <2 cm — observe. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-164",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "A solid pseudopapillary tumour is also known as:",
+   "opts": [
+    "Gruber Frantz tumour (aka Hamoudi tumour)",
+    "Beger's tumour",
+    "Puestow's tumour",
+    "Duval's tumour"
+   ],
+   "ans": 0,
+   "exp": "Solid pseudopapillary tumour/Gruber Frantz tumour: aka Hamoudi tumour. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-165",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "Solid pseudopapillary tumours are seen in:",
+   "opts": [
+    "Females",
+    "Males only",
+    "Children only",
+    "Both sexes equally"
+   ],
+   "ans": 0,
+   "exp": "Solid pseudopapillary tumour: seen in females. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-166",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The site of a solid pseudopapillary tumour is:",
+   "opts": [
+    "The tail of the pancreas",
+    "The head only",
+    "The uncinate process only",
+    "The ampulla only"
+   ],
+   "ans": 0,
+   "exp": "Solid pseudopapillary tumour: site — tail. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-167",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The mutation of a solid pseudopapillary tumour is:",
+   "opts": [
+    "Beta catenin / vimentin mutation",
+    "K-ras mutation only",
+    "PRSS1 mutation",
+    "CFTR mutation"
+   ],
+   "ans": 0,
+   "exp": "Solid pseudopapillary tumour: beta catenin/vimentin mutation. (Book p306)"
+  },
+  {
+   "id": "SURG-C40-168",
+   "sec": "Non-functional and Cystic Neoplasms",
+   "page": 306,
+   "q": "The management of a solid pseudopapillary tumour is:",
+   "opts": [
+    "Resection",
+    "Observation",
+    "Antibiotics",
+    "Diazoxide"
+   ],
+   "ans": 0,
+   "exp": "Solid pseudopapillary tumour: Mx — resection. (Book p306)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U40-1",
+   "ch": 40,
+   "n": 1,
+   "title": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN",
+   "sec": "Pancreatic Ductal Adenocarcinoma: Risk Factors and PanIN · p297",
+   "qs": [
+    "SURG-C40-001",
+    "SURG-C40-002",
+    "SURG-C40-003",
+    "SURG-C40-004",
+    "SURG-C40-005",
+    "SURG-C40-006",
+    "SURG-C40-007",
+    "SURG-C40-008",
+    "SURG-C40-009",
+    "SURG-C40-010",
+    "SURG-C40-011",
+    "SURG-C40-012",
+    "SURG-C40-013",
+    "SURG-C40-014",
+    "SURG-C40-015"
+   ],
+   "guide": "Pancreatic ductal adenocarcinoma is the commonest carcinoma of the pancreas, fed by smoking, obesity, African American ethnicity, chronic pancreatitis and the gene list — PRSS1 of hereditary pancreatitis, SPINK1 of tropical calcific pancreatitis — plus the syndromes: Peutz-Jeghers (STK11) with its 100-fold risk, the melanoma-mole family, cystic fibrosis, BRCA-2 (pancreas, prostate, male breast), Lynch (and its colorectal risk) and FAP. The road runs through PanIN: K-ras first and commonest at 1A/1B, CDKN2A at 2A, p53 and SMAD4 at 3, then the final hit — K53."
+  },
+  {
+   "id": "SURG-U40-2",
+   "ch": 40,
+   "n": 2,
+   "title": "Periampullary Carcinoma and Courvoisier's Law",
+   "sec": "Periampullary Carcinoma and Courvoisier's Law · p298",
+   "qs": [
+    "SURG-C40-016",
+    "SURG-C40-017",
+    "SURG-C40-018",
+    "SURG-C40-019",
+    "SURG-C40-020",
+    "SURG-C40-021",
+    "SURG-C40-022",
+    "SURG-C40-023",
+    "SURG-C40-024",
+    "SURG-C40-025",
+    "SURG-C40-026",
+    "SURG-C40-027",
+    "SURG-C40-028",
+    "SURG-C40-029",
+    "SURG-C40-030",
+    "SURG-C40-031"
+   ],
+   "guide": "Periampullary carcinoma bundles four cancers within 2 cm of the ampulla — pancreatic head, ampullary, distal cholangiocarcinoma and duodenal adenocarcinoma — with similar presentation and management. They present as progressive, surgical obstructive jaundice with weight loss, and pain that bites hardest from the body and tail. The ampullary variety waxes and wanes, each fade of jaundice sloughing tumour into the bowel as melena; the duodenal adenocarcinoma blocks the outlet. Courvoisier's law holds firm — a palpable gallbladder with obstructive jaundice is seldom stone, because stones fibrose the gallbladder shrivelled while a tumour lets it balloon pyriform and palpable; the exceptions are the 10% primary CBD stone, double impaction, the Chinese liver fluke of oriental cholangiohepatitis and Mirizzi's fistula."
+  },
+  {
+   "id": "SURG-U40-3",
+   "ch": 40,
+   "n": 3,
+   "title": "Investigation of Pancreatic Cancer",
+   "sec": "Investigation of Pancreatic Cancer · p299",
+   "qs": [
+    "SURG-C40-032",
+    "SURG-C40-033",
+    "SURG-C40-034",
+    "SURG-C40-035",
+    "SURG-C40-036",
+    "SURG-C40-037",
+    "SURG-C40-038",
+    "SURG-C40-039",
+    "SURG-C40-040",
+    "SURG-C40-041",
+    "SURG-C40-042",
+    "SURG-C40-043"
+   ],
+   "guide": "CECT is the IOC of pancreatic cancer; duodenography with its Frostberg reverse 3 sign is obsolete, and the X-ray shows only widened duodenal loops. MRCP and ERCP carry the double duct sign — a blocked ampulla dilating both the pancreatic duct and the CBD — and when the radiological diagnosis is in doubt, a transgastric EUS-guided FNAC settles it. CA 19-9 is the predictive and prognostic marker that flags patients for staging laparoscopy before definitive surgery, stays an important (if not specific) prognostic marker when normalised by neoadjuvant chemo, and is shared with cholangiocarcinoma and gallbladder cancer; PET CT completes the staging."
+  },
+  {
+   "id": "SURG-U40-4",
+   "ch": 40,
+   "n": 4,
+   "title": "Staging and Resectability",
+   "sec": "Staging and Resectability · p300",
+   "qs": [
+    "SURG-C40-044",
+    "SURG-C40-045",
+    "SURG-C40-046",
+    "SURG-C40-047",
+    "SURG-C40-048",
+    "SURG-C40-049",
+    "SURG-C40-050",
+    "SURG-C40-051",
+    "SURG-C40-052",
+    "SURG-C40-053",
+    "SURG-C40-054",
+    "SURG-C40-055",
+    "SURG-C40-056",
+    "SURG-C40-057",
+    "SURG-C40-058",
+    "SURG-C40-059",
+    "SURG-C40-060"
+   ],
+   "guide": "The AJCC stages it: T1 up to 2 cm, T2 from 2 to 4, T3 beyond 4, T4 by adjacent involvement; M1 metastases land in the liver; N1 is 1-3 nodes, N2 more than three. Varadhachary-Katz decides resectability on the vessels — a clear SMA with a patent portal junction goes straight to surgery; abutment over 180 degrees or under 50% with short-segment occlusion is borderline, taking chemotherapy before surgery; encasement with long-segment occlusion is locally advanced and palliative. Diagnostic laparoscopy is the IOC for peritoneal mets — found, and the procedure is abandoned; peritoneal mets, malignant ascites or liver mets write the word unresectable. Resectable head or periampullary disease is Whipple's; body and tail take a distal pancreatectomy."
+  },
+  {
+   "id": "SURG-U40-5",
+   "ch": 40,
+   "n": 5,
+   "title": "Whipple's Surgery",
+   "sec": "Whipple's Surgery · p301",
+   "qs": [
+    "SURG-C40-061",
+    "SURG-C40-062",
+    "SURG-C40-063",
+    "SURG-C40-064",
+    "SURG-C40-065",
+    "SURG-C40-066",
+    "SURG-C40-067",
+    "SURG-C40-068",
+    "SURG-C40-069",
+    "SURG-C40-070",
+    "SURG-C40-071",
+    "SURG-C40-072",
+    "SURG-C40-073",
+    "SURG-C40-074",
+    "SURG-C40-075",
+    "SURG-C40-076",
+    "SURG-C40-077",
+    "SURG-C40-078"
+   ],
+   "guide": "Whipple's is the pancreaticoduodenectomy: a chevron or roof top incision, then cholecystectomy, CBD, pylorus, pancreatectomy and duodenectomy out, and three anastomoses in — hepaticojejunostomy on the common hepatic duct, gastrojejunostomy and pancreaticojejunostomy. The pylorus-preserving Longmire transverso variant is preferred for fewer dumping syndrome episodes, with the conventional Whipple reserved for an involved pylorus or unattainable margin; the tunnel of love between vessels and pancreas must be intact to proceed at all. Its complications rank: impaired gastric emptying is the commonest (lost receptive relaxation, worse with the conventional), sepsis from anastomotic leak the commonest cause of death, and the pancreatic fistula — a pancreaticojejunostomy leak on post op day 2-3 with turbid amylase-rich drainage that stops spontaneously and answers to octreotide. Gemcitabine plus capecitabine beats monotherapy for effect, FOLFIRINOX for survival."
+  },
+  {
+   "id": "SURG-U40-6",
+   "ch": 40,
+   "n": 6,
+   "title": "Management of Unresectable Tumour",
+   "sec": "Management of Unresectable Tumour · p301",
+   "qs": [
+    "SURG-C40-079",
+    "SURG-C40-080",
+    "SURG-C40-081",
+    "SURG-C40-082",
+    "SURG-C40-083",
+    "SURG-C40-084",
+    "SURG-C40-085",
+    "SURG-C40-086",
+    "SURG-C40-087"
+   ],
+   "guide": "Unresectable disease is palliated: the pruritus and jaundice by ERCP stenting or PTBD (the distal blockage dilates the proximal radicals for puncture drainage), pain by coeliac ganglion block, and the double obstruction prophylactically by the triple bypass — hepaticojejunostomy for bile, gastrojejunostomy against gastric outlet obstruction, jejunojejunostomy — all without touching the tumour. NAB paclitaxel is the listed chemo, and stage remains the most important prognostic factor."
+  },
+  {
+   "id": "SURG-U40-7",
+   "ch": 40,
+   "n": 7,
+   "title": "Insulinoma",
+   "sec": "Insulinoma · p302",
+   "qs": [
+    "SURG-C40-088",
+    "SURG-C40-089",
+    "SURG-C40-090",
+    "SURG-C40-091",
+    "SURG-C40-092",
+    "SURG-C40-093",
+    "SURG-C40-094",
+    "SURG-C40-095",
+    "SURG-C40-096",
+    "SURG-C40-097",
+    "SURG-C40-098",
+    "SURG-C40-099",
+    "SURG-C40-100",
+    "SURG-C40-101"
+   ],
+   "guide": "The insulinoma is the commonest endocrine tumour, a beta-cell lesion, 90% benign and evenly scattered through the gland. Whipple's triad — fasting hypoglycaemia, glucose below 50, rapid resolution with glucose — frames it; the 72-hour fast was the gold standard until it went obsolete, and now the insulin/glucose ratio over 0.3 and the C peptide (raised, unlike exogenous insulin's normal one) carry the diagnosis, with EUS as the best localisation. Under 2 cm it is enucleated, over 2 cm more widely resected; diazoxide holds the insulin in check, and metastatic disease takes chemotherapy, streptozocin and diazoxide."
+  },
+  {
+   "id": "SURG-U40-8",
+   "ch": 40,
+   "n": 8,
+   "title": "Gastrinoma",
+   "sec": "Gastrinoma · p303",
+   "qs": [
+    "SURG-C40-102",
+    "SURG-C40-103",
+    "SURG-C40-104",
+    "SURG-C40-105",
+    "SURG-C40-106",
+    "SURG-C40-107",
+    "SURG-C40-108",
+    "SURG-C40-109",
+    "SURG-C40-110",
+    "SURG-C40-111",
+    "SURG-C40-112",
+    "SURG-C40-113",
+    "SURG-C40-114",
+    "SURG-C40-115",
+    "SURG-C40-116",
+    "SURG-C40-117",
+    "SURG-C40-118",
+    "SURG-C40-119",
+    "SURG-C40-120",
+    "SURG-C40-121",
+    "SURG-C40-122",
+    "SURG-C40-123",
+    "SURG-C40-124",
+    "SURG-C40-125",
+    "SURG-C40-126",
+    "SURG-C40-127"
+   ],
+   "guide": "The gastrinoma — Zollinger Ellison syndrome — is the G-cell tumour, the commonest pancreatic endocrine neoplasm of MEN 1, malignant in 70-80%. It hides in Passaro's triangle (cystic-common hepatic junction, head-neck to body junction, D2-D3 junction), most often in the wall of D1; outside the triangle it is bigger, more aggressive and poorer. Acid floods: gastrin up, HCl up, ulcers multiple, recurrent and atypical in D3 and jejunum, the acidic duodenum inactivating the enzymes into malabsorptive diarrhoea. The triad — raised gastrin, raised acid output, non-beta cell tumour — is proved by a gastrin above 1000, or a secretin rise of 300 below that, with a duodenal pH under 2. SRS lights it up (the insulinoma stays dark), MEN 1 is screened, over 5 mm is fully resected, under 5 mm enucleated, and liver metastases take octreotide against the gastrin and streptozocin against the malignancy."
+  },
+  {
+   "id": "SURG-U40-9",
+   "ch": 40,
+   "n": 9,
+   "title": "Glucagonoma, WDHA and Somatostatinoma",
+   "sec": "Glucagonoma, WDHA and Somatostatinoma · p304",
+   "qs": [
+    "SURG-C40-128",
+    "SURG-C40-129",
+    "SURG-C40-130",
+    "SURG-C40-131",
+    "SURG-C40-132",
+    "SURG-C40-133",
+    "SURG-C40-134",
+    "SURG-C40-135",
+    "SURG-C40-136"
+   ],
+   "guide": "The rare endocrines each keep their signature: the glucagonoma from alpha cells brings diabetes from high sugar, the necrolytic migratory rash, migratory thrombophlebitis (Trousseau) and depression. WDHA — Verner Morrison — is the VIPoma of watery diarrhoea, hypokalaemia, achlorhydria and acidosis; the somatostatinoma steatorrhoeas, sweetens the blood to diabetes and seeds the gallbladder with stones."
+  },
+  {
+   "id": "SURG-U40-10",
+   "ch": 40,
+   "n": 10,
+   "title": "Non-functional and Cystic Neoplasms",
+   "sec": "Non-functional and Cystic Neoplasms · p305",
+   "qs": [
+    "SURG-C40-137",
+    "SURG-C40-138",
+    "SURG-C40-139",
+    "SURG-C40-140",
+    "SURG-C40-141",
+    "SURG-C40-142",
+    "SURG-C40-143",
+    "SURG-C40-144",
+    "SURG-C40-145",
+    "SURG-C40-146",
+    "SURG-C40-147",
+    "SURG-C40-148",
+    "SURG-C40-149",
+    "SURG-C40-150",
+    "SURG-C40-151",
+    "SURG-C40-152",
+    "SURG-C40-153",
+    "SURG-C40-154",
+    "SURG-C40-155",
+    "SURG-C40-156",
+    "SURG-C40-157",
+    "SURG-C40-158",
+    "SURG-C40-159",
+    "SURG-C40-160",
+    "SURG-C40-161",
+    "SURG-C40-162",
+    "SURG-C40-163",
+    "SURG-C40-164",
+    "SURG-C40-165",
+    "SURG-C40-166",
+    "SURG-C40-167",
+    "SURG-C40-168"
+   ],
+   "guide": "The non-functional endocrine neoplasm hits the elderly, is malignant, favours the head and announces itself with chromogranin A and synaptophysin — resect it. The cystic neoplasms are a family to sort: the serous cystic neoplasm, an older patient's head mass of glycogen-rich cells, CEA normal, multiloculated and usually benign, sunburst on CECT — enucleated if large and symptomatic, watched if small. The mucinous tumour, pre-menopausal women in the body and tail with ovarian-like stroma, ER/PR positive, CEA raised and a pancreatitis history (against which the pseudocyst is homogeneous and CEA quiet), egg-shell calcified with a heterogeneous lining. IPMN comes in branch, main and mixed (branch first, then main), triad of Ohashi — dilated hepatopancreatic duct, fish-mouth ampulla, mucin oozing — diagnosed by ERCP: main/mixed over 2 cm resected, branch duct up to 2 cm observed. And the solid pseudopapillary (Gruber Frantz, aka Hamoudi) tumour of the tail in women, beta-catenin/vimentin mutated, is resected."
+  }
+ ]
+}
