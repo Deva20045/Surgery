@@ -1,0 +1,2376 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C38-001",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "In laparoscopic cholecystectomy, the surgeon stands on the:",
+   "opts": [
+    "Left",
+    "Right",
+    "Foot of the bed",
+    "Head of the bed"
+   ],
+   "ans": 0,
+   "exp": "Position: surgeon — left. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-002",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "In laparoscopic cholecystectomy, the assistant stands on the:",
+   "opts": [
+    "Left",
+    "Right",
+    "Foot of the bed",
+    "Head of the bed"
+   ],
+   "ans": 0,
+   "exp": "Position: assistant — left. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-003",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "The patient's position for laparoscopic cholecystectomy is:",
+   "opts": [
+    "Reverse Trendelenburg with right side up",
+    "Trendelenburg with left side up",
+    "Lateral position",
+    "Prone"
+   ],
+   "ans": 0,
+   "exp": "Position: patient — reverse Trendelenburg and right up. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-004",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "In the safe method of laparoscopic cholecystectomy, which structure must be visualized before proceeding with surgery?",
+   "opts": [
+    "The bile duct, status of Rouviere, hepatic artery, umbilical fissure and enteric/duodenum",
+    "Only the cystic duct",
+    "Only the cystic artery",
+    "Only the gallbladder fundus"
+   ],
+   "ans": 0,
+   "exp": "Safe method: bile duct, status of rouviere, hepatic artery, umbilical fissure, enteric/duodenum — to be visualized before proceeding with Sx. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-005",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "The traditional laparoscopic cholecystectomy uses:",
+   "opts": [
+    "Multiple ports",
+    "A single incision",
+    "No ports",
+    "One port and one mini-laparotomy"
+   ],
+   "ans": 0,
+   "exp": "Traditional lap cholecystectomy: multiple ports. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-006",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "In traditional laparoscopic cholecystectomy, the epigastric port is used for:",
+   "opts": [
+    "The right hand",
+    "The left hand",
+    "The camera",
+    "Gallbladder retraction"
+   ],
+   "ans": 0,
+   "exp": "Traditional lap cholecystectomy: epigastric port (R hand). (Book p276)"
+  },
+  {
+   "id": "SURG-C38-007",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "In traditional laparoscopic cholecystectomy, the right hypochondrial port is used for:",
+   "opts": [
+    "The left hand",
+    "The right hand",
+    "The camera",
+    "Gallbladder retraction"
+   ],
+   "ans": 0,
+   "exp": "Traditional lap cholecystectomy: (R) hypochondrial port (L hand). (Book p276)"
+  },
+  {
+   "id": "SURG-C38-008",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "The 4th port in traditional laparoscopic cholecystectomy is used for:",
+   "opts": [
+    "Retraction of the gallbladder",
+    "The camera",
+    "The right hand",
+    "Aspiration of bile"
+   ],
+   "ans": 0,
+   "exp": "Traditional lap cholecystectomy: 4th port — retraction and (GB). (Book p276)"
+  },
+  {
+   "id": "SURG-C38-009",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "The camera port in traditional laparoscopic cholecystectomy is:",
+   "opts": [
+    "The infraumbilical port",
+    "The epigastric port",
+    "The hypochondrial port",
+    "The 4th port"
+   ],
+   "ans": 0,
+   "exp": "Traditional lap cholecystectomy: infraumbilical port — camera. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-010",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "SILS laparoscopic cholecystectomy is:",
+   "opts": [
+    "A single incision procedure",
+    "A multi-port procedure",
+    "An open procedure",
+    "A robot-only procedure"
+   ],
+   "ans": 0,
+   "exp": "SILS lap cholecystectomy: single incision. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-011",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "The disadvantage of SILS laparoscopic cholecystectomy is:",
+   "opts": [
+    "Increased risk of incisional hernia",
+    "No risk at all",
+    "Worsened vision",
+    "Increased bleeding"
+   ],
+   "ans": 0,
+   "exp": "SILS lap cholecystectomy: Disadv — increased risk of incisional hernia. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-012",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "Bailout strategies in laparoscopic cholecystectomy are used in the presence of:",
+   "opts": [
+    "A frozen Calot's triangle with inflammation and adhesions",
+    "A normal Calot's triangle",
+    "A Phrygian cap",
+    "Radiolucent stones"
+   ],
+   "ans": 0,
+   "exp": "Bailout strategies: used in the presence of frozen Calot's — increased inflammation and adhesions, difficulty in dissection. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-013",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "Which of the following is a bailout strategy in laparoscopic cholecystectomy?",
+   "opts": [
+    "Convert to open procedure (4-5%)",
+    "Continue with the same dissection",
+    "Give only antibiotics",
+    "Repeat the operation in 2 days"
+   ],
+   "ans": 0,
+   "exp": "Strategies: abort the procedure, convert to open procedure (4-5%), carry out tube cholecystostomy, carry out subtotal cholecystectomy (used in Mirizzi syndrome), fundus first procedure. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-014",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "Subtotal cholecystectomy as a bailout strategy is used in:",
+   "opts": [
+    "Mirizzi syndrome",
+    "Phrygian cap",
+    "Acalculous cholecystitis only",
+    "Gallstone ileus"
+   ],
+   "ans": 0,
+   "exp": "Strategies: carry out subtotal cholecystectomy — used in Mirizzi syndrome. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-015",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "The most common complication of laparoscopic cholecystectomy is:",
+   "opts": [
+    "Right shoulder tip pain",
+    "Bowel injury",
+    "Bile duct stricture",
+    "Residual stones"
+   ],
+   "ans": 0,
+   "exp": "Complications: right shoulder tip pain — m/c. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-016",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "Shoulder tip pain after laparoscopic cholecystectomy is due to:",
+   "opts": [
+    "Retained CO2 below the right dome of the diaphragm",
+    "Bile in the peritoneum",
+    "Diaphragmatic hernia",
+    "Shoulder muscle injury"
+   ],
+   "ans": 0,
+   "exp": "Shoulder tip pain: d/t retained CO2 below right dome of diaphragm — referred pain. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-017",
+   "sec": "Laparoscopic Cholecystectomy",
+   "page": 276,
+   "q": "Other complications of laparoscopic cholecystectomy include:",
+   "opts": [
+    "Bleeding and injury to bile duct",
+    "Pneumothorax only",
+    "Appendicitis",
+    "Renal colic"
+   ],
+   "ans": 0,
+   "exp": "Complications: bleeding, injury to bile duct. (Book p276)"
+  },
+  {
+   "id": "SURG-C38-018",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "Which of the following is listed as a complication of laparoscopic cholecystectomy?",
+   "opts": [
+    "Injury to bowel",
+    "Hypoglycaemia",
+    "Renal colic",
+    "Shoulder arthropathy"
+   ],
+   "ans": 0,
+   "exp": "Complications (continued on p277): injury to bowel. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-019",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "Residual stones after cholecystectomy are defined as those presenting:",
+   "opts": [
+    "Within 2 years",
+    "After 5 years",
+    "After 10 years",
+    "Immediately only"
+   ],
+   "ans": 0,
+   "exp": "Complications: residual stones — within 2 yrs. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-020",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "Recurrent stones after cholecystectomy are defined as those presenting:",
+   "opts": [
+    "More than 2 years later",
+    "Within 1 year",
+    "Within 6 months",
+    "Immediately only"
+   ],
+   "ans": 0,
+   "exp": "Complications: recurrent stones — >2 yrs. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-021",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "The diagnosis of residual/recurrent stones after cholecystectomy is made by:",
+   "opts": [
+    "MRCP",
+    "Plain X-ray",
+    "Barium meal",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Residual/recurrent stones: Dx — MRCP. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-022",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "Residual/recurrent stones after cholecystectomy are managed by:",
+   "opts": [
+    "ERCP with sphincterotomy",
+    "Re-do cholecystectomy",
+    "Observation only",
+    "Open choledochotomy in all"
+   ],
+   "ans": 0,
+   "exp": "Residual/recurrent stones: Mx — ERCP with sphincterotomy. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-023",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A late complication of laparoscopic cholecystectomy among the following is:",
+   "opts": [
+    "Stricture to the common hepatic duct / common bile duct",
+    "Early shoulder pain only",
+    "Retained CO2",
+    "Hypothermia"
+   ],
+   "ans": 0,
+   "exp": "Complications: stricture to common hepatic duct/common bile duct. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-024",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A partial tear of the common bile duct recognized DURING surgery is managed by:",
+   "opts": [
+    "Repair with absorbable suture",
+    "Choledochojejunostomy",
+    "T-tube anastomosis",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Bile duct injury, aware during Sx: 1. Partial tear — repair with absorbable suture. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-025",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A complete transection of the common bile duct WITHOUT loss of segment is managed by:",
+   "opts": [
+    "Anastomoses with T-tube",
+    "Choledochojejunostomy",
+    "Repair with absorbable suture",
+    "No surgery"
+   ],
+   "ans": 0,
+   "exp": "Aware during Sx: 2. Complete transection without loss of segment — anastomoses with T-tube. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-026",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A complete transection of the common bile duct WITH loss of segment is managed by:",
+   "opts": [
+    "Closing the distal end and choledochojejunostomy",
+    "Primary end to end anastomosis",
+    "T-tube alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Aware during Sx: 3. Complete transection with loss of segment — close distal end and choledochojejunostomy. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-027",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A minor bile leak in the drain that decreases with time in a stable patient after cholecystectomy is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate re-exploration",
+    "ERCP in all",
+    "Emergency laparotomy"
+   ],
+   "ans": 0,
+   "exp": "Aware in post-op period: minor bile leak in drain, amount decreases with time, stable patient — observe. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-028",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A symptomatic bile leak in the post-operative period presents with:",
+   "opts": [
+    "Fever, jaundice and pain with an increasing leak",
+    "Isolated constipation",
+    "Only shoulder pain",
+    "Only anaemia"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic: fever, jaundice, pain, with increased leak. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-029",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "The workup of a symptomatic post-operative bile leak includes:",
+   "opts": [
+    "CBC (raised TLC), USG abdomen (collection below liver) and confirmation by MRCP",
+    "Only a plain X-ray",
+    "Only USG",
+    "ERCP first without MRCP"
+   ],
+   "ans": 0,
+   "exp": "Work up: CBC (raised TLC), USG abdomen (collection below liver), confirmation — MRCP. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-030",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A bile leak recognized within 1-2 days of surgery is managed by:",
+   "opts": [
+    "Re-exploration and repair",
+    "Pigtail catheter only",
+    "Observation for a month",
+    "ERCP with stenting in all"
+   ],
+   "ans": 0,
+   "exp": "Bile leak: within 1-2 days post-Sx — re explore and repair. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-031",
+   "sec": "Complications: Bile Duct Injury",
+   "page": 277,
+   "q": "A bile leak recognized MORE than 2 days after surgery is first managed by:",
+   "opts": [
+    "Pigtail catheter, then ERCP with stenting",
+    "Immediate re-exploration in all",
+    "Observation only",
+    "Oral antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "Bile leak: >2 days post-Sx — pig tail catheter (first intervention), then ERCP + stenting. (Book p277)"
+  },
+  {
+   "id": "SURG-C38-032",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "In the Strasberg classification, a cystic duct leak or minor leak is type:",
+   "opts": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "Bismuth and Strasberg classification: cystic duct leak or minor leak — Strasberg A. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-033",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "Occlusion of an aberrant right hepatic duct is Strasberg type:",
+   "opts": [
+    "B",
+    "A",
+    "C",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "Classification: occlusion of an aberrant (R) hepatic duct (RHD) — Strasberg B. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-034",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "A leak from an aberrant right hepatic duct is Strasberg type:",
+   "opts": [
+    "C",
+    "A",
+    "B",
+    "D"
+   ],
+   "ans": 0,
+   "exp": "Classification: leak from an aberrant RHD — Strasberg C. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-035",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "A lateral injury to the common bile duct is Strasberg type:",
+   "opts": [
+    "D",
+    "A",
+    "B",
+    "C"
+   ],
+   "ans": 0,
+   "exp": "Classification: lateral injury to CBD — Strasberg D. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-036",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "A common hepatic duct stricture with a stump GREATER than 2 cm is:",
+   "opts": [
+    "Bismuth Type I (Strasberg E1)",
+    "Bismuth Type II (Strasberg E2)",
+    "Bismuth Type III (Strasberg E3)",
+    "Bismuth Type IV (Strasberg E4)"
+   ],
+   "ans": 0,
+   "exp": "Classification: CHD stricture, stump >2 cm — Bismuth Type I / Strasberg E1. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-037",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "A common hepatic duct stricture with a stump LESS than 2 cm is:",
+   "opts": [
+    "Bismuth Type II (Strasberg E2)",
+    "Bismuth Type I (Strasberg E1)",
+    "Bismuth Type III (Strasberg E3)",
+    "Bismuth Type V (Strasberg E5)"
+   ],
+   "ans": 0,
+   "exp": "Classification: CHD stricture, stump <2 cm — Bismuth Type II / Strasberg E2. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-038",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "A hilar stricture WITH preserved confluence is:",
+   "opts": [
+    "Bismuth Type III (Strasberg E3)",
+    "Bismuth Type IV (Strasberg E4)",
+    "Bismuth Type I (Strasberg E1)",
+    "Bismuth Type V (Strasberg E5)"
+   ],
+   "ans": 0,
+   "exp": "Classification: hilar stricture with preserved confluence — Bismuth Type III / Strasberg E3. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-039",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "A hilar stricture WITH involvement of the confluence is:",
+   "opts": [
+    "Bismuth Type IV (Strasberg E4)",
+    "Bismuth Type III (Strasberg E3)",
+    "Bismuth Type II (Strasberg E2)",
+    "Bismuth Type I (Strasberg E1)"
+   ],
+   "ans": 0,
+   "exp": "Classification: hilar stricture with involvement of confluence — Bismuth Type IV / Strasberg E4. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-040",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "page": 278,
+   "q": "A stricture to an aberrant right hepatic duct is:",
+   "opts": [
+    "Bismuth Type V (Strasberg E5)",
+    "Bismuth Type IV (Strasberg E4)",
+    "Bismuth Type III (Strasberg E3)",
+    "Bismuth Type I (Strasberg E1)"
+   ],
+   "ans": 0,
+   "exp": "Classification: stricture to an aberrant RHD — Bismuth Type V / Strasberg E5. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-041",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "Gallstones form more readily in pregnancy because of hormonal changes that:",
+   "opts": [
+    "Increase cholesterol secretion",
+    "Decrease cholesterol secretion",
+    "Stop bile production",
+    "Increase gallbladder motility"
+   ],
+   "ans": 0,
+   "exp": "Gall stones in pregnancy: hormonal changes increase cholesterol secretion. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-042",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "Progesterone in pregnancy promotes gallstone formation by:",
+   "opts": [
+    "Decreasing bile acid secretion and slowing gallbladder emptying",
+    "Increasing bile acid secretion",
+    "Speeding gallbladder emptying",
+    "Dissolving cholesterol"
+   ],
+   "ans": 0,
+   "exp": "Progesterone decreases bile acid secretion and slows GB emptying — stones increase. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-043",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "The investigation of choice for gallstones in pregnancy is:",
+   "opts": [
+    "USG",
+    "CECT",
+    "ERCP",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Gall stones in pregnancy: IOC — USG. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-044",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "Mild gallstone disease in the FIRST trimester of pregnancy is managed by:",
+   "opts": [
+    "Conservative treatment",
+    "Laparoscopic cholecystectomy",
+    "Open cholecystectomy",
+    "ERCP with sphincterotomy"
+   ],
+   "ans": 0,
+   "exp": "Management: first trimester — mild cases, conservative. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-045",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "NSAIDs are avoided in the first trimester of pregnancy because they:",
+   "opts": [
+    "Cause premature closure of the ductus arteriosus",
+    "Dissolve the stones",
+    "Cause a Phrygian cap",
+    "Increase bile acid secretion"
+   ],
+   "ans": 0,
+   "exp": "First trimester: NSAIDs avoided — to prevent premature closure of ductus arteriosus. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-046",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "Laparoscopic cholecystectomy in pregnancy is ideally done in the:",
+   "opts": [
+    "Second trimester",
+    "First trimester",
+    "Third trimester",
+    "Any time, trimester is irrelevant"
+   ],
+   "ans": 0,
+   "exp": "Management: second trimester — lap cholecystectomy. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-047",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "Gallstone disease in the THIRD trimester of pregnancy is managed by:",
+   "opts": [
+    "Non-operative management",
+    "Laparoscopic cholecystectomy",
+    "Open cholecystectomy",
+    "ERCP with sphincterotomy"
+   ],
+   "ans": 0,
+   "exp": "Management: third trimester — non-operative Mx. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-048",
+   "sec": "Gall Stones in Pregnancy",
+   "page": 278,
+   "q": "Laparoscopic appendectomy for appendicitis in pregnancy can be done in:",
+   "opts": [
+    "Any trimester",
+    "Only the first trimester",
+    "Only the second trimester",
+    "Only the third trimester"
+   ],
+   "ans": 0,
+   "exp": "Note: lap appendectomy done in any trimester for appendicitis. (Book p278)"
+  },
+  {
+   "id": "SURG-C38-049",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "What proportion of gallbladder cancers are associated with gallstones?",
+   "opts": [
+    "90%",
+    "10%",
+    "50%",
+    "5%"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: gall stones — 90% of GB cancer associated with GB stones. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-050",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Which of the following is a risk factor for gallbladder cancer?",
+   "opts": [
+    "Salmonella typhi carrier",
+    "Hypertension",
+    "Asthma",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: Salmonella typhi carrier. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-051",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "A porcelain gallbladder is a risk factor for:",
+   "opts": [
+    "Gallbladder cancer",
+    "Appendicitis",
+    "Hernia",
+    "Colonic diverticulosis"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: porcelain gallbladder. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-052",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Abnormal pancreatobiliary duct junction (APBDJ) raises the risk of:",
+   "opts": [
+    "Gallbladder cancer and cholangiocarcinoma",
+    "Only breast cancer",
+    "Only oral cancer",
+    "Only skin cancer"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: APBDJ — increased risk of GB cancer and cholangiocarcinoma. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-053",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Heavy metal contamination of which substance is a risk factor for gallbladder cancer?",
+   "opts": [
+    "Water",
+    "Air only",
+    "Soil only",
+    "Food packaging only"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: heavy metal contamination of water. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-054",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Which gallbladder polyp feature INCREASES the risk of cancer?",
+   "opts": [
+    "Adenomatous type, greater than 10 mm, or multiple polyps",
+    "Cholesterol polyps",
+    "A solitary 5 mm polyp",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "GB polyp: adenomatous type, >10 mm/1 cm, multiple polyps increase risk. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-055",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Cholesterol (strawberry) gallbladder polyps:",
+   "opts": [
+    "Do NOT increase the risk of cancer",
+    "Always progress to cancer",
+    "Cause Charcot's triad",
+    "Are the m/c cause of Rigler's triad"
+   ],
+   "ans": 0,
+   "exp": "GB polyp: cholesterol polyps do not increase risk; the cholesterol/strawberry GB does not raise the risk of cancer. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-056",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "A gallbladder polyp LESS than 10 mm is managed by:",
+   "opts": [
+    "Monitoring with regular USG",
+    "Immediate cholecystectomy",
+    "Chemotherapy",
+    "ERCP"
+   ],
+   "ans": 0,
+   "exp": "GB polyp: <10 mm size — monitor + regular USG. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-057",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Gallbladder cancer is usually:",
+   "opts": [
+    "An adenocarcinoma",
+    "A squamous cell carcinoma",
+    "A sarcoma",
+    "A lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Types: adenocarcinoma — infiltrating, nodular and papillary. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-058",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "The most aggressive type of gallbladder adenocarcinoma is:",
+   "opts": [
+    "Infiltrating",
+    "Papillary",
+    "Nodular",
+    "Cystic"
+   ],
+   "ans": 0,
+   "exp": "Types: infiltrating (most aggressive), nodular, papillary. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-059",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "A gallbladder cancer on examination presents as a GB mass that:",
+   "opts": [
+    "Does not retain the pyriform shape and has loss of mobility",
+    "Moves side to side freely",
+    "Is tender but mobile",
+    "Is always radiolucent"
+   ],
+   "ans": 0,
+   "exp": "Clinical presentation: GB mass — does not retain pyriform shape, loss of mobility. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-060",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "In gallbladder cancer, jaundice is:",
+   "opts": [
+    "A late feature",
+    "The earliest feature",
+    "Never seen",
+    "Seen only in metastasis"
+   ],
+   "ans": 0,
+   "exp": "Clinical presentation: jaundice — late feature. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-061",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Direct invasion in gallbladder cancer occurs because the gallbladder fossa comprises:",
+   "opts": [
+    "Segments 4b and 5 of liver",
+    "Segments 2 and 3",
+    "Segments 7 and 8",
+    "Segment 1 only"
+   ],
+   "ans": 0,
+   "exp": "Spread: direct invasion — gallbladder fossa comprises of 4b, 5th segments of liver. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-062",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "Lymphatic spread of gallbladder cancer occurs via:",
+   "opts": [
+    "Subserosal lymphatics to the liver",
+    "The hepatic vein only",
+    "The inferior vena cava",
+    "The portal vein only"
+   ],
+   "ans": 0,
+   "exp": "Spread: lymphatic spread — subserosal lymphatics to liver. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-063",
+   "sec": "Gallbladder Cancer",
+   "page": 279,
+   "q": "The most common site of haematogenous spread of gallbladder cancer is:",
+   "opts": [
+    "The liver",
+    "The lung",
+    "The bone",
+    "The brain"
+   ],
+   "ans": 0,
+   "exp": "Spread: haematogenous spread — liver (m/c site), lung. (Book p279)"
+  },
+  {
+   "id": "SURG-C38-064",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "The investigation of choice for gallbladder cancer is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray",
+    "USG alone",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CECT — IOC. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-065",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "CECT is the investigation of choice for all of the following EXCEPT:",
+   "opts": [
+    "Gallbladder cancer",
+    "GIST",
+    "Renal cell cancer",
+    "Appendicitis"
+   ],
+   "ans": 0,
+   "exp": "Note: CECT is IOC in GIST, GB cancer, renal cell cancer. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-066",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "FNAC / biopsy in gallbladder cancer is indicated for:",
+   "opts": [
+    "Metastasis or an indeterminate diagnosis",
+    "Every incidental gallbladder polyp",
+    "All porcelain gallbladders",
+    "All gallstones"
+   ],
+   "ans": 0,
+   "exp": "FNAC/biopsy: indication — metastasis, indeterminate Dx. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-067",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "In gallbladder cancer staging, Tis means:",
+   "opts": [
+    "Carcinoma in situ",
+    "Invasion of the serosa",
+    "Invasion of the hepatic artery",
+    "Invasion of perimuscular tissue"
+   ],
+   "ans": 0,
+   "exp": "Tumour staging: Tis — carcinoma in situ. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-068",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T1a gallbladder cancer is:",
+   "opts": [
+    "Limited to the lamina propria",
+    "Invasion into the muscularis",
+    "Invasion of perimuscular tissue",
+    "Invasion of the serosa and liver"
+   ],
+   "ans": 0,
+   "exp": "Staging: T1 — invasion into lamina propria or muscularis; T1a — limited to lamina propria. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-069",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T1b gallbladder cancer is:",
+   "opts": [
+    "Invasion into the muscularis",
+    "Limited to the lamina propria",
+    "Invasion of perimuscular tissue",
+    "Invasion of the hepatic artery"
+   ],
+   "ans": 0,
+   "exp": "Staging: T1b — invades into muscularis. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-070",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T2 gallbladder cancer is:",
+   "opts": [
+    "Invasion of perimuscular tissue",
+    "Invasion of the serosa and liver",
+    "Carcinoma in situ",
+    "Invasion of the main portal vein"
+   ],
+   "ans": 0,
+   "exp": "Staging: T2 — invasion of perimuscular tissue. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-071",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T3 gallbladder cancer is:",
+   "opts": [
+    "Invasion of the serosa and liver",
+    "Invasion of the hepatic artery",
+    "Invasion of perimuscular tissue",
+    "Carcinoma in situ"
+   ],
+   "ans": 0,
+   "exp": "Staging: T3 — invasion of serosa, liver. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-072",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T4 gallbladder cancer is:",
+   "opts": [
+    "Invasion of the hepatic artery or main portal vein",
+    "Invasion of the serosa only",
+    "Carcinoma in situ",
+    "Invasion limited to the lamina propria"
+   ],
+   "ans": 0,
+   "exp": "Staging: T4 — invasion of hepatic artery, main portal vein. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-073",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T1a gallbladder cancer (above the muscle layer) is managed by:",
+   "opts": [
+    "Simple cholecystectomy, avoiding bile spillage",
+    "Radical cholecystectomy",
+    "Chemotherapy only",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Management: T1a — above muscle layer, simple cholecystectomy; bile spillage must be avoided. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-074",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T1b and T2 gallbladder cancers are managed by:",
+   "opts": [
+    "Radical cholecystectomy",
+    "Simple cholecystectomy only",
+    "Observation",
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Management: T1b, T2 — radical cholecystectomy. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-075",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "Structures removed in radical cholecystectomy for gallbladder cancer include:",
+   "opts": [
+    "Gallbladder, segments 4b and 5 of liver, lymph nodes along the hepatoduodenal ligament, and CBD if involved or cancer near the neck",
+    "Gallbladder alone",
+    "Only the cystic duct",
+    "Only segment 8"
+   ],
+   "ans": 0,
+   "exp": "Radical cholecystectomy: structures removed — GB, 4b, 5 segments of liver, lymph node along hepatoduodenal ligament, CBD (+/-) removed if involved / cancer near neck of GB. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-076",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "If anatomical resection is not done in radical cholecystectomy, the margin rule is:",
+   "opts": [
+    "A 2 cm rim around the gallbladder is removed",
+    "No margin is needed",
+    "A 5 mm rim",
+    "The whole right lobe is removed"
+   ],
+   "ans": 0,
+   "exp": "Radical cholecystectomy: if anatomical resection is not done — a 2 cm rim around GB is removed. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-077",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "T3 and T4 gallbladder cancers are treated with:",
+   "opts": [
+    "Gemcitabine based chemotherapy",
+    "Simple cholecystectomy",
+    "Radiotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management: T3, T4 — gemcitabine based chemotherapy. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-078",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "After gemcitabine-based chemotherapy for T3/T4 gallbladder cancer, a GOOD response leads to:",
+   "opts": [
+    "Radical cholecystectomy",
+    "Continued palliation only",
+    "No further treatment",
+    "Simple cholecystectomy"
+   ],
+   "ans": 0,
+   "exp": "Management: response — good, radical cholecystectomy. (Book p280)"
+  },
+  {
+   "id": "SURG-C38-079",
+   "sec": "Gallbladder Cancer",
+   "page": 280,
+   "q": "After gemcitabine-based chemotherapy for T3/T4 gallbladder cancer, a POOR response leads to:",
+   "opts": [
+    "Continued palliative treatment (chemo/radiotherapy)",
+    "Radical cholecystectomy",
+    "Simple cholecystectomy",
+    "Observation for a year"
+   ],
+   "ans": 0,
+   "exp": "Management: response — poor, continue palliative Rx (chemo/radiotherapy). (Book p280)"
+  },
+  {
+   "id": "SURG-C38-080",
+   "sec": "Gallbladder Cancer",
+   "page": 281,
+   "q": "Post-operative chemotherapy for gallbladder cancer is:",
+   "opts": [
+    "Gemcitabine based",
+    "Methotrexate based",
+    "Cisplatin alone",
+    "Not given at all"
+   ],
+   "ans": 0,
+   "exp": "Post Sx: chemotherapy — gemcitabine based. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-081",
+   "sec": "Gallbladder Cancer",
+   "page": 281,
+   "q": "Post-operative radiotherapy in gallbladder cancer:",
+   "opts": [
+    "Decreases local recurrence",
+    "Cures the disease",
+    "Has no role",
+    "Only treats distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "Post Sx: radiotherapy — decreases local recurrence. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-082",
+   "sec": "Gallbladder Cancer",
+   "page": 281,
+   "q": "The most important prognostic factor in gallbladder cancer is:",
+   "opts": [
+    "Depth (T staging)",
+    "Age",
+    "Gender",
+    "Polyp size"
+   ],
+   "ans": 0,
+   "exp": "Prognostic factor: most important — depth, T-staging. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-083",
+   "sec": "Gallbladder Cancer",
+   "page": 281,
+   "q": "Gallbladder cancer is monitored with:",
+   "opts": [
+    "CA 19-9",
+    "AFP",
+    "PSA",
+    "CEA only"
+   ],
+   "ans": 0,
+   "exp": "Prognostic factor: monitoring — CA 19-9. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-084",
+   "sec": "Gallbladder Cancer",
+   "page": 281,
+   "q": "CA 19-9 is used in:",
+   "opts": [
+    "Cholangiocarcinoma and pancreatic cancer",
+    "Only breast cancer",
+    "Only thyroid cancer",
+    "Only prostate cancer"
+   ],
+   "ans": 0,
+   "exp": "Note: CA 19-9 used in cholangiocarcinoma and pancreatic cancer. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-085",
+   "sec": "Gallbladder Cancer",
+   "page": 281,
+   "q": "If gallbladder cancer is diagnosed AFTER laparoscopic cholecystectomy, excision of the laparoscopic port sites:",
+   "opts": [
+    "Is NOT beneficial",
+    "Is always curative",
+    "Is mandatory in all",
+    "Prevents local recurrence"
+   ],
+   "ans": 0,
+   "exp": "Note: cancer diagnosed post Sx — excision of laparoscopic ports are not beneficial. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-086",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "Extrahepatic biliary atresia results from:",
+   "opts": [
+    "Inflammatory fibrosis leading to atresia of the duct",
+    "A congenital absence of the liver",
+    "Gallstone obstruction",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Extrahepatic biliary atresia: inflammatory fibrosis leads to atresia of duct, causing cirrhosis and liver failure. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-087",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "Extrahepatic biliary atresia is seen in:",
+   "opts": [
+    "Children",
+    "Elderly only",
+    "Only in pregnancy",
+    "Only in neonatal hepatitis"
+   ],
+   "ans": 0,
+   "exp": "Seen in children. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-088",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "Extrahepatic biliary atresia is the:",
+   "opts": [
+    "Most common cause of liver transplantation in children",
+    "Rarest cause of liver failure",
+    "Cause of most gallstones",
+    "Cause of Charcot's triad in adults"
+   ],
+   "ans": 0,
+   "exp": "M/c cause of liver Tx in children. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-089",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "In the Japanese and Anglo-Saxon classification, Type I biliary atresia is:",
+   "opts": [
+    "Atresia restricted to the common bile duct",
+    "Atresia of the common hepatic duct",
+    "Atresia of the right and left hepatic ducts",
+    "Atresia of the entire intrahepatic tree"
+   ],
+   "ans": 0,
+   "exp": "Classification: Type I — atresia restricted to CBD. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-090",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "In Type IIa biliary atresia:",
+   "opts": [
+    "The gallbladder and common bile duct are patent",
+    "The gallbladder, cystic duct and CBD are obliterated",
+    "The hepatic ducts are atretic",
+    "Only the cystic duct is atretic"
+   ],
+   "ans": 0,
+   "exp": "Type II: atresia of CHD; IIa — patent GB and CBD. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-091",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "In Type IIb biliary atresia:",
+   "opts": [
+    "The gallbladder, cystic duct and common bile duct are obliterated",
+    "The gallbladder and CBD are patent",
+    "Only the hepatic ducts are atretic",
+    "The ampulla is atretic"
+   ],
+   "ans": 0,
+   "exp": "Type IIb: GB, cystic duct, CBD are obliterated. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-092",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "Type III biliary atresia involves:",
+   "opts": [
+    "Atresia of the right and left hepatic ducts and the entire extrahepatic biliary tree",
+    "Atresia restricted to the CBD",
+    "Only a diverticulum of the CBD",
+    "Only the intraduodenal CBD"
+   ],
+   "ans": 0,
+   "exp": "Type III: atresia of (R) and (L) hepatic ducts and entire extrahepatic biliary tree. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-093",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "An associated anomaly of extrahepatic biliary atresia is:",
+   "opts": [
+    "Preduodenal portal vein",
+    "A Phrygian cap",
+    "A porcelain gallbladder",
+    "Rigler's triad"
+   ],
+   "ans": 0,
+   "exp": "Associated anomalies: cardiac lesions, polysplenia, situs inversus, absent vena cava, pre duodenal portal vein. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-094",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "Which of the following is an associated anomaly of biliary atresia?",
+   "opts": [
+    "Situs inversus",
+    "Hypertension",
+    "Coeliac disease",
+    "Asthma"
+   ],
+   "ans": 0,
+   "exp": "Associated anomalies include situs inversus (also cardiac lesions, polysplenia, absent vena cava, preduodenal portal vein). (Book p281)"
+  },
+  {
+   "id": "SURG-C38-095",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "The clinical features of extrahepatic biliary atresia are:",
+   "opts": [
+    "Jaundice at birth with rapidly progressive liver failure and cirrhosis",
+    "Painless jaundice with a mass",
+    "Chronic diarrhoea only",
+    "Pneumobilia"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: jaundice at birth, liver failure and cirrhosis (rapid progression). (Book p281)"
+  },
+  {
+   "id": "SURG-C38-096",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 281,
+   "q": "Blood investigations in biliary atresia show:",
+   "opts": [
+    "Raised serum bilirubin and alkaline phosphatase",
+    "Normal bilirubin with low alkaline phosphatase",
+    "Only a raised WBC",
+    "Only anaemia"
+   ],
+   "ans": 0,
+   "exp": "Investigation — blood investigations: raised S. bilirubin, raised alkaline phosphatase. (Book p281)"
+  },
+  {
+   "id": "SURG-C38-097",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 282,
+   "q": "The gold standard investigation in extrahepatic biliary atresia is:",
+   "opts": [
+    "Fasting USG",
+    "Plain X-ray",
+    "Barium meal",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: fasting USG — gold standard. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-098",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 282,
+   "q": "MRCP in biliary atresia is:",
+   "opts": [
+    "Highly sensitive and specific",
+    "Useless",
+    "Only therapeutic",
+    "Only for adults"
+   ],
+   "ans": 0,
+   "exp": "MRCP: highly sensitive and specific. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-099",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 282,
+   "q": "A liver biopsy in biliary atresia:",
+   "opts": [
+    "Confirms the diagnosis, with inflammatory cells present in neonatal hepatitis",
+    "Excludes the diagnosis in all",
+    "Is never done",
+    "Shows a Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Liver biopsy: confirms Dx; rule out neonatal hepatitis — presence of inflammatory cells. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-100",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 282,
+   "q": "A differential diagnosis of extrahepatic biliary atresia is:",
+   "opts": [
+    "Alagille syndrome (biliary atresia, congenital heart disease, skeletal abnormalities)",
+    "Gallstone ileus",
+    "Bouveret syndrome",
+    "Mirizzi syndrome"
+   ],
+   "ans": 0,
+   "exp": "D/d: neonatal hepatitis, Alagille syndrome — biliary atresia, congenital heart disease, skeletal abnormalities. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-101",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 282,
+   "q": "Type I extrahepatic biliary atresia is managed by:",
+   "opts": [
+    "Hepaticojejunostomy",
+    "Kasai procedure",
+    "Liver transplantation only",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management: Type I — hepaticojejunostomy. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-102",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 282,
+   "q": "The Kasai procedure (for Type II/III biliary atresia) consists of:",
+   "opts": [
+    "Portoenterostomy with jejunal anastomosis at the level of the porta hepatis",
+    "Cholecystectomy",
+    "Choledochojejunostomy",
+    "ERCP with stenting"
+   ],
+   "ans": 0,
+   "exp": "Management: Type II, III — Kasai procedure: portoenterostomy, jejunal anastomosis at the level of porta hepatis. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-103",
+   "sec": "Extrahepatic Biliary Atresia",
+   "page": 282,
+   "q": "In what proportion of biliary atresia does the disease progress despite surgery, leading to liver failure requiring transplantation?",
+   "opts": [
+    "20-30%",
+    "90%",
+    "1%",
+    "50-70%"
+   ],
+   "ans": 0,
+   "exp": "Management: 20-30% — progressive disease despite Sx, live failure, Mx transplantation. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-104",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "A choledochal cyst is:",
+   "opts": [
+    "Dilatation of the biliary tree",
+    "A stone in the common bile duct",
+    "A cyst of the gallbladder fundus",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Choledochal cysts: dilatation of biliary tree. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-105",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "Jaundice in choledochal cysts is due to:",
+   "opts": [
+    "Ineffective drainage",
+    "Haemolysis",
+    "Cirrhosis",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Choledochal cysts: dilatation leads to ineffective drainage, causing jaundice. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-106",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "Choledochal cysts raise the risk of cholangiocarcinoma by:",
+   "opts": [
+    "10%",
+    "50%",
+    "1%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Choledochal cysts: risk of cholangiocarcinoma increased by 10%. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-107",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "In the Todani / modified Alonso-Lej classification, Type I choledochal cyst is:",
+   "opts": [
+    "Diffuse common bile duct dilatation (most common)",
+    "A diverticulum of the CBD",
+    "Intraduodenal CBD dilatation",
+    "Intrahepatic radical dilatation"
+   ],
+   "ans": 0,
+   "exp": "Todani classification: Type I — diffuse CBD dilatation, m/c. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-108",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "Type II choledochal cyst is:",
+   "opts": [
+    "A diverticulum of the common bile duct",
+    "Diffuse CBD dilatation",
+    "Intraduodenal CBD dilatation",
+    "Intrahepatic biliary radical dilatation"
+   ],
+   "ans": 0,
+   "exp": "Todani classification: Type II — diverticulum of CBD. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-109",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "Type III choledochal cyst, involving the intraduodenal portion of the CBD, is also known as:",
+   "opts": [
+    "Choledochocele",
+    "A mucocele",
+    "Caroli's disease",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Todani classification: Type III — intraduodenal portion of CBD dilatation, aka choledochocele. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-110",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "Type IVa choledochal cyst shows:",
+   "opts": [
+    "Intrahepatic and extrahepatic biliary tree dilatation",
+    "Extrahepatic dilatation only",
+    "Intrahepatic dilatation only",
+    "A CBD diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Todani classification: Type IVa — intra and extrahepatic biliary tree dilatation. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-111",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "Type IVb choledochal cyst shows:",
+   "opts": [
+    "Extrahepatic biliary tree dilatation",
+    "Intrahepatic radical dilatation only",
+    "A CBD diverticulum",
+    "Diffuse CBD dilatation only"
+   ],
+   "ans": 0,
+   "exp": "Todani classification: Type IVb — extrahepatic biliary tree dilatation. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-112",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "Type V choledochal cyst, with intrahepatic biliary radicals dilatation, is also known as:",
+   "opts": [
+    "Caroli's disease",
+    "A choledochocele",
+    "Mirizzi syndrome",
+    "A mucocele"
+   ],
+   "ans": 0,
+   "exp": "Todani classification: Type V — intrahepatic biliary radicals dilatation, aka Caroli's disease. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-113",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "The clinical features of a choledochal cyst are:",
+   "opts": [
+    "Lump, pain and jaundice",
+    "Painless weight loss",
+    "Obstipation and vomiting",
+    "Reynold's pentad"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: lump, pain, jaundice. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-114",
+   "sec": "Choledochal Cysts",
+   "page": 282,
+   "q": "The investigation of choice for a choledochal cyst is:",
+   "opts": [
+    "MRCP",
+    "USG alone",
+    "HIDA scan",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "Investigation: MRCP — IOC. (Book p282)"
+  },
+  {
+   "id": "SURG-C38-115",
+   "sec": "Choledochal Cysts",
+   "page": 283,
+   "q": "Type I choledochal cyst is managed by:",
+   "opts": [
+    "Roux-en-Y hepaticojejunostomy",
+    "ERCP with sphincterotomy",
+    "Cholecystectomy only",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management: Type I — Roux-en-Y hepaticojejunostomy. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-116",
+   "sec": "Choledochal Cysts",
+   "page": 283,
+   "q": "Type II choledochal cyst is managed by:",
+   "opts": [
+    "Cut and repair of the CBD",
+    "Roux-en-Y hepaticojejunostomy",
+    "ERCP with sphincterotomy",
+    "Transplantation"
+   ],
+   "ans": 0,
+   "exp": "Management: Type II — cut and repair CBD. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-117",
+   "sec": "Choledochal Cysts",
+   "page": 283,
+   "q": "Type III choledochal cyst is managed by:",
+   "opts": [
+    "ERCP with sphincterotomy",
+    "Roux-en-Y hepaticojejunostomy",
+    "Transplantation",
+    "Cut and repair of the CBD"
+   ],
+   "ans": 0,
+   "exp": "Management: Type III — ERCP + sphincterotomy. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-118",
+   "sec": "Choledochal Cysts",
+   "page": 283,
+   "q": "Choledochal cysts with intrahepatic radical involvement (Type IVa and V) are managed by:",
+   "opts": [
+    "Transplantation",
+    "ERCP with sphincterotomy",
+    "Simple cholecystectomy",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management: intrahepatic radical involvement IVa, V — transplant. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-119",
+   "sec": "Choledochal Cysts",
+   "page": 283,
+   "q": "Type IVb choledochal cyst is managed by:",
+   "opts": [
+    "Portoenterostomy",
+    "Roux-en-Y hepaticojejunostomy",
+    "ERCP with sphincterotomy",
+    "Transplantation"
+   ],
+   "ans": 0,
+   "exp": "Management: IVb — portoenterostomy. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-120",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Cholangiocarcinoma is:",
+   "opts": [
+    "Carcinoma of the bile duct",
+    "Carcinoma of the gallbladder only",
+    "A benign biliary stricture",
+    "Cancer of the pancreas only"
+   ],
+   "ans": 0,
+   "exp": "Cholangiocarcinoma: carcinoma of bile duct. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-121",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Which of the following is a risk factor for cholangiocarcinoma?",
+   "opts": [
+    "Choledochal cysts",
+    "A Phrygian cap",
+    "Radiolucent stones",
+    "Bouveret syndrome"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: obesity, DM, HBV/HCV, choledochal cysts, thorotrast, abnormal pancreatobiliary duct junction, sclerosing cholangitis. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-122",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Thorotrast exposure raises the risk of:",
+   "opts": [
+    "Hepatocellular cancer, cholangiocarcinoma and renal cell carcinoma",
+    "Only skin cancer",
+    "Only oral cancer",
+    "Only breast cancer"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: thorotrast — increased risk of hepatocellular cancer, cholangiocarcinoma, renal cell carcinoma. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-123",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Primary sclerosing cholangitis is a:",
+   "opts": [
+    "Autoimmune disease",
+    "Infective disease only",
+    "Genetic disorder only",
+    "Nutritional disease"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis: autoimmune disease. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-124",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Primary sclerosing cholangitis is associated with:",
+   "opts": [
+    "Inflammatory bowel disease",
+    "Coeliac disease only",
+    "Hypertension",
+    "Asthma"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis: associated with inflammatory bowel disease. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-125",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Primary sclerosing cholangitis is more common in:",
+   "opts": [
+    "Females than males",
+    "Males than females",
+    "Children than adults",
+    "Both sexes equally"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis: F > m. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-126",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "The HLA association in primary sclerosing cholangitis is:",
+   "opts": [
+    "DR3/B8",
+    "DR4 only",
+    "B27 only",
+    "No HLA association"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis: HLA DR3/B8 associations. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-127",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Antibodies seen in primary sclerosing cholangitis include:",
+   "opts": [
+    "Anti-smooth muscle antibodies and antinuclear antibodies",
+    "Anti-mitochondrial antibodies only",
+    "ANA only",
+    "No antibodies"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis: anti-smooth muscle antibodies, antinuclear antibodies. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-128",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Inflammatory fibrosis in primary sclerosing cholangitis leads to:",
+   "opts": [
+    "Multiple strictures",
+    "A single stricture only",
+    "No strictures",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis: inflammatory fibrosis leads to multiple strictures. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-129",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "The investigation of choice in primary sclerosing cholangitis is:",
+   "opts": [
+    "MRCP, showing a beaded appearance of the biliary tree",
+    "Plain X-ray",
+    "USG alone",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis: IOC — MRCP (beaded appearance of biliary tree). (Book p283)"
+  },
+  {
+   "id": "SURG-C38-130",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "The clinical feature of cholangiocarcinoma is:",
+   "opts": [
+    "Obstructive jaundice",
+    "Painless mass only",
+    "Obstipation",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Features: obstructive jaundice. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-131",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "A distal common bile duct tumour presents as:",
+   "opts": [
+    "Periampullary cancer",
+    "Gallstone ileus",
+    "A WES sign",
+    "Bouveret syndrome"
+   ],
+   "ans": 0,
+   "exp": "Features: distal CBD tumour — presents as periampullary cancer. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-132",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "The most common site of cholangiocarcinoma is:",
+   "opts": [
+    "The hilum",
+    "The ampulla",
+    "The intrahepatic ducts only",
+    "The duodenum"
+   ],
+   "ans": 0,
+   "exp": "Features: m/c site — hilum. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-133",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "A Klatskin tumour is:",
+   "opts": [
+    "A hilar cholangiocarcinoma",
+    "A distal CBD tumour",
+    "A gallbladder carcinoma",
+    "A pancreatic head tumour"
+   ],
+   "ans": 0,
+   "exp": "Klatskin tumours: hilar cholangiocarcinoma; Bismuth-Corlette classification. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-134",
+   "sec": "Cholangiocarcinoma",
+   "page": 283,
+   "q": "Klatskin tumours are classified by:",
+   "opts": [
+    "The Bismuth-Corlette classification",
+    "The Todani classification",
+    "The Couinaud classification",
+    "The TNM of the lung"
+   ],
+   "ans": 0,
+   "exp": "Klatskin tumours: Bismuth-Corlette classification. (Book p283)"
+  },
+  {
+   "id": "SURG-C38-135",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "The investigation of choice for cholangiocarcinoma is:",
+   "opts": [
+    "MRCP",
+    "ERCP",
+    "CECT alone",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: MRCP — IOC. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-136",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "A DISTAL CBD cholangiocarcinoma without metastasis is managed by:",
+   "opts": [
+    "Whipple's surgery",
+    "Hepaticojejunostomy",
+    "Choledochojejunostomy",
+    "Portoenterostomy"
+   ],
+   "ans": 0,
+   "exp": "Management — resectable, no metastasis: a. Distal CBD — Whipple's Sx. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-137",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "A SUPRADUODENAL cholangiocarcinoma without metastasis is managed by:",
+   "opts": [
+    "Choledochojejunostomy",
+    "Whipple's surgery",
+    "Hepaticojejunostomy",
+    "Portoenterostomy"
+   ],
+   "ans": 0,
+   "exp": "Management: b. Supraduodenal — choledochojejunostomy. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-138",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "A COMMON HEPATIC DUCT cholangiocarcinoma without metastasis is managed by:",
+   "opts": [
+    "Hepaticojejunostomy",
+    "Whipple's surgery",
+    "Choledochojejunostomy",
+    "Portoenterostomy"
+   ],
+   "ans": 0,
+   "exp": "Management: c. CHD — hepaticojejunostomy. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-139",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "A Klatskin tumour without metastasis is managed by:",
+   "opts": [
+    "Portoenterostomy",
+    "Whipple's surgery",
+    "Choledochojejunostomy",
+    "Hepaticojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Management: d. Klatskin tumour — portoenterostomy. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-140",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "Chemotherapy used in cholangiocarcinoma is:",
+   "opts": [
+    "Gemcitabine based",
+    "Methotrexate based",
+    "Cisplatin alone",
+    "Not used at all"
+   ],
+   "ans": 0,
+   "exp": "Management: chemotherapy — gemcitabine based. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-141",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "The most common site of metastasis in cholangiocarcinoma is:",
+   "opts": [
+    "The liver",
+    "The lung",
+    "The bone",
+    "The brain"
+   ],
+   "ans": 0,
+   "exp": "Non-resectable: m/c site of metastasis — liver. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-142",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "Palliative management of non-resectable cholangiocarcinoma includes:",
+   "opts": [
+    "ERCP with stenting or percutaneous transhepatic biliary drainage",
+    "Whipple's surgery",
+    "Radical hepatectomy",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Palliative Mx: ERCP + stenting, percutaneous transhepatic biliary drainage. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-143",
+   "sec": "Cholangiocarcinoma",
+   "page": 284,
+   "q": "The tumour marker for cholangiocarcinoma is:",
+   "opts": [
+    "Serum CA 19-9",
+    "AFP",
+    "PSA",
+    "CA-125 only"
+   ],
+   "ans": 0,
+   "exp": "Tumour marker: S. CA 19-9. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-144",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "Hemobilia is:",
+   "opts": [
+    "Bleeding from the biliary tree",
+    "Bile leaking into blood vessels",
+    "Air in the biliary tree",
+    "A distended gallbladder"
+   ],
+   "ans": 0,
+   "exp": "Miscellaneous: hemobilia — bleeding from biliary tree. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-145",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "Bilhemia is:",
+   "opts": [
+    "Bile leaking into blood vessels",
+    "Bleeding from the biliary tree",
+    "Pneumobilia",
+    "A mucocele"
+   ],
+   "ans": 0,
+   "exp": "Miscellaneous: bilhemia — bile leaking into blood vessels. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-146",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "Causes of hemobilia and bilhemia include:",
+   "opts": [
+    "Post ERCP and trauma",
+    "Pregnancy",
+    "OCP use",
+    "Vagotomy"
+   ],
+   "ans": 0,
+   "exp": "Causes (both): post ERCP, trauma. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-147",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "Quincke's triad in hemobilia consists of:",
+   "opts": [
+    "Pain, jaundice and melena",
+    "Fever, shock and altered sensorium",
+    "Pain, mass and jaundice",
+    "Pneumobilia, SBO and a stone"
+   ],
+   "ans": 0,
+   "exp": "Features: hemobilia — Quincke's triad: pain, jaundice, melena. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-148",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "The feature of bilhemia is:",
+   "opts": [
+    "Rapidly progressive jaundice",
+    "Quincke's triad",
+    "Pneumobilia",
+    "A WES sign"
+   ],
+   "ans": 0,
+   "exp": "Features: bilhemia — rapidly progressive jaundice. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-149",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "The investigation of choice for hemobilia is:",
+   "opts": [
+    "CT angiography",
+    "ERCP",
+    "USG alone",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "IOC: hemobilia — CT angiography. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-150",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "The investigation of choice for bilhemia is:",
+   "opts": [
+    "ERCP",
+    "CT angiography",
+    "USG alone",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "IOC: bilhemia — ERCP. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-151",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "Hemobilia is usually:",
+   "opts": [
+    "Self limiting, with embolisation if bleeding",
+    "Fatal in all",
+    "Always surgical",
+    "Treated only with antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Management: hemobilia — self limiting (usually), embolisation if bleeding. (Book p284)"
+  },
+  {
+   "id": "SURG-C38-152",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia",
+   "page": 284,
+   "q": "Bilhemia is managed by:",
+   "opts": [
+    "ERCP with stenting",
+    "Observation only",
+    "Cholecystectomy",
+    "Whipple's surgery"
+   ],
+   "ans": 0,
+   "exp": "Management: bilhemia — ERCP + stenting. (Book p284)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U38-1",
+   "ch": 38,
+   "n": 1,
+   "title": "Laparoscopic Cholecystectomy",
+   "sec": "Laparoscopic Cholecystectomy · p276",
+   "qs": [
+    "SURG-C38-001",
+    "SURG-C38-002",
+    "SURG-C38-003",
+    "SURG-C38-004",
+    "SURG-C38-005",
+    "SURG-C38-006",
+    "SURG-C38-007",
+    "SURG-C38-008",
+    "SURG-C38-009",
+    "SURG-C38-010",
+    "SURG-C38-011",
+    "SURG-C38-012",
+    "SURG-C38-013",
+    "SURG-C38-014",
+    "SURG-C38-015",
+    "SURG-C38-016",
+    "SURG-C38-017"
+   ],
+   "guide": "Lap cholecystectomy has its choreography: surgeon and assistant both on the left, the patient in reverse Trendelenburg tipped right. Before a single clip goes on, the safe method demands the bile duct, Rouviere's status, hepatic artery, umbilical fissure and duodenum all in view. The classic four ports each have a job — epigastric for the right hand, hypochondrial for the left, the 4th for fundus retraction, infraumbilical for the camera — while the single-incision variant trades cosmesis for a higher incisional hernia rate. When Calot's freezes, the bailouts are the art: abort, convert to open (4-5%), tube cholecystostomy, subtotal for Mirizzi, or go fundus first."
+  },
+  {
+   "id": "SURG-U38-2",
+   "ch": 38,
+   "n": 2,
+   "title": "Complications: Bile Duct Injury",
+   "sec": "Complications: Bile Duct Injury · p277",
+   "qs": [
+    "SURG-C38-018",
+    "SURG-C38-019",
+    "SURG-C38-020",
+    "SURG-C38-021",
+    "SURG-C38-022",
+    "SURG-C38-023",
+    "SURG-C38-024",
+    "SURG-C38-025",
+    "SURG-C38-026",
+    "SURG-C38-027",
+    "SURG-C38-028",
+    "SURG-C38-029",
+    "SURG-C38-030",
+    "SURG-C38-031"
+   ],
+   "guide": "The complications list starts with the commonest — right shoulder tip pain from CO2 under the right diaphragmatic dome — then bleeding, bile duct injury, bowel injury, residual stones within 2 years (recurrent beyond) diagnosed on MRCP and cleared by ERCP, and the dreaded CHD/CBD stricture. In the operating room a partial tear is sewn with absorbable suture, a complete transection without a missing segment gets a T-tube anastomosis, and with a lost segment the distal end is closed and a choledochojejunostomy built. In the ward, a small fading leak in a stable patient is observed; a fever, jaundice, pain and rising leak means CBC, a subhepatic collection on USG, confirmation on MRCP — re-explore within 1-2 days, but beyond 2 days drain with a pigtail and stent by ERCP."
+  },
+  {
+   "id": "SURG-U38-3",
+   "ch": 38,
+   "n": 3,
+   "title": "Bismuth and Strasberg Classification of Bile Duct Injury",
+   "sec": "Bismuth and Strasberg Classification of Bile Duct Injury · p278",
+   "qs": [
+    "SURG-C38-032",
+    "SURG-C38-033",
+    "SURG-C38-034",
+    "SURG-C38-035",
+    "SURG-C38-036",
+    "SURG-C38-037",
+    "SURG-C38-038",
+    "SURG-C38-039",
+    "SURG-C38-040"
+   ],
+   "guide": "The Strasberg A to D injuries are the small ones — cystic duct or minor leak (A), occluded aberrant right hepatic duct (B), its leak (C) and the lateral CBD injury (D). Above them the Bismuth types stage the big stricture: a stump over 2 cm is Type I (E1), under 2 cm is Type II (E2), a preserved confluence is Type III (E3), a lost confluence is Type IV (E4), and the aberrant duct stricture is Type V (E5)."
+  },
+  {
+   "id": "SURG-U38-4",
+   "ch": 38,
+   "n": 4,
+   "title": "Gall Stones in Pregnancy",
+   "sec": "Gall Stones in Pregnancy · p278",
+   "qs": [
+    "SURG-C38-041",
+    "SURG-C38-042",
+    "SURG-C38-043",
+    "SURG-C38-044",
+    "SURG-C38-045",
+    "SURG-C38-046",
+    "SURG-C38-047",
+    "SURG-C38-048"
+   ],
+   "guide": "Pregnancy is a lithogenic state — hormones push cholesterol into the bile while progesterone slows the gallbladder, so stones multiply. Treat mildly and conservatively in the first trimester (no NSAIDs, for the ductus arteriosus), operate by laparoscopy in the second, and manage non-operatively in the third. And remember: an appendix can go by laparoscopy in any trimester."
+  },
+  {
+   "id": "SURG-U38-5",
+   "ch": 38,
+   "n": 5,
+   "title": "Gallbladder Cancer",
+   "sec": "Gallbladder Cancer · p279",
+   "qs": [
+    "SURG-C38-049",
+    "SURG-C38-050",
+    "SURG-C38-051",
+    "SURG-C38-052",
+    "SURG-C38-053",
+    "SURG-C38-054",
+    "SURG-C38-055",
+    "SURG-C38-056",
+    "SURG-C38-057",
+    "SURG-C38-058",
+    "SURG-C38-059",
+    "SURG-C38-060",
+    "SURG-C38-061",
+    "SURG-C38-062",
+    "SURG-C38-063",
+    "SURG-C38-064",
+    "SURG-C38-065",
+    "SURG-C38-066",
+    "SURG-C38-067",
+    "SURG-C38-068",
+    "SURG-C38-069",
+    "SURG-C38-070",
+    "SURG-C38-071",
+    "SURG-C38-072",
+    "SURG-C38-073",
+    "SURG-C38-074",
+    "SURG-C38-075",
+    "SURG-C38-076",
+    "SURG-C38-077",
+    "SURG-C38-078",
+    "SURG-C38-079",
+    "SURG-C38-080",
+    "SURG-C38-081",
+    "SURG-C38-082",
+    "SURG-C38-083",
+    "SURG-C38-084",
+    "SURG-C38-085"
+   ],
+   "guide": "Gallbladder cancer is the 90%-stone cancer: the typhi carrier, the porcelain wall, APBDJ, heavy metals in the water and the adenomatous, over-10-mm, multiple polyp all push the risk — cholesterol polyps do not. It is an adenocarcinoma, most aggressively infiltrating, presenting as a fixed mass that loses its pyriform shape with jaundice only late, spreading through the 4b/5 fossa, the subserosal lymphatics and the haematogenous route to liver and lung. CECT stages it (Tis in situ, T1a lamina propria, T1b muscularis, T2 perimuscular, T3 serosa/liver, T4 hepatic artery/main portal vein): T1a gets a simple cholecystectomy without bile spillage; T1b and T2 get the radical — gallbladder, 4b/5 or a 2 cm rim, hepatoduodenal nodes, and the CBD when involved; T3/T4 go to gemcitabine, with radical surgery waiting for a good response and palliation for a poor one. Depth is the most important prognostic factor, CA 19-9 is the marker, and port-site excision after a missed diagnosis buys nothing."
+  },
+  {
+   "id": "SURG-U38-6",
+   "ch": 38,
+   "n": 6,
+   "title": "Extrahepatic Biliary Atresia",
+   "sec": "Extrahepatic Biliary Atresia · p281",
+   "qs": [
+    "SURG-C38-086",
+    "SURG-C38-087",
+    "SURG-C38-088",
+    "SURG-C38-089",
+    "SURG-C38-090",
+    "SURG-C38-091",
+    "SURG-C38-092",
+    "SURG-C38-093",
+    "SURG-C38-094",
+    "SURG-C38-095",
+    "SURG-C38-096",
+    "SURG-C38-097",
+    "SURG-C38-098",
+    "SURG-C38-099",
+    "SURG-C38-100",
+    "SURG-C38-101",
+    "SURG-C38-102",
+    "SURG-C38-103"
+   ],
+   "guide": "Extrahepatic biliary atresia is inflammatory fibrosis closing the ducts of childhood, the commonest cause of paediatric liver transplantation. The Japanese/Anglo-Saxon types grade the obstruction — CBD only (I), common hepatic duct with patent (IIa) or obliterated (IIb) downstream, and the whole tree (III) — with cardiac lesions, polysplenia, situs inversus, absent vena cava and a preduodenal portal vein lurking alongside. Jaundice at birth marches to cirrhosis; fasting USG is the gold standard, MRCP the sensitive and specific test, and the biopsy separates it from neonatal hepatitis. Type I is hepaticojejunostomised; Types II and III get the Kasai portoenterostomy at the porta hepatis — and in 20-30% the disease still wins, and the transplant is the answer."
+  },
+  {
+   "id": "SURG-U38-7",
+   "ch": 38,
+   "n": 7,
+   "title": "Choledochal Cysts",
+   "sec": "Choledochal Cysts · p282",
+   "qs": [
+    "SURG-C38-104",
+    "SURG-C38-105",
+    "SURG-C38-106",
+    "SURG-C38-107",
+    "SURG-C38-108",
+    "SURG-C38-109",
+    "SURG-C38-110",
+    "SURG-C38-111",
+    "SURG-C38-112",
+    "SURG-C38-113",
+    "SURG-C38-114",
+    "SURG-C38-115",
+    "SURG-C38-116",
+    "SURG-C38-117",
+    "SURG-C38-118",
+    "SURG-C38-119"
+   ],
+   "guide": "The choledochal cyst is a dilated biliary tree draining so badly it jaundices, carrying a 10% cholangiocarcinoma risk. Todani sorts it: I diffuse CBD (the commonest), II diverticulum, III intraduodenal (choledochocele), IVa intra and extrahepatic, IVb extrahepatic, V the intrahepatic radicals (Caroli's). Lump, pain, jaundice; MRCP defines it. The repair follows the type: Roux-en-Y for I, cut-and-repair for II, ERCP with sphincterotomy for III, transplantation when the intrahepatic radicals are involved, and portoenterostomy for IVb."
+  },
+  {
+   "id": "SURG-U38-8",
+   "ch": 38,
+   "n": 8,
+   "title": "Cholangiocarcinoma",
+   "sec": "Cholangiocarcinoma · p283",
+   "qs": [
+    "SURG-C38-120",
+    "SURG-C38-121",
+    "SURG-C38-122",
+    "SURG-C38-123",
+    "SURG-C38-124",
+    "SURG-C38-125",
+    "SURG-C38-126",
+    "SURG-C38-127",
+    "SURG-C38-128",
+    "SURG-C38-129",
+    "SURG-C38-130",
+    "SURG-C38-131",
+    "SURG-C38-132",
+    "SURG-C38-133",
+    "SURG-C38-134",
+    "SURG-C38-135",
+    "SURG-C38-136",
+    "SURG-C38-137",
+    "SURG-C38-138",
+    "SURG-C38-139",
+    "SURG-C38-140",
+    "SURG-C38-141",
+    "SURG-C38-142",
+    "SURG-C38-143"
+   ],
+   "guide": "Cholangiocarcinoma is the bile duct's own carcinoma, fed by obesity, diabetes, HBV/HCV, choledochal cysts, thorotrast, abnormal pancreatobiliary junction and sclerosing cholangitis — the autoimmune, IBD-linked, female-predominant, HLA DR3/B8 disease of beaded ducts and antinuclear antibodies. It obstructs; the distal end masquerades as periampullary cancer and the hilum is the commonest site, where the Klatskin tumour keeps the Bismuth-Corlette count. MRCP investigates; the resectable get Whipple's (distal), choledochojejunostomy (supraduodenal), hepaticojejunostomy (CHD) or portoenterostomy (Klatskin) plus gemcitabine — and the unresectable, whose metastases favour the liver, are palliated by ERCP stenting or transhepatic drainage, with CA 19-9 marking the disease."
+  },
+  {
+   "id": "SURG-U38-9",
+   "ch": 38,
+   "n": 9,
+   "title": "Miscellaneous: Hemobilia and Bilhemia",
+   "sec": "Miscellaneous: Hemobilia and Bilhemia · p284",
+   "qs": [
+    "SURG-C38-144",
+    "SURG-C38-145",
+    "SURG-C38-146",
+    "SURG-C38-147",
+    "SURG-C38-148",
+    "SURG-C38-149",
+    "SURG-C38-150",
+    "SURG-C38-151",
+    "SURG-C38-152"
+   ],
+   "guide": "The odd twins of biliary bleeding: hemobilia is blood in the biliary tree and bilhemia is bile in the vessels — both born of ERCP or trauma. Hemobilia gives Quincke's triad of pain, jaundice and melena, is found by CT angiography and usually stops by itself, with embolisation if it doesn't; bilhemia jaundices fast, is found by ERCP and is stented through it."
+  }
+ ]
+}

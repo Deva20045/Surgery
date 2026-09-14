@@ -1,0 +1,1471 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C36-001",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "In surface anatomy, the spleen lies along the axis of which ribs?",
+   "opts": [
+    "9th to 11th ribs",
+    "7th to 9th ribs",
+    "10th to 12th ribs",
+    "5th to 7th ribs"
+   ],
+   "ans": 0,
+   "exp": "Surface anatomy: location — along axis of 9th-11th ribs. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-002",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "Which border of the spleen has a notch?",
+   "opts": [
+    "Inferolateral border",
+    "Superomedial border",
+    "Anterior border",
+    "Posterior border"
+   ],
+   "ans": 0,
+   "exp": "Surface anatomy: border — the inferolateral border has a notch. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-003",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "Splenomegaly displaces the spleen in which direction?",
+   "opts": [
+    "Medially",
+    "Laterally",
+    "Superiorly into the chest",
+    "Anteromedially into the epigastrium only"
+   ],
+   "ans": 0,
+   "exp": "Applied aspect: splenic enlargement is medially. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-004",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "Downward displacement of the spleen is prevented by which ligament?",
+   "opts": [
+    "Phrenicocolic ligament",
+    "Gastrosplenic ligament",
+    "Lienorenal ligament",
+    "Splenoportal ligament"
+   ],
+   "ans": 0,
+   "exp": "Applied aspect: downward displacement is prevented by the phrenicocolic ligament. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-005",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "Splenic trauma is classically associated with fractures of which ribs?",
+   "opts": [
+    "9th to 11th ribs on the left side",
+    "9th to 11th ribs on the right side",
+    "5th to 8th ribs on the left",
+    "11th and 12th ribs on both sides"
+   ],
+   "ans": 0,
+   "exp": "Applied aspect: fracture of 9th-11th ribs on the left side leads to splenic trauma. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-006",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "Which of the splenic ligaments are avascular and can be cut directly?",
+   "opts": [
+    "Splenophrenic and splenocolic ligaments",
+    "Gastrosplenic and lienorenal ligaments",
+    "Gastrosplenic and splenophrenic ligaments",
+    "Lienorenal and splenocolic ligaments"
+   ],
+   "ans": 0,
+   "exp": "Splenic ligaments table: splenophrenic and splenocolic — avascular, the ligament can be cut. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-007",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "The gastrosplenic ligament contains which vessels?",
+   "opts": [
+    "Short gastric vessels",
+    "Splenic vessels",
+    "Pancreaticoduodenal vessels",
+    "Left gastroepiploic vessels only"
+   ],
+   "ans": 0,
+   "exp": "Splenic ligaments table: gastrosplenic ligament carries the short gastric vessels. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-008",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "The lienorenal ligament transmits all of the following EXCEPT:",
+   "opts": [
+    "Gastroduodenal vessels",
+    "Splenic vessels",
+    "Tail of the pancreas",
+    "Short gastric vessels"
+   ],
+   "ans": 0,
+   "exp": "Splenic ligaments table: lienorenal ligament carries the splenic vessels and the tail of the pancreas — the gastroduodenal vessels are not in it. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-009",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "Before the lienorenal ligament is cut, what must be done to its contents?",
+   "opts": [
+    "Vessels are ligated and then the ligament is cut",
+    "The ligament is cut first and the vessels tied later",
+    "Only the tail of the pancreas is divided",
+    "No ligation is needed as it is avascular"
+   ],
+   "ans": 0,
+   "exp": "Splenic ligaments table: gastrosplenic and lienorenal contents (short gastric vessels, splenic vessels, tail of pancreas) — vessels are ligated and then the ligament is cut. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-010",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "The splenic artery is a branch of:",
+   "opts": [
+    "Coeliac trunk",
+    "Superior mesenteric artery",
+    "Inferior mesenteric artery",
+    "Abdominal aorta directly"
+   ],
+   "ans": 0,
+   "exp": "Blood supply of spleen: splenic artery — a branch of the coeliac trunk. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-011",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "The portal vein is formed by the union of the splenic vein with which vein?",
+   "opts": [
+    "Superior mesenteric vein",
+    "Inferior mesenteric vein",
+    "Right portal vein",
+    "Left gastric vein"
+   ],
+   "ans": 0,
+   "exp": "Blood supply: splenic vein — the portal vein is formed by the splenic vein joining the superior mesenteric vein. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-012",
+   "sec": "Anatomy of the Spleen",
+   "page": 260,
+   "q": "The inferior mesenteric vein drains into:",
+   "opts": [
+    "Splenic vein",
+    "Superior mesenteric vein",
+    "Portal vein directly",
+    "Left gastric vein"
+   ],
+   "ans": 0,
+   "exp": "Blood supply: inferior mesenteric vein drains into the splenic vein. (Book p260)"
+  },
+  {
+   "id": "SURG-C36-013",
+   "sec": "Functions of the Spleen",
+   "page": 261,
+   "q": "The immunological function of the spleen is to:",
+   "opts": [
+    "Produce antibodies",
+    "Produce red cells",
+    "Store platelets",
+    "Filter lymph"
+   ],
+   "ans": 0,
+   "exp": "Functions: 1. Immunological — produces antibodies. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-014",
+   "sec": "Functions of the Spleen",
+   "page": 261,
+   "q": "After splenectomy, the risk of which type of infection rises?",
+   "opts": [
+    "Opportunistic infections",
+    "Only viral infections",
+    "Only fungal infections",
+    "No change in infection risk"
+   ],
+   "ans": 0,
+   "exp": "Functions: post splenectomy there is a rise in the risk of opportunistic infections. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-015",
+   "sec": "Functions of the Spleen",
+   "page": 261,
+   "q": "The spleen acts as a 'graveyard' for blood cells by:",
+   "opts": [
+    "Filtering the non-functioning cells",
+    "Producing new cells",
+    "Storing iron only",
+    "Releasing reticulocytes"
+   ],
+   "ans": 0,
+   "exp": "Functions: 2. Acts as graveyard for blood cells — filters the non-functioning cells. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-016",
+   "sec": "Functions of the Spleen",
+   "page": 261,
+   "q": "Physiological haematopoiesis by the spleen occurs in:",
+   "opts": [
+    "The 3rd to 5th week of intrauterine life",
+    "The 3rd to 5th month of fetal life",
+    "The first year after birth",
+    "Adulthood during severe anaemia"
+   ],
+   "ans": 0,
+   "exp": "Functions: 3. Haematopoiesis (physiological) — 3rd-5th week of intrauterine life. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-017",
+   "sec": "Functions of the Spleen",
+   "page": 261,
+   "q": "Pathological haematopoiesis by the spleen is seen in:",
+   "opts": [
+    "Myeloproliferative diseases",
+    "Splenomegaly due to congestion only",
+    "ITP",
+    "Viral infections"
+   ],
+   "ans": 0,
+   "exp": "Functions: pathological haematopoiesis occurs in myeloproliferative diseases. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-018",
+   "sec": "Functions of the Spleen",
+   "page": 261,
+   "q": "The reservoir function of the spleen is for:",
+   "opts": [
+    "WBCs, RBCs and platelets",
+    "Red cells only",
+    "Platelets only",
+    "Serum only"
+   ],
+   "ans": 0,
+   "exp": "Functions: 4. Reservoir function for WBCs, RBCs and platelets. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-019",
+   "sec": "Functions of the Spleen",
+   "page": 261,
+   "q": "Immediately after splenectomy, the blood cells show:",
+   "opts": [
+    "A transient rise in blood cells",
+    "A permanent fall in all cell lines",
+    "No change",
+    "Immediate aplasia"
+   ],
+   "ans": 0,
+   "exp": "Functions: post splenectomy — transient rise in blood cells. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-020",
+   "sec": "Applied Aspects of Splenic Tissue",
+   "page": 261,
+   "q": "Splenunculi are:",
+   "opts": [
+    "Accessory splenic tissue",
+    "Metastatic deposits in the spleen",
+    "Cystic degeneration of the spleen",
+    "Embryonic rests of the liver"
+   ],
+   "ans": 0,
+   "exp": "Applied aspects of splenic tissue: splenunculi — accessory splenic tissue. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-021",
+   "sec": "Applied Aspects of Splenic Tissue",
+   "page": 261,
+   "q": "The most common site of splenunculi is:",
+   "opts": [
+    "The hilum",
+    "The splenophrenic ligament",
+    "The greater curvature of the stomach",
+    "The peritoneal cavity"
+   ],
+   "ans": 0,
+   "exp": "Splenunculi: site — hilum (m/c). (Book p261)"
+  },
+  {
+   "id": "SURG-C36-022",
+   "sec": "Applied Aspects of Splenic Tissue",
+   "page": 261,
+   "q": "In a haematological condition such as ITP, if splenunculi is left behind during splenectomy the result is:",
+   "opts": [
+    "Recurrence",
+    "Oversplenism",
+    "Haemoperitoneum",
+    "Pneumonia"
+   ],
+   "ans": 0,
+   "exp": "Splenunculi: significance — in haematological conditions (ITP), if splenunculi is left behind, recurrence. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-023",
+   "sec": "Applied Aspects of Splenic Tissue",
+   "page": 261,
+   "q": "Splenosis refers to:",
+   "opts": [
+    "Splenic tissue deposits in the omentum and bowel following trauma",
+    "Spontaneous rupture of the spleen",
+    "Malignant transformation of splenic tissue",
+    "Infarction of accessory spleens"
+   ],
+   "ans": 0,
+   "exp": "Splenosis: following trauma, splenic tissue deposits in the omentum and bowel. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-024",
+   "sec": "Applied Aspects of Splenic Tissue",
+   "page": 261,
+   "q": "On imaging, splenosis appears as:",
+   "opts": [
+    "A tumour or mass",
+    "A hypodense cyst",
+    "Free fluid",
+    "Air under the diaphragm"
+   ],
+   "ans": 0,
+   "exp": "Splenosis: appears as a tumour/mass on imaging. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-025",
+   "sec": "Applied Aspects of Splenic Tissue",
+   "page": 261,
+   "q": "A biopsy of a splenosis nodule shows:",
+   "opts": [
+    "Normal splenic tissue",
+    "Adenocarcinoma",
+    "Caseous necrosis",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Splenosis: on biopsy — normal splenic tissue. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-026",
+   "sec": "Splenic Cysts",
+   "page": 261,
+   "q": "A splenic pseudocyst is:",
+   "opts": [
+    "A false cyst not lined by epithelium",
+    "A true cyst lined by mesothelium",
+    "A cyst of flattened squamous epithelium",
+    "A parasitic cyst"
+   ],
+   "ans": 0,
+   "exp": "Splenic cyst: 1. Pseudocyst — false cyst, not lined by epithelium. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-027",
+   "sec": "Splenic Cysts",
+   "page": 261,
+   "q": "A splenic pseudocyst is classically associated with a history of:",
+   "opts": [
+    "Trauma",
+    "Echinococcus exposure",
+    "Sickle cell disease",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Pseudocyst: H/o trauma (+). (Book p261)"
+  },
+  {
+   "id": "SURG-C36-028",
+   "sec": "Splenic Cysts",
+   "page": 261,
+   "q": "Splenic pseudocysts usually:",
+   "opts": [
+    "Resolve spontaneously",
+    "Always need splenectomy",
+    "Always recur",
+    "Malignant transform"
+   ],
+   "ans": 0,
+   "exp": "Pseudocyst: resolve spontaneously. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-029",
+   "sec": "Splenic Cysts",
+   "page": 261,
+   "q": "On CT, a splenic pseudocyst shows:",
+   "opts": [
+    "A smooth outline with hypodense consistency",
+    "Peripheral nodular enhancement",
+    "A central stellate scar",
+    "Diffuse calcification"
+   ],
+   "ans": 0,
+   "exp": "Pseudocyst CT figure: smooth outline and hypodense consistency. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-030",
+   "sec": "Splenic Cysts",
+   "page": 261,
+   "q": "A splenic hydatid cyst is a type of:",
+   "opts": [
+    "True cyst",
+    "Pseudocyst",
+    "Haemangioma",
+    "Epidermoid cyst"
+   ],
+   "ans": 0,
+   "exp": "Splenic cyst: 2. True cyst — a. Hydatid cyst is the first listed true cyst. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-031",
+   "sec": "Splenic Cysts",
+   "page": 261,
+   "q": "A splenic hydatid cyst is associated with exposure to:",
+   "opts": [
+    "Echinococcus",
+    "Taenia solium",
+    "Entamoeba",
+    "Mycobacterium"
+   ],
+   "ans": 0,
+   "exp": "Hydatid cyst: H/o exposure to Echinococcus. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-032",
+   "sec": "Splenic Cysts",
+   "page": 261,
+   "q": "A splenic hydatid cyst with multiple daughter cysts is managed by:",
+   "opts": [
+    "Splenectomy under cover of albendazole",
+    "Observation alone",
+    "Percutaneous drainage alone",
+    "Antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "Hydatid cyst: if multiple cysts (+), splenectomy under cover of albendazole. (Book p261)"
+  },
+  {
+   "id": "SURG-C36-033",
+   "sec": "Splenic Cysts",
+   "page": 262,
+   "q": "A splenic epidermoid cyst is lined by:",
+   "opts": [
+    "Flattened squamous epithelium",
+    "Cuboidal epithelium",
+    "Columnar epithelium",
+    "Mesothelium"
+   ],
+   "ans": 0,
+   "exp": "True cyst: c. Epidermoid cyst — flattened squamous epithelium. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-034",
+   "sec": "Splenic Cysts",
+   "page": 262,
+   "q": "An epidermoid splenic cyst requires excision when it is:",
+   "opts": [
+    "Greater than 5 cm and symptomatic",
+    "Less than 1 cm and asymptomatic",
+    "Present for more than a year",
+    "Found on routine screening only"
+   ],
+   "ans": 0,
+   "exp": "Epidermoid cyst: if >5 cm and symptomatic — excision. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-035",
+   "sec": "Splenic Cysts",
+   "page": 262,
+   "q": "Which of the following is listed under true splenic cysts?",
+   "opts": [
+    "Dermoid cyst",
+    "Pseudocyst",
+    "Hypodense collection after trauma",
+    "Walled-off necrosis"
+   ],
+   "ans": 0,
+   "exp": "True cysts: a. Hydatid cyst, b. Dermoid cyst, c. Epidermoid cyst — dermoid cyst is a true cyst. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-036",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "A splenic artery aneurysm is the most common:",
+   "opts": [
+    "Visceral artery aneurysm",
+    "Peripheral artery aneurysm",
+    "Aortic aneurysm",
+    "Capillary malformation"
+   ],
+   "ans": 0,
+   "exp": "Splenic artery aneurysm, etiology: visceral artery aneurysm (m/c). (Book p262)"
+  },
+  {
+   "id": "SURG-C36-037",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "Which of the following is listed as a cause of splenic artery aneurysm?",
+   "opts": [
+    "Pancreatitis",
+    "Cholelithiasis",
+    "Appendicitis",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Etiology: occurs also to — pancreatitis, trauma, atherosclerosis and pregnancy. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-038",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "Atherosclerotic splenic artery aneurysms typically:",
+   "opts": [
+    "Occur in the elderly, with rupture uncommon",
+    "Occur in children with frequent rupture",
+    "Occur only in pregnancy",
+    "Never rupture"
+   ],
+   "ans": 0,
+   "exp": "Etiology: atherosclerosis — occurs in the elderly, rupture is uncommon. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-039",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "In pregnancy, splenic artery aneurysm:",
+   "opts": [
+    "Occurs in the 2nd and 3rd trimesters and rupture is common",
+    "Occurs only in the 1st trimester",
+    "Never ruptures in pregnancy",
+    "Is always asymptomatic and never treated"
+   ],
+   "ans": 0,
+   "exp": "Etiology: pregnancy — occurs in the 2nd and 3rd trimester, rupture is common. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-040",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "The most common clinical presentation of a splenic artery aneurysm is:",
+   "opts": [
+    "Asymptomatic",
+    "High grade fever",
+    "Jaundice",
+    "Chronic diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: asymptomatic. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-041",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "Rupture of a splenic artery aneurysm presents with:",
+   "opts": [
+    "Pain",
+    "Fever only",
+    "Obstructive jaundice",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: if rupture (+), pain. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-042",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "Kehr's sign in splenic artery aneurysm is:",
+   "opts": [
+    "Referred pain in the left shoulder tip on raising the left lower limb",
+    "Pain in the right shoulder on inspiration",
+    "Pain radiating to the jaw",
+    "Pain in the back on flexion"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: Kehr's sign (+) — referred pain in the left shoulder tip on raising the left lower limb. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-043",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "The investigation of choice for splenic artery aneurysm is:",
+   "opts": [
+    "CT angiography",
+    "Plain X-ray abdomen",
+    "Ultrasound alone",
+    "MRI without contrast"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CT angiography (IOC). (Book p262)"
+  },
+  {
+   "id": "SURG-C36-044",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "First-line management of splenic artery aneurysm is:",
+   "opts": [
+    "Embolisation or grafting",
+    "Immediate splenectomy",
+    "Conservative observation",
+    "Thrombolysis"
+   ],
+   "ans": 0,
+   "exp": "Management: embolisation and grafting — 1st line. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-045",
+   "sec": "Splenic Artery Aneurysm",
+   "page": 262,
+   "q": "Splenectomy for a splenic artery aneurysm is:",
+   "opts": [
+    "The last resort",
+    "The 1st line",
+    "Never indicated",
+    "Only for children"
+   ],
+   "ans": 0,
+   "exp": "Management: splenectomy — last resort. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-046",
+   "sec": "Splenic Infarct",
+   "page": 262,
+   "q": "Splenic infarcts are seen in hypersplenism due to:",
+   "opts": [
+    "Portal hypertension and myelodysplastic syndromes",
+    "Chronic cholecystitis",
+    "Gastric ulcers",
+    "Pancreatic adenocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "Splenic infarct, etiology: seen in hypersplenism — portal HTN, myelodysplastic syndromes. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-047",
+   "sec": "Splenic Infarct",
+   "page": 262,
+   "q": "The majority of splenic infarcts are:",
+   "opts": [
+    "Asymptomatic",
+    "Fatal",
+    "Present with jaundice",
+    "Present with peritonitis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: asymptomatic — the majority. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-048",
+   "sec": "Splenic Infarct",
+   "page": 262,
+   "q": "Pain in splenic infarct is all of the following EXCEPT:",
+   "opts": [
+    "Colicky central abdominal pain",
+    "Left upper quadrant pain",
+    "Pleuritic pain",
+    "Referred pain in the left shoulder tip"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain — left upper quadrant pain, pleuritic pain and referred pain in the left shoulder tip. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-049",
+   "sec": "Splenic Infarct",
+   "page": 262,
+   "q": "The investigation of choice for splenic infarct is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray",
+    "MRCP",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CECT (IOC). (Book p262)"
+  },
+  {
+   "id": "SURG-C36-050",
+   "sec": "Splenic Infarct",
+   "page": 262,
+   "q": "On CECT, a splenic infarct appears as:",
+   "opts": [
+    "A hypodense infarcted spleen",
+    "A hyperdense mass",
+    "A ring-enhancing abscess only",
+    "Normal spleen with dilated bowel"
+   ],
+   "ans": 0,
+   "exp": "CECT figure: hypodense infarcted spleen. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-051",
+   "sec": "Splenic Infarct",
+   "page": 262,
+   "q": "The usual management of splenic infarct is:",
+   "opts": [
+    "Conservative",
+    "Emergency splenectomy",
+    "Embolisation",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "Management: conservative. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-052",
+   "sec": "Splenic Infarct",
+   "page": 262,
+   "q": "Surgical excision for splenic infarct is done when:",
+   "opts": [
+    "It is symptomatic or an abscess is present",
+    "The spleen is small",
+    "The patient has fever only",
+    "Infarction is partial and asymptomatic"
+   ],
+   "ans": 0,
+   "exp": "Management: if symptomatic or abscess (+), surgical excision. (Book p262)"
+  },
+  {
+   "id": "SURG-C36-053",
+   "sec": "Splenic Abscess",
+   "page": 263,
+   "q": "Splenic abscess is seen in:",
+   "opts": [
+    "Immunocompromised patients and post infarcts",
+    "Only after trauma",
+    "Only in children",
+    "Only in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Splenic abscess, etiology: seen in immunocompromised patients, post infarcts. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-054",
+   "sec": "Splenic Abscess",
+   "page": 263,
+   "q": "The clinical features of splenic abscess include:",
+   "opts": [
+    "High grade fever and pleuritic pain",
+    "Painless jaundice",
+    "Chronic constipation",
+    "Weight gain"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: high grade fever, pleuritic pain. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-055",
+   "sec": "Splenic Abscess",
+   "page": 263,
+   "q": "The investigation of choice for splenic abscess is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray",
+    "USG with no further workup",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CECT (IOC). (Book p263)"
+  },
+  {
+   "id": "SURG-C36-056",
+   "sec": "Splenic Abscess",
+   "page": 263,
+   "q": "On CECT, a splenic abscess shows:",
+   "opts": [
+    "Hypodense tissue with necrotic debris",
+    "Homogeneous enhancement",
+    "A calcified nodule",
+    "Free air only"
+   ],
+   "ans": 0,
+   "exp": "CECT figure: hypodense tissue with necrotic debris. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-057",
+   "sec": "Splenic Abscess",
+   "page": 263,
+   "q": "The management of a splenic abscess is:",
+   "opts": [
+    "Pigtail catheter drainage",
+    "Oral antibiotics alone",
+    "Immediate splenectomy in all",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Management: pigtail catheter drainage. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-058",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "The most common indication for splenectomy is:",
+   "opts": [
+    "Trauma",
+    "Gastric cancer",
+    "Spherocytosis",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Indications: 1. Trauma (m/c). (Book p263)"
+  },
+  {
+   "id": "SURG-C36-059",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "Traumatic splenectomy may be caused by:",
+   "opts": [
+    "Accidental or operative injury",
+    "Only burns",
+    "Only iatrogenic injury at laparoscopy",
+    "Only rib fractures without organ injury"
+   ],
+   "ans": 0,
+   "exp": "Indications: trauma — accidental and operative. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-060",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "Splenectomy as part of oncological disease is performed in:",
+   "opts": [
+    "Gastric and pancreatic cancers (en bloc resection)",
+    "Breast cancer",
+    "Prostate cancer",
+    "Oral cancer"
+   ],
+   "ans": 0,
+   "exp": "Indications: 2. Oncological — part of en bloc resection in gastric and pancreatic cancers. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-061",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "The most common benign splenic tumour is:",
+   "opts": [
+    "Haemangioma",
+    "Lymphoma",
+    "Lipoma",
+    "Haemoblastoma"
+   ],
+   "ans": 0,
+   "exp": "Splenic tumours: m/c benign — haemangioma. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-062",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "The most common malignant splenic tumour is:",
+   "opts": [
+    "Lymphoma",
+    "Haemangioma",
+    "Adenocarcinoma",
+    "Sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Splenic tumours: m/c malignant — lymphoma. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-063",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "An incidentally discovered benign splenic tumour (haemangioma) requires:",
+   "opts": [
+    "No treatment",
+    "Splenectomy",
+    "Chemotherapy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Splenic tumours: benign (haemangioma) — incidental diagnosis, no treatment required. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-064",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "First-line treatment of splenic lymphoma is:",
+   "opts": [
+    "Chemotherapy, which shows a good response",
+    "Splenectomy",
+    "Radiotherapy alone",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Splenic tumours: malignant (lymphoma) — chemotherapy is 1st line; the disease shows a good response to treatment. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-065",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "Surgery for splenic lymphoma is:",
+   "opts": [
+    "Only in rare cases",
+    "The 1st line in all cases",
+    "Always curative",
+    "Never done"
+   ],
+   "ans": 0,
+   "exp": "Splenic tumours: malignant (lymphoma) — surgery only in rare cases. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-066",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "Which of the following is a haematological indication for splenectomy?",
+   "opts": [
+    "Spherocytosis",
+    "Cholelithiasis",
+    "Peptic ulcer disease",
+    "Diverticular disease"
+   ],
+   "ans": 0,
+   "exp": "Indications: 3. Haematological — spherocytosis, purpura (ITP), hypersplenism. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-067",
+   "sec": "Splenectomy: Indications",
+   "page": 263,
+   "q": "Splenectomy for left-sided portal hypertension is due to:",
+   "opts": [
+    "Splenic vein thrombosis",
+    "Hepatic vein thrombosis",
+    "Portal vein thrombosis",
+    "Mesenteric varices"
+   ],
+   "ans": 0,
+   "exp": "Indications: portal HTN (left sided) — splenic vein thrombosis. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-068",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 263,
+   "q": "In the steps of splenectomy, step 1 is:",
+   "opts": [
+    "Dissection of the aspect of spleen",
+    "Transection of the splenic hilum",
+    "Removal of the spleen",
+    "Dissection of the short gastric vessels"
+   ],
+   "ans": 0,
+   "exp": "Steps: Step 1 — dissection of the aspect of spleen. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-069",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 263,
+   "q": "Step 2 of splenectomy is:",
+   "opts": [
+    "Dissection of the lateral aspect and retroperitoneal attachments",
+    "Transection of the splenic hilum",
+    "Dissection of short gastric vessels",
+    "Removal of the spleen"
+   ],
+   "ans": 0,
+   "exp": "Steps: Step 2 — dissection of the lateral aspect and retroperitoneal attachments. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-070",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 263,
+   "q": "Step 3 of splenectomy is:",
+   "opts": [
+    "Transection of the splenic hilum",
+    "Dissection of the lateral aspect",
+    "Ligation of the aorta",
+    "Removal of the spleen"
+   ],
+   "ans": 0,
+   "exp": "Steps: Step 3 — transection of the splenic hilum. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-071",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 263,
+   "q": "Step 4 of splenectomy is:",
+   "opts": [
+    "Dissection of the short gastric vessels",
+    "Transection of the splenic hilum",
+    "Removal of the spleen",
+    "Dissection of the lateral aspect"
+   ],
+   "ans": 0,
+   "exp": "Steps: Step 4 — dissection of short gastric vessels. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-072",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 263,
+   "q": "Step 5 of splenectomy is:",
+   "opts": [
+    "Removal of the spleen",
+    "Dissection of short gastric vessels",
+    "Transection of the hilum",
+    "Closure"
+   ],
+   "ans": 0,
+   "exp": "Steps: Step 5 — removal of the spleen. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-073",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 263,
+   "q": "Injury to the tail of the pancreas during splenectomy presents with:",
+   "opts": [
+    "Amylase-rich secretions in the drain",
+    "Haematemesis",
+    "Bilious vomiting",
+    "High amylase only in serum"
+   ],
+   "ans": 0,
+   "exp": "Complications: 2. Injury — tail of pancreas presents with amylase-rich secretions in the drain. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-074",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 263,
+   "q": "Haematemesis after splenectomy, if short gastric vessels are ligated, suggests injury to:",
+   "opts": [
+    "The stomach",
+    "The tail of the pancreas",
+    "The colon",
+    "The duodenum"
+   ],
+   "ans": 0,
+   "exp": "Complications: injury — stomach presents with haematemesis if short gastric vessels are ligated. (Book p263)"
+  },
+  {
+   "id": "SURG-C36-075",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 264,
+   "q": "Post splenectomy, a transient rise in all 3 cell lines with a raised WBC is:",
+   "opts": [
+    "Mistaken for infection",
+    "A sign of sepsis requiring antibiotics",
+    "A sign of bleeding",
+    "Never seen after splenectomy"
+   ],
+   "ans": 0,
+   "exp": "Complications: 3. Haematological — transient rise in all 3 cell lines; the raised WBC is mistaken for infection. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-076",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 264,
+   "q": "After splenectomy, platelets greater than 10 lakh/cumm:",
+   "opts": [
+    "Predispose to thrombosis, treated with prophylactic aspirin",
+    "Are always normal",
+    "Cause haemorrhage",
+    "Require plateletpheresis in all"
+   ],
+   "ans": 0,
+   "exp": "Complications: platelet >10 lakh/cumm predispose to thrombosis — Rx: prophylactic aspirin. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-077",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 264,
+   "q": "Which of the following is a permanent haematological change on the peripheral smear after splenectomy?",
+   "opts": [
+    "Howell Jolly bodies",
+    "Schistocytes",
+    "Spherocytes",
+    "Target cells only"
+   ],
+   "ans": 0,
+   "exp": "Complications: 4. Permanent haematological changes on peripheral smear — basophilic stippling, Howell Jolly bodies, reticulocytes, hypersegmented WBCs. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-078",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 264,
+   "q": "The most common complication of splenectomy is:",
+   "opts": [
+    "Left lower lobe atelectasis / pneumonia",
+    "Pancreatic fistula",
+    "Wound infection",
+    "Portal vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Complications: 5. Left lower lobe atelectasis/pneumonia (m/c). (Book p264)"
+  },
+  {
+   "id": "SURG-C36-079",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 264,
+   "q": "Prevention of left lower lobe atelectasis after splenectomy includes:",
+   "opts": [
+    "Active chest physiotherapy with incentive spirometry",
+    "Keeping the patient supine without mobilisation",
+    "Withholding analgesia",
+    "Early feeding only"
+   ],
+   "ans": 0,
+   "exp": "Prevention: active chest physiotherapy — incentive spirometry. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-080",
+   "sec": "Splenectomy: Steps and Complications",
+   "page": 264,
+   "q": "Pain control after splenectomy is important because it:",
+   "opts": [
+    "Facilitates deep breaths",
+    "Prevents jaundice",
+    "Reduces amylase levels",
+    "Prevents lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Prevention: pain control — facilitates deep breaths. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-081",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "OPSI stands for:",
+   "opts": [
+    "Opportunistic overwhelming post splenectomy infections",
+    "Operative post splenectomy ileus",
+    "Overwhelming peritoneal sepsis after injury",
+    "Opportunistic pneumonia and splenic infarct"
+   ],
+   "ans": 0,
+   "exp": "Complications: 6. OPSI — opportunistic overwhelming post splenectomy infections. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-082",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "The etiology of OPSI is:",
+   "opts": [
+    "Encapsulated bacteria",
+    "Anaerobic gut flora",
+    "Fungal organisms",
+    "Viral pathogens"
+   ],
+   "ans": 0,
+   "exp": "OPSI, etiology: encapsulated bacteria. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-083",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "The most common organism in OPSI is:",
+   "opts": [
+    "Pneumococcus",
+    "Meningococcus",
+    "H. influenzae",
+    "Pseudomonas"
+   ],
+   "ans": 0,
+   "exp": "OPSI: encapsulated bacteria — pneumococcus (m/c), meningococcus, H. influenzae. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-084",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "OPSI occurs more commonly in:",
+   "opts": [
+    "Children than adults",
+    "Adults than children",
+    "Only in the elderly",
+    "Only in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "OPSI, occurrence: children > adults. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-085",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "OPSI is seen commonly within how many years of splenectomy?",
+   "opts": [
+    "First 2 years",
+    "First 6 months only",
+    "After 10 years",
+    "Only after 5 years"
+   ],
+   "ans": 0,
+   "exp": "OPSI, occurrence: seen commonly within the first 2 years of splenectomy. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-086",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "High mortality rates in OPSI are greater when splenectomy was done for:",
+   "opts": [
+    "A haematological condition than for trauma",
+    "Trauma than a haematological condition",
+    "Both equally",
+    "Only in iatrogenic splenectomy"
+   ],
+   "ans": 0,
+   "exp": "OPSI, occurrence: high mortality rates — haematological condition > trauma. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-087",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "The pneumococcal and meningococcal vaccines after splenectomy are:",
+   "opts": [
+    "Repeated every 5 years",
+    "Given once in a lifetime",
+    "Repeated every year",
+    "Repeated every 10 years"
+   ],
+   "ans": 0,
+   "exp": "Vaccination: pneumococcal and meningococcal — repeated every 5 years. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-088",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "The H. influenzae vaccine after splenectomy is repeated:",
+   "opts": [
+    "Every 10 years",
+    "Every year",
+    "Every 5 years",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Vaccination: H. influenzae — every 10 years. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-089",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "The influenza vaccine after splenectomy is given:",
+   "opts": [
+    "Yearly",
+    "Once in a lifetime",
+    "Every 5 years",
+    "Only when ill"
+   ],
+   "ans": 0,
+   "exp": "Vaccination: influenza — yearly. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-090",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "In an elective splenectomy, the timing of vaccination is:",
+   "opts": [
+    "2 weeks before the surgery",
+    "1 week after the surgery",
+    "On the day of surgery",
+    "Post op day 1/2"
+   ],
+   "ans": 0,
+   "exp": "Timing of vaccine: elective — 2 weeks before. (Book p264)"
+  },
+  {
+   "id": "SURG-C36-091",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "page": 264,
+   "q": "In an emergency splenectomy, the timing of vaccination is:",
+   "opts": [
+    "Post op day 1/2",
+    "2 weeks before surgery",
+    "Never",
+    "Only after 1 year"
+   ],
+   "ans": 0,
+   "exp": "Timing of vaccine: emergency — post op day 1/2. (Book p264)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U36-1",
+   "ch": 36,
+   "n": 1,
+   "title": "Anatomy of the Spleen",
+   "sec": "Anatomy of the Spleen · p260",
+   "qs": [
+    "SURG-C36-001",
+    "SURG-C36-002",
+    "SURG-C36-003",
+    "SURG-C36-004",
+    "SURG-C36-005",
+    "SURG-C36-006",
+    "SURG-C36-007",
+    "SURG-C36-008",
+    "SURG-C36-009",
+    "SURG-C36-010",
+    "SURG-C36-011",
+    "SURG-C36-012"
+   ],
+   "guide": "The spleen hides behind the 9th to 11th ribs, so fractures of those left ribs are splenic injuries, and its inferolateral border carries the notch. The gastrosplenic and lienorenal ligaments hold vessels and the pancreatic tail, so they are ligated before being cut, while the splenophrenic and splenocolic ligaments are avascular and can be divided freely. The splenic artery rides out of the coeliac trunk, and the portal vein is born where the splenic vein meets the superior mesenteric vein — the IMV joining the splenic vein on the way."
+  },
+  {
+   "id": "SURG-U36-2",
+   "ch": 36,
+   "n": 2,
+   "title": "Functions of the Spleen",
+   "sec": "Functions of the Spleen · p261",
+   "qs": [
+    "SURG-C36-013",
+    "SURG-C36-014",
+    "SURG-C36-015",
+    "SURG-C36-016",
+    "SURG-C36-017",
+    "SURG-C36-018",
+    "SURG-C36-019"
+   ],
+   "guide": "The spleen makes antibodies, acts as the graveyard that filters spent blood cells, haematopoieses in the 3rd-5th week of fetal life (and pathologically in myeloproliferative disease), and banks WBCs, RBCs and platelets. Take it away and opportunistic infections loom while blood counts rise transiently."
+  },
+  {
+   "id": "SURG-U36-3",
+   "ch": 36,
+   "n": 3,
+   "title": "Applied Aspects of Splenic Tissue",
+   "sec": "Applied Aspects of Splenic Tissue · p261",
+   "qs": [
+    "SURG-C36-020",
+    "SURG-C36-021",
+    "SURG-C36-022",
+    "SURG-C36-023",
+    "SURG-C36-024",
+    "SURG-C36-025"
+   ],
+   "guide": "Left-behind accessory splenic tissue — splenunculi, most often at the hilum — can make an ITP come back, so the spleen bed is searched carefully. Splenosis is different: trauma seeds the omentum and bowel with splenic tissue that mimics a tumour on imaging but is normal splenic tissue on biopsy."
+  },
+  {
+   "id": "SURG-U36-4",
+   "ch": 36,
+   "n": 4,
+   "title": "Splenic Cysts",
+   "sec": "Splenic Cysts · p261",
+   "qs": [
+    "SURG-C36-026",
+    "SURG-C36-027",
+    "SURG-C36-028",
+    "SURG-C36-029",
+    "SURG-C36-030",
+    "SURG-C36-031",
+    "SURG-C36-032",
+    "SURG-C36-033",
+    "SURG-C36-034",
+    "SURG-C36-035"
+   ],
+   "guide": "Pseudocysts are post-traumatic false cysts, unlined by epithelium, that smooth out on CT and resolve on their own. True cysts — hydatid, dermoid and epidermoid — behave differently: a hydatid with multiple daughter cysts needs splenectomy under albendazole cover, and a squamous-lined epidermoid cyst over 5 cm that is symptomatic is excised."
+  },
+  {
+   "id": "SURG-U36-5",
+   "ch": 36,
+   "n": 5,
+   "title": "Splenic Artery Aneurysm",
+   "sec": "Splenic Artery Aneurysm · p262",
+   "qs": [
+    "SURG-C36-036",
+    "SURG-C36-037",
+    "SURG-C36-038",
+    "SURG-C36-039",
+    "SURG-C36-040",
+    "SURG-C36-041",
+    "SURG-C36-042",
+    "SURG-C36-043",
+    "SURG-C36-044",
+    "SURG-C36-045"
+   ],
+   "guide": "The splenic artery is the commonest site of visceral artery aneurysm, born of pancreatitis, trauma, atherosclerosis or pregnancy — and in pregnancy it ruptures in the 2nd-3rd trimester. Most stay silent; rupture brings pain and Kehr's sign. CT angiography diagnoses it, embolisation or grafting is first line, and splenectomy is the last resort."
+  },
+  {
+   "id": "SURG-U36-6",
+   "ch": 36,
+   "n": 6,
+   "title": "Splenic Infarct",
+   "sec": "Splenic Infarct · p262",
+   "qs": [
+    "SURG-C36-046",
+    "SURG-C36-047",
+    "SURG-C36-048",
+    "SURG-C36-049",
+    "SURG-C36-050",
+    "SURG-C36-051",
+    "SURG-C36-052"
+   ],
+   "guide": "Splenic infarcts follow hypersplenism of portal hypertension or myelodysplastic syndromes and mostly stay silent. When they speak, it is with LUQ pain, pleuritic pain and shoulder-tip referral. CECT shows the hypodense infarcted spleen; treat conservatively and operate only if symptoms persist or an abscess supervenes."
+  },
+  {
+   "id": "SURG-U36-7",
+   "ch": 36,
+   "n": 7,
+   "title": "Splenic Abscess",
+   "sec": "Splenic Abscess · p263",
+   "qs": [
+    "SURG-C36-053",
+    "SURG-C36-054",
+    "SURG-C36-055",
+    "SURG-C36-056",
+    "SURG-C36-057"
+   ],
+   "guide": "The splenic abscess is the infection of the immunocompromised and the post-infarct spleen — high-grade fever, pleuritic pain, and a CECT hypodense collection of necrotic debris. A pigtail catheter drains it before anyone thinks of removing the spleen."
+  },
+  {
+   "id": "SURG-U36-8",
+   "ch": 36,
+   "n": 8,
+   "title": "Splenectomy: Indications",
+   "sec": "Splenectomy: Indications · p263",
+   "qs": [
+    "SURG-C36-058",
+    "SURG-C36-059",
+    "SURG-C36-060",
+    "SURG-C36-061",
+    "SURG-C36-062",
+    "SURG-C36-063",
+    "SURG-C36-064",
+    "SURG-C36-065",
+    "SURG-C36-066",
+    "SURG-C36-067"
+   ],
+   "guide": "Trauma is the commonest reason the spleen comes out, followed by oncology — en bloc with gastric and pancreatic cancers — and haematology: spherocytosis, ITP and hypersplenism, plus left-sided portal hypertension from splenic vein thrombosis. Among splenic tumours, haemangioma is the commonest benign lesion and needs nothing, while lymphoma, the commonest malignancy, answers to chemotherapy and is rarely operated on."
+  },
+  {
+   "id": "SURG-U36-9",
+   "ch": 36,
+   "n": 9,
+   "title": "Splenectomy: Steps and Complications",
+   "sec": "Splenectomy: Steps and Complications · p263",
+   "qs": [
+    "SURG-C36-068",
+    "SURG-C36-069",
+    "SURG-C36-070",
+    "SURG-C36-071",
+    "SURG-C36-072",
+    "SURG-C36-073",
+    "SURG-C36-074",
+    "SURG-C36-075",
+    "SURG-C36-076",
+    "SURG-C36-077",
+    "SURG-C36-078",
+    "SURG-C36-079",
+    "SURG-C36-080"
+   ],
+   "guide": "Splenectomy runs in five steps: dissection of the aspect of spleen, lateral and retroperitoneal attachments, transection of the hilum, the short gastric vessels, and removal. Its complications are a teaching list — pancreatic tail injury with amylase-rich drain, gastric haematemesis when short gastric vessels are ligated, a transient trilineage count rise mistaken for infection, platelets over 10 lakh predisposing to thrombosis (aspirin), permanent Howell Jolly bodies on smear, and the commonest of all: left lower lobe atelectasis, prevented by incentive spirometry and pain control."
+  },
+  {
+   "id": "SURG-U36-10",
+   "ch": 36,
+   "n": 10,
+   "title": "OPSI: Post-Splenectomy Sepsis and Vaccination",
+   "sec": "OPSI: Post-Splenectomy Sepsis and Vaccination · p264",
+   "qs": [
+    "SURG-C36-081",
+    "SURG-C36-082",
+    "SURG-C36-083",
+    "SURG-C36-084",
+    "SURG-C36-085",
+    "SURG-C36-086",
+    "SURG-C36-087",
+    "SURG-C36-088",
+    "SURG-C36-089",
+    "SURG-C36-090",
+    "SURG-C36-091"
+   ],
+   "guide": "OPSI — opportunistic overwhelming post splenectomy infection — is the lethal shadow of the operation: encapsulated bacteria (pneumococcus above all, then meningococcus and H. influenzae), striking children more than adults, mostly within the first 2 years, with higher mortality after haematological indications. Vaccinate: pneumococcal and meningococcal repeated every 5 years, H. influenzae every 10 years, influenza yearly — 2 weeks before if elective, post op day 1/2 if emergency."
+  }
+ ]
+}
