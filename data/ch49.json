@@ -1,0 +1,2061 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C49-001",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "An advantage of minimally invasive surgery is:",
+   "opts": [
+    "Decrease in wound size",
+    "Increase in wound size",
+    "Longer hospital stay",
+    "More wound pain"
+   ],
+   "ans": 0,
+   "exp": "Decrease in wound size (Book p371)"
+  },
+  {
+   "id": "SURG-C49-002",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "Minimally invasive surgery reduces:",
+   "opts": [
+    "Wound infection",
+    "Wound healing",
+    "Visualization",
+    "Mobility"
+   ],
+   "ans": 0,
+   "exp": "Wound infection (Book p371)"
+  },
+  {
+   "id": "SURG-C49-003",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "An advantage of minimally invasive surgery is reduction in:",
+   "opts": [
+    "Wound dehiscence",
+    "Operative vision",
+    "Instrument cost",
+    "Learning curve"
+   ],
+   "ans": 0,
+   "exp": "Wound dehiscence (Book p371)"
+  },
+  {
+   "id": "SURG-C49-004",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "Minimally invasive surgery reduces:",
+   "opts": [
+    "Bleeding",
+    "Visualization",
+    "Mobility",
+    "Insufflation"
+   ],
+   "ans": 0,
+   "exp": "Bleeding (Book p371)"
+  },
+  {
+   "id": "SURG-C49-005",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "An advantage of minimally invasive surgery is reduction in:",
+   "opts": [
+    "Herniation",
+    "Retraction",
+    "Triangulation",
+    "Inspection"
+   ],
+   "ans": 0,
+   "exp": "Herniation (Book p371)"
+  },
+  {
+   "id": "SURG-C49-006",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "Minimally invasive surgery reduces:",
+   "opts": [
+    "Nerve entrapment",
+    "Wound infection only",
+    "Operative time always",
+    "Anaesthesia need"
+   ],
+   "ans": 0,
+   "exp": "Nerve entrapment (Book p371)"
+  },
+  {
+   "id": "SURG-C49-007",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "An advantage of minimally invasive surgery is:",
+   "opts": [
+    "Decrease in wound pain",
+    "Increase in wound pain",
+    "Increased heat loss",
+    "Poor visualization"
+   ],
+   "ans": 0,
+   "exp": "Decrease in wound pain (Book p371)"
+  },
+  {
+   "id": "SURG-C49-008",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "Minimally invasive surgery gives:",
+   "opts": [
+    "Improved mobility",
+    "Reduced mobility",
+    "Prolonged bed rest",
+    "Delayed recovery"
+   ],
+   "ans": 0,
+   "exp": "Improved mobility (Book p371)"
+  },
+  {
+   "id": "SURG-C49-009",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "An advantage of minimally invasive surgery is:",
+   "opts": [
+    "Decreased wound trauma",
+    "Increased wound trauma",
+    "Larger incisions",
+    "More blood loss"
+   ],
+   "ans": 0,
+   "exp": "Decreased wound trauma (Book p371)"
+  },
+  {
+   "id": "SURG-C49-010",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "Minimally invasive surgery causes:",
+   "opts": [
+    "Decreased heat loss",
+    "Increased heat loss",
+    "Hypothermia always",
+    "Hyperthermia"
+   ],
+   "ans": 0,
+   "exp": "Decreased heat loss (Book p371)"
+  },
+  {
+   "id": "SURG-C49-011",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "An advantage of minimally invasive surgery is:",
+   "opts": [
+    "Improved visualization",
+    "Poor visualization",
+    "No magnification",
+    "Blind surgery"
+   ],
+   "ans": 0,
+   "exp": "Improved visualization (Book p371)"
+  },
+  {
+   "id": "SURG-C49-012",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "The basic principle mnemonic for minimally invasive surgery is:",
+   "opts": [
+    "IVITROS",
+    "VITROS",
+    "TROSIV",
+    "ROSIVT"
+   ],
+   "ans": 0,
+   "exp": "IVITROS (Book p371)"
+  },
+  {
+   "id": "SURG-C49-013",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "The first step of IVITROS is:",
+   "opts": [
+    "Insufflate",
+    "Visualize",
+    "Inspect",
+    "Seal"
+   ],
+   "ans": 0,
+   "exp": "Insufflate (Book p371)"
+  },
+  {
+   "id": "SURG-C49-014",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "IVITROS includes:",
+   "opts": [
+    "Visualization",
+    "Ventilation",
+    "Vaccination",
+    "Vagotomy"
+   ],
+   "ans": 0,
+   "exp": "Visualization (Book p371)"
+  },
+  {
+   "id": "SURG-C49-015",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "IVITROS includes:",
+   "opts": [
+    "Inspection",
+    "Insufflation only",
+    "Incision only",
+    "Irrigation only"
+   ],
+   "ans": 0,
+   "exp": "Inspection (Book p371)"
+  },
+  {
+   "id": "SURG-C49-016",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "IVITROS includes:",
+   "opts": [
+    "Triangulation",
+    "Truncation",
+    "Transplantation",
+    "Tracheostomy"
+   ],
+   "ans": 0,
+   "exp": "Triangulation (Book p371)"
+  },
+  {
+   "id": "SURG-C49-017",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "IVITROS includes:",
+   "opts": [
+    "Retraction of tissues",
+    "Removal of organs",
+    "Resection always",
+    "Radiation"
+   ],
+   "ans": 0,
+   "exp": "Retraction of tissues (Book p371)"
+  },
+  {
+   "id": "SURG-C49-018",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "IVITROS includes:",
+   "opts": [
+    "Operation",
+    "Observation only",
+    "Obliteration",
+    "Occlusion"
+   ],
+   "ans": 0,
+   "exp": "Operation (Book p371)"
+  },
+  {
+   "id": "SURG-C49-019",
+   "sec": "Advantages and Basic Principle",
+   "page": 371,
+   "q": "The last step of IVITROS is:",
+   "opts": [
+    "Seal",
+    "Suture only",
+    "Staple only",
+    "Suction"
+   ],
+   "ans": 0,
+   "exp": "Seal (Book p371)"
+  },
+  {
+   "id": "SURG-C49-020",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Pneumoperitoneum is:",
+   "opts": [
+    "Gas inside peritoneal cavity",
+    "Fluid inside pleural cavity",
+    "Air inside pericardium",
+    "Gas inside joint"
+   ],
+   "ans": 0,
+   "exp": "Gas inside peritoneal cavity (Book p371)"
+  },
+  {
+   "id": "SURG-C49-021",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "The most common distension medium is:",
+   "opts": [
+    "CO2 at 10–14 mmHg",
+    "Air at 20 mmHg",
+    "Oxygen at 5 mmHg",
+    "Nitrogen at 30 mmHg"
+   ],
+   "ans": 0,
+   "exp": "CO2 at 10–14 mmHg (Book p371)"
+  },
+  {
+   "id": "SURG-C49-022",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Sometimes used as distension medium instead of CO2 is:",
+   "opts": [
+    "Nitrous oxide",
+    "Air",
+    "Oxygen",
+    "Helium"
+   ],
+   "ans": 0,
+   "exp": "Nitrous oxide (Book p371)"
+  },
+  {
+   "id": "SURG-C49-023",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Gases not used for pneumoperitoneum are:",
+   "opts": [
+    "Air, O2",
+    "CO2, nitrous oxide",
+    "Helium, argon",
+    "Xenon, krypton"
+   ],
+   "ans": 0,
+   "exp": "Air, O2 (Book p371)"
+  },
+  {
+   "id": "SURG-C49-024",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Air and O2 are not used because they:",
+   "opts": [
+    "Support combustion",
+    "Are too costly",
+    "Cause hypothermia",
+    "Are radio-opaque"
+   ],
+   "ans": 0,
+   "exp": "Support combustion (Book p371)"
+  },
+  {
+   "id": "SURG-C49-025",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Peritoneal stretching causes:",
+   "opts": [
+    "Vagal stimulation",
+    "Sympathetic stimulation",
+    "Phrenic stimulation",
+    "Somatic stimulation"
+   ],
+   "ans": 0,
+   "exp": "Vagal stimulation (Book p371)"
+  },
+  {
+   "id": "SURG-C49-026",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Vagal stimulation during pneumoperitoneum causes:",
+   "opts": [
+    "Sinus bradycardia",
+    "Sinus tachycardia",
+    "Atrial fibrillation",
+    "Ventricular tachycardia"
+   ],
+   "ans": 0,
+   "exp": "Sinus bradycardia (Book p371)"
+  },
+  {
+   "id": "SURG-C49-027",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "The most common arrhythmia in pneumoperitoneum is:",
+   "opts": [
+    "Sinus bradycardia",
+    "Sinus tachycardia",
+    "Heart block",
+    "VF"
+   ],
+   "ans": 0,
+   "exp": "Sinus bradycardia (Book p371)"
+  },
+  {
+   "id": "SURG-C49-028",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Increased intra-abdominal pressure presses the:",
+   "opts": [
+    "IVC",
+    "Aorta",
+    "Portal vein",
+    "Carotid artery"
+   ],
+   "ans": 0,
+   "exp": "IVC (Book p371)"
+  },
+  {
+   "id": "SURG-C49-029",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "IVC compression decreases:",
+   "opts": [
+    "Venous return",
+    "Arterial pressure directly",
+    "Heart rate first",
+    "Airway resistance"
+   ],
+   "ans": 0,
+   "exp": "Venous return (Book p371)"
+  },
+  {
+   "id": "SURG-C49-030",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "Decreased venous return decreases:",
+   "opts": [
+    "Cardiac output (CO)",
+    "Airway resistance",
+    "Intracranial tension",
+    "Urine output first"
+   ],
+   "ans": 0,
+   "exp": "Cardiac output (CO) (Book p371)"
+  },
+  {
+   "id": "SURG-C49-031",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 371,
+   "q": "With falling cardiac output, heart rate initially:",
+   "opts": [
+    "Decreases, later hypotension + reflex tachycardia",
+    "Increases immediately",
+    "Stays normal",
+    "Becomes irregular always"
+   ],
+   "ans": 0,
+   "exp": "Decreases, later hypotension + reflex tachycardia (Book p371)"
+  },
+  {
+   "id": "SURG-C49-032",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "Pneumoperitoneum pushes the diaphragm up causing:",
+   "opts": [
+    "Decreased thoracic volume",
+    "Increased thoracic volume",
+    "Decreased airway resistance",
+    "Decreased intrathoracic pressure"
+   ],
+   "ans": 0,
+   "exp": "Decreased thoracic volume (Book p372)"
+  },
+  {
+   "id": "SURG-C49-033",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "Decreased thoracic volume increases:",
+   "opts": [
+    "Airway Resistance",
+    "Lung compliance",
+    "Tidal volume",
+    "Venous return"
+   ],
+   "ans": 0,
+   "exp": "Airway Resistance (Book p372)"
+  },
+  {
+   "id": "SURG-C49-034",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "Pneumoperitoneum increases:",
+   "opts": [
+    "Intrathoracic pressure",
+    "Thoracic volume",
+    "Lung volumes",
+    "Cardiac output"
+   ],
+   "ans": 0,
+   "exp": "Intrathoracic pressure (Book p372)"
+  },
+  {
+   "id": "SURG-C49-035",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "In a COPD patient, pneumoperitoneum causes:",
+   "opts": [
+    "Further reduction in lung volumes",
+    "Improved lung volumes",
+    "No change",
+    "Bronchodilatation"
+   ],
+   "ans": 0,
+   "exp": "Further reduction in lung volumes (Book p372)"
+  },
+  {
+   "id": "SURG-C49-036",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "To ventilate the lung in COPD, increase:",
+   "opts": [
+    "PEEP (Peak end expiratory pressure)",
+    "Tidal volume only",
+    "Respiratory rate to zero",
+    "FiO2 to zero"
+   ],
+   "ans": 0,
+   "exp": "PEEP (Peak end expiratory pressure) (Book p372)"
+  },
+  {
+   "id": "SURG-C49-037",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "Decreased urine output in pneumoperitoneum is due to increased pressure over:",
+   "opts": [
+    "Renal vessels",
+    "Ureters",
+    "Bladder",
+    "Urethra"
+   ],
+   "ans": 0,
+   "exp": "Renal vessels (Book p372)"
+  },
+  {
+   "id": "SURG-C49-038",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "Pressure over renal vessels decreases:",
+   "opts": [
+    "Renal blood flow",
+    "Renal oxygen demand",
+    "Bladder pressure",
+    "Ureteric peristalsis"
+   ],
+   "ans": 0,
+   "exp": "Renal blood flow (Book p372)"
+  },
+  {
+   "id": "SURG-C49-039",
+   "sec": "Pneumoperitoneum and Physiological Effects",
+   "page": 372,
+   "q": "Pneumoperitoneum increases:",
+   "opts": [
+    "Intracranial Tension",
+    "Renal blood flow",
+    "Venous return",
+    "Thoracic volume"
+   ],
+   "ans": 0,
+   "exp": "Intracranial Tension (Book p372)"
+  },
+  {
+   "id": "SURG-C49-040",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "A method of creating pneumoperitoneum is the:",
+   "opts": [
+    "Blind method",
+    "Sealed method",
+    "Gasless method",
+    "Vacuum method"
+   ],
+   "ans": 0,
+   "exp": "Blind method (Book p372)"
+  },
+  {
+   "id": "SURG-C49-041",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The other method of creating pneumoperitoneum is the:",
+   "opts": [
+    "Open method",
+    "Blind method",
+    "Closed method",
+    "Needle method"
+   ],
+   "ans": 0,
+   "exp": "Open method (Book p372)"
+  },
+  {
+   "id": "SURG-C49-042",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The blind method uses the:",
+   "opts": [
+    "Veress needle",
+    "Hasson trocar",
+    "Foley catheter",
+    "Sengstaken tube"
+   ],
+   "ans": 0,
+   "exp": "Veress needle (Book p372)"
+  },
+  {
+   "id": "SURG-C49-043",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "Confirmation of Veress needle position: drop of saline if sucked confirms the needle is in the:",
+   "opts": [
+    "Peritoneal cavity",
+    "Bowel lumen",
+    "Bladder",
+    "Blood vessel"
+   ],
+   "ans": 0,
+   "exp": "Peritoneal cavity (Book p372)"
+  },
+  {
+   "id": "SURG-C49-044",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "Confirmation of Veress needle: inject saline shows:",
+   "opts": [
+    "No aspirate",
+    "Blood aspirate",
+    "Faecal aspirate",
+    "Bile aspirate"
+   ],
+   "ans": 0,
+   "exp": "No aspirate (Book p372)"
+  },
+  {
+   "id": "SURG-C49-045",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "Flow of CO2 during insufflation is:",
+   "opts": [
+    "1–4 Litres/min",
+    "10–14 Litres/min",
+    "100 ml/min",
+    "20 Litres/min"
+   ],
+   "ans": 0,
+   "exp": "1–4 Litres/min (Book p372)"
+  },
+  {
+   "id": "SURG-C49-046",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The most common site of Veress needle insertion is:",
+   "opts": [
+    "Infraumbilical",
+    "Supraumbilical",
+    "Palmer's point",
+    "McBurney's point"
+   ],
+   "ans": 0,
+   "exp": "Infraumbilical (Book p372)"
+  },
+  {
+   "id": "SURG-C49-047",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "Palmer's point is:",
+   "opts": [
+    "3 cm below left costal margin (midclavicular line)",
+    "3 cm below right costal margin",
+    "At the umbilicus",
+    "In the right iliac fossa"
+   ],
+   "ans": 0,
+   "exp": "3 cm below left costal margin (midclavicular line) (Book p372)"
+  },
+  {
+   "id": "SURG-C49-048",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The Veress needle tip has a:",
+   "opts": [
+    "Bevelled edge",
+    "Blunt rounded end",
+    "Transparent window",
+    "Balloon tip"
+   ],
+   "ans": 0,
+   "exp": "Bevelled edge (Book p372)"
+  },
+  {
+   "id": "SURG-C49-049",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The Veress needle has an outer barrel with a:",
+   "opts": [
+    "Sharp, bevelled point",
+    "Blunt plastic tip",
+    "Lighted end",
+    "Suction channel"
+   ],
+   "ans": 0,
+   "exp": "Sharp, bevelled point (Book p372)"
+  },
+  {
+   "id": "SURG-C49-050",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "In the open (Hasson's) method, the peritoneum is:",
+   "opts": [
+    "Incised under vision",
+    "Punctured blindly",
+    "Left intact",
+    "Stapled"
+   ],
+   "ans": 0,
+   "exp": "Incised under vision (Book p372)"
+  },
+  {
+   "id": "SURG-C49-051",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The advantage of the open method is:",
+   "opts": [
+    "Less chance of injury",
+    "Faster technique",
+    "No scar",
+    "Cheaper instruments"
+   ],
+   "ans": 0,
+   "exp": "Less chance of injury (Book p372)"
+  },
+  {
+   "id": "SURG-C49-052",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The disadvantage of the open method is:",
+   "opts": [
+    "Time consuming",
+    "More injuries",
+    "Blind entry",
+    "No visualization"
+   ],
+   "ans": 0,
+   "exp": "Time consuming (Book p372)"
+  },
+  {
+   "id": "SURG-C49-053",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "An indication for the open method is:",
+   "opts": [
+    "Previous abdominal Sx",
+    "No prior surgery",
+    "Thin patient",
+    "Emergency only"
+   ],
+   "ans": 0,
+   "exp": "Previous abdominal Sx (Book p372)"
+  },
+  {
+   "id": "SURG-C49-054",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The open method is indicated in:",
+   "opts": [
+    "Pregnant patients",
+    "COPD patients",
+    "Children only",
+    "Elderly only"
+   ],
+   "ans": 0,
+   "exp": "Pregnant patients (Book p372)"
+  },
+  {
+   "id": "SURG-C49-055",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "In laparoscopy, the trocar inserted blindly is:",
+   "opts": [
+    "Only 1st trocar",
+    "All trocars",
+    "No trocar",
+    "Only the last trocar"
+   ],
+   "ans": 0,
+   "exp": "Only 1st trocar (Book p372)"
+  },
+  {
+   "id": "SURG-C49-056",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The open method uses:",
+   "opts": [
+    "Hasson's Trocar (Blunt)",
+    "Sharp trocar",
+    "Veress needle",
+    "Optical trocar"
+   ],
+   "ans": 0,
+   "exp": "Hasson's Trocar (Blunt) (Book p372)"
+  },
+  {
+   "id": "SURG-C49-057",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 372,
+   "q": "The blind method uses a:",
+   "opts": [
+    "Sharp trocar",
+    "Blunt trocar",
+    "Plastic catheter",
+    "Glass rod"
+   ],
+   "ans": 0,
+   "exp": "Sharp trocar (Book p372)"
+  },
+  {
+   "id": "SURG-C49-058",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 373,
+   "q": "Bowel injury during trocar insertion is managed by:",
+   "opts": [
+    "Convert to open Sx",
+    "Continue laparoscopy",
+    "Only antibiotics",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Convert to open Sx (Book p373)"
+  },
+  {
+   "id": "SURG-C49-059",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 373,
+   "q": "In bowel injury, keep the trocar in position because it:",
+   "opts": [
+    "Seals the perforation",
+    "Enlarges the injury",
+    "Prevents anaesthesia",
+    "Causes sepsis"
+   ],
+   "ans": 0,
+   "exp": "Seals the perforation (Book p373)"
+  },
+  {
+   "id": "SURG-C49-060",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 373,
+   "q": "Keeping the trocar in position also:",
+   "opts": [
+    "Helps locate injury",
+    "Hides the injury",
+    "Delays surgery",
+    "Increases bleeding"
+   ],
+   "ans": 0,
+   "exp": "Helps locate injury (Book p373)"
+  },
+  {
+   "id": "SURG-C49-061",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 373,
+   "q": "The bladeless optical trocar is called:",
+   "opts": [
+    "Optiport / visiport",
+    "Hasson port",
+    "SILS port",
+    "Hand port"
+   ],
+   "ans": 0,
+   "exp": "Optiport / visiport (Book p373)"
+  },
+  {
+   "id": "SURG-C49-062",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 373,
+   "q": "In the optical trocar, a camera is inserted giving a:",
+   "opts": [
+    "Lesser chance of injury",
+    "Greater chance of injury",
+    "Blind entry",
+    "Longer surgery"
+   ],
+   "ans": 0,
+   "exp": "Lesser chance of injury (Book p373)"
+  },
+  {
+   "id": "SURG-C49-063",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "page": 373,
+   "q": "The optical trocar has a:",
+   "opts": [
+    "Transparent end",
+    "Bevelled sharp end",
+    "Balloon end",
+    "Metal blunt end"
+   ],
+   "ans": 0,
+   "exp": "Transparent end (Book p373)"
+  },
+  {
+   "id": "SURG-C49-064",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "Triangulation means instruments are introduced into trocars from:",
+   "opts": [
+    "Different angles",
+    "The same angle",
+    "One port only",
+    "Opposite organs"
+   ],
+   "ans": 0,
+   "exp": "Different angles (Book p373)"
+  },
+  {
+   "id": "SURG-C49-065",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "Triangulation prevents:",
+   "opts": [
+    "Clash of instruments",
+    "Bleeding",
+    "Infection",
+    "Hernia"
+   ],
+   "ans": 0,
+   "exp": "Clash of instruments (Book p373)"
+  },
+  {
+   "id": "SURG-C49-066",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "The azimuth angle is the angle between:",
+   "opts": [
+    "Camera and instruments",
+    "Two instruments",
+    "Instrument and floor",
+    "Ports and bowel"
+   ],
+   "ans": 0,
+   "exp": "Camera and instruments (Book p373)"
+  },
+  {
+   "id": "SURG-C49-067",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "The azimuth angle is:",
+   "opts": [
+    "30°",
+    "60°",
+    "90°",
+    "15°"
+   ],
+   "ans": 0,
+   "exp": "30° (Book p373)"
+  },
+  {
+   "id": "SURG-C49-068",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "The manipulation angle is the angle between:",
+   "opts": [
+    "Two instruments",
+    "Camera and instruments",
+    "Instrument and floor",
+    "Trocar and skin"
+   ],
+   "ans": 0,
+   "exp": "Two instruments (Book p373)"
+  },
+  {
+   "id": "SURG-C49-069",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "The manipulation angle is:",
+   "opts": [
+    "60°",
+    "30°",
+    "90°",
+    "120°"
+   ],
+   "ans": 0,
+   "exp": "60° (Book p373)"
+  },
+  {
+   "id": "SURG-C49-070",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "The elevation angle is:",
+   "opts": [
+    "60°",
+    "30°",
+    "90°",
+    "10°"
+   ],
+   "ans": 0,
+   "exp": "60° (Book p373)"
+  },
+  {
+   "id": "SURG-C49-071",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 373,
+   "q": "Laparoscopic instruments have:",
+   "opts": [
+    "Insulation (black coat)",
+    "No insulation",
+    "Metal exposure fully",
+    "Glass coating"
+   ],
+   "ans": 0,
+   "exp": "Insulation (black coat) (Book p373)"
+  },
+  {
+   "id": "SURG-C49-072",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "A limitation of laparoscopy is:",
+   "opts": [
+    "Lack of 3D vision",
+    "3D vision",
+    "Tactile feedback excess",
+    "Low cost"
+   ],
+   "ans": 0,
+   "exp": "Lack of 3D vision (Book p374)"
+  },
+  {
+   "id": "SURG-C49-073",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "A limitation of laparoscopy is:",
+   "opts": [
+    "Loss of tactile feedback",
+    "Extra tactile feedback",
+    "Improved haemostasis",
+    "Short learning curve"
+   ],
+   "ans": 0,
+   "exp": "Loss of tactile feedback (Book p374)"
+  },
+  {
+   "id": "SURG-C49-074",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "A limitation of laparoscopy is:",
+   "opts": [
+    "Haemostasis",
+    "Pneumoperitoneum",
+    "Triangulation",
+    "Insufflation"
+   ],
+   "ans": 0,
+   "exp": "Haemostasis (Book p374)"
+  },
+  {
+   "id": "SURG-C49-075",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "If bleeding occurs during laparoscopy:",
+   "opts": [
+    "Coagulate",
+    "Convert always",
+    "Abandon surgery",
+    "Only observe"
+   ],
+   "ans": 0,
+   "exp": "Coagulate (Book p374)"
+  },
+  {
+   "id": "SURG-C49-076",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "For laparoscopic bleeding, insert gauze and:",
+   "opts": [
+    "Apply pressure",
+    "Remove ports",
+    "Deflate abdomen",
+    "Give heparin"
+   ],
+   "ans": 0,
+   "exp": "Apply pressure (Book p374)"
+  },
+  {
+   "id": "SURG-C49-077",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Topical haemostats used in laparoscopy include:",
+   "opts": [
+    "Botroclot/surgicel",
+    "Heparin/warfarin",
+    "Aspirin/clopidogrel",
+    "Streptokinase"
+   ],
+   "ans": 0,
+   "exp": "Botroclot/surgicel (Book p374)"
+  },
+  {
+   "id": "SURG-C49-078",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "A limitation of laparoscopy is:",
+   "opts": [
+    "Extraction of large specimens",
+    "Small incisions",
+    "Less pain",
+    "Fast recovery"
+   ],
+   "ans": 0,
+   "exp": "Extraction of large specimens (Book p374)"
+  },
+  {
+   "id": "SURG-C49-079",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "A limitation of laparoscopy is:",
+   "opts": [
+    "Longer learning curve",
+    "Short learning curve",
+    "No training needed",
+    "Easy mastery"
+   ],
+   "ans": 0,
+   "exp": "Longer learning curve (Book p374)"
+  },
+  {
+   "id": "SURG-C49-080",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "A limitation of laparoscopy is:",
+   "opts": [
+    "Cost",
+    "Cheap instruments",
+    "No equipment",
+    "Free surgery"
+   ],
+   "ans": 0,
+   "exp": "Cost (Book p374)"
+  },
+  {
+   "id": "SURG-C49-081",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "A limitation of laparoscopy is:",
+   "opts": [
+    "Reliance on new technologies",
+    "No technology needed",
+    "Open instruments only",
+    "No electricity"
+   ],
+   "ans": 0,
+   "exp": "Reliance on new technologies (Book p374)"
+  },
+  {
+   "id": "SURG-C49-082",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Capacitance coupling starts with:",
+   "opts": [
+    "Insulation break",
+    "Plastic trocar",
+    "Low voltage",
+    "Direct cut"
+   ],
+   "ans": 0,
+   "exp": "Insulation break (Book p374)"
+  },
+  {
+   "id": "SURG-C49-083",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Insulation break causes:",
+   "opts": [
+    "Leak of current through trocar",
+    "No current flow",
+    "Improved coagulation",
+    "Camera failure"
+   ],
+   "ans": 0,
+   "exp": "Leak of current through trocar (Book p374)"
+  },
+  {
+   "id": "SURG-C49-084",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Current leak through a metallic trocar means:",
+   "opts": [
+    "Bowel can get burnt",
+    "Skin gets burnt only",
+    "No injury",
+    "Trocar melts"
+   ],
+   "ans": 0,
+   "exp": "Bowel can get burnt (Book p374)"
+  },
+  {
+   "id": "SURG-C49-085",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Capacitance coupling is prevented by:",
+   "opts": [
+    "Maintain insulation",
+    "Breaking insulation",
+    "Using metallic trocars",
+    "Increasing current"
+   ],
+   "ans": 0,
+   "exp": "Maintain insulation (Book p374)"
+  },
+  {
+   "id": "SURG-C49-086",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "To prevent capacitance coupling use a:",
+   "opts": [
+    "Plastic Trocar",
+    "Metallic trocar",
+    "Sharp trocar",
+    "Glass trocar"
+   ],
+   "ans": 0,
+   "exp": "Plastic Trocar (Book p374)"
+  },
+  {
+   "id": "SURG-C49-087",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "CO2 retention is seen in:",
+   "opts": [
+    "Laparoscopic cholecystectomy",
+    "Open cholecystectomy",
+    "Laparoscopic hernia only",
+    "All open surgeries"
+   ],
+   "ans": 0,
+   "exp": "Laparoscopic cholecystectomy (Book p374)"
+  },
+  {
+   "id": "SURG-C49-088",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "The position causing CO2 retention is reverse Trendelenburg plus:",
+   "opts": [
+    "Right side up",
+    "Left side up",
+    "Head down",
+    "Lithotomy"
+   ],
+   "ans": 0,
+   "exp": "Right side up (Book p374)"
+  },
+  {
+   "id": "SURG-C49-089",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Reverse Trendelenburg means:",
+   "opts": [
+    "Head end up, foot end low",
+    "Head end low, foot end up",
+    "Lateral position",
+    "Prone position"
+   ],
+   "ans": 0,
+   "exp": "Head end up, foot end low (Book p374)"
+  },
+  {
+   "id": "SURG-C49-090",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "CO2 is retained beneath the:",
+   "opts": [
+    "Right dome of diaphragm",
+    "Left dome of diaphragm",
+    "Pelvis",
+    "Liver bed"
+   ],
+   "ans": 0,
+   "exp": "Right dome of diaphragm (Book p374)"
+  },
+  {
+   "id": "SURG-C49-091",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Retained CO2 irritates the diaphragm causing referred pain to the:",
+   "opts": [
+    "Right shoulder tip",
+    "Left shoulder tip",
+    "Chest centre",
+    "Back"
+   ],
+   "ans": 0,
+   "exp": "Right shoulder tip (Book p374)"
+  },
+  {
+   "id": "SURG-C49-092",
+   "sec": "Laparoscopic Instruments, Angles and Limitations",
+   "page": 374,
+   "q": "Right shoulder tip pain is the:",
+   "opts": [
+    "Most common complication",
+    "Rarest complication",
+    "Fatal complication",
+    "Vascular complication"
+   ],
+   "ans": 0,
+   "exp": "Most common complication (Book p374)"
+  },
+  {
+   "id": "SURG-C49-093",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 374,
+   "q": "Bleeding from the trocar site is managed with:",
+   "opts": [
+    "Sutures on either side of trocar to ligate vessel",
+    "Only pressure forever",
+    "Heparin infusion",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Sutures on either side of trocar to ligate vessel (Book p374)"
+  },
+  {
+   "id": "SURG-C49-094",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 374,
+   "q": "For trocar site bleeding, elongate the incision to:",
+   "opts": [
+    "Tie the vessel",
+    "Insert bigger trocar",
+    "Remove the port",
+    "Close the skin"
+   ],
+   "ans": 0,
+   "exp": "Tie the vessel (Book p374)"
+  },
+  {
+   "id": "SURG-C49-095",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 374,
+   "q": "Trocar site bleeding can be tamponaded with:",
+   "opts": [
+    "Foley's catheter through port site then Inflate",
+    "Nasogastric tube",
+    "Veress needle",
+    "Drain pipe"
+   ],
+   "ans": 0,
+   "exp": "Foley's catheter through port site then Inflate (Book p374)"
+  },
+  {
+   "id": "SURG-C49-096",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "Conventional laparoscopy uses:",
+   "opts": [
+    "Multiple ports",
+    "Single port",
+    "No ports",
+    "Hand port only"
+   ],
+   "ans": 0,
+   "exp": "Multiple ports (Book p375)"
+  },
+  {
+   "id": "SURG-C49-097",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "Conventional laparoscopic ports include a:",
+   "opts": [
+    "12 mm port",
+    "24 mm port",
+    "2 mm port",
+    "30 mm port"
+   ],
+   "ans": 0,
+   "exp": "12 mm port (Book p375)"
+  },
+  {
+   "id": "SURG-C49-098",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "Conventional laparoscopy uses:",
+   "opts": [
+    "5 mm ports",
+    "15 mm ports",
+    "20 mm ports",
+    "1 mm ports"
+   ],
+   "ans": 0,
+   "exp": "5 mm ports (Book p375)"
+  },
+  {
+   "id": "SURG-C49-099",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "The laparoscopy team includes the:",
+   "opts": [
+    "Anesthesiologist",
+    "Cardiologist",
+    "Nephrologist",
+    "Dermatologist"
+   ],
+   "ans": 0,
+   "exp": "Anesthesiologist (Book p375)"
+  },
+  {
+   "id": "SURG-C49-100",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "The laparoscopy team setup includes:",
+   "opts": [
+    "Surgeon and Assistant with Monitors and Mayo stand",
+    "Only the surgeon",
+    "No monitors",
+    "No assistant"
+   ],
+   "ans": 0,
+   "exp": "Surgeon and Assistant with Monitors and Mayo stand (Book p375)"
+  },
+  {
+   "id": "SURG-C49-101",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "SILS stands for:",
+   "opts": [
+    "Single Incision Laparoscopic Sx",
+    "Single Instrument Liver Surgery",
+    "Small Incision Lung Surgery",
+    "Sterile Intraabdominal Lavage System"
+   ],
+   "ans": 0,
+   "exp": "Single Incision Laparoscopic Sx (Book p375)"
+  },
+  {
+   "id": "SURG-C49-102",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "SILS uses an infraumbilical incision to insert the:",
+   "opts": [
+    "SILS port",
+    "Hand port",
+    "Veress needle",
+    "Foley catheter"
+   ],
+   "ans": 0,
+   "exp": "SILS port (Book p375)"
+  },
+  {
+   "id": "SURG-C49-103",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "A disadvantage of SILS is:",
+   "opts": [
+    "Clashing of instruments",
+    "Less pain",
+    "Better cosmesis",
+    "Fewer hernias"
+   ],
+   "ans": 0,
+   "exp": "Clashing of instruments (Book p375)"
+  },
+  {
+   "id": "SURG-C49-104",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "SILS increases the risk of:",
+   "opts": [
+    "Hernia through the port site",
+    "Less infection",
+    "Less bleeding",
+    "No complications"
+   ],
+   "ans": 0,
+   "exp": "Hernia through the port site (Book p375)"
+  },
+  {
+   "id": "SURG-C49-105",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "An advantage of the hand port is:",
+   "opts": [
+    "Better aid in dissection",
+    "Worse dissection",
+    "No tactile feedback",
+    "Smaller incision"
+   ],
+   "ans": 0,
+   "exp": "Better aid in dissection (Book p375)"
+  },
+  {
+   "id": "SURG-C49-106",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "The hand port facilitates:",
+   "opts": [
+    "Tactile feedback",
+    "Loss of feedback",
+    "Blind dissection",
+    "Single port surgery"
+   ],
+   "ans": 0,
+   "exp": "Tactile feedback (Book p375)"
+  },
+  {
+   "id": "SURG-C49-107",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "The hand port image labels the vessel as the:",
+   "opts": [
+    "Renal artery",
+    "Renal vein",
+    "Aorta",
+    "IVC"
+   ],
+   "ans": 0,
+   "exp": "Renal artery (Book p375)"
+  },
+  {
+   "id": "SURG-C49-108",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "page": 375,
+   "q": "The hand port image shows a:",
+   "opts": [
+    "Stapler",
+    "Veress needle",
+    "Foley catheter",
+    "SILS port"
+   ],
+   "ans": 0,
+   "exp": "Stapler (Book p375)"
+  },
+  {
+   "id": "SURG-C49-109",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 375,
+   "q": "NOTES stands for:",
+   "opts": [
+    "Natural Orifice Transluminal Endoscopic Sx",
+    "Natural Outer Tissue Excision Surgery",
+    "Needle Operated Transverse Surgery",
+    "Novel Organ Transplant System"
+   ],
+   "ans": 0,
+   "exp": "Natural Orifice Transluminal Endoscopic Sx (Book p375)"
+  },
+  {
+   "id": "SURG-C49-110",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 375,
+   "q": "The first NOTES step is:",
+   "opts": [
+    "Mucosal entry",
+    "Submucosal tunnel",
+    "Remove circular muscle layer",
+    "Closure of mucosal entry"
+   ],
+   "ans": 0,
+   "exp": "Mucosal entry (Book p375)"
+  },
+  {
+   "id": "SURG-C49-111",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 375,
+   "q": "After mucosal entry in NOTES comes the:",
+   "opts": [
+    "Submucosal tunnel",
+    "Mucosal closure",
+    "Muscle removal",
+    "Skin incision"
+   ],
+   "ans": 0,
+   "exp": "Submucosal tunnel (Book p375)"
+  },
+  {
+   "id": "SURG-C49-112",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 375,
+   "q": "NOTES then removes the:",
+   "opts": [
+    "Circular muscle layer",
+    "Mucosa only",
+    "Serosa only",
+    "Skin"
+   ],
+   "ans": 0,
+   "exp": "Circular muscle layer (Book p375)"
+  },
+  {
+   "id": "SURG-C49-113",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 375,
+   "q": "The last NOTES step is:",
+   "opts": [
+    "Closure of mucosal entry",
+    "Mucosal entry",
+    "Submucosal tunnel",
+    "Muscle removal"
+   ],
+   "ans": 0,
+   "exp": "Closure of mucosal entry (Book p375)"
+  },
+  {
+   "id": "SURG-C49-114",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "A natural orifice for NOTES is the:",
+   "opts": [
+    "Oral Cavity",
+    "Nasal cavity only",
+    "Ear canal",
+    "Eye"
+   ],
+   "ans": 0,
+   "exp": "Oral Cavity (Book p376)"
+  },
+  {
+   "id": "SURG-C49-115",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "POEM stands for:",
+   "opts": [
+    "Per Oral Endoscopic Myotomy",
+    "Peritoneal Open Excision Method",
+    "Portal Endoscopic Mucosectomy",
+    "Pancreatic Oral Excision Maneuver"
+   ],
+   "ans": 0,
+   "exp": "Per Oral Endoscopic Myotomy (Book p376)"
+  },
+  {
+   "id": "SURG-C49-116",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "POEM is done for:",
+   "opts": [
+    "Achalasia cardia",
+    "Bariatric surgery",
+    "Hysterectomy",
+    "Cystectomy"
+   ],
+   "ans": 0,
+   "exp": "Achalasia cardia (Book p376)"
+  },
+  {
+   "id": "SURG-C49-117",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "TOGA stands for:",
+   "opts": [
+    "Transoral Gastroplasty",
+    "Transanal Gland Ablation",
+    "Thoracic Outlet Grafting",
+    "Tubal Occlusion using Glue"
+   ],
+   "ans": 0,
+   "exp": "Transoral Gastroplasty (Book p376)"
+  },
+  {
+   "id": "SURG-C49-118",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "TOGA is a:",
+   "opts": [
+    "Bariatric Sx",
+    "Cardiac surgery",
+    "Neurosurgery",
+    "Transplant surgery"
+   ],
+   "ans": 0,
+   "exp": "Bariatric Sx (Book p376)"
+  },
+  {
+   "id": "SURG-C49-119",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "Oral cavity NOTES procedures include:",
+   "opts": [
+    "ROSE",
+    "SILS",
+    "TULIP",
+    "HOLEP"
+   ],
+   "ans": 0,
+   "exp": "ROSE (Book p376)"
+  },
+  {
+   "id": "SURG-C49-120",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "Oral cavity NOTES procedures include:",
+   "opts": [
+    "POSE",
+    "ROSE only",
+    "SILS",
+    "TURP"
+   ],
+   "ans": 0,
+   "exp": "POSE (Book p376)"
+  },
+  {
+   "id": "SURG-C49-121",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "V-NOTES procedures through the vagina include:",
+   "opts": [
+    "Cystectomy",
+    "Cholecystectomy",
+    "Nephrectomy",
+    "Splenectomy"
+   ],
+   "ans": 0,
+   "exp": "Cystectomy (Book p376)"
+  },
+  {
+   "id": "SURG-C49-122",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "V-NOTES procedures through the vagina include:",
+   "opts": [
+    "Hysterectomy",
+    "Prostatectomy",
+    "Thyroidectomy",
+    "Mastectomy"
+   ],
+   "ans": 0,
+   "exp": "Hysterectomy (Book p376)"
+  },
+  {
+   "id": "SURG-C49-123",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "Rectal NOTES is:",
+   "opts": [
+    "TaTME (Transanal Total Mesorectal Excision)",
+    "TOGA",
+    "POEM",
+    "POSE"
+   ],
+   "ans": 0,
+   "exp": "TaTME (Transanal Total Mesorectal Excision) (Book p376)"
+  },
+  {
+   "id": "SURG-C49-124",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "Robotic surgery is based on the:",
+   "opts": [
+    "Master and slave concept",
+    "Single surgeon concept",
+    "Blind surgery concept",
+    "Open surgery concept"
+   ],
+   "ans": 0,
+   "exp": "Master and slave concept (Book p376)"
+  },
+  {
+   "id": "SURG-C49-125",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "An advantage of robotic surgery is:",
+   "opts": [
+    "3D vision",
+    "2D vision",
+    "No vision",
+    "Blind dissection"
+   ],
+   "ans": 0,
+   "exp": "3D vision (Book p376)"
+  },
+  {
+   "id": "SURG-C49-126",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "Robotic surgery gives more freedom of movement with:",
+   "opts": [
+    "7 degrees of freedom",
+    "3 degrees of freedom",
+    "2 degrees of freedom",
+    "1 degree of freedom"
+   ],
+   "ans": 0,
+   "exp": "7 degrees of freedom (Book p376)"
+  },
+  {
+   "id": "SURG-C49-127",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "More freedom of movement gives:",
+   "opts": [
+    "Better dissection",
+    "Worse dissection",
+    "More tremor",
+    "Less precision"
+   ],
+   "ans": 0,
+   "exp": "Better dissection (Book p376)"
+  },
+  {
+   "id": "SURG-C49-128",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "An advantage of robotic surgery is:",
+   "opts": [
+    "Scaling of movement",
+    "Tremor increase",
+    "Loss of vision",
+    "High cost"
+   ],
+   "ans": 0,
+   "exp": "Scaling of movement (Book p376)"
+  },
+  {
+   "id": "SURG-C49-129",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "An advantage of robotic surgery is:",
+   "opts": [
+    "Tremor reduction",
+    "Tremor increase",
+    "More bleeding",
+    "Longer incisions"
+   ],
+   "ans": 0,
+   "exp": "Tremor reduction (Book p376)"
+  },
+  {
+   "id": "SURG-C49-130",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "A disadvantage of robotic surgery is:",
+   "opts": [
+    "High Cost",
+    "Low cost",
+    "3D vision",
+    "Tremor reduction"
+   ],
+   "ans": 0,
+   "exp": "High Cost (Book p376)"
+  },
+  {
+   "id": "SURG-C49-131",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "A disadvantage of robotic surgery is:",
+   "opts": [
+    "Longer learning curve",
+    "Short learning curve",
+    "Easy mastery",
+    "No training"
+   ],
+   "ans": 0,
+   "exp": "Longer learning curve (Book p376)"
+  },
+  {
+   "id": "SURG-C49-132",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "A disadvantage of robotic surgery is:",
+   "opts": [
+    "Loss of tactile feedback",
+    "Extra feedback",
+    "Better feel",
+    "Hand port feel"
+   ],
+   "ans": 0,
+   "exp": "Loss of tactile feedback (Book p376)"
+  },
+  {
+   "id": "SURG-C49-133",
+   "sec": "NOTES and Robotic Surgery",
+   "page": 376,
+   "q": "The original robotic system is the:",
+   "opts": [
+    "DaVinci Robotic system",
+    "SILS system",
+    "NOTES system",
+    "Hasson system"
+   ],
+   "ans": 0,
+   "exp": "DaVinci Robotic system (Book p376)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U49-1",
+   "ch": 49,
+   "n": 1,
+   "title": "Advantages and Basic Principle",
+   "sec": "Advantages and Basic Principle · p371",
+   "qs": [
+    "SURG-C49-001",
+    "SURG-C49-002",
+    "SURG-C49-003",
+    "SURG-C49-004",
+    "SURG-C49-005",
+    "SURG-C49-006",
+    "SURG-C49-007",
+    "SURG-C49-008",
+    "SURG-C49-009",
+    "SURG-C49-010",
+    "SURG-C49-011",
+    "SURG-C49-012",
+    "SURG-C49-013",
+    "SURG-C49-014",
+    "SURG-C49-015",
+    "SURG-C49-016",
+    "SURG-C49-017",
+    "SURG-C49-018",
+    "SURG-C49-019"
+   ],
+   "guide": "Smaller wounds bring less infection, dehiscence, bleeding, herniation, nerve entrapment, pain, trauma and heat loss with better mobility and visualization. Memorize IVITROS in order: insufflate, visualize, inspect, triangulate, retract tissues, operate and seal."
+  },
+  {
+   "id": "SURG-U49-2",
+   "ch": 49,
+   "n": 2,
+   "title": "Pneumoperitoneum and Physiological Effects",
+   "sec": "Pneumoperitoneum and Physiological Effects · p371",
+   "qs": [
+    "SURG-C49-020",
+    "SURG-C49-021",
+    "SURG-C49-022",
+    "SURG-C49-023",
+    "SURG-C49-024",
+    "SURG-C49-025",
+    "SURG-C49-026",
+    "SURG-C49-027",
+    "SURG-C49-028",
+    "SURG-C49-029",
+    "SURG-C49-030",
+    "SURG-C49-031",
+    "SURG-C49-032",
+    "SURG-C49-033",
+    "SURG-C49-034",
+    "SURG-C49-035",
+    "SURG-C49-036",
+    "SURG-C49-037",
+    "SURG-C49-038",
+    "SURG-C49-039"
+   ],
+   "guide": "CO2 at 10–14 mmHg is the standard distension medium with nitrous oxide as backup, while air and oxygen are banned for supporting combustion. Peritoneal stretch vagally slows the heart into sinus bradycardia, IVC compression drops venous return and cardiac output with early bradycardia then hypotension and reflex tachycardia, the raised diaphragm shrinks thoracic volume and raises airway resistance and intrathoracic pressure needing extra PEEP in COPD, renal vessel pressure cuts urine output, and intracranial tension rises."
+  },
+  {
+   "id": "SURG-U49-3",
+   "ch": 49,
+   "n": 3,
+   "title": "Creating Pneumoperitoneum: Blind, Open and Trocars",
+   "sec": "Creating Pneumoperitoneum: Blind, Open and Trocars · p372",
+   "qs": [
+    "SURG-C49-040",
+    "SURG-C49-041",
+    "SURG-C49-042",
+    "SURG-C49-043",
+    "SURG-C49-044",
+    "SURG-C49-045",
+    "SURG-C49-046",
+    "SURG-C49-047",
+    "SURG-C49-048",
+    "SURG-C49-049",
+    "SURG-C49-050",
+    "SURG-C49-051",
+    "SURG-C49-052",
+    "SURG-C49-053",
+    "SURG-C49-054",
+    "SURG-C49-055",
+    "SURG-C49-056",
+    "SURG-C49-057",
+    "SURG-C49-058",
+    "SURG-C49-059",
+    "SURG-C49-060",
+    "SURG-C49-061",
+    "SURG-C49-062",
+    "SURG-C49-063"
+   ],
+   "guide": "Create pneumoperitoneum blind with the bevelled Veress needle confirmed by a sucked saline drop and no aspirate on injection at 1–4 L/min through an infraumbilical or Palmer's 3-cm-subcostal midclavicular entry, or open with Hasson's under-vision technique that trades time for safety in prior surgery and pregnancy. Only the first trocar goes blind with sharp blind versus blunt Hasson designs; a bowel hit means converting to open while leaving the trocar to seal and mark the hole, and optical Optiport/Visiport cameras with transparent tips cut injury further."
+  },
+  {
+   "id": "SURG-U49-4",
+   "ch": 49,
+   "n": 4,
+   "title": "Laparoscopic Instruments, Angles and Limitations",
+   "sec": "Laparoscopic Instruments, Angles and Limitations · p373",
+   "qs": [
+    "SURG-C49-064",
+    "SURG-C49-065",
+    "SURG-C49-066",
+    "SURG-C49-067",
+    "SURG-C49-068",
+    "SURG-C49-069",
+    "SURG-C49-070",
+    "SURG-C49-071",
+    "SURG-C49-072",
+    "SURG-C49-073",
+    "SURG-C49-074",
+    "SURG-C49-075",
+    "SURG-C49-076",
+    "SURG-C49-077",
+    "SURG-C49-078",
+    "SURG-C49-079",
+    "SURG-C49-080",
+    "SURG-C49-081",
+    "SURG-C49-082",
+    "SURG-C49-083",
+    "SURG-C49-084",
+    "SURG-C49-085",
+    "SURG-C49-086",
+    "SURG-C49-087",
+    "SURG-C49-088",
+    "SURG-C49-089",
+    "SURG-C49-090",
+    "SURG-C49-091",
+    "SURG-C49-092"
+   ],
+   "guide": "Triangulate instruments from different angles to stop clashing, holding azimuth at 30° between camera and tools with manipulation and elevation each at 60°, and respect the black insulating coat. Laparoscopy is limited by flat vision, lost feel, haemostasis handled by coagulation, gauze pressure or Botroclot/Surgicel, big-specimen extraction, learning curve, cost and technology dependence; broken insulation leaking current through metal trocars burns bowel unless insulation is kept and plastic trocars used, and right-side-up reverse Trendelenburg traps CO2 under the right diaphragm to give the commonest complication of right shoulder-tip pain."
+  },
+  {
+   "id": "SURG-U49-5",
+   "ch": 49,
+   "n": 5,
+   "title": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port",
+   "sec": "Trocar Bleeding, Conventional Laparoscopy, SILS and Hand Port · p374",
+   "qs": [
+    "SURG-C49-093",
+    "SURG-C49-094",
+    "SURG-C49-095",
+    "SURG-C49-096",
+    "SURG-C49-097",
+    "SURG-C49-098",
+    "SURG-C49-099",
+    "SURG-C49-100",
+    "SURG-C49-101",
+    "SURG-C49-102",
+    "SURG-C49-103",
+    "SURG-C49-104",
+    "SURG-C49-105",
+    "SURG-C49-106",
+    "SURG-C49-107",
+    "SURG-C49-108"
+   ],
+   "guide": "Bleeding trocar sites are oversewn on both sides, tied through an elongated incision or tamponaded by an inflated Foley through the port. Conventional laparoscopy arrays 12-mm and 5-mm multiple ports around surgeon, assistant, anaesthesiologist, monitors and Mayo stand; SILS squeezes everything through one infraumbilical port at the price of clashing tools and port hernias, while a hand port restores dissection and tactile feedback as in the renal-artery stapler view."
+  },
+  {
+   "id": "SURG-U49-6",
+   "ch": 49,
+   "n": 6,
+   "title": "NOTES and Robotic Surgery",
+   "sec": "NOTES and Robotic Surgery · p375",
+   "qs": [
+    "SURG-C49-109",
+    "SURG-C49-110",
+    "SURG-C49-111",
+    "SURG-C49-112",
+    "SURG-C49-113",
+    "SURG-C49-114",
+    "SURG-C49-115",
+    "SURG-C49-116",
+    "SURG-C49-117",
+    "SURG-C49-118",
+    "SURG-C49-119",
+    "SURG-C49-120",
+    "SURG-C49-121",
+    "SURG-C49-122",
+    "SURG-C49-123",
+    "SURG-C49-124",
+    "SURG-C49-125",
+    "SURG-C49-126",
+    "SURG-C49-127",
+    "SURG-C49-128",
+    "SURG-C49-129",
+    "SURG-C49-130",
+    "SURG-C49-131",
+    "SURG-C49-132",
+    "SURG-C49-133"
+   ],
+   "guide": "NOTES crosses natural orifices through mucosal entry, submucosal tunnel, circular-muscle removal and mucosal closure, reaching achalasia by POEM and bariatric work by TOGA/ROSE/POSE orally, cystectomy and hysterectomy vaginally, and total mesorectal excision transanally. Master-slave robotics adds 3D vision, seven degrees of dissecting freedom, motion scaling and tremor reduction against high cost, long learning and lost feel, originating with the DaVinci system."
+  }
+ ]
+}

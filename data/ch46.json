@@ -1,0 +1,2856 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C46-001",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "French grading of a Foley's catheter is for:",
+   "opts": [
+    "Outer circumference/diameter",
+    "Inner lumen length only",
+    "Balloon volume only",
+    "Irrigation flow rate only"
+   ],
+   "ans": 0,
+   "exp": "Outer circumference/diameter (Book p353)"
+  },
+  {
+   "id": "SURG-C46-002",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "One French equals:",
+   "opts": [
+    "0.33 mm",
+    "1.0 mm",
+    "3.3 mm",
+    "0.033 cm only"
+   ],
+   "ans": 0,
+   "exp": "0.33 mm (Book p353)"
+  },
+  {
+   "id": "SURG-C46-003",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A white Foley's catheter is size:",
+   "opts": [
+    "12 French",
+    "14 French",
+    "18 French",
+    "20 French"
+   ],
+   "ans": 0,
+   "exp": "12 French (Book p353)"
+  },
+  {
+   "id": "SURG-C46-004",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A white (12 French) Foley's catheter measures:",
+   "opts": [
+    "4 mm",
+    "4.7 mm",
+    "5.3 mm",
+    "6.7 mm"
+   ],
+   "ans": 0,
+   "exp": "4 mm (Book p353)"
+  },
+  {
+   "id": "SURG-C46-005",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A green Foley's catheter is size:",
+   "opts": [
+    "14 French",
+    "12 French",
+    "16 French",
+    "20 French"
+   ],
+   "ans": 0,
+   "exp": "14 French (Book p353)"
+  },
+  {
+   "id": "SURG-C46-006",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A green (14 French) Foley's catheter measures:",
+   "opts": [
+    "4.7 mm",
+    "4 mm",
+    "5.3 mm",
+    "6 mm"
+   ],
+   "ans": 0,
+   "exp": "4.7 mm (Book p353)"
+  },
+  {
+   "id": "SURG-C46-007",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "An orange Foley's catheter is size:",
+   "opts": [
+    "16 French",
+    "12 French",
+    "14 French",
+    "18 French"
+   ],
+   "ans": 0,
+   "exp": "16 French (Book p353)"
+  },
+  {
+   "id": "SURG-C46-008",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "An orange (16 French) Foley's catheter measures:",
+   "opts": [
+    "5.3 mm",
+    "4 mm",
+    "4.7 mm",
+    "6.7 mm"
+   ],
+   "ans": 0,
+   "exp": "5.3 mm (Book p353)"
+  },
+  {
+   "id": "SURG-C46-009",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A red Foley's catheter is size:",
+   "opts": [
+    "18 French",
+    "14 French",
+    "16 French",
+    "20 French"
+   ],
+   "ans": 0,
+   "exp": "18 French (Book p353)"
+  },
+  {
+   "id": "SURG-C46-010",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A red (18 French) Foley's catheter measures:",
+   "opts": [
+    "6 mm",
+    "4 mm",
+    "5.3 mm",
+    "6.7 mm"
+   ],
+   "ans": 0,
+   "exp": "6 mm (Book p353)"
+  },
+  {
+   "id": "SURG-C46-011",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A yellow Foley's catheter is size:",
+   "opts": [
+    "20 French",
+    "12 French",
+    "16 French",
+    "18 French"
+   ],
+   "ans": 0,
+   "exp": "20 French (Book p353)"
+  },
+  {
+   "id": "SURG-C46-012",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A yellow (20 French) Foley's catheter measures:",
+   "opts": [
+    "6.7 mm",
+    "4 mm",
+    "4.7 mm",
+    "6 mm"
+   ],
+   "ans": 0,
+   "exp": "6.7 mm (Book p353)"
+  },
+  {
+   "id": "SURG-C46-013",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The Foley's catheter diagram labels the tip opening as the:",
+   "opts": [
+    "Bladder opening",
+    "Urethral meatus",
+    "Ureteric orifice",
+    "Irrigation valve"
+   ],
+   "ans": 0,
+   "exp": "Bladder opening (Book p353)"
+  },
+  {
+   "id": "SURG-C46-014",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The retaining structure near the tip of a Foley's catheter is the:",
+   "opts": [
+    "Balloon",
+    "Metal stylet",
+    "Ureteric stent",
+    "Prostatic coil"
+   ],
+   "ans": 0,
+   "exp": "Balloon (Book p353)"
+  },
+  {
+   "id": "SURG-C46-015",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The size marking on a Foley's catheter is given in:",
+   "opts": [
+    "French scale and millimeters",
+    "Inches only",
+    "Gauge and litres",
+    "Centimetres of water only"
+   ],
+   "ans": 0,
+   "exp": "French scale and millimeters (Book p353)"
+  },
+  {
+   "id": "SURG-C46-016",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "One channel of a Foley's catheter is the:",
+   "opts": [
+    "Urine drainage port",
+    "Arterial pressure port",
+    "Bile drainage port",
+    "Epidural port"
+   ],
+   "ans": 0,
+   "exp": "Urine drainage port (Book p353)"
+  },
+  {
+   "id": "SURG-C46-017",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "Another channel of a Foley's catheter is the:",
+   "opts": [
+    "Balloon port",
+    "Nasogastric port",
+    "Central venous port",
+    "Peritoneal port"
+   ],
+   "ans": 0,
+   "exp": "Balloon port (Book p353)"
+  },
+  {
+   "id": "SURG-C46-018",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The balloon port of a Foley's catheter is marked with the:",
+   "opts": [
+    "Volume of fluid recommended to inflate the balloon",
+    "Patient's blood group",
+    "Urine culture result",
+    "French colour of the ureter"
+   ],
+   "ans": 0,
+   "exp": "Volume of fluid recommended to inflate the balloon (Book p353)"
+  },
+  {
+   "id": "SURG-C46-019",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The third channel of a 3-way Foley's catheter is for:",
+   "opts": [
+    "Irrigation to remove clots",
+    "Balloon deflation only",
+    "Ureteric stenting",
+    "Rectal suction"
+   ],
+   "ans": 0,
+   "exp": "Irrigation to remove clots (Book p353)"
+  },
+  {
+   "id": "SURG-C46-020",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A 3-way Foley's catheter is shown with an extra channel for:",
+   "opts": [
+    "Irrigation",
+    "Urethral dilatation",
+    "Prostatic biopsy",
+    "Bladder neck resection"
+   ],
+   "ans": 0,
+   "exp": "Irrigation (Book p353)"
+  },
+  {
+   "id": "SURG-C46-021",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A type of Foley's catheter listed is the:",
+   "opts": [
+    "Rubber Foley's",
+    "Steel Foley's",
+    "Glass Foley's",
+    "Cotton Foley's"
+   ],
+   "ans": 0,
+   "exp": "Rubber Foley's (Book p353)"
+  },
+  {
+   "id": "SURG-C46-022",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The duration of use of a rubber Foley's catheter is:",
+   "opts": [
+    "25–30 days",
+    "3 months",
+    "1 year",
+    "7–10 days only"
+   ],
+   "ans": 0,
+   "exp": "25–30 days (Book p353)"
+  },
+  {
+   "id": "SURG-C46-023",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The other type of Foley's catheter listed is the:",
+   "opts": [
+    "Silicone Foley's",
+    "Latex-core steel Foley's",
+    "Paper Foley's",
+    "Silver-chain Foley's"
+   ],
+   "ans": 0,
+   "exp": "Silicone Foley's (Book p353)"
+  },
+  {
+   "id": "SURG-C46-024",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "The duration of use of a silicone Foley's catheter is:",
+   "opts": [
+    "3 months",
+    "25–30 days",
+    "7–10 days",
+    "24 hours only"
+   ],
+   "ans": 0,
+   "exp": "3 months (Book p353)"
+  },
+  {
+   "id": "SURG-C46-025",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "Silicone Foley's catheters show decreased colonization and decreased:",
+   "opts": [
+    "Crusting",
+    "Balloon capacity",
+    "French size",
+    "Urine output"
+   ],
+   "ans": 0,
+   "exp": "Crusting (Book p353)"
+  },
+  {
+   "id": "SURG-C46-026",
+   "sec": "Foley's Catheter",
+   "page": 353,
+   "q": "A stuck Foley's during deflation is best managed by retracting the balloon with:",
+   "opts": [
+    "USG guided balloon puncture",
+    "Blind forceful pulling",
+    "Cutting the urethra",
+    "Leaving it permanently"
+   ],
+   "ans": 0,
+   "exp": "USG guided balloon puncture (Book p353)"
+  },
+  {
+   "id": "SURG-C46-027",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "A clinical feature of acute urinary retention is:",
+   "opts": [
+    "Pain",
+    "Painless large lump only",
+    "Jaundice",
+    "Haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Pain (Book p353)"
+  },
+  {
+   "id": "SURG-C46-028",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "Acute urinary retention presents with:",
+   "opts": [
+    "Abdominal swelling",
+    "Scrotal transillumination",
+    "Perineal ulcer",
+    "Penile curvature"
+   ],
+   "ans": 0,
+   "exp": "Abdominal swelling (Book p353)"
+  },
+  {
+   "id": "SURG-C46-029",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "Dehydration in acute urinary retention is:",
+   "opts": [
+    "Usually absent",
+    "Always severe",
+    "Present with uraemia in every case",
+    "Associated with deranged KFT in every case"
+   ],
+   "ans": 0,
+   "exp": "Usually absent (Book p353)"
+  },
+  {
+   "id": "SURG-C46-030",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "The investigation finding in acute urinary retention is:",
+   "opts": [
+    "KFT usually normal",
+    "KFT always deranged",
+    "Uraemia in every case",
+    "Hyperchloremic acidosis in every case"
+   ],
+   "ans": 0,
+   "exp": "KFT usually normal (Book p353)"
+  },
+  {
+   "id": "SURG-C46-031",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "Management of acute urinary retention includes:",
+   "opts": [
+    "Foley catheterisation/SPC (suprapubic catheterisation)",
+    "Immediate radical cystectomy",
+    "Only oral antibiotics",
+    "Observation without drainage"
+   ],
+   "ans": 0,
+   "exp": "Foley catheterisation/SPC (suprapubic catheterisation) (Book p353)"
+  },
+  {
+   "id": "SURG-C46-032",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "Along with drainage, acute urinary retention needs:",
+   "opts": [
+    "Treatment of the underlying cause",
+    "No further treatment",
+    "Only bladder irrigation forever",
+    "Ureteric reimplantation in every case"
+   ],
+   "ans": 0,
+   "exp": "Treatment of the underlying cause (Book p353)"
+  },
+  {
+   "id": "SURG-C46-033",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "A predisposing factor for chronic urinary retention is:",
+   "opts": [
+    "Bladder outlet obstruction",
+    "Acute appendicitis",
+    "Pneumothorax",
+    "Inguinal hernia only"
+   ],
+   "ans": 0,
+   "exp": "Bladder outlet obstruction (Book p353)"
+  },
+  {
+   "id": "SURG-C46-034",
+   "sec": "Urinary Retention",
+   "page": 353,
+   "q": "Chronic urinary retention is predisposed by:",
+   "opts": [
+    "BPH",
+    "Acute orchitis",
+    "Penile fracture",
+    "Urethral condyloma only"
+   ],
+   "ans": 0,
+   "exp": "BPH (Book p353)"
+  },
+  {
+   "id": "SURG-C46-035",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "A predisposing factor for chronic urinary retention is:",
+   "opts": [
+    "Bladder neck stenosis",
+    "Bladder dome perforation only",
+    "Urachal cyst",
+    "Hutch diverticulum only"
+   ],
+   "ans": 0,
+   "exp": "Bladder neck stenosis (Book p354)"
+  },
+  {
+   "id": "SURG-C46-036",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Chronic urinary retention may follow:",
+   "opts": [
+    "Spinal injury",
+    "Nasal fracture",
+    "Clavicle fracture",
+    "Acute tonsillitis"
+   ],
+   "ans": 0,
+   "exp": "Spinal injury (Book p354)"
+  },
+  {
+   "id": "SURG-C46-037",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "A clinical feature of chronic urinary retention is:",
+   "opts": [
+    "Inability to pass urine",
+    "Passage of large volumes hourly",
+    "Painless jaundice",
+    "Scrotal pain only"
+   ],
+   "ans": 0,
+   "exp": "Inability to pass urine (Book p354)"
+  },
+  {
+   "id": "SURG-C46-038",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Chronic urinary retention presents with an:",
+   "opts": [
+    "Abdominal lump",
+    "Acute tender groin lump",
+    "Perianal abscess",
+    "Breast lump"
+   ],
+   "ans": 0,
+   "exp": "Abdominal lump (Book p354)"
+  },
+  {
+   "id": "SURG-C46-039",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Pain in chronic urinary retention is:",
+   "opts": [
+    "Relatively less",
+    "Always excruciating",
+    "Absent in every case",
+    "Referred to the shoulder"
+   ],
+   "ans": 0,
+   "exp": "Relatively less (Book p354)"
+  },
+  {
+   "id": "SURG-C46-040",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Lab findings in chronic urinary retention include:",
+   "opts": [
+    "Deranged KFT",
+    "Normal KFT in every case",
+    "Normal creatinine always",
+    "Only anaemia"
+   ],
+   "ans": 0,
+   "exp": "Deranged KFT (Book p354)"
+  },
+  {
+   "id": "SURG-C46-041",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Uraemia in chronic urinary retention is:",
+   "opts": [
+    "Present +/-",
+    "Never seen",
+    "Always absent",
+    "Seen only in acute retention"
+   ],
+   "ans": 0,
+   "exp": "Present +/- (Book p354)"
+  },
+  {
+   "id": "SURG-C46-042",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Management of chronic urinary retention is:",
+   "opts": [
+    "Foley's catheterisation/SPC",
+    "Immediate nephrectomy",
+    "Only antacids",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Foley's catheterisation/SPC (Book p354)"
+  },
+  {
+   "id": "SURG-C46-043",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "A complication of draining chronic urinary retention is:",
+   "opts": [
+    "Post-obstructive diuresis",
+    "Post-obstructive jaundice",
+    "Acute pancreatitis",
+    "Tension pneumothorax"
+   ],
+   "ans": 0,
+   "exp": "Post-obstructive diuresis (Book p354)"
+  },
+  {
+   "id": "SURG-C46-044",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Post-obstructive diuresis is prevented by:",
+   "opts": [
+    "Aggressive i/v hydration",
+    "Fluid restriction only",
+    "Clamping the IV line",
+    "Only oral vitamins"
+   ],
+   "ans": 0,
+   "exp": "Aggressive i/v hydration (Book p354)"
+  },
+  {
+   "id": "SURG-C46-045",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Haematuria after draining chronic retention is due to:",
+   "opts": [
+    "Sudden decompression",
+    "A bladder tumour in every case",
+    "A ureteric stone",
+    "Cystitis cystica only"
+   ],
+   "ans": 0,
+   "exp": "Sudden decompression (Book p354)"
+  },
+  {
+   "id": "SURG-C46-046",
+   "sec": "Urinary Retention",
+   "page": 354,
+   "q": "Haematuria due to sudden decompression is prevented by:",
+   "opts": [
+    "Clamp/gradual release",
+    "Rapid complete drainage",
+    "Aggressive IV hydration alone",
+    "Immediate cystectomy"
+   ],
+   "ans": 0,
+   "exp": "Clamp/gradual release (Book p354)"
+  },
+  {
+   "id": "SURG-C46-047",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "A type of bladder trauma is:",
+   "opts": [
+    "Extraperitoneal rupture",
+    "Subcutaneous rupture",
+    "Intrathoracic rupture",
+    "Intracranial rupture"
+   ],
+   "ans": 0,
+   "exp": "Extraperitoneal rupture (Book p354)"
+  },
+  {
+   "id": "SURG-C46-048",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "The most common type of bladder rupture is:",
+   "opts": [
+    "Extraperitoneal",
+    "Intraperitoneal",
+    "Combined thoracoabdominal",
+    "Urethral only"
+   ],
+   "ans": 0,
+   "exp": "Extraperitoneal (Book p354)"
+  },
+  {
+   "id": "SURG-C46-049",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "The other type of bladder rupture is:",
+   "opts": [
+    "Intraperitoneal",
+    "Extrapleural",
+    "Subdural",
+    "Retropharyngeal"
+   ],
+   "ans": 0,
+   "exp": "Intraperitoneal (Book p354)"
+  },
+  {
+   "id": "SURG-C46-050",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "Extraperitoneal bladder rupture is secondary to:",
+   "opts": [
+    "Pelvic fracture",
+    "Rib fracture",
+    "Skull fracture",
+    "Humerus fracture"
+   ],
+   "ans": 0,
+   "exp": "Pelvic fracture (Book p354)"
+  },
+  {
+   "id": "SURG-C46-051",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "Extraperitoneal bladder rupture may have associated:",
+   "opts": [
+    "Proximal urethral injury +/-",
+    "Distal penile injury in every case",
+    "Renal artery injury in every case",
+    "Ureteric avulsion in every case"
+   ],
+   "ans": 0,
+   "exp": "Proximal urethral injury +/- (Book p354)"
+  },
+  {
+   "id": "SURG-C46-052",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "A clinical feature of extraperitoneal bladder rupture is:",
+   "opts": [
+    "Inability to pass urine",
+    "Polyuria",
+    "Painless jaundice",
+    "Haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Inability to pass urine (Book p354)"
+  },
+  {
+   "id": "SURG-C46-053",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "Blood at the tip of the meatus suggests:",
+   "opts": [
+    "Extraperitoneal bladder rupture with urethral involvement",
+    "Acute appendicitis",
+    "Cholecystitis",
+    "Pneumonia"
+   ],
+   "ans": 0,
+   "exp": "Extraperitoneal bladder rupture with urethral involvement (Book p354)"
+  },
+  {
+   "id": "SURG-C46-054",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "A clinical feature of extraperitoneal bladder rupture is:",
+   "opts": [
+    "Deep perineal hematoma",
+    "Superficial leg hematoma",
+    "Scalp hematoma",
+    "Subconjunctival haemorrhage only"
+   ],
+   "ans": 0,
+   "exp": "Deep perineal hematoma (Book p354)"
+  },
+  {
+   "id": "SURG-C46-055",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "The investigation of choice in a stable patient with bladder rupture is:",
+   "opts": [
+    "CT urography",
+    "Plain X-ray only",
+    "HIDA scan",
+    "Barium enema"
+   ],
+   "ans": 0,
+   "exp": "CT urography (Book p354)"
+  },
+  {
+   "id": "SURG-C46-056",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "An investigation listed for bladder rupture is:",
+   "opts": [
+    "MCU",
+    "ECG",
+    "EEG",
+    "Spirometry"
+   ],
+   "ans": 0,
+   "exp": "MCU (Book p354)"
+  },
+  {
+   "id": "SURG-C46-057",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "An investigation listed for bladder rupture is:",
+   "opts": [
+    "RGU",
+    "HIDA scan",
+    "PET-CT only",
+    "Mammography"
+   ],
+   "ans": 0,
+   "exp": "RGU (Book p354)"
+  },
+  {
+   "id": "SURG-C46-058",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "The CT image of extraperitoneal bladder rupture shows:",
+   "opts": [
+    "Extraperitoneal extravasation of urine",
+    "Spilled dye outlining the bowel",
+    "A normal bladder",
+    "A ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Extraperitoneal extravasation of urine (Book p354)"
+  },
+  {
+   "id": "SURG-C46-059",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "Management of extraperitoneal bladder rupture is:",
+   "opts": [
+    "Foley's catheter/SPC x 7–10 days",
+    "Immediate laparotomy in every case",
+    "Bladder repair in 2 layers in every case",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Foley's catheter/SPC x 7–10 days (Book p354)"
+  },
+  {
+   "id": "SURG-C46-060",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "Intraperitoneal bladder rupture occurs with:",
+   "opts": [
+    "Full bladder with lower abdominal injury",
+    "Empty bladder with head injury",
+    "Pelvic fracture in every case",
+    "Chest trauma only"
+   ],
+   "ans": 0,
+   "exp": "Full bladder with lower abdominal injury (Book p354)"
+  },
+  {
+   "id": "SURG-C46-061",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "A surgical cause of intraperitoneal bladder rupture is:",
+   "opts": [
+    "Hysterectomy",
+    "Circumcision",
+    "Hydrocelectomy",
+    "Thyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "Hysterectomy (Book p354)"
+  },
+  {
+   "id": "SURG-C46-062",
+   "sec": "Bladder Trauma and Grading",
+   "page": 354,
+   "q": "Intraperitoneal bladder rupture may follow:",
+   "opts": [
+    "Cancer surgeries",
+    "Cataract surgery",
+    "Dental extraction",
+    "Skin biopsy"
+   ],
+   "ans": 0,
+   "exp": "Cancer surgeries (Book p354)"
+  },
+  {
+   "id": "SURG-C46-063",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "The post-void image of intraperitoneal bladder rupture shows:",
+   "opts": [
+    "Spilled dye outlining the bowel",
+    "Extraperitoneal extravasation only",
+    "A normal cystogram",
+    "A drooping lily sign"
+   ],
+   "ans": 0,
+   "exp": "Spilled dye outlining the bowel (Book p355)"
+  },
+  {
+   "id": "SURG-C46-064",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "A clinical feature of intraperitoneal bladder rupture is:",
+   "opts": [
+    "Syncopal attack",
+    "Deep perineal hematoma only",
+    "Blood at meatus in every case",
+    "Scrotal swelling only"
+   ],
+   "ans": 0,
+   "exp": "Syncopal attack (Book p355)"
+  },
+  {
+   "id": "SURG-C46-065",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Intraperitoneal bladder rupture causes:",
+   "opts": [
+    "Peritonitis",
+    "Pericarditis",
+    "Meningitis",
+    "Cellulitis of the leg"
+   ],
+   "ans": 0,
+   "exp": "Peritonitis (Book p355)"
+  },
+  {
+   "id": "SURG-C46-066",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Investigation of choice in a stable patient with intraperitoneal rupture is:",
+   "opts": [
+    "CT urography",
+    "USG Doppler only",
+    "Plain radiograph only",
+    "Arterial blood gas only"
+   ],
+   "ans": 0,
+   "exp": "CT urography (Book p355)"
+  },
+  {
+   "id": "SURG-C46-067",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Management of intraperitoneal bladder rupture is:",
+   "opts": [
+    "Explorative laparotomy with bladder repair in 2 layers + Foley's catheterisation/SPC",
+    "Foley's catheter alone in every case",
+    "Only SPC without repair",
+    "Observation without surgery"
+   ],
+   "ans": 0,
+   "exp": "Explorative laparotomy with bladder repair in 2 layers + Foley's catheterisation/SPC (Book p355)"
+  },
+  {
+   "id": "SURG-C46-068",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Grade I bladder injury with haematoma is described as:",
+   "opts": [
+    "Contusion, intramural haematoma",
+    "Extraperitoneal laceration <2 cm",
+    "Intraperitoneal laceration ≥2 cm",
+    "Laceration into the trigone"
+   ],
+   "ans": 0,
+   "exp": "Contusion, intramural haematoma (Book p355)"
+  },
+  {
+   "id": "SURG-C46-069",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Grade I bladder injury with laceration is:",
+   "opts": [
+    "Partial thickness",
+    "Full thickness intraperitoneal ≥2 cm",
+    "Bladder neck involvement",
+    "Ureteral orifice involvement"
+   ],
+   "ans": 0,
+   "exp": "Partial thickness (Book p355)"
+  },
+  {
+   "id": "SURG-C46-070",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Grade II bladder injury is:",
+   "opts": [
+    "Extraperitoneal bladder wall laceration <2 cm",
+    "Extraperitoneal laceration ≥2 cm",
+    "Intraperitoneal laceration ≥2 cm",
+    "Contusion only"
+   ],
+   "ans": 0,
+   "exp": "Extraperitoneal bladder wall laceration <2 cm (Book p355)"
+  },
+  {
+   "id": "SURG-C46-071",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Grade III bladder injury is:",
+   "opts": [
+    "Extraperitoneal ≥2 cm or intraperitoneal <2 cm bladder wall laceration",
+    "Intraperitoneal laceration ≥2 cm",
+    "Contusion only",
+    "Partial thickness only"
+   ],
+   "ans": 0,
+   "exp": "Extraperitoneal ≥2 cm or intraperitoneal <2 cm bladder wall laceration (Book p355)"
+  },
+  {
+   "id": "SURG-C46-072",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Grade IV bladder injury is:",
+   "opts": [
+    "Intraperitoneal bladder wall laceration ≥2 cm",
+    "Extraperitoneal laceration <2 cm",
+    "Contusion only",
+    "Partial thickness only"
+   ],
+   "ans": 0,
+   "exp": "Intraperitoneal bladder wall laceration ≥2 cm (Book p355)"
+  },
+  {
+   "id": "SURG-C46-073",
+   "sec": "Bladder Trauma and Grading",
+   "page": 355,
+   "q": "Grade V bladder injury is laceration extending into the:",
+   "opts": [
+    "Bladder neck or ureteral orifice (Trigone)",
+    "Bladder dome only",
+    "Urachus only",
+    "Anterior abdominal wall only"
+   ],
+   "ans": 0,
+   "exp": "Bladder neck or ureteral orifice (Trigone) (Book p355)"
+  },
+  {
+   "id": "SURG-C46-074",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Bladder diverticulum is:",
+   "opts": [
+    "Outpouching of bladder",
+    "Inward growth of prostate",
+    "Rupture of the urethra",
+    "Stone in the bladder neck"
+   ],
+   "ans": 0,
+   "exp": "Outpouching of bladder (Book p355)"
+  },
+  {
+   "id": "SURG-C46-075",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "A type of bladder diverticulum is:",
+   "opts": [
+    "Primary congenital",
+    "Primary malignant",
+    "Traumatic intraperitoneal",
+    "Metastatic"
+   ],
+   "ans": 0,
+   "exp": "Primary congenital (Book p355)"
+  },
+  {
+   "id": "SURG-C46-076",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Primary congenital diverticulum is:",
+   "opts": [
+    "Herniation of mucosa",
+    "Herniation of full-thickness detrusor in every case",
+    "A pulsion diverticulum",
+    "Secondary to outlet obstruction"
+   ],
+   "ans": 0,
+   "exp": "Herniation of mucosa (Book p355)"
+  },
+  {
+   "id": "SURG-C46-077",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "The defect in primary congenital diverticulum is a congenital muscular defect between the intravesical ureter and the:",
+   "opts": [
+    "Root of ureteral hiatus",
+    "Bladder dome",
+    "Urachus",
+    "External meatus"
+   ],
+   "ans": 0,
+   "exp": "Root of ureteral hiatus (Book p355)"
+  },
+  {
+   "id": "SURG-C46-078",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Primary congenital bladder diverticulum is called:",
+   "opts": [
+    "Hutch diverticulum",
+    "Meckel diverticulum",
+    "Zenker diverticulum",
+    "Calot diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Hutch diverticulum (Book p355)"
+  },
+  {
+   "id": "SURG-C46-079",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Primary bladder diverticulum may be associated with:",
+   "opts": [
+    "VUR +/- (vesico ureteric reflux)",
+    "Ureterocele in every case",
+    "Bladder exstrophy in every case",
+    "Posterior urethral valves in every case"
+   ],
+   "ans": 0,
+   "exp": "VUR +/- (vesico ureteric reflux) (Book p355)"
+  },
+  {
+   "id": "SURG-C46-080",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Secondary bladder diverticulum is a:",
+   "opts": [
+    "Pulsion diverticulum",
+    "Traction diverticulum",
+    "Malignant diverticulum",
+    "Congenital mucosal hernia"
+   ],
+   "ans": 0,
+   "exp": "Pulsion diverticulum (Book p355)"
+  },
+  {
+   "id": "SURG-C46-081",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Secondary diverticulum is due to:",
+   "opts": [
+    "Increased pressure",
+    "Decreased pressure",
+    "Normal pressure in every case",
+    "Negative pressure"
+   ],
+   "ans": 0,
+   "exp": "Increased pressure (Book p355)"
+  },
+  {
+   "id": "SURG-C46-082",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "A cause of secondary bladder diverticulum is:",
+   "opts": [
+    "Bladder outlet obstruction",
+    "Bladder dome perforation",
+    "Urachal patency",
+    "Renal agenesis"
+   ],
+   "ans": 0,
+   "exp": "Bladder outlet obstruction (Book p355)"
+  },
+  {
+   "id": "SURG-C46-083",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Secondary bladder diverticulum may be secondary to:",
+   "opts": [
+    "BPH",
+    "Acute prostatitis only",
+    "Testicular torsion",
+    "Epididymitis"
+   ],
+   "ans": 0,
+   "exp": "BPH (Book p355)"
+  },
+  {
+   "id": "SURG-C46-084",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "A cause of secondary bladder diverticulum is:",
+   "opts": [
+    "Urethral stricture",
+    "Urethral duplication",
+    "Hypospadias only",
+    "Phimosis only"
+   ],
+   "ans": 0,
+   "exp": "Urethral stricture (Book p355)"
+  },
+  {
+   "id": "SURG-C46-085",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "Secondary bladder diverticulum may follow:",
+   "opts": [
+    "Bladder neck stenosis",
+    "Bladder neck hypermobility only",
+    "Ureteric reflux alone",
+    "Renal ptosis"
+   ],
+   "ans": 0,
+   "exp": "Bladder neck stenosis (Book p355)"
+  },
+  {
+   "id": "SURG-C46-086",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "A clinical feature of bladder diverticulum is:",
+   "opts": [
+    "Recurrent UTI",
+    "Recurrent pneumonia",
+    "Recurrent jaundice",
+    "Recurrent epistaxis"
+   ],
+   "ans": 0,
+   "exp": "Recurrent UTI (Book p355)"
+  },
+  {
+   "id": "SURG-C46-087",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "VUR in bladder diverticulum leads to:",
+   "opts": [
+    "Upper urinary tract infections",
+    "Lower lobe pneumonia",
+    "Acute cholecystitis",
+    "Acute appendicitis"
+   ],
+   "ans": 0,
+   "exp": "Upper urinary tract infections (Book p355)"
+  },
+  {
+   "id": "SURG-C46-088",
+   "sec": "Bladder Diverticulum",
+   "page": 355,
+   "q": "On changing posture, bladder diverticulum causes:",
+   "opts": [
+    "Sudden, repeated urge to pass urine",
+    "Sudden faecal urge",
+    "Shoulder pain",
+    "Chest pain"
+   ],
+   "ans": 0,
+   "exp": "Sudden, repeated urge to pass urine (Book p355)"
+  },
+  {
+   "id": "SURG-C46-089",
+   "sec": "Bladder Diverticulum",
+   "page": 356,
+   "q": "The investigation of choice for bladder diverticulum is:",
+   "opts": [
+    "CT urography",
+    "HIDA scan",
+    "Barium meal",
+    "Plain skull radiograph"
+   ],
+   "ans": 0,
+   "exp": "CT urography (Book p356)"
+  },
+  {
+   "id": "SURG-C46-090",
+   "sec": "Bladder Diverticulum",
+   "page": 356,
+   "q": "Symptomatic and large bladder diverticula are treated with:",
+   "opts": [
+    "Diverticulectomy + treat the cause",
+    "Only antibiotics forever",
+    "Radical cystectomy in every case",
+    "Ureteric reimplantation alone"
+   ],
+   "ans": 0,
+   "exp": "Diverticulectomy + treat the cause (Book p356)"
+  },
+  {
+   "id": "SURG-C46-091",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "A type of bladder cancer is:",
+   "opts": [
+    "Transitional cell carcinoma",
+    "Basal cell carcinoma",
+    "Hepatocellular carcinoma",
+    "Nasopharyngeal carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Transitional cell carcinoma (Book p356)"
+  },
+  {
+   "id": "SURG-C46-092",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "The most common type of bladder cancer is:",
+   "opts": [
+    "Transitional cell carcinoma",
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Small cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Transitional cell carcinoma (Book p356)"
+  },
+  {
+   "id": "SURG-C46-093",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "A type of bladder cancer is:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Transitional papilloma only",
+    "Renal oncocytoma",
+    "Seminoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (Book p356)"
+  },
+  {
+   "id": "SURG-C46-094",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "A type of bladder cancer is:",
+   "opts": [
+    "Adenocarcinoma",
+    "Squamous papilloma only",
+    "Pheochromocytoma",
+    "Liposarcoma"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma (Book p356)"
+  },
+  {
+   "id": "SURG-C46-095",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "A risk factor for transitional cell carcinoma is:",
+   "opts": [
+    "Cigarette smoking",
+    "Schistosomiasis only",
+    "Persistent urachus only",
+    "African residence only"
+   ],
+   "ans": 0,
+   "exp": "Cigarette smoking (Book p356)"
+  },
+  {
+   "id": "SURG-C46-096",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "Chemicals causing transitional cell carcinoma include:",
+   "opts": [
+    "Aniline dye, rubber",
+    "Asbestos only",
+    "Silica only",
+    "Coal dust only"
+   ],
+   "ans": 0,
+   "exp": "Aniline dye, rubber (Book p356)"
+  },
+  {
+   "id": "SURG-C46-097",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "A drug risk factor for transitional cell carcinoma is:",
+   "opts": [
+    "Cyclophosphamide",
+    "Paracetamol",
+    "Metformin",
+    "Aspirin"
+   ],
+   "ans": 0,
+   "exp": "Cyclophosphamide (Book p356)"
+  },
+  {
+   "id": "SURG-C46-098",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "Squamous cell carcinoma of the bladder is commonly seen in:",
+   "opts": [
+    "Africa",
+    "Japan only",
+    "Scandinavia only",
+    "Australia only"
+   ],
+   "ans": 0,
+   "exp": "Africa (Book p356)"
+  },
+  {
+   "id": "SURG-C46-099",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "A risk factor for squamous cell carcinoma of the bladder is:",
+   "opts": [
+    "Smoking",
+    "Aniline dye only",
+    "Persistent urachus only",
+    "Cyclophosphamide only"
+   ],
+   "ans": 0,
+   "exp": "Smoking (Book p356)"
+  },
+  {
+   "id": "SURG-C46-100",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "Squamous cell carcinoma of the bladder is associated with:",
+   "opts": [
+    "Schistosomiasis (Bilharziasis)",
+    "Filariasis",
+    "Ascariasis",
+    "Amoebiasis"
+   ],
+   "ans": 0,
+   "exp": "Schistosomiasis (Bilharziasis) (Book p356)"
+  },
+  {
+   "id": "SURG-C46-101",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "The site of bladder adenocarcinoma is the:",
+   "opts": [
+    "Trigone",
+    "Dome only",
+    "Bladder neck only",
+    "Urachus only"
+   ],
+   "ans": 0,
+   "exp": "Trigone (Book p356)"
+  },
+  {
+   "id": "SURG-C46-102",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "Adenocarcinoma of the bladder is associated with:",
+   "opts": [
+    "Persistent urachus",
+    "Aniline dye",
+    "Schistosomiasis",
+    "Cigarette only"
+   ],
+   "ans": 0,
+   "exp": "Persistent urachus (Book p356)"
+  },
+  {
+   "id": "SURG-C46-103",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "The most common clinical feature of bladder cancer is:",
+   "opts": [
+    "Gross painless haematuria",
+    "Painful microscopic haematuria only",
+    "Painless jaundice",
+    "Haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Gross painless haematuria (Book p356)"
+  },
+  {
+   "id": "SURG-C46-104",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "Lymph node metastasis in bladder cancer goes to the:",
+   "opts": [
+    "Obturator LN",
+    "Inguinal LN only",
+    "Cervical LN only",
+    "Axillary LN only"
+   ],
+   "ans": 0,
+   "exp": "Obturator LN (Book p356)"
+  },
+  {
+   "id": "SURG-C46-105",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "Distant metastasis in bladder cancer goes to the:",
+   "opts": [
+    "Bones",
+    "Lungs only",
+    "Liver only",
+    "Brain only"
+   ],
+   "ans": 0,
+   "exp": "Bones (Book p356)"
+  },
+  {
+   "id": "SURG-C46-106",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "page": 356,
+   "q": "Cystoscopy in bladder cancer shows a:",
+   "opts": [
+    "Papillary growth",
+    "Flat normal mucosa in every case",
+    "Ureterocele",
+    "Bladder stone only"
+   ],
+   "ans": 0,
+   "exp": "Papillary growth (Book p356)"
+  },
+  {
+   "id": "SURG-C46-107",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "Urine routine microscopy and cytology in bladder cancer has:",
+   "opts": [
+    "Decreased sensitivity",
+    "100% sensitivity",
+    "No role",
+    "Increased specificity in every case"
+   ],
+   "ans": 0,
+   "exp": "Decreased sensitivity (Book p356)"
+  },
+  {
+   "id": "SURG-C46-108",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "An investigation in bladder cancer workup is:",
+   "opts": [
+    "Urine culture and sensitivity",
+    "Stool culture",
+    "Blood culture only",
+    "Sputum cytology"
+   ],
+   "ans": 0,
+   "exp": "Urine culture and sensitivity (Book p356)"
+  },
+  {
+   "id": "SURG-C46-109",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "USG KUB in bladder cancer looks for:",
+   "opts": [
+    "Growth",
+    "Gallstones",
+    "Liver cysts",
+    "Splenic size only"
+   ],
+   "ans": 0,
+   "exp": "Growth (Book p356)"
+  },
+  {
+   "id": "SURG-C46-110",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "USG KUB in bladder cancer looks for:",
+   "opts": [
+    "Clots",
+    "Bowel gas only",
+    "Pancreatic mass",
+    "Aortic aneurysm"
+   ],
+   "ans": 0,
+   "exp": "Clots (Book p356)"
+  },
+  {
+   "id": "SURG-C46-111",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "USG KUB in bladder cancer assesses the:",
+   "opts": [
+    "Status of upper tracts",
+    "Status of coronary arteries",
+    "Status of lungs",
+    "Status of brain"
+   ],
+   "ans": 0,
+   "exp": "Status of upper tracts (Book p356)"
+  },
+  {
+   "id": "SURG-C46-112",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "The investigation of choice for bladder cancer is:",
+   "opts": [
+    "Cystoscopic biopsy",
+    "USG KUB only",
+    "Urine cytology only",
+    "MRI only"
+   ],
+   "ans": 0,
+   "exp": "Cystoscopic biopsy (Book p356)"
+  },
+  {
+   "id": "SURG-C46-113",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "Cystoscopic biopsy includes removing the lesion plus:",
+   "opts": [
+    "Cold cup biopsy of base",
+    "Hot snare of ureter",
+    "Laser of prostate",
+    "Biopsy of rectum"
+   ],
+   "ans": 0,
+   "exp": "Cold cup biopsy of base (Book p356)"
+  },
+  {
+   "id": "SURG-C46-114",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 356,
+   "q": "Histopathology and MRI in bladder cancer determine the:",
+   "opts": [
+    "Depth of invasion",
+    "Urine pH",
+    "Serum PSA",
+    "Bladder capacity only"
+   ],
+   "ans": 0,
+   "exp": "Depth of invasion (Book p356)"
+  },
+  {
+   "id": "SURG-C46-115",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "Bladder cancer staging used is:",
+   "opts": [
+    "pTNM (P = Pathological)",
+    "cTNM clinical only",
+    "Dukes staging",
+    "Robson staging"
+   ],
+   "ans": 0,
+   "exp": "pTNM (P = Pathological) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-116",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "Tx bladder cancer means:",
+   "opts": [
+    "Primary tumor cannot be assessed",
+    "No evidence of primary tumor",
+    "Noninvasive papillary carcinoma",
+    "Invasion of pelvic wall"
+   ],
+   "ans": 0,
+   "exp": "Primary tumor cannot be assessed (Book p357)"
+  },
+  {
+   "id": "SURG-C46-117",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T0 bladder cancer means:",
+   "opts": [
+    "No evidence of primary tumor",
+    "Primary tumor cannot be assessed",
+    "Carcinoma in situ",
+    "Invasion of perivesical tissue"
+   ],
+   "ans": 0,
+   "exp": "No evidence of primary tumor (Book p357)"
+  },
+  {
+   "id": "SURG-C46-118",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "Ta bladder cancer is:",
+   "opts": [
+    "Noninvasive papillary carcinoma",
+    "Carcinoma in situ",
+    "Invasion of lamina propria",
+    "Invasion of deep muscle"
+   ],
+   "ans": 0,
+   "exp": "Noninvasive papillary carcinoma (Book p357)"
+  },
+  {
+   "id": "SURG-C46-119",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "Tis bladder cancer is:",
+   "opts": [
+    "Carcinoma in situ",
+    "Noninvasive papillary carcinoma",
+    "Invasion of superficial muscle",
+    "Invasion of prostate"
+   ],
+   "ans": 0,
+   "exp": "Carcinoma in situ (Book p357)"
+  },
+  {
+   "id": "SURG-C46-120",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T1 bladder cancer invades the:",
+   "opts": [
+    "Subepithelial connective tissue (Lamina propria)",
+    "Muscularis propria",
+    "Perivesical tissue",
+    "Pelvic wall"
+   ],
+   "ans": 0,
+   "exp": "Subepithelial connective tissue (Lamina propria) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-121",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T2 bladder cancer invades the:",
+   "opts": [
+    "Muscularis propria bladder wall",
+    "Lamina propria only",
+    "Perivesical fat only",
+    "Abdominal wall"
+   ],
+   "ans": 0,
+   "exp": "Muscularis propria bladder wall (Book p357)"
+  },
+  {
+   "id": "SURG-C46-122",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T2a bladder cancer invades:",
+   "opts": [
+    "Superficial muscle (Inner half)",
+    "Deep muscle outer half",
+    "Perivesical tissue microscopically",
+    "Prostate"
+   ],
+   "ans": 0,
+   "exp": "Superficial muscle (Inner half) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-123",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T2b bladder cancer invades:",
+   "opts": [
+    "Deep muscle (Outer half)",
+    "Superficial inner half only",
+    "Lamina propria only",
+    "Urethra only"
+   ],
+   "ans": 0,
+   "exp": "Deep muscle (Outer half) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-124",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T3 bladder cancer invades the:",
+   "opts": [
+    "Perivesical tissue",
+    "Lamina propria",
+    "Inner half muscle only",
+    "Pelvic wall"
+   ],
+   "ans": 0,
+   "exp": "Perivesical tissue (Book p357)"
+  },
+  {
+   "id": "SURG-C46-125",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T3a bladder cancer is invasion:",
+   "opts": [
+    "Microscopically",
+    "Macroscopically with extravesical mass",
+    "Of the prostate",
+    "Of the pelvic wall"
+   ],
+   "ans": 0,
+   "exp": "Microscopically (Book p357)"
+  },
+  {
+   "id": "SURG-C46-126",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T3b bladder cancer is invasion:",
+   "opts": [
+    "Macroscopically (Extravesical mass)",
+    "Microscopically only",
+    "Limited to lamina propria",
+    "Of the abdominal wall"
+   ],
+   "ans": 0,
+   "exp": "Macroscopically (Extravesical mass) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-127",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T4 bladder cancer invades:",
+   "opts": [
+    "Adjacent structures",
+    "Only lamina propria",
+    "Only inner-half muscle",
+    "Only perivesical fat"
+   ],
+   "ans": 0,
+   "exp": "Adjacent structures (Book p357)"
+  },
+  {
+   "id": "SURG-C46-128",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T4a bladder cancer invades the:",
+   "opts": [
+    "Prostate, uterus, or vagina",
+    "Pelvic wall",
+    "Abdominal wall",
+    "Bones"
+   ],
+   "ans": 0,
+   "exp": "Prostate, uterus, or vagina (Book p357)"
+  },
+  {
+   "id": "SURG-C46-129",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "T4b bladder cancer invades the:",
+   "opts": [
+    "Pelvic wall or abdominal wall",
+    "Prostate only",
+    "Lamina propria",
+    "Inner-half muscle"
+   ],
+   "ans": 0,
+   "exp": "Pelvic wall or abdominal wall (Book p357)"
+  },
+  {
+   "id": "SURG-C46-130",
+   "sec": "Bladder Cancer: Investigations and Staging",
+   "page": 357,
+   "q": "Non muscle invasive tumors include:",
+   "opts": [
+    "Ta, Tis and T1",
+    "T2a and T2b",
+    "T3 and T4",
+    "T4a and T4b"
+   ],
+   "ans": 0,
+   "exp": "Ta, Tis and T1 (Book p357)"
+  },
+  {
+   "id": "SURG-C46-131",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Non muscle invasive bladder tumors are first treated with:",
+   "opts": [
+    "TURBT (Transurethral resection of bladder tumor)",
+    "Radical cystectomy upfront",
+    "Nephrectomy",
+    "Prostatectomy"
+   ],
+   "ans": 0,
+   "exp": "TURBT (Transurethral resection of bladder tumor) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-132",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "After TURBT, further management is based on the:",
+   "opts": [
+    "Pathological state",
+    "Patient's age only",
+    "Urine pH only",
+    "Serum creatinine only"
+   ],
+   "ans": 0,
+   "exp": "Pathological state (Book p357)"
+  },
+  {
+   "id": "SURG-C46-133",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Non invasive papillary tumor is managed with:",
+   "opts": [
+    "Observation or single cycle of intravesical chemotherapy",
+    "6 cycles of BCG in every case",
+    "Radical cystectomy in every case",
+    "Neoadjuvant chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Observation or single cycle of intravesical chemotherapy (Book p357)"
+  },
+  {
+   "id": "SURG-C46-134",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "An intravesical chemotherapy drug listed is:",
+   "opts": [
+    "Thiopeta",
+    "Cisplatin IV only",
+    "Sorafenib",
+    "Imatinib"
+   ],
+   "ans": 0,
+   "exp": "Thiopeta (Book p357)"
+  },
+  {
+   "id": "SURG-C46-135",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "An intravesical chemotherapy drug listed is:",
+   "opts": [
+    "Mitomycin C",
+    "Doxycycline",
+    "Amphotericin",
+    "Penicillin"
+   ],
+   "ans": 0,
+   "exp": "Mitomycin C (Book p357)"
+  },
+  {
+   "id": "SURG-C46-136",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "An intravesical chemotherapy drug listed is:",
+   "opts": [
+    "Adriamycin",
+    "Streptomycin",
+    "Gentamicin",
+    "Ciprofloxacin"
+   ],
+   "ans": 0,
+   "exp": "Adriamycin (Book p357)"
+  },
+  {
+   "id": "SURG-C46-137",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "In situ cancer and lamina propria disease get:",
+   "opts": [
+    "6 cycles of intravesical BCG (Immunotherapy)",
+    "Single cycle chemotherapy only",
+    "Observation only",
+    "Immediate cystectomy"
+   ],
+   "ans": 0,
+   "exp": "6 cycles of intravesical BCG (Immunotherapy) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-138",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "If intravesical BCG is not tolerated, give:",
+   "opts": [
+    "Intravesical chemotherapy",
+    "No further treatment",
+    "Only radiotherapy",
+    "Nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Intravesical chemotherapy (Book p357)"
+  },
+  {
+   "id": "SURG-C46-139",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "A complication of intravesical BCG is:",
+   "opts": [
+    "Hematuria",
+    "Jaundice",
+    "Pancreatitis",
+    "Pneumonia"
+   ],
+   "ans": 0,
+   "exp": "Hematuria (Book p357)"
+  },
+  {
+   "id": "SURG-C46-140",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Intravesical BCG may cause:",
+   "opts": [
+    "TB",
+    "Malaria",
+    "Filariasis",
+    "Typhoid"
+   ],
+   "ans": 0,
+   "exp": "TB (Book p357)"
+  },
+  {
+   "id": "SURG-C46-141",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "A complication of intravesical BCG is:",
+   "opts": [
+    "Granulomatous cystitis",
+    "Interstitial nephritis only",
+    "Acute appendicitis",
+    "Ulcerative colitis"
+   ],
+   "ans": 0,
+   "exp": "Granulomatous cystitis (Book p357)"
+  },
+  {
+   "id": "SURG-C46-142",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Field cancerisation means:",
+   "opts": [
+    "Mucosa at risk of Ca + multiple cancers",
+    "Single localized polyp only",
+    "Distant metastasis only",
+    "Benign hyperplasia only"
+   ],
+   "ans": 0,
+   "exp": "Mucosa at risk of Ca + multiple cancers (Book p357)"
+  },
+  {
+   "id": "SURG-C46-143",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Field cancerisation is positive in:",
+   "opts": [
+    "Oral cavity",
+    "Liver only",
+    "Spleen only",
+    "Kidney only"
+   ],
+   "ans": 0,
+   "exp": "Oral cavity (Book p357)"
+  },
+  {
+   "id": "SURG-C46-144",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Field cancerisation is positive in the:",
+   "opts": [
+    "Bladder",
+    "Heart",
+    "Lung only",
+    "Pancreas only"
+   ],
+   "ans": 0,
+   "exp": "Bladder (Book p357)"
+  },
+  {
+   "id": "SURG-C46-145",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Field cancerisation is positive in:",
+   "opts": [
+    "Colorectal cancer",
+    "Gastric ulcer only",
+    "Duodenal atresia",
+    "Acute appendicitis"
+   ],
+   "ans": 0,
+   "exp": "Colorectal cancer (Book p357)"
+  },
+  {
+   "id": "SURG-C46-146",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "Monitoring after treatment is with check cystoscopies:",
+   "opts": [
+    "Every 3 months",
+    "Every 3 years",
+    "Once in a lifetime",
+    "Only if haematuria recurs"
+   ],
+   "ans": 0,
+   "exp": "Every 3 months (Book p357)"
+  },
+  {
+   "id": "SURG-C46-147",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "The urinary marker to detect recurrence is:",
+   "opts": [
+    "NMP-22 (Nuclear matrix protein)",
+    "PSA",
+    "AFP",
+    "CA 19-9"
+   ],
+   "ans": 0,
+   "exp": "NMP-22 (Nuclear matrix protein) (Book p357)"
+  },
+  {
+   "id": "SURG-C46-148",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "T2 muscle invasive tumor is treated with:",
+   "opts": [
+    "Upfront surgery",
+    "Neoadjuvant chemotherapy first",
+    "Only BCG",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "Upfront surgery (Book p357)"
+  },
+  {
+   "id": "SURG-C46-149",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "T3, T4 tumors are treated with:",
+   "opts": [
+    "Neo adjuvant chemo",
+    "Upfront surgery only",
+    "Single-cycle BCG",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Neo adjuvant chemo (Book p357)"
+  },
+  {
+   "id": "SURG-C46-150",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 357,
+   "q": "If good response to neoadjuvant chemo, then:",
+   "opts": [
+    "Surgery + Radiotherapy",
+    "Only observation",
+    "Only BCG",
+    "Ureteric stenting only"
+   ],
+   "ans": 0,
+   "exp": "Surgery + Radiotherapy (Book p357)"
+  },
+  {
+   "id": "SURG-C46-151",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "An indication for partial cystectomy is:",
+   "opts": [
+    "Small tumors",
+    "Large multicentric tumors",
+    "Trigone involvement in every case",
+    "Distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "Small tumors (Book p358)"
+  },
+  {
+   "id": "SURG-C46-152",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "Partial cystectomy is indicated for carcinoma on the:",
+   "opts": [
+    "Dome of bladder",
+    "Trigone",
+    "Bladder neck",
+    "Ureteric orifice"
+   ],
+   "ans": 0,
+   "exp": "Dome of bladder (Book p358)"
+  },
+  {
+   "id": "SURG-C46-153",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "Partial cystectomy needs carcinoma:",
+   "opts": [
+    "Away from ureteric orifice",
+    "Involving the ureteric orifice",
+    "Involving the trigone",
+    "With nodal metastasis"
+   ],
+   "ans": 0,
+   "exp": "Away from ureteric orifice (Book p358)"
+  },
+  {
+   "id": "SURG-C46-154",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "Radical cystectomy removes the:",
+   "opts": [
+    "Bladder",
+    "Kidney",
+    "Prostate only",
+    "Urethra only"
+   ],
+   "ans": 0,
+   "exp": "Bladder (Book p358)"
+  },
+  {
+   "id": "SURG-C46-155",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "In males, radical cystectomy also removes the:",
+   "opts": [
+    "Prostate",
+    "Testis",
+    "Penis",
+    "Scrotum"
+   ],
+   "ans": 0,
+   "exp": "Prostate (Book p358)"
+  },
+  {
+   "id": "SURG-C46-156",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "In females, radical cystectomy removes the:",
+   "opts": [
+    "Urethra ± uterus",
+    "Ovaries in every case",
+    "Vagina in every case",
+    "Kidneys"
+   ],
+   "ans": 0,
+   "exp": "Urethra ± uterus (Book p358)"
+  },
+  {
+   "id": "SURG-C46-157",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "Radical cystectomy includes removal of:",
+   "opts": [
+    "Iliac + Obturator LN",
+    "Inguinal LN only",
+    "Cervical LN",
+    "Axillary LN"
+   ],
+   "ans": 0,
+   "exp": "Iliac + Obturator LN (Book p358)"
+  },
+  {
+   "id": "SURG-C46-158",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "T1, multicentric, Grade 3 tumors progress to muscle invasive in:",
+   "opts": [
+    "40%",
+    "4%",
+    "90%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "40% (Book p358)"
+  },
+  {
+   "id": "SURG-C46-159",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery",
+   "page": 358,
+   "q": "Hence T1 multicentric Grade 3 tumors need:",
+   "opts": [
+    "Surgery",
+    "Only observation",
+    "Only single-cycle chemo",
+    "Only BCG forever"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p358)"
+  },
+  {
+   "id": "SURG-C46-160",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "Urinary diversion means:",
+   "opts": [
+    "Divert ureter post cystectomy",
+    "Divert bile post cholecystectomy",
+    "Divert bowel post colectomy",
+    "Divert urethra post circumcision"
+   ],
+   "ans": 0,
+   "exp": "Divert ureter post cystectomy (Book p358)"
+  },
+  {
+   "id": "SURG-C46-161",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "A type of urinary diversion is:",
+   "opts": [
+    "Non continent urinary diversion",
+    " continent ileal conduit only",
+    "No diversion",
+    "Urethral diversion only"
+   ],
+   "ans": 0,
+   "exp": "Non continent urinary diversion (Book p358)"
+  },
+  {
+   "id": "SURG-C46-162",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "The other type of urinary diversion is:",
+   "opts": [
+    "Continent urinary diversion",
+    "Non continent only",
+    "Cutaneous only",
+    "Rectal only"
+   ],
+   "ans": 0,
+   "exp": "Continent urinary diversion (Book p358)"
+  },
+  {
+   "id": "SURG-C46-163",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "A non continent urinary diversion is:",
+   "opts": [
+    "Uretero sigmoid anastomosis (Obsolete)",
+    "Neo-bladder using ileum",
+    "Ileal conduit only",
+    "Orthotopic bladder only"
+   ],
+   "ans": 0,
+   "exp": "Uretero sigmoid anastomosis (Obsolete) (Book p358)"
+  },
+  {
+   "id": "SURG-C46-164",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "A complication of uretero sigmoid anastomosis is:",
+   "opts": [
+    "Increased risk of UTI",
+    "Decreased risk of UTI",
+    "No infection risk",
+    "Only pneumonia"
+   ],
+   "ans": 0,
+   "exp": "Increased risk of UTI (Book p358)"
+  },
+  {
+   "id": "SURG-C46-165",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "Uretero sigmoid anastomosis causes:",
+   "opts": [
+    "Hyperchloremic, hypokalemic metabolic acidosis",
+    "Hyperkalemic metabolic alkalosis",
+    "Respiratory acidosis only",
+    "Normal electrolytes always"
+   ],
+   "ans": 0,
+   "exp": "Hyperchloremic, hypokalemic metabolic acidosis (Book p358)"
+  },
+  {
+   "id": "SURG-C46-166",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "Uretero sigmoid anastomosis carries:",
+   "opts": [
+    "100x risk of adenocarcinoma",
+    "No cancer risk",
+    "100x risk of SCC only",
+    "Protection from cancer"
+   ],
+   "ans": 0,
+   "exp": "100x risk of adenocarcinoma (Book p358)"
+  },
+  {
+   "id": "SURG-C46-167",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "The most common urinary diversion is the:",
+   "opts": [
+    "Ileal conduit (m/c)",
+    "Uretero sigmoid anastomosis",
+    "Neo-bladder",
+    "Cutaneous ureterostomy"
+   ],
+   "ans": 0,
+   "exp": "Ileal conduit (m/c) (Book p358)"
+  },
+  {
+   "id": "SURG-C46-168",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "A complication of ileal conduit is:",
+   "opts": [
+    "Hyperchloremic, hypokalemic metabolic acidosis",
+    "Hypochloremic alkalosis",
+    "Respiratory alkalosis",
+    "Normal ABG always"
+   ],
+   "ans": 0,
+   "exp": "Hyperchloremic, hypokalemic metabolic acidosis (Book p358)"
+  },
+  {
+   "id": "SURG-C46-169",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "Ileal conduit may complicate with:",
+   "opts": [
+    "Stenosis",
+    "Fistula healing in every case",
+    "No complications",
+    "Only diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Stenosis (Book p358)"
+  },
+  {
+   "id": "SURG-C46-170",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "Ileal conduit may complicate with:",
+   "opts": [
+    "Stricture",
+    "Complete resolution always",
+    "Only polyuria",
+    "Only haematuria"
+   ],
+   "ans": 0,
+   "exp": "Stricture (Book p358)"
+  },
+  {
+   "id": "SURG-C46-171",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "Ileal conduit may complicate with:",
+   "opts": [
+    "Recurrence",
+    "Cure in every case",
+    "Only stone formation",
+    "Only weight gain"
+   ],
+   "ans": 0,
+   "exp": "Recurrence (Book p358)"
+  },
+  {
+   "id": "SURG-C46-172",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "Continent urinary diversion is a:",
+   "opts": [
+    "Neo-bladder using ileum",
+    "Uretero sigmoid anastomosis",
+    "Ileal conduit",
+    "Nephrostomy"
+   ],
+   "ans": 0,
+   "exp": "Neo-bladder using ileum (Book p358)"
+  },
+  {
+   "id": "SURG-C46-173",
+   "sec": "Urinary Diversion and Prognosis",
+   "page": 358,
+   "q": "The most important prognostic factor in bladder cancer is:",
+   "opts": [
+    "Depth of invasion/T-stage",
+    "Patient's age",
+    "Urine pH",
+    "Serum PSA"
+   ],
+   "ans": 0,
+   "exp": "Depth of invasion/T-stage (Book p358)"
+  },
+  {
+   "id": "SURG-C46-174",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "The urachus connects the:",
+   "opts": [
+    "Bladder to umbilicus",
+    "Kidney to bladder",
+    "Ureter to urethra",
+    "Prostate to testis"
+   ],
+   "ans": 0,
+   "exp": "Bladder to umbilicus (Book p359)"
+  },
+  {
+   "id": "SURG-C46-175",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "Normal urachus is labelled in the diagram as:",
+   "opts": [
+    "A Normal",
+    "B Patent urachus",
+    "C Urachal cyst",
+    "E Urachal diverticulum"
+   ],
+   "ans": 0,
+   "exp": "A Normal (Book p359)"
+  },
+  {
+   "id": "SURG-C46-176",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "Complete patency of the urachus is:",
+   "opts": [
+    "Patent urachus",
+    "Urachal cyst",
+    "Urachal sinus",
+    "Urachal diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Patent urachus (Book p359)"
+  },
+  {
+   "id": "SURG-C46-177",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "When a small portion does not obliterate, it forms a:",
+   "opts": [
+    "Urachal cyst",
+    "Patent urachus",
+    "Urachal sinus",
+    "Urachal diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Urachal cyst (Book p359)"
+  },
+  {
+   "id": "SURG-C46-178",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "When the umbilical part does not obliterate, it forms a:",
+   "opts": [
+    "Urachal sinus",
+    "Urachal cyst",
+    "Patent urachus",
+    "Urachal diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Urachal sinus (Book p359)"
+  },
+  {
+   "id": "SURG-C46-179",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "When the bladder part does not obliterate, it forms a:",
+   "opts": [
+    "Urachal diverticulum",
+    "Urachal cyst",
+    "Urachal sinus",
+    "Patent urachus"
+   ],
+   "ans": 0,
+   "exp": "Urachal diverticulum (Book p359)"
+  },
+  {
+   "id": "SURG-C46-180",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "Patent urachus presents with:",
+   "opts": [
+    "Urine leak from umbilicus on straining/crying",
+    "Stool from umbilicus",
+    "Bile from umbilicus",
+    "Blood from umbilicus only"
+   ],
+   "ans": 0,
+   "exp": "Urine leak from umbilicus on straining/crying (Book p359)"
+  },
+  {
+   "id": "SURG-C46-181",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "Urachal sinus presents with:",
+   "opts": [
+    "Discharge from umbilicus",
+    "Discharge from urethra only",
+    "Haematuria only",
+    "Pneumaturia only"
+   ],
+   "ans": 0,
+   "exp": "Discharge from umbilicus (Book p359)"
+  },
+  {
+   "id": "SURG-C46-182",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "Urachal sinus is:",
+   "opts": [
+    "Prone to infections",
+    "Never infected",
+    "Protective against infection",
+    "Malignant in every case"
+   ],
+   "ans": 0,
+   "exp": "Prone to infections (Book p359)"
+  },
+  {
+   "id": "SURG-C46-183",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "Management of urachal abnormalities is:",
+   "opts": [
+    "Excision",
+    "Only antibiotics",
+    "Only observation",
+    "Radical cystectomy in every case"
+   ],
+   "ans": 0,
+   "exp": "Excision (Book p359)"
+  },
+  {
+   "id": "SURG-C46-184",
+   "sec": "Urachal Abnormalities",
+   "page": 359,
+   "q": "A complication of urachal abnormalities is risk of:",
+   "opts": [
+    "Adenocarcinoma",
+    "Transitional cell carcinoma only",
+    "Squamous papilloma",
+    "Renal cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma (Book p359)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U46-1",
+   "ch": 46,
+   "n": 1,
+   "title": "Foley's Catheter",
+   "sec": "Foley's Catheter · p353",
+   "qs": [
+    "SURG-C46-001",
+    "SURG-C46-002",
+    "SURG-C46-003",
+    "SURG-C46-004",
+    "SURG-C46-005",
+    "SURG-C46-006",
+    "SURG-C46-007",
+    "SURG-C46-008",
+    "SURG-C46-009",
+    "SURG-C46-010",
+    "SURG-C46-011",
+    "SURG-C46-012",
+    "SURG-C46-013",
+    "SURG-C46-014",
+    "SURG-C46-015",
+    "SURG-C46-016",
+    "SURG-C46-017",
+    "SURG-C46-018",
+    "SURG-C46-019",
+    "SURG-C46-020",
+    "SURG-C46-021",
+    "SURG-C46-022",
+    "SURG-C46-023",
+    "SURG-C46-024",
+    "SURG-C46-025",
+    "SURG-C46-026"
+   ],
+   "guide": "French sizing measures outer circumference where 1 French is 0.33 mm, running white 12/4 mm through green 14/4.7, orange 16/5.3, red 18/6 to yellow 20/6.7. Know the drainage, balloon and marked inflation-volume ports plus the irrigation channel of a 3-way catheter, rubber wear for 25–30 days versus silicone for 3 months with less colonization and crusting, and USG-guided balloon puncture for a stuck catheter."
+  },
+  {
+   "id": "SURG-U46-2",
+   "ch": 46,
+   "n": 2,
+   "title": "Urinary Retention",
+   "sec": "Urinary Retention · p353",
+   "qs": [
+    "SURG-C46-027",
+    "SURG-C46-028",
+    "SURG-C46-029",
+    "SURG-C46-030",
+    "SURG-C46-031",
+    "SURG-C46-032",
+    "SURG-C46-033",
+    "SURG-C46-034",
+    "SURG-C46-035",
+    "SURG-C46-036",
+    "SURG-C46-037",
+    "SURG-C46-038",
+    "SURG-C46-039",
+    "SURG-C46-040",
+    "SURG-C46-041",
+    "SURG-C46-042",
+    "SURG-C46-043",
+    "SURG-C46-044",
+    "SURG-C46-045",
+    "SURG-C46-046"
+   ],
+   "guide": "Acute retention is painful with swelling, absent dehydration and normal KFT, relieved by Foley/SPC plus cause treatment. Chronic retention follows outlet obstruction, BPH, neck stenosis or spinal injury with painless lump, deranged KFT and uraemia, drained by Foley/SPC while guarding against post-obstructive diuresis with aggressive IV fluids and decompression haematuria with clamp/gradual release."
+  },
+  {
+   "id": "SURG-U46-3",
+   "ch": 46,
+   "n": 3,
+   "title": "Bladder Trauma and Grading",
+   "sec": "Bladder Trauma and Grading · p354",
+   "qs": [
+    "SURG-C46-047",
+    "SURG-C46-048",
+    "SURG-C46-049",
+    "SURG-C46-050",
+    "SURG-C46-051",
+    "SURG-C46-052",
+    "SURG-C46-053",
+    "SURG-C46-054",
+    "SURG-C46-055",
+    "SURG-C46-056",
+    "SURG-C46-057",
+    "SURG-C46-058",
+    "SURG-C46-059",
+    "SURG-C46-060",
+    "SURG-C46-061",
+    "SURG-C46-062",
+    "SURG-C46-063",
+    "SURG-C46-064",
+    "SURG-C46-065",
+    "SURG-C46-066",
+    "SURG-C46-067",
+    "SURG-C46-068",
+    "SURG-C46-069",
+    "SURG-C46-070",
+    "SURG-C46-071",
+    "SURG-C46-072",
+    "SURG-C46-073"
+   ],
+   "guide": "Extraperitoneal rupture is commonest, follows pelvic fracture with possible proximal urethral injury, and shows inability to void, meatal blood and deep perineal haematoma managed by 7–10 days of Foley/SPC. Intraperitoneal rupture follows a full-bladder blow or hysterectomy/cancer surgery with syncope and peritonitis needing two-layer laparotomy repair; CT urography is the stable-patient test and grading runs contusion through <2 cm, ≥2 cm and trigonal grade V tears."
+  },
+  {
+   "id": "SURG-U46-4",
+   "ch": 46,
+   "n": 4,
+   "title": "Bladder Diverticulum",
+   "sec": "Bladder Diverticulum · p355",
+   "qs": [
+    "SURG-C46-074",
+    "SURG-C46-075",
+    "SURG-C46-076",
+    "SURG-C46-077",
+    "SURG-C46-078",
+    "SURG-C46-079",
+    "SURG-C46-080",
+    "SURG-C46-081",
+    "SURG-C46-082",
+    "SURG-C46-083",
+    "SURG-C46-084",
+    "SURG-C46-085",
+    "SURG-C46-086",
+    "SURG-C46-087",
+    "SURG-C46-088",
+    "SURG-C46-089",
+    "SURG-C46-090"
+   ],
+   "guide": "A diverticulum is a bladder outpouching: primary Hutch lesions herniate mucosa through the muscular defect between intravesical ureter and ureteral hiatus with possible VUR, while secondary pulsion lesions arise from high pressure due to obstruction, BPH, stricture or neck stenosis. Recurrent UTI, ascending infection and posture-triggered repeated urge suggest it; CT urography confirms and large symptomatic lesions need diverticulectomy plus cause treatment."
+  },
+  {
+   "id": "SURG-U46-5",
+   "ch": 46,
+   "n": 5,
+   "title": "Bladder Cancer: Types, Risk Factors and Clinical Features",
+   "sec": "Bladder Cancer: Types, Risk Factors and Clinical Features · p356",
+   "qs": [
+    "SURG-C46-091",
+    "SURG-C46-092",
+    "SURG-C46-093",
+    "SURG-C46-094",
+    "SURG-C46-095",
+    "SURG-C46-096",
+    "SURG-C46-097",
+    "SURG-C46-098",
+    "SURG-C46-099",
+    "SURG-C46-100",
+    "SURG-C46-101",
+    "SURG-C46-102",
+    "SURG-C46-103",
+    "SURG-C46-104",
+    "SURG-C46-105",
+    "SURG-C46-106"
+   ],
+   "guide": "Transitional cell carcinoma dominates bladder cancer, with squamous and trigonal adenocarcinoma behind it. Cigarettes, aniline/rubber chemicals and cyclophosphamide drive TCC; African endemicity, smoking and bilharzial schistosomiasis drive SCC; persistent urachus drives adenocarcinoma. Gross painless haematuria is the classic clue, obturator nodes take lymph spread, bones take distant spread, and cystoscopy shows papillary growth."
+  },
+  {
+   "id": "SURG-U46-6",
+   "ch": 46,
+   "n": 6,
+   "title": "Bladder Cancer: Investigations and Staging",
+   "sec": "Bladder Cancer: Investigations and Staging · p356",
+   "qs": [
+    "SURG-C46-107",
+    "SURG-C46-108",
+    "SURG-C46-109",
+    "SURG-C46-110",
+    "SURG-C46-111",
+    "SURG-C46-112",
+    "SURG-C46-113",
+    "SURG-C46-114",
+    "SURG-C46-115",
+    "SURG-C46-116",
+    "SURG-C46-117",
+    "SURG-C46-118",
+    "SURG-C46-119",
+    "SURG-C46-120",
+    "SURG-C46-121",
+    "SURG-C46-122",
+    "SURG-C46-123",
+    "SURG-C46-124",
+    "SURG-C46-125",
+    "SURG-C46-126",
+    "SURG-C46-127",
+    "SURG-C46-128",
+    "SURG-C46-129",
+    "SURG-C46-130"
+   ],
+   "guide": "Work up runs urine microscopy/cytology with low sensitivity, culture, USG KUB for growth, clots and upper tracts, then cystoscopic biopsy as the investigation of choice with cold-cup base sampling while histology plus MRI fix depth. Stage pathologically from Tx/T0 through Ta papillary, Tis in situ and T1 lamina propria as non-muscle-invasive, then T2 inner/outer muscle, T3 micro/macro perivesical and T4 prostate/uterus/vagina versus pelvic/abdominal wall disease."
+  },
+  {
+   "id": "SURG-U46-7",
+   "ch": 46,
+   "n": 7,
+   "title": "Bladder Cancer: Management, Monitoring and Surgery",
+   "sec": "Bladder Cancer: Management, Monitoring and Surgery · p357",
+   "qs": [
+    "SURG-C46-131",
+    "SURG-C46-132",
+    "SURG-C46-133",
+    "SURG-C46-134",
+    "SURG-C46-135",
+    "SURG-C46-136",
+    "SURG-C46-137",
+    "SURG-C46-138",
+    "SURG-C46-139",
+    "SURG-C46-140",
+    "SURG-C46-141",
+    "SURG-C46-142",
+    "SURG-C46-143",
+    "SURG-C46-144",
+    "SURG-C46-145",
+    "SURG-C46-146",
+    "SURG-C46-147",
+    "SURG-C46-148",
+    "SURG-C46-149",
+    "SURG-C46-150",
+    "SURG-C46-151",
+    "SURG-C46-152",
+    "SURG-C46-153",
+    "SURG-C46-154",
+    "SURG-C46-155",
+    "SURG-C46-156",
+    "SURG-C46-157",
+    "SURG-C46-158",
+    "SURG-C46-159"
+   ],
+   "guide": "Non-muscle-invasive disease starts with TURBT, then observation or single-cycle thiopeta/mitomycin/adriamycin for papillary lesions and six BCG immunotherapy cycles for in-situ/lamina disease, switching to chemotherapy if BCG with its haematuria, TB and granulomatous cystitis is intolerable. Field cancerisation links oral, bladder and colorectal sites; survey with 3-monthly cystoscopy and NMP-22. T2 goes straight to surgery while T3/T4 take neoadjuvant chemo then surgery plus radiotherapy, choosing dome partial versus radical cystectomy with iliac/obturator clearance, and operating T1 multicentric grade-3 lesions because 40% invade muscle."
+  },
+  {
+   "id": "SURG-U46-8",
+   "ch": 46,
+   "n": 8,
+   "title": "Urinary Diversion and Prognosis",
+   "sec": "Urinary Diversion and Prognosis · p358",
+   "qs": [
+    "SURG-C46-160",
+    "SURG-C46-161",
+    "SURG-C46-162",
+    "SURG-C46-163",
+    "SURG-C46-164",
+    "SURG-C46-165",
+    "SURG-C46-166",
+    "SURG-C46-167",
+    "SURG-C46-168",
+    "SURG-C46-169",
+    "SURG-C46-170",
+    "SURG-C46-171",
+    "SURG-C46-172",
+    "SURG-C46-173"
+   ],
+   "guide": "After cystectomy the ureters must be diverted, either non-continent through the obsolete ureterosigmoid route or the common ileal conduit, or continent through an ileal neobladder. Both conduit routes risk hyperchloraemic hypokalaemic acidosis, with added UTI and 100-fold adenocarcinoma risk after ureterosigmoid diversion and stenosis, stricture and recurrence after ileal conduit; depth of invasion/T-stage remains the key prognostic factor."
+  },
+  {
+   "id": "SURG-U46-9",
+   "ch": 46,
+   "n": 9,
+   "title": "Urachal Abnormalities",
+   "sec": "Urachal Abnormalities · p359",
+   "qs": [
+    "SURG-C46-174",
+    "SURG-C46-175",
+    "SURG-C46-176",
+    "SURG-C46-177",
+    "SURG-C46-178",
+    "SURG-C46-179",
+    "SURG-C46-180",
+    "SURG-C46-181",
+    "SURG-C46-182",
+    "SURG-C46-183",
+    "SURG-C46-184"
+   ],
+   "guide": "The urachus joins bladder to umbilicus, persisting as patent urachus, mid-portion cyst, umbilical sinus or bladder diverticulum according to the unobliterated segment. Patent lesions leak urine on straining or crying while sinuses discharge and infect repeatedly; excision is curative and removes the adenocarcinoma risk."
+  }
+ ]
+}

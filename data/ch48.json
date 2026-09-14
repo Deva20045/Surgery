@@ -1,0 +1,2526 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C48-001",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Alpha blockers for BPH are:",
+   "opts": [
+    "Alpha1A selective",
+    "Alpha1 non-selective only",
+    "Beta blockers",
+    "Calcium channel blockers"
+   ],
+   "ans": 0,
+   "exp": "Alpha1A selective (Book p365)"
+  },
+  {
+   "id": "SURG-C48-002",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Alpha blocker drugs for BPH include:",
+   "opts": [
+    "Tamsulosin, Alfuzosin",
+    "Finasteride, Dutasteride",
+    "Flutamide, Abiraterone",
+    "Goserelin, Buserelin"
+   ],
+   "ans": 0,
+   "exp": "Tamsulosin, Alfuzosin (Book p365)"
+  },
+  {
+   "id": "SURG-C48-003",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "5α-reductase inhibitor drugs for BPH include:",
+   "opts": [
+    "Finasteride, Dutasteride",
+    "Tamsulosin, Alfuzosin",
+    "Degarelix, Goserelin",
+    "Paclitaxel, Cabazitaxel"
+   ],
+   "ans": 0,
+   "exp": "Finasteride, Dutasteride (Book p365)"
+  },
+  {
+   "id": "SURG-C48-004",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Alpha blockers act on the:",
+   "opts": [
+    "Dynamic component (decreased smooth muscle tone)",
+    "Static component",
+    "Stromal hyperplasia",
+    "Glandular atrophy"
+   ],
+   "ans": 0,
+   "exp": "Dynamic component (decreased smooth muscle tone) (Book p365)"
+  },
+  {
+   "id": "SURG-C48-005",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "5α-reductase inhibitors act on the:",
+   "opts": [
+    "Static component (decreased stromal hyperplasia)",
+    "Dynamic component",
+    "Smooth muscle tone",
+    "Bladder neck relaxation"
+   ],
+   "ans": 0,
+   "exp": "Static component (decreased stromal hyperplasia) (Book p365)"
+  },
+  {
+   "id": "SURG-C48-006",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Onset of action of alpha blockers is:",
+   "opts": [
+    "Quick (Days)",
+    "Delayed (weeks/months)",
+    "Over 6 months",
+    "After a year"
+   ],
+   "ans": 0,
+   "exp": "Quick (Days) (Book p365)"
+  },
+  {
+   "id": "SURG-C48-007",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Onset of action of 5α-reductase inhibitors is:",
+   "opts": [
+    "Delayed (weeks/months)",
+    "Quick (Days)",
+    "Within hours",
+    "Immediate"
+   ],
+   "ans": 0,
+   "exp": "Delayed (weeks/months) (Book p365)"
+  },
+  {
+   "id": "SURG-C48-008",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "5α-reductase inhibitors have more sustained action with:",
+   "opts": [
+    "50% decrease in PSA",
+    "50% increase in PSA",
+    "No change in PSA",
+    "100% rise in PSA"
+   ],
+   "ans": 0,
+   "exp": "50% decrease in PSA (Book p365)"
+  },
+  {
+   "id": "SURG-C48-009",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Over 6 months, 5α-reductase inhibitors cause:",
+   "opts": [
+    "20–30% decrease in prostate volume",
+    "20–30% increase in volume",
+    "No volume change",
+    "Complete disappearance"
+   ],
+   "ans": 0,
+   "exp": "20–30% decrease in prostate volume (Book p365)"
+  },
+  {
+   "id": "SURG-C48-010",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "The sustained PSA and volume effects occur over:",
+   "opts": [
+    "6 months",
+    "6 days",
+    "6 weeks",
+    "6 years"
+   ],
+   "ans": 0,
+   "exp": "6 months (Book p365)"
+  },
+  {
+   "id": "SURG-C48-011",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "First-dose side effect of alpha blockers is:",
+   "opts": [
+    "Postural hypotension",
+    "Hypertension",
+    "Difficulty with erection",
+    "Decreased sexual drive"
+   ],
+   "ans": 0,
+   "exp": "Postural hypotension (Book p365)"
+  },
+  {
+   "id": "SURG-C48-012",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Side effects of 5α-reductase inhibitors include:",
+   "opts": [
+    "Difficulty with erection",
+    "Postural hypotension",
+    "Tachycardia",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Difficulty with erection (Book p365)"
+  },
+  {
+   "id": "SURG-C48-013",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "5α-reductase inhibitors decrease:",
+   "opts": [
+    "Sexual drive",
+    "Blood pressure acutely",
+    "Serum creatinine",
+    "Urine output immediately"
+   ],
+   "ans": 0,
+   "exp": "Sexual drive (Book p365)"
+  },
+  {
+   "id": "SURG-C48-014",
+   "sec": "BPH: Medical Management",
+   "page": 365,
+   "q": "Best medical management of BPH is:",
+   "opts": [
+    "Combination therapy",
+    "Alpha blocker alone",
+    "5α-reductase inhibitor alone",
+    "No drugs"
+   ],
+   "ans": 0,
+   "exp": "Combination therapy (Book p365)"
+  },
+  {
+   "id": "SURG-C48-015",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A surgical indication in BPH is involvement of upper tracts with:",
+   "opts": [
+    "Hydronephrosis",
+    "Hydrocele",
+    "Hydatid cyst",
+    "Hydrocephalus"
+   ],
+   "ans": 0,
+   "exp": "Hydronephrosis (Book p365)"
+  },
+  {
+   "id": "SURG-C48-016",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "BPH needs surgery when there is:",
+   "opts": [
+    "No response to medical mx",
+    "Good response to drugs",
+    "Mild IPSS only",
+    "Normal flow rate"
+   ],
+   "ans": 0,
+   "exp": "No response to medical mx (Book p365)"
+  },
+  {
+   "id": "SURG-C48-017",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A surgical indication in BPH is:",
+   "opts": [
+    "Acute/chronic retention of urine",
+    "Normal voiding",
+    "No residual urine",
+    "Frequency only"
+   ],
+   "ans": 0,
+   "exp": "Acute/chronic retention of urine (Book p365)"
+  },
+  {
+   "id": "SURG-C48-018",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "Recurrent infections prompting BPH surgery are:",
+   "opts": [
+    "Multiple UTIs",
+    "Multiple pneumonias",
+    "Single UTI",
+    "Skin infections"
+   ],
+   "ans": 0,
+   "exp": "Multiple UTIs (Book p365)"
+  },
+  {
+   "id": "SURG-C48-019",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A surgical indication in BPH is:",
+   "opts": [
+    "Gross hematuria",
+    "Microscopic pyuria only",
+    "No haematuria",
+    "Proteinuria only"
+   ],
+   "ans": 0,
+   "exp": "Gross hematuria (Book p365)"
+  },
+  {
+   "id": "SURG-C48-020",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "Back pressure changes in the bladder include:",
+   "opts": [
+    "Diverticulae, trabeculations",
+    "Normal bladder wall",
+    "Bladder stones only",
+    "Ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Diverticulae, trabeculations (Book p365)"
+  },
+  {
+   "id": "SURG-C48-021",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A flow-rate indication for BPH surgery is urine flow rate:",
+   "opts": [
+    "<10 mL/s",
+    ">15 mL/s",
+    "10–15 mL/s",
+    ">20 mL/s"
+   ],
+   "ans": 0,
+   "exp": "<10 mL/s (Book p365)"
+  },
+  {
+   "id": "SURG-C48-022",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A pressure indication for BPH surgery is bladder pressure:",
+   "opts": [
+    ">80 cm H2O",
+    "<60 cm H2O",
+    "60–80 cm H2O",
+    "<10 cm H2O"
+   ],
+   "ans": 0,
+   "exp": ">80 cm H2O (Book p365)"
+  },
+  {
+   "id": "SURG-C48-023",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A type of prostate surgery is:",
+   "opts": [
+    "Trans urethral resection of prostate (TURP)",
+    "Trans urethral resection of bladder",
+    "Open cystectomy",
+    "Nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Trans urethral resection of prostate (TURP) (Book p365)"
+  },
+  {
+   "id": "SURG-C48-024",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "TURP is the:",
+   "opts": [
+    "Standard of care",
+    "Older obsolete method",
+    "Experimental method",
+    "Palliative method only"
+   ],
+   "ans": 0,
+   "exp": "Standard of care (Book p365)"
+  },
+  {
+   "id": "SURG-C48-025",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A laser enucleation surgery for BPH is:",
+   "opts": [
+    "Holmium laser enucleation of prostate (HOLEP)",
+    "TULIP",
+    "TURP",
+    "Millin prostatectomy"
+   ],
+   "ans": 0,
+   "exp": "Holmium laser enucleation of prostate (HOLEP) (Book p365)"
+  },
+  {
+   "id": "SURG-C48-026",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "A laser incision surgery for BPH is:",
+   "opts": [
+    "Trans urethral laser incision of prostate (TULIP)",
+    "HOLEP",
+    "TURP",
+    "Radical cystectomy"
+   ],
+   "ans": 0,
+   "exp": "Trans urethral laser incision of prostate (TULIP) (Book p365)"
+  },
+  {
+   "id": "SURG-C48-027",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "Open/retropubic/Millin's prostatectomy is an:",
+   "opts": [
+    "Older method",
+    "Standard of care",
+    "Laser method",
+    "First-line method"
+   ],
+   "ans": 0,
+   "exp": "Older method (Book p365)"
+  },
+  {
+   "id": "SURG-C48-028",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "Open prostatectomy is not preferred due to:",
+   "opts": [
+    "Increased complications",
+    "Decreased complications",
+    "Better results",
+    "Lower cost"
+   ],
+   "ans": 0,
+   "exp": "Increased complications (Book p365)"
+  },
+  {
+   "id": "SURG-C48-029",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "Lasers used in prostate surgery are:",
+   "opts": [
+    "Hemostatic, faster surgery",
+    "Slow and bloody",
+    "Non-hemostatic",
+    "Only diagnostic"
+   ],
+   "ans": 0,
+   "exp": "Hemostatic, faster surgery (Book p365)"
+  },
+  {
+   "id": "SURG-C48-030",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "The most common laser used in prostate surgery is:",
+   "opts": [
+    "Nd:YAG",
+    "KTPA",
+    "CO2",
+    "Argon"
+   ],
+   "ans": 0,
+   "exp": "Nd:YAG (Book p365)"
+  },
+  {
+   "id": "SURG-C48-031",
+   "sec": "BPH: Surgical Indications and Options",
+   "page": 365,
+   "q": "The best laser, a green light of 532 nm, is:",
+   "opts": [
+    "KTPA",
+    "Nd:YAG",
+    "Holmium only",
+    "Excimer"
+   ],
+   "ans": 0,
+   "exp": "KTPA (Book p365)"
+  },
+  {
+   "id": "SURG-C48-032",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Irrigating fluids provide:",
+   "opts": [
+    "A clear field of vision during the procedure",
+    "Haemostasis alone",
+    "Anaesthesia",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "A clear field of vision during the procedure (Book p366)"
+  },
+  {
+   "id": "SURG-C48-033",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "A hypotonic irrigating fluid is:",
+   "opts": [
+    "5% dextrose",
+    "Isotonic glycine 1.5%",
+    "Normal saline",
+    "Ringer lactate"
+   ],
+   "ans": 0,
+   "exp": "5% dextrose (Book p366)"
+  },
+  {
+   "id": "SURG-C48-034",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "A hypotonic irrigating fluid is:",
+   "opts": [
+    "Distilled water",
+    "Normal saline",
+    "Isotonic glycine",
+    "Blood"
+   ],
+   "ans": 0,
+   "exp": "Distilled water (Book p366)"
+  },
+  {
+   "id": "SURG-C48-035",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Hypotonic fluids increase the risk of:",
+   "opts": [
+    "TURP syndrome",
+    "Retrograde ejaculation",
+    "Meatal stenosis",
+    "Bladder neck stenosis"
+   ],
+   "ans": 0,
+   "exp": "TURP syndrome (Book p366)"
+  },
+  {
+   "id": "SURG-C48-036",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "The most common and best irrigating fluid is:",
+   "opts": [
+    "Isotonic glycine (1.5%)",
+    "5% dextrose",
+    "Distilled water",
+    "Normal saline"
+   ],
+   "ans": 0,
+   "exp": "Isotonic glycine (1.5%) (Book p366)"
+  },
+  {
+   "id": "SURG-C48-037",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Normal saline is only used in:",
+   "opts": [
+    "Bipolar TURP",
+    "Monopolar TURP",
+    "Open prostatectomy",
+    "HOLEP only"
+   ],
+   "ans": 0,
+   "exp": "Bipolar TURP (Book p366)"
+  },
+  {
+   "id": "SURG-C48-038",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "The instrument used for TURP is the:",
+   "opts": [
+    "Resectoscope",
+    "Cystoscope only",
+    "Nephroscope",
+    "Ureteroscope"
+   ],
+   "ans": 0,
+   "exp": "Resectoscope (Book p366)"
+  },
+  {
+   "id": "SURG-C48-039",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Haemorrhage in TURP occurs:",
+   "opts": [
+    "During and after surgery",
+    "Only before surgery",
+    "Never",
+    "Only after a year"
+   ],
+   "ans": 0,
+   "exp": "During and after surgery (Book p366)"
+  },
+  {
+   "id": "SURG-C48-040",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "The most common vessels bleeding in TURP are:",
+   "opts": [
+    "Badenoch's arteries",
+    "Floch arteries",
+    "Vesical arteries",
+    "Pudendal arteries"
+   ],
+   "ans": 0,
+   "exp": "Badenoch's arteries (Book p366)"
+  },
+  {
+   "id": "SURG-C48-041",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Other vessels bleeding in TURP are:",
+   "opts": [
+    "Floch arteries",
+    "Coronary arteries",
+    "Renal arteries",
+    "Carotid arteries"
+   ],
+   "ans": 0,
+   "exp": "Floch arteries (Book p366)"
+  },
+  {
+   "id": "SURG-C48-042",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "To control TURP bleeding, do:",
+   "opts": [
+    "Prophylactic coagulation",
+    "No coagulation",
+    "Only transfusion",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "Prophylactic coagulation (Book p366)"
+  },
+  {
+   "id": "SURG-C48-043",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Prophylactic coagulation sites for Badenoch's arteries are at:",
+   "opts": [
+    "5 o'clock and 7 o'clock",
+    "10 o'clock only",
+    "12 o'clock only",
+    "3 o'clock only"
+   ],
+   "ans": 0,
+   "exp": "5 o'clock and 7 o'clock (Book p366)"
+  },
+  {
+   "id": "SURG-C48-044",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "The prophylactic coagulation site for the Floch artery is at:",
+   "opts": [
+    "10 o'clock",
+    "5 o'clock",
+    "7 o'clock",
+    "6 o'clock"
+   ],
+   "ans": 0,
+   "exp": "10 o'clock (Book p366)"
+  },
+  {
+   "id": "SURG-C48-045",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Badenoch's and Floch arteries are branches of the:",
+   "opts": [
+    "Inferior vesicle artery",
+    "Superior vesicle artery",
+    "Obturator artery",
+    "Pudendal artery"
+   ],
+   "ans": 0,
+   "exp": "Inferior vesicle artery (Book p366)"
+  },
+  {
+   "id": "SURG-C48-046",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Veru montanum is the:",
+   "opts": [
+    "Distal limit of resection",
+    "Proximal limit of resection",
+    "Site of biopsy",
+    "Site of anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Distal limit of resection (Book p366)"
+  },
+  {
+   "id": "SURG-C48-047",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "The transurethral approach diagram labels the outlet sphincter as the:",
+   "opts": [
+    "Internal urethral sphincter",
+    "External urethral sphincter",
+    "Anal sphincter",
+    "Pyloric sphincter"
+   ],
+   "ans": 0,
+   "exp": "Internal urethral sphincter (Book p366)"
+  },
+  {
+   "id": "SURG-C48-048",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Clot retention after TURP is managed with:",
+   "opts": [
+    "Continuous irrigation with a 3-way Foley's catheter",
+    "Single irrigation only",
+    "No irrigation",
+    "Immediate re-operation"
+   ],
+   "ans": 0,
+   "exp": "Continuous irrigation with a 3-way Foley's catheter (Book p366)"
+  },
+  {
+   "id": "SURG-C48-049",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "The 3-way Foley's catheter channels are for:",
+   "opts": [
+    "Irrigation, urine and balloon",
+    "Blood, bile and air",
+    "Artery, vein and nerve",
+    "Oxygen, suction and drugs"
+   ],
+   "ans": 0,
+   "exp": "Irrigation, urine and balloon (Book p366)"
+  },
+  {
+   "id": "SURG-C48-050",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "Water intoxication is also called:",
+   "opts": [
+    "Dilutional hyponatremia/TURP syndrome",
+    "Hypernatremia",
+    "Hyperkalemia",
+    "Metabolic alkalosis"
+   ],
+   "ans": 0,
+   "exp": "Dilutional hyponatremia/TURP syndrome (Book p366)"
+  },
+  {
+   "id": "SURG-C48-051",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "TURP syndrome pathogenesis involves:",
+   "opts": [
+    "Hypotonic irrigation fluids (intra-op) creating an osmotic gradient",
+    "Hypertonic fluids",
+    "Isotonic fluids only",
+    "Blood transfusion"
+   ],
+   "ans": 0,
+   "exp": "Hypotonic irrigation fluids (intra-op) creating an osmotic gradient (Book p366)"
+  },
+  {
+   "id": "SURG-C48-052",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "The amount of fluid diffused into blood in TURP syndrome is:",
+   "opts": [
+    "~1 litre",
+    "~100 ml",
+    "~5 litres",
+    "~10 litres"
+   ],
+   "ans": 0,
+   "exp": "~1 litre (Book p366)"
+  },
+  {
+   "id": "SURG-C48-053",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 366,
+   "q": "TURP syndrome leads to:",
+   "opts": [
+    "Dilutional hyponatremia",
+    "Hypernatremia",
+    "Hyperchloremia",
+    "Hypokalemia only"
+   ],
+   "ans": 0,
+   "exp": "Dilutional hyponatremia (Book p366)"
+  },
+  {
+   "id": "SURG-C48-054",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "TURP syndrome features appear:",
+   "opts": [
+    "4–6 hours post-op",
+    "Immediately on table",
+    "After a week",
+    "After a month"
+   ],
+   "ans": 0,
+   "exp": "4–6 hours post-op (Book p367)"
+  },
+  {
+   "id": "SURG-C48-055",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "A clinical feature of TURP syndrome is:",
+   "opts": [
+    "Altered sensorium",
+    "Normal sensorium",
+    "Hypertension only",
+    "Fever only"
+   ],
+   "ans": 0,
+   "exp": "Altered sensorium (Book p367)"
+  },
+  {
+   "id": "SURG-C48-056",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "TURP syndrome causes:",
+   "opts": [
+    "Nausea and vomiting",
+    "Diarrhoea only",
+    "Constipation only",
+    "Polyuria only"
+   ],
+   "ans": 0,
+   "exp": "Nausea and vomiting (Book p367)"
+  },
+  {
+   "id": "SURG-C48-057",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "In TURP syndrome, monitor:",
+   "opts": [
+    "Serum Na+",
+    "Serum K+ only",
+    "Serum calcium only",
+    "Blood glucose only"
+   ],
+   "ans": 0,
+   "exp": "Serum Na+ (Book p367)"
+  },
+  {
+   "id": "SURG-C48-058",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "Mild TURP syndrome (>120 mEq/L) is managed with:",
+   "opts": [
+    "Fluid restriction",
+    "3% hypertonic saline",
+    "Aggressive IV fluids",
+    "Immediate dialysis"
+   ],
+   "ans": 0,
+   "exp": "Fluid restriction (Book p367)"
+  },
+  {
+   "id": "SURG-C48-059",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "Severe TURP syndrome (<120 mEq/L) needs:",
+   "opts": [
+    "Na+ correction with 3% hypertonic saline",
+    "Fluid restriction only",
+    "No treatment",
+    "Only diuretics"
+   ],
+   "ans": 0,
+   "exp": "Na+ correction with 3% hypertonic saline (Book p367)"
+  },
+  {
+   "id": "SURG-C48-060",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "TURP syndrome is prevented with:",
+   "opts": [
+    "Isotonic irrigating fluids",
+    "Hypotonic fluids",
+    "Distilled water",
+    "5% dextrose"
+   ],
+   "ans": 0,
+   "exp": "Isotonic irrigating fluids (Book p367)"
+  },
+  {
+   "id": "SURG-C48-061",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "Lasers prevent TURP syndrome by:",
+   "opts": [
+    "Decreasing duration of surgery",
+    "Increasing duration",
+    "Increasing fluid absorption",
+    "Causing hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "Decreasing duration of surgery (Book p367)"
+  },
+  {
+   "id": "SURG-C48-062",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "page": 367,
+   "q": "Na+ correction must be ≤8–10 mEq/L per day or it can cause:",
+   "opts": [
+    "Central pontine demyelinosis/myelinolysis",
+    "Liver failure",
+    "Renal stones",
+    "Bladder rupture"
+   ],
+   "ans": 0,
+   "exp": "Central pontine demyelinosis/myelinolysis (Book p367)"
+  },
+  {
+   "id": "SURG-C48-063",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "Glycine toxicity increases the risk of MI if absorbed glycine exceeds:",
+   "opts": [
+    ">500 cc",
+    ">50 cc",
+    ">5 litres",
+    ">5 cc"
+   ],
+   "ans": 0,
+   "exp": ">500 cc (Book p367)"
+  },
+  {
+   "id": "SURG-C48-064",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "The most common late complication after TURP is:",
+   "opts": [
+    "Retrograde ejaculation",
+    "Stricture",
+    "Incontinence",
+    "TURP syndrome"
+   ],
+   "ans": 0,
+   "exp": "Retrograde ejaculation (Book p367)"
+  },
+  {
+   "id": "SURG-C48-065",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "Retrograde ejaculation is due to:",
+   "opts": [
+    "Bladder neck injury",
+    "Veru montanum injury",
+    "Urethral injury",
+    "Rectal injury"
+   ],
+   "ans": 0,
+   "exp": "Bladder neck injury (Book p367)"
+  },
+  {
+   "id": "SURG-C48-066",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "The incidence of retrograde ejaculation post TURP is:",
+   "opts": [
+    "60–70%",
+    "6–7%",
+    "100%",
+    "1–2%"
+   ],
+   "ans": 0,
+   "exp": "60–70% (Book p367)"
+  },
+  {
+   "id": "SURG-C48-067",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "Retrograde ejaculation causes:",
+   "opts": [
+    "Turbid urine (Sperms in urine)",
+    "Clear urine always",
+    "Haematuria only",
+    "Pneumaturia"
+   ],
+   "ans": 0,
+   "exp": "Turbid urine (Sperms in urine) (Book p367)"
+  },
+  {
+   "id": "SURG-C48-068",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "The most common site of stricture after TURP is the:",
+   "opts": [
+    "Bladder neck",
+    "Membranous urethra",
+    "Penile urethra",
+    "External meatus"
+   ],
+   "ans": 0,
+   "exp": "Bladder neck (Book p367)"
+  },
+  {
+   "id": "SURG-C48-069",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "Large bore resectoscope causes:",
+   "opts": [
+    "Meatal stenosis",
+    "Bladder neck stenosis",
+    "Ureteric stricture",
+    "Rectal stenosis"
+   ],
+   "ans": 0,
+   "exp": "Meatal stenosis (Book p367)"
+  },
+  {
+   "id": "SURG-C48-070",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "Incontinence after TURP is due to:",
+   "opts": [
+    "Resection past veru montanum",
+    "Bladder neck injury",
+    "Small resection",
+    "Laser use"
+   ],
+   "ans": 0,
+   "exp": "Resection past veru montanum (Book p367)"
+  },
+  {
+   "id": "SURG-C48-071",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "PIRADS stands for:",
+   "opts": [
+    "Prostate imaging reporting and data systems",
+    "Prostate infection rating and drug854",
+    "Pelvic injury reporting scale",
+    "Prostate biopsy grading"
+   ],
+   "ans": 0,
+   "exp": "Prostate imaging reporting and data systems (Book p367)"
+  },
+  {
+   "id": "SURG-C48-072",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "The imaging modality for PIRADS is:",
+   "opts": [
+    "MRI",
+    "CT",
+    "USG",
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p367)"
+  },
+  {
+   "id": "SURG-C48-073",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "PI-RADS score 1 means risk of malignancy:",
+   "opts": [
+    "Very low",
+    "Low",
+    "Intermediate",
+    "Very high"
+   ],
+   "ans": 0,
+   "exp": "Very low (Book p367)"
+  },
+  {
+   "id": "SURG-C48-074",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "PI-RADS score 2 means risk of malignancy:",
+   "opts": [
+    "Low",
+    "Very low",
+    "High",
+    "Very high"
+   ],
+   "ans": 0,
+   "exp": "Low (Book p367)"
+  },
+  {
+   "id": "SURG-C48-075",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "PI-RADS score 3 means risk of malignancy:",
+   "opts": [
+    "Intermediate",
+    "Low",
+    "High",
+    "Very high"
+   ],
+   "ans": 0,
+   "exp": "Intermediate (Book p367)"
+  },
+  {
+   "id": "SURG-C48-076",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "PI-RADS score 4 means risk of malignancy:",
+   "opts": [
+    "High",
+    "Low",
+    "Intermediate",
+    "Very high"
+   ],
+   "ans": 0,
+   "exp": "High (Book p367)"
+  },
+  {
+   "id": "SURG-C48-077",
+   "sec": "TURP Late Complications and PIRADS",
+   "page": 367,
+   "q": "PI-RADS score 5 means risk of malignancy:",
+   "opts": [
+    "Very high",
+    "Very low",
+    "Low",
+    "Intermediate"
+   ],
+   "ans": 0,
+   "exp": "Very high (Book p367)"
+  },
+  {
+   "id": "SURG-C48-078",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Prostate cancer is an:",
+   "opts": [
+    "Adenocarcinoma",
+    "Squamous cell carcinoma",
+    "Transitional cell carcinoma",
+    "Sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma (Book p368)"
+  },
+  {
+   "id": "SURG-C48-079",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "A risk factor for prostate cancer is:",
+   "opts": [
+    "Increased age",
+    "Young age",
+    "Female sex",
+    "Low testosterone"
+   ],
+   "ans": 0,
+   "exp": "Increased age (Book p368)"
+  },
+  {
+   "id": "SURG-C48-080",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "A risk factor for prostate cancer is:",
+   "opts": [
+    "Increased testosterone",
+    "Decreased testosterone",
+    "Increased oestrogen",
+    "Decreased DHT"
+   ],
+   "ans": 0,
+   "exp": "Increased testosterone (Book p368)"
+  },
+  {
+   "id": "SURG-C48-081",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Prostate cancer risk is higher in:",
+   "opts": [
+    "African american",
+    "Asian only",
+    "Caucasian only",
+    "Hispanic only"
+   ],
+   "ans": 0,
+   "exp": "African american (Book p368)"
+  },
+  {
+   "id": "SURG-C48-082",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "The BRCA association in prostate cancer is:",
+   "opts": [
+    "BRCA2 > BRCA1",
+    "BRCA1 > BRCA2",
+    "Only BRCA1",
+    "No BRCA link"
+   ],
+   "ans": 0,
+   "exp": "BRCA2 > BRCA1 (Book p368)"
+  },
+  {
+   "id": "SURG-C48-083",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "A risk factor for prostate cancer is:",
+   "opts": [
+    "Obesity",
+    "Underweight",
+    "Short stature",
+    "Anaemia"
+   ],
+   "ans": 0,
+   "exp": "Obesity (Book p368)"
+  },
+  {
+   "id": "SURG-C48-084",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "The most common gene mutated in prostate cancer is:",
+   "opts": [
+    "GSTP-1",
+    "BRCA1",
+    "p53 only",
+    "APC"
+   ],
+   "ans": 0,
+   "exp": "GSTP-1 (Book p368)"
+  },
+  {
+   "id": "SURG-C48-085",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Prostate cancer screening is done annually if age:",
+   "opts": [
+    ">50 yrs",
+    "<30 yrs",
+    ">80 yrs only",
+    "At birth"
+   ],
+   "ans": 0,
+   "exp": ">50 yrs (Book p368)"
+  },
+  {
+   "id": "SURG-C48-086",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "A screening modality for prostate cancer is:",
+   "opts": [
+    "Digital rectal exam (DRE)",
+    "Chest X-ray",
+    "Mammography",
+    "Colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "Digital rectal exam (DRE) (Book p368)"
+  },
+  {
+   "id": "SURG-C48-087",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "A screening modality for prostate cancer is:",
+   "opts": [
+    "Prostate specific antigen (PSA)",
+    "AFP",
+    "CEA",
+    "CA 19-9"
+   ],
+   "ans": 0,
+   "exp": "Prostate specific antigen (PSA) (Book p368)"
+  },
+  {
+   "id": "SURG-C48-088",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Best screening for prostate cancer is:",
+   "opts": [
+    "DRE + PSA",
+    "DRE alone",
+    "PSA alone",
+    "USG alone"
+   ],
+   "ans": 0,
+   "exp": "DRE + PSA (Book p368)"
+  },
+  {
+   "id": "SURG-C48-089",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "A clinical feature of prostate cancer is:",
+   "opts": [
+    "Lower urinary tract symptoms (LUTS)",
+    "Upper GI bleed",
+    "Chest pain",
+    "Headache"
+   ],
+   "ans": 0,
+   "exp": "Lower urinary tract symptoms (LUTS) (Book p368)"
+  },
+  {
+   "id": "SURG-C48-090",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Prostate cancer may present with:",
+   "opts": [
+    "Metastasis",
+    "Only LUTS",
+    "Only fever",
+    "Only jaundice"
+   ],
+   "ans": 0,
+   "exp": "Metastasis (Book p368)"
+  },
+  {
+   "id": "SURG-C48-091",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Local workup of prostate cancer is:",
+   "opts": [
+    "Core biopsy (minimum 12 cores)",
+    "FNAC only",
+    "Excision biopsy",
+    "No biopsy"
+   ],
+   "ans": 0,
+   "exp": "Core biopsy (minimum 12 cores) (Book p368)"
+  },
+  {
+   "id": "SURG-C48-092",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Local spread workup of prostate cancer is:",
+   "opts": [
+    "Multiparametric MRI (mp MRI)",
+    "Plain X-ray",
+    "USG only",
+    "Bone scan"
+   ],
+   "ans": 0,
+   "exp": "Multiparametric MRI (mp MRI) (Book p368)"
+  },
+  {
+   "id": "SURG-C48-093",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Distant spread workup of prostate cancer is:",
+   "opts": [
+    "Prostate specific membrane antigen PET (PSMA-PET)",
+    "HIDA scan",
+    "Meckel scan",
+    "Thyroid scan"
+   ],
+   "ans": 0,
+   "exp": "Prostate specific membrane antigen PET (PSMA-PET) (Book p368)"
+  },
+  {
+   "id": "SURG-C48-094",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Local spread of prostate cancer is to:",
+   "opts": [
+    "Seminal vesicles, rectum",
+    "Bladder dome only",
+    "Kidneys",
+    "Liver"
+   ],
+   "ans": 0,
+   "exp": "Seminal vesicles, rectum (Book p368)"
+  },
+  {
+   "id": "SURG-C48-095",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Lymph node spread of prostate cancer is:",
+   "opts": [
+    "Obturator LN to Iliac LN",
+    "Inguinal to cervical",
+    "Axillary to iliac",
+    "Mesenteric nodes"
+   ],
+   "ans": 0,
+   "exp": "Obturator LN to Iliac LN (Book p368)"
+  },
+  {
+   "id": "SURG-C48-096",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "The most common distant spread of prostate cancer is to:",
+   "opts": [
+    "Bones",
+    "Lungs",
+    "Liver",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "Bones (Book p368)"
+  },
+  {
+   "id": "SURG-C48-097",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Bony mets favour the:",
+   "opts": [
+    "Lumbar vertebrae",
+    "Skull only",
+    "Ribs only",
+    "Small bones of hand"
+   ],
+   "ans": 0,
+   "exp": "Lumbar vertebrae (Book p368)"
+  },
+  {
+   "id": "SURG-C48-098",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Bony spread is via:",
+   "opts": [
+    "Batson's plexus",
+    "Portal vein",
+    "Thoracic duct",
+    "Coronary sinus"
+   ],
+   "ans": 0,
+   "exp": "Batson's plexus (Book p368)"
+  },
+  {
+   "id": "SURG-C48-099",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Prostate bony mets are:",
+   "opts": [
+    "Osteoblastic > osteolytic",
+    "Osteolytic > osteoblastic",
+    "Only lytic",
+    "Only cystic"
+   ],
+   "ans": 0,
+   "exp": "Osteoblastic > osteolytic (Book p368)"
+  },
+  {
+   "id": "SURG-C48-100",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "On a bone scan, black spots signify:",
+   "opts": [
+    "Metastatic tissue",
+    "Normal bone",
+    "Fracture healing",
+    "Infection only"
+   ],
+   "ans": 0,
+   "exp": "Metastatic tissue (Book p368)"
+  },
+  {
+   "id": "SURG-C48-101",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Bone scan is indicated if PSA is:",
+   "opts": [
+    ">10 ng/mL",
+    "<4 ng/mL",
+    "<1 ng/mL",
+    ">100 ng/mL only"
+   ],
+   "ans": 0,
+   "exp": ">10 ng/mL (Book p368)"
+  },
+  {
+   "id": "SURG-C48-102",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Bone scan is indicated in a:",
+   "opts": [
+    "Symptomatic patient",
+    "Asymptomatic patient always",
+    "Young patient only",
+    "Female patient"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic patient (Book p368)"
+  },
+  {
+   "id": "SURG-C48-103",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Bone scan is indicated if Gleason score is:",
+   "opts": [
+    ">7",
+    "<6",
+    "=2",
+    "<4"
+   ],
+   "ans": 0,
+   "exp": ">7 (Book p368)"
+  },
+  {
+   "id": "SURG-C48-104",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Gleason scoring starts by identifying the:",
+   "opts": [
+    "Type of gland",
+    "Type of stroma",
+    "Type of vessel",
+    "Type of nerve"
+   ],
+   "ans": 0,
+   "exp": "Type of gland (Book p368)"
+  },
+  {
+   "id": "SURG-C48-105",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "In Gleason scoring, the most common pattern is graded:",
+   "opts": [
+    "Between 1 to 5",
+    "Between 6 to 10",
+    "Between 0 to 1",
+    "As 0 or 1 only"
+   ],
+   "ans": 0,
+   "exp": "Between 1 to 5 (Book p368)"
+  },
+  {
+   "id": "SURG-C48-106",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "In Gleason scoring, the second most common pattern is graded:",
+   "opts": [
+    "Between 1 to 5",
+    "Between 6 to 10",
+    "As 10 always",
+    "As 0 always"
+   ],
+   "ans": 0,
+   "exp": "Between 1 to 5 (Book p368)"
+  },
+  {
+   "id": "SURG-C48-107",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Gleason example 3+4 means 3 is most common and 4 is:",
+   "opts": [
+    "2nd most common",
+    "Least common",
+    "Absent",
+    "Normal tissue"
+   ],
+   "ans": 0,
+   "exp": "2nd most common (Book p368)"
+  },
+  {
+   "id": "SURG-C48-108",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "Gleason 3+4 gives a score of:",
+   "opts": [
+    "7",
+    "3",
+    "4",
+    "12"
+   ],
+   "ans": 0,
+   "exp": "7 (Book p368)"
+  },
+  {
+   "id": "SURG-C48-109",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "page": 368,
+   "q": "In Gleason grading, 1-2-3-4-5 runs from well differentiated to:",
+   "opts": [
+    "Poorly differentiated",
+    "Normal tissue",
+    "Benign hyperplasia",
+    "Metaplasia"
+   ],
+   "ans": 0,
+   "exp": "Poorly differentiated (Book p368)"
+  },
+  {
+   "id": "SURG-C48-110",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Low risk group has ISUP grade group:",
+   "opts": [
+    "1",
+    "2",
+    "4",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p369)"
+  },
+  {
+   "id": "SURG-C48-111",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Low risk Gleason score is:",
+   "opts": [
+    "≤6",
+    "7 (3+4)",
+    "7 (4+3)",
+    "9–10"
+   ],
+   "ans": 0,
+   "exp": "≤6 (Book p369)"
+  },
+  {
+   "id": "SURG-C48-112",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Intermediate favourable risk has ISUP grade group:",
+   "opts": [
+    "2",
+    "1",
+    "3",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "2 (Book p369)"
+  },
+  {
+   "id": "SURG-C48-113",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Intermediate favourable Gleason score is:",
+   "opts": [
+    "7 (3+4)",
+    "≤6",
+    "7 (4+3)",
+    "8"
+   ],
+   "ans": 0,
+   "exp": "7 (3+4) (Book p369)"
+  },
+  {
+   "id": "SURG-C48-114",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Intermediate unfavourable risk has ISUP grade group:",
+   "opts": [
+    "3",
+    "1",
+    "2",
+    "4"
+   ],
+   "ans": 0,
+   "exp": "3 (Book p369)"
+  },
+  {
+   "id": "SURG-C48-115",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Intermediate unfavourable Gleason score is:",
+   "opts": [
+    "7 (4+3)",
+    "≤6",
+    "7 (3+4)",
+    "9–10"
+   ],
+   "ans": 0,
+   "exp": "7 (4+3) (Book p369)"
+  },
+  {
+   "id": "SURG-C48-116",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "High risk ISUP grade group 4 has Gleason score:",
+   "opts": [
+    "8",
+    "≤6",
+    "7",
+    "9–10"
+   ],
+   "ans": 0,
+   "exp": "8 (Book p369)"
+  },
+  {
+   "id": "SURG-C48-117",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "High risk ISUP grade group 5 has Gleason score:",
+   "opts": [
+    "9–10",
+    "≤6",
+    "7",
+    "8"
+   ],
+   "ans": 0,
+   "exp": "9–10 (Book p369)"
+  },
+  {
+   "id": "SURG-C48-118",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Tx prostate cancer means:",
+   "opts": [
+    "Primary tumor cannot be assessed",
+    "No evidence of tumor",
+    "Tumor confined to prostate",
+    "Fixed tumor"
+   ],
+   "ans": 0,
+   "exp": "Primary tumor cannot be assessed (Book p369)"
+  },
+  {
+   "id": "SURG-C48-119",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T0 prostate cancer means:",
+   "opts": [
+    "No evidence of primary tumor",
+    "Cannot be assessed",
+    "Incidental finding",
+    "Extracapsular extension"
+   ],
+   "ans": 0,
+   "exp": "No evidence of primary tumor (Book p369)"
+  },
+  {
+   "id": "SURG-C48-120",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T1a prostate tumor is an incidental histologic finding in:",
+   "opts": [
+    "≤5% of resected tissue",
+    ">5% of resected tissue",
+    "100% of tissue",
+    "Needle biopsy"
+   ],
+   "ans": 0,
+   "exp": "≤5% of resected tissue (Book p369)"
+  },
+  {
+   "id": "SURG-C48-121",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T1b prostate tumor is an incidental histologic finding in:",
+   "opts": [
+    ">5% of resected tissue",
+    "≤5% of resected tissue",
+    "Needle biopsy only",
+    "No tissue"
+   ],
+   "ans": 0,
+   "exp": ">5% of resected tissue (Book p369)"
+  },
+  {
+   "id": "SURG-C48-122",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T1c prostate tumor is identified with:",
+   "opts": [
+    "Needle biopsy (Eg: due to elevated PSA level)",
+    "Incidental TURP chips only",
+    "Cystectomy",
+    "Bone scan"
+   ],
+   "ans": 0,
+   "exp": "Needle biopsy (Eg: due to elevated PSA level) (Book p369)"
+  },
+  {
+   "id": "SURG-C48-123",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T2 prostate tumor is:",
+   "opts": [
+    "Confined to prostate",
+    "Extracapsular",
+    "Fixed to pelvis",
+    "Metastatic"
+   ],
+   "ans": 0,
+   "exp": "Confined to prostate (Book p369)"
+  },
+  {
+   "id": "SURG-C48-124",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T3 prostate tumor shows:",
+   "opts": [
+    "Extracapsular extension (Unilateral/bilateral)",
+    "Confinement to prostate",
+    "No tumor",
+    "Only needle biopsy finding"
+   ],
+   "ans": 0,
+   "exp": "Extracapsular extension (Unilateral/bilateral) (Book p369)"
+  },
+  {
+   "id": "SURG-C48-125",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T4 prostate tumor:",
+   "opts": [
+    "Is fixed or invades adjacent structures other than seminal vesicles",
+    "Is confined to prostate",
+    "Is incidental only",
+    "Never invades"
+   ],
+   "ans": 0,
+   "exp": "Is fixed or invades adjacent structures other than seminal vesicles (Book p369)"
+  },
+  {
+   "id": "SURG-C48-126",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "A prognostic score for prostate cancer is:",
+   "opts": [
+    "Partin tables",
+    "Gleason tables",
+    "IPSS",
+    "Child-Pugh"
+   ],
+   "ans": 0,
+   "exp": "Partin tables (Book p369)"
+  },
+  {
+   "id": "SURG-C48-127",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "A prognostic score for prostate cancer is:",
+   "opts": [
+    "D'Amico score",
+    "MELD score",
+    "Apgar score",
+    "Wells score"
+   ],
+   "ans": 0,
+   "exp": "D'Amico score (Book p369)"
+  },
+  {
+   "id": "SURG-C48-128",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Aggressive management criteria include age:",
+   "opts": [
+    "<70 years of age",
+    ">70 years of age",
+    ">80 years",
+    "<40 years"
+   ],
+   "ans": 0,
+   "exp": "<70 years of age (Book p369)"
+  },
+  {
+   "id": "SURG-C48-129",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Aggressive management needs expected life span:",
+   "opts": [
+    ">10 years",
+    "<10 years",
+    "<5 years",
+    "<1 year"
+   ],
+   "ans": 0,
+   "exp": ">10 years (Book p369)"
+  },
+  {
+   "id": "SURG-C48-130",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Aggressive tumors are:",
+   "opts": [
+    "G3/G4 tumors",
+    "G1/G2 tumors",
+    "Benign tumors",
+    "No tumors"
+   ],
+   "ans": 0,
+   "exp": "G3/G4 tumors (Book p369)"
+  },
+  {
+   "id": "SURG-C48-131",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Observation criteria include age:",
+   "opts": [
+    ">70 years of age",
+    "<70 years of age",
+    "<50 years",
+    ">90 years only"
+   ],
+   "ans": 0,
+   "exp": ">70 years of age (Book p369)"
+  },
+  {
+   "id": "SURG-C48-132",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Observation needs expected life span:",
+   "opts": [
+    "<10 years",
+    ">10 years",
+    ">20 years",
+    ">30 years"
+   ],
+   "ans": 0,
+   "exp": "<10 years (Book p369)"
+  },
+  {
+   "id": "SURG-C48-133",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Observation is for:",
+   "opts": [
+    "G1/G2 tumors",
+    "G3/G4 tumors",
+    "Metastatic tumors",
+    "T4 tumors"
+   ],
+   "ans": 0,
+   "exp": "G1/G2 tumors (Book p369)"
+  },
+  {
+   "id": "SURG-C48-134",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T1 and T2a aggressive disease gets:",
+   "opts": [
+    "Nerve preserving robotic radical prostatectomy",
+    "Observation",
+    "Only ADT",
+    "Palliative care"
+   ],
+   "ans": 0,
+   "exp": "Nerve preserving robotic radical prostatectomy (Book p369)"
+  },
+  {
+   "id": "SURG-C48-135",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Robotic prostatectomy decreases the risk of:",
+   "opts": [
+    "Sexual/bladder dysfunction",
+    "Bleeding only",
+    "Infection only",
+    "Pain only"
+   ],
+   "ans": 0,
+   "exp": "Sexual/bladder dysfunction (Book p369)"
+  },
+  {
+   "id": "SURG-C48-136",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Radical prostatectomy removes:",
+   "opts": [
+    "Prostate with part of urethra",
+    "Bladder only",
+    "Rectum",
+    "Testis"
+   ],
+   "ans": 0,
+   "exp": "Prostate with part of urethra (Book p369)"
+  },
+  {
+   "id": "SURG-C48-137",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Radical prostatectomy removes the:",
+   "opts": [
+    "Seminal vesicle",
+    "Vas deferens only",
+    "Epididymis",
+    "Penis"
+   ],
+   "ans": 0,
+   "exp": "Seminal vesicle (Book p369)"
+  },
+  {
+   "id": "SURG-C48-138",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Radical prostatectomy removes:",
+   "opts": [
+    "Lymph nodes",
+    "Bones",
+    "Lungs",
+    "Liver"
+   ],
+   "ans": 0,
+   "exp": "Lymph nodes (Book p369)"
+  },
+  {
+   "id": "SURG-C48-139",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T1 and T2a in elderly low-grade disease gets:",
+   "opts": [
+    "Observation",
+    "Radical prostatectomy",
+    "Salvage surgery",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Observation (Book p369)"
+  },
+  {
+   "id": "SURG-C48-140",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "T2b, T3 and T4 aggressive disease gets:",
+   "opts": [
+    "Radiotherapy (Brachytherapy → I125, Palliative)",
+    "Observation",
+    "No treatment",
+    "Only biopsy"
+   ],
+   "ans": 0,
+   "exp": "Radiotherapy (Brachytherapy → I125, Palliative) (Book p369)"
+  },
+  {
+   "id": "SURG-C48-141",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Good response to radiotherapy shows:",
+   "opts": [
+    "Decreased PSA",
+    "Increased PSA",
+    "Normal PSA always",
+    "No PSA change"
+   ],
+   "ans": 0,
+   "exp": "Decreased PSA (Book p369)"
+  },
+  {
+   "id": "SURG-C48-142",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "After good response, do:",
+   "opts": [
+    "Monitor PSA",
+    "Immediate salvage surgery",
+    "Stop follow-up",
+    "Cystectomy"
+   ],
+   "ans": 0,
+   "exp": "Monitor PSA (Book p369)"
+  },
+  {
+   "id": "SURG-C48-143",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Good responders may also get:",
+   "opts": [
+    "Androgen deprivation therapy (ADT)",
+    "Chemotherapy always",
+    "No hormones",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Androgen deprivation therapy (ADT) (Book p369)"
+  },
+  {
+   "id": "SURG-C48-144",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Poor response to radiotherapy needs:",
+   "opts": [
+    "Salvage Sx",
+    "Observation",
+    "No treatment",
+    "Only PSA monitoring"
+   ],
+   "ans": 0,
+   "exp": "Salvage Sx (Book p369)"
+  },
+  {
+   "id": "SURG-C48-145",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 369,
+   "q": "Elderly T2b, T3 and T4 disease gets:",
+   "opts": [
+    "Radiotherapy ± ADT",
+    "Observation only",
+    "Radical prostatectomy",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Radiotherapy ± ADT (Book p369)"
+  },
+  {
+   "id": "SURG-C48-146",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Metastatic prostate cancer is:",
+   "opts": [
+    "Hormone dependant",
+    "Hormone independent always",
+    "Radiation resistant",
+    "Surgery only"
+   ],
+   "ans": 0,
+   "exp": "Hormone dependant (Book p370)"
+  },
+  {
+   "id": "SURG-C48-147",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "First line for metastatic prostate cancer is:",
+   "opts": [
+    "Androgen deprivation therapy (ADT)",
+    "Chemotherapy",
+    "Radiotherapy",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Androgen deprivation therapy (ADT) (Book p370)"
+  },
+  {
+   "id": "SURG-C48-148",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Surgical ADT is:",
+   "opts": [
+    "B/L orchidectomy",
+    "Vasectomy",
+    "TURP",
+    "Nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "B/L orchidectomy (Book p370)"
+  },
+  {
+   "id": "SURG-C48-149",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Rising PSA on ADT means:",
+   "opts": [
+    "Hormone resistant tumor",
+    "Cured tumor",
+    "Benign disease",
+    "No tumor"
+   ],
+   "ans": 0,
+   "exp": "Hormone resistant tumor (Book p370)"
+  },
+  {
+   "id": "SURG-C48-150",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Anti androgens for prostate cancer include:",
+   "opts": [
+    "Flutamide, Abiraterone",
+    "Goserelin, Buserelin",
+    "Degarelix",
+    "Paclitaxel"
+   ],
+   "ans": 0,
+   "exp": "Flutamide, Abiraterone (Book p370)"
+  },
+  {
+   "id": "SURG-C48-151",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "LHRH antagonist for prostate cancer is:",
+   "opts": [
+    "Degarelix",
+    "Goserelin",
+    "Buserelin",
+    "Flutamide"
+   ],
+   "ans": 0,
+   "exp": "Degarelix (Book p370)"
+  },
+  {
+   "id": "SURG-C48-152",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "LHRH analogues for prostate cancer include:",
+   "opts": [
+    "Goserelin, Buserelin",
+    "Degarelix",
+    "Flutamide",
+    "Cabazitaxel"
+   ],
+   "ans": 0,
+   "exp": "Goserelin, Buserelin (Book p370)"
+  },
+  {
+   "id": "SURG-C48-153",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "LHRH analogues cause:",
+   "opts": [
+    "Initial PSA flare up",
+    "Immediate PSA fall",
+    "No PSA change",
+    "Castration immediately"
+   ],
+   "ans": 0,
+   "exp": "Initial PSA flare up (Book p370)"
+  },
+  {
+   "id": "SURG-C48-154",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Hence LHRH analogues are combined with:",
+   "opts": [
+    "Anti-androgens",
+    "Antibiotics",
+    "Antifungals",
+    "Diuretics"
+   ],
+   "ans": 0,
+   "exp": "Anti-androgens (Book p370)"
+  },
+  {
+   "id": "SURG-C48-155",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Chemotherapy for hormone resistant tumors includes:",
+   "opts": [
+    "Paclitaxel",
+    "Flutamide",
+    "Degarelix",
+    "Goserelin"
+   ],
+   "ans": 0,
+   "exp": "Paclitaxel (Book p370)"
+  },
+  {
+   "id": "SURG-C48-156",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Chemotherapy for hormone resistant tumors includes:",
+   "opts": [
+    "Cabazitaxel",
+    "Abiraterone",
+    "Buserelin",
+    "Finasteride"
+   ],
+   "ans": 0,
+   "exp": "Cabazitaxel (Book p370)"
+  },
+  {
+   "id": "SURG-C48-157",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "SIPULEUCEL-T is a:",
+   "opts": [
+    "T-cell vaccine",
+    "B-cell vaccine",
+    "Antibiotic",
+    "Hormone"
+   ],
+   "ans": 0,
+   "exp": "T-cell vaccine (Book p370)"
+  },
+  {
+   "id": "SURG-C48-158",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "SIPULEUCEL-T is a:",
+   "opts": [
+    "CD54 extract",
+    "CD4 extract",
+    "PSA extract",
+    "Testosterone extract"
+   ],
+   "ans": 0,
+   "exp": "CD54 extract (Book p370)"
+  },
+  {
+   "id": "SURG-C48-159",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "The trade name of SIPULEUCEL-T is:",
+   "opts": [
+    "Provenge",
+    "Proscar",
+    "Flomax",
+    "Zoladex"
+   ],
+   "ans": 0,
+   "exp": "Provenge (Book p370)"
+  },
+  {
+   "id": "SURG-C48-160",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Bony mets get:",
+   "opts": [
+    "Radiopharmaceutical therapy",
+    "Only surgery",
+    "Only antibiotics",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Radiopharmaceutical therapy (Book p370)"
+  },
+  {
+   "id": "SURG-C48-161",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Radiopharmaceuticals for bony mets include:",
+   "opts": [
+    "Strontium 89",
+    "Iodine 131",
+    "Technetium 99",
+    "Fluorine 18"
+   ],
+   "ans": 0,
+   "exp": "Strontium 89 (Book p370)"
+  },
+  {
+   "id": "SURG-C48-162",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Radiopharmaceuticals for bony mets include:",
+   "opts": [
+    "Radium 223",
+    "Strontium 90",
+    "Cobalt 60",
+    "Cesium 137"
+   ],
+   "ans": 0,
+   "exp": "Radium 223 (Book p370)"
+  },
+  {
+   "id": "SURG-C48-163",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "Strontium 89 and Radium 223 emit:",
+   "opts": [
+    "Alpha-rays",
+    "Beta-rays",
+    "Gamma-rays only",
+    "X-rays only"
+   ],
+   "ans": 0,
+   "exp": "Alpha-rays (Book p370)"
+  },
+  {
+   "id": "SURG-C48-164",
+   "sec": "Prostate Cancer: Staging, Grading and Management",
+   "page": 370,
+   "q": "The most important prognostic factor in prostate cancer is:",
+   "opts": [
+    "Stage of the disease",
+    "Age",
+    "PSA velocity",
+    "Prostate size"
+   ],
+   "ans": 0,
+   "exp": "Stage of the disease (Book p370)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U48-1",
+   "ch": 48,
+   "n": 1,
+   "title": "BPH: Medical Management",
+   "sec": "BPH: Medical Management · p365",
+   "qs": [
+    "SURG-C48-001",
+    "SURG-C48-002",
+    "SURG-C48-003",
+    "SURG-C48-004",
+    "SURG-C48-005",
+    "SURG-C48-006",
+    "SURG-C48-007",
+    "SURG-C48-008",
+    "SURG-C48-009",
+    "SURG-C48-010",
+    "SURG-C48-011",
+    "SURG-C48-012",
+    "SURG-C48-013",
+    "SURG-C48-014"
+   ],
+   "guide": "Alpha1A blockers tamsulosin and alfuzosin relax the dynamic smooth-muscle component within days but risk first-dose postural hypotension, while finasteride and dutasteride shrink the static stromal component over weeks to months with a halved PSA and 20–30% smaller gland at six months at the cost of erection and libido; combining both is the best medical plan."
+  },
+  {
+   "id": "SURG-U48-2",
+   "ch": 48,
+   "n": 2,
+   "title": "BPH: Surgical Indications and Options",
+   "sec": "BPH: Surgical Indications and Options · p365",
+   "qs": [
+    "SURG-C48-015",
+    "SURG-C48-016",
+    "SURG-C48-017",
+    "SURG-C48-018",
+    "SURG-C48-019",
+    "SURG-C48-020",
+    "SURG-C48-021",
+    "SURG-C48-022",
+    "SURG-C48-023",
+    "SURG-C48-024",
+    "SURG-C48-025",
+    "SURG-C48-026",
+    "SURG-C48-027",
+    "SURG-C48-028",
+    "SURG-C48-029",
+    "SURG-C48-030",
+    "SURG-C48-031"
+   ],
+   "guide": "Operate BPH for hydronephrotic upper tracts, drug failure, acute or chronic retention, repeated UTIs, gross haematuria, diverticulae/trabeculations, flow below 10 mL/s or pressure above 80 cm water. TURP remains standard of care beside HOLEP, TULIP and the older complication-prone Millin open route, with haemostatic faster lasers led by common Nd:YAG and best green 532-nm KTPA."
+  },
+  {
+   "id": "SURG-U48-3",
+   "ch": 48,
+   "n": 3,
+   "title": "TURP: Irrigating Fluids, Technique and Early Complications",
+   "sec": "TURP: Irrigating Fluids, Technique and Early Complications · p366",
+   "qs": [
+    "SURG-C48-032",
+    "SURG-C48-033",
+    "SURG-C48-034",
+    "SURG-C48-035",
+    "SURG-C48-036",
+    "SURG-C48-037",
+    "SURG-C48-038",
+    "SURG-C48-039",
+    "SURG-C48-040",
+    "SURG-C48-041",
+    "SURG-C48-042",
+    "SURG-C48-043",
+    "SURG-C48-044",
+    "SURG-C48-045",
+    "SURG-C48-046",
+    "SURG-C48-047",
+    "SURG-C48-048",
+    "SURG-C48-049",
+    "SURG-C48-050",
+    "SURG-C48-051",
+    "SURG-C48-052",
+    "SURG-C48-053",
+    "SURG-C48-054",
+    "SURG-C48-055",
+    "SURG-C48-056",
+    "SURG-C48-057",
+    "SURG-C48-058",
+    "SURG-C48-059",
+    "SURG-C48-060",
+    "SURG-C48-061",
+    "SURG-C48-062"
+   ],
+   "guide": "Clear TURP vision comes from isotonic 1.5% glycine as the commonest best fluid, avoiding hypotonic dextrose and distilled water that invite TURP syndrome while reserving saline for bipolar surgery. The resectoscope coagulates Badenoch vessels at 5 and 7 o'clock and Floch vessels at 10 o'clock from the inferior vesical artery, respects veru montanum as the distal limit, irrigates clot retention through a 3-way catheter, and watches for ~1 litre dilutional hyponatraemia at 4–6 hours with altered sensorium and vomiting, restricting fluids when mild, correcting with 3% saline when severe, and preventing it with isotonic fluids and shorter laser cases while limiting correction to 8–10 mEq/day to avoid pontine myelinolysis."
+  },
+  {
+   "id": "SURG-U48-4",
+   "ch": 48,
+   "n": 4,
+   "title": "TURP Late Complications and PIRADS",
+   "sec": "TURP Late Complications and PIRADS · p367",
+   "qs": [
+    "SURG-C48-063",
+    "SURG-C48-064",
+    "SURG-C48-065",
+    "SURG-C48-066",
+    "SURG-C48-067",
+    "SURG-C48-068",
+    "SURG-C48-069",
+    "SURG-C48-070",
+    "SURG-C48-071",
+    "SURG-C48-072",
+    "SURG-C48-073",
+    "SURG-C48-074",
+    "SURG-C48-075",
+    "SURG-C48-076",
+    "SURG-C48-077"
+   ],
+   "guide": "Beyond 500 cc of absorbed glycine threatens myocardial infarction, while bladder-neck injury causes retrograde ejaculation with spermy turbid urine in 60–70% as the commonest late event, strictures favour the bladder neck with large scopes stenosing the meatus, and cutting past veru montanum incontinently overshoots. PIRADS then grades MRI malignancy risk from 1 very low through 2 low, 3 intermediate and 4 high to 5 very high."
+  },
+  {
+   "id": "SURG-U48-5",
+   "ch": 48,
+   "n": 5,
+   "title": "Prostate Cancer: Risk, Screening, Spread and Gleason",
+   "sec": "Prostate Cancer: Risk, Screening, Spread and Gleason · p368",
+   "qs": [
+    "SURG-C48-078",
+    "SURG-C48-079",
+    "SURG-C48-080",
+    "SURG-C48-081",
+    "SURG-C48-082",
+    "SURG-C48-083",
+    "SURG-C48-084",
+    "SURG-C48-085",
+    "SURG-C48-086",
+    "SURG-C48-087",
+    "SURG-C48-088",
+    "SURG-C48-089",
+    "SURG-C48-090",
+    "SURG-C48-091",
+    "SURG-C48-092",
+    "SURG-C48-093",
+    "SURG-C48-094",
+    "SURG-C48-095",
+    "SURG-C48-096",
+    "SURG-C48-097",
+    "SURG-C48-098",
+    "SURG-C48-099",
+    "SURG-C48-100",
+    "SURG-C48-101",
+    "SURG-C48-102",
+    "SURG-C48-103",
+    "SURG-C48-104",
+    "SURG-C48-105",
+    "SURG-C48-106",
+    "SURG-C48-107",
+    "SURG-C48-108",
+    "SURG-C48-109"
+   ],
+   "guide": "Prostatic adenocarcinoma rises with age, testosterone, African ancestry, BRCA2 over BRCA1, obesity and GSTP-1 mutation, screened yearly after 50 with DRE plus PSA together. Local disease needs 12-core biopsy, local spread needs multiparametric MRI and distant spread needs PSMA-PET; tumours reach seminal vesicles and rectum locally, obturator then iliac nodes regionally, and lumbar bones distantly through Batson's plexus as osteoblastic-dominant black spots, prompting bone scans when PSA exceeds 10, symptoms appear or Gleason exceeds 7, with Gleason summing the 1–5 grades of the commonest and next-commonest gland patterns."
+  },
+  {
+   "id": "SURG-U48-6",
+   "ch": 48,
+   "n": 6,
+   "title": "Prostate Cancer: Staging, Grading and Management",
+   "sec": "Prostate Cancer: Staging, Grading and Management · p369",
+   "qs": [
+    "SURG-C48-110",
+    "SURG-C48-111",
+    "SURG-C48-112",
+    "SURG-C48-113",
+    "SURG-C48-114",
+    "SURG-C48-115",
+    "SURG-C48-116",
+    "SURG-C48-117",
+    "SURG-C48-118",
+    "SURG-C48-119",
+    "SURG-C48-120",
+    "SURG-C48-121",
+    "SURG-C48-122",
+    "SURG-C48-123",
+    "SURG-C48-124",
+    "SURG-C48-125",
+    "SURG-C48-126",
+    "SURG-C48-127",
+    "SURG-C48-128",
+    "SURG-C48-129",
+    "SURG-C48-130",
+    "SURG-C48-131",
+    "SURG-C48-132",
+    "SURG-C48-133",
+    "SURG-C48-134",
+    "SURG-C48-135",
+    "SURG-C48-136",
+    "SURG-C48-137",
+    "SURG-C48-138",
+    "SURG-C48-139",
+    "SURG-C48-140",
+    "SURG-C48-141",
+    "SURG-C48-142",
+    "SURG-C48-143",
+    "SURG-C48-144",
+    "SURG-C48-145",
+    "SURG-C48-146",
+    "SURG-C48-147",
+    "SURG-C48-148",
+    "SURG-C48-149",
+    "SURG-C48-150",
+    "SURG-C48-151",
+    "SURG-C48-152",
+    "SURG-C48-153",
+    "SURG-C48-154",
+    "SURG-C48-155",
+    "SURG-C48-156",
+    "SURG-C48-157",
+    "SURG-C48-158",
+    "SURG-C48-159",
+    "SURG-C48-160",
+    "SURG-C48-161",
+    "SURG-C48-162",
+    "SURG-C48-163",
+    "SURG-C48-164"
+   ],
+   "guide": "ISUP 1–5 maps low ≤6 through intermediate 7(3+4) favourable and 7(4+3) unfavourable to high 8 and 9–10 disease, while TNM runs Tx/T0 through incidental T1a ≤5%, T1b >5% and T1c needle-detected, confined T2, extracapsular T3 and fixed T4 beyond seminal vesicles, refined by Partin and D'Amico scores. Fit under-70 aggressive T1–T2a disease earns nerve-sparing robotic prostatectomy with urethra, vesicles and nodes, while older low-grade cases watch; bulkier T2b–T4 disease takes I-125 brachytherapy with PSA-monitored ADT or salvage surgery, and hormone-dependent metastases start androgen deprivation by bilateral orchidectomy or flutamide/abiraterone, degarelix or flare-prone goserelin/buserelin with antiandrogen cover, escalating to paclitaxel/cabazitaxel, Provenge Sipuleucel-T CD54 vaccine and alpha-emitting strontium-89/radium-223 for bone, with stage as the supreme prognostic factor."
+  }
+ ]
+}

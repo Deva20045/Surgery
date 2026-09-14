@@ -13,7 +13,7 @@ Source mapping (from PROGRESS.md — verified against printed page headers):
   v1d "Surgery Vol. 1-238-316.pdf"(79 pages): book = pdf + 228  -> book 229-306 (pdf 79 = blank, unnumbered)
   v2a "Surgery Vol. 2_part_1.pdf" (82 pages): pdf 1-9 = unnumbered front matter (cover, author, title,
       instructions, TOC x3, blanks); book = pdf + 297 -> book 307-378
-  v2b "Surgery Vol. 2_part_2.pdf" (75 pages): book = pdf + 377  -> book 379-452
+  v2b "Surgery Vol. 2_part_2.pdf" (75 pages): book = pdf + 378  -> book 379-452 (pdf1=p379..pdf75=p452, verified 2026-09-14)
   v2c "Surgery Vol. 2_part_3.pdf" (71 pages): book = pdf + 452  -> book 453-523
   v2d "Surgery Vol. 2_part_4.pdf" (35 pages): book = pdf + 523  -> book 524-558 (content ends ~p558; back cover included)
 
@@ -44,7 +44,7 @@ def pdf_for(book):
     if 327 <= book <= 378:
         return [("Surgery Vol. 2_part_1.pdf", book - 296)]
     if 379 <= book <= 452:
-        return [("Surgery Vol. 2_part_2.pdf", book - 377)]
+        return [("Surgery Vol. 2_part_2.pdf", book - 378)]
     if 453 <= book <= 523:
         return [("Surgery Vol. 2_part_3.pdf", book - 452)]
     if 524 <= book <= 558:
