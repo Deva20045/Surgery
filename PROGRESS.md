@@ -204,7 +204,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **60/72 chapters live** · Questions: 8077 · Units: 706
+- Local HTML: **60/72 chapters live** · Questions: 8039 · Units: 694
 - GitHub HTML: **synced at 60/72** (merged to `main` via PR #24 on 2026-09-14)
 - NEXT: ch61 Venous Thrombosis — p470-475 (v2c p18-23) — **source PDF: `Surgery Vol. 2_part_3.pdf`**
   (book = pdf + 452; NO shift needed for ch61-62 — the p449 duplicate affects only v2b pdf72)
