@@ -1,0 +1,2411 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C29-001",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "Compared with a colostomy, an ileostomy has __________ output.",
+   "opts": [
+    "More and more liquid",
+    "Less and more solid",
+    "The same",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "Ileostomy: output more (liquid); colostomy: less (semisolid). (Book p197)"
+  },
+  {
+   "id": "SURG-C29-002",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "Skin excoriation is more common with a:",
+   "opts": [
+    "Ileostomy",
+    "Colostomy",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Skin excoriation: ileostomy more; colostomy less. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-003",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "Fluid and electrolyte imbalance is more of a problem with a:",
+   "opts": [
+    "Ileostomy",
+    "Colostomy",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Fluid & electrolyte imbalance: ileostomy more; colostomy less. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-004",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "Which stoma is easier to manage?",
+   "opts": [
+    "Colostomy",
+    "Ileostomy",
+    "Both are equally difficult",
+    "Neither - both need a stoma therapist"
+   ],
+   "ans": 0,
+   "exp": "Ease of management: colostomy - easier. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-005",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "Technically, an ileostomy is:",
+   "opts": [
+    "Raised above the skin surface (pouting)",
+    "Flushed with the skin",
+    "Buried below the skin",
+    "Sutured flat to the fascia"
+   ],
+   "ans": 0,
+   "exp": "Technical difference: ileostomy raised above the skin surface (pouting); colostomy at the same level (flushed with the skin). (Book p197)"
+  },
+  {
+   "id": "SURG-C29-006",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "A colostomy is technically:",
+   "opts": [
+    "At the same level as the skin (flushed)",
+    "Raised above the skin",
+    "Buried below the skin",
+    "Everted into a spout"
+   ],
+   "ans": 0,
+   "exp": "Colostomy: at the same level (flushed with the skin). (Book p197)"
+  },
+  {
+   "id": "SURG-C29-007",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "An ileostomy is usually sited in the:",
+   "opts": [
+    "Left or right iliac fossa",
+    "Epigastrium",
+    "Left hypochondrium",
+    "Umbilicus"
+   ],
+   "ans": 0,
+   "exp": "Site: ileostomy - left/right iliac fossa. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-008",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "A sigmoid colostomy is sited in the __________ and a transverse colostomy in the __________.",
+   "opts": [
+    "Left iliac fossa; epigastrium",
+    "Right iliac fossa; left iliac fossa",
+    "Epigastrium; left iliac fossa",
+    "Umbilicus; right iliac fossa"
+   ],
+   "ans": 0,
+   "exp": "Colostomy - sigmoid: left iliac fossa; transverse: epigastrium. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-009",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "A stoma should be positioned:",
+   "opts": [
+    "Away from bony landmarks, along the outer border of the rectus",
+    "Over the anterior superior iliac spine",
+    "Over the costal margin",
+    "Through the rectus muscle laterally"
+   ],
+   "ans": 0,
+   "exp": "Position: away from bony landmarks; taken along the outer border of rectus. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-010",
+   "sec": "Stomas: Ileostomy v/s Colostomy",
+   "page": 197,
+   "q": "An ileostomy is matured by:",
+   "opts": [
+    "Suturing the everted free end of the proximal ileum to the skin edges to form a spout",
+    "Suturing the bowel flush with the skin",
+    "Leaving the bowel open without suturing",
+    "Anchoring the bowel to the peritoneum only"
+   ],
+   "ans": 0,
+   "exp": "Ileostomy formation: suturing the free extremity of the proximal ileum to the skin edges after eversion to form a spout. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-011",
+   "sec": "Types of Stomas",
+   "page": 197,
+   "q": "In an end (single barrel) stoma:",
+   "opts": [
+    "Only one end of bowel is brought out",
+    "Both ends are brought out",
+    "A loop of bowel is brought out",
+    "Two separate loops are brought out"
+   ],
+   "ans": 0,
+   "exp": "Single barrel/end stoma: only one end is taken out; not joined; single opening. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-012",
+   "sec": "Types of Stomas",
+   "page": 197,
+   "q": "In a double barrel stoma:",
+   "opts": [
+    "Two separate ends (proximal and distal) are brought out and are not joined to each other",
+    "A single loop is brought out",
+    "One end is brought out",
+    "The two ends are joined to each other"
+   ],
+   "ans": 0,
+   "exp": "Double barrel: two separate ends are taken out (proximal and distal), not joined to each other like a loop stoma - 2 openings not joined with each other. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-013",
+   "sec": "Types of Stomas",
+   "page": 197,
+   "q": "In a loop stoma:",
+   "opts": [
+    "A loop is brought out, so proximal and distal openings are seen joined with each other",
+    "Two separate ends are brought out",
+    "Only one end is brought out",
+    "The bowel is closed completely"
+   ],
+   "ans": 0,
+   "exp": "Loop stoma: loop taken out, so proximal and distal opening is seen - 2 openings joined with each other; flushed with the skin. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-014",
+   "sec": "Types of Stomas",
+   "page": 197,
+   "q": "A loop stoma is:",
+   "opts": [
+    "Flushed with the skin",
+    "Raised above the skin level",
+    "Buried below the skin",
+    "Everted into a spout"
+   ],
+   "ans": 0,
+   "exp": "Loop stoma: flushed with the skin. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-015",
+   "sec": "Types of Stomas",
+   "page": 197,
+   "q": "An end stoma is:",
+   "opts": [
+    "Raised above the skin level",
+    "Flushed with the skin",
+    "At the same level as the skin",
+    "Below the skin"
+   ],
+   "ans": 0,
+   "exp": "End stoma: raised above skin level. (Book p197)"
+  },
+  {
+   "id": "SURG-C29-016",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "A temporary stoma is done to:",
+   "opts": [
+    "Protect a fresh anastomosis",
+    "Replace the rectum permanently",
+    "Treat a stoma prolapse",
+    "Reduce the operative time"
+   ],
+   "ans": 0,
+   "exp": "Temporary stomas: done to protect fresh anastomosis. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-017",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "A temporary ileostomy protecting a colon-to-colon anastomosis is closed after:",
+   "opts": [
+    "8-10 weeks",
+    "2 weeks",
+    "6 months",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "Temporary ileostomy to protect the anastomosis: closed after 8-10 wks. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-018",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "A permanent stoma is usually a:",
+   "opts": [
+    "Permanent end colostomy",
+    "Loop ileostomy",
+    "Double barrel ileostomy",
+    "Loop colostomy"
+   ],
+   "ans": 0,
+   "exp": "Permanent stomas: permanent end-colostomy done. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-019",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "The m/c complication of a stoma is:",
+   "opts": [
+    "Skin excoriation",
+    "Prolapse",
+    "Retraction",
+    "Parastomal hernia"
+   ],
+   "ans": 0,
+   "exp": "Complications: skin excoriation - m/c. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-020",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "The m/c long term complication of a colostomy is:",
+   "opts": [
+    "Parastomal herniation",
+    "Skin excoriation",
+    "Retraction",
+    "Necrosis"
+   ],
+   "ans": 0,
+   "exp": "Parastomal herniation: m/c long term complication of colostomy. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-021",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "Parastomal herniation is more common with a:",
+   "opts": [
+    "Loop stoma than an end stoma",
+    "End stoma than a loop stoma",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Parastomal herniation: m/c - loop > end stoma. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-022",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "A parastomal hernia is corrected by:",
+   "opts": [
+    "Mesh repair",
+    "Resection of the stoma",
+    "Simple suturing of the defect",
+    "Relocation of the stoma only"
+   ],
+   "ans": 0,
+   "exp": "Parastomal herniation: corrected by mesh repair. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-023",
+   "sec": "Temporary and Permanent Stomas, and their Complications",
+   "page": 198,
+   "q": "Complications of a stoma include all EXCEPT:",
+   "opts": [
+    "Short bowel syndrome",
+    "Prolapse",
+    "Retraction",
+    "Skin excoriation"
+   ],
+   "ans": 0,
+   "exp": "Stoma complications: skin excoriation (m/c), prolapse, retraction, parastomal herniation. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-024",
+   "sec": "Short Bowel Syndrome",
+   "page": 198,
+   "q": "Short bowel syndrome is defined as a remnant of:",
+   "opts": [
+    "<200 cm of small intestine",
+    "<100 cm of small intestine",
+    "<50 cm of small intestine",
+    "<300 cm of small intestine"
+   ],
+   "ans": 0,
+   "exp": "Short bowel syndrome: <200 cm of small intestine (S.I.). (Book p198)"
+  },
+  {
+   "id": "SURG-C29-025",
+   "sec": "Short Bowel Syndrome",
+   "page": 198,
+   "q": "A patient with __________ of small intestine is a net secretor.",
+   "opts": [
+    "<100 cm",
+    ">100 cm",
+    "<200 cm",
+    ">200 cm"
+   ],
+   "ans": 0,
+   "exp": "Net secretors: <100 cm of S.I.; net absorbers: >100 cm of S.I. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-026",
+   "sec": "Short Bowel Syndrome",
+   "page": 198,
+   "q": "A patient with __________ of small intestine is a net absorber.",
+   "opts": [
+    ">100 cm",
+    "<100 cm",
+    "<50 cm",
+    ">200 cm"
+   ],
+   "ans": 0,
+   "exp": "Net absorbers: >100 cm of S.I. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-027",
+   "sec": "Short Bowel Syndrome",
+   "page": 198,
+   "q": "The m/c cause of short bowel syndrome is:",
+   "opts": [
+    "Superior mesenteric artery embolism",
+    "Crohn's disease",
+    "Radiation enteritis",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "Causes: superior mesenteric artery embolism - m/c. (Book p198)"
+  },
+  {
+   "id": "SURG-C29-028",
+   "sec": "Short Bowel Syndrome",
+   "page": 198,
+   "q": "Causes of short bowel syndrome include all EXCEPT:",
+   "opts": [
+    "Peptic ulcer disease",
+    "Crohn's disease",
+    "Malrotation/atresia in children",
+    "SMA embolism"
+   ],
+   "ans": 0,
+   "exp": "Causes: SMA embolism (m/c); Crohn's disease; malrotation/atresia (children). (Book p198)"
+  },
+  {
+   "id": "SURG-C29-029",
+   "sec": "Short Bowel Syndrome",
+   "page": 199,
+   "q": "Features of short bowel syndrome include all EXCEPT:",
+   "opts": [
+    "Constipation",
+    "Malabsorption",
+    "Diarrhoea due to rapid transit",
+    "Bacterial overgrowth"
+   ],
+   "ans": 0,
+   "exp": "Features: malabsorption; diarrhoea (d/t rapid transit); weight loss; bacterial overgrowth. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-030",
+   "sec": "Short Bowel Syndrome",
+   "page": 199,
+   "q": "When the ileum is preserved and the jejunum is lost:",
+   "opts": [
+    "The ileum can adapt",
+    "Vitamin B12 and other nutrient deficiencies occur",
+    "TPN is always required",
+    "Transplantation is mandatory"
+   ],
+   "ans": 0,
+   "exp": "Ileum (+), jejunum (-): ileum can adapt. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-031",
+   "sec": "Short Bowel Syndrome",
+   "page": 199,
+   "q": "When the jejunum is preserved and the ileum is lost:",
+   "opts": [
+    "Vitamin B12 and nutrient deficiencies occur",
+    "The bowel adapts completely",
+    "No supplementation is needed",
+    "Bile salt absorption is normal"
+   ],
+   "ans": 0,
+   "exp": "Jejunum (+), ileum (-): vit B12 & nutrient deficiencies (+). (Book p199)"
+  },
+  {
+   "id": "SURG-C29-032",
+   "sec": "Management of Short Bowel Syndrome and Bowel Lengthening",
+   "page": 199,
+   "q": "The mainstay of management of short bowel syndrome is:",
+   "opts": [
+    "Long term total parenteral nutrition (TPN)",
+    "Oral rehydration alone",
+    "Elemental diet only",
+    "Prokinetics"
+   ],
+   "ans": 0,
+   "exp": "Management: long term TPN (total parenteral nutrition). (Book p199)"
+  },
+  {
+   "id": "SURG-C29-033",
+   "sec": "Management of Short Bowel Syndrome and Bowel Lengthening",
+   "page": 199,
+   "q": "The definitive treatment option for short bowel syndrome is:",
+   "opts": [
+    "Small intestine transplantation",
+    "Bypass grafting",
+    "Long term steroids",
+    "Bowel plication"
+   ],
+   "ans": 0,
+   "exp": "Management: long term TPN; small intestine transplantation. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-034",
+   "sec": "Management of Short Bowel Syndrome and Bowel Lengthening",
+   "page": 199,
+   "q": "Teduglutide used in short bowel syndrome is a:",
+   "opts": [
+    "GLP-2 analogue",
+    "GLP-1 analogue",
+    "Somatostatin analogue",
+    "Bile acid sequestrant"
+   ],
+   "ans": 0,
+   "exp": "Drugs: teduglutide (GLP 2 analogue); cholestyramine. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-035",
+   "sec": "Management of Short Bowel Syndrome and Bowel Lengthening",
+   "page": 199,
+   "q": "The Bianchi procedure for short bowel syndrome consists of:",
+   "opts": [
+    "Longitudinal splitting of the bowel with linear staplers along the mesenteric border and an end to end anastomosis (zig-zag bowel)",
+    "Serial transverse stapling to lengthen the bowel",
+    "Reversed jejunal segment interposition",
+    "Longitudinal lengthening with a patch"
+   ],
+   "ans": 0,
+   "exp": "Bianchi procedure: longitudinally split the bowel with linear staplers along the mesenteric border, end to end anastomosis → zig-zag bowel. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-036",
+   "sec": "Management of Short Bowel Syndrome and Bowel Lengthening",
+   "page": 199,
+   "q": "Serial transverse enteroplasty (STEP) results in:",
+   "opts": [
+    "Increased length and better absorption",
+    "A zig-zag bowel",
+    "A reversed segment",
+    "Shortening of the bowel"
+   ],
+   "ans": 0,
+   "exp": "Serial transverse enteroplasty (STEP): ↑ length, better absorption. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-037",
+   "sec": "Diverticular Disease",
+   "page": 199,
+   "q": "Colonic diverticula are __________ diverticulae.",
+   "opts": [
+    "False (only the mucosa bulges out)",
+    "True (all layers bulge out)",
+    "Congenital",
+    "Acquired traction"
+   ],
+   "ans": 0,
+   "exp": "Features: false diverticulae (only mucosa bulges out). (Book p199)"
+  },
+  {
+   "id": "SURG-C29-038",
+   "sec": "Diverticular Disease",
+   "page": 199,
+   "q": "The m/c site affected by diverticular disease is the:",
+   "opts": [
+    "Sigmoid colon",
+    "Caecum",
+    "Transverse colon",
+    "Rectum"
+   ],
+   "ans": 0,
+   "exp": "m/c site affected: sigmoid colon. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-039",
+   "sec": "Diverticular Disease",
+   "page": 199,
+   "q": "Diverticular disease is most common in the __________ decade and is associated with:",
+   "opts": [
+    "4th-5th; constipation",
+    "1st-2nd; diarrhoea",
+    "8th-9th; diarrhoea",
+    "2nd-3rd; vomiting"
+   ],
+   "ans": 0,
+   "exp": "Age group: 4th-5th decade; associated with constipation. (Book p199)"
+  },
+  {
+   "id": "SURG-C29-040",
+   "sec": "Diverticular Disease",
+   "page": 200,
+   "q": "Diverticulosis is:",
+   "opts": [
+    "Multiple diverticulae without inflammation",
+    "A single inflamed diverticulum",
+    "Diverticulae with perforation",
+    "A congenital condition"
+   ],
+   "ans": 0,
+   "exp": "Diverticulosis: multiple diverticulae with no inflammation. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-041",
+   "sec": "Diverticular Disease",
+   "page": 200,
+   "q": "Clinical features of diverticulosis include:",
+   "opts": [
+    "Constipation and bleeding",
+    "Jaundice",
+    "Steatorrhoea",
+    "Tenesmus only"
+   ],
+   "ans": 0,
+   "exp": "Clinical features of diverticulosis: constipation; bleeding. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-042",
+   "sec": "Diverticular Disease",
+   "page": 200,
+   "q": "The investigation of choice for uncomplicated diverticulosis is:",
+   "opts": [
+    "Barium enema (saw tooth appearance)",
+    "CECT abdomen",
+    "Colonoscopy",
+    "CT angiography"
+   ],
+   "ans": 0,
+   "exp": "IOC: barium enema - saw tooth appearance. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-043",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "Bleeding from diverticular disease is more common on the:",
+   "opts": [
+    "Right side",
+    "Left side",
+    "Both sides equally",
+    "Rectum"
+   ],
+   "ans": 0,
+   "exp": "Bleeding: right side bleed m/c. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-044",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "The investigation used to diagnose bleeding from diverticular disease is:",
+   "opts": [
+    "CT angiography",
+    "Barium enema",
+    "Plain X-ray",
+    "Colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis of diverticular bleeding: CT angiography. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-045",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "The management of diverticular bleeding is:",
+   "opts": [
+    "Embolization followed by resection (definitive management)",
+    "Immediate laparotomy",
+    "Conservative management only",
+    "Endoscopic banding"
+   ],
+   "ans": 0,
+   "exp": "Management: embolization f/b resection (definitive management). (Book p200)"
+  },
+  {
+   "id": "SURG-C29-046",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "Diverticulitis most commonly presents with pain on the:",
+   "opts": [
+    "Left side (left > right)",
+    "Right side",
+    "Epigastrium",
+    "Perineum"
+   ],
+   "ans": 0,
+   "exp": "Diverticulitis: pain abdomen (left side > right side). (Book p200)"
+  },
+  {
+   "id": "SURG-C29-047",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "Clinical features of diverticulitis include:",
+   "opts": [
+    "Pain abdomen, diarrhoea and fever",
+    "Painless jaundice",
+    "Haematemesis and melaena",
+    "Constipation only"
+   ],
+   "ans": 0,
+   "exp": "Features of diverticulitis: pain abdomen; diarrhea; fever. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-048",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "The investigation of choice in acute diverticulitis is:",
+   "opts": [
+    "CECT abdomen",
+    "Barium enema",
+    "Plain X-ray abdomen",
+    "Colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "Investigations: ↑ TLC; CECT - IOC (pericolic abscess). (Book p200)"
+  },
+  {
+   "id": "SURG-C29-049",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "Hinchey stage I diverticulitis on CT is:",
+   "opts": [
+    "Colonic inflammation with a pericolic abscess",
+    "Colonic inflammation with a pelvic abscess",
+    "Purulent peritonitis",
+    "Fecal peritonitis"
+   ],
+   "ans": 0,
+   "exp": "Hinchey staging: stage I - colonic inflammation with pericolic abscess. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-050",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "Hinchey stage II diverticulitis on CT is:",
+   "opts": [
+    "Colonic inflammation with a pelvic abscess",
+    "Colonic inflammation with a pericolic abscess",
+    "Fecal peritonitis",
+    "A localized perforation"
+   ],
+   "ans": 0,
+   "exp": "Hinchey stage II: colonic inflammation with pelvic abscess. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-051",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "Hinchey stage IV diverticulitis is:",
+   "opts": [
+    "Fecal peritonitis",
+    "Pericolic abscess",
+    "Pelvic abscess",
+    "Purulent peritonitis"
+   ],
+   "ans": 0,
+   "exp": "Hinchey stage IV: fecal peritonitis. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-052",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "The management of Hinchey stage I and II diverticulitis is:",
+   "opts": [
+    "IV antibiotics, analgesics and pigtail catheter drainage",
+    "Emergency laparotomy",
+    "Hartmann's procedure",
+    "Resection and anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Management - stage I & II: IV antibiotics; analgesics; drainage using pigtail catheter. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-053",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "The management of Hinchey stage III and IV diverticulitis is:",
+   "opts": [
+    "Emergency laparotomy with Hartmann's procedure",
+    "Conservative management",
+    "Pigtail catheter drainage only",
+    "Endoscopic stenting"
+   ],
+   "ans": 0,
+   "exp": "Management - stage III & IV: emergency laparotomy; Hartmann's procedure. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-054",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging",
+   "page": 200,
+   "q": "A long standing complication of diverticular disease is:",
+   "opts": [
+    "Colorectal cancer",
+    "Small bowel lymphoma",
+    "Gastric cancer",
+    "GIST"
+   ],
+   "ans": 0,
+   "exp": "Complication: colorectal cancer in long standing cases. (Book p200)"
+  },
+  {
+   "id": "SURG-C29-055",
+   "sec": "Angiodysplasia",
+   "page": 201,
+   "q": "Angiodysplasia is typically seen in:",
+   "opts": [
+    "Elderly patients in the 7th decade",
+    "Children",
+    "Young adults",
+    "Neonates"
+   ],
+   "ans": 0,
+   "exp": "Angiodysplasia: elderly patient - 7th decade. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-056",
+   "sec": "Angiodysplasia",
+   "page": 201,
+   "q": "Angiodysplasia is most commonly located on the __________ side of the colon.",
+   "opts": [
+    "Right",
+    "Left",
+    "Both equally",
+    "Rectal"
+   ],
+   "ans": 0,
+   "exp": "m/c on right > left side. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-057",
+   "sec": "Angiodysplasia",
+   "page": 201,
+   "q": "The m/c site of angiodysplasia is the:",
+   "opts": [
+    "Caecum",
+    "Sigmoid colon",
+    "Rectum",
+    "Splenic flexure"
+   ],
+   "ans": 0,
+   "exp": "m/c site: caecum. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-058",
+   "sec": "Angiodysplasia",
+   "page": 201,
+   "q": "Angiodysplasia is the __________ m/c cause of massive lower GI haemorrhage.",
+   "opts": [
+    "2nd",
+    "1st",
+    "3rd",
+    "5th"
+   ],
+   "ans": 0,
+   "exp": "2nd m/c cause of massive lower GI hemorrhage. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-059",
+   "sec": "Angiodysplasia",
+   "page": 201,
+   "q": "Angiodysplasia is associated with a deficiency/abnormality of:",
+   "opts": [
+    "von Willebrand factor",
+    "Factor VIII alone",
+    "Vitamin K",
+    "Platelet GPIIb/IIIa"
+   ],
+   "ans": 0,
+   "exp": "Angiodysplasia: associated with vWF. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-060",
+   "sec": "Angiodysplasia",
+   "page": 201,
+   "q": "The diagnosis of angiodysplasia is made by:",
+   "opts": [
+    "Colonoscopy and capsule endoscopy",
+    "Barium enema",
+    "Plain X-ray",
+    "CT angiography alone"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: colonoscopy; capsule endoscopy. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-061",
+   "sec": "Angiodysplasia",
+   "page": 201,
+   "q": "The treatment of angiodysplasia is:",
+   "opts": [
+    "Endoscopic/colonoscopic ligation of vessels",
+    "Segmental colectomy always",
+    "Embolization alone",
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Management: endoscopic/colonoscopic ligation of vessels. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-062",
+   "sec": "Work-up of Lower GI Haemorrhage",
+   "page": 201,
+   "q": "Frank blood in the stools is called:",
+   "opts": [
+    "Haematochezia",
+    "Melaena",
+    "Occult bleed",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Work up of lower GI hemorrhage: frank blood in stools (hematochezia). (Book p201)"
+  },
+  {
+   "id": "SURG-C29-063",
+   "sec": "Work-up of Lower GI Haemorrhage",
+   "page": 201,
+   "q": "The first step in the work-up of lower GI haemorrhage is to:",
+   "opts": [
+    "Rule out local causes - haemorrhoids, fissures and polyps",
+    "Do an urgent laparotomy",
+    "Start a contrast enema",
+    "Do an upper GI endoscopy"
+   ],
+   "ans": 0,
+   "exp": "1. Rule out local causes → hemorrhoids, fissures, polyps. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-064",
+   "sec": "Work-up of Lower GI Haemorrhage",
+   "page": 201,
+   "q": "The second step in the work-up of lower GI haemorrhage is to:",
+   "opts": [
+    "Stabilize the patient with IV fluids and keep nil per oral",
+    "Arrange a colonoscopy",
+    "Give a blood transfusion",
+    "Do a CT angiogram"
+   ],
+   "ans": 0,
+   "exp": "2. Stabilize patient: IV fluids + NPO. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-065",
+   "sec": "Work-up of Lower GI Haemorrhage",
+   "page": 201,
+   "q": "In the work-up of lower GI haemorrhage, an upper GI endoscopy/NG tube is used to:",
+   "opts": [
+    "Detect bleeding from the stomach or duodenum",
+    "Detect colonic bleeding",
+    "Treat the bleeding",
+    "Measure the portal pressure"
+   ],
+   "ans": 0,
+   "exp": "Upper GI endoscopy/NG tube: bleeding in stomach/duodenum → appropriate management. (Book p201)"
+  },
+  {
+   "id": "SURG-C29-066",
+   "sec": "Work-up of Lower GI Haemorrhage",
+   "page": 201,
+   "q": "When upper GI endoscopy is negative in a patient with GI bleeding, the bleeding is termed:",
+   "opts": [
+    "Obscure GI haemorrhage (small intestinal bleed)",
+    "Occult GI haemorrhage",
+    "Overt upper GI bleed",
+    "A spurious bleed"
+   ],
+   "ans": 0,
+   "exp": "Negative → obscure GI hemorrhage (small intestine bleed). (Book p201)"
+  },
+  {
+   "id": "SURG-C29-067",
+   "sec": "Work-up of Lower GI Haemorrhage",
+   "page": 201,
+   "q": "Investigations for obscure (small intestinal) GI haemorrhage include all EXCEPT:",
+   "opts": [
+    "Barium enema",
+    "PillCam capsule endoscopy",
+    "CT angiography",
+    "Technetium-99m pertechnetate scan"
+   ],
+   "ans": 0,
+   "exp": "Obscure GI hemorrhage: PillCam capsule endoscopy; CT angiography; Tc99m pertechnetate scan (most sensitive, up to 0.1 ml/min). (Book p201)"
+  },
+  {
+   "id": "SURG-C29-068",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Inflammatory bowel disease is:",
+   "opts": [
+    "An autoimmune condition",
+    "An infectious condition",
+    "A neoplastic condition",
+    "A degenerative condition"
+   ],
+   "ans": 0,
+   "exp": "Inflammatory bowel disease: autoimmune conditions. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-069",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The age distribution of Crohn's disease shows:",
+   "opts": [
+    "A first peak at 20-40 years and a second peak at around 70 years",
+    "A single peak at 25-40 years",
+    "A peak in the first decade",
+    "No age predilection"
+   ],
+   "ans": 0,
+   "exp": "Crohn's - age: 1st peak 20-40 yrs, 2nd peak 70 yrs. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-070",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The age group typically affected by ulcerative colitis is:",
+   "opts": [
+    "25-40 years",
+    "1-10 years",
+    "60-80 years",
+    "All ages equally"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis: 25-40 yrs. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-071",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "In Crohn's disease the gender distribution is:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Equal",
+    "Only males"
+   ],
+   "ans": 0,
+   "exp": "Crohn's disease: F > M. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-072",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Risk factors for Crohn's disease include all EXCEPT:",
+   "opts": [
+    "Smoking cessation",
+    "Smoking",
+    "A refined diet",
+    "NOD2/CARD15"
+   ],
+   "ans": 0,
+   "exp": "Risk factors (Crohn's): smoking; refined diet; NOD2/CARD15. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-073",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "In ulcerative colitis, smoking is:",
+   "opts": [
+    "Protective",
+    "A strong risk factor",
+    "Irrelevant",
+    "A cause of relapse"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis: smoking is protective. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-074",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The bowel involvement in Crohn's disease is:",
+   "opts": [
+    "Any portion of the bowel with skip lesions",
+    "Continuous from the rectum upwards",
+    "Limited to the colon",
+    "Limited to the rectum"
+   ],
+   "ans": 0,
+   "exp": "Crohn's: any portion of bowel; skip lesions (+). (Book p202)"
+  },
+  {
+   "id": "SURG-C29-075",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The spread in ulcerative colitis is:",
+   "opts": [
+    "Continuous, with no skip lesions",
+    "Patchy with skip lesions",
+    "Limited to the terminal ileum",
+    "Segmental"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis: continuous spread; skip lesions (-). (Book p202)"
+  },
+  {
+   "id": "SURG-C29-076",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The m/c presentation of ulcerative colitis is:",
+   "opts": [
+    "Proctitis",
+    "Pancolitis",
+    "Backwash ileitis",
+    "Ileitis"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis: m/c - proctitis; also pancolitis and backwash ileitis. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-077",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Backwash ileitis is a feature of:",
+   "opts": [
+    "Ulcerative colitis",
+    "Crohn's disease",
+    "Intestinal tuberculosis",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Backwash ileitis: ulcerative colitis. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-078",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Anal involvement with sinuses and abscesses is common in:",
+   "opts": [
+    "Crohn's disease",
+    "Ulcerative colitis",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Crohn's: anal involvement - common (sinuses/abscesses); UC: anal sparing (+). (Book p202)"
+  },
+  {
+   "id": "SURG-C29-079",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The rectum is relatively spared in:",
+   "opts": [
+    "Crohn's disease",
+    "Ulcerative colitis",
+    "Both",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Crohn's: relative rectal sparing; UC: rectum commonly involved. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-080",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The inflammation of ulcerative colitis involves the:",
+   "opts": [
+    "Mucosa and submucosa",
+    "Full thickness of the bowel wall",
+    "Muscularis only",
+    "Serosa only"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis: mucosa + submucosal inflammation. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-081",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Healing of the inflamed mucosa/submucosa in Crohn's disease leads to:",
+   "opts": [
+    "Stricture formation",
+    "Pseudopolyps",
+    "Backwash ileitis",
+    "Toxic megacolon"
+   ],
+   "ans": 0,
+   "exp": "Crohn's: healing of mucosa/submucosa → leads to stricture formation. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-082",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Fistulae such as colovesical and colovaginal fistulae occur in:",
+   "opts": [
+    "Crohn's disease",
+    "Ulcerative colitis",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Crohn's: → colovesical, → colovaginal fistulae. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-083",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Creeping fat and a cobblestone appearance are features of:",
+   "opts": [
+    "Crohn's disease",
+    "Ulcerative colitis",
+    "Intestinal tuberculosis",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Additional features (Crohn's): creeping fat; cobble stone appearance. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-084",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Non-caseating granulomas on microscopy are seen in:",
+   "opts": [
+    "Crohn's disease",
+    "Ulcerative colitis",
+    "Intestinal tuberculosis",
+    "Sarcoidosis of the colon"
+   ],
+   "ans": 0,
+   "exp": "Microscopy (Crohn's): non caseating granulomas. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-085",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Pseudopolyps and crypt abscesses are features of:",
+   "opts": [
+    "Ulcerative colitis",
+    "Crohn's disease",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis: pseudopolyps; crypt abscess (+). (Book p202)"
+  },
+  {
+   "id": "SURG-C29-086",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "The risk of toxic megacolon is higher in:",
+   "opts": [
+    "Ulcerative colitis",
+    "Crohn's disease",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative colitis: ↑ risk of toxic megacolon. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-087",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "page": 202,
+   "q": "Toxic megacolon is defined as a large bowel diameter of:",
+   "opts": [
+    ">6 cm",
+    ">3 cm",
+    ">10 cm",
+    ">15 cm"
+   ],
+   "ans": 0,
+   "exp": "Toxic megacolon: large bowel diameter > 6 cm. (Book p202)"
+  },
+  {
+   "id": "SURG-C29-088",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 202,
+   "q": "Clinical features of inflammatory bowel disease include:",
+   "opts": [
+    "Pain, fever, a raised TLC and a risk of perforation",
+    "Jaundice and pruritus",
+    "Haematuria",
+    "Chest pain"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain, fever, ↑ TLC; risk of perforation (+). (Book p202)"
+  },
+  {
+   "id": "SURG-C29-089",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "Crohn's disease of the terminal ileum may clinically mimic:",
+   "opts": [
+    "Acute appendicitis",
+    "Acute cholecystitis",
+    "Acute pancreatitis",
+    "Diverticulitis"
+   ],
+   "ans": 0,
+   "exp": "Crohn's: mimics acute appendicitis. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-090",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "The presenting feature of ulcerative colitis is:",
+   "opts": [
+    "Bloody diarrhoea",
+    "Non-bilious vomiting",
+    "Constipation",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "UC: bloody diarrhoea. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-091",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "The string sign of Kantor is seen in:",
+   "opts": [
+    "Both Crohn's disease and bowel tuberculosis",
+    "Only ulcerative colitis",
+    "Only diverticulitis",
+    "Only coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Radiological signs: string sign of Kantor (also seen in bowel TB). (Book p203)"
+  },
+  {
+   "id": "SURG-C29-092",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "Aphthous ulcers producing a target sign are seen in:",
+   "opts": [
+    "Crohn's disease",
+    "Ulcerative colitis",
+    "Diverticulitis",
+    "Ischaemic colitis"
+   ],
+   "ans": 0,
+   "exp": "Aphthous ulcers: target sign. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-093",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "According to the modified Montreal classification, mild disease means:",
+   "opts": [
+    "<4 stools/day",
+    ">4 stools/day with systemic signs",
+    ">6 stools/day",
+    ">10 stools/day"
+   ],
+   "ans": 0,
+   "exp": "Severity: 1. mild - <4 stools/day. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-094",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "Moderate disease in the modified Montreal classification means:",
+   "opts": [
+    "≥4 stools/day with no systemic signs",
+    "<4 stools/day",
+    ">6 stools/day with systemic signs",
+    ">10 stools/day"
+   ],
+   "ans": 0,
+   "exp": "2. moderate: ≥4 stools/day, no systemic signs. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-095",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "Severe disease in the modified Montreal classification means:",
+   "opts": [
+    ">6 stools/day with systemic signs",
+    "<4 stools/day",
+    ">10 stools/day with toxic megacolon",
+    "≥4 stools/day without systemic signs"
+   ],
+   "ans": 0,
+   "exp": "3. severe: >6 stools/day with systemic signs. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-096",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "Fulminant disease in the modified Montreal classification means:",
+   "opts": [
+    ">10 stools/day with toxic megacolon",
+    ">6 stools/day",
+    "<4 stools/day",
+    "≥4 stools/day"
+   ],
+   "ans": 0,
+   "exp": "4. fulminant: >10 stools with toxic megacolon. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-097",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD",
+   "page": 203,
+   "q": "The initial management of a severe attack/toxic megacolon includes:",
+   "opts": [
+    "IV fluids and IV antibiotics",
+    "Oral steroids alone",
+    "Immediate colectomy",
+    "Antidiarrhoeals"
+   ],
+   "ans": 0,
+   "exp": "Management: IV fluids; IV antibiotics. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-098",
+   "sec": "Management of Crohn's Disease",
+   "page": 203,
+   "q": "Medical management of Crohn's disease includes all EXCEPT:",
+   "opts": [
+    "Vitamin C supplements",
+    "Steroids",
+    "5-ASA derivatives (sulfasalazine)",
+    "Monoclonal antibodies"
+   ],
+   "ans": 0,
+   "exp": "Medical management: steroids; 5 ASA derivatives (sulfasalazine); infliximab; vedolizumab. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-099",
+   "sec": "Management of Crohn's Disease",
+   "page": 203,
+   "q": "The drug used for perianal Crohn's disease is:",
+   "opts": [
+    "Infliximab",
+    "Sulfasalazine",
+    "Cholestyramine",
+    "Teduglutide"
+   ],
+   "ans": 0,
+   "exp": "Infliximab: perianal disease. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-100",
+   "sec": "Management of Crohn's Disease",
+   "page": 203,
+   "q": "Vedolizumab used in inflammatory bowel disease is a:",
+   "opts": [
+    "Monoclonal antibody",
+    "5-ASA derivative",
+    "GLP-2 analogue",
+    "TNF alpha converting enzyme"
+   ],
+   "ans": 0,
+   "exp": "Vedolizumab: monoclonal antibodies. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-101",
+   "sec": "Management of Crohn's Disease",
+   "page": 203,
+   "q": "Regarding surgery for Crohn's disease:",
+   "opts": [
+    "There is no definitive surgery",
+    "Total proctocolectomy is curative",
+    "Segmental resection is curative",
+    "Colectomy is always required"
+   ],
+   "ans": 0,
+   "exp": "Surgical management of Crohn's: no definitive surgery. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-102",
+   "sec": "Management of Crohn's Disease",
+   "page": 203,
+   "q": "Perianal disease in Crohn's is managed with:",
+   "opts": [
+    "Setons",
+    "Immediate proctectomy",
+    "Fistulectomy in all cases",
+    "Topical antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "Perianal disease: setons. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-103",
+   "sec": "Management of Crohn's Disease",
+   "page": 203,
+   "q": "Indications for surgery in Crohn's disease include all EXCEPT:",
+   "opts": [
+    "Asymptomatic gallstones",
+    "Steroid side effects",
+    "Not responding to medical treatment",
+    "Complications and extraintestinal manifestations"
+   ],
+   "ans": 0,
+   "exp": "Indications for surgery: steroid side effects; not responding to medicine; complications; extraintestinal manifestations. (Book p203)"
+  },
+  {
+   "id": "SURG-C29-104",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "Medical management of ulcerative colitis includes:",
+   "opts": [
+    "Steroids, 5-ASA derivatives and monoclonal antibodies",
+    "Steroids and antibiotics only",
+    " Immunosuppression alone",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "Medical management (UC): steroids; 5 ASA derivative (sulfasalazine); monoclonal antibodies. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-105",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "Indications for surgery in ulcerative colitis include all EXCEPT:",
+   "opts": [
+    "Incidental diverticulosis",
+    "Steroid side effects",
+    "Complications - toxic megacolon, obstruction, cancer",
+    "Not responding to medical treatment"
+   ],
+   "ans": 0,
+   "exp": "Indications: steroid side effects; complications (toxic megacolon/obstruction/cancer); not responding to medicine; extra intestinal manifestations. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-106",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "The surgery performed for ulcerative colitis creates a:",
+   "opts": [
+    "\"J\" shaped pouch (ileal pouch-anal anastomosis)",
+    "Straight ileoanal anastomosis",
+    "Permanent ileostomy in all cases",
+    "Kock's continent ileostomy only"
+   ],
+   "ans": 0,
+   "exp": "Surgery: \"J\" shaped pouch. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-107",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "The m/c complication after an ileal pouch is:",
+   "opts": [
+    "Pouchitis",
+    "Dehydration",
+    "Bleeding",
+    "Small bowel obstruction"
+   ],
+   "ans": 0,
+   "exp": "Complications: m/c - pouchitis. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-108",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "The m/c cause of death in patients with an ileal pouch is:",
+   "opts": [
+    "Adhesive obstruction",
+    "Pouchitis",
+    "Pouch failure",
+    "Malignancy"
+   ],
+   "ans": 0,
+   "exp": "m/c cause of death: adhesive obstruction. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-109",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "Dermatological extraintestinal manifestations of IBD include:",
+   "opts": [
+    "Erythema nodosum, pyoderma gangrenosum and oral ulcers",
+    "Vitiligo and alopecia",
+    "Psoriasis alone",
+    "Eczema"
+   ],
+   "ans": 0,
+   "exp": "Dermatologic: erythema nodosum, pyoderma gangrenosum, oral ulcers (eg aphthous stomatitis). (Book p204)"
+  },
+  {
+   "id": "SURG-C29-110",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "The hepatobiliary extraintestinal manifestation of IBD is:",
+   "opts": [
+    "Primary sclerosing cholangitis",
+    "Primary biliary cirrhosis",
+    "Gallbladder carcinoma",
+    "Portal vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Hepatobiliary: primary sclerosing cholangitis (PSC), fatty liver, autoimmune liver disease, cholelithiasis. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-111",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "Ophthalmological extraintestinal manifestations of IBD include:",
+   "opts": [
+    "Episcleritis, scleritis, uveitis, iritis and conjunctivitis",
+    "Cataract and glaucoma",
+    "Retinal detachment",
+    "Optic neuritis"
+   ],
+   "ans": 0,
+   "exp": "Ophthalmologic: episcleritis, scleritis, uveitis, iritis, conjunctivitis. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-112",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "The renal manifestation associated with Crohn's disease is:",
+   "opts": [
+    "Calcium oxalate nephrolithiasis",
+    "Urate nephropathy",
+    "Amyloidosis of the kidney",
+    "Renal cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Renal: calcium oxalate nephrolithiasis (Crohn's disease). (Book p204)"
+  },
+  {
+   "id": "SURG-C29-113",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "Musculoskeletal associations of IBD include:",
+   "opts": [
+    "Ankylosing spondylitis",
+    "Osteoarthritis of the hip",
+    "Rheumatoid arthritis",
+    "Gout"
+   ],
+   "ans": 0,
+   "exp": "Musculoskeletal: note - ankylosing spondylitis (along with PSC). (Book p204)"
+  },
+  {
+   "id": "SURG-C29-114",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "page": 204,
+   "q": "Haematological manifestations of IBD include:",
+   "opts": [
+    "Anaemia of chronic disease and iron deficiency anaemia",
+    "Polycythaemia",
+    "Haemophilia",
+    "Thrombocytosis only"
+   ],
+   "ans": 0,
+   "exp": "Hematologic: anemia of chronic disease, iron-deficiency anemia. (Book p204)"
+  },
+  {
+   "id": "SURG-C29-115",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "Abdominal tuberculosis may involve the:",
+   "opts": [
+    "Bowel, omentum and other abdominal organs",
+    "Only the terminal ileum",
+    "Only the peritoneum",
+    "Only the liver"
+   ],
+   "ans": 0,
+   "exp": "Abdominal TB: bowel, omentum, organs. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-116",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "Caking of the omentum in abdominal tuberculosis:",
+   "opts": [
+    "Produces a mass mimicking cancer, diagnosed by biopsy and treated with ATT",
+    "Is a clinical emergency",
+    "Requires immediate laparotomy",
+    "Is treated with steroids"
+   ],
+   "ans": 0,
+   "exp": "Caking of omentum → mass mimicking cancer → diagnosed by biopsy → ATT. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-117",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "Tuberculous pyoperitoneum presents with peritonitis and is treated by:",
+   "opts": [
+    "Emergency laparotomy plus ATT",
+    "ATT alone",
+    "Steroids alone",
+    "Repeated aspiration"
+   ],
+   "ans": 0,
+   "exp": "Pyoperitoneum: clinical emergency - presents with peritonitis → emergency laparotomy + ATT. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-118",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "The immune response in ulcerative bowel TB is __________ and in hyperplastic bowel TB it is __________.",
+   "opts": [
+    "Weak; strong",
+    "Strong; weak",
+    "Absent; absent",
+    "Moderate; strong"
+   ],
+   "ans": 0,
+   "exp": "Types: ulcerative - weak immune response; hyperplastic - strong immune response. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-119",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "The m/c site of ulcerative bowel TB is the:",
+   "opts": [
+    "Terminal ileum",
+    "Caecum",
+    "Jejunum",
+    "Rectum"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative bowel TB - site: terminal ileum (m/c). (Book p205)"
+  },
+  {
+   "id": "SURG-C29-120",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "Hyperplastic bowel TB involves the:",
+   "opts": [
+    "Terminal ileum and ileocaecal junction",
+    "Jejunum only",
+    "Sigmoid colon",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Hyperplastic bowel TB - site: terminal ileum, ileocaecal junction (IC). (Book p205)"
+  },
+  {
+   "id": "SURG-C29-121",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "A tuberculous ulcer of the bowel is:",
+   "opts": [
+    "Transverse and heals with a stricture",
+    "Longitudinal and perforates",
+    "Longitudinal and heals with a stricture",
+    "Transverse and perforates"
+   ],
+   "ans": 0,
+   "exp": "Tubercular ulcer: transverse ulcer; heals with stricture. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-122",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "A typhoid ulcer of the bowel is:",
+   "opts": [
+    "Longitudinal and perforates in the 2nd/3rd week",
+    "Transverse and heals with a stricture",
+    "Transverse and perforates",
+    "Longitudinal and heals with a stricture"
+   ],
+   "ans": 0,
+   "exp": "Typhoid ulcer: longitudinal ulcer; perforates in 2nd/3rd week. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-123",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "The diagnosis of typhoid perforation is supported by an X-ray showing:",
+   "opts": [
+    "Gas under the diaphragm",
+    "A soap-bubble appearance",
+    "A double bubble",
+    "Multiple air-fluid levels"
+   ],
+   "ans": 0,
+   "exp": "Typhoid: X-ray - gas under diaphragm. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-124",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "The management of typhoid perforation is:",
+   "opts": [
+    "Emergency laparotomy with resection and anastomosis",
+    "Conservative management with antibiotics",
+    "Stricturoplasty",
+    "Right hemicolectomy"
+   ],
+   "ans": 0,
+   "exp": "Typhoid: emergency laparotomy; resection anastomosis. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-125",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "Strictures of the bowel due to tuberculosis that lie close together are treated by:",
+   "opts": [
+    "Resection and anastomosis",
+    "Stricturoplasty",
+    "Bypass alone",
+    "Dilatation"
+   ],
+   "ans": 0,
+   "exp": "Ulcerative bowel TB: resection & anastomosis (close strictures)/stricturoplasty (far strictures). (Book p205)"
+  },
+  {
+   "id": "SURG-C29-126",
+   "sec": "Bowel Tuberculosis",
+   "page": 205,
+   "q": "Tubercular strictures that are far apart are treated by:",
+   "opts": [
+    "Stricturoplasty",
+    "Resection and anastomosis",
+    "Right hemicolectomy",
+    "Dilatation alone"
+   ],
+   "ans": 0,
+   "exp": "Stricturoplasty for far strictures. (Book p205)"
+  },
+  {
+   "id": "SURG-C29-127",
+   "sec": "Hyperplastic Bowel Tuberculosis",
+   "page": 206,
+   "q": "Clinical features of hyperplastic bowel TB include:",
+   "opts": [
+    "Pain and a mass in the right iliac fossa with weight loss",
+    "Bilious vomiting",
+    "Haematemesis",
+    "Left iliac fossa mass"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain, mass in RIF; weight loss. (Book p206)"
+  },
+  {
+   "id": "SURG-C29-128",
+   "sec": "Hyperplastic Bowel Tuberculosis",
+   "page": 206,
+   "q": "The main differential diagnosis of hyperplastic bowel TB is:",
+   "opts": [
+    "Cancer (caecal carcinoma)",
+    "Crohn's disease",
+    "Amoeboma",
+    "Appendicular abscess"
+   ],
+   "ans": 0,
+   "exp": "D/o: cancer. (Book p206)"
+  },
+  {
+   "id": "SURG-C29-129",
+   "sec": "Hyperplastic Bowel Tuberculosis",
+   "page": 206,
+   "q": "The diagnosis of hyperplastic bowel TB is established by:",
+   "opts": [
+    "Colonoscopic biopsy",
+    "Sputum AFB",
+    "Mantoux test alone",
+    "CECT alone"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: colonoscopic biopsy. (Book p206)"
+  },
+  {
+   "id": "SURG-C29-130",
+   "sec": "Hyperplastic Bowel Tuberculosis",
+   "page": 206,
+   "q": "Hyperplastic bowel TB that persists as a mass or causes obstruction is treated by:",
+   "opts": [
+    "Right hemicolectomy",
+    "Stricturoplasty",
+    "ATT alone",
+    "Total colectomy"
+   ],
+   "ans": 0,
+   "exp": "Management: mass persists/obstruction → right hemicolectomy. (Book p206)"
+  },
+  {
+   "id": "SURG-C29-131",
+   "sec": "Hyperplastic Bowel Tuberculosis",
+   "page": 206,
+   "q": "The goose neck/swan neck deformity on a barium meal follow through is seen in:",
+   "opts": [
+    "Bowel tuberculosis",
+    "Crohn's disease only",
+    "Ulcerative colitis",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Barium meal follow through: goose neck/swan neck deformity (bowel TB). (Book p206)"
+  },
+  {
+   "id": "SURG-C29-132",
+   "sec": "Hyperplastic Bowel Tuberculosis",
+   "page": 206,
+   "q": "The radiological signs of hyperplastic bowel TB include all EXCEPT:",
+   "opts": [
+    "A double bubble sign",
+    "A pulled up ileocaecal junction",
+    "The string sign of Kantor",
+    "A stricture"
+   ],
+   "ans": 0,
+   "exp": "Signs: goose neck/swan neck deformity; string sign of Kantor; ↑ pulled up ICJ; stricture. (Book p206)"
+  },
+  {
+   "id": "SURG-C29-133",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 206,
+   "q": "Clinical features of a faecal fistula include all EXCEPT:",
+   "opts": [
+    "Weight gain",
+    "Faecal matter discharging from the main wound",
+    "Skin excoriation",
+    "Malnutrition and pain"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: faecal matter discharging from main wound; skin excoriations (+); malnourished patient; excruciating pain. (Book p206)"
+  },
+  {
+   "id": "SURG-C29-134",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "A high output fistula is defined as an output of:",
+   "opts": [
+    ">500 cc/day",
+    "<200 cc/day",
+    ">1000 cc/day",
+    ">100 cc/day"
+   ],
+   "ans": 0,
+   "exp": "High output: >500 cc/day. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-135",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "A low output fistula is defined as an output of:",
+   "opts": [
+    "<200 cc/day",
+    ">500 cc/day",
+    "<50 cc/day",
+    ">200 cc/day"
+   ],
+   "ans": 0,
+   "exp": "Low output: <200 cc/day. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-136",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "Which fistula is most likely to close spontaneously?",
+   "opts": [
+    "One with an enteric wall defect <1 cm",
+    "One with an enteric wall defect >1 cm",
+    "One with an open abdomen",
+    "One with a FRIEND factor"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous closure: enteric wall defects <1 cm. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-137",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "A fistula with a tract longer than 2 cm:",
+   "opts": [
+    "Is more likely to close spontaneously",
+    "Will not close spontaneously",
+    "Always needs surgery",
+    "Is always malignant"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous closure: fistula tract >2 cm. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-138",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "An albumin level of __________ favours spontaneous closure of a fistula.",
+   "opts": [
+    ">25 g/L",
+    "<25 g/L",
+    ">50 g/L",
+    "<10 g/L"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous closure: albumin >25 g/L. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-139",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "An output of __________ favours spontaneous closure of a fistula.",
+   "opts": [
+    "<200 ml/day",
+    ">200 ml/day",
+    ">500 ml/day",
+    ">1000 ml/day"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous closure: output <200 ml/day. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-140",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "Fistulae arising from the __________ are less likely to close spontaneously.",
+   "opts": [
+    "Stomach, ligament of Treitz or ileum",
+    "Oesophagus",
+    "Duodenal stump",
+    "Jejunum"
+   ],
+   "ans": 0,
+   "exp": "No spontaneous closure: gastric, ligament of Treitz, ileal fistulae. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-141",
+   "sec": "Faecal Fistula: Types and Chance of Closure",
+   "page": 207,
+   "q": "FRIEND factors in a fistula are associated with:",
+   "opts": [
+    "Failure of spontaneous closure",
+    "Spontaneous closure",
+    "A better prognosis",
+    "A low output fistula"
+   ],
+   "ans": 0,
+   "exp": "FRIEND factor (+) → no spontaneous closure. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-142",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "FRIEND stands for all of the following EXCEPT:",
+   "opts": [
+    "Vitamin deficiency",
+    "Foreign body",
+    "Radiation",
+    "Epithelialization of the tract"
+   ],
+   "ans": 0,
+   "exp": "FRIEND: foreign body, radiation, inflammation/IBD, infection, epithelialization of fistula tract, neoplasms, distal obstruction. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-143",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "The SNAP principle in the management of a faecal fistula includes:",
+   "opts": [
+    "Skin excoriation control and sepsis control",
+    "Immediate definitive surgery",
+    "Bowel rest alone",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "SNAP: skin excoriation control, sepsis control; nutritional build up (TPN); anatomical delineation; planned surgery. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-144",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "Nutritional build up in a patient with a faecal fistula is achieved with:",
+   "opts": [
+    "TPN",
+    "Oral feeds alone",
+    "Nasogastric feeds",
+    "Enteral supplements only"
+   ],
+   "ans": 0,
+   "exp": "Nutritional build up: TPN. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-145",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "The 'A' in the SNAP principle of fistula management stands for:",
+   "opts": [
+    "Anatomical delineation",
+    "Antibiotics",
+    "Analgesia",
+    "Anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Anatomical delineation. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-146",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "The 'P' in the SNAP principle of fistula management stands for:",
+   "opts": [
+    "Planned surgery",
+    "Parenteral nutrition",
+    "Peritoneal lavage",
+    "Prokinetics"
+   ],
+   "ans": 0,
+   "exp": "Planned surgery. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-147",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "In the prognostic grouping of faecal fistulae, a group I (simple) fistula has:",
+   "opts": [
+    "An exceptional (very low) mortality and is expected to close spontaneously",
+    "A mortality of 10-25%",
+    "A mortality above 25%",
+    "No chance of closure"
+   ],
+   "ans": 0,
+   "exp": "Prognostic group I: spontaneous closure; exceptional mortality. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-148",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "A group II (intermediate complexity) fistula is managed by __________ and has a mortality of __________.",
+   "opts": [
+    "Early surgical closure; 10-25%",
+    "Spontaneous closure; <5%",
+    "Late surgical closure; >25%",
+    "Conservative management; 50%"
+   ],
+   "ans": 0,
+   "exp": "Prognostic group II: early surgical closure; mortality 10-25%. (Book p207)"
+  },
+  {
+   "id": "SURG-C29-149",
+   "sec": "Management and Prognosis of Faecal Fistula",
+   "page": 207,
+   "q": "A group III (high complexity) fistula is managed by __________ and has a mortality of __________.",
+   "opts": [
+    "Late surgical closure; >25%",
+    "Early surgical closure; 10-25%",
+    "Spontaneous closure; <5%",
+    "Conservative management alone; 100%"
+   ],
+   "ans": 0,
+   "exp": "Prognostic group III: late surgical closure; mortality >25%. (Book p207)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U29-1",
+   "ch": 29,
+   "n": 1,
+   "title": "Stomas: Ileostomy v/s Colostomy",
+   "sec": "Stomas: Ileostomy v/s Colostomy · p197",
+   "qs": [
+    "SURG-C29-001",
+    "SURG-C29-002",
+    "SURG-C29-003",
+    "SURG-C29-004",
+    "SURG-C29-005",
+    "SURG-C29-006",
+    "SURG-C29-007",
+    "SURG-C29-008",
+    "SURG-C29-009",
+    "SURG-C29-010"
+   ],
+   "guide": "An ileostomy pours out liquid effluent, so it excoriates the skin and deranges fluids and electrolytes far more than a colostomy does - but it is matured as a spout, everted and sutured above the skin level. A colostomy is semisolid, easier to live with, and sits flush with the skin. Site both away from bony landmarks along the outer border of the rectus: ileostomy in either iliac fossa, sigmoid colostomy in the left iliac fossa and a transverse colostomy in the epigastrium."
+  },
+  {
+   "id": "SURG-U29-2",
+   "ch": 29,
+   "n": 2,
+   "title": "Types of Stomas",
+   "sec": "Types of Stomas · p197",
+   "qs": [
+    "SURG-C29-011",
+    "SURG-C29-012",
+    "SURG-C29-013",
+    "SURG-C29-014",
+    "SURG-C29-015"
+   ],
+   "guide": "Three shapes to recognise: an end (single barrel) stoma brings out one opening raised above the skin; a double barrel brings out the proximal and distal ends separately, two openings that do not touch; and a loop stoma brings out a loop so the two openings sit side by side, joined and flush with the skin."
+  },
+  {
+   "id": "SURG-U29-3",
+   "ch": 29,
+   "n": 3,
+   "title": "Temporary and Permanent Stomas, and their Complications",
+   "sec": "Temporary and Permanent Stomas, and their Complications · p198",
+   "qs": [
+    "SURG-C29-016",
+    "SURG-C29-017",
+    "SURG-C29-018",
+    "SURG-C29-019",
+    "SURG-C29-020",
+    "SURG-C29-021",
+    "SURG-C29-022",
+    "SURG-C29-023"
+   ],
+   "guide": "A temporary stoma is built to protect a fresh anastomosis and is closed 8-10 weeks later; a permanent one is usually an end colostomy. Excoriations are the commonest problem, and prolapse and retraction the other mechanical ones, while a parastomal hernia is the commonest late problem of a colostomy - commoner with a loop than an end stoma - and is repaired with mesh."
+  },
+  {
+   "id": "SURG-U29-4",
+   "ch": 29,
+   "n": 4,
+   "title": "Short Bowel Syndrome",
+   "sec": "Short Bowel Syndrome · p198",
+   "qs": [
+    "SURG-C29-024",
+    "SURG-C29-025",
+    "SURG-C29-026",
+    "SURG-C29-027",
+    "SURG-C29-028",
+    "SURG-C29-029",
+    "SURG-C29-030",
+    "SURG-C29-031"
+   ],
+   "guide": "Less than 200 cm of small bowel is short bowel syndrome; under 100 cm the patient is a net secretor and above it a net absorber. Superior mesenteric artery embolism is the commonest cause, followed by Crohn's disease and, in children, malrotation or atresia. The patient malabsorbs, loses weight and has rapid-transit diarrhoea with bacterial overgrowth. Keep the ileum if you can - it adapts - because losing it costs you vitamin B12 and a string of other nutrients."
+  },
+  {
+   "id": "SURG-U29-5",
+   "ch": 29,
+   "n": 5,
+   "title": "Management of Short Bowel Syndrome and Bowel Lengthening",
+   "sec": "Management of Short Bowel Syndrome and Bowel Lengthening · p199",
+   "qs": [
+    "SURG-C29-032",
+    "SURG-C29-033",
+    "SURG-C29-034",
+    "SURG-C29-035",
+    "SURG-C29-036"
+   ],
+   "guide": "Long term parenteral nutrition keeps these patients alive and intestinal transplantation is the definitive option. Teduglutide, a GLP-2 analogue, and cholestyramine help, and when anatomy allows, the bowel can be lengthened: the Bianchi procedure splits it longitudinally with staplers along the mesenteric border and re-anastomoses it end to end to make a zig-zag, while serial transverse enteroplasty simply increases the length."
+  },
+  {
+   "id": "SURG-U29-6",
+   "ch": 29,
+   "n": 6,
+   "title": "Diverticular Disease",
+   "sec": "Diverticular Disease · p199",
+   "qs": [
+    "SURG-C29-037",
+    "SURG-C29-038",
+    "SURG-C29-039",
+    "SURG-C29-040",
+    "SURG-C29-041",
+    "SURG-C29-042"
+   ],
+   "guide": "Colonic diverticula are false - only mucosa herniates - and they cluster in the sigmoid of constipated patients in their fourth and fifth decades. Diverticulosis is many diverticula without inflammation and shows the saw tooth pattern on a barium enema."
+  },
+  {
+   "id": "SURG-U29-7",
+   "ch": 29,
+   "n": 7,
+   "title": "Complications of Diverticular Disease and Hinchey's Staging",
+   "sec": "Complications of Diverticular Disease and Hinchey's Staging · p200",
+   "qs": [
+    "SURG-C29-043",
+    "SURG-C29-044",
+    "SURG-C29-045",
+    "SURG-C29-046",
+    "SURG-C29-047",
+    "SURG-C29-048",
+    "SURG-C29-049",
+    "SURG-C29-050",
+    "SURG-C29-051",
+    "SURG-C29-052",
+    "SURG-C29-053",
+    "SURG-C29-054"
+   ],
+   "guide": "Bleeding is usually from the right side, found on CT angiography and treated by embolization with resection as the definitive step. Diverticulitis gives left-sided pain, diarrhoea and fever with a raised count, and CECT is the investigation of choice. Grade it with Hinchey: pericolic abscess is stage I, pelvic abscess stage II, faecal peritonitis stage IV. Stages I and II settle with antibiotics, analgesia and pigtail drainage; stages III and IV go to theatre for a Hartmann's. Long standing disease also predisposes to colorectal cancer."
+  },
+  {
+   "id": "SURG-U29-8",
+   "ch": 29,
+   "n": 8,
+   "title": "Angiodysplasia",
+   "sec": "Angiodysplasia · p201",
+   "qs": [
+    "SURG-C29-055",
+    "SURG-C29-056",
+    "SURG-C29-057",
+    "SURG-C29-058",
+    "SURG-C29-059",
+    "SURG-C29-060",
+    "SURG-C29-061"
+   ],
+   "guide": "Angiodysplasia belongs to the elderly - seventh decade - sits on the right side and above all in the caecum, and is the second commonest cause of massive lower GI bleeding. It is linked with von Willebrand factor, found on colonoscopy or capsule endoscopy, and treated by endoscopic ligation of the vessels."
+  },
+  {
+   "id": "SURG-U29-9",
+   "ch": 29,
+   "n": 9,
+   "title": "Work-up of Lower GI Haemorrhage",
+   "sec": "Work-up of Lower GI Haemorrhage · p201",
+   "qs": [
+    "SURG-C29-062",
+    "SURG-C29-063",
+    "SURG-C29-064",
+    "SURG-C29-065",
+    "SURG-C29-066",
+    "SURG-C29-067"
+   ],
+   "guide": "Work up haematochezia in order: exclude the local causes - piles, fissures, polyps - then resuscitate with fluids and keep the patient nil by mouth, then look proximally with an endoscope or NG tube, because blood from the stomach or duodenum changes everything. If that is negative you have an obscure, small intestinal bleed and the tools are capsule endoscopy, CT angiography and the technetium pertechnetate scan, sensitive to 0.1 ml/min."
+  },
+  {
+   "id": "SURG-U29-10",
+   "ch": 29,
+   "n": 10,
+   "title": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis",
+   "sec": "Inflammatory Bowel Disease: Crohn's v/s Ulcerative Colitis · p202",
+   "qs": [
+    "SURG-C29-068",
+    "SURG-C29-069",
+    "SURG-C29-070",
+    "SURG-C29-071",
+    "SURG-C29-072",
+    "SURG-C29-073",
+    "SURG-C29-074",
+    "SURG-C29-075",
+    "SURG-C29-076",
+    "SURG-C29-077",
+    "SURG-C29-078",
+    "SURG-C29-079",
+    "SURG-C29-080",
+    "SURG-C29-081",
+    "SURG-C29-082",
+    "SURG-C29-083",
+    "SURG-C29-084",
+    "SURG-C29-085",
+    "SURG-C29-086",
+    "SURG-C29-087"
+   ],
+   "guide": "Two autoimmune diseases, one table. Crohn's peaks at 20-40 and again at 70, is commoner in women, follows smoking, refined diets and NOD2/CARD15, involves any part of the gut with skip lesions and relative rectal sparing, fistulates into bladder and vagina, heals by stricturing, and shows creeping fat, cobblestoning and non-caseating granulomas. Ulcerative colitis presents at 25-40, is protected by smoking, spreads continuously from the rectum with proctitis, pancolitis and backwash ileitis, keeps the anus, is confined to mucosa and submucosa with pseudopolyps and crypt abscesses, and carries the higher risk of toxic megacolon - a colon wider than 6 cm."
+  },
+  {
+   "id": "SURG-U29-11",
+   "ch": 29,
+   "n": 11,
+   "title": "Clinical Features, Radiological Signs and Severity of IBD",
+   "sec": "Clinical Features, Radiological Signs and Severity of IBD · p202",
+   "qs": [
+    "SURG-C29-088",
+    "SURG-C29-089",
+    "SURG-C29-090",
+    "SURG-C29-091",
+    "SURG-C29-092",
+    "SURG-C29-093",
+    "SURG-C29-094",
+    "SURG-C29-095",
+    "SURG-C29-096",
+    "SURG-C29-097"
+   ],
+   "guide": "Both cause pain, fever, a raised count and a risk of perforation; terminal ileal Crohn's apes appendicitis while ulcerative colitis declares itself with bloody diarrhoea. The string sign of Kantor is shared with intestinal tuberculosis, and aphthous ulcers give the target sign. Severity is counted in stools: fewer than four a day is mild, four or more without systemic signs moderate, more than six with systemic signs severe, and more than ten with toxic megacolon fulminant. The acute attack is treated with IV fluids and IV antibiotics."
+  },
+  {
+   "id": "SURG-U29-12",
+   "ch": 29,
+   "n": 12,
+   "title": "Management of Crohn's Disease",
+   "sec": "Management of Crohn's Disease · p203",
+   "qs": [
+    "SURG-C29-098",
+    "SURG-C29-099",
+    "SURG-C29-100",
+    "SURG-C29-101",
+    "SURG-C29-102",
+    "SURG-C29-103"
+   ],
+   "guide": "Crohn's is controlled with steroids, 5-ASA drugs such as sulfasalazine, infliximab for perianal disease and monoclonal antibodies like vedolizumab. There is no definitive operation - you operate for steroid side effects, failure of medical treatment, complications or extraintestinal disease - and perianal sepsis is managed with setons."
+  },
+  {
+   "id": "SURG-U29-13",
+   "ch": 29,
+   "n": 13,
+   "title": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations",
+   "sec": "Ulcerative Colitis: Management, Surgery and Extraintestinal Manifestations · p204",
+   "qs": [
+    "SURG-C29-104",
+    "SURG-C29-105",
+    "SURG-C29-106",
+    "SURG-C29-107",
+    "SURG-C29-108",
+    "SURG-C29-109",
+    "SURG-C29-110",
+    "SURG-C29-111",
+    "SURG-C29-112",
+    "SURG-C29-113",
+    "SURG-C29-114"
+   ],
+   "guide": "Ulcerative colitis uses the same medical ladder - steroids, 5-ASA and monoclonals - and surgery is indicated for the same reasons plus the complications of toxic megacolon, obstruction and cancer. The operation creates a J pouch; pouchitis is its commonest problem and adhesive obstruction its commonest cause of death. Look beyond the bowel too: erythema nodosum, pyoderma gangrenosum and mouth ulcers; primary sclerosing cholangitis; episcleritis and uveitis; anaemia of chronic disease; calcium oxalate stones in Crohn's; and remember ankylosing spondylitis alongside PSC."
+  },
+  {
+   "id": "SURG-U29-14",
+   "ch": 29,
+   "n": 14,
+   "title": "Bowel Tuberculosis",
+   "sec": "Bowel Tuberculosis · p205",
+   "qs": [
+    "SURG-C29-115",
+    "SURG-C29-116",
+    "SURG-C29-117",
+    "SURG-C29-118",
+    "SURG-C29-119",
+    "SURG-C29-120",
+    "SURG-C29-121",
+    "SURG-C29-122",
+    "SURG-C29-123",
+    "SURG-C29-124",
+    "SURG-C29-125",
+    "SURG-C29-126"
+   ],
+   "guide": "Abdominal tuberculosis touches bowel, omentum and organs. A caked omentum mimics a cancer, is diagnosed on biopsy and treated with antituberculous therapy, while tuberculous pyoperitoneum is a surgical emergency needing laparotomy plus ATT. Ulcerative disease is the weak immune response and sits in the terminal ileum; hyperplastic disease is the strong response and sits at the ileocaecal junction. Remember the ulcer geometry - tuberculous ulcers are transverse and heal by stricturing, typhoid ulcers are longitudinal and perforate in the second or third week with gas under the diaphragm. Close strictures are resected and anastomosed, distant ones are dealt with by stricturoplasty."
+  },
+  {
+   "id": "SURG-U29-15",
+   "ch": 29,
+   "n": 15,
+   "title": "Hyperplastic Bowel Tuberculosis",
+   "sec": "Hyperplastic Bowel Tuberculosis · p206",
+   "qs": [
+    "SURG-C29-127",
+    "SURG-C29-128",
+    "SURG-C29-129",
+    "SURG-C29-130",
+    "SURG-C29-131",
+    "SURG-C29-132"
+   ],
+   "guide": "Hyperplastic disease presents with pain, a right iliac fossa mass and weight loss and is mistaken for cancer; colonoscopic biopsy makes the diagnosis and a right hemicolectomy is needed if the mass persists or obstructs. On a barium follow through look for the goose neck or swan neck deformity, the string sign of Kantor, a pulled up ileocaecal junction and strictures."
+  },
+  {
+   "id": "SURG-U29-16",
+   "ch": 29,
+   "n": 16,
+   "title": "Faecal Fistula: Types and Chance of Closure",
+   "sec": "Faecal Fistula: Types and Chance of Closure · p206",
+   "qs": [
+    "SURG-C29-133",
+    "SURG-C29-134",
+    "SURG-C29-135",
+    "SURG-C29-136",
+    "SURG-C29-137",
+    "SURG-C29-138",
+    "SURG-C29-139",
+    "SURG-C29-140",
+    "SURG-C29-141"
+   ],
+   "guide": "A faecal fistula discharges stool from the wound, excoriates the skin and leaves the patient malnourished and in pain. Above 500 cc a day it is a high output fistula; below 200 cc a day it is low. Spontaneous closure is favoured by a defect under 1 cm, a tract longer than 2 cm, a closed abdomen, albumin above 25 g/L, an output under 200 ml a day and the absence of FRIEND factors - and by a jejunal, duodenal stump or oesophageal origin rather than a gastric, ligament of Treitz or ileal one."
+  },
+  {
+   "id": "SURG-U29-17",
+   "ch": 29,
+   "n": 17,
+   "title": "Management and Prognosis of Faecal Fistula",
+   "sec": "Management and Prognosis of Faecal Fistula · p207",
+   "qs": [
+    "SURG-C29-142",
+    "SURG-C29-143",
+    "SURG-C29-144",
+    "SURG-C29-145",
+    "SURG-C29-146",
+    "SURG-C29-147",
+    "SURG-C29-148",
+    "SURG-C29-149"
+   ],
+   "guide": "FRIEND lists everything that keeps a fistula open: foreign body, radiation, inflammation or inflammatory bowel disease, infection, epithelialization of the tract, neoplasms and distal obstruction. Treat by SNAP - control the skin and the sepsis, build the patient up with parenteral nutrition, delineate the anatomy and then operate when planned. Prognosis runs in three groups: simple fistulae close by themselves with exceptional mortality, intermediate ones need early surgery with 10-25% mortality, and complex ones need late surgery with mortality beyond 25%."
+  }
+ ]
+}
