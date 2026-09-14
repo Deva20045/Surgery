@@ -105,7 +105,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 1. Clone the repo, read this PROGRESS.md — it is the single source of truth.
 2. Source PDFs are already in the repo root (no re-upload needed).
 3. Find the NEXT chapter in the Status table, run the pipeline above.
-4. Commit + push data/work/docs after each chapter (NEVER the .html — local-only rule).
+4. Commit + push data/work/docs after each chapter; commit + push `pulse-surgery-complete.html`
+   together at the end of each batch (RULE CHANGED 2026-09-13 — live GitHub Pages sync; see
+   Session rule below).
 
 ## Status — ALL 72 chapters (tracked from day one; "Soon" until merged)
 - [x] ch1 Patient Safety, OT Zones and Surgery Positions — p1-5 — **DONE (79 qs, 12 units)** 2026-09-13
@@ -143,11 +145,11 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch33 Rectum and Anal Canal — p233-244 — **DONE (199 qs, 27 units)** 2026-09-14
 - [x] ch34 Liver : Part 1 — p245-252 — **DONE (125 qs, 14 units)** 2026-09-14
 - [x] ch35 Liver : Part 2 — p253-259 — **DONE (104 qs, 15 units)** 2026-09-14
-- [ ] ch36 Spleen — p260-264 — Soon
-- [ ] ch37 Gall Bladder and Bile Ducts : Part 1 — p265-275 — Soon
-- [ ] ch38 Gall Bladder and Bile Ducts : Part 2 — p276-284 — Soon
-- [ ] ch39 Benign Pancreatic Conditions — p285-296 — Soon
-- [ ] ch40 Pancreatic Tumour — p297-306 — Soon
+- [x] ch36 Spleen — p260-264 — **DONE (91 qs, 10 units)** 2026-09-14
+- [x] ch37 Gall Bladder and Bile Ducts : Part 1 — p265-275 — **DONE (160 qs, 9 units)** 2026-09-14
+- [x] ch38 Gall Bladder and Bile Ducts : Part 2 — p276-284 — **DONE (152 qs, 9 units)** 2026-09-14
+- [x] ch39 Benign Pancreatic Conditions — p285-296 — **DONE (196 qs, 11 units)** 2026-09-14
+- [x] ch40 Pancreatic Tumour — p297-306 — **DONE (168 qs, 10 units)** 2026-09-14
 - [ ] ch41 Testicular Disorders : Part 1 — p307-312 — Soon
 - [ ] ch42 Testicular Disorders : Part 2 — p313-317 — Soon
 - [ ] ch43 Urethral and Penile Disorders — p318-326 — Soon
@@ -197,9 +199,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **35/72 chapters live** · Questions: 3957 · Units: 465
+- Local HTML: **40/72 chapters live** · Questions: 4724 · Units: 514
 - GitHub HTML: **synced at 32/72** (merged to `main` via PR #14 on 2026-09-14)
-- NEXT: ch36 Spleen — p260-264 (v1d p32-36)
+- NEXT: ch41 Testicular Disorders : Part 1 — p307-312 (v2a p10-15) — **new source PDF: `Surgery Vol. 2_part_1.pdf`** (book = pdf + 297)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).
