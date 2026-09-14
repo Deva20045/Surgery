@@ -1,0 +1,3056 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C39-001",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "The most common congenital anomaly of the pancreas is:",
+   "opts": [
+    "Pancreas divisum",
+    "Annular pancreas",
+    "Abernethy malformation",
+    "Pancreatic heterotopia"
+   ],
+   "ans": 0,
+   "exp": "Pancreas divisum: m/c congenital anomaly of pancreas. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-002",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "Pancreas divisum results from:",
+   "opts": [
+    "Failure of fusion of the dorsal and ventral pancreatic buds",
+    "Malrotation of the ventral bud",
+    "Atresia of the dorsal duct",
+    "Duplication of the pancreatic bud"
+   ],
+   "ans": 0,
+   "exp": "Pancreas divisum: failure of fusion of dorsal and ventral pancreatic buds. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-003",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "Pancreas divisum predisposes to pancreatitis because of:",
+   "opts": [
+    "Ineffective drainage",
+    "Excess trypsin",
+    "Duct obstruction by a stone",
+    "Autoimmune inflammation"
+   ],
+   "ans": 0,
+   "exp": "Pancreas divisum: ineffective drainage raises the risk of pancreatitis. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-004",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "The diagnosis of pancreas divisum is made by:",
+   "opts": [
+    "MRCP",
+    "CECT",
+    "USG alone",
+    "ERCP alone"
+   ],
+   "ans": 0,
+   "exp": "Pancreas divisum: diagnosis — magnetic resonance cholangiopancreatography (MRCP). (Book p285)"
+  },
+  {
+   "id": "SURG-C39-005",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "Pancreas divisum is managed by:",
+   "opts": [
+    "ERCP with sphincterotomy",
+    "Distal pancreatectomy",
+    "Observation only",
+    "Total pancreatectomy"
+   ],
+   "ans": 0,
+   "exp": "Pancreas divisum: Mx — ERCP + sphincterotomy. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-006",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "Annular pancreas is caused by:",
+   "opts": [
+    "Malrotation of the ventral pancreatic bud encircling the 2nd part of the duodenum",
+    "Failure of fusion of the dorsal and ventral buds",
+    "Duplication of the duodenum",
+    "A congenital duodenal web"
+   ],
+   "ans": 0,
+   "exp": "Annular pancreas: malrotation of ventral pancreatic bud — encircles the 2nd part of duodenum. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-007",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "Annular pancreas is associated with:",
+   "opts": [
+    "Down's syndrome",
+    "Marfan syndrome",
+    "Turner syndrome",
+    "Neurofibromatosis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: associated with Down's syndrome. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-008",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "In duodenal atresia associated with annular pancreas, the presentation is:",
+   "opts": [
+    "Bilious vomiting",
+    "Non-bilious vomiting only",
+    "Haematemesis",
+    "Chronic constipation"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: also in duodenal atresia — presents with bilious vomiting. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-009",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "Which clinical feature of annular pancreas is listed separately from duodenal atresia?",
+   "opts": [
+    "Non-bilious vomiting",
+    "Bilious vomiting",
+    "Jaundice",
+    "Hematemesis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: non-bilious vomiting (listed for annular pancreas apart from duodenal atresia). (Book p285)"
+  },
+  {
+   "id": "SURG-C39-010",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "The investigation of choice for annular pancreas is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray only",
+    "USG alone",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: IOC — CECT. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-011",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "The X-ray sign of annular pancreas (duodenal obstruction) is:",
+   "opts": [
+    "Double bubble sign",
+    "Triple bubble sign",
+    "Scaphoid abdomen",
+    "Air fluid level in the stomach only"
+   ],
+   "ans": 0,
+   "exp": "Investigation: X-ray — double bubble sign. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-012",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "The management of annular pancreas is:",
+   "opts": [
+    "Duodeno-duodenostomy",
+    "Pancreatectomy",
+    "Gastrostomy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management: duodeno-duodenostomy. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-013",
+   "sec": "Congenital Disorders of the Pancreas",
+   "page": 285,
+   "q": "In annular pancreas, cutting of the encircling pancreatic segment is avoided to:",
+   "opts": [
+    "Prevent devascularisation",
+    "Prevent diabetes",
+    "Prevent pancreatitis",
+    "Facilitate healing"
+   ],
+   "ans": 0,
+   "exp": "Management: cutting of segment is avoided to prevent devascularisation. (Book p285)"
+  },
+  {
+   "id": "SURG-C39-014",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "The tunnel of love at the pancreatic head lies between which vessels, and its intact status makes possible:",
+   "opts": [
+    "The superior mesenteric artery and vein, and Whipple's surgery",
+    "The hepatic artery and portal vein, and cholecystectomy",
+    "The splenic artery and vein, and splenectomy",
+    "The coeliac trunk and aorta, and distal pancreatectomy"
+   ],
+   "ans": 0,
+   "exp": "Surgical anatomy: tunnel of love — between the superior mesenteric artery and vein; tunnel of love intact — Whipple's surgery. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-015",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "The sphincter of Oddi is made up of how many sphincters?",
+   "opts": [
+    "Four",
+    "Two",
+    "Three",
+    "Five"
+   ],
+   "ans": 0,
+   "exp": "Sphincter of Oddi: made up of 4 sphincters. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-016",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "Which of the following is one of the four sphincters of the sphincter of Oddi?",
+   "opts": [
+    "Superior choledochal sphincter",
+    "Pyloric sphincter",
+    "Ileocaecal sphincter",
+    "Anal sphincter"
+   ],
+   "ans": 0,
+   "exp": "Sphincters: 1. Superior choledochal, 2. Inferior choledochal, 3. Ampullary, 4. Pancreatic. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-017",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "The pancreatic component of the sphincter of Oddi is the:",
+   "opts": [
+    "Pancreatic sphincter",
+    "Superior choledochal sphincter",
+    "Inferior choledochal sphincter",
+    "Ampullary sphincter only"
+   ],
+   "ans": 0,
+   "exp": "Sphincter of Oddi: 4. Pancreatic sphincter. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-018",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "Sphincter of Oddi dysfunction causes:",
+   "opts": [
+    "Improper drainage of bile and pancreatic secretions",
+    "Excess bile production",
+    "Pancreatic atrophy",
+    "Duodenal obstruction"
+   ],
+   "ans": 0,
+   "exp": "Sphincter of Oddi dysfunction: poor functioning — improper drainage of bile and pancreatic secretions. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-019",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "The biliary type of sphincter of Oddi dysfunction presents as:",
+   "opts": [
+    "Biliary colic and post cholecystectomy syndrome",
+    "Pancreatitis",
+    "Gastric outlet obstruction",
+    "Chronic diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Types: biliary — biliary colic, post cholecystectomy syndrome. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-020",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "The pancreatic type of sphincter of Oddi dysfunction presents as:",
+   "opts": [
+    "Pancreatitis",
+    "Biliary colic",
+    "A WES sign",
+    "Rigler's triad"
+   ],
+   "ans": 0,
+   "exp": "Types: pancreatic — pancreatitis. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-021",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "The investigation of choice for sphincter of Oddi dysfunction is:",
+   "opts": [
+    "ERCP with manometry",
+    "USG alone",
+    "Plain X-ray",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "IOC: ERCP + manometry. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-022",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "On manometry, sphincter of Oddi dysfunction is defined by a pressure of:",
+   "opts": [
+    "Greater than 40 mmHg",
+    "Less than 10 mmHg",
+    "Exactly 4 mmHg",
+    "Greater than 100 mmHg"
+   ],
+   "ans": 0,
+   "exp": "IOC: ERCP + manometry — >40 mmHg. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-023",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "Type I sphincter of Oddi dysfunction (Milwaukee classification) is:",
+   "opts": [
+    "Biliary pain, CBD dilatation and enzyme derangement",
+    "Biliary pain only",
+    "Pain with CBD dilatation only",
+    "Enzyme derangement only"
+   ],
+   "ans": 0,
+   "exp": "Milwaukee classification: Type I — biliary pain +, CBD dilatation +, enzyme derangement. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-024",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "Type II sphincter of Oddi dysfunction (Milwaukee classification) is:",
+   "opts": [
+    "Pain plus CBD dilatation",
+    "Biliary pain only",
+    "Pain, dilatation and enzyme derangement",
+    "Only enzyme derangement"
+   ],
+   "ans": 0,
+   "exp": "Milwaukee classification: Type 2 — pain + CBD dilatation. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-025",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "page": 286,
+   "q": "Type III sphincter of Oddi dysfunction (Milwaukee classification) is:",
+   "opts": [
+    "Biliary pain alone",
+    "Biliary pain with CBD dilatation",
+    "Pain with enzyme derangement",
+    "Only CBD dilatation"
+   ],
+   "ans": 0,
+   "exp": "Milwaukee classification: Type 3 — biliary pain. (Book p286)"
+  },
+  {
+   "id": "SURG-C39-026",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "The most common cause of acute pancreatitis is:",
+   "opts": [
+    "Gall stones",
+    "Alcohol",
+    "Trauma",
+    "Scorpion bite"
+   ],
+   "ans": 0,
+   "exp": "Causes: gall stones — m/c. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-027",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "The second most common cause of acute pancreatitis is:",
+   "opts": [
+    "Alcohol",
+    "Gall stones",
+    "Hypertriglyceridaemia",
+    "Post-ERCP"
+   ],
+   "ans": 0,
+   "exp": "Causes: alcohol — 2nd m/c. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-028",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "The most common cause of acute pancreatitis in children is:",
+   "opts": [
+    "Trauma",
+    "Alcohol",
+    "Gall stones",
+    "Drug induced"
+   ],
+   "ans": 0,
+   "exp": "Causes: due to trauma — m/c cause in children. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-029",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "Iatrogenic acute pancreatitis is commonly seen after:",
+   "opts": [
+    "ERCP",
+    "Cholecystectomy",
+    "Appendectomy",
+    "Cataract surgery"
+   ],
+   "ans": 0,
+   "exp": "Causes: iatrogenic — post-ERCP (endoscopic retrograde cholangio pancreatiocography). (Book p287)"
+  },
+  {
+   "id": "SURG-C39-030",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "The risk of pancreatitis after ERCP is:",
+   "opts": [
+    "5%",
+    "50%",
+    "1%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Iatrogenic: ERCP — 5% risk of pancreatitis. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-031",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "The risk of post-ERCP pancreatitis is higher when:",
+   "opts": [
+    "The procedure is therapeutic rather than diagnostic",
+    "The procedure is diagnostic only",
+    "The patient is male",
+    "Cannulation is easy"
+   ],
+   "ans": 0,
+   "exp": "ERCP: therapeutic > diagnostic; females > males; difficult cannulation. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-032",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "Post-ERCP pancreatitis occurs more commonly in:",
+   "opts": [
+    "Females than males",
+    "Males than females",
+    "Children than adults",
+    "Both sexes equally"
+   ],
+   "ans": 0,
+   "exp": "ERCP: females > males. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-033",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "Which of the following is a cause of drug-induced pancreatitis?",
+   "opts": [
+    "Thiazide diuretics",
+    "Paracetamol",
+    "Aspirin",
+    "Amitriptyline"
+   ],
+   "ans": 0,
+   "exp": "Drug induced pancreatitis: thiazide diuretics, anti retroviral drugs, chemotherapeutic agents. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-034",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "Which of the following is a listed cause of acute pancreatitis?",
+   "opts": [
+    "Scorpion bite",
+    "Common cold",
+    "Tonsillitis",
+    "Conjunctivitis"
+   ],
+   "ans": 0,
+   "exp": "Causes include: hyperparathyroidism/hypercalcaemia, raised triglycerides, pancreas divisum, idiopathic, scorpion bite. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-035",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "The co-localisation theory of acute pancreatitis pathophysiology proposes that:",
+   "opts": [
+    "Zymogens are activated inside the pancreas and destroy it",
+    "Zymogens are activated in the duodenum normally",
+    "Lysosomes digest the acinar cells directly",
+    "Calcium prevents enzyme activation"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology: pathology — zymogens activated inside the pancreas destroy the pancreas, causing pancreatitis (normally zymogens reach the duodenum and are activated there). (Book p287)"
+  },
+  {
+   "id": "SURG-C39-036",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "In the pathogenesis of pancreatitis, a pathologic stimulus causes a sustained rise in which ion, activating PKC and NF-KB?",
+   "opts": [
+    "Calcium (Ca2+)",
+    "Sodium",
+    "Potassium",
+    "Magnesium"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis diagram: pathologic stimulus — sustained rise in Ca2+ and PKC activation — NF-KB activation — co-localisation of zymogen and lysosome. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-037",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "Inflammatory mediators released in acute pancreatitis include:",
+   "opts": [
+    "IL-1, IL-6, IL-10 and TNF-alpha",
+    "Only histamine",
+    "Only serotonin",
+    "Only cortisol"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: release of inflammatory mediators IL-1, 6, 10, TNF-alpha — systemic inflammation. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-038",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "Bile reflux in acute pancreatitis is due to:",
+   "opts": [
+    "A gall stone",
+    "A Phrygian cap",
+    "Vagotomy",
+    "Cholecystectomy"
+   ],
+   "ans": 0,
+   "exp": "Bile reflux: d/t gall stone — inflammation of pancreas. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-039",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "The characteristic pain of acute pancreatitis is:",
+   "opts": [
+    "Epigastric pain radiating to the back, relieved on forward bending",
+    "Colicky periumbilical pain",
+    "Pain relieved by defecation",
+    "Chest pain on inspiration"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain in epigastrium — radiates to back, relieves on forward bending. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-040",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology",
+   "page": 287,
+   "q": "A notable feature of acute pancreatitis on examination is that:",
+   "opts": [
+    "Symptoms are out of proportion to signs",
+    "Signs are out of proportion to symptoms",
+    "The abdomen is always rigid",
+    "There is always a mass"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: symptoms out of proportion to signs. (Book p287)"
+  },
+  {
+   "id": "SURG-C39-041",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Cullen's sign in acute haemorrhagic pancreatitis is:",
+   "opts": [
+    "Discoloration around the umbilicus",
+    "Discoloration around the flanks",
+    "Discoloration around the inguinal region",
+    "Yellowing of the sclera"
+   ],
+   "ans": 0,
+   "exp": "Signs of acute haemorrhagic pancreatitis: 1. Cullen sign — discoloration around umbilicus. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-042",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Grey Turner's sign is:",
+   "opts": [
+    "Discoloration around the flanks",
+    "Discoloration around the umbilicus",
+    "Discoloration around the inguinal region",
+    "Cyanosis of the lips"
+   ],
+   "ans": 0,
+   "exp": "Signs: 2. Grey Turner sign — discoloration around flanks. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-043",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Fox's sign in acute haemorrhagic pancreatitis is:",
+   "opts": [
+    "Discoloration around the inguinal region",
+    "Discoloration around the umbilicus",
+    "Discoloration around the flanks",
+    "A tender right iliac fossa mass"
+   ],
+   "ans": 0,
+   "exp": "Signs: 3. Fox sign — discoloration around inguinal region. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-044",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "The peritonitis of severe pancreatitis is characterised by:",
+   "opts": [
+    "Deposition of chalky white material without perforation",
+    "Free air under the diaphragm",
+    "Fecal peritonitis",
+    "Haemoperitoneum only"
+   ],
+   "ans": 0,
+   "exp": "Signs of severe pancreatitis: peritonitis — deposition of chalky white material, no perforation. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-045",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "The diagnosis of acute pancreatitis requires how many of the three diagnostic features?",
+   "opts": [
+    "2 out of 3",
+    "1 out of 3",
+    "All 3",
+    "Any 2 of 5"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: 2 out of 3 features. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-046",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Which of the following is one of the three diagnostic features of acute pancreatitis?",
+   "opts": [
+    "Abdominal pain consistent with acute pancreatitis",
+    "A positive Murphy's sign",
+    "Pneumobilia",
+    "A WES sign"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: 1. Abdominal pain consistent with acute pancreatitis. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-047",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Regarding enzymes, acute pancreatitis is diagnosed when:",
+   "opts": [
+    "Serum amylase or lipase is threefold or higher above the upper normal limit",
+    "Serum amylase is above normal by any amount",
+    "Serum bilirubin is raised",
+    "Serum calcium is low"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: 2. Three fold or high elevation of serum amylase or lipase levels above upper normal limit. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-048",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "The third diagnostic feature of acute pancreatitis is:",
+   "opts": [
+    "A characteristic finding of pancreatitis by imaging",
+    "A plain X-ray double bubble sign",
+    "A positive HIDA scan",
+    "A WES sign on USG"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: 3. Characteristic finding of pancreatitis by imaging. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-049",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Compared with serum lipase, serum amylase has a:",
+   "opts": [
+    "Shorter half-life",
+    "Longer half-life",
+    "The same half-life",
+    "Unpredictable half-life"
+   ],
+   "ans": 0,
+   "exp": "S. amylase and lipase table: half-life — amylase shorter, lipase longer. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-050",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Serum lipase in acute pancreatitis:",
+   "opts": [
+    "Rises gradually and declines late, and is more specific",
+    "Rises early and declines early",
+    "Is less specific than amylase",
+    "Does not rise at all"
+   ],
+   "ans": 0,
+   "exp": "Table: lipase — gradual rise, declines late, more specific. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-051",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Serum amylase in acute pancreatitis is:",
+   "opts": [
+    "Sensitive, rising and declining early",
+    "More specific than lipase",
+    "Slow to rise",
+    "Unhelpful in diagnosis"
+   ],
+   "ans": 0,
+   "exp": "Table: amylase — rises early, declines early, sensitive. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-052",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "A raised amylase level:",
+   "opts": [
+    "Does not predict severity",
+    "Always predicts a fatal course",
+    "Means surgery is needed",
+    "Excludes other diagnoses"
+   ],
+   "ans": 0,
+   "exp": "Table: does not predict severity. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-053",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "In acute pancreatitis, the serum amylase rises to:",
+   "opts": [
+    "3 to 4 times normal",
+    "50 times normal",
+    "Never above normal",
+    "Exactly 10 times normal"
+   ],
+   "ans": 0,
+   "exp": "Conditions with raised amylase: acute pancreatitis — 3 to 4 times normal. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-054",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Which of the following is another condition with a raised amylase?",
+   "opts": [
+    "Mesenteric ischaemia",
+    "Appendicitis",
+    "Cholecystitis",
+    "Hernia"
+   ],
+   "ans": 0,
+   "exp": "Conditions with raised amylase: mesenteric ischaemia, bowel perforation, salpingitis, volvulus, torsion. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-055",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "Which of the following is a condition associated with raised amylase?",
+   "opts": [
+    "Salpingitis",
+    "Tonsillitis",
+    "Asthma",
+    "Urticaria"
+   ],
+   "ans": 0,
+   "exp": "Conditions with raised amylase: salpingitis, volvulus, torsion. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-056",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "The X-ray of a gasless abdomen in acute pancreatitis is a non-specific sign of:",
+   "opts": [
+    "Stunned bowel (ileus)",
+    "Perforation",
+    "Gallstones",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "X-ray (non-specific signs): gasless abdomen; d/t ileus — stunned bowel. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-057",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "The colon cut off sign on X-ray is:",
+   "opts": [
+    "A dilated colonic loop with incomplete haustrations",
+    "Air under the diaphragm",
+    "A double bubble",
+    "A sentinel loop"
+   ],
+   "ans": 0,
+   "exp": "X-ray: colon cut off sign — dilated colonic loop with incomplete haustrations. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-058",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 288,
+   "q": "The sentinel loop in acute pancreatitis is:",
+   "opts": [
+    "A focal dilated proximal jejunal loop in the left upper quadrant",
+    "A dilated colonic loop",
+    "Free air under the diaphragm",
+    "A double bubble sign"
+   ],
+   "ans": 0,
+   "exp": "X-ray: sentinel loop — a focal dilated proximal jejunal loop in left upper quadrant. (Book p288)"
+  },
+  {
+   "id": "SURG-C39-059",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 289,
+   "q": "The investigation of choice in acute pancreatitis is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray",
+    "USG only",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "CECT: IOC. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-060",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 289,
+   "q": "The CECT in acute pancreatitis is done:",
+   "opts": [
+    "After 72 hours",
+    "Within 6 hours",
+    "Exactly at 24 hours",
+    "After 7 days"
+   ],
+   "ans": 0,
+   "exp": "CECT: done >72 hrs. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-061",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 289,
+   "q": "A CECT done BEFORE 72 hours in acute pancreatitis:",
+   "opts": [
+    "Underestimates the severity",
+    "Overestimates the severity",
+    "Is normal in all",
+    "Shows only gallstones"
+   ],
+   "ans": 0,
+   "exp": "CECT: <72 hrs — underestimate severity. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-062",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 289,
+   "q": "The CECT phase most sensitive for necrosis is the portal venous phase, taken:",
+   "opts": [
+    "60-70 seconds after dye injection",
+    "10 seconds after dye injection",
+    "5 minutes after dye injection",
+    "Without any dye"
+   ],
+   "ans": 0,
+   "exp": "CECT: portal venous phase — 60-70 s after injection of dye; most sensitive for necrosis. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-063",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 289,
+   "q": "Other findings in biliary acute pancreatitis include:",
+   "opts": [
+    "Liver enzymes deranged",
+    "A normal liver profile always",
+    "A WES sign",
+    "Pneumobilia"
+   ],
+   "ans": 0,
+   "exp": "Other findings: liver enzymes deranged in biliary pancreatitis. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-064",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "page": 289,
+   "q": "Hypocalcaemia in acute pancreatitis is due to:",
+   "opts": [
+    "Saponification of fat and calcium chelation",
+    "Vitamin D excess",
+    "Hypoventilation",
+    "Diuretics"
+   ],
+   "ans": 0,
+   "exp": "Other findings: hypocalcaemia — saponification of fat and Ca++ chelation. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-065",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "The Glasgow criteria for acute pancreatitis define acute severe pancreatitis at:",
+   "opts": [
+    "3 or more points",
+    "1 or more points",
+    "5 or more points",
+    "10 or more points"
+   ],
+   "ans": 0,
+   "exp": "Severity scores: Glasgow criteria — 3 or more: acute severe pancreatitis. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-066",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "Ranson's criteria define acute severe pancreatitis at:",
+   "opts": [
+    "3 or more points",
+    "1 point",
+    "10 points",
+    "Exactly 2 points"
+   ],
+   "ans": 0,
+   "exp": "Ranson's criteria: 3 or more — acute severe pancreatitis. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-067",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "Which of the following is a Ranson's criterion ON ADMISSION?",
+   "opts": [
+    "WBC greater than 16,000/microL",
+    "Hematocrit decrease greater than 10%",
+    "BUN increase greater than 5 mg/dL",
+    "Base deficit greater than 4 mEq/L"
+   ],
+   "ans": 0,
+   "exp": "Ranson's on admission: WBC >16,000/microL, age >55 yrs, glucose >200 mg/dL, AST >250 IU/L, LDH >350 IU/L. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-068",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "Which of the following is a Ranson's criterion within 48 HOURS of admission?",
+   "opts": [
+    "Fluid needs greater than 6 L",
+    "WBC greater than 16,000/microL",
+    "Age greater than 55 years",
+    "Glucose greater than 200 mg/dL"
+   ],
+   "ans": 0,
+   "exp": "Ranson's within 48 hrs: hematocrit decrease >10%, BUN increase >5 mg/dL, S. calcium <8 mg/dL, arterial PaO2 <60 mmHg, base deficit >4 mEq/L (acidosis), fluid needs >6 L. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-069",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "Arterial PaO2 below 60 mmHg is a Ranson's criterion:",
+   "opts": [
+    "Within 48 hours of admission",
+    "On admission",
+    "At discharge",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "Ranson's within 48 hrs: arterial PaO2 <60 mmHg. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-070",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "The BISAP (bedside) score in acute pancreatitis includes:",
+   "opts": [
+    "BUN greater than 25 mg/dL",
+    "BUN greater than 5 mg/dL",
+    "A low WBC count",
+    "A normal CT"
+   ],
+   "ans": 0,
+   "exp": "BISAP score (beside score): BUN >25 mg/dL. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-071",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "Which of the following is a component of the BISAP score?",
+   "opts": [
+    "Impaired mental status",
+    "Impaired vision",
+    "A positive Murphy's sign",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "BISAP: BUN >25 mg/dL, impaired mental status, SIRS, age >60 yrs, pleural effusion. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-072",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "A BISAP score of 3 or more indicates:",
+   "opts": [
+    "Severe pancreatitis",
+    "Mild pancreatitis",
+    "Chronic pancreatitis",
+    "Gallstone disease"
+   ],
+   "ans": 0,
+   "exp": "BISAP score: score 3 or more — severe pancreatitis. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-073",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "APACHE II stands for:",
+   "opts": [
+    "Acute physiology and chronic health evaluation",
+    "Abdominal pain and chronic hepatitis evaluation",
+    "Acute peritonitis and cholecystitis health index",
+    "Assessment of pancreatitis and its complications"
+   ],
+   "ans": 0,
+   "exp": "Other scores: APACHE II — acute physiology and chronic health evaluation criteria. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-074",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 289,
+   "q": "An APACHE II score of 8 or more indicates:",
+   "opts": [
+    "Severe pancreatitis",
+    "Mild pancreatitis",
+    "No pancreatitis",
+    "Chronic pancreatitis only"
+   ],
+   "ans": 0,
+   "exp": "APACHE II: score 8 or more — severe pancreatitis. (Book p289)"
+  },
+  {
+   "id": "SURG-C39-075",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "HAPS in acute pancreatitis stands for:",
+   "opts": [
+    "Harmless acute pancreatitis score",
+    "High APACHE pancreatitis score",
+    "Haemorrhagic acute pancreatitis scale",
+    "Hospital acute pain score"
+   ],
+   "ans": 0,
+   "exp": "Other scores: HAPS — harmless acute pancreatitis score. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-076",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "A modified Marshall score of 2 or more indicates:",
+   "opts": [
+    "Severe pancreatitis",
+    "Mild pancreatitis",
+    "Chronic pancreatitis",
+    "Pseudocyst"
+   ],
+   "ans": 0,
+   "exp": "Modified Marshall score: score 2 or more — severe pancreatitis. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-077",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "A CRP greater than 150 mg/L indicates:",
+   "opts": [
+    "Severe pancreatitis",
+    "Mild pancreatitis",
+    "Gallstones",
+    "Cholecystitis"
+   ],
+   "ans": 0,
+   "exp": "CRP: >150 mg/L — severe pancreatitis. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-078",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "The CT severity index is made of:",
+   "opts": [
+    "Balthazar grade plus pancreatic necrosis score (total 10)",
+    "Glasgow plus Ranson's",
+    "BISAP plus CRP",
+    "APACHE II only"
+   ],
+   "ans": 0,
+   "exp": "CT severity index: Balthazar grade table plus pancreatic necrosis table — total 10. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-079",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "In the Balthazar grade, a normal pancreas scores:",
+   "opts": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "ans": 0,
+   "exp": "Balthazar grade: normal pancreas — 0. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-080",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "In the Balthazar grade, focal or diffuse enlargement scores:",
+   "opts": [
+    "1",
+    "0",
+    "2",
+    "3"
+   ],
+   "ans": 0,
+   "exp": "Balthazar grade: focal or diffuse enlargement — 1. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-081",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "In the Balthazar grade, pancreatic gland abnormalities with peripancreatic inflammation score:",
+   "opts": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "ans": 0,
+   "exp": "Balthazar grade: pancreatic gland abnormalities, peripancreatic inflammation — 2. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-082",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "In the Balthazar grade, fluid collection in a single location scores:",
+   "opts": [
+    "3",
+    "2",
+    "1",
+    "4"
+   ],
+   "ans": 0,
+   "exp": "Balthazar grade: fluid collection in a single location — 3. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-083",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "In the Balthazar grade, 2 or more fluid collections and/or gas bubbles in or adjacent to the pancreas score:",
+   "opts": [
+    "4",
+    "3",
+    "2",
+    "0"
+   ],
+   "ans": 0,
+   "exp": "Balthazar grade: 2+ fluid collections and/or gas bubbles in or adjacent to pancreas — 4. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-084",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "In the CT severity index, necrosis of one third of the pancreas scores:",
+   "opts": [
+    "2",
+    "0",
+    "4",
+    "6"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic necrosis table: 1/3rd of pancreas — 2. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-085",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "In the CT severity index, necrosis of more than half of the pancreas scores:",
+   "opts": [
+    "6",
+    "4",
+    "2",
+    "0"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic necrosis table: >1/2 of pancreas — 6. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-086",
+   "sec": "Severity Scores in Acute Pancreatitis",
+   "page": 290,
+   "q": "The CT severity index calls a case severe at a total score of:",
+   "opts": [
+    "6 or more (out of 10)",
+    "3 or more",
+    "8 or more",
+    "10 only"
+   ],
+   "ans": 0,
+   "exp": "CT severity index: total 10; 6 or more — severe. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-087",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "The initial management of acute pancreatitis includes:",
+   "opts": [
+    "Nil per oral, IV fluids, analgesia",
+    "Immediate cholecystectomy",
+    "Immediate ERCP in all",
+    "Early feeding in all"
+   ],
+   "ans": 0,
+   "exp": "Management: nil per oral (NPO), IV fluids, analgesia. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-088",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "The fluid of choice in acute pancreatitis is:",
+   "opts": [
+    "Ringer's lactate",
+    "Dextrose 5%",
+    "Hartmann's solution only",
+    "Normal saline only"
+   ],
+   "ans": 0,
+   "exp": "Management: IV fluids — RL, fluid of choice. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-089",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "Analgesia in acute pancreatitis is given to:",
+   "opts": [
+    "Reduce the pain, with opioids used if uncontrolled",
+    "Reduce the amylase",
+    "Prevent necrosis",
+    "Reverse the ileus"
+   ],
+   "ans": 0,
+   "exp": "Management: analgesia — to decrease pain; opioids can be used if uncontrolled. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-090",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "Antibiotics in acute pancreatitis are indicated in:",
+   "opts": [
+    "Severe pancreatitis and infected necrosis",
+    "Every mild attack",
+    "Every post-ERCP patient",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "Management — antibiotics: indications — severe pancreatitis, infected necrosis. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-091",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "The IV antibiotic of choice in acute pancreatitis is:",
+   "opts": [
+    "Meropenem",
+    "Oral amoxicillin",
+    "Intramuscular penicillin",
+    "Topical neomycin"
+   ],
+   "ans": 0,
+   "exp": "Management: IV antibiotic of choice — meropenem. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-092",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "In the nutrition of acute pancreatitis, the book's preferred route is:",
+   "opts": [
+    "Enteral nutrition, initiated early",
+    "Long-term TPN in all",
+    "No nutrition until one month",
+    "Oral diet immediately"
+   ],
+   "ans": 0,
+   "exp": "Nutrition: total parenteral nutrition (initial phase, in severe cases) leads to enteral nutrition — initiated early, preferred nasojejunal tube. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-093",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "Enteral nutrition initiated early in acute pancreatitis:",
+   "opts": [
+    "Reduces mortality",
+    "Increases mortality",
+    "Has no effect",
+    "Worsens the pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Nutrition: enteral nutrition initiated early — decreases mortality. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-094",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "Inadequate nutrition in acute pancreatitis leads to:",
+   "opts": [
+    "Leaky gut bacteria and infections",
+    "A normal gut",
+    "Increased immunity",
+    "Faster recovery"
+   ],
+   "ans": 0,
+   "exp": "Nutrition: decreased nutrition — leaky gut bacteria, infections. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-095",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "The preferred tube for enteral nutrition in acute pancreatitis is the:",
+   "opts": [
+    "Nasojejunal tube",
+    "Nasogastric tube",
+    "Gastrostomy",
+    "Jejunal stoma"
+   ],
+   "ans": 0,
+   "exp": "Nutrition: preferred — nasojejunal tube. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-096",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "An indication for ERCP and sphincterotomy in acute pancreatitis is:",
+   "opts": [
+    "A documented CBD stone",
+    "A normal CBD",
+    "Mild pain only",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "ERCP and sphincterotomy: indications — documented CBD stone, biliary pancreatitis, symptoms >48 hrs, jaundice. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-097",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "ERCP and sphincterotomy are indicated in acute pancreatitis when symptoms last:",
+   "opts": [
+    "More than 48 hours",
+    "Less than 6 hours",
+    "Only at 1 week",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "ERCP and sphincterotomy: indications — symptoms >48 hrs. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-098",
+   "sec": "Management of Acute Pancreatitis",
+   "page": 290,
+   "q": "In gall stone induced acute pancreatitis, cholecystectomy is done:",
+   "opts": [
+    "Before discharge",
+    "Only after one year",
+    "Never",
+    "Only if there is jaundice"
+   ],
+   "ans": 0,
+   "exp": "Cholecystectomy: in gall stone induced pancreatitis, before discharge. (Book p290)"
+  },
+  {
+   "id": "SURG-C39-099",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "In the Atlanta classification, moderate acute pancreatitis is:",
+   "opts": [
+    "Local complications without systemic complications",
+    "No local or systemic complications",
+    "Both local and systemic complications",
+    "Only systemic complications"
+   ],
+   "ans": 0,
+   "exp": "Atlanta classification: moderate — local (+), systemic (−). (Book p291)"
+  },
+  {
+   "id": "SURG-C39-100",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "In the Atlanta classification, severe acute pancreatitis has:",
+   "opts": [
+    "Both local and systemic complications",
+    "Only local complications",
+    "Only systemic complications",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Atlanta classification: severe — local (+), systemic (+). (Book p291)"
+  },
+  {
+   "id": "SURG-C39-101",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A LOCAL complication of acute pancreatitis is:",
+   "opts": [
+    "Pseudocyst",
+    "ARDS",
+    "Sepsis",
+    "SIRS"
+   ],
+   "ans": 0,
+   "exp": "Local: pseudocyst, necrosis, pseudoaneurysm of splenic artery, splenic vein thrombosis, left pleural effusion. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-102",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "The most common vessel involved in a pseudoaneurysm after acute pancreatitis is the:",
+   "opts": [
+    "Splenic artery",
+    "Hepatic artery",
+    "Gastroduodenal artery only",
+    "Coeliac trunk"
+   ],
+   "ans": 0,
+   "exp": "Local: pseudoaneurysm of splenic artery — m/c vessel involved. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-103",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A pseudoaneurysm of the splenic artery after pancreatitis is managed by:",
+   "opts": [
+    "Ligation or embolization",
+    "Observation only",
+    "Total pancreatectomy",
+    "Antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "Pseudoaneurysm of splenic artery: Mx — ligation/embolization. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-104",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "Splenic vein thrombosis after acute pancreatitis causes:",
+   "opts": [
+    "Left sided (sinistral) portal hypertension",
+    "Generalized portal hypertension",
+    "Budd-Chiari syndrome",
+    "Mesenteric venous obstruction only"
+   ],
+   "ans": 0,
+   "exp": "Local: splenic vein thrombosis — left sided portal HTN aka sinistral portal HTN. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-105",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "Sinistral portal hypertension presents with:",
+   "opts": [
+    "Upper GI bleeding",
+    "Isolated lower limb oedema",
+    "Jaundice only",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Sinistral portal HTN: C/F — upper GI bleeding. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-106",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "Sinistral portal hypertension after pancreatitis is managed by:",
+   "opts": [
+    "Splenectomy",
+    "Portosystemic shunt",
+    "TIPS only",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Sinistral portal HTN: Mx — splenectomy. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-107",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "Which of the following is a local complication of acute pancreatitis?",
+   "opts": [
+    "Left pleural effusion",
+    "MODS",
+    "SIRS",
+    "Sepsis"
+   ],
+   "ans": 0,
+   "exp": "Local: left pleural effusion. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-108",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "The most common cause of EARLY death in acute pancreatitis is:",
+   "opts": [
+    "MODS (multiple organ dysfunction syndrome)",
+    "Bleeding",
+    "Pneumonia",
+    "DVT"
+   ],
+   "ans": 0,
+   "exp": "Systemic: MODS — m/c cause of early death. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-109",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "The most common cause of death in acute pancreatitis is:",
+   "opts": [
+    "SIRS",
+    "MODS",
+    "ARDS",
+    "Sepsis only"
+   ],
+   "ans": 0,
+   "exp": "Systemic: SIRS — m/c cause of death. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-110",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A homogeneous collection LESS than 4 weeks old with no fully definable wall in pancreatitis is:",
+   "opts": [
+    "An acute peripancreatic collection",
+    "A pseudocyst",
+    "Walled-off necrosis",
+    "An acute necrotic collection"
+   ],
+   "ans": 0,
+   "exp": "Terminologies table: <4 weeks, no fully definable wall — homogeneous: acute peripancreatic collection. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-111",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A heterogeneous collection LESS than 4 weeks old with no fully definable wall is:",
+   "opts": [
+    "An acute necrotic collection",
+    "A pseudocyst",
+    "Walled-off necrosis",
+    "A mucinous neoplasm"
+   ],
+   "ans": 0,
+   "exp": "Terminologies table: <4 weeks — heterogeneous: acute necrotic collection. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-112",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A homogeneous collection MORE than 4 weeks old with a well-defined wall is:",
+   "opts": [
+    "A pseudocyst",
+    "An acute peripancreatic collection",
+    "Walled-off necrosis",
+    "A retention cyst"
+   ],
+   "ans": 0,
+   "exp": "Terminologies table: >4 wks, well-defined wall — homogeneous: pseudocyst. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-113",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A heterogeneous collection MORE than 4 weeks old with a well-defined wall is:",
+   "opts": [
+    "Walled-off necrosis",
+    "A pseudocyst",
+    "An acute necrotic collection",
+    "An acute peripancreatic collection"
+   ],
+   "ans": 0,
+   "exp": "Terminologies table: >4 wks, well-defined wall — heterogeneous: walled-off necrosis. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-114",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A small amount of collection on CECT after pancreatitis is managed by:",
+   "opts": [
+    "Conservative management",
+    "Immediate surgery",
+    "Immediate drainage",
+    "Antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "Mx: small amount of collection in CECT — conservative Mx. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-115",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "A symptomatic and large pancreatic collection is managed by:",
+   "opts": [
+    "Pigtail catheter and drainage",
+    "Total pancreatectomy",
+    "Observation only",
+    "Open drainage in all"
+   ],
+   "ans": 0,
+   "exp": "Mx: symptomatic and large — pigtail catheter and drainage. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-116",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "Pancreatic ascites results from:",
+   "opts": [
+    "Disruption of the pancreatic duct",
+    "Cirrhosis only",
+    "Nephrotic syndrome",
+    "Heart failure only"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic ascites: disruption of pancreatic duct. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-117",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "The fluid in pancreatic ascites is:",
+   "opts": [
+    "Amylase and protein rich turbid fluid",
+    "Clear straw-coloured fluid with low amylase",
+    "Purulent with low protein",
+    "Sanguineous with normal amylase"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic ascites: significant abdominal distension with intra-abdominal fluid, amylase and protein rich turbid fluid. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-118",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "Pancreatic ascites is managed by:",
+   "opts": [
+    "Paracentesis with a pigtail catheter",
+    "Observation only",
+    "Cholecystectomy",
+    "Whipple's surgery"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic ascites Mx: paracentesis (with pigtail catheter). (Book p291)"
+  },
+  {
+   "id": "SURG-C39-119",
+   "sec": "Complications of Acute Pancreatitis",
+   "page": 291,
+   "q": "Octreotide / somatostatin in pancreatic ascites is used to:",
+   "opts": [
+    "Decrease secretions",
+    "Increase bile flow",
+    "Dissolve the ascites",
+    "Prevent infection"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic ascites Mx: octreotide/somatostatin — decrease secretions; also stent placement. (Book p291)"
+  },
+  {
+   "id": "SURG-C39-120",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "On CT, pancreatic necrosis is:",
+   "opts": [
+    "Heterogeneous, with gas bubbles suggesting infection",
+    "Homogeneous and smooth",
+    "Always hyperdense",
+    "Normal in all"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic necrosis CT: heterogeneous; gas bubbles (+) — infected. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-121",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "Sterile pancreatic necrosis is managed by:",
+   "opts": [
+    "No intervention",
+    "Immediate open debridement",
+    "Total pancreatectomy",
+    "Antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "Necrosis: sterile — no intervention. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-122",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "An indication for intervention in pancreatic necrosis is:",
+   "opts": [
+    "Persistent pain",
+    "A normal CT",
+    "Mild epigastric discomfort",
+    "A normal amylase"
+   ],
+   "ans": 0,
+   "exp": "Mx: indication for intervention — persistent pain. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-123",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "Another indication for intervention in pancreatic necrosis is:",
+   "opts": [
+    "Failure to improve clinically with conservative management",
+    "A normal clinical course",
+    "Mild nausea",
+    "A normal CRP"
+   ],
+   "ans": 0,
+   "exp": "Indication for intervention: failure to improve clinically with conservative management. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-124",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "Yet another indication for intervention in pancreatic necrosis is:",
+   "opts": [
+    "Symptomatic biliary or enteric obstruction",
+    "Asymptomatic course",
+    "A small pseudocyst",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Indication for intervention: symptomatic biliary/enteric obstruction. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-125",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "Sterile pancreatic necrosis that needs intervention has a prognosis that is:",
+   "opts": [
+    "Better",
+    "Worse than infected necrosis",
+    "Always fatal",
+    "Unpredictable only"
+   ],
+   "ans": 0,
+   "exp": "Prognosis: sterile — better. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-126",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "Features of INFECTED pancreatic necrosis include:",
+   "opts": [
+    "Fever, raised TLC and raised CRP with gas bubbles on CT",
+    "A normal temperature and normal CRP",
+    "Absence of gas on CT with normal TLC",
+    "Only weight gain"
+   ],
+   "ans": 0,
+   "exp": "Infected: fever (+), raised TLC, raised CRP, CT — gas bubbles. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-127",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "The management of infected pancreatic necrosis follows the:",
+   "opts": [
+    "Step-up approach",
+    "One-step open necrosectomy only",
+    "Observation only",
+    "Antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "Infected: step-up approach. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-128",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "The first step of the step-up approach in infected pancreatic necrosis is:",
+   "opts": [
+    "Percutaneous drainage with a pigtail catheter",
+    "Open debridement",
+    "Total pancreatectomy",
+    "ERCP only"
+   ],
+   "ans": 0,
+   "exp": "Step-up approach: percutaneous drainage with pigtail catheter. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-129",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "If percutaneous drainage is unsuccessful in infected pancreatic necrosis, the next step is:",
+   "opts": [
+    "Minimally invasive retroperitoneal debridement",
+    "Observation",
+    "Cholecystectomy",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "Step-up approach: unsuccessful — minimally invasive retroperitoneal debridement. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-130",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "Infected pancreatic necrosis carries:",
+   "opts": [
+    "High mortality",
+    "No mortality",
+    "Mortality only in children",
+    "Low mortality overall"
+   ],
+   "ans": 0,
+   "exp": "Infected necrosis: high mortality. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-131",
+   "sec": "Pancreatic Necrosis",
+   "page": 292,
+   "q": "Beger's method for infected necrosis involves:",
+   "opts": [
+    "Continuous irrigation and drainage of saline through both tubes",
+    "A single drain without irrigation",
+    "Antibiotics only",
+    "Total pancreatectomy in all"
+   ],
+   "ans": 0,
+   "exp": "Beger's method for Mx of infected necrosis: high mortality; continuous irrigation and drainage of saline through both tubes. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-132",
+   "sec": "Pseudocyst",
+   "page": 292,
+   "q": "A pancreatic pseudocyst is lined by:",
+   "opts": [
+    "Granulation tissue",
+    "Mature squamous epithelium",
+    "Columnar epithelium",
+    "No lining at all, by definition"
+   ],
+   "ans": 0,
+   "exp": "Pseudocyst: lined by granulation tissue. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-133",
+   "sec": "Pseudocyst",
+   "page": 292,
+   "q": "The most common site of a pancreatic pseudocyst is:",
+   "opts": [
+    "The lesser sac",
+    "The free peritoneal cavity",
+    "The retroperitoneum only",
+    "The gallbladder fossa"
+   ],
+   "ans": 0,
+   "exp": "Pseudocyst: site — lesser sac (m/c), abdomen. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-134",
+   "sec": "Pseudocyst",
+   "page": 292,
+   "q": "The clinical features of a pancreatic pseudocyst include:",
+   "opts": [
+    "Epigastric lump, nausea and vomiting, with a history of acute pancreatitis or recurrent attacks",
+    "Painless jaundice",
+    "Obstipation",
+    "Reynold's pentad"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: epigastric lump, nausea and vomiting, H/o acute pancreatitis/recurrent attacks in the past. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-135",
+   "sec": "Pseudocyst",
+   "page": 292,
+   "q": "Pancreatic pseudocysts are more common in:",
+   "opts": [
+    "Chronic pancreatitis",
+    "Acute cholecystitis",
+    "Gastric ulcers",
+    "Colitis"
+   ],
+   "ans": 0,
+   "exp": "Pseudocyst: more common in chronic pancreatitis. (Book p292)"
+  },
+  {
+   "id": "SURG-C39-136",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "The investigation of choice for a pancreatic pseudocyst is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray",
+    "USG alone",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: CECT — IOC. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-137",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "In the D'Esio classification, Type I pseudocyst occurs in:",
+   "opts": [
+    "Acute pancreatitis with normal ductal anatomy and no ductal communication",
+    "Chronic pancreatitis with strictures",
+    "Acute on chronic pancreatitis",
+    "Only in trauma"
+   ],
+   "ans": 0,
+   "exp": "D'Esio classification: Type I — acute pancreatitis, normal ductal anatomy, no ductal communication/fistula. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-138",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "In the D'Esio classification, Type II pseudocyst is:",
+   "opts": [
+    "Acute on chronic pancreatitis with abnormal duct anatomy without strictures",
+    "Chronic pancreatitis with strictures communicating with the duct",
+    "Acute pancreatitis with a normal duct",
+    "Only post-traumatic"
+   ],
+   "ans": 0,
+   "exp": "D'Esio classification: Type 2 — acute on chronic pancreatitis, abnormal duct anatomy without strictures. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-139",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "In the D'Esio classification, Type III pseudocyst is:",
+   "opts": [
+    "Chronic pancreatitis with abnormal duct anatomy with strictures, communicating with the duct, appearing as a retention cyst",
+    "Acute pancreatitis with a normal duct",
+    "Acute on chronic pancreatitis",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "D'Esio classification: Type 3 — chronic pancreatitis, abnormal anatomy of duct with strictures, communicating with duct, appears as retention cyst. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-140",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "The usual course of a pancreatic pseudocyst is that it:",
+   "opts": [
+    "Resolves spontaneously",
+    "Always needs surgery",
+    "Malignant transforms",
+    "Never resolves"
+   ],
+   "ans": 0,
+   "exp": "Management: resolves spontaneously. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-141",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "An indication for intervention for a pseudocyst is a size of:",
+   "opts": [
+    "More than 6 cm",
+    "More than 1 cm",
+    "More than 2 cm",
+    "More than 10 cm"
+   ],
+   "ans": 0,
+   "exp": "Indication for intervention: size >6 cm. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-142",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "An indication for intervention for a pseudocyst is a duration of:",
+   "opts": [
+    "More than 6 weeks",
+    "More than 1 week",
+    "More than 3 months",
+    "More than 1 day"
+   ],
+   "ans": 0,
+   "exp": "Indication for intervention: duration >6 weeks. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-143",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "An indication for intervention for a pseudocyst is a wall thickness of:",
+   "opts": [
+    "More than 6 mm",
+    "More than 1 mm",
+    "More than 10 mm",
+    "More than 2 mm"
+   ],
+   "ans": 0,
+   "exp": "Indication for intervention: wall thickness >6 mm. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-144",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "External drainage of a pseudocyst is indicated in:",
+   "opts": [
+    "An infected pseudocyst",
+    "A small asymptomatic pseudocyst",
+    "A Type I pseudocyst always",
+    "A retention cyst only"
+   ],
+   "ans": 0,
+   "exp": "Intervention — external drainage: indications — infected pseudocyst, hemorrhage inside cyst. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-145",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "External drainage of a pseudocyst is also indicated when there is:",
+   "opts": [
+    "Hemorrhage inside the cyst",
+    "A normal amylase",
+    "A thin wall",
+    "A small size"
+   ],
+   "ans": 0,
+   "exp": "External drainage: indications — hemorrhage inside cyst. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-146",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "The principle of external drainage of a pseudocyst is:",
+   "opts": [
+    "Drainage with a pigtail catheter",
+    "Open cystgastrostomy",
+    "Total pancreatectomy",
+    "ERCP with stenting only"
+   ],
+   "ans": 0,
+   "exp": "External drainage: principles — drainage with pigtail catheter. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-147",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "If a pseudocyst communicates with the duct, the resulting complication is:",
+   "opts": [
+    "A pancreatic fistula",
+    "A splenic pseudoaneurysm",
+    "A WES sign",
+    "Bouveret syndrome"
+   ],
+   "ans": 0,
+   "exp": "External drainage: rule out communication with duct — pancreatic fistula. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-148",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "A pancreatic fistula is managed by:",
+   "opts": [
+    "A stent in the duct, with or without external drainage",
+    "Total pancreatectomy",
+    "Cholecystectomy",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic fistula: Mx — stent in duct with/without external drainage. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-149",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "Internal drainage of a pseudocyst is done by:",
+   "opts": [
+    "Cystojejunostomy or cystogastrostomy",
+    "Pigtail drainage",
+    "ERCP",
+    "Cholecystectomy"
+   ],
+   "ans": 0,
+   "exp": "Intervention — internal drainage: cystojejunostomy, cystogastrostomy. (Book p293)"
+  },
+  {
+   "id": "SURG-C39-150",
+   "sec": "Pseudocyst",
+   "page": 293,
+   "q": "Internal drainage of a pseudocyst can be done by all of the following EXCEPT:",
+   "opts": [
+    "Open or laparoscopic or endoscopic/natural orifice transluminal (NOTES) surgery",
+    "A percutaneous pigtail catheter",
+    "Cystogastrostomy",
+    "Cystojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Internal drainage: open surgery, laparoscopic, endoscopy/natural orifice transluminal endoscopic Sx (NOTES). (Book p293)"
+  },
+  {
+   "id": "SURG-C39-151",
+   "sec": "Pseudocyst",
+   "page": 294,
+   "q": "The most common complication of a pancreatic pseudocyst is:",
+   "opts": [
+    "Infection",
+    "Rupture",
+    "Diabetes",
+    "Jaundice only"
+   ],
+   "ans": 0,
+   "exp": "Complications: infection — m/c. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-152",
+   "sec": "Pseudocyst",
+   "page": 294,
+   "q": "Hemorrhage as a complication of a pseudocyst is most commonly due to:",
+   "opts": [
+    "Pseudocyst surgery",
+    "Cholecystectomy",
+    "ERCP",
+    "Appendicitis"
+   ],
+   "ans": 0,
+   "exp": "Complications: hemorrhage — m/c due to pseudocyst surgery. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-153",
+   "sec": "Pseudocyst",
+   "page": 294,
+   "q": "Which of the following is a complication of a pancreatic pseudocyst?",
+   "opts": [
+    "Pancreatico-pleural fistula",
+    "A Phrygian cap",
+    "A WES sign",
+    "Rigler's triad"
+   ],
+   "ans": 0,
+   "exp": "Complications: rupture of cyst, pancreatico-pleural fistula. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-154",
+   "sec": "Pseudocyst",
+   "page": 294,
+   "q": "A differential diagnosis of a pancreatic pseudocyst is:",
+   "opts": [
+    "A mucinous cystic neoplasm",
+    "A Phrygian cap",
+    "A porcelain gallbladder",
+    "Duodenal atresia"
+   ],
+   "ans": 0,
+   "exp": "D/d: mucinous cystic neoplasm. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-155",
+   "sec": "Pseudocyst",
+   "page": 294,
+   "q": "Compared with a pseudocyst, a mucinous neoplasm has:",
+   "opts": [
+    "A raised CEA and a thick wall",
+    "A normal CEA and a thinner wall",
+    "A lower amylase",
+    "No wall at all"
+   ],
+   "ans": 0,
+   "exp": "D/d table: mucinous neoplasm — raised CEA, thick walled; pseudocyst — normal CEA, thinner than neoplasm. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-156",
+   "sec": "Chronic Pancreatitis",
+   "page": 294,
+   "q": "Chronic pancreatitis is defined by:",
+   "opts": [
+    "Fibrosis and chronic inflammation causing irreversible damage to the pancreatic parenchyma",
+    "A reversible inflammatory attack",
+    "Gallstones only",
+    "A single bout of acute pain"
+   ],
+   "ans": 0,
+   "exp": "Chronic pancreatitis: fibrosis and chronic inflammation — irreversible damage to pancreatic parenchyma. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-157",
+   "sec": "Chronic Pancreatitis",
+   "page": 294,
+   "q": "The TIGAR-O classification of chronic pancreatitis causes stands for:",
+   "opts": [
+    "Toxins, idiopathic, genetic, autoimmune, recurrent, obstructive",
+    "Toxins, infection, granulomatous, autoimmune, recurrent, obstructive",
+    "Trauma, idiopathic, genetic, alcohol, recurrent, obstructive",
+    "Toxins, immunology, genetic, atresia, recurrent, obstruction"
+   ],
+   "ans": 0,
+   "exp": "Causes: TIGAR-O classification — toxins, idiopathic, genetic, autoimmune, recurrent, obstructive. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-158",
+   "sec": "Chronic Pancreatitis",
+   "page": 294,
+   "q": "The most common toxic cause of chronic pancreatitis is:",
+   "opts": [
+    "Alcohol",
+    "Cigarette smoking",
+    "Hypercalcaemia",
+    "Chronic renal failure"
+   ],
+   "ans": 0,
+   "exp": "TIGAR-O — toxins: alcohol (m/c), cigarette smoking, hypercalcaemia, chronic renal failure. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-159",
+   "sec": "Chronic Pancreatitis",
+   "page": 294,
+   "q": "Which genetic mutations are listed under the genetic cause of chronic pancreatitis?",
+   "opts": [
+    "PRSS1, CFTR and SPINK1 mutations",
+    "BRCA1 and BRCA2",
+    "APC and MSH2",
+    "CFTR alone"
+   ],
+   "ans": 0,
+   "exp": "TIGAR-O — genetic: PRSS1, CFTR, SPINK1 mutation. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-160",
+   "sec": "Chronic Pancreatitis",
+   "page": 294,
+   "q": "The autoimmune cause of chronic pancreatitis is:",
+   "opts": [
+    "IgG4 mediated, causing fibrosis",
+    "ANA mediated",
+    "Anti-smooth muscle antibody only",
+    "HLA B27 related"
+   ],
+   "ans": 0,
+   "exp": "TIGAR-O — autoimmune: IgG4 mediated, causes fibrosis. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-161",
+   "sec": "Chronic Pancreatitis",
+   "page": 294,
+   "q": "A recurrent cause of chronic pancreatitis is:",
+   "opts": [
+    "Post necrotic (severe acute pancreatitis), recurrent acute pancreatitis and vascular diseases",
+    "Alcohol only",
+    "A Phrygian cap",
+    "A single attack of pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "TIGAR-O — recurrent: post necrotic (severe acute pancreatitis), recurrent acute pancreatitis, vascular diseases. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-162",
+   "sec": "Chronic Pancreatitis",
+   "page": 294,
+   "q": "An obstructive cause of chronic pancreatitis is:",
+   "opts": [
+    "Gall stones, pancreas divisum and pancreatic duct scars",
+    "Alcohol",
+    "Cigarette smoking",
+    "Autoimmune disease"
+   ],
+   "ans": 0,
+   "exp": "TIGAR-O — obstructive: gall stones, pancreas divisum, pancreatic duct scars. (Book p294)"
+  },
+  {
+   "id": "SURG-C39-163",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The PRSS1 gene is:",
+   "opts": [
+    "Located on chromosome 7 and raises the risk of hereditary chronic pancreatitis",
+    "Located on chromosome 11",
+    "A tumour suppressor of the liver",
+    "Associated with cassava only"
+   ],
+   "ans": 0,
+   "exp": "Genes associated: PRSS1 — located on chromosome 7, raised risk of hereditary chronic pancreatitis. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-164",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The SPINK1 gene is seen in:",
+   "opts": [
+    "Tropical calcific pancreatitis",
+    "Hereditary pancreatitis only",
+    "Acute cholecystitis",
+    "Duodenal atresia"
+   ],
+   "ans": 0,
+   "exp": "SPINK1: seen in tropical calcific pancreatitis. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-165",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "SPINK1 is secreted by which cells, and what does it regulate?",
+   "opts": [
+    "Acinar cells, regulating premature activation of trypsinogen",
+    "Ductal cells, regulating bile",
+    "Islet cells, regulating insulin",
+    "Gastric parietal cells"
+   ],
+   "ans": 0,
+   "exp": "SPINK1: secreted by acinar cells — regulates premature activation of trypsinogen. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-166",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "SPINK1 is associated with ingestion of:",
+   "opts": [
+    "Cassava",
+    "Tamarind",
+    "Cassia",
+    "Cashew"
+   ],
+   "ans": 0,
+   "exp": "SPINK1: associated with cassava ingestion. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-167",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The SPINK1 mutation also:",
+   "opts": [
+    "Raises the risk of cancer",
+    "Prevents cancer",
+    "Cures pancreatitis",
+    "Lowers amylase"
+   ],
+   "ans": 0,
+   "exp": "SPINK1: raised risk of cancer. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-168",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The clinical features of chronic pancreatitis are seen after destruction of:",
+   "opts": [
+    "80-90% of the pancreas",
+    "10% of the pancreas",
+    "50% of the pancreas",
+    "The whole pancreas only"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: features seen after 80-90% destruction of pancreas. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-169",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "In chronic pancreatitis, which deficiency is more common?",
+   "opts": [
+    "Exocrine deficiency",
+    "Endocrine deficiency",
+    "Both equally",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: exocrine deficiency more common. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-170",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "Exocrine deficiency in chronic pancreatitis is caused by:",
+   "opts": [
+    "Decreased pancreatic enzymes",
+    "Decreased insulin",
+    "Increased bile",
+    "Increased gastrin"
+   ],
+   "ans": 0,
+   "exp": "Table: exocrine deficiency caused d/t pancreatic enzymes decreased. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-171",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "Features of exocrine deficiency in chronic pancreatitis include:",
+   "opts": [
+    "Malabsorption, steatorrhoea, diarrhoea and weight loss",
+    "Diabetes",
+    "Hypertension",
+    "Pneumobilia"
+   ],
+   "ans": 0,
+   "exp": "Table — exocrine features: malabsorption, steatorrhoea, diarrhoea, weight loss. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-172",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "A test for exocrine deficiency in chronic pancreatitis is:",
+   "opts": [
+    "Decreased fecal elastase with increased fecal fat and NBT PABA",
+    "Blood glucose only",
+    "HbA1c only",
+    "Serum calcium only"
+   ],
+   "ans": 0,
+   "exp": "Table — exocrine tests: raised fecal fat, decreased fecal elastase, NBT PABA. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-173",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "Exocrine deficiency in chronic pancreatitis is treated with:",
+   "opts": [
+    "Exogenous enzyme replacement and PPI",
+    "Insulin",
+    "Oral hypoglycemics",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Table — exocrine Mx: exogenous enzyme replacement, PPI. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-174",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "Endocrine deficiency in chronic pancreatitis is caused by:",
+   "opts": [
+    "Decreased insulin",
+    "Decreased pancreatic enzymes",
+    "Increased bile acids",
+    "Increased glucagon only"
+   ],
+   "ans": 0,
+   "exp": "Table: endocrine deficiency caused d/t insulin decreased. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-175",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The feature of endocrine deficiency in chronic pancreatitis is:",
+   "opts": [
+    "Diabetes",
+    "Steatorrhoea",
+    "Malabsorption",
+    "Jaundice only"
+   ],
+   "ans": 0,
+   "exp": "Table — endocrine features: diabetes. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-176",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "Tests for endocrine deficiency in chronic pancreatitis include:",
+   "opts": [
+    "Blood glucose and HbA1c",
+    "Fecal elastase",
+    "NBT PABA",
+    "Serum amylase"
+   ],
+   "ans": 0,
+   "exp": "Table — endocrine tests: blood glucose, HbA1c. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-177",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "Endocrine deficiency in chronic pancreatitis is treated with:",
+   "opts": [
+    "Oral hypoglycaemic agents and insulin",
+    "Exogenous enzymes",
+    "PPI",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Table — endocrine Mx: oral hypoglycaemic agents, insulin. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-178",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The pain of chronic pancreatitis is caused by:",
+   "opts": [
+    "Fibrosis and ineffective drainage due to scars, strictures or stones in the main pancreatic duct",
+    "Gallstones in the gallbladder",
+    "Appendicitis",
+    "Diverticulitis"
+   ],
+   "ans": 0,
+   "exp": "Table — pain: fibrosis, ineffective drainage d/t scars/strictures/stones (CaCO3) in major pancreatic duct. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-179",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The feature of the pain component of chronic pancreatitis is:",
+   "opts": [
+    "Intractable pain",
+    "Colicky pain relieved by eating",
+    "Pain only at night",
+    "No pain"
+   ],
+   "ans": 0,
+   "exp": "Table — pain features: intractable pain. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-180",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The investigation of choice in chronic pancreatitis is:",
+   "opts": [
+    "MRCP with secretin stimulation",
+    "USG alone",
+    "Plain X-ray",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigations: MRCP with secretin stimulation — IOC. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-181",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "In chronic pancreatitis, MRCP with secretin stimulation shows:",
+   "opts": [
+    "Ineffective drainage due to stones and a dilated main pancreatic duct",
+    "A normal duct in all",
+    "Only gallstones",
+    "Pneumobilia"
+   ],
+   "ans": 0,
+   "exp": "MRCP with secretin stimulation: ineffective drainage d/t stones, dilated main pancreatic duct. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-182",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The gold standard investigation in chronic pancreatitis is:",
+   "opts": [
+    "ERCP",
+    "USG",
+    "CECT",
+    "MRCP"
+   ],
+   "ans": 0,
+   "exp": "Investigations: ERCP — gold standard. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-183",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "EUS in chronic pancreatitis is assessed by:",
+   "opts": [
+    "The Rosemont criteria",
+    "The Rosewood score",
+    "The Tokyo guidelines",
+    "The Ranson's criteria"
+   ],
+   "ans": 0,
+   "exp": "Investigations: EUS — Rosemont criteria. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-184",
+   "sec": "Chronic Pancreatitis",
+   "page": 295,
+   "q": "The MRCP appearance of a dilated, beaded main pancreatic duct in chronic pancreatitis is called:",
+   "opts": [
+    "Chain of lakes",
+    "Double bubble",
+    "Sentinel loop",
+    "Seagull sign"
+   ],
+   "ans": 0,
+   "exp": "MRCP figure: chain of lakes in MRCP. (Book p295)"
+  },
+  {
+   "id": "SURG-C39-185",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "The first step in managing pain in chronic pancreatitis is:",
+   "opts": [
+    "Analgesics",
+    "Puestow's procedure",
+    "Distal pancreatectomy",
+    "ERCP with sphincterotomy"
+   ],
+   "ans": 0,
+   "exp": "Management of pain: analgesics. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-186",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "If pain in chronic pancreatitis responds to analgesics, the next step is:",
+   "opts": [
+    "No intervention",
+    "Drainage surgery",
+    "Resection surgery",
+    "ERCP"
+   ],
+   "ans": 0,
+   "exp": "Management of pain: responds — no intervention. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-187",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "If pain in chronic pancreatitis stops responding to analgesics, the approach is:",
+   "opts": [
+    "Intervention — drainage or resection",
+    "Observation only",
+    "More of the same analgesic",
+    "Cholecystectomy"
+   ],
+   "ans": 0,
+   "exp": "Management of pain: stops responding — intervention (drainage, resection). (Book p296)"
+  },
+  {
+   "id": "SURG-C39-188",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "In drainage of painful chronic pancreatitis, if the main pancreatic duct diameter is LESS than 5-6 mm, the procedure is:",
+   "opts": [
+    "ERCP with sphincterotomy",
+    "Puestow's procedure",
+    "Duval procedure",
+    "Beger's procedure"
+   ],
+   "ans": 0,
+   "exp": "Drainage: diameter of main pancreatic duct <5-6 mm — ERCP + sphincterotomy. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-189",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "In drainage of painful chronic pancreatitis, if the main pancreatic duct is GREATER than 5-6 mm, which procedure is listed?",
+   "opts": [
+    "Puestow's procedure",
+    "Beger's procedure",
+    "Distal pancreatectomy",
+    "Whipple's surgery"
+   ],
+   "ans": 0,
+   "exp": "Drainage: >5-6 mm — Puestow's and Duval. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-190",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "Puestow's procedure is:",
+   "opts": [
+    "A longitudinal pancreaticojejunostomy",
+    "An end-to-end pancreaticojejunostomy",
+    "A distal pancreatectomy",
+    "A Whipple's surgery"
+   ],
+   "ans": 0,
+   "exp": "Puestow's: longitudinal pancreatico-jejunostomy. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-191",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "Puestow's procedure is indicated for:",
+   "opts": [
+    "Stones throughout the pancreatic duct",
+    "Stones in the distal pancreas only",
+    "A head mass only",
+    "A normal duct"
+   ],
+   "ans": 0,
+   "exp": "Puestow's: indication — stones throughout pancreatic duct. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-192",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "The Duval procedure is:",
+   "opts": [
+    "An end-to-end pancreaticojejunostomy",
+    "A longitudinal pancreaticojejunostomy",
+    "A distal pancreatectomy",
+    "A Beger's procedure"
+   ],
+   "ans": 0,
+   "exp": "Duval: end-to-end pancreatico-jejunostomy. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-193",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "The Duval procedure is indicated for:",
+   "opts": [
+    "Stones in the distal pancreas",
+    "Stones throughout the duct",
+    "A normal duct",
+    "A head mass"
+   ],
+   "ans": 0,
+   "exp": "Duval: indication — stones in distal pancreas. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-194",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "In resection for painful chronic pancreatitis restricted to the HEAD, the procedure is:",
+   "opts": [
+    "Beger's procedure — duodenal preserving pancreatic head resection",
+    "Distal pancreatectomy",
+    "Puestow's procedure",
+    "Whipple's surgery"
+   ],
+   "ans": 0,
+   "exp": "Resection: restricted to head — Beger's procedure, duodenal preserving pancreatic head resection. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-195",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "In resection for painful chronic pancreatitis restricted to the BODY and TAIL, the procedure is:",
+   "opts": [
+    "Distal pancreatectomy",
+    "Beger's procedure",
+    "Puestow's procedure",
+    "Whipple's surgery"
+   ],
+   "ans": 0,
+   "exp": "Resection: restricted to body and tail — distal pancreatectomy. (Book p296)"
+  },
+  {
+   "id": "SURG-C39-196",
+   "sec": "Management of Pain in Chronic Pancreatitis",
+   "page": 296,
+   "q": "Frey's procedure is:",
+   "opts": [
+    "Beger's plus Puestow's procedure",
+    "Beger's plus Duval",
+    "Puestow's plus Duval",
+    "Distal pancreatectomy plus Beger's"
+   ],
+   "ans": 0,
+   "exp": "Frey's procedure: Beger's + Puestow's procedure. (Book p296)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U39-1",
+   "ch": 39,
+   "n": 1,
+   "title": "Congenital Disorders of the Pancreas",
+   "sec": "Congenital Disorders of the Pancreas · p285",
+   "qs": [
+    "SURG-C39-001",
+    "SURG-C39-002",
+    "SURG-C39-003",
+    "SURG-C39-004",
+    "SURG-C39-005",
+    "SURG-C39-006",
+    "SURG-C39-007",
+    "SURG-C39-008",
+    "SURG-C39-009",
+    "SURG-C39-010",
+    "SURG-C39-011",
+    "SURG-C39-012",
+    "SURG-C39-013"
+   ],
+   "guide": "The pancreas is born with its quirks: divisum — the commonest anomaly — is unfused dorsal and ventral buds draining badly and setting the stage for pancreatitis, diagnosed on MRCP and treated with ERCP and sphincterotomy. The annular pancreas is a malrotated ventral bud strangling the second part of the duodenum, the friend of Down's syndrome, flashing the double bubble on X-ray; CECT defines it and duodeno-duodenostomy relieves it — never cut the ring, or its blood supply dies."
+  },
+  {
+   "id": "SURG-U39-2",
+   "ch": 39,
+   "n": 2,
+   "title": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi",
+   "sec": "Surgical Anatomy: Tunnel of Love and the Sphincter of Oddi · p286",
+   "qs": [
+    "SURG-C39-014",
+    "SURG-C39-015",
+    "SURG-C39-016",
+    "SURG-C39-017",
+    "SURG-C39-018",
+    "SURG-C39-019",
+    "SURG-C39-020",
+    "SURG-C39-021",
+    "SURG-C39-022",
+    "SURG-C39-023",
+    "SURG-C39-024",
+    "SURG-C39-025"
+   ],
+   "guide": "At the head of the pancreas runs the tunnel of love between the superior mesenteric artery and vein — keep it intact and Whipple's stays on the table. The sphincter of Oddi is four sphincters in a sleeve (superior and inferior choledochal, ampullary, pancreatic); when it malfunctions, bile and juice back up as biliary colic or post-cholecystectomy syndrome or as pancreatitis. ERCP manometry above 40 mmHg proves it, and the Milwaukee types grade it: pain, dilation and enzymes for Type I, pain plus dilation for Type II, pain alone for Type III."
+  },
+  {
+   "id": "SURG-U39-3",
+   "ch": 39,
+   "n": 3,
+   "title": "Acute Pancreatitis: Causes and Pathophysiology",
+   "sec": "Acute Pancreatitis: Causes and Pathophysiology · p287",
+   "qs": [
+    "SURG-C39-026",
+    "SURG-C39-027",
+    "SURG-C39-028",
+    "SURG-C39-029",
+    "SURG-C39-030",
+    "SURG-C39-031",
+    "SURG-C39-032",
+    "SURG-C39-033",
+    "SURG-C39-034",
+    "SURG-C39-035",
+    "SURG-C39-036",
+    "SURG-C39-037",
+    "SURG-C39-038",
+    "SURG-C39-039",
+    "SURG-C39-040"
+   ],
+   "guide": "Gallstones top the cause list of acute pancreatitis, alcohol second, trauma first in children, and ERCP — 5% of the time, more in females, in difficult cannulation and in therapeutic runs — iatrogenically. Thiazides, antiretrovirals and chemo add their names, with hypercalcaemia, hypertriglyceridaemia, divisum, idiopathic and the odd scorpion bite rounding it out. The co-localisation theory plays out the pathology: a pathologic stimulus drives calcium and PKC, NF-KB fires, zymogens meet lysosomes and trypsin activates where it should not — acinar death, inflammatory cells, IL-1, IL-6, IL-10 and TNF-alpha, systemic inflammation, necrosis. The pain is epigastric, boring to the back, relieved leaning forward — symptoms always out of proportion to the quiet signs."
+  },
+  {
+   "id": "SURG-U39-4",
+   "ch": 39,
+   "n": 4,
+   "title": "Acute Pancreatitis: Signs, Diagnosis and Investigations",
+   "sec": "Acute Pancreatitis: Signs, Diagnosis and Investigations · p288",
+   "qs": [
+    "SURG-C39-041",
+    "SURG-C39-042",
+    "SURG-C39-043",
+    "SURG-C39-044",
+    "SURG-C39-045",
+    "SURG-C39-046",
+    "SURG-C39-047",
+    "SURG-C39-048",
+    "SURG-C39-049",
+    "SURG-C39-050",
+    "SURG-C39-051",
+    "SURG-C39-052",
+    "SURG-C39-053",
+    "SURG-C39-054",
+    "SURG-C39-055",
+    "SURG-C39-056",
+    "SURG-C39-057",
+    "SURG-C39-058",
+    "SURG-C39-059",
+    "SURG-C39-060",
+    "SURG-C39-061",
+    "SURG-C39-062",
+    "SURG-C39-063",
+    "SURG-C39-064"
+   ],
+   "guide": "Hemorrhagic pancreatitis bruises the body in three places: Cullen's at the umbilicus, Grey Turner's at the flanks, Fox's at the groin; the peritonitis is chalky white without a perforation. Two of three makes the diagnosis — the pain, a threefold amylase or lipase, or characteristic imaging. Amylase is the early riser and early leaver, sensitive; lipase rises gradually, lingers, and is more specific; neither predicts severity. Amylase climbs only 3-4 times normal and climbs for other culprits too — mesenteric ischaemia, bowel perforation, salpingitis, volvulus, torsion. The X-ray is non-specific: gasless stunned bowel, the colon cut off sign, the sentinel loop in the left upper quadrant. CECT is the IOC after 72 hours — before that it understates the damage — in the portal venous phase at 60-70 seconds, most sensitive for necrosis; deranged liver enzymes whisper biliary, and hypocalcaemia is saponified fat chelating the calcium."
+  },
+  {
+   "id": "SURG-U39-5",
+   "ch": 39,
+   "n": 5,
+   "title": "Severity Scores in Acute Pancreatitis",
+   "sec": "Severity Scores in Acute Pancreatitis · p289",
+   "qs": [
+    "SURG-C39-065",
+    "SURG-C39-066",
+    "SURG-C39-067",
+    "SURG-C39-068",
+    "SURG-C39-069",
+    "SURG-C39-070",
+    "SURG-C39-071",
+    "SURG-C39-072",
+    "SURG-C39-073",
+    "SURG-C39-074",
+    "SURG-C39-075",
+    "SURG-C39-076",
+    "SURG-C39-077",
+    "SURG-C39-078",
+    "SURG-C39-079",
+    "SURG-C39-080",
+    "SURG-C39-081",
+    "SURG-C39-082",
+    "SURG-C39-083",
+    "SURG-C39-084",
+    "SURG-C39-085",
+    "SURG-C39-086"
+   ],
+   "guide": "The severity scores are the scorecard: Glasgow 3 or more, Ranson's 3 or more (WBC over 16,000, age over 55, glucose over 200, AST over 250, LDH over 350 on admission; hematocrit drop over 10%, BUN rise over 5, calcium under 8, PaO2 under 60, base deficit over 4 and fluid needs over 6 litres within 48 hours), BISAP's bedside five (BUN over 25, impaired mentation, SIRS, age over 60, pleural effusion) at 3 or more, APACHE II at 8 or more, HAPS, modified Marshall at 2 or more, and CRP over 150. The CT severity index — Balthazar 0 to 4 plus necrosis 0, 2, 4, 6 — tops 10 and calls 6 or more severe."
+  },
+  {
+   "id": "SURG-U39-6",
+   "ch": 39,
+   "n": 6,
+   "title": "Management of Acute Pancreatitis",
+   "sec": "Management of Acute Pancreatitis · p290",
+   "qs": [
+    "SURG-C39-087",
+    "SURG-C39-088",
+    "SURG-C39-089",
+    "SURG-C39-090",
+    "SURG-C39-091",
+    "SURG-C39-092",
+    "SURG-C39-093",
+    "SURG-C39-094",
+    "SURG-C39-095",
+    "SURG-C39-096",
+    "SURG-C39-097",
+    "SURG-C39-098"
+   ],
+   "guide": "The management is a disciplined ladder: NPO, Ringer's lactate as the fluid of choice, analgesia with opioids when the pain won't sit, antibiotics only for severe disease and infected necrosis — meropenem is the IV drug of choice. Nutrition walks from TPN in the initial and severe phase toward early enteral feeding, preferably through a nasojejunal tube, because an early gut reduces mortality while a starved one leaks bacteria into infection. ERCP with sphincterotomy enters when a CBD stone is documented, the pancreatitis is biliary, the symptoms outlast 48 hours or jaundice appears — and in gallstone pancreatitis the gallbladder comes out before discharge."
+  },
+  {
+   "id": "SURG-U39-7",
+   "ch": 39,
+   "n": 7,
+   "title": "Complications of Acute Pancreatitis",
+   "sec": "Complications of Acute Pancreatitis · p291",
+   "qs": [
+    "SURG-C39-099",
+    "SURG-C39-100",
+    "SURG-C39-101",
+    "SURG-C39-102",
+    "SURG-C39-103",
+    "SURG-C39-104",
+    "SURG-C39-105",
+    "SURG-C39-106",
+    "SURG-C39-107",
+    "SURG-C39-108",
+    "SURG-C39-109",
+    "SURG-C39-110",
+    "SURG-C39-111",
+    "SURG-C39-112",
+    "SURG-C39-113",
+    "SURG-C39-114",
+    "SURG-C39-115",
+    "SURG-C39-116",
+    "SURG-C39-117",
+    "SURG-C39-118",
+    "SURG-C39-119"
+   ],
+   "guide": "The Atlanta classification sorts complications: mild none, moderate local only, severe both. Locally the pseudocyst forms, necrosis sets in, the splenic artery — the commonest vessel — pseudoaneurysms and needs ligation or embolisation, splenic vein thrombosis makes sinistral portal hypertension bleeding from the upper GI tract (splenectomy cures it), and the left pleural effusion accumulates. Systemically, ARDS, MODS — the commonest cause of early death, sepsis and SIRS — the commonest cause of death. The timeline terms are exact: under 4 weeks, an acute peripancreatic collection or an acute necrotic collection; beyond 4 weeks with a wall, a pseudocyst or walled-off necrosis. Small collections are watched; large or symptomatic ones get a pigtail. And when the duct ruptures into the peritoneum, the amylase-rich turbid ascites answers to paracentesis, octreotide to dry the secretions, and a stent to seal the leak."
+  },
+  {
+   "id": "SURG-U39-8",
+   "ch": 39,
+   "n": 8,
+   "title": "Pancreatic Necrosis",
+   "sec": "Pancreatic Necrosis · p292",
+   "qs": [
+    "SURG-C39-120",
+    "SURG-C39-121",
+    "SURG-C39-122",
+    "SURG-C39-123",
+    "SURG-C39-124",
+    "SURG-C39-125",
+    "SURG-C39-126",
+    "SURG-C39-127",
+    "SURG-C39-128",
+    "SURG-C39-129",
+    "SURG-C39-130",
+    "SURG-C39-131"
+   ],
+   "guide": "Necrosis is dead tissue, and sterile dead tissue is left alone unless the pain persists, the patient fails to improve, or the biliary or enteric obstruction becomes symptomatic — then the prognosis is still the better of the two fates. Infected necrosis announces itself with fever, rising TLC and CRP and gas bubbles on CT, and is managed by the step-up approach: percutaneous pigtail drainage first, then minimally invasive retroperitoneal debridement if that fails — and it carries high mortality. Beger's method, the open era's answer, irrigates and drains saline through both tubes and keeps its high mortality too."
+  },
+  {
+   "id": "SURG-U39-9",
+   "ch": 39,
+   "n": 9,
+   "title": "Pseudocyst",
+   "sec": "Pseudocyst · p292",
+   "qs": [
+    "SURG-C39-132",
+    "SURG-C39-133",
+    "SURG-C39-134",
+    "SURG-C39-135",
+    "SURG-C39-136",
+    "SURG-C39-137",
+    "SURG-C39-138",
+    "SURG-C39-139",
+    "SURG-C39-140",
+    "SURG-C39-141",
+    "SURG-C39-142",
+    "SURG-C39-143",
+    "SURG-C39-144",
+    "SURG-C39-145",
+    "SURG-C39-146",
+    "SURG-C39-147",
+    "SURG-C39-148",
+    "SURG-C39-149",
+    "SURG-C39-150",
+    "SURG-C39-151",
+    "SURG-C39-152",
+    "SURG-C39-153",
+    "SURG-C39-154",
+    "SURG-C39-155"
+   ],
+   "guide": "The pseudocyst is a granulation-lined collection, most often in the lesser sac, more common in chronic pancreatitis, presenting as an epigastric lump with vomiting on a history of pancreatitis. CECT is the IOC; D'Esio types it — Type I acute with a normal duct, Type II acute-on-chronic with abnormal anatomy but no strictures, Type III chronic, strictured, duct-communicating, a retention cyst. It usually resolves on its own; intervene when it is over 6 cm, over 6 weeks old, or walled over 6 mm thick. External drainage (pigtail) takes the infected and the hemorrhagic, with a stent for the duct-communicating fistula; internal drainage — cystojejunostomy or cystogastrostomy — is done open, laparoscopically or by NOTES. Infection is its commonest complication, hemorrhage the commonest surgical one, with rupture and pancreato-pleural fistula besides; and against the mucinous cystic neoplasm in the differential, the pseudocyst shows a normal CEA and the thinner wall."
+  },
+  {
+   "id": "SURG-U39-10",
+   "ch": 39,
+   "n": 10,
+   "title": "Chronic Pancreatitis",
+   "sec": "Chronic Pancreatitis · p294",
+   "qs": [
+    "SURG-C39-156",
+    "SURG-C39-157",
+    "SURG-C39-158",
+    "SURG-C39-159",
+    "SURG-C39-160",
+    "SURG-C39-161",
+    "SURG-C39-162",
+    "SURG-C39-163",
+    "SURG-C39-164",
+    "SURG-C39-165",
+    "SURG-C39-166",
+    "SURG-C39-167",
+    "SURG-C39-168",
+    "SURG-C39-169",
+    "SURG-C39-170",
+    "SURG-C39-171",
+    "SURG-C39-172",
+    "SURG-C39-173",
+    "SURG-C39-174",
+    "SURG-C39-175",
+    "SURG-C39-176",
+    "SURG-C39-177",
+    "SURG-C39-178",
+    "SURG-C39-179",
+    "SURG-C39-180",
+    "SURG-C39-181",
+    "SURG-C39-182",
+    "SURG-C39-183",
+    "SURG-C39-184"
+   ],
+   "guide": "Chronic pancreatitis is fibrosis and chronic inflammation doing irreversible damage to the parenchyma, catalogued by TIGAR-O: toxins (alcohol first, then smoking, hypercalcaemia, renal failure), idiopathic, genetic (PRSS1 on chromosome 7, SPINK1 of tropical calcific pancreatitis — acinar-cell guard against premature trypsinogen activation, cassava-linked, cancer-prone — and CFTR), autoimmune (IgG4 mediated fibrosis), recurrent (post-necrotic, recurrent acute, vascular) and obstructive (stones, divisum, duct scars). It speaks only after 80-90% destruction, exocrine before endocrine: enzymes fall into steatorrhoea, malabsorption, diarrhoea and weight loss (fecal fat up, elastase down, NBT PABA), treated with exogenous enzymes and a PPI; insulin falls into diabetes (glucose and HbA1c) treated with hypoglycaemics or insulin; and the intractable pain is fibrosis and stones choking a scarred main duct. Secretin MRCP is the IOC, ERCP the gold standard, EUS graded by Rosemont, and the dilated beaded duct runs as the chain of lakes."
+  },
+  {
+   "id": "SURG-U39-11",
+   "ch": 39,
+   "n": 11,
+   "title": "Management of Pain in Chronic Pancreatitis",
+   "sec": "Management of Pain in Chronic Pancreatitis · p296",
+   "qs": [
+    "SURG-C39-185",
+    "SURG-C39-186",
+    "SURG-C39-187",
+    "SURG-C39-188",
+    "SURG-C39-189",
+    "SURG-C39-190",
+    "SURG-C39-191",
+    "SURG-C39-192",
+    "SURG-C39-193",
+    "SURG-C39-194",
+    "SURG-C39-195",
+    "SURG-C39-196"
+   ],
+   "guide": "Pain is managed in tiers: analgesics first, and if they hold, no intervention. When they fail, the duct decides: under 5-6 mm, ERCP with sphincterotomy; over 5-6 mm, drainage — Puestow's longitudinal pancreaticojejunostomy for stones running the whole duct, Duval's end-to-end pancreaticojejunostomy for stones stuck distally. Resection takes the rest: Beger's duodenal-preserving head resection for a head-limited disease, distal pancreatectomy for body and tail — and Frey's combines Beger's with Puestow's when both are needed."
+  }
+ ]
+}
