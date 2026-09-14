@@ -1,0 +1,4038 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C53-001",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The ischemic type of cerebrovascular accident includes:",
+   "opts": [
+    "Thrombotic and embolic",
+    "Intracerebral and SAH",
+    "EDH and SDH",
+    "SAH and EDH"
+   ],
+   "ans": 0,
+   "exp": "Thrombotic and embolic (Book p399)"
+  },
+  {
+   "id": "SURG-C53-002",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The hemorrhagic types of CVA include intracerebral, SAH, EDH and:",
+   "opts": [
+    "SDH",
+    "Ischemic stroke",
+    "TIA",
+    "Venous sinus thrombosis"
+   ],
+   "ans": 0,
+   "exp": "SDH (Book p399)"
+  },
+  {
+   "id": "SURG-C53-003",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "SAH stands for:",
+   "opts": [
+    "Subarachnoid hemorrhage",
+    "Subacute hematoma",
+    "Subaponeurotic hemorrhage",
+    "Supratentorial hemorrhage"
+   ],
+   "ans": 0,
+   "exp": "Subarachnoid hemorrhage (Book p399)"
+  },
+  {
+   "id": "SURG-C53-004",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "EDH stands for:",
+   "opts": [
+    "Extra dural hemorrhage",
+    "Extra dural hematoma of spine only",
+    "Epidural venous bleed",
+    "Ex vacuo hemorrhage"
+   ],
+   "ans": 0,
+   "exp": "Extra dural hemorrhage (Book p399)"
+  },
+  {
+   "id": "SURG-C53-005",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "SDH stands for:",
+   "opts": [
+    "Subdural hemorrhage",
+    "Subdural hygroma",
+    "Subarachnoid hemorrhage",
+    "Sinus dural hemorrhage"
+   ],
+   "ans": 0,
+   "exp": "Subdural hemorrhage (Book p399)"
+  },
+  {
+   "id": "SURG-C53-006",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The m/c cause of intracerebral hemorrhage is:",
+   "opts": [
+    "↑ HTN",
+    "Berry aneurysm",
+    "AV malformation",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "↑ HTN (Book p399)"
+  },
+  {
+   "id": "SURG-C53-007",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The m/c site of intracerebral hemorrhage is:",
+   "opts": [
+    "Basal ganglia (putamen)",
+    "Pons",
+    "Cerebellum",
+    "Lobar white matter"
+   ],
+   "ans": 0,
+   "exp": "Basal ganglia (putamen) (Book p399)"
+  },
+  {
+   "id": "SURG-C53-008",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "Traumatic SAH is mostly managed:",
+   "opts": [
+    "Conservatively",
+    "By coiling",
+    "By clipping",
+    "By exteriorisation"
+   ],
+   "ans": 0,
+   "exp": "Conservatively (Book p399)"
+  },
+  {
+   "id": "SURG-C53-009",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The more important cause of SAH is:",
+   "opts": [
+    "Rupture of berry aneurysms",
+    "Trauma",
+    "Venous rupture",
+    "Capillary bleed"
+   ],
+   "ans": 0,
+   "exp": "Rupture of berry aneurysms (Book p399)"
+  },
+  {
+   "id": "SURG-C53-010",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The m/c aneurysm overall is the:",
+   "opts": [
+    "Berry aneurysm",
+    "Fusiform aneurysm",
+    "Mycotic aneurysm",
+    "Dissecting aneurysm"
+   ],
+   "ans": 0,
+   "exp": "Berry aneurysm (Book p399)"
+  },
+  {
+   "id": "SURG-C53-011",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The m/c extracranial site of berry aneurysm is:",
+   "opts": [
+    "Infrarenal abdominal aorta",
+    "Thoracic aorta",
+    "Femoral artery",
+    "Renal artery"
+   ],
+   "ans": 0,
+   "exp": "Infrarenal abdominal aorta (Book p399)"
+  },
+  {
+   "id": "SURG-C53-012",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "Berry aneurysms are morphologically:",
+   "opts": [
+    "Saccular, junctional aneurysms",
+    "Fusiform, mid-arterial",
+    "Dissecting",
+    "Atherosclerotic"
+   ],
+   "ans": 0,
+   "exp": "Saccular, junctional aneurysms (Book p399)"
+  },
+  {
+   "id": "SURG-C53-013",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "A risk factor for berry aneurysm is:",
+   "opts": [
+    "Polycystic kidney disease",
+    "Simple renal cyst",
+    "Medullary sponge kidney",
+    "Horseshoe kidney"
+   ],
+   "ans": 0,
+   "exp": "Polycystic kidney disease (Book p399)"
+  },
+  {
+   "id": "SURG-C53-014",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "Another risk factor for berry aneurysm is:",
+   "opts": [
+    "Ehlers-Danlos syndrome",
+    "Marfan-like obesity",
+    "Osteogenesis imperfecta type I",
+    "Alport syndrome"
+   ],
+   "ans": 0,
+   "exp": "Ehlers-Danlos syndrome (Book p399)"
+  },
+  {
+   "id": "SURG-C53-015",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "Yet another risk factor for berry aneurysm is:",
+   "opts": [
+    "Fibromuscular dysplasia",
+    "Atherosclerosis obliterans",
+    "Takayasu arteritis",
+    "Polyarteritis nodosa"
+   ],
+   "ans": 0,
+   "exp": "Fibromuscular dysplasia (Book p399)"
+  },
+  {
+   "id": "SURG-C53-016",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "Other risk factors for berry aneurysms include HTN, smoking and:",
+   "opts": [
+    "Marfan syndrome",
+    "Turner syndrome",
+    "Noonan syndrome",
+    "Klinefelter syndrome"
+   ],
+   "ans": 0,
+   "exp": "Marfan syndrome (Book p399)"
+  },
+  {
+   "id": "SURG-C53-017",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The m/c site of rupture of a berry aneurysm is the:",
+   "opts": [
+    "Apex",
+    "Neck",
+    "Base",
+    "Lateral wall"
+   ],
+   "ans": 0,
+   "exp": "Apex (Book p399)"
+  },
+  {
+   "id": "SURG-C53-018",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "On the circle of Willis, the m/c site of berry aneurysm is the:",
+   "opts": [
+    "Anterior communicating artery",
+    "Middle cerebral artery",
+    "Internal carotid artery",
+    "Basilar artery"
+   ],
+   "ans": 0,
+   "exp": "Anterior communicating artery (Book p399)"
+  },
+  {
+   "id": "SURG-C53-019",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The anterior communicating artery site accounts for what percentage of berry aneurysms?",
+   "opts": [
+    "40%",
+    "34%",
+    "20%",
+    "4%"
+   ],
+   "ans": 0,
+   "exp": "40% (Book p399)"
+  },
+  {
+   "id": "SURG-C53-020",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The middle cerebral artery site accounts for what percentage of berry aneurysms?",
+   "opts": [
+    "34%",
+    "40%",
+    "20%",
+    "4%"
+   ],
+   "ans": 0,
+   "exp": "34% (Book p399)"
+  },
+  {
+   "id": "SURG-C53-021",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The internal carotid/posterior communicating site accounts for what percentage of berry aneurysms?",
+   "opts": [
+    "20%",
+    "40%",
+    "34%",
+    "4%"
+   ],
+   "ans": 0,
+   "exp": "20% (Book p399)"
+  },
+  {
+   "id": "SURG-C53-022",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms",
+   "page": 399,
+   "q": "The posterior circulation (basilar) site accounts for what percentage of berry aneurysms?",
+   "opts": [
+    "4%",
+    "20%",
+    "34%",
+    "40%"
+   ],
+   "ans": 0,
+   "exp": "4% (Book p399)"
+  },
+  {
+   "id": "SURG-C53-023",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "The classic headache of SAH is:",
+   "opts": [
+    "Thunderclap headache / worst headache of life",
+    "Gradual holocranial headache",
+    "Early morning headache",
+    "Positional headache"
+   ],
+   "ans": 0,
+   "exp": "Thunderclap headache / worst headache of life (Book p400)"
+  },
+  {
+   "id": "SURG-C53-024",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "In SAH, focal neurological signs are:",
+   "opts": [
+    "Absent",
+    "Always present",
+    [
+     "Present in half"
+    ],
+    "Present late only"
+   ],
+   "ans": 0,
+   "exp": "Absent (Book p400)"
+  },
+  {
+   "id": "SURG-C53-025",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "A clinical feature of SAH is:",
+   "opts": [
+    "Neck stiffness",
+    "Kernig-negative rigidity",
+    [
+     "Limb hypertonia"
+    ],
+    "Papilloedema always"
+   ],
+   "ans": 0,
+   "exp": "Neck stiffness (Book p400)"
+  },
+  {
+   "id": "SURG-C53-026",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "SAH may be preceded by:",
+   "opts": [
+    "Prodromal symptoms",
+    "No warning ever",
+    [
+     "Seizure only"
+    ],
+    "Visual aura only"
+   ],
+   "ans": 0,
+   "exp": "Prodromal symptoms (Book p400)"
+  },
+  {
+   "id": "SURG-C53-027",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "Terson's syndrome is:",
+   "opts": [
+    "SAH + vitreous hemorrhage",
+    "SAH + retinal detachment",
+    [
+     "SAH + papilloedema"
+    ],
+    "SAH + third nerve palsy"
+   ],
+   "ans": 0,
+   "exp": "SAH + vitreous hemorrhage (Book p400)"
+  },
+  {
+   "id": "SURG-C53-028",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "MCA aneurysm characteristically causes:",
+   "opts": [
+    "Retroorbital pain",
+    "Occipital pain",
+    [
+     "Neck pain"
+    ],
+    "Vertex pain"
+   ],
+   "ans": 0,
+   "exp": "Retroorbital pain (Book p400)"
+  },
+  {
+   "id": "SURG-C53-029",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "The IOC for SAH is:",
+   "opts": [
+    "NCCT",
+    "MRI",
+    [
+     "Lumbar puncture first"
+    ],
+    "Catheter angiography first"
+   ],
+   "ans": 0,
+   "exp": "NCCT (Book p400)"
+  },
+  {
+   "id": "SURG-C53-030",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "The grading done on CT for SAH is:",
+   "opts": [
+    "Fischer grading",
+    "Hunt and Hess",
+    [
+     "WFNS"
+    ],
+    "GCS"
+   ],
+   "ans": 0,
+   "exp": "Fischer grading (Book p400)"
+  },
+  {
+   "id": "SURG-C53-031",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "CSF tap in SAH shows:",
+   "opts": [
+    "Xanthochromia",
+    "Frank pus",
+    [
+     "Clear CSF"
+    ],
+    "Chylous CSF"
+   ],
+   "ans": 0,
+   "exp": "Xanthochromia (Book p400)"
+  },
+  {
+   "id": "SURG-C53-032",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "Xanthochromia in SAH CSF is due to:",
+   "opts": [
+    "RBC lysis",
+    "High protein",
+    [
+     "Low glucose"
+    ],
+    "Bilirubin from liver"
+   ],
+   "ans": 0,
+   "exp": "RBC lysis (Book p400)"
+  },
+  {
+   "id": "SURG-C53-033",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "Hunt and Hess grading is based on:",
+   "opts": [
+    "Neurological symptoms",
+    "GCS",
+    [
+     "CT blood load"
+    ],
+    "Angiographic findings"
+   ],
+   "ans": 0,
+   "exp": "Neurological symptoms (Book p400)"
+  },
+  {
+   "id": "SURG-C53-034",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "WFNS grading is based on:",
+   "opts": [
+    "GCS",
+    "Neurological symptoms",
+    [
+     "Fischer grade"
+    ],
+    "Motor score alone"
+   ],
+   "ans": 0,
+   "exp": "GCS (Book p400)"
+  },
+  {
+   "id": "SURG-C53-035",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "WFNS stands for:",
+   "opts": [
+    "World Federation of Neurological Surgeons",
+    "World Forum of Neurological Science",
+    [
+     "Western Federation of Neurosurgery"
+    ],
+    "World Federation of Neurosciences"
+   ],
+   "ans": 0,
+   "exp": "World Federation of Neurological Surgeons (Book p400)"
+  },
+  {
+   "id": "SURG-C53-036",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "The first step in managing SAH is:",
+   "opts": [
+    "Cerebral angiography",
+    "Craniotomy",
+    [
+     "Coiling blind"
+    ],
+    "NCCT repeat"
+   ],
+   "ans": 0,
+   "exp": "Cerebral angiography (Book p400)"
+  },
+  {
+   "id": "SURG-C53-037",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "Cerebral angiography in SAH is followed by:",
+   "opts": [
+    "Intervention",
+    "Observation",
+    [
+     "Repeat tap"
+    ],
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Intervention (Book p400)"
+  },
+  {
+   "id": "SURG-C53-038",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "The interventional radiology option for aneurysm is:",
+   "opts": [
+    "Coiling",
+    "Clipping",
+    [
+     "Wrapping"
+    ],
+    "Trapping"
+   ],
+   "ans": 0,
+   "exp": "Coiling (Book p400)"
+  },
+  {
+   "id": "SURG-C53-039",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "The surgical option for aneurysm is:",
+   "opts": [
+    "Clipping",
+    "Coiling",
+    [
+     "Embolisation"
+    ],
+    "Stenting"
+   ],
+   "ans": 0,
+   "exp": "Clipping (Book p400)"
+  },
+  {
+   "id": "SURG-C53-040",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "In coiling, the coil is released into the aneurysm through a:",
+   "opts": [
+    "Catheter",
+    "Guidewire alone",
+    [
+     "Needle"
+    ],
+    "Endoscope"
+   ],
+   "ans": 0,
+   "exp": "Catheter (Book p400)"
+  },
+  {
+   "id": "SURG-C53-041",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management",
+   "page": 400,
+   "q": "After the coil fills the aneurysm:",
+   "opts": [
+    "The catheter is removed",
+    "The catheter is left in situ",
+    [
+     "The coil is retrieved"
+    ],
+    "Balloon is inflated permanently"
+   ],
+   "ans": 0,
+   "exp": "The catheter is removed (Book p400)"
+  },
+  {
+   "id": "SURG-C53-042",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "A complication of SAH is:",
+   "opts": [
+    "Re-bleeding",
+    "Hypotension",
+    [
+     "Hypothermia"
+    ],
+    "Seizure-free course"
+   ],
+   "ans": 0,
+   "exp": "Re-bleeding (Book p401)"
+  },
+  {
+   "id": "SURG-C53-043",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Hydrocephalus after SAH is due to blood:",
+   "opts": [
+    "Blocking CSF flow",
+    "Blocking arterial flow",
+    [
+     "Blocking venous sinuses"
+    ],
+    "Irritating choroid plexus"
+   ],
+   "ans": 0,
+   "exp": "Blocking CSF flow (Book p401)"
+  },
+  {
+   "id": "SURG-C53-044",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Delayed ischemic neurological deficits after SAH appear:",
+   "opts": [
+    "2-10 days later",
+    "Within 24 hours",
+    [
+     "After 1 month"
+    ],
+    "After 6 months"
+   ],
+   "ans": 0,
+   "exp": "2-10 days later (Book p401)"
+  },
+  {
+   "id": "SURG-C53-045",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Delayed ischemic neurological deficits are due to:",
+   "opts": [
+    "Vasospasm",
+    "Re-bleed",
+    [
+     "Embolism"
+    ],
+    "Hydrocephalus"
+   ],
+   "ans": 0,
+   "exp": "Vasospasm (Book p401)"
+  },
+  {
+   "id": "SURG-C53-046",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Vasospasm after SAH is prevented with:",
+   "opts": [
+    "Nimodipine",
+    "Nifedipine",
+    [
+     "Amlodipine"
+    ],
+    "Verapamil"
+   ],
+   "ans": 0,
+   "exp": "Nimodipine (Book p401)"
+  },
+  {
+   "id": "SURG-C53-047",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "In aortic dissection, esmolol is used to control:",
+   "opts": [
+    "Permissive HTN",
+    "Hypotension",
+    [
+     "Bradycardia"
+    ],
+    "Vasospasm"
+   ],
+   "ans": 0,
+   "exp": "Permissive HTN (Book p401)"
+  },
+  {
+   "id": "SURG-C53-048",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Brain herniation begins with breakdown of the:",
+   "opts": [
+    "Munroe-Kellie doctrine",
+    "Cushing doctrine",
+    [
+     "Starling doctrine"
+    ],
+    "Bernoulli doctrine"
+   ],
+   "ans": 0,
+   "exp": "Munroe-Kellie doctrine (Book p401)"
+  },
+  {
+   "id": "SURG-C53-049",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Raised ICT lowers CPP because CPP equals:",
+   "opts": [
+    "MAP − ICP",
+    "MAP + ICP",
+    [
+     "ICP − MAP"
+    ],
+    "MAP × ICP"
+   ],
+   "ans": 0,
+   "exp": "MAP − ICP (Book p401)"
+  },
+  {
+   "id": "SURG-C53-050",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "The compensatory response to falling CPP is the:",
+   "opts": [
+    "Cushing's reflex",
+    "Baroreceptor reflex",
+    [
+     "Bezold-Jarisch reflex"
+    ],
+    "Oculocardiac reflex"
+   ],
+   "ans": 0,
+   "exp": "Cushing's reflex (Book p401)"
+  },
+  {
+   "id": "SURG-C53-051",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Cushing's reflex produces ↑ SBP which causes:",
+   "opts": [
+    "↑ HTN",
+    "↓ HTN",
+    [
+     "↑ ICP"
+    ],
+    "↓ SV"
+   ],
+   "ans": 0,
+   "exp": "↑ HTN (Book p401)"
+  },
+  {
+   "id": "SURG-C53-052",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Cushing's reflex bradycardia increases EDV and thereby:",
+   "opts": [
+    "↑ SV",
+    "↓ SV",
+    [
+     "↓ MAP"
+    ],
+    "↑ heart rate"
+   ],
+   "ans": 0,
+   "exp": "↑ SV (Book p401)"
+  },
+  {
+   "id": "SURG-C53-053",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "The third component of Cushing's reflex is:",
+   "opts": [
+    "Altered breathing",
+    "Altered vision",
+    [
+     "Altered pupil"
+    ],
+    "Altered tone"
+   ],
+   "ans": 0,
+   "exp": "Altered breathing (Book p401)"
+  },
+  {
+   "id": "SURG-C53-054",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "The net effect of Cushing's reflex is ↑ MAP so that CPP is maintained at:",
+   "opts": [
+    "≥ 60 mmHg",
+    "≥ 30 mmHg",
+    [
+     "≥ 90 mmHg"
+    ],
+    "≥ 120 mmHg"
+   ],
+   "ans": 0,
+   "exp": "≥ 60 mmHg (Book p401)"
+  },
+  {
+   "id": "SURG-C53-055",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "The herniation diagram labels cingulate herniation as:",
+   "opts": [
+    "Subfalcine",
+    "Transtentorial",
+    [
+     "Transcalvarial"
+    ],
+    "Tonsillar"
+   ],
+   "ans": 0,
+   "exp": "Subfalcine (Book p401)"
+  },
+  {
+   "id": "SURG-C53-056",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "The herniation diagram labels downward cerebellar herniation as:",
+   "opts": [
+    "Tonsillar",
+    "Transcalvarial",
+    [
+     "Subfalcine"
+    ],
+    "Uncal"
+   ],
+   "ans": 0,
+   "exp": "Tonsillar (Book p401)"
+  },
+  {
+   "id": "SURG-C53-057",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "The herniation through the skull defect in the diagram is:",
+   "opts": [
+    "Transcalvarial",
+    "Tonsillar",
+    [
+     "Uncal"
+    ],
+    "Central"
+   ],
+   "ans": 0,
+   "exp": "Transcalvarial (Book p401)"
+  },
+  {
+   "id": "SURG-C53-058",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Uncal herniation is also called:",
+   "opts": [
+    "Lateral transtentorial",
+    "Central transtentorial",
+    [
+     "Subfalcine"
+    ],
+    "Tonsillar"
+   ],
+   "ans": 0,
+   "exp": "Lateral transtentorial (Book p401)"
+  },
+  {
+   "id": "SURG-C53-059",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Uncal herniation produces:",
+   "opts": [
+    "Ipsilateral CN III palsy ('blown pupil') + contralateral hemiplegia/posturing",
+    "Contralateral CN III palsy only",
+    [
+     "Bilateral CN III palsy"
+    ],
+    "Ipsilateral hemiplegia only"
+   ],
+   "ans": 0,
+   "exp": "Ipsilateral CN III palsy ('blown pupil') + contralateral hemiplegia/posturing (Book p401)"
+  },
+  {
+   "id": "SURG-C53-060",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "The Kernohan notch phenomenon is invoked in:",
+   "opts": [
+    "Uncal (lateral transtentorial) herniation",
+    "Subfalcine herniation",
+    [
+     "Tonsillar herniation"
+    ],
+    "Transcalvarial herniation"
+   ],
+   "ans": 0,
+   "exp": "Uncal (lateral transtentorial) herniation (Book p401)"
+  },
+  {
+   "id": "SURG-C53-061",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "In uncal herniation the mass is usually in the:",
+   "opts": [
+    "Temporal lobe → medial temporal lobe under tentorium cerebelli",
+    "Frontal lobe under falx",
+    [
+     "Occipital lobe under tentorium"
+    ],
+    "Cerebellum upwards"
+   ],
+   "ans": 0,
+   "exp": "Temporal lobe → medial temporal lobe under tentorium cerebelli (Book p401)"
+  },
+  {
+   "id": "SURG-C53-062",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Central transtentorial herniation progresses as:",
+   "opts": [
+    "Coma + B/L small pupils → decorticate → decerebrate posturing → respiratory paralysis → death",
+    "Coma + dilated pupils → seizure → death",
+    [
+     "Headache → vomiting → recovery"
+    ],
+    "Coma + B/L small pupils → immediate death"
+   ],
+   "ans": 0,
+   "exp": "Coma + B/L small pupils → decorticate → decerebrate posturing → respiratory paralysis → death (Book p401)"
+  },
+  {
+   "id": "SURG-C53-063",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Central transtentorial herniation finally passes through the:",
+   "opts": [
+    "Foramen magnum",
+    "Tentorial notch only",
+    [
+     "Falx"
+    ],
+    "Optic canal"
+   ],
+   "ans": 0,
+   "exp": "Foramen magnum (Book p401)"
+  },
+  {
+   "id": "SURG-C53-064",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Subfalcine herniation presents with coma + contralateral weakness and posturing especially of the:",
+   "opts": [
+    "Leg",
+    "Arm",
+    [
+     "Face"
+    ],
+    "Trunk"
+   ],
+   "ans": 0,
+   "exp": "Leg (Book p401)"
+  },
+  {
+   "id": "SURG-C53-065",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Subfalcine herniation can cause an:",
+   "opts": [
+    "ACA stroke",
+    "MCA stroke",
+    [
+     "PCA stroke"
+    ],
+    "Basilar stroke"
+   ],
+   "ans": 0,
+   "exp": "ACA stroke (Book p401)"
+  },
+  {
+   "id": "SURG-C53-066",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "In subfalcine herniation a frontal/parietal mass pushes the:",
+   "opts": [
+    "Cingulate gyrus under falx cerebri",
+    "Uncus under tentorium",
+    [
+     "Tonsils through foramen magnum"
+    ],
+    "Vermis upwards"
+   ],
+   "ans": 0,
+   "exp": "Cingulate gyrus under falx cerebri (Book p401)"
+  },
+  {
+   "id": "SURG-C53-067",
+   "sec": "SAH Complications and Brain Herniation Syndromes",
+   "page": 401,
+   "q": "Cerebellar herniation (up or down) produces cerebellar signs + medullary dysfunction ending in:",
+   "opts": [
+    "Coma + B/L posturing",
+    "Unilateral posturing",
+    [
+     "Seizures"
+    ],
+    "Locked-in state"
+   ],
+   "ans": 0,
+   "exp": "Coma + B/L posturing (Book p401)"
+  },
+  {
+   "id": "SURG-C53-068",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "Kernohan notch phenomenon is also known as a:",
+   "opts": [
+    "False localizing sign",
+    "True localizing sign",
+    [
+     "Meninigitis sign"
+    ],
+    "Herniation sign"
+   ],
+   "ans": 0,
+   "exp": "False localizing sign (Book p402)"
+  },
+  {
+   "id": "SURG-C53-069",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "In the Kernohan notch diagram, the bleed causes uncal herniation that presses on the:",
+   "opts": [
+    "Contralateral (C/L) Kernohan's notch",
+    "Ipsilateral notch",
+    [
+     "Falx"
+    ],
+    "Tonsil"
+   ],
+   "ans": 0,
+   "exp": "Contralateral (C/L) Kernohan's notch (Book p402)"
+  },
+  {
+   "id": "SURG-C53-070",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "The tract compressed at Kernohan's notch is the:",
+   "opts": [
+    "Descending pyramidal (motor) tract",
+    "Ascending spinothalamic tract",
+    [
+     "Optic tract"
+    ],
+    "Corticopontine tract"
+   ],
+   "ans": 0,
+   "exp": "Descending pyramidal (motor) tract (Book p402)"
+  },
+  {
+   "id": "SURG-C53-071",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "Pressure on the motor tract at Kernohan's notch yields limb weakness that is:",
+   "opts": [
+    "Ipsilateral (false localising sign)",
+    "Contralateral only",
+    [
+     "Bilateral"
+    ],
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Ipsilateral (false localising sign) (Book p402)"
+  },
+  {
+   "id": "SURG-C53-072",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "In managing ↑ ICT, adequate IV fluids aim to keep CPP at:",
+   "opts": [
+    "≥60 mmHg",
+    "≥30 mmHg",
+    [
+     "≥90 mmHg"
+    ],
+    "≥110 mmHg"
+   ],
+   "ans": 0,
+   "exp": "≥60 mmHg (Book p402)"
+  },
+  {
+   "id": "SURG-C53-073",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "In managing ↑ ICT, SBP should be maintained:",
+   "opts": [
+    ">100 mmHg",
+    ">80 mmHg",
+    [
+     ">140 mmHg"
+    ],
+    ">60 mmHg"
+   ],
+   "ans": 0,
+   "exp": ">100 mmHg (Book p402)"
+  },
+  {
+   "id": "SURG-C53-074",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "Dextrose fluids are avoided in ↑ ICT because they:",
+   "opts": [
+    "Worsen cerebral edema",
+    "Raise sugar",
+    [
+     "Cause diuresis"
+    ],
+    "Lower SBP"
+   ],
+   "ans": 0,
+   "exp": "Worsen cerebral edema (Book p402)"
+  },
+  {
+   "id": "SURG-C53-075",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "IV mannitol lowers ICT because it is an:",
+   "opts": [
+    "Osmotic diuretic",
+    "Loop diuretic",
+    [
+     "Thiazide"
+    ],
+    "K-sparing diuretic"
+   ],
+   "ans": 0,
+   "exp": "Osmotic diuretic (Book p402)"
+  },
+  {
+   "id": "SURG-C53-076",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "In ↑ ICT, adequate O2 is given with the patient:",
+   "opts": [
+    "Propped up",
+    "Flat",
+    [
+     "Head down"
+    ],
+    "Prone"
+   ],
+   "ans": 0,
+   "exp": "Propped up (Book p402)"
+  },
+  {
+   "id": "SURG-C53-077",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "Steroids help in ↑ ICT when the edema is:",
+   "opts": [
+    "Vasogenic (d/t tumors)",
+    "Cytotoxic",
+    [
+     "Interstitial"
+    ],
+    "Osmotic"
+   ],
+   "ans": 0,
+   "exp": "Vasogenic (d/t tumors) (Book p402)"
+  },
+  {
+   "id": "SURG-C53-078",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "Hematogenous brain abscess most commonly involves the:",
+   "opts": [
+    "Parietal region",
+    "Frontal region",
+    [
+     "Temporal region"
+    ],
+    "Occipital region"
+   ],
+   "ans": 0,
+   "exp": "Parietal region (Book p402)"
+  },
+  {
+   "id": "SURG-C53-079",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "A risk factor for hematogenous brain abscess is:",
+   "opts": [
+    "Immunocompromised state",
+    "Hypertension",
+    [
+     "Diabetes insipidus"
+    ],
+    "Obesity"
+   ],
+   "ans": 0,
+   "exp": "Immunocompromised state (Book p402)"
+  },
+  {
+   "id": "SURG-C53-080",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 402,
+   "q": "Another risk factor for hematogenous brain abscess is:",
+   "opts": [
+    "Cyanotic heart disease",
+    "ASD only",
+    [
+     "Rheumatic heart disease"
+    ],
+    "Endocarditis of aortic valve"
+   ],
+   "ans": 0,
+   "exp": "Cyanotic heart disease (Book p402)"
+  },
+  {
+   "id": "SURG-C53-081",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "Direct spread from frontal sinusitis causes a:",
+   "opts": [
+    "Frontal lobe abscess",
+    "Temporal lobe abscess",
+    [
+     "Parietal lobe abscess"
+    ],
+    "Cerebellar abscess"
+   ],
+   "ans": 0,
+   "exp": "Frontal lobe abscess (Book p403)"
+  },
+  {
+   "id": "SURG-C53-082",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "Direct spread from otitis media causes a:",
+   "opts": [
+    "Temporal lobe abscess",
+    "Frontal lobe abscess",
+    [
+     "Occipital abscess"
+    ],
+    "Pontine abscess"
+   ],
+   "ans": 0,
+   "exp": "Temporal lobe abscess (Book p403)"
+  },
+  {
+   "id": "SURG-C53-083",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "A clinical feature of brain abscess is:",
+   "opts": [
+    "Headache",
+    "Neck pain only",
+    [
+     "Diplopia only"
+    ],
+    "Tinnitus only"
+   ],
+   "ans": 0,
+   "exp": "Headache (Book p403)"
+  },
+  {
+   "id": "SURG-C53-084",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "Another clinical feature of brain abscess is:",
+   "opts": [
+    "Seizure",
+    "Hemianopia only",
+    [
+     "Ptosis"
+    ],
+    "Dysarthria only"
+   ],
+   "ans": 0,
+   "exp": "Seizure (Book p403)"
+  },
+  {
+   "id": "SURG-C53-085",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "Brain abscess also presents with nausea/vomiting, vomiting and:",
+   "opts": [
+    "Neurological deficits",
+    "Psychiatric features",
+    [
+     "Visual failure"
+    ],
+    "Hearing loss"
+   ],
+   "ans": 0,
+   "exp": "Neurological deficits (Book p403)"
+  },
+  {
+   "id": "SURG-C53-086",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "On imaging a brain abscess classically appears as a:",
+   "opts": [
+    "Ring enhanced lesion",
+    "Homogeneous mass",
+    [
+     "Calcified nodule"
+    ],
+    "Cystic non-enhancing lesion"
+   ],
+   "ans": 0,
+   "exp": "Ring enhanced lesion (Book p403)"
+  },
+  {
+   "id": "SURG-C53-087",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "The IOC for brain abscess is:",
+   "opts": [
+    "CT",
+    "X-ray",
+    [
+     "Ultrasound"
+    ],
+    "PET"
+   ],
+   "ans": 0,
+   "exp": "CT (Book p403)"
+  },
+  {
+   "id": "SURG-C53-088",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "The other key investigation for brain abscess is:",
+   "opts": [
+    "MRI",
+    "CT myelogram",
+    [
+     "Skull X-ray"
+    ],
+    "Angiography"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p403)"
+  },
+  {
+   "id": "SURG-C53-089",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "First-line management of brain abscess is:",
+   "opts": [
+    "IV antibiotics",
+    "Immediate excision always",
+    [
+     "Aspiration always"
+    ],
+    "Steroids alone"
+   ],
+   "ans": 0,
+   "exp": "IV antibiotics (Book p403)"
+  },
+  {
+   "id": "SURG-C53-090",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "A solitary brain abscess is best:",
+   "opts": [
+    "Drained",
+    "Excised with margins",
+    [
+     "Left alone"
+    ],
+    "Treated with steroids"
+   ],
+   "ans": 0,
+   "exp": "Drained (Book p403)"
+  },
+  {
+   "id": "SURG-C53-091",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "Multiple brain abscesses are managed by:",
+   "opts": [
+    "Continue antibiotics + monitor",
+    "Drainage of all",
+    [
+     "Excision of all"
+    ],
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Continue antibiotics + monitor (Book p403)"
+  },
+  {
+   "id": "SURG-C53-092",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "page": 403,
+   "q": "Brain abscess management also includes treating the 1° cause, anti-epileptics and:",
+   "opts": [
+    "Managing ↑ ICT",
+    "Long-term steroids",
+    [
+     "Prophylactic RT"
+    ],
+    "Lifelong anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Managing ↑ ICT (Book p403)"
+  },
+  {
+   "id": "SURG-C53-093",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 403,
+   "q": "Spina bifida occulta is a:",
+   "opts": [
+    "Closed spina bifida (neural tube defect)",
+    "Open spina bifida",
+    [
+     "Meningocele"
+    ],
+    "Myelomeningocele"
+   ],
+   "ans": 0,
+   "exp": "Closed spina bifida (neural tube defect) (Book p403)"
+  },
+  {
+   "id": "SURG-C53-094",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 403,
+   "q": "In spina bifida occulta there is a defect in ≥1 vertebrae but:",
+   "opts": [
+    "No herniation of meninges/cord",
+    "Herniation of meninges only",
+    [
+     "Herniation of cord only"
+    ],
+    "Herniation of both"
+   ],
+   "ans": 0,
+   "exp": "No herniation of meninges/cord (Book p403)"
+  },
+  {
+   "id": "SURG-C53-095",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 403,
+   "q": "Spina bifida occulta is usually:",
+   "opts": [
+    "Asymptomatic",
+    "Paralytic",
+    [
+     "Painful"
+    ],
+    "Progressive"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic (Book p403)"
+  },
+  {
+   "id": "SURG-C53-096",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 403,
+   "q": "At the site of spina bifida occulta one may see a:",
+   "opts": [
+    "Dimple/tuft of hair",
+    "Sinus tract with discharge",
+    [
+     "Lipoma always"
+    ],
+    "Cystic swelling"
+   ],
+   "ans": 0,
+   "exp": "Dimple/tuft of hair (Book p403)"
+  },
+  {
+   "id": "SURG-C53-097",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 403,
+   "q": "Spina bifida occulta is diagnosed on:",
+   "opts": [
+    "X-ray",
+    "MRI",
+    [
+     "CT"
+    ],
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "X-ray (Book p403)"
+  },
+  {
+   "id": "SURG-C53-098",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 403,
+   "q": "Management of spina bifida occulta is:",
+   "opts": [
+    "No intervention needed",
+    "Early surgery",
+    [
+     "Folate only"
+    ],
+    "Shunt"
+   ],
+   "ans": 0,
+   "exp": "No intervention needed (Book p403)"
+  },
+  {
+   "id": "SURG-C53-099",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 403,
+   "q": "The spina bifida occulta diagram labels, superficial to deep, skin, hair, dura, arachnoid and:",
+   "opts": [
+    "Transverse process",
+    "Spinous process",
+    [
+     "Pedicle"
+    ],
+    "Lamina"
+   ],
+   "ans": 0,
+   "exp": "Transverse process (Book p403)"
+  },
+  {
+   "id": "SURG-C53-100",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "In spina bifida aperta:",
+   "opts": [
+    "Only membranes/membranes + cord herniate out of posterior vertebral arch defect",
+    "Nothing herniates",
+    [
+     "Only bone herniates"
+    ],
+    "Cord never herniates"
+   ],
+   "ans": 0,
+   "exp": "Only membranes/membranes + cord herniate out of posterior vertebral arch defect (Book p404)"
+  },
+  {
+   "id": "SURG-C53-101",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Meningocele is herniation of:",
+   "opts": [
+    "Meninges only, not cord",
+    "Meninges + cord",
+    [
+     "Cord only"
+    ],
+    "Nerve roots only"
+   ],
+   "ans": 0,
+   "exp": "Meninges only, not cord (Book p404)"
+  },
+  {
+   "id": "SURG-C53-102",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "A presentation of meningocele is:",
+   "opts": [
+    "Swelling",
+    "Pain only",
+    [
+     "Fever"
+    ],
+    "Tenderness"
+   ],
+   "ans": 0,
+   "exp": "Swelling (Book p404)"
+  },
+  {
+   "id": "SURG-C53-103",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Meningocele may present with lower limb:",
+   "opts": [
+    "Weakness/spasticity",
+    "Flaccidity only",
+    [
+     "Tremors"
+    ],
+    "Atrophy only"
+   ],
+   "ans": 0,
+   "exp": "Weakness/spasticity (Book p404)"
+  },
+  {
+   "id": "SURG-C53-104",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Meningocele may present with:",
+   "opts": [
+    "Bladder bowel dysfunction",
+    "Constipation only",
+    [
+     "Diarrhoea only"
+    ],
+    "No sphincteric issue"
+   ],
+   "ans": 0,
+   "exp": "Bladder bowel dysfunction (Book p404)"
+  },
+  {
+   "id": "SURG-C53-105",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "On examination a meningocele is a:",
+   "opts": [
+    "Cystic swelling (CSF)",
+    "Solid swelling",
+    [
+     "Pulsatile swelling"
+    ],
+    "Reducible swelling"
+   ],
+   "ans": 0,
+   "exp": "Cystic swelling (CSF) (Book p404)"
+  },
+  {
+   "id": "SURG-C53-106",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Fluctuation in a meningocele is:",
+   "opts": [
+    "(+)",
+    "(−)",
+    [
+     "Absent always"
+    ],
+    "Only transillumination"
+   ],
+   "ans": 0,
+   "exp": "(+) (Book p404)"
+  },
+  {
+   "id": "SURG-C53-107",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "The investigation to determine extent of herniation in meningocele is:",
+   "opts": [
+    "MRI",
+    "CT",
+    [
+     "X-ray"
+    ],
+    "Myelogram"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p404)"
+  },
+  {
+   "id": "SURG-C53-108",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Meningocele is managed by:",
+   "opts": [
+    "Surgery",
+    "Observation always",
+    [
+     "Aspiration"
+    ],
+    "Sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p404)"
+  },
+  {
+   "id": "SURG-C53-109",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Early surgery for meningocele is indicated if there is:",
+   "opts": [
+    "Infection/leakage",
+    "Asymptomatic course",
+    [
+     "Normal neurology"
+    ],
+    "Small size"
+   ],
+   "ans": 0,
+   "exp": "Infection/leakage (Book p404)"
+  },
+  {
+   "id": "SURG-C53-110",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "The other indication for early meningocele surgery is:",
+   "opts": [
+    "Tethering of cord",
+    "Hydrocephalus alone",
+    [
+     "Cosmesis"
+    ],
+    "Large size"
+   ],
+   "ans": 0,
+   "exp": "Tethering of cord (Book p404)"
+  },
+  {
+   "id": "SURG-C53-111",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Late surgery for meningocele is acceptable if the child is:",
+   "opts": [
+    "Asymptomatic with normal neurological functions",
+    "Leaking CSF",
+    [
+     "Infected"
+    ],
+    "Tethered"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic with normal neurological functions (Book p404)"
+  },
+  {
+   "id": "SURG-C53-112",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "The most severe type of neural tube defect is:",
+   "opts": [
+    "Myelomeningocele",
+    "Meningocele",
+    [
+     "Spina bifida occulta"
+    ],
+    "Lipomeningocele"
+   ],
+   "ans": 0,
+   "exp": "Myelomeningocele (Book p404)"
+  },
+  {
+   "id": "SURG-C53-113",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Myelomeningocele is herniation of:",
+   "opts": [
+    "Membranes + cord",
+    "Meninges only",
+    [
+     "Cord only"
+    ],
+    "Bone + cord"
+   ],
+   "ans": 0,
+   "exp": "Membranes + cord (Book p404)"
+  },
+  {
+   "id": "SURG-C53-114",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Neural tube defects are prevented by:",
+   "opts": [
+    "Folate administration during pregnancy",
+    "Vitamin B12",
+    [
+     "Iron"
+    ],
+    "Vitamin D"
+   ],
+   "ans": 0,
+   "exp": "Folate administration during pregnancy (Book p404)"
+  },
+  {
+   "id": "SURG-C53-115",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Maternal use of which drugs ↑ NTD risk?",
+   "opts": [
+    "Anti-epileptics (phenytoin, valproate)",
+    "Antibiotics",
+    [
+     "Antihistamines"
+    ],
+    "Antacids"
+   ],
+   "ans": 0,
+   "exp": "Anti-epileptics (phenytoin, valproate) (Book p404)"
+  },
+  {
+   "id": "SURG-C53-116",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Clinical features of myelomeningocele are:",
+   "opts": [
+    "Same as meningocele",
+    "Milder than meningocele",
+    [
+     "Only cutaneous"
+    ],
+    "Absent at birth"
+   ],
+   "ans": 0,
+   "exp": "Same as meningocele (Book p404)"
+  },
+  {
+   "id": "SURG-C53-117",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "page": 404,
+   "q": "Surgery for myelomeningocele is:",
+   "opts": [
+    "Difficult with poorer prognosis compared to meningocele",
+    "Easier with better prognosis",
+    [
+     "Same as meningocele"
+    ],
+    "Never indicated"
+   ],
+   "ans": 0,
+   "exp": "Difficult with poorer prognosis compared to meningocele (Book p404)"
+  },
+  {
+   "id": "SURG-C53-118",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Chiari I malformation shows downward displacement of the:",
+   "opts": [
+    "Cerebellar tonsils",
+    "Cerebellar vermis",
+    [
+     "Medulla"
+    ],
+    "Fourth ventricle"
+   ],
+   "ans": 0,
+   "exp": "Cerebellar tonsils (Book p405)"
+  },
+  {
+   "id": "SURG-C53-119",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Chiari I malformation is associated with:",
+   "opts": [
+    "Syringomyelia",
+    "Hydrocephalus always",
+    [
+     "Spina bifida always"
+    ],
+    "Dandy Walker"
+   ],
+   "ans": 0,
+   "exp": "Syringomyelia (Book p405)"
+  },
+  {
+   "id": "SURG-C53-120",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Chiari II malformation shows:",
+   "opts": [
+    "Hydrocephalus",
+    "No hydrocephalus",
+    [
+     "Syringomyelia only"
+    ],
+    "Tonsillar ascent"
+   ],
+   "ans": 0,
+   "exp": "Hydrocephalus (Book p405)"
+  },
+  {
+   "id": "SURG-C53-121",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Chiari II malformation shows breaking of the:",
+   "opts": [
+    "Tectal plate",
+    "Cribriform plate",
+    [
+     "Quadrigeminal cistern"
+    ],
+    "Petrous apex"
+   ],
+   "ans": 0,
+   "exp": "Tectal plate (Book p405)"
+  },
+  {
+   "id": "SURG-C53-122",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "In Chiari II there is downward displacement of cerebellum, brainstem and:",
+   "opts": [
+    "Fourth ventricle",
+    "Third ventricle",
+    [
+     "Lateral ventricles"
+    ],
+    "Aqueduct"
+   ],
+   "ans": 0,
+   "exp": "Fourth ventricle (Book p405)"
+  },
+  {
+   "id": "SURG-C53-123",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Chiari I typically presents in:",
+   "opts": [
+    "Young adults",
+    "Infancy",
+    [
+     "Neonates"
+    ],
+    "Elderly"
+   ],
+   "ans": 0,
+   "exp": "Young adults (Book p405)"
+  },
+  {
+   "id": "SURG-C53-124",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Chiari II typically presents in:",
+   "opts": [
+    "Infancy",
+    "Young adults",
+    [
+     "Adolescence"
+    ],
+    "Middle age"
+   ],
+   "ans": 0,
+   "exp": "Infancy (Book p405)"
+  },
+  {
+   "id": "SURG-C53-125",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "The usual presentation of Chiari I is:",
+   "opts": [
+    "Neck/cervical pain",
+    "Progressive hydrocephalus",
+    [
+     "Respiratory distress"
+    ],
+    "Seizures"
+   ],
+   "ans": 0,
+   "exp": "Neck/cervical pain (Book p405)"
+  },
+  {
+   "id": "SURG-C53-126",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "The usual presentation of Chiari II is:",
+   "opts": [
+    "Progressive hydrocephalus and respiratory distress",
+    "Neck pain",
+    [
+     "Headache only"
+    ],
+    "Ataxia only"
+   ],
+   "ans": 0,
+   "exp": "Progressive hydrocephalus and respiratory distress (Book p405)"
+  },
+  {
+   "id": "SURG-C53-127",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Caudal dislocation of the medulla in Chiari I is:",
+   "opts": [
+    "Unusual",
+    "Yes",
+    [
+     "Constant"
+    ],
+    "Early"
+   ],
+   "ans": 0,
+   "exp": "Unusual (Book p405)"
+  },
+  {
+   "id": "SURG-C53-128",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Caudal dislocation of the medulla in Chiari II is:",
+   "opts": [
+    "Yes",
+    "Unusual",
+    [
+     "Never"
+    ],
+    "Rare"
+   ],
+   "ans": 0,
+   "exp": "Yes (Book p405)"
+  },
+  {
+   "id": "SURG-C53-129",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "In Chiari I the structure dislocated into the cervical canal is the:",
+   "opts": [
+    "Tonsil",
+    "Inferior vermis",
+    [
+     "Medulla"
+    ],
+    "4th ventricle"
+   ],
+   "ans": 0,
+   "exp": "Tonsil (Book p405)"
+  },
+  {
+   "id": "SURG-C53-130",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "In Chiari II the structures dislocated into the cervical canal are:",
+   "opts": [
+    "Inferior vermis, medulla, 4th ventricle",
+    "Tonsil only",
+    [
+     "Tonsil + medulla"
+    ],
+    "Vermis only"
+   ],
+   "ans": 0,
+   "exp": "Inferior vermis, medulla, 4th ventricle (Book p405)"
+  },
+  {
+   "id": "SURG-C53-131",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Hydrocephalus in Chiari I:",
+   "opts": [
+    "May be absent",
+    "Rarely absent",
+    [
+     "Always present"
+    ],
+    "Present at birth"
+   ],
+   "ans": 0,
+   "exp": "May be absent (Book p405)"
+  },
+  {
+   "id": "SURG-C53-132",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Hydrocephalus in Chiari II:",
+   "opts": [
+    "Rarely absent",
+    "May be absent",
+    [
+     "Never present"
+    ],
+    "Transient"
+   ],
+   "ans": 0,
+   "exp": "Rarely absent (Book p405)"
+  },
+  {
+   "id": "SURG-C53-133",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Spina bifida in Chiari I:",
+   "opts": [
+    "May be present",
+    "Rarely absent",
+    [
+     "Always present"
+    ],
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "May be present (Book p405)"
+  },
+  {
+   "id": "SURG-C53-134",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Spina bifida in Chiari II:",
+   "opts": [
+    "Rarely absent",
+    "May be present",
+    [
+     "Never"
+    ],
+    "In 10%"
+   ],
+   "ans": 0,
+   "exp": "Rarely absent (Book p405)"
+  },
+  {
+   "id": "SURG-C53-135",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Management of Chiari I is usually:",
+   "opts": [
+    "Conservative",
+    "Surgical decompression always",
+    [
+     "Shunt always"
+    ],
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Conservative (Book p405)"
+  },
+  {
+   "id": "SURG-C53-136",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Management of Chiari II centres on:",
+   "opts": [
+    "Mx of hydrocephalus, with poor prognosis",
+    "Conservative follow-up",
+    [
+     "Tonsillar decompression"
+    ],
+    "Folate"
+   ],
+   "ans": 0,
+   "exp": "Mx of hydrocephalus, with poor prognosis (Book p405)"
+  },
+  {
+   "id": "SURG-C53-137",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "In Dandy Walker syndrome the 4th ventricle shows:",
+   "opts": [
+    "Marked cystic dilatation",
+    "Stenosis",
+    [
+     "Normal size"
+    ],
+    "Collapse"
+   ],
+   "ans": 0,
+   "exp": "Marked cystic dilatation (Book p405)"
+  },
+  {
+   "id": "SURG-C53-138",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "In Dandy Walker syndrome the cerebellar vermis shows:",
+   "opts": [
+    "Hypogenesis/agenesis",
+    "Hypertrophy",
+    [
+     "Normal development"
+    ],
+    "Calcification"
+   ],
+   "ans": 0,
+   "exp": "Hypogenesis/agenesis (Book p405)"
+  },
+  {
+   "id": "SURG-C53-139",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "In Dandy Walker syndrome the tentorium and lateral sinus are:",
+   "opts": [
+    "Displaced superiorly",
+    "Displaced inferiorly",
+    [
+     "Normal"
+    ],
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Displaced superiorly (Book p405)"
+  },
+  {
+   "id": "SURG-C53-140",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "A clinical feature of Dandy Walker syndrome is:",
+   "opts": [
+    "Prominent occipital region",
+    "Prominent frontal region",
+    [
+     "Microcephaly"
+    ],
+    "Scaphocephaly"
+   ],
+   "ans": 0,
+   "exp": "Prominent occipital region (Book p405)"
+  },
+  {
+   "id": "SURG-C53-141",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "Another clinical feature of Dandy Walker syndrome is:",
+   "opts": [
+    "Macrocephaly",
+    "Microcephaly",
+    [
+     "Normocephaly"
+    ],
+    "Plagiocephaly"
+   ],
+   "ans": 0,
+   "exp": "Macrocephaly (Book p405)"
+  },
+  {
+   "id": "SURG-C53-142",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 405,
+   "q": "The third clinical feature of Dandy Walker syndrome is:",
+   "opts": [
+    "Hydrocephalus",
+    "Seizures",
+    [
+     "Blindness"
+    ],
+    "Deafness"
+   ],
+   "ans": 0,
+   "exp": "Hydrocephalus (Book p405)"
+  },
+  {
+   "id": "SURG-C53-143",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 406,
+   "q": "Dandy Walker syndrome is investigated with:",
+   "opts": [
+    "MRI/CT",
+    "X-ray",
+    [
+     "Ultrasound only"
+    ],
+    "PET"
+   ],
+   "ans": 0,
+   "exp": "MRI/CT (Book p406)"
+  },
+  {
+   "id": "SURG-C53-144",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 406,
+   "q": "Management of Dandy Walker syndrome is:",
+   "opts": [
+    "Rx hydrocephalus",
+    "Vermis repair",
+    [
+     "Folate"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Rx hydrocephalus (Book p406)"
+  },
+  {
+   "id": "SURG-C53-145",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome",
+   "page": 406,
+   "q": "The prognosis of Dandy Walker syndrome is:",
+   "opts": [
+    "Poor",
+    "Excellent",
+    [
+     "Good"
+    ],
+    "Fair"
+   ],
+   "ans": 0,
+   "exp": "Poor (Book p406)"
+  },
+  {
+   "id": "SURG-C53-146",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The m/c 1° brain tumor is:",
+   "opts": [
+    "Glioma",
+    "Meningioma",
+    [
+     "Medulloblastoma"
+    ],
+    "Schwannoma"
+   ],
+   "ans": 0,
+   "exp": "Glioma (Book p406)"
+  },
+  {
+   "id": "SURG-C53-147",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "After glioma, the next common 1° brain tumor is:",
+   "opts": [
+    "Meningioma",
+    "Medulloblastoma",
+    [
+     "Ependymoma"
+    ],
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Meningioma (Book p406)"
+  },
+  {
+   "id": "SURG-C53-148",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The m/c 1° brain malignancy in children is:",
+   "opts": [
+    "Medulloblastoma",
+    "Pilocytic astrocytoma",
+    [
+     "Ependymoma"
+    ],
+    "GBM"
+   ],
+   "ans": 0,
+   "exp": "Medulloblastoma (Book p406)"
+  },
+  {
+   "id": "SURG-C53-149",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The m/c brain tumor overall is:",
+   "opts": [
+    "Metastasis/2° tumors",
+    "Glioma",
+    [
+     "Meningioma"
+    ],
+    "Pituitary adenoma"
+   ],
+   "ans": 0,
+   "exp": "Metastasis/2° tumors (Book p406)"
+  },
+  {
+   "id": "SURG-C53-150",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "A clinical feature of CNS tumors is:",
+   "opts": [
+    "Focal neurological deficits",
+    "Diffuse pain only",
+    [
+     "Fever"
+    ],
+    "Rash"
+   ],
+   "ans": 0,
+   "exp": "Focal neurological deficits (Book p406)"
+  },
+  {
+   "id": "SURG-C53-151",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "CNS tumors classically cause seizures and headache that is:",
+   "opts": [
+    "Worse in morning",
+    "Worse at night",
+    [
+     "Positional"
+    ],
+    "Constant"
+   ],
+   "ans": 0,
+   "exp": "Worse in morning (Book p406)"
+  },
+  {
+   "id": "SURG-C53-152",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Vomiting in CNS tumors is due to:",
+   "opts": [
+    "↑ ICT",
+    "Gastric irritation",
+    [
+     "Vagal tone"
+    ],
+    "Chemo"
+   ],
+   "ans": 0,
+   "exp": "↑ ICT (Book p406)"
+  },
+  {
+   "id": "SURG-C53-153",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Frontal lobe tumors cause Witzelsucht syndrome, i.e.:",
+   "opts": [
+    "Pathological joking",
+    "Pathological crying",
+    [
+     "Pathological laughter only"
+    ],
+    "Apathy"
+   ],
+   "ans": 0,
+   "exp": "Pathological joking (Book p406)"
+  },
+  {
+   "id": "SURG-C53-154",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The other frontal lobe tumor feature is:",
+   "opts": [
+    "Personality changes",
+    "Memory loss only",
+    [
+     "Aphasia"
+    ],
+    "Hemianopia"
+   ],
+   "ans": 0,
+   "exp": "Personality changes (Book p406)"
+  },
+  {
+   "id": "SURG-C53-155",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The IOC for CNS tumors is:",
+   "opts": [
+    "MRI",
+    "CT",
+    [
+     "PET/CT"
+    ],
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p406)"
+  },
+  {
+   "id": "SURG-C53-156",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "PET/CT in brain tumors:",
+   "opts": [
+    "Can miss lesions in brain",
+    "Is the IOC",
+    [
+     "Detects all lesions"
+    ],
+    "Replaces MRI"
+   ],
+   "ans": 0,
+   "exp": "Can miss lesions in brain (Book p406)"
+  },
+  {
+   "id": "SURG-C53-157",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Treatment options for CNS tumors are surgery, radiotherapy and:",
+   "opts": [
+    "Chemotherapy",
+    "Immunotherapy only",
+    [
+     "Hormonal therapy"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy (Book p406)"
+  },
+  {
+   "id": "SURG-C53-158",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Surgery is preferred for CNS tumors when there are:",
+   "opts": [
+    "Solitary/1-2 lesions",
+    "Multiple lesions",
+    [
+     "Leptomeningeal disease"
+    ],
+    "Diffuse infiltration"
+   ],
+   "ans": 0,
+   "exp": "Solitary/1-2 lesions (Book p406)"
+  },
+  {
+   "id": "SURG-C53-159",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Chemotherapy for CNS tumors uses agents that:",
+   "opts": [
+    "Cross the blood brain barrier",
+    "Are large molecules",
+    [
+     "Bind plasma proteins"
+    ],
+    "Stay intravascular"
+   ],
+   "ans": 0,
+   "exp": "Cross the blood brain barrier (Book p406)"
+  },
+  {
+   "id": "SURG-C53-160",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Another chemotherapy route for CNS tumors is:",
+   "opts": [
+    "Intrathecal chemotherapy",
+    "Intra-arterial only",
+    [
+     "Intravesical"
+    ],
+    "Intraperitoneal"
+   ],
+   "ans": 0,
+   "exp": "Intrathecal chemotherapy (Book p406)"
+  },
+  {
+   "id": "SURG-C53-161",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Radiotherapy for CNS tumors includes whole brain RT and:",
+   "opts": [
+    "Stereotactic radiosurgery",
+    "Brachytherapy only",
+    [
+     "Proton only"
+    ],
+    "Palliative RT only"
+   ],
+   "ans": 0,
+   "exp": "Stereotactic radiosurgery (Book p406)"
+  },
+  {
+   "id": "SURG-C53-162",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Stereotactic radiosurgery for CNS tumors is delivered by the:",
+   "opts": [
+    "Gamma knife",
+    "LINAC only",
+    [
+     "Cyberknife only"
+    ],
+    "Proton beam"
+   ],
+   "ans": 0,
+   "exp": "Gamma knife (Book p406)"
+  },
+  {
+   "id": "SURG-C53-163",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The gamma knife uses radioactive cobalt sources with shielding, a helmet and converging:",
+   "opts": [
+    "Gamma rays on the target",
+    "X-rays on the cord",
+    [
+     "Protons on the skull"
+    ],
+    "Electrons on the dura"
+   ],
+   "ans": 0,
+   "exp": "Gamma rays on the target (Book p406)"
+  },
+  {
+   "id": "SURG-C53-164",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Raised ICT from CNS tumors is also managed as part of:",
+   "opts": [
+    "Mx: ↑ ICT",
+    "Mx: seizure only",
+    [
+     "Mx: anemia"
+    ],
+    "Mx: pain only"
+   ],
+   "ans": 0,
+   "exp": "Mx: ↑ ICT (Book p406)"
+  },
+  {
+   "id": "SURG-C53-165",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The m/c cancer metastasizing to cerebrum is:",
+   "opts": [
+    "Lung cancer",
+    "Breast cancer",
+    [
+     "Colon cancer"
+    ],
+    "Melanoma"
+   ],
+   "ans": 0,
+   "exp": "Lung cancer (Book p406)"
+  },
+  {
+   "id": "SURG-C53-166",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The m/c cancer metastasizing to leptomeninges is:",
+   "opts": [
+    "Breast cancer",
+    "Lung cancer",
+    [
+     "Gastric cancer"
+    ],
+    "Renal cancer"
+   ],
+   "ans": 0,
+   "exp": "Breast cancer (Book p406)"
+  },
+  {
+   "id": "SURG-C53-167",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The IOC for brain metastases is:",
+   "opts": [
+    "MRI",
+    "CT",
+    [
+     "PET"
+    ],
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p406)"
+  },
+  {
+   "id": "SURG-C53-168",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Solitary brain metastases are managed by:",
+   "opts": [
+    "Sx",
+    "RT alone",
+    [
+     "Chemo alone"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Sx (Book p406)"
+  },
+  {
+   "id": "SURG-C53-169",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "The mainstay of treatment for brain metastases is:",
+   "opts": [
+    "Radiotherapy",
+    "Surgery",
+    [
+     "Chemotherapy"
+    ],
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Radiotherapy (Book p406)"
+  },
+  {
+   "id": "SURG-C53-170",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Leptomeningeal metastatic disease is treated with:",
+   "opts": [
+    "Chemotherapy",
+    "Radiotherapy",
+    [
+     "Surgery"
+    ],
+    "Shunt"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy (Book p406)"
+  },
+  {
+   "id": "SURG-C53-171",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Vasogenic edema around brain mets is treated with:",
+   "opts": [
+    "Steroids (DOC)",
+    "Mannitol (DOC)",
+    [
+     "Hypertonic saline (DOC)"
+    ],
+    "Diuretics (DOC)"
+   ],
+   "ans": 0,
+   "exp": "Steroids (DOC) (Book p406)"
+  },
+  {
+   "id": "SURG-C53-172",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "page": 406,
+   "q": "Brain metastases management also includes:",
+   "opts": [
+    "Antiepileptics",
+    "Anticoagulants",
+    [
+     "Antibiotics"
+    ],
+    "Antivirals"
+   ],
+   "ans": 0,
+   "exp": "Antiepileptics (Book p406)"
+  },
+  {
+   "id": "SURG-C53-173",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Astrocytoma grade I is:",
+   "opts": [
+    "Pilocytic astrocytoma",
+    "Low grade (fibrillary) astrocytoma",
+    [
+     "Anaplastic astrocytoma"
+    ],
+    "Glioblastoma multiforme"
+   ],
+   "ans": 0,
+   "exp": "Pilocytic astrocytoma (Book p407)"
+  },
+  {
+   "id": "SURG-C53-174",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Astrocytoma grade II is:",
+   "opts": [
+    "Low grade (fibrillary astrocytoma)",
+    "Pilocytic astrocytoma",
+    [
+     "Anaplastic astrocytoma"
+    ],
+    "GBM"
+   ],
+   "ans": 0,
+   "exp": "Low grade (fibrillary astrocytoma) (Book p407)"
+  },
+  {
+   "id": "SURG-C53-175",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Astrocytoma grade III is:",
+   "opts": [
+    "Anaplastic astrocytoma",
+    "Pilocytic astrocytoma",
+    [
+     "Low grade fibrillary"
+    ],
+    "GBM"
+   ],
+   "ans": 0,
+   "exp": "Anaplastic astrocytoma (Book p407)"
+  },
+  {
+   "id": "SURG-C53-176",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Astrocytoma grade IV is:",
+   "opts": [
+    "Glioblastoma multiforme (GBM)",
+    "Anaplastic astrocytoma",
+    [
+     "Pilocytic astrocytoma"
+    ],
+    "Fibrillary astrocytoma"
+   ],
+   "ans": 0,
+   "exp": "Glioblastoma multiforme (GBM) (Book p407)"
+  },
+  {
+   "id": "SURG-C53-177",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "The astrocytoma grades progress from:",
+   "opts": [
+    "I → IV",
+    "IV → I",
+    [
+     "II → III only"
+    ],
+    "No progression"
+   ],
+   "ans": 0,
+   "exp": "I → IV (Book p407)"
+  },
+  {
+   "id": "SURG-C53-178",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Pilocytic astrocytoma is commonly seen in:",
+   "opts": [
+    "Children",
+    "Adults",
+    [
+     "Elderly"
+    ],
+    "Infants only"
+   ],
+   "ans": 0,
+   "exp": "Children (Book p407)"
+  },
+  {
+   "id": "SURG-C53-179",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Pilocytic astrocytoma presents as a:",
+   "opts": [
+    "Mural nodule with no infiltration",
+    "Diffuse infiltrating mass",
+    [
+     "Cyst with enhancing wall only"
+    ],
+    "Calcified plaque"
+   ],
+   "ans": 0,
+   "exp": "Mural nodule with no infiltration (Book p407)"
+  },
+  {
+   "id": "SURG-C53-180",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Pilocytic astrocytoma is a:",
+   "opts": [
+    "Low grade tumor",
+    "High grade tumor",
+    [
+     "Grade III"
+    ],
+    "Grade IV"
+   ],
+   "ans": 0,
+   "exp": "Low grade tumor (Book p407)"
+  },
+  {
+   "id": "SURG-C53-181",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "The m/c site of pilocytic astrocytoma is the:",
+   "opts": [
+    "Posterior fossa",
+    "Frontal lobe",
+    [
+     "Temporal lobe"
+    ],
+    "Spinal cord"
+   ],
+   "ans": 0,
+   "exp": "Posterior fossa (Book p407)"
+  },
+  {
+   "id": "SURG-C53-182",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "The IOC for pilocytic astrocytoma is:",
+   "opts": [
+    "MRI",
+    "CT",
+    [
+     "PET"
+    ],
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p407)"
+  },
+  {
+   "id": "SURG-C53-183",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Pilocytic astrocytoma is managed by:",
+   "opts": [
+    "Excision of lesion",
+    "RT alone",
+    [
+     "Chemo alone"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Excision of lesion (Book p407)"
+  },
+  {
+   "id": "SURG-C53-184",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "GBM shows:",
+   "opts": [
+    "Rapid progression",
+    "Slow progression",
+    [
+     "Static course"
+    ],
+    "Spontaneous regression"
+   ],
+   "ans": 0,
+   "exp": "Rapid progression (Book p407)"
+  },
+  {
+   "id": "SURG-C53-185",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "GBM carries the:",
+   "opts": [
+    "Worst prognosis",
+    "Best prognosis",
+    [
+     "Intermediate prognosis"
+    ],
+    "No prognostic impact"
+   ],
+   "ans": 0,
+   "exp": "Worst prognosis (Book p407)"
+  },
+  {
+   "id": "SURG-C53-186",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "GBM is managed with:",
+   "opts": [
+    "Sx → RT",
+    "RT alone",
+    [
+     "Chemo alone"
+    ],
+    "Sx alone"
+   ],
+   "ans": 0,
+   "exp": "Sx → RT (Book p407)"
+  },
+  {
+   "id": "SURG-C53-187",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "The drug added for GBM is:",
+   "opts": [
+    "Oral temozolomide",
+    "IV cisplatin",
+    [
+     "Oral procarbazine only"
+    ],
+    "IV methotrexate"
+   ],
+   "ans": 0,
+   "exp": "Oral temozolomide (Book p407)"
+  },
+  {
+   "id": "SURG-C53-188",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "GBM crossing the midline is called a:",
+   "opts": [
+    "Butterfly tumor",
+    "Moth tumor",
+    [
+     "Batswing tumor"
+    ],
+    "Dumbbell tumor"
+   ],
+   "ans": 0,
+   "exp": "Butterfly tumor (Book p407)"
+  },
+  {
+   "id": "SURG-C53-189",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Butterfly (GBM) tumor shows:",
+   "opts": [
+    "Hemorrhage & necrosis",
+    "Calcification",
+    [
+     "Cystic change only"
+    ],
+    "Fat"
+   ],
+   "ans": 0,
+   "exp": "Hemorrhage & necrosis (Book p407)"
+  },
+  {
+   "id": "SURG-C53-190",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "The other feature of butterfly tumor is:",
+   "opts": [
+    "Infiltration",
+    "Encapsulation",
+    [
+     "Cleavage plane"
+    ],
+    "Softness"
+   ],
+   "ans": 0,
+   "exp": "Infiltration (Book p407)"
+  },
+  {
+   "id": "SURG-C53-191",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Oligodendroglioma most commonly occurs at age:",
+   "opts": [
+    "40-60 years",
+    "10-20 years",
+    [
+     "20-30 years"
+    ],
+    ">70 years"
+   ],
+   "ans": 0,
+   "exp": "40-60 years (Book p407)"
+  },
+  {
+   "id": "SURG-C53-192",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "MRI in oligodendroglioma characteristically shows:",
+   "opts": [
+    "Calcifications",
+    "Hemorrhage",
+    [
+     "Fat"
+    ],
+    "Diffusion restriction only"
+   ],
+   "ans": 0,
+   "exp": "Calcifications (Book p407)"
+  },
+  {
+   "id": "SURG-C53-193",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Oligodendroglioma is confirmed by:",
+   "opts": [
+    "HPE",
+    "MRI alone",
+    [
+     "CT alone"
+    ],
+    "CSF"
+   ],
+   "ans": 0,
+   "exp": "HPE (Book p407)"
+  },
+  {
+   "id": "SURG-C53-194",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "Oligodendroglioma is managed with Sx → RT plus:",
+   "opts": [
+    "Oral temozolomide",
+    "IV carmustine only",
+    [
+     "Oral lomustine only"
+    ],
+    "No drug"
+   ],
+   "ans": 0,
+   "exp": "Oral temozolomide (Book p407)"
+  },
+  {
+   "id": "SURG-C53-195",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "HPE of oligodendroglioma shows a:",
+   "opts": [
+    "Fried egg appearance",
+    "Starry sky",
+    [
+     "Honeycomb"
+    ],
+    "Salt and pepper"
+   ],
+   "ans": 0,
+   "exp": "Fried egg appearance (Book p407)"
+  },
+  {
+   "id": "SURG-C53-196",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "The vasculature of oligodendroglioma is described as:",
+   "opts": [
+    "Chicken wire vascularity",
+    "Staghorn vessels",
+    [
+     "Sinusoidal vessels"
+    ],
+    "Telangiectatic vessels"
+   ],
+   "ans": 0,
+   "exp": "Chicken wire vascularity (Book p407)"
+  },
+  {
+   "id": "SURG-C53-197",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "CT in oligodendroglioma shows:",
+   "opts": [
+    "Intra-tumoral calcifications",
+    "Intra-tumoral fat",
+    [
+     "Intra-tumoral air"
+    ],
+    "No calcification"
+   ],
+   "ans": 0,
+   "exp": "Intra-tumoral calcifications (Book p407)"
+  },
+  {
+   "id": "SURG-C53-198",
+   "sec": "Astrocytomas and Oligodendroglioma",
+   "page": 407,
+   "q": "CNS tumors showing calcifications include medulloblastoma, oligodendroglioma and:",
+   "opts": [
+    "Meningioma",
+    "GBM",
+    [
+     "Pilocytic astrocytoma"
+    ],
+    "CNS lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Meningioma (Book p407)"
+  },
+  {
+   "id": "SURG-C53-199",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Ependymoma occurs in:",
+   "opts": [
+    "Children > adults",
+    "Adults > children",
+    [
+     "Equal ages"
+    ],
+    "Elderly only"
+   ],
+   "ans": 0,
+   "exp": "Children > adults (Book p408)"
+  },
+  {
+   "id": "SURG-C53-200",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Ependymoma blocks the:",
+   "opts": [
+    "4th ventricle",
+    "3rd ventricle",
+    [
+     "Lateral ventricle"
+    ],
+    "Aqueduct only"
+   ],
+   "ans": 0,
+   "exp": "4th ventricle (Book p408)"
+  },
+  {
+   "id": "SURG-C53-201",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Blocking CSF drainage by ependymoma causes:",
+   "opts": [
+    "Hydrocephalus",
+    "Hydrocephalus ex vacuo",
+    [
+     "Pseudotumor"
+    ],
+    "Idiopathic ICT"
+   ],
+   "ans": 0,
+   "exp": "Hydrocephalus (Book p408)"
+  },
+  {
+   "id": "SURG-C53-202",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Ependymoma spreads through CSF as:",
+   "opts": [
+    "Drop metastasis",
+    "Seed metastasis",
+    [
+     "Lymphatic spread"
+    ],
+    "Hematogenous spread"
+   ],
+   "ans": 0,
+   "exp": "Drop metastasis (Book p408)"
+  },
+  {
+   "id": "SURG-C53-203",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "The IOC for ependymoma is:",
+   "opts": [
+    "MRI",
+    "CT",
+    [
+     "X-ray"
+    ],
+    "PET"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p408)"
+  },
+  {
+   "id": "SURG-C53-204",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "HPE of ependymoma shows:",
+   "opts": [
+    "Pseudorosettes",
+    "True rosettes",
+    [
+     "Homer-Wright rosettes"
+    ],
+    "Flexner-Wintersteiner rosettes"
+   ],
+   "ans": 0,
+   "exp": "Pseudorosettes (Book p408)"
+  },
+  {
+   "id": "SURG-C53-205",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "The rosettes of ependymoma are:",
+   "opts": [
+    "Perivascular pseudorosettes",
+    "Perineuronal rosettes",
+    [
+     "Glandular rosettes"
+    ],
+    "Nuclear rosettes"
+   ],
+   "ans": 0,
+   "exp": "Perivascular pseudorosettes (Book p408)"
+  },
+  {
+   "id": "SURG-C53-206",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Ependymoma is managed with surgery followed by:",
+   "opts": [
+    "Craniospinal RT",
+    "Whole brain RT only",
+    [
+     "Focal RT only"
+    ],
+    "Chemo only"
+   ],
+   "ans": 0,
+   "exp": "Craniospinal RT (Book p408)"
+  },
+  {
+   "id": "SURG-C53-207",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Meningiomas are:",
+   "opts": [
+    "Extra-axial, dural based tumors",
+    "Intra-axial tumors",
+    [
+     "Ventricular tumors"
+    ],
+    "Skull based tumors"
+   ],
+   "ans": 0,
+   "exp": "Extra-axial, dural based tumors (Book p408)"
+  },
+  {
+   "id": "SURG-C53-208",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Meningioma occurs in:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    [
+     "Equal"
+    ],
+    "Children only"
+   ],
+   "ans": 0,
+   "exp": "Females > males (Book p408)"
+  },
+  {
+   "id": "SURG-C53-209",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Meningioma may present as:",
+   "opts": [
+    "Asymptomatic",
+    "Always symptomatic",
+    [
+     "Apoplexy"
+    ],
+    "Fever"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic (Book p408)"
+  },
+  {
+   "id": "SURG-C53-210",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "When symptomatic, meningioma may cause a:",
+   "opts": [
+    "Motor deficit",
+    "Sensory loss only",
+    [
+     "Seizure only"
+    ],
+    "Visual loss only"
+   ],
+   "ans": 0,
+   "exp": "Motor deficit (Book p408)"
+  },
+  {
+   "id": "SURG-C53-211",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "On MRI meningioma shows the:",
+   "opts": [
+    "Dural tail sign",
+    "Cortical ribbon sign",
+    [
+     "Empty delta sign"
+    ],
+    "Tram track sign"
+   ],
+   "ans": 0,
+   "exp": "Dural tail sign (Book p408)"
+  },
+  {
+   "id": "SURG-C53-212",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "On imaging meningioma appears as a well encapsulated tumor:",
+   "opts": [
+    "With dural extension",
+    "With brain infiltration",
+    [
+     "With cystic core"
+    ],
+    "With fat density"
+   ],
+   "ans": 0,
+   "exp": "With dural extension (Book p408)"
+  },
+  {
+   "id": "SURG-C53-213",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "HPE of meningioma shows:",
+   "opts": [
+    "Psammoma bodies",
+    "Rosenthal fibres",
+    [
+     "Verrocay bodies"
+    ],
+    "Pseudorosettes"
+   ],
+   "ans": 0,
+   "exp": "Psammoma bodies (Book p408)"
+  },
+  {
+   "id": "SURG-C53-214",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Meningioma is managed by:",
+   "opts": [
+    "Surgery",
+    "RT alone",
+    [
+     "Chemo alone"
+    ],
+    "Observation always"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p408)"
+  },
+  {
+   "id": "SURG-C53-215",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Medulloblastoma is the m/c 1° malignant tumor in:",
+   "opts": [
+    "Children",
+    "Adults",
+    [
+     "Elderly"
+    ],
+    "Infants only"
+   ],
+   "ans": 0,
+   "exp": "Children (Book p408)"
+  },
+  {
+   "id": "SURG-C53-216",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Peak incidence of medulloblastoma is:",
+   "opts": [
+    "3-4 years",
+    "1-2 years",
+    [
+     "6-8 years"
+    ],
+    "10-12 years"
+   ],
+   "ans": 0,
+   "exp": "3-4 years (Book p408)"
+  },
+  {
+   "id": "SURG-C53-217",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Medulloblastoma is associated with:",
+   "opts": [
+    "Turcot syndrome",
+    "Gardner syndrome",
+    [
+     "Lynch syndrome"
+    ],
+    "Peutz-Jeghers"
+   ],
+   "ans": 0,
+   "exp": "Turcot syndrome (Book p408)"
+  },
+  {
+   "id": "SURG-C53-218",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Turcot syndrome is a variation of FAP with APC mutation on chromosome:",
+   "opts": [
+    "5",
+    "3",
+    [
+     "7"
+    ],
+    "18"
+   ],
+   "ans": 0,
+   "exp": "5 (Book p408)"
+  },
+  {
+   "id": "SURG-C53-219",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Medulloblastoma spreads through CSF as:",
+   "opts": [
+    "Drop metastasis",
+    "Lymphatic spread",
+    [
+     "Direct invasion only"
+    ],
+    "Hematogenous spread"
+   ],
+   "ans": 0,
+   "exp": "Drop metastasis (Book p408)"
+  },
+  {
+   "id": "SURG-C53-220",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "The IOC for medulloblastoma is:",
+   "opts": [
+    "MRI",
+    "CT",
+    [
+     "X-ray"
+    ],
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p408)"
+  },
+  {
+   "id": "SURG-C53-221",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "HPE of medulloblastoma shows small round blue cells plus:",
+   "opts": [
+    "Homer-Wright rosettes",
+    "Pseudorosettes",
+    [
+     "Psammoma bodies"
+    ],
+    "Verrocay bodies"
+   ],
+   "ans": 0,
+   "exp": "Homer-Wright rosettes (Book p408)"
+  },
+  {
+   "id": "SURG-C53-222",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma",
+   "page": 408,
+   "q": "Medulloblastoma is managed with surgery followed by:",
+   "opts": [
+    "Craniospinal RT",
+    "Focal RT",
+    [
+     "Chemo only"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Craniospinal RT (Book p408)"
+  },
+  {
+   "id": "SURG-C53-223",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "CNS lymphoma incidence is ↑ in:",
+   "opts": [
+    "Immunocompromised patients (HIV, post-transplant)",
+    "Diabetics",
+    [
+     "Hypertensives"
+    ],
+    "Smokers"
+   ],
+   "ans": 0,
+   "exp": "Immunocompromised patients (HIV, post-transplant) (Book p409)"
+  },
+  {
+   "id": "SURG-C53-224",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "The pathology of CNS lymphoma is:",
+   "opts": [
+    "Diffuse large B cell lymphoma (DLBCL)",
+    "T cell lymphoma",
+    [
+     "Hodgkin lymphoma"
+    ],
+    "Burkitt lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Diffuse large B cell lymphoma (DLBCL) (Book p409)"
+  },
+  {
+   "id": "SURG-C53-225",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "CNS lymphoma is called a ghost cell tumor because of:",
+   "opts": [
+    "Partial regression with steroids",
+    "Complete regression with RT",
+    [
+     "Necrosis"
+    ],
+    "Calcification"
+   ],
+   "ans": 0,
+   "exp": "Partial regression with steroids (Book p409)"
+  },
+  {
+   "id": "SURG-C53-226",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "CNS lymphoma is diagnosed by:",
+   "opts": [
+    "Biopsy",
+    "CSF cytology only",
+    [
+     "MRI alone"
+    ],
+    "PET alone"
+   ],
+   "ans": 0,
+   "exp": "Biopsy (Book p409)"
+  },
+  {
+   "id": "SURG-C53-227",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "CNS lymphoma is managed with:",
+   "opts": [
+    "Chemotherapy ± surgery → RT",
+    "Surgery alone",
+    [
+     "RT alone"
+    ],
+    "Steroids alone"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy ± surgery → RT (Book p409)"
+  },
+  {
+   "id": "SURG-C53-228",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "HPE of pilocytic astrocytoma shows Rosenthal fibres and:",
+   "opts": [
+    "Microcysts",
+    "Macrocysts",
+    [
+     "Psammoma bodies"
+    ],
+    "Necrosis"
+   ],
+   "ans": 0,
+   "exp": "Microcysts (Book p409)"
+  },
+  {
+   "id": "SURG-C53-229",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "HPE of GBM (Type 4) shows serpentine necrosis and:",
+   "opts": [
+    "Glomeruloid bodies",
+    "Psammoma bodies",
+    [
+     "Verrocay bodies"
+    ],
+    "Microcysts"
+   ],
+   "ans": 0,
+   "exp": "Glomeruloid bodies (Book p409)"
+  },
+  {
+   "id": "SURG-C53-230",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "HPE of oligodendroglioma shows fried egg cells, chicken wire blood vessels and:",
+   "opts": [
+    "Calcification",
+    "Necrosis",
+    [
+     "Rosettes"
+    ],
+    "Fat"
+   ],
+   "ans": 0,
+   "exp": "Calcification (Book p409)"
+  },
+  {
+   "id": "SURG-C53-231",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "HPE of ependymoma shows:",
+   "opts": [
+    "Perivascular pseudorosettes",
+    "Homer-Wright rosettes",
+    [
+     "Psammoma bodies"
+    ],
+    "Antoni areas"
+   ],
+   "ans": 0,
+   "exp": "Perivascular pseudorosettes (Book p409)"
+  },
+  {
+   "id": "SURG-C53-232",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "HPE of medulloblastoma shows small round blue cells and:",
+   "opts": [
+    "Homer Wright rosettes",
+    "Perivascular pseudorosettes",
+    [
+     "Rosenthal fibres"
+    ],
+    "Serpentine necrosis"
+   ],
+   "ans": 0,
+   "exp": "Homer Wright rosettes (Book p409)"
+  },
+  {
+   "id": "SURG-C53-233",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "HPE of meningioma shows:",
+   "opts": [
+    "Psammoma bodies",
+    "Verrocay bodies",
+    [
+     "Fried egg cells"
+    ],
+    "Microcysts"
+   ],
+   "ans": 0,
+   "exp": "Psammoma bodies (Book p409)"
+  },
+  {
+   "id": "SURG-C53-234",
+   "sec": "CNS Lymphoma and Histopathological Features",
+   "page": 409,
+   "q": "HPE of schwannoma shows Antoni A, Antoni B and:",
+   "opts": [
+    "Verrocay bodies",
+    "Psammoma bodies",
+    [
+     "Homer-Wright rosettes"
+    ],
+    "Glomeruloid bodies"
+   ],
+   "ans": 0,
+   "exp": "Verrocay bodies (Book p409)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U53-1",
+   "ch": 53,
+   "n": 1,
+   "title": "Cerebrovascular Accidents and Berry Aneurysms",
+   "sec": "Cerebrovascular Accidents and Berry Aneurysms · p399",
+   "qs": [
+    "SURG-C53-001",
+    "SURG-C53-002",
+    "SURG-C53-003",
+    "SURG-C53-004",
+    "SURG-C53-005",
+    "SURG-C53-006",
+    "SURG-C53-007",
+    "SURG-C53-008",
+    "SURG-C53-009",
+    "SURG-C53-010",
+    "SURG-C53-011",
+    "SURG-C53-012",
+    "SURG-C53-013",
+    "SURG-C53-014",
+    "SURG-C53-015",
+    "SURG-C53-016",
+    "SURG-C53-017",
+    "SURG-C53-018",
+    "SURG-C53-019",
+    "SURG-C53-020",
+    "SURG-C53-021",
+    "SURG-C53-022"
+   ],
+   "guide": "CVAs split into ischemic (thrombotic, embolic) and hemorrhagic (intracerebral, SAH, EDH, SDH); hypertensive intracerebral bleeds favour the basal ganglia putamen. SAH is mostly aneurysmal, and berry aneurysms — the commonest aneurysm overall, saccular and junctional, infrarenal aorta outside the cranium — arise in polycystic kidney, Ehlers-Danlos, HTN, smoking, Marfan and fibromuscular dysplasia, rupturing at the apex. On the circle of Willis the anterior communicating artery leads at 40%, then MCA 34%, ICA/posterior communicating 20% and the basilar tip 4%."
+  },
+  {
+   "id": "SURG-U53-2",
+   "ch": 53,
+   "n": 2,
+   "title": "SAH: Clinical Features, Investigations, Grading and Management",
+   "sec": "SAH: Clinical Features, Investigations, Grading and Management · p400",
+   "qs": [
+    "SURG-C53-023",
+    "SURG-C53-024",
+    "SURG-C53-025",
+    "SURG-C53-026",
+    "SURG-C53-027",
+    "SURG-C53-028",
+    "SURG-C53-029",
+    "SURG-C53-030",
+    "SURG-C53-031",
+    "SURG-C53-032",
+    "SURG-C53-033",
+    "SURG-C53-034",
+    "SURG-C53-035",
+    "SURG-C53-036",
+    "SURG-C53-037",
+    "SURG-C53-038",
+    "SURG-C53-039",
+    "SURG-C53-040",
+    "SURG-C53-041"
+   ],
+   "guide": "SAH announces itself as a thunderclap, the worst headache of life, with neck stiffness, prodromes and no focal signs; Terson's syndrome adds vitreous hemorrhage and MCA aneurysms give retroorbital pain. NCCT is the IOC with Fischer grading, CSF tap shows xanthochromia from RBC lysis, Hunt-Hess grades neurological symptoms while WFNS grades GCS. Cerebral angiography comes first and is followed by intervention — endovascular coiling through a catheter that is withdrawn once the coil fills the sac, or surgical clipping."
+  },
+  {
+   "id": "SURG-U53-3",
+   "ch": 53,
+   "n": 3,
+   "title": "SAH Complications and Brain Herniation Syndromes",
+   "sec": "SAH Complications and Brain Herniation Syndromes · p401",
+   "qs": [
+    "SURG-C53-042",
+    "SURG-C53-043",
+    "SURG-C53-044",
+    "SURG-C53-045",
+    "SURG-C53-046",
+    "SURG-C53-047",
+    "SURG-C53-048",
+    "SURG-C53-049",
+    "SURG-C53-050",
+    "SURG-C53-051",
+    "SURG-C53-052",
+    "SURG-C53-053",
+    "SURG-C53-054",
+    "SURG-C53-055",
+    "SURG-C53-056",
+    "SURG-C53-057",
+    "SURG-C53-058",
+    "SURG-C53-059",
+    "SURG-C53-060",
+    "SURG-C53-061",
+    "SURG-C53-062",
+    "SURG-C53-063",
+    "SURG-C53-064",
+    "SURG-C53-065",
+    "SURG-C53-066",
+    "SURG-C53-067"
+   ],
+   "guide": "SAH complications are re-bleeding, hydrocephalus from blood blocking CSF flow and delayed ischemic deficits at 2-10 days from vasospasm, prevented by nimodipine; in aortic dissection esmolol controls permissive hypertension. Herniation starts when the Munroe-Kellie doctrine breaks: ↑ICT drops CPP (MAP−ICP) and triggers Cushing's reflex — ↑SBP/HTN, bradycardia with ↑EDV and ↑SV, altered breathing — raising MAP to hold CPP ≥60 mmHg. Uncal (lateral transtentorial) herniation blows the ipsilateral third nerve with contralateral posturing (Kernohan notch), central transtentorial runs coma with small pupils through decorticate-decerebrate posturing to respiratory death via the foramen magnum, subfalcine cingulate herniation under the falx causes leg posturing and ACA stroke, and cerebellar herniation adds medullary failure with coma and bilateral posturing."
+  },
+  {
+   "id": "SURG-U53-4",
+   "ch": 53,
+   "n": 4,
+   "title": "Kernohan Notch, Management of ↑ ICT and Brain Abscess",
+   "sec": "Kernohan Notch, Management of ↑ ICT and Brain Abscess · p402",
+   "qs": [
+    "SURG-C53-068",
+    "SURG-C53-069",
+    "SURG-C53-070",
+    "SURG-C53-071",
+    "SURG-C53-072",
+    "SURG-C53-073",
+    "SURG-C53-074",
+    "SURG-C53-075",
+    "SURG-C53-076",
+    "SURG-C53-077",
+    "SURG-C53-078",
+    "SURG-C53-079",
+    "SURG-C53-080",
+    "SURG-C53-081",
+    "SURG-C53-082",
+    "SURG-C53-083",
+    "SURG-C53-084",
+    "SURG-C53-085",
+    "SURG-C53-086",
+    "SURG-C53-087",
+    "SURG-C53-088",
+    "SURG-C53-089",
+    "SURG-C53-090",
+    "SURG-C53-091",
+    "SURG-C53-092"
+   ],
+   "guide": "The Kernohan notch phenomenon is the false localizing sign: the bleeding side's uncus presses the midbrain against the contralateral notch, compressing the descending pyramidal tract there and weakening limbs ipsilateral to the bleed. ↑ICT is managed with fluids keeping CPP ≥60 and SBP >100 mmHg, avoiding dextrose, giving mannitol as an osmotic diuretic, oxygen propped up and steroids for vasogenic tumour edema. Brain abscesses reach hematogenously (parietal region, immunocompromise, cyanotic heart disease) or directly — frontal sinusitis to frontal lobe, otitis media to temporal lobe — presenting with headache, vomiting, seizures and deficits as ring-enhancing lesions on CT/MRI, treated with IV antibiotics, drainage of solitary abscesses, antibiotics plus monitoring for multiple, plus primary-cause treatment, anti-epileptics and ICT control."
+  },
+  {
+   "id": "SURG-U53-5",
+   "ch": 53,
+   "n": 5,
+   "title": "Neural Tube Defects: Spina Bifida Occulta and Aperta",
+   "sec": "Neural Tube Defects: Spina Bifida Occulta and Aperta · p403",
+   "qs": [
+    "SURG-C53-093",
+    "SURG-C53-094",
+    "SURG-C53-095",
+    "SURG-C53-096",
+    "SURG-C53-097",
+    "SURG-C53-098",
+    "SURG-C53-099",
+    "SURG-C53-100",
+    "SURG-C53-101",
+    "SURG-C53-102",
+    "SURG-C53-103",
+    "SURG-C53-104",
+    "SURG-C53-105",
+    "SURG-C53-106",
+    "SURG-C53-107",
+    "SURG-C53-108",
+    "SURG-C53-109",
+    "SURG-C53-110",
+    "SURG-C53-111",
+    "SURG-C53-112",
+    "SURG-C53-113",
+    "SURG-C53-114",
+    "SURG-C53-115",
+    "SURG-C53-116",
+    "SURG-C53-117"
+   ],
+   "guide": "Spina bifida occulta is the closed defect of ≥1 vertebrae without herniation, asymptomatic apart from a dimple or tuft of hair, diagnosed on X-ray and needing nothing. Spina bifida aperta lets membranes (meningocele) or membranes plus cord (myelomeningocele, the severest NTD) herniate through the posterior arch defect; meningoceles are fluctuant CSF cysts with limb weakness and sphincter dysfunction, mapped by MRI and repaired early if leaking, infected or tethered, late if asymptomatic with normal neurology. Myelomeningoceles are prevented by periconceptional folate, risked by maternal phenytoin/valproate, share meningocele features and carry a difficult repair with poorer prognosis."
+  },
+  {
+   "id": "SURG-U53-6",
+   "ch": 53,
+   "n": 6,
+   "title": "Chiari Malformation and Dandy Walker Syndrome",
+   "sec": "Chiari Malformation and Dandy Walker Syndrome · p405",
+   "qs": [
+    "SURG-C53-118",
+    "SURG-C53-119",
+    "SURG-C53-120",
+    "SURG-C53-121",
+    "SURG-C53-122",
+    "SURG-C53-123",
+    "SURG-C53-124",
+    "SURG-C53-125",
+    "SURG-C53-126",
+    "SURG-C53-127",
+    "SURG-C53-128",
+    "SURG-C53-129",
+    "SURG-C53-130",
+    "SURG-C53-131",
+    "SURG-C53-132",
+    "SURG-C53-133",
+    "SURG-C53-134",
+    "SURG-C53-135",
+    "SURG-C53-136",
+    "SURG-C53-137",
+    "SURG-C53-138",
+    "SURG-C53-139",
+    "SURG-C53-140",
+    "SURG-C53-141",
+    "SURG-C53-142",
+    "SURG-C53-143",
+    "SURG-C53-144",
+    "SURG-C53-145"
+   ],
+   "guide": "Chiari I drops the cerebellar tonsils (with syringomyelia) and presents in young adults with neck pain, conservative management and only possible hydrocephalus or spina bifida; Chiari II presents in infancy with progressive hydrocephalus and respiratory distress, breaking the tectal plate and dragging inferior vermis, medulla and fourth ventricle caudally, with hydrocephalus and spina bifida rarely absent, needing hydrocephalus treatment with poor prognosis. Dandy Walker shows a hugely cystic fourth ventricle, vermian hypogenesis/agenesis and superiorly displaced tentorium and lateral sinus, giving a prominent occiput, macrocephaly and hydrocephalus on MRI/CT, treated by shunting with poor prognosis."
+  },
+  {
+   "id": "SURG-U53-7",
+   "ch": 53,
+   "n": 7,
+   "title": "CNS Tumors: Salient Features, Management and Brain Metastases",
+   "sec": "CNS Tumors: Salient Features, Management and Brain Metastases · p406",
+   "qs": [
+    "SURG-C53-146",
+    "SURG-C53-147",
+    "SURG-C53-148",
+    "SURG-C53-149",
+    "SURG-C53-150",
+    "SURG-C53-151",
+    "SURG-C53-152",
+    "SURG-C53-153",
+    "SURG-C53-154",
+    "SURG-C53-155",
+    "SURG-C53-156",
+    "SURG-C53-157",
+    "SURG-C53-158",
+    "SURG-C53-159",
+    "SURG-C53-160",
+    "SURG-C53-161",
+    "SURG-C53-162",
+    "SURG-C53-163",
+    "SURG-C53-164",
+    "SURG-C53-165",
+    "SURG-C53-166",
+    "SURG-C53-167",
+    "SURG-C53-168",
+    "SURG-C53-169",
+    "SURG-C53-170",
+    "SURG-C53-171",
+    "SURG-C53-172"
+   ],
+   "guide": "Gliomas lead primary brain tumours ahead of meningiomas, medulloblastoma leads primary childhood malignancy, yet metastases are the commonest brain tumours overall; patients show focal deficits, seizures, morning headache and ICT vomiting, with frontal lesions causing Witzelsucht pathological joking and personality change. MRI is the IOC (PET/CT misses brain lesions); treatment mixes surgery for solitary/1-2 lesions, BBB-crossing or intrathecal chemotherapy, and whole-brain RT or gamma-knife stereotactic radiosurgery, plus ICT care. Lung cancer seeds cerebrum and breast cancer the leptomeninges; solitary mets get surgery, radiotherapy is the mainstay, leptomeningeal disease gets chemotherapy, vasogenic edema gets steroids (DOC) and seizures get antiepileptics."
+  },
+  {
+   "id": "SURG-U53-8",
+   "ch": 53,
+   "n": 8,
+   "title": "Astrocytomas and Oligodendroglioma",
+   "sec": "Astrocytomas and Oligodendroglioma · p407",
+   "qs": [
+    "SURG-C53-173",
+    "SURG-C53-174",
+    "SURG-C53-175",
+    "SURG-C53-176",
+    "SURG-C53-177",
+    "SURG-C53-178",
+    "SURG-C53-179",
+    "SURG-C53-180",
+    "SURG-C53-181",
+    "SURG-C53-182",
+    "SURG-C53-183",
+    "SURG-C53-184",
+    "SURG-C53-185",
+    "SURG-C53-186",
+    "SURG-C53-187",
+    "SURG-C53-188",
+    "SURG-C53-189",
+    "SURG-C53-190",
+    "SURG-C53-191",
+    "SURG-C53-192",
+    "SURG-C53-193",
+    "SURG-C53-194",
+    "SURG-C53-195",
+    "SURG-C53-196",
+    "SURG-C53-197",
+    "SURG-C53-198"
+   ],
+   "guide": "Astrocytomas grade I-IV as pilocytic, low-grade fibrillary, anaplastic and GBM along a progressing ladder. Pilocytic tumours of children sit as non-infiltrating mural nodules, usually posterior fossa, low grade, MRI-diagnosed and cured by excision; GBM progresses rapidly with the worst prognosis, crosses as a hemorrhagic, necrotic, infiltrating butterfly tumour and is treated by surgery, RT and oral temozolomide. Oligodendroglioma peaks at 40-60 years with calcified lesions, fried-egg cells and chicken-wire vessels, treated by surgery, RT and temozolomide; calcifying CNS tumours are medulloblastoma, oligodendroglioma and meningioma."
+  },
+  {
+   "id": "SURG-U53-9",
+   "ch": 53,
+   "n": 9,
+   "title": "Ependymoma, Meningioma and Medulloblastoma",
+   "sec": "Ependymoma, Meningioma and Medulloblastoma · p408",
+   "qs": [
+    "SURG-C53-199",
+    "SURG-C53-200",
+    "SURG-C53-201",
+    "SURG-C53-202",
+    "SURG-C53-203",
+    "SURG-C53-204",
+    "SURG-C53-205",
+    "SURG-C53-206",
+    "SURG-C53-207",
+    "SURG-C53-208",
+    "SURG-C53-209",
+    "SURG-C53-210",
+    "SURG-C53-211",
+    "SURG-C53-212",
+    "SURG-C53-213",
+    "SURG-C53-214",
+    "SURG-C53-215",
+    "SURG-C53-216",
+    "SURG-C53-217",
+    "SURG-C53-218",
+    "SURG-C53-219",
+    "SURG-C53-220",
+    "SURG-C53-221",
+    "SURG-C53-222"
+   ],
+   "guide": "Ependymoma, a childhood tumour, blocks the fourth ventricle causing hydrocephalus and drops CSF metastases, shows perivascular pseudorosettes and needs surgery plus craniospinal RT. Meningioma is an extra-axial dural-based tumour of women, often asymptomatic or causing motor deficit, well encapsulated with dural extension and a dural tail on MRI, psammoma bodies on HPE, cured by surgery. Medulloblastoma, the commonest primary malignant childhood tumour peaking at 3-4 years, links to Turcot syndrome (FAP variant, APC on chromosome 5), drops CSF metastases, shows small round blue cells with Homer-Wright rosettes and is treated by surgery plus craniospinal RT."
+  },
+  {
+   "id": "SURG-U53-10",
+   "ch": 53,
+   "n": 10,
+   "title": "CNS Lymphoma and Histopathological Features",
+   "sec": "CNS Lymphoma and Histopathological Features · p409",
+   "qs": [
+    "SURG-C53-223",
+    "SURG-C53-224",
+    "SURG-C53-225",
+    "SURG-C53-226",
+    "SURG-C53-227",
+    "SURG-C53-228",
+    "SURG-C53-229",
+    "SURG-C53-230",
+    "SURG-C53-231",
+    "SURG-C53-232",
+    "SURG-C53-233",
+    "SURG-C53-234"
+   ],
+   "guide": "CNS lymphoma strikes immunocompromised HIV and post-transplant patients as diffuse large B-cell lymphoma, regresses partly with steroids earning the ghost-cell tag, is diagnosed by biopsy and treated with chemotherapy ± surgery then RT. The histology cheat-sheet pairs pilocytic astrocytoma with Rosenthal fibres and microcysts, GBM type 4 with serpentine necrosis and glomeruloid bodies, oligodendroglioma with fried-egg cells, chicken-wire vessels and calcification, ependymoma with perivascular pseudorosettes, medulloblastoma with small round blue cells and Homer-Wright rosettes, meningioma with psammoma bodies and schwannoma with Antoni A/B and Verrocay bodies."
+  }
+ ]
+}
