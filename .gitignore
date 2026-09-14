@@ -1,4 +1,5 @@
 work/pages/
+work/inspect/
 __pycache__/
 *.pyc
 .DS_Store
