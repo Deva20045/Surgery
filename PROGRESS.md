@@ -203,7 +203,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## Totals / live link
 - Local HTML: **55/72 chapters live** · Questions: 7305 · Units: 629
-- GitHub HTML: **synced at 50/72** (PR #21); 55/72 pushed on arena branch, PR pending
+- GitHub HTML: **synced at 55/72** (merged to `main` via PR #22 on 2026-09-14)
 - NEXT: ch56 Thoracic trauma — p426-434 (v2b p48-56) — **same source PDF: `Surgery Vol. 2_part_2.pdf`** (book = pdf + 378)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
