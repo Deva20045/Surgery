@@ -1,0 +1,1751 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C32-001",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "Griffith's point is located at the:",
+   "opts": [
+    "Splenic flexure",
+    "Hepatic flexure",
+    "Ileocecal junction",
+    "Anal verge"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels Griffith's point at the splenic flexure. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-002",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "Why is Griffith's point surgically important?",
+   "opts": [
+    "It is a watershed area with insufficient blood supply",
+    "It contains the appendicular artery",
+    "It marks the dentate line",
+    "It is the most common site of anal cancer"
+   ],
+   "ans": 0,
+   "exp": "The page states that Griffith's point is a watershed area with insufficient blood supply, making healing less reliable. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-003",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "Which statement best explains why the splenic flexure is a difficult area for colorectal resection and anastomosis?",
+   "opts": [
+    "Its blood supply is relatively poor",
+    "It lacks lymphatic drainage",
+    "It has no marginal artery",
+    "It always lies retroperitoneally"
+   ],
+   "ans": 0,
+   "exp": "The page specifically links the splenic flexure with difficult resection and anastomosis because it is a watershed zone with poor blood supply. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-004",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "Sudeck point is another classical:",
+   "opts": [
+    "Watershed area",
+    "Zone of appendicular perforation",
+    "Plane for TME",
+    "Site of rectal pain sensation loss"
+   ],
+   "ans": 0,
+   "exp": "Sudeck point is explicitly labeled as a watershed area on the vascular diagram. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-005",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "The collateral arcade running along the colorectum in this diagram is the:",
+   "opts": [
+    "Marginal artery of Drummond",
+    "Artery of Seshachalam",
+    "Arc of Buhler",
+    "Inferior epigastric artery"
+   ],
+   "ans": 0,
+   "exp": "The figure names the longitudinal collateral supply as the marginal artery of Drummond. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-006",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "In the vascular diagram, SMA stands for:",
+   "opts": [
+    "Superior mesenteric artery",
+    "Superior mesorectal artery",
+    "Submucosal arterial arcade",
+    "Splenic marginal artery"
+   ],
+   "ans": 0,
+   "exp": "The boxed note on the page expands SMA as superior mesenteric artery. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-007",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "In the vascular diagram, IMA stands for:",
+   "opts": [
+    "Inferior mesenteric artery",
+    "Internal mesorectal artery",
+    "Ileo-marginal artery",
+    "Inferior mucosal artery"
+   ],
+   "ans": 0,
+   "exp": "The same note expands IMA as inferior mesenteric artery. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-008",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "Griffith's point lies between which two arterial territories in the diagram?",
+   "opts": [
+    "Middle colic and left colic",
+    "Ileocolic and right colic",
+    "Sigmoid and superior rectal",
+    "Inferior rectal and middle rectal"
+   ],
+   "ans": 0,
+   "exp": "The splenic flexure watershed lies between the middle colic and left colic territories. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-009",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "Sudeck point in the diagram corresponds to the watershed around the junction of the:",
+   "opts": [
+    "Sigmoid and superior rectal territories",
+    "Middle colic and left colic territories",
+    "Ileocolic and right colic territories",
+    "Internal and external iliac territories"
+   ],
+   "ans": 0,
+   "exp": "The rectosigmoid watershed shown as Sudeck point lies at the junction of the sigmoid and superior rectal supply. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-010",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "page": 227,
+   "q": "The artery continuing distally toward the rectum in the diagram is the:",
+   "opts": [
+    "Superior rectal artery",
+    "Middle colic artery",
+    "Right colic artery",
+    "Ileocolic artery"
+   ],
+   "ans": 0,
+   "exp": "The distal continuation of the IMA in the diagram is labeled as the superior rectal artery. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-011",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "A caecal carcinoma in this table is treated by:",
+   "opts": [
+    "Right hemicolectomy",
+    "Left hemicolectomy",
+    "Sigmoidectomy",
+    "APR"
+   ],
+   "ans": 0,
+   "exp": "The surgical management table maps caecal tumours to right hemicolectomy. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-012",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "Which bowel segment is specifically included in a right hemicolectomy according to the page?",
+   "opts": [
+    "Terminal 10-12 cm of ileum",
+    "Entire jejunum",
+    "Rectum",
+    "Distal sigmoid only"
+   ],
+   "ans": 0,
+   "exp": "The table lists the terminal 10-12 cm of ileum among the parts removed in right hemicolectomy. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-013",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "Right hemicolectomy for caecal tumour removes all of the following EXCEPT:",
+   "opts": [
+    "Descending colon",
+    "Caecum",
+    "Ascending colon",
+    "Hepatic flexure"
+   ],
+   "ans": 0,
+   "exp": "For a caecal tumour, right hemicolectomy includes terminal ileum, caecum, ascending colon, hepatic flexure, and right transverse colon, not descending colon. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-014",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "In right hemicolectomy, the transverse colon is removed up to the:",
+   "opts": [
+    "Right middle colic artery",
+    "Left branch of middle colic",
+    "Splenic flexure only",
+    "Superior rectal artery"
+   ],
+   "ans": 0,
+   "exp": "The table specifies removal of the right part of transverse colon until the right middle colic artery. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-015",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "Arterial ligation in right hemicolectomy includes all of the following EXCEPT:",
+   "opts": [
+    "Left colic artery",
+    "Right branch of middle colic",
+    "Ileocolic artery",
+    "Right colic artery"
+   ],
+   "ans": 0,
+   "exp": "The right hemicolectomy row lists ligation of the right branch of middle colic, ileocolic, and right colic arteries, not the left colic artery. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-016",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "Tumours of the ascending colon, hepatic flexure, or transverse colon are treated in this chapter by:",
+   "opts": [
+    "Extended right hemicolectomy",
+    "Sigmoidectomy",
+    "Left hemicolectomy",
+    "Transanal excision"
+   ],
+   "ans": 0,
+   "exp": "The table groups ascending colon, hepatic flexure, and transverse colon tumours under extended right hemicolectomy. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-017",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "Which of the following is specifically included in an extended right hemicolectomy?",
+   "opts": [
+    "Right part of transverse colon",
+    "Anal canal",
+    "Only caecum and appendix",
+    "Descending colon only"
+   ],
+   "ans": 0,
+   "exp": "Extended right hemicolectomy includes terminal ileum, caecum, ascending colon, hepatic flexure, and the right part of the transverse colon. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-018",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "The page notes that which segment may occasionally also be removed during extended right hemicolectomy to improve the anastomotic outcome?",
+   "opts": [
+    "Splenic flexure",
+    "Rectum",
+    "Anal canal",
+    "Jejunum"
+   ],
+   "ans": 0,
+   "exp": "The note in the extended right hemicolectomy row states that the splenic flexure is occasionally removed to obtain a better outcome during anastomosis. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-019",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "page": 227,
+   "q": "Arterial ligation in extended right hemicolectomy includes:",
+   "opts": [
+    "Middle colic, ileocolic, and right colic arteries",
+    "Left colic, sigmoid, and superior rectal arteries",
+    "Only ileocolic artery",
+    "Inferior epigastric artery and IMA"
+   ],
+   "ans": 0,
+   "exp": "The extended right hemicolectomy row lists middle colic, ileocolic, and right colic as the arteries ligated. (Book p227)"
+  },
+  {
+   "id": "SURG-C32-020",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "A tumour confined to the transverse colon only is treated by:",
+   "opts": [
+    "Transverse colectomy",
+    "Extended right hemicolectomy",
+    "Left hemicolectomy",
+    "Sigmoidectomy"
+   ],
+   "ans": 0,
+   "exp": "The table on page 228 assigns transverse-colon-only lesions to transverse colectomy. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-021",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "What disadvantage of transverse colectomy is highlighted in the chapter?",
+   "opts": [
+    "Poor blood supply of the splenic flexure",
+    "Very high risk of ureteric injury",
+    "Need for permanent colostomy",
+    "Cannot remove lymph nodes"
+   ],
+   "ans": 0,
+   "exp": "The page explicitly states that transverse colectomy has the disadvantage of poor blood supply of the splenic flexure. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-022",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "Tumours of the splenic flexure, descending colon, and proximal sigmoid colon are managed by:",
+   "opts": [
+    "Left hemicolectomy",
+    "Right hemicolectomy",
+    "APR",
+    "Transanal total mesorectal excision"
+   ],
+   "ans": 0,
+   "exp": "The page groups splenic flexure, descending colon, and proximal sigmoid tumours under left hemicolectomy. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-023",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "Which of the following arteries is listed among those ligated in left hemicolectomy?",
+   "opts": [
+    "Left branch of middle colic",
+    "Ileocolic",
+    "Right colic",
+    "Inferior epigastric"
+   ],
+   "ans": 0,
+   "exp": "The left hemicolectomy row lists the left branch of middle colic as one of the arteries ligated. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-024",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "In left hemicolectomy, which additional named artery is specifically ligated?",
+   "opts": [
+    "Left colic artery",
+    "Appendicular artery",
+    "Right branch of middle colic",
+    "Gastroduodenal artery"
+   ],
+   "ans": 0,
+   "exp": "The table lists left colic artery ligation as part of left hemicolectomy. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-025",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "The third vessel listed in the arterial ligation column for left hemicolectomy is the:",
+   "opts": [
+    "Sigmoid artery",
+    "Superior rectal artery",
+    "Middle rectal artery",
+    "Marginal artery"
+   ],
+   "ans": 0,
+   "exp": "The row shows left branch of middle colic, left colic, and sigmoid arteries as the vessels ligated. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-026",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "High ligation of the IMA during left hemicolectomy is considered acceptable on this page because the rectum still has blood supply from the:",
+   "opts": [
+    "Middle and inferior rectal arteries",
+    "Ileocolic and right colic arteries",
+    "Inferior epigastric and obturator arteries",
+    "Superior gluteal and internal pudendal arteries"
+   ],
+   "ans": 0,
+   "exp": "The note beside high IMA ligation says the rectum continues to receive blood supply from the middle and inferior rectal arteries. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-027",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "A tumour confined to the sigmoid colon only is treated by:",
+   "opts": [
+    "Sigmoidectomy",
+    "Left hemicolectomy",
+    "Right hemicolectomy",
+    "APR"
+   ],
+   "ans": 0,
+   "exp": "The last row of the table maps sigmoid-colon-only lesions to sigmoidectomy. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-028",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "page": 228,
+   "q": "Which operation in the illustrated sequence corresponds to resection for proximal sigmoid tumour rather than sigmoid-only tumour?",
+   "opts": [
+    "Left hemicolectomy",
+    "Right hemicolectomy",
+    "Transverse colectomy",
+    "APR"
+   ],
+   "ans": 0,
+   "exp": "The table distinguishes proximal sigmoid colon lesions, which require left hemicolectomy, from sigmoid-only lesions, which are treated by sigmoidectomy. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-029",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "page": 228,
+   "q": "The anorectal ring is formed by the:",
+   "opts": [
+    "Levator ani",
+    "Puborectalis alone",
+    "Internal sphincter",
+    "Taenia coli"
+   ],
+   "ans": 0,
+   "exp": "The diagram states that the anorectal ring is formed by the levator ani. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-030",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "page": 228,
+   "q": "The dentate line lies approximately how far below the anorectal ring on the diagram?",
+   "opts": [
+    "2-2.5 cm",
+    "5 cm",
+    "10 cm",
+    "1 cm"
+   ],
+   "ans": 0,
+   "exp": "The measurement shown between the anorectal ring and dentate line is 2-2.5 cm. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-031",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "page": 228,
+   "q": "The anal verge lies approximately how far below the dentate line on the diagram?",
+   "opts": [
+    "2-2.5 cm",
+    "5 cm",
+    "10 cm",
+    "0.5 cm"
+   ],
+   "ans": 0,
+   "exp": "The measurement from dentate line to anal verge is also shown as 2-2.5 cm. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-032",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "page": 228,
+   "q": "Above the dentate line there are usually:",
+   "opts": [
+    "No pain sensations",
+    "Marked somatic pain sensations",
+    "Only temperature sensations",
+    "Only proprioceptive sensations"
+   ],
+   "ans": 0,
+   "exp": "The diagram explicitly says that above the dentate line there are no pain sensations. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-033",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "page": 228,
+   "q": "Below the dentate line, pain sensation is:",
+   "opts": [
+    "Present",
+    "Absent",
+    "Only visceral",
+    "Always referred to the umbilicus"
+   ],
+   "ans": 0,
+   "exp": "The page states that below the dentate line pain sensations are present. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-034",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "page": 228,
+   "q": "Which structures are shown within 5 cm of the anal canal and are important for continence?",
+   "opts": [
+    "Internal and external anal sphincters",
+    "Middle and inferior rectal arteries",
+    "Superior hypogastric plexus and pelvic plexus",
+    "Taenia coli and mesoappendix"
+   ],
+   "ans": 0,
+   "exp": "The diagram notes the internal and external anal sphincters within 5 cm of the anal canal and states that they maintain continence. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-035",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "page": 228,
+   "q": "Why is a very low rectal tumour surgically challenging according to this anatomical diagram?",
+   "opts": [
+    "It may involve the continence-preserving sphincters",
+    "It always metastasizes to the liver first",
+    "It has no lymphatic drainage",
+    "It lies above the dentate line only"
+   ],
+   "ans": 0,
+   "exp": "The page emphasizes that the continence-maintaining internal and external sphincters lie within 5 cm of the anal canal. (Book p228)"
+  },
+  {
+   "id": "SURG-C32-036",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The proximal margin recommended for rectal cancer surgery on this page is:",
+   "opts": [
+    "5 cm",
+    "2 cm",
+    "1 cm",
+    "10 cm"
+   ],
+   "ans": 0,
+   "exp": "The principles box lists a proximal margin of 5 cm. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-037",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The distal margin recommended for rectal cancer surgery on this page is:",
+   "opts": [
+    "2 cm",
+    "5 cm",
+    "1 mm",
+    "8 cm"
+   ],
+   "ans": 0,
+   "exp": "The same box specifies a distal margin of 2 cm. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-038",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The radial margin recommended in this chapter is:",
+   "opts": [
+    "5 cm",
+    "2 cm",
+    "1 cm",
+    "0.5 cm"
+   ],
+   "ans": 0,
+   "exp": "A radial margin of 5 cm is listed, with the note that this relates to radially situated lymph nodes. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-039",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "Why is a wider radial margin emphasized in the page's schematic?",
+   "opts": [
+    "Because lymph nodes are radially situated",
+    "Because the appendix is retrocaecal",
+    "Because the dentate line has no pain fibres",
+    "Because the IMA has no collaterals"
+   ],
+   "ans": 0,
+   "exp": "The page directly explains the radial margin by the presence of radially situated lymph nodes. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-040",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "A tumour more than 5 cm from the anal verge, especially in the mid-rectum or distal sigmoid, is treated by:",
+   "opts": [
+    "Low anterior resection",
+    "Abdominoperineal resection",
+    "Sigmoidectomy only",
+    "Local excision only"
+   ],
+   "ans": 0,
+   "exp": "The algorithm maps tumours more than 5 cm from the anal verge, including mid-rectal and distal sigmoid lesions, to low anterior resection. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-041",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "A tumour within 5 cm from the anal verge is treated by:",
+   "opts": [
+    "Abdominoperineal resection",
+    "Low anterior resection",
+    "Only chemoradiation",
+    "Right hemicolectomy"
+   ],
+   "ans": 0,
+   "exp": "The opposite branch of the algorithm shows tumours within 5 cm from the anal verge going to APR. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-042",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "Why does APR commonly sacrifice continence?",
+   "opts": [
+    "A major part of the sphincter is resected",
+    "The marginal artery is divided",
+    "Only the serosa is preserved",
+    "Because the ileum is also removed"
+   ],
+   "ans": 0,
+   "exp": "The figure notes that APR involves resection of a major part of the sphincter, leading to incontinence. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-043",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The permanent stoma associated with APR is a:",
+   "opts": [
+    "End colostomy",
+    "Loop ileostomy",
+    "Mucus fistula",
+    "Jejunostomy"
+   ],
+   "ans": 0,
+   "exp": "APR is shown ending in a permanent end colostomy. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-044",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "Which statement correctly describes low anterior resection (LAR) on this page?",
+   "opts": [
+    "Most of the sphincter is retained, so incontinence is avoided",
+    "The anal canal is removed completely",
+    "It always requires permanent colostomy",
+    "It is used only for caecal cancer"
+   ],
+   "ans": 0,
+   "exp": "The LAR branch states that the majority of sphincter is retained and there is no incontinence. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-045",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The parts removed during LAR are the:",
+   "opts": [
+    "Rectum and part of sigmoid",
+    "Anal canal and rectum",
+    "Only anal canal",
+    "Terminal ileum and caecum"
+   ],
+   "ans": 0,
+   "exp": "The LAR notes list removal of the rectum and part of sigmoid. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-046",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "What proportion of the rectum is covered by peritoneum according to this page?",
+   "opts": [
+    "Upper one-third",
+    "Lower one-third",
+    "Entire rectum",
+    "Rectum is completely extraperitoneal"
+   ],
+   "ans": 0,
+   "exp": "The page states that the peritoneum covers the upper one-third of the rectum. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-047",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "After opening the peritoneum in LAR, resection proceeds:",
+   "opts": [
+    "Below the level of the peritoneum",
+    "Only above the pelvic brim",
+    "Within the mesoappendix",
+    "Through the anal sphincter complex"
+   ],
+   "ans": 0,
+   "exp": "The sequence on the page is peritoneum opened, then resection below the level of the peritoneum. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-048",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The coloanal anastomosis in LAR is shown being created with a:",
+   "opts": [
+    "Circular stapler",
+    "Linear stapler",
+    "Hand-sewn purse string only",
+    "Mesh ring"
+   ],
+   "ans": 0,
+   "exp": "The figure specifically mentions coloanal anastomosis by circular stapler. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-049",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "APR removes which parts according to the page?",
+   "opts": [
+    "Anal canal and rectum",
+    "Rectum and part of sigmoid only",
+    "Caecum and ascending colon",
+    "Distal ileum and caecum"
+   ],
+   "ans": 0,
+   "exp": "The APR notes list the anal canal and rectum as the parts removed. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-050",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The page highlights careful choice of dissection plane in APR mainly to avoid:",
+   "opts": [
+    "Nerve injury",
+    "Bile leak",
+    "Short bowel syndrome",
+    "Anastomotic stricture"
+   ],
+   "ans": 0,
+   "exp": "A bullet point under APR explicitly says the plane of dissection is chosen to avoid nerve injury. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-051",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The anterior fascial landmark shown near the prostate and seminal vesicle is:",
+   "opts": [
+    "Denonvilliers' fascia",
+    "Gerota's fascia",
+    "Buck's fascia",
+    "Scarpa's fascia"
+   ],
+   "ans": 0,
+   "exp": "The lower-right cross-sectional diagram labels Denonvilliers' fascia anteriorly. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-052",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "The ideal dissection plane highlighted in the rectal surgery diagram is called the:",
+   "opts": [
+    "Holy plane",
+    "Critical view",
+    "Calot plane",
+    "Plane of Toldt"
+   ],
+   "ans": 0,
+   "exp": "The figure explicitly labels the mesorectal dissection plane as the 'holy plane'. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-053",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "page": 229,
+   "q": "Total mesorectal excision (TME) on this page includes removal of at least how many lymph nodes?",
+   "opts": [
+    "12",
+    "6",
+    "20",
+    "2"
+   ],
+   "ans": 0,
+   "exp": "The note under the bracket for total mesorectal excision says removal of a minimum of 12 lymph nodes. (Book p229)"
+  },
+  {
+   "id": "SURG-C32-054",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Transanal total mesorectal excision (TaTME) is described as a:",
+   "opts": [
+    "NOTES procedure",
+    "Open transabdominal bypass",
+    "Purely radiologic intervention",
+    "Perineal flap reconstruction"
+   ],
+   "ans": 0,
+   "exp": "The page defines TaTME as a natural orifice transluminal endoscopic surgery (NOTES) procedure. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-055",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "The indications listed for TaTME are:",
+   "opts": [
+    "T1 and T2 tumours",
+    "T3 and T4 tumours only",
+    "Only metastatic disease",
+    "Only recurrent anal cancer"
+   ],
+   "ans": 0,
+   "exp": "The indication line specifically mentions T1 and T2 tumours. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-056",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "One major functional advantage of TaTME noted on the page is:",
+   "opts": [
+    "Sphincter preservation",
+    "Guaranteed fertility preservation",
+    "Avoidance of lymphadenectomy",
+    "Need for no bowel preparation"
+   ],
+   "ans": 0,
+   "exp": "The page states that the sphincter is preserved in TaTME. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-057",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "How are the initial trial results of TaTME summarized in the chapter?",
+   "opts": [
+    "Safe procedure",
+    "Unsafe and abandoned",
+    "Useful only in children",
+    "Inferior to APR in every case"
+   ],
+   "ans": 0,
+   "exp": "The line under TaTME states that initial trials found it to be a safe procedure. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-058",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Which of the following is listed as a complication of colorectal surgery?",
+   "opts": [
+    "Anastomotic leak",
+    "Biliary peritonitis",
+    "Hemobilia",
+    "Portal cavernoma"
+   ],
+   "ans": 0,
+   "exp": "The complication list includes bleeding, infection, leak, abscesses, recurrence, and nerve injuries. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-059",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "All of the following are listed complications of colorectal surgery EXCEPT:",
+   "opts": [
+    "Chylothorax",
+    "Bleeding",
+    "Abscesses",
+    "Recurrence"
+   ],
+   "ans": 0,
+   "exp": "The page lists bleeding, infection, leak, abscesses, recurrence, and nerve injuries; chylothorax is not listed. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-060",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "High ligation of the IMA risks injury to which nerve plexus?",
+   "opts": [
+    "Superior hypogastric plexus near the sacral promontory",
+    "Periprostatic plexus",
+    "Pelvic plexus with nervi erigentes",
+    "Pudendal plexus"
+   ],
+   "ans": 0,
+   "exp": "The nerve-injury table links high IMA ligation with superior hypogastric plexus injury near the sacral promontory. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-061",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "The characteristic consequence of superior hypogastric plexus injury during high IMA ligation is:",
+   "opts": [
+    "Retrograde ejaculation in men",
+    "True urinary incontinence",
+    "Foot drop",
+    "Constipation only"
+   ],
+   "ans": 0,
+   "exp": "The table specifically lists retrograde ejaculation in men due to sympathetic dysfunction. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-062",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Division of lateral stalks close to the pelvic sidewall may injure the:",
+   "opts": [
+    "Pelvic plexus and nervi erigentes",
+    "Superior hypogastric plexus alone",
+    "Periprostatic plexus only",
+    "Femoral nerve"
+   ],
+   "ans": 0,
+   "exp": "The second row of the table names the pelvic plexus and nervi erigentes. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-063",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Which clinical problem best fits pelvic plexus and nervi erigentes injury during rectal surgery?",
+   "opts": [
+    "Erectile dysfunction, impotence, and atonic bladder",
+    "Retrograde ejaculation only",
+    "Bowel obstruction from mucus",
+    "Isolated perianal pain"
+   ],
+   "ans": 0,
+   "exp": "The table associates pelvic plexus and nervi erigentes injury with erectile dysfunction, impotence, and atonic bladder. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-064",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Anterior dissection during rectal surgery risks injury to the:",
+   "opts": [
+    "Periprostatic plexus",
+    "Superior hypogastric plexus",
+    "Vagus nerve",
+    "Inferior mesenteric vein"
+   ],
+   "ans": 0,
+   "exp": "The third row in the nerve-injury table lists the periprostatic plexus. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-065",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Periprostatic plexus injury during anterior dissection causes:",
+   "opts": [
+    "Sexual and bladder dysfunction",
+    "Retrograde ejaculation only",
+    "Blindness",
+    "Upper limb weakness"
+   ],
+   "ans": 0,
+   "exp": "The table summarizes the consequences of periprostatic plexus injury as sexual and bladder dysfunction. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-066",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "In obstructing colorectal cancer, endoscopic stent placement is used mainly as a bridge to:",
+   "opts": [
+    "Definitive surgery",
+    "Permanent conservative treatment",
+    "Radiotherapy only",
+    "Chemotherapy only"
+   ],
+   "ans": 0,
+   "exp": "The emergency management section shows endoscopic stent placement followed by definitive surgery. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-067",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Hartmann/Paul Mikulicz procedure in the chapter creates a proximal:",
+   "opts": [
+    "Colostomy",
+    "Ileostomy",
+    "Jejunostomy",
+    "Gastrostomy"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels the proximal end as a colostomy. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-068",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "In Hartmann/Paul Mikulicz procedure, the distal end is fashioned as a:",
+   "opts": [
+    "Mucus fistula",
+    "Blind pouch with no decompression",
+    "Ileal conduit",
+    "Feeding jejunostomy"
+   ],
+   "ans": 0,
+   "exp": "The distal end is labeled as a mucus fistula in the schematic. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-069",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Why is a distal mucus fistula created in the obstructed colon according to the page?",
+   "opts": [
+    "To prevent perforation due to mucus accumulation",
+    "To improve urinary drainage",
+    "To preserve anal sphincters",
+    "To reduce postoperative jaundice"
+   ],
+   "ans": 0,
+   "exp": "The diagram explicitly says the mucus fistula prevents perforation due to mucus accumulation. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-070",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Definitive surgery after a Hartmann/Paul Mikulicz decompressive procedure is planned after:",
+   "opts": [
+    "A few weeks",
+    "24 hours",
+    "6 months",
+    "Only after recurrence"
+   ],
+   "ans": 0,
+   "exp": "The arrow in the diagram indicates definitive surgery after a few weeks. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-071",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Chemotherapy is indicated for colorectal cancer on this page in all of the following EXCEPT:",
+   "opts": [
+    "T1 node-negative localized lesion",
+    "T3 lesion",
+    "T4 lesion",
+    "Metastatic disease"
+   ],
+   "ans": 0,
+   "exp": "The indication bullets mention T3/T4 lesions, lymph node positivity, and metastasis. T1 node-negative disease is not listed. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-072",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "page": 230,
+   "q": "Lymph node positivity is an indication for:",
+   "opts": [
+    "Chemotherapy",
+    "TaTME only",
+    "APR only",
+    "No additional treatment"
+   ],
+   "ans": 0,
+   "exp": "The chemotherapy section explicitly includes lymph node positive disease among the indications. (Book p230)"
+  },
+  {
+   "id": "SURG-C32-073",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Which combination correctly defines FOLFOX in this chapter?",
+   "opts": [
+    "5-fluorouracil + folinic acid + oxaliplatin",
+    "5-fluorouracil + folinic acid + irinotecan",
+    "Cetuximab + bevacizumab + folinic acid",
+    "Mitomycin C + 5-fluorouracil + paclitaxel"
+   ],
+   "ans": 0,
+   "exp": "The regimen list shows FOLFOX as 5-fluorouracil, folinic acid, and oxaliplatin. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-074",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Which drug differentiates FOLFIRI from FOLFOX on this page?",
+   "opts": [
+    "Irinotecan replaces oxaliplatin",
+    "Cetuximab replaces folinic acid",
+    "Bevacizumab replaces 5-FU",
+    "Mitomycin replaces irinotecan"
+   ],
+   "ans": 0,
+   "exp": "FOLFIRI contains irinotecan, whereas FOLFOX contains oxaliplatin; both retain 5-FU and folinic acid. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-075",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Which two drugs are common to both FOLFOX and FOLFIRI?",
+   "opts": [
+    "5-fluorouracil and folinic acid",
+    "Oxaliplatin and irinotecan",
+    "Cetuximab and bevacizumab",
+    "Mitomycin C and pembrolizumab"
+   ],
+   "ans": 0,
+   "exp": "Both listed regimens contain 5-fluorouracil and folinic acid. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-076",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Radiotherapy is indicated for:",
+   "opts": [
+    "Rectal cancer, not colonic cancer",
+    "Colonic cancer, not rectal cancer",
+    "All right-sided colonic cancers only",
+    "Only liver metastasis"
+   ],
+   "ans": 0,
+   "exp": "The radiotherapy section explicitly says it is for rectal cancer and not for colonic cancer. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-077",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Advanced rectal cancer on this page is treated with:",
+   "opts": [
+    "Neoadjuvant chemoradiation followed by surgery",
+    "Immediate APR without staging",
+    "Chemotherapy alone",
+    "Radiotherapy only after liver resection"
+   ],
+   "ans": 0,
+   "exp": "The indicated sequence for advanced rectal cancer is neoadjuvant chemoradiation followed by surgery. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-078",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "A major advantage of neoadjuvant chemoradiation for rectal cancer according to the chapter is:",
+   "opts": [
+    "Sphincter preservation",
+    "Prevention of all metastasis",
+    "Avoidance of biopsy",
+    "Elimination of need for surgery in all patients"
+   ],
+   "ans": 0,
+   "exp": "The page specifically notes sphincter preservation as the advantage. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-079",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "The short-course duration of radiotherapy in rectal cancer is:",
+   "opts": [
+    "5-6 days",
+    "2-3 weeks",
+    "6 months",
+    "24 hours"
+   ],
+   "ans": 0,
+   "exp": "The page lists short-course rectal radiotherapy as 5-6 days. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-080",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "The long-course duration of rectal radiotherapy is described as:",
+   "opts": [
+    "A few weeks",
+    "5-6 days",
+    "One day",
+    "Several months of daily treatment without surgery"
+   ],
+   "ans": 0,
+   "exp": "The page contrasts short course with long course, which it describes as lasting a few weeks. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-081",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "The named intracavity radiotherapy technique for rectal cancer is:",
+   "opts": [
+    "Papillon",
+    "Nigro",
+    "PAIR",
+    "Whipple"
+   ],
+   "ans": 0,
+   "exp": "The radiotherapy section lists Papillon as the intracavity radiotherapy technique. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-082",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Immunotherapy for colorectal cancer is indicated on this page mainly in the setting of:",
+   "opts": [
+    "Metastatic disease",
+    "T1 mucosal carcinoma only",
+    "Benign adenomatous polyp",
+    "Solitary juvenile polyp"
+   ],
+   "ans": 0,
+   "exp": "The immunotherapy section gives metastasis as the indication. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-083",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "The most common metastatic site highlighted for colorectal cancer is the:",
+   "opts": [
+    "Liver",
+    "Brain",
+    "Adrenal gland",
+    "Bone"
+   ],
+   "ans": 0,
+   "exp": "The page specifically notes liver as the most common site of metastasis. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-084",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Bevacizumab is listed as an:",
+   "opts": [
+    "Anti-VEGF agent",
+    "Anti-EGFR agent",
+    "PDL1 inhibitor",
+    "Topoisomerase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "The drug-function table lists bevacizumab as anti-VEGF, a vascular growth factor inhibitor. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-085",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Cetuximab is listed as an:",
+   "opts": [
+    "Anti-EGFR agent",
+    "Anti-VEGF agent",
+    "PDL1 inhibitor",
+    "Antimetabolite"
+   ],
+   "ans": 0,
+   "exp": "The same table lists cetuximab as anti-EGFR, an epidermal growth factor inhibitor. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-086",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "According to the source table, which agent is grouped with pembrolizumab under the PDL1-inhibitor row?",
+   "opts": [
+    "Pantimunab",
+    "Bevacizumab",
+    "Cetuximab",
+    "Oxaliplatin"
+   ],
+   "ans": 0,
+   "exp": "The page's table groups Pantimunab and Pembrolizumab together under the PDL1 inhibitor row. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-087",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Liver metastasis is said to occur in approximately what proportion of colorectal carcinomas?",
+   "opts": [
+    "60%",
+    "10%",
+    "25%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "The liver metastasis section states that liver metastases are seen in 60% of colorectal carcinoma. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-088",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Synchronous colorectal liver metastasis refers to liver metastasis occurring:",
+   "opts": [
+    "Within 1 year of colorectal cancer",
+    "More than 1 year after colorectal cancer",
+    "Only before the primary tumour is diagnosed",
+    "Only after colostomy closure"
+   ],
+   "ans": 0,
+   "exp": "The diagram defines synchronous liver metastasis as occurring within 1 year of colorectal cancer. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-089",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Metachronous colorectal liver metastasis refers to liver metastasis occurring:",
+   "opts": [
+    ">1 year after colorectal cancer",
+    "Within 1 year of colorectal cancer",
+    "Only in rectal cancer",
+    "Only after chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "The opposite branch of the diagram defines metachronous liver metastasis as occurring more than 1 year after colorectal cancer. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-090",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Which statement about resection of colorectal liver metastasis is emphasized on the page?",
+   "opts": [
+    "It improves survival",
+    "It is never beneficial",
+    "It is contraindicated if there are multiple lesions",
+    "It is replaced entirely by immunotherapy"
+   ],
+   "ans": 0,
+   "exp": "Under management, the page clearly states that resection improves survival. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-091",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "The chapter gives the minimum functional liver reserve (FLR) required for resection of colorectal liver metastasis as:",
+   "opts": [
+    ">25%",
+    ">10%",
+    ">50%",
+    ">75%"
+   ],
+   "ans": 0,
+   "exp": "The page lists an FLR of more than 25% as the indication threshold for safe resection. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-092",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "page": 231,
+   "q": "Regarding resection of colorectal liver metastasis, the page specifically states that the number of metastases is:",
+   "opts": [
+    "Not a criterion for resection",
+    "An absolute contraindication if more than one",
+    "More important than FLR",
+    "Irrelevant only in synchronous disease"
+   ],
+   "ans": 0,
+   "exp": "A separate bullet explicitly says the number of liver metastases is not a criterion for resection. (Book p231)"
+  },
+  {
+   "id": "SURG-C32-093",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The most important prognostic factor for colorectal carcinoma on this page is:",
+   "opts": [
+    "Lymph node status",
+    "CEA alone",
+    "Tumour side",
+    "Patient sex"
+   ],
+   "ans": 0,
+   "exp": "The first bullet under prognostic factors identifies lymph node status as the most important factor. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-094",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The tumour marker listed for colorectal carcinoma and used for follow-up is:",
+   "opts": [
+    "CEA",
+    "AFP",
+    "CA 19-9",
+    "PSA"
+   ],
+   "ans": 0,
+   "exp": "The page names CEA as the tumour marker and specifically notes it is used for follow-up. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-095",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The most common histology of anal cancer mentioned in this chapter is:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Neuroendocrine tumour",
+    "Melanoma"
+   ],
+   "ans": 0,
+   "exp": "Under anal cancer, squamous cell carcinoma is marked as the most common type. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-096",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Anal adenocarcinoma is described as:",
+   "opts": [
+    "Uncommon",
+    "The commonest anal cancer",
+    "Always metastatic at presentation",
+    "A premalignant lesion"
+   ],
+   "ans": 0,
+   "exp": "The branch for adenocarcinoma explicitly labels it uncommon. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-097",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Treatment of anal adenocarcinoma on this page is said to be the same as treatment of:",
+   "opts": [
+    "Rectal cancer within 5 cm from the anal verge",
+    "Caecal cancer",
+    "Anal fissure",
+    "Pilonidal sinus"
+   ],
+   "ans": 0,
+   "exp": "The adenocarcinoma branch says it is treated the same as rectal cancer within 5 cm from the anal verge. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-098",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Which viral infection is listed as a risk factor for squamous cell carcinoma of the anus?",
+   "opts": [
+    "Human papilloma virus",
+    "Hepatitis B virus",
+    "Epstein-Barr virus",
+    "CMV"
+   ],
+   "ans": 0,
+   "exp": "Human papilloma virus is explicitly listed among the risk factors. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-099",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Which immunodeficiency-associated infection is also listed as a risk factor for anal squamous carcinoma?",
+   "opts": [
+    "HIV",
+    "HCV",
+    "Tuberculosis",
+    "Helicobacter pylori"
+   ],
+   "ans": 0,
+   "exp": "HIV is one of the stated risk factors for anal squamous cell carcinoma. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-100",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Which population is specifically mentioned on the page as being at higher risk for anal squamous carcinoma?",
+   "opts": [
+    "Homosexual individuals, with males more affected than females",
+    "Postmenopausal women alone",
+    "Children with Meckel's diverticulum",
+    "Patients after appendicectomy"
+   ],
+   "ans": 0,
+   "exp": "The page lists homosexual individuals and notes male predominance over females. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-101",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Common clinical features of anal cancer listed on the page include:",
+   "opts": [
+    "Mass and bleeding",
+    "Jaundice and ascites",
+    "Hematemesis and dysphagia",
+    "Constipation and biliary colic"
+   ],
+   "ans": 0,
+   "exp": "The clinical-features bullets list mass and bleeding. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-102",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The investigation of choice for tissue diagnosis of anal cancer is:",
+   "opts": [
+    "Biopsy",
+    "CEA",
+    "FOBT",
+    "Virtual colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "The page states 'Biopsy: IOC,' making biopsy the key diagnostic test. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-103",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "MRI in anal cancer is used mainly for:",
+   "opts": [
+    "Local staging",
+    "Detecting synchronous liver metastasis only",
+    "Screening relatives",
+    "Assessing vascular watershed areas"
+   ],
+   "ans": 0,
+   "exp": "The investigation section specifies MRI for local staging. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-104",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The Nigro regimen is the:",
+   "opts": [
+    "Management of anal cancer with combined chemoradiation",
+    "Named operation for low rectal cancer",
+    "Screening strategy for FAP",
+    "Emergency procedure for obstructed colon"
+   ],
+   "ans": 0,
+   "exp": "The page defines the Nigro regime as the management of anal cancer using combined chemoradiation. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-105",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The Nigro regimen is administered approximately how long before surgery according to the page?",
+   "opts": [
+    "1 month",
+    "24 hours",
+    "6 months",
+    "Only after recurrence"
+   ],
+   "ans": 0,
+   "exp": "A bullet under the Nigro regimen says it is administered 1 month prior to surgery. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-106",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The chemotherapeutic agents listed with radiotherapy in the Nigro regimen are:",
+   "opts": [
+    "5-fluorouracil and mitomycin C",
+    "Oxaliplatin and irinotecan",
+    "Cetuximab and bevacizumab",
+    "Paclitaxel and cisplatin"
+   ],
+   "ans": 0,
+   "exp": "The page states RT plus chemotherapy with 5-FU and mitomycin C. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-107",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The intended effect of the Nigro regimen before surgery is:",
+   "opts": [
+    "Downstaging",
+    "Immediate cure without monitoring",
+    "Only symptom relief without tumour response",
+    "Induction of jaundice"
+   ],
+   "ans": 0,
+   "exp": "The central arrow beneath the regimen is labeled downstaging. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-108",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "If complete response occurs after the Nigro regimen, the next step shown is:",
+   "opts": [
+    "Monitor",
+    "Immediate APR",
+    "Immediate sigmoidectomy",
+    "No follow-up required"
+   ],
+   "ans": 0,
+   "exp": "The flowchart shows complete response leading to monitoring. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-109",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "The recurrence rate after complete response mentioned in the flowchart is:",
+   "opts": [
+    "20-30%",
+    "1-2%",
+    "50-60%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Beneath the monitoring branch, the page notes recurrence in about 20-30% of cases. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-110",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Recurrence after an initial complete response to the Nigro regimen is treated by:",
+   "opts": [
+    "Abdominoperineal resection",
+    "Repeat appendicectomy",
+    "Left hemicolectomy",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "The recurrence arrow in the flowchart leads to abdominoperineal resection. (Book p232)"
+  },
+  {
+   "id": "SURG-C32-111",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "page": 232,
+   "q": "Residual tumour after the Nigro regimen, when located within 5 cm, is managed by:",
+   "opts": [
+    "Abdominoperineal resection",
+    "Simple local excision only",
+    "Chemotherapy alone",
+    "Sigmoidectomy"
+   ],
+   "ans": 0,
+   "exp": "The residual-tumour branch points to APR for tumour within 5 cm. (Book p232)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U32-1",
+   "ch": 32,
+   "n": 1,
+   "title": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones",
+   "sec": "Colorectal Cancer Surgery: Vascular Anatomy and Watershed Zones · p227",
+   "qs": [
+    "SURG-C32-001",
+    "SURG-C32-002",
+    "SURG-C32-003",
+    "SURG-C32-004",
+    "SURG-C32-005",
+    "SURG-C32-006",
+    "SURG-C32-007",
+    "SURG-C32-008",
+    "SURG-C32-009",
+    "SURG-C32-010"
+   ],
+   "guide": "Before operations make sense, the vascular map must be clear. Griffith's point at the splenic flexure and Sudeck point at the rectosigmoid are classic watershed zones, so poor perfusion explains difficult anastomoses and segment-specific surgical caution."
+  },
+  {
+   "id": "SURG-U32-2",
+   "ch": 32,
+   "n": 2,
+   "title": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours",
+   "sec": "Colorectal Cancer Surgery: Segmental Resections for Colonic Tumours · p227",
+   "qs": [
+    "SURG-C32-011",
+    "SURG-C32-012",
+    "SURG-C32-013",
+    "SURG-C32-014",
+    "SURG-C32-015",
+    "SURG-C32-016",
+    "SURG-C32-017",
+    "SURG-C32-018",
+    "SURG-C32-019"
+   ],
+   "guide": "The colonic resection table is a practical anatomy exam: caecum means right hemicolectomy, more proximal transverse involvement pushes you toward extended right hemicolectomy, and every answer must be anchored to which bowel is removed and which vessels are tied."
+  },
+  {
+   "id": "SURG-U32-3",
+   "ch": 32,
+   "n": 3,
+   "title": "Colorectal Cancer Surgery: Left-sided Colonic Resections",
+   "sec": "Colorectal Cancer Surgery: Left-sided Colonic Resections · p228",
+   "qs": [
+    "SURG-C32-020",
+    "SURG-C32-021",
+    "SURG-C32-022",
+    "SURG-C32-023",
+    "SURG-C32-024",
+    "SURG-C32-025",
+    "SURG-C32-026",
+    "SURG-C32-027",
+    "SURG-C32-028"
+   ],
+   "guide": "Left-sided colon surgery is the mirror image but not a clone. Know when to choose transverse colectomy, left hemicolectomy, or sigmoidectomy, and remember why high IMA ligation is tolerated - the rectum still receives middle and inferior rectal arterial supply."
+  },
+  {
+   "id": "SURG-U32-4",
+   "ch": 32,
+   "n": 4,
+   "title": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy",
+   "sec": "Rectal Cancer Surgery: Landmarks and Continence-related Anatomy · p228",
+   "qs": [
+    "SURG-C32-029",
+    "SURG-C32-030",
+    "SURG-C32-031",
+    "SURG-C32-032",
+    "SURG-C32-033",
+    "SURG-C32-034",
+    "SURG-C32-035"
+   ],
+   "guide": "Low rectal surgery is governed by landmarks, not guesswork. The anorectal ring, dentate line, anal verge, and sphincters explain pain patterns as well as why a tumour within the lowest 5 cm threatens continence-preserving surgery."
+  },
+  {
+   "id": "SURG-U32-5",
+   "ch": 32,
+   "n": 5,
+   "title": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision",
+   "sec": "Rectal Cancer Surgery: Margins, LAR versus APR and Total Mesorectal Excision · p229",
+   "qs": [
+    "SURG-C32-036",
+    "SURG-C32-037",
+    "SURG-C32-038",
+    "SURG-C32-039",
+    "SURG-C32-040",
+    "SURG-C32-041",
+    "SURG-C32-042",
+    "SURG-C32-043",
+    "SURG-C32-044",
+    "SURG-C32-045",
+    "SURG-C32-046",
+    "SURG-C32-047",
+    "SURG-C32-048",
+    "SURG-C32-049",
+    "SURG-C32-050",
+    "SURG-C32-051",
+    "SURG-C32-052",
+    "SURG-C32-053"
+   ],
+   "guide": "Rectal cancer surgery lives on margins and sphincter preservation. LAR is for higher lesions and preserves continence, APR is for very low tumours and ends with a permanent colostomy, and TME succeeds only when the holy plane is respected."
+  },
+  {
+   "id": "SURG-U32-6",
+   "ch": 32,
+   "n": 6,
+   "title": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction",
+   "sec": "Rectal Cancer Surgery: TaTME, Complications, Nerve Injury and Obstruction · p230",
+   "qs": [
+    "SURG-C32-054",
+    "SURG-C32-055",
+    "SURG-C32-056",
+    "SURG-C32-057",
+    "SURG-C32-058",
+    "SURG-C32-059",
+    "SURG-C32-060",
+    "SURG-C32-061",
+    "SURG-C32-062",
+    "SURG-C32-063",
+    "SURG-C32-064",
+    "SURG-C32-065",
+    "SURG-C32-066",
+    "SURG-C32-067",
+    "SURG-C32-068",
+    "SURG-C32-069",
+    "SURG-C32-070",
+    "SURG-C32-071",
+    "SURG-C32-072"
+   ],
+   "guide": "This unit links innovation with complications. TaTME is a NOTES-based sphincter-preserving option for early tumours, but the surgeon must also anticipate leaks, abscesses, recurrence and the very specific sexual/bladder deficits produced by injury at different pelvic dissection levels."
+  },
+  {
+   "id": "SURG-U32-7",
+   "ch": 32,
+   "n": 7,
+   "title": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis",
+   "sec": "Colorectal Cancer: Chemotherapy Regimens, Radiotherapy, Immunotherapy and Liver Metastasis · p231",
+   "qs": [
+    "SURG-C32-073",
+    "SURG-C32-074",
+    "SURG-C32-075",
+    "SURG-C32-076",
+    "SURG-C32-077",
+    "SURG-C32-078",
+    "SURG-C32-079",
+    "SURG-C32-080",
+    "SURG-C32-081",
+    "SURG-C32-082",
+    "SURG-C32-083",
+    "SURG-C32-084",
+    "SURG-C32-085",
+    "SURG-C32-086",
+    "SURG-C32-087",
+    "SURG-C32-088",
+    "SURG-C32-089",
+    "SURG-C32-090",
+    "SURG-C32-091",
+    "SURG-C32-092"
+   ],
+   "guide": "Systemic and local adjuvant therapy becomes structured here: FOLFOX versus FOLFIRI, radiotherapy for rectum not colon, and the source table's immunotherapy pairings. Finish by thinking surgically about liver metastasis - resectability depends on reserve and biology, not simply lesion count."
+  },
+  {
+   "id": "SURG-U32-8",
+   "ch": 32,
+   "n": 8,
+   "title": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen",
+   "sec": "Anal Cancer: Prognostic Factors, Diagnosis and Nigro Regimen · p232",
+   "qs": [
+    "SURG-C32-093",
+    "SURG-C32-094",
+    "SURG-C32-095",
+    "SURG-C32-096",
+    "SURG-C32-097",
+    "SURG-C32-098",
+    "SURG-C32-099",
+    "SURG-C32-100",
+    "SURG-C32-101",
+    "SURG-C32-102",
+    "SURG-C32-103",
+    "SURG-C32-104",
+    "SURG-C32-105",
+    "SURG-C32-106",
+    "SURG-C32-107",
+    "SURG-C32-108",
+    "SURG-C32-109",
+    "SURG-C32-110",
+    "SURG-C32-111"
+   ],
+   "guide": "The chapter ends by turning to anal cancer. Node status still dominates prognosis, CEA is for follow-up, squamous cancer carries HPV/HIV associations, and the Nigro regimen is the central treatment pathway, with APR reserved for recurrence or persistent very low disease."
+  }
+ ]
+}
