@@ -1,0 +1,2091 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C47-001",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The gland sitting above the prostate in the zones diagram is the:",
+   "opts": [
+    "Seminal vesicle",
+    "Bulbourethral gland",
+    "Adrenal gland",
+    "Pituitary gland"
+   ],
+   "ans": 0,
+   "exp": "Seminal vesicle (Book p360)"
+  },
+  {
+   "id": "SURG-C47-002",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The dilated terminal part of the vas shown in the prostate diagram is the:",
+   "opts": [
+    "Ampulla of vas deferens",
+    "Ampulla of Vater",
+    "Prostatic utricle",
+    "Ejaculatory duct only"
+   ],
+   "ans": 0,
+   "exp": "Ampulla of vas deferens (Book p360)"
+  },
+  {
+   "id": "SURG-C47-003",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The central zone of the prostate has:",
+   "opts": [
+    "Short, unbranched glands",
+    "Long, branched glands",
+    "No glands",
+    "Only fibromuscular stroma"
+   ],
+   "ans": 0,
+   "exp": "Short, unbranched glands (Book p360)"
+  },
+  {
+   "id": "SURG-C47-004",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The urethra passing through the prostate is the:",
+   "opts": [
+    "Prostatic urethra",
+    "Penile urethra",
+    "Membranous urethra only",
+    "Bulbar urethra only"
+   ],
+   "ans": 0,
+   "exp": "Prostatic urethra (Book p360)"
+  },
+  {
+   "id": "SURG-C47-005",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The peripheral zone of the prostate has:",
+   "opts": [
+    "Long, branched glands",
+    "Short, unbranched glands",
+    "Only smooth muscle",
+    "No epithelium"
+   ],
+   "ans": 0,
+   "exp": "Long, branched glands (Book p360)"
+  },
+  {
+   "id": "SURG-C47-006",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The most common zone involved in prostate cancer is the:",
+   "opts": [
+    "Peripheral zone",
+    "Transitional zone",
+    "Central zone",
+    "Fibromuscular zone"
+   ],
+   "ans": 0,
+   "exp": "Peripheral zone (Book p360)"
+  },
+  {
+   "id": "SURG-C47-007",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The most common zone involved in benign prostatic hypertrophy (BPH) is the:",
+   "opts": [
+    "Transitional zone",
+    "Peripheral zone",
+    "Central zone",
+    "Fibromuscular zone"
+   ],
+   "ans": 0,
+   "exp": "Transitional zone (Book p360)"
+  },
+  {
+   "id": "SURG-C47-008",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "A zone of the prostate listed is the:",
+   "opts": [
+    "Fibromuscular zone",
+    "Fibroelastic lung zone",
+    "Muscularis mucosa zone",
+    "Serosal zone"
+   ],
+   "ans": 0,
+   "exp": "Fibromuscular zone (Book p360)"
+  },
+  {
+   "id": "SURG-C47-009",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The urethra distal to the prostate shown in the diagram is the:",
+   "opts": [
+    "Penile urethra",
+    "Prostatic urethra",
+    "Preliminary urethra",
+    "Pelvic ureter"
+   ],
+   "ans": 0,
+   "exp": "Penile urethra (Book p360)"
+  },
+  {
+   "id": "SURG-C47-010",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "In the TURP anatomy diagram, the structure above the bladder neck is the:",
+   "opts": [
+    "Bladder",
+    "Prostate",
+    "Veru montanum",
+    "Internal sphincter"
+   ],
+   "ans": 0,
+   "exp": "Bladder (Book p360)"
+  },
+  {
+   "id": "SURG-C47-011",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The junction between bladder and prostate is the:",
+   "opts": [
+    "Bladder neck",
+    "Veru montanum",
+    "External meatus",
+    "Trigone of the neck"
+   ],
+   "ans": 0,
+   "exp": "Bladder neck (Book p360)"
+  },
+  {
+   "id": "SURG-C47-012",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The landmark labelled in the prostatic urethra on TURP anatomy is the:",
+   "opts": [
+    "Veru montanum",
+    "Bladder dome",
+    "Ureteric orifice",
+    "Cowper gland"
+   ],
+   "ans": 0,
+   "exp": "Veru montanum (Book p360)"
+  },
+  {
+   "id": "SURG-C47-013",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The sphincter at the bladder outlet shown in TURP anatomy is the:",
+   "opts": [
+    "Internal sphincter",
+    "External anal sphincter",
+    "Pyloric sphincter",
+    "Lower oesophageal sphincter"
+   ],
+   "ans": 0,
+   "exp": "Internal sphincter (Book p360)"
+  },
+  {
+   "id": "SURG-C47-014",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "Veru montanum is the distal limit of resection during TURP to prevent:",
+   "opts": [
+    "Incontinence",
+    "Retrograde ejaculation",
+    "Impotence",
+    "Haematuria"
+   ],
+   "ans": 0,
+   "exp": "Incontinence (Book p360)"
+  },
+  {
+   "id": "SURG-C47-015",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "Injury to the bladder neck during TURP causes:",
+   "opts": [
+    "Retrograde ejaculation",
+    "Stress incontinence",
+    "Impotence",
+    "Meatal stenosis"
+   ],
+   "ans": 0,
+   "exp": "Retrograde ejaculation (Book p360)"
+  },
+  {
+   "id": "SURG-C47-016",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The most common complication of TURP is:",
+   "opts": [
+    "Retrograde ejaculation",
+    "Incontinence",
+    "Stricture",
+    "TURP syndrome"
+   ],
+   "ans": 0,
+   "exp": "Retrograde ejaculation (Book p360)"
+  },
+  {
+   "id": "SURG-C47-017",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The neurovascular bundle lies:",
+   "opts": [
+    "Posterolateral to prostate",
+    "Anteromedial to prostate",
+    "Inside the bladder",
+    "Within the rectum"
+   ],
+   "ans": 0,
+   "exp": "Posterolateral to prostate (Book p360)"
+  },
+  {
+   "id": "SURG-C47-018",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "Injury to the neurovascular bundle causes:",
+   "opts": [
+    "Impotence",
+    "Incontinence",
+    "Retrograde ejaculation",
+    "Haematuria"
+   ],
+   "ans": 0,
+   "exp": "Impotence (Book p360)"
+  },
+  {
+   "id": "SURG-C47-019",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The fascia labelled near the neurovascular bundle is:",
+   "opts": [
+    "Denonvilliers fascia",
+    "Buck fascia",
+    "Colles fascia",
+    "Scarpa fascia"
+   ],
+   "ans": 0,
+   "exp": "Denonvilliers fascia (Book p360)"
+  },
+  {
+   "id": "SURG-C47-020",
+   "sec": "Surgical Anatomy of the Prostate",
+   "page": 360,
+   "q": "The plane labelled near the neurovascular bundle is the:",
+   "opts": [
+    "Holy plane",
+    "Sacred cavity",
+    "Pelvic brim",
+    "Pouch of Douglas"
+   ],
+   "ans": 0,
+   "exp": "Holy plane (Book p360)"
+  },
+  {
+   "id": "SURG-C47-021",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Bleed during TURP if the capsule is invaded comes from the:",
+   "opts": [
+    "Prostatic venous plexus",
+    "Prostatic artery only",
+    "Vesical artery",
+    "Obturator vein"
+   ],
+   "ans": 0,
+   "exp": "Prostatic venous plexus (Book p361)"
+  },
+  {
+   "id": "SURG-C47-022",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "The prostatic venous plexus carries metastases to the:",
+   "opts": [
+    "Bones/vertebral column",
+    "Lungs only",
+    "Liver only",
+    "Brain only"
+   ],
+   "ans": 0,
+   "exp": "Bones/vertebral column (Book p361)"
+  },
+  {
+   "id": "SURG-C47-023",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "The outer capsule in the prostate capsule diagram is the:",
+   "opts": [
+    "False capsule",
+    "True capsule",
+    "Renal capsule",
+    "Glisson capsule"
+   ],
+   "ans": 0,
+   "exp": "False capsule (Book p361)"
+  },
+  {
+   "id": "SURG-C47-024",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "The layer between the false and true capsules is the:",
+   "opts": [
+    "Prostatic venous plexus",
+    "Neurovascular bundle",
+    "Ejaculatory duct",
+    "Urethral sphincter"
+   ],
+   "ans": 0,
+   "exp": "Prostatic venous plexus (Book p361)"
+  },
+  {
+   "id": "SURG-C47-025",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "The inner capsule in the prostate capsule diagram is the:",
+   "opts": [
+    "True capsule",
+    "False capsule",
+    "Hepatic capsule",
+    "Splenic capsule"
+   ],
+   "ans": 0,
+   "exp": "True capsule (Book p361)"
+  },
+  {
+   "id": "SURG-C47-026",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Corpora amylacea is the precursor lesion for:",
+   "opts": [
+    "Prostatic stones",
+    "Prostate cancer",
+    "BPH",
+    "Prostatitis"
+   ],
+   "ans": 0,
+   "exp": "Prostatic stones (Book p361)"
+  },
+  {
+   "id": "SURG-C47-027",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Corpora amylacea shows:",
+   "opts": [
+    "Eosinophilic lamellated bodies",
+    "Basophilic crystals",
+    "Psammoma bodies",
+    "Coffin-lid crystals"
+   ],
+   "ans": 0,
+   "exp": "Eosinophilic lamellated bodies (Book p361)"
+  },
+  {
+   "id": "SURG-C47-028",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Endogenous prostatic stones form:",
+   "opts": [
+    "In the prostate",
+    "In the kidney",
+    "In the bladder only",
+    "In the ureter only"
+   ],
+   "ans": 0,
+   "exp": "In the prostate (Book p361)"
+  },
+  {
+   "id": "SURG-C47-029",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Endogenous prostatic stones account for:",
+   "opts": [
+    "20%",
+    "2%",
+    "80%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "20% (Book p361)"
+  },
+  {
+   "id": "SURG-C47-030",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "The most common composition of prostatic stones is:",
+   "opts": [
+    "CaPO4",
+    "Calcium oxalate",
+    "Uric acid",
+    "Cystine"
+   ],
+   "ans": 0,
+   "exp": "CaPO4 (Book p361)"
+  },
+  {
+   "id": "SURG-C47-031",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Endogenous prostatic stones are diagnosed:",
+   "opts": [
+    "Incidentally",
+    "Always with retention",
+    "Only on biopsy",
+    "Only after TURP"
+   ],
+   "ans": 0,
+   "exp": "Incidentally (Book p361)"
+  },
+  {
+   "id": "SURG-C47-032",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Management of endogenous prostatic stones is:",
+   "opts": [
+    "Mx not required",
+    "Immediate TURP",
+    "Radical prostatectomy",
+    "Long antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Mx not required (Book p361)"
+  },
+  {
+   "id": "SURG-C47-033",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Exogenous prostatic stones are formed:",
+   "opts": [
+    "Elsewhere (Eg: Kidney)",
+    "In the prostate",
+    "In the seminal vesicle only",
+    "In the vas deferens"
+   ],
+   "ans": 0,
+   "exp": "Elsewhere (Eg: Kidney) (Book p361)"
+  },
+  {
+   "id": "SURG-C47-034",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "page": 361,
+   "q": "Management of exogenous prostatic stones is:",
+   "opts": [
+    "Mx not required",
+    "Emergency surgery",
+    "Radiotherapy",
+    "Hormonal therapy"
+   ],
+   "ans": 0,
+   "exp": "Mx not required (Book p361)"
+  },
+  {
+   "id": "SURG-C47-035",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "The most common organism causing acute prostatitis is:",
+   "opts": [
+    "E coli",
+    "Proteus",
+    "Klebsiella",
+    "Pseudomonas"
+   ],
+   "ans": 0,
+   "exp": "E coli (Book p361)"
+  },
+  {
+   "id": "SURG-C47-036",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Acute prostatitis is secondary to:",
+   "opts": [
+    "UTI",
+    "Pneumonia",
+    "Meningitis",
+    "Cellulitis"
+   ],
+   "ans": 0,
+   "exp": "UTI (Book p361)"
+  },
+  {
+   "id": "SURG-C47-037",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Chronic prostatitis follows:",
+   "opts": [
+    "Multiple episodes of acute prostatitis",
+    "A single UTI only",
+    "BPH surgery",
+    "Vasectomy"
+   ],
+   "ans": 0,
+   "exp": "Multiple episodes of acute prostatitis (Book p361)"
+  },
+  {
+   "id": "SURG-C47-038",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "A clinical feature of acute prostatitis is:",
+   "opts": [
+    "Fever",
+    "Hypothermia",
+    "Jaundice",
+    "Haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Fever (Book p361)"
+  },
+  {
+   "id": "SURG-C47-039",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Acute prostatitis presents with:",
+   "opts": [
+    "Pain",
+    "Painless lump",
+    "Itching only",
+    "Numbness"
+   ],
+   "ans": 0,
+   "exp": "Pain (Book p361)"
+  },
+  {
+   "id": "SURG-C47-040",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Chronic prostatitis presents with:",
+   "opts": [
+    "Dull perineal pain (Prostatodynia)",
+    "High fever with rigors",
+    "Acute retention only",
+    "Gross haematuria in every case"
+   ],
+   "ans": 0,
+   "exp": "Dull perineal pain (Prostatodynia) (Book p361)"
+  },
+  {
+   "id": "SURG-C47-041",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Digital rectal examination in acute prostatitis shows a:",
+   "opts": [
+    "Tender, boggy prostate",
+    "Hard fixed prostate",
+    "Rubbery mobile prostate",
+    "Normal prostate"
+   ],
+   "ans": 0,
+   "exp": "Tender, boggy prostate (Book p361)"
+  },
+  {
+   "id": "SURG-C47-042",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Digital rectal examination in chronic prostatitis shows a:",
+   "opts": [
+    "Tender prostate",
+    "Boggy prostate",
+    "Hard fixed prostate",
+    "Rubbery mobile prostate"
+   ],
+   "ans": 0,
+   "exp": "Tender prostate (Book p361)"
+  },
+  {
+   "id": "SURG-C47-043",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Urine microscopy in acute prostatitis shows:",
+   "opts": [
+    "Threads and neutrophils",
+    "Red cell casts",
+    "Coffin-lid crystals",
+    "Fatty casts"
+   ],
+   "ans": 0,
+   "exp": "Threads and neutrophils (Book p361)"
+  },
+  {
+   "id": "SURG-C47-044",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "In acute prostatitis, prostatic massage is:",
+   "opts": [
+    "Contraindicated",
+    "Mandatory",
+    "The first test",
+    "Done daily"
+   ],
+   "ans": 0,
+   "exp": "Contraindicated (Book p361)"
+  },
+  {
+   "id": "SURG-C47-045",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "The investigation for chronic prostatitis is the:",
+   "opts": [
+    "3 tube test",
+    "Single urine culture only",
+    "PSA alone",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "3 tube test (Book p361)"
+  },
+  {
+   "id": "SURG-C47-046",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Acute prostatitis is treated with antibiotics for:",
+   "opts": [
+    "2–3 weeks",
+    "4–6 weeks",
+    "2–3 days",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "2–3 weeks (Book p361)"
+  },
+  {
+   "id": "SURG-C47-047",
+   "sec": "Acute versus Chronic Prostatitis",
+   "page": 361,
+   "q": "Chronic prostatitis is treated with antibiotics for:",
+   "opts": [
+    "4–6 weeks",
+    "2–3 weeks",
+    "2–3 days",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "4–6 weeks (Book p361)"
+  },
+  {
+   "id": "SURG-C47-048",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "VB1 in the 3 tube test is:",
+   "opts": [
+    "First voided 10 ml",
+    "Mid-stream culture",
+    "Prostatic secretions",
+    "First voided after massage"
+   ],
+   "ans": 0,
+   "exp": "First voided 10 ml (Book p362)"
+  },
+  {
+   "id": "SURG-C47-049",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "VB1 samples the:",
+   "opts": [
+    "Urethra",
+    "Bladder",
+    "Prostate",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "Urethra (Book p362)"
+  },
+  {
+   "id": "SURG-C47-050",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "VB2 in the 3 tube test is:",
+   "opts": [
+    "Mid-stream culture",
+    "First voided 10 ml",
+    "Prostatic secretions",
+    "Void after massage"
+   ],
+   "ans": 0,
+   "exp": "Mid-stream culture (Book p362)"
+  },
+  {
+   "id": "SURG-C47-051",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "VB2 is collected:",
+   "opts": [
+    "200 ml later",
+    "Immediately after VB1",
+    "After prostate massage",
+    "After 24 hours"
+   ],
+   "ans": 0,
+   "exp": "200 ml later (Book p362)"
+  },
+  {
+   "id": "SURG-C47-052",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "VB2 samples the:",
+   "opts": [
+    "Bladder",
+    "Urethra",
+    "Prostate",
+    "Ureter"
+   ],
+   "ans": 0,
+   "exp": "Bladder (Book p362)"
+  },
+  {
+   "id": "SURG-C47-053",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "EPS in the 3 tube test stands for:",
+   "opts": [
+    "Prostatic secretions",
+    "Early prostate serum",
+    "External pelvic swab",
+    "Empty bladder sample"
+   ],
+   "ans": 0,
+   "exp": "Prostatic secretions (Book p362)"
+  },
+  {
+   "id": "SURG-C47-054",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "EPS is collected after:",
+   "opts": [
+    "Prostate massage",
+    "Bladder wash",
+    "Urethral swab",
+    "Blood culture"
+   ],
+   "ans": 0,
+   "exp": "Prostate massage (Book p362)"
+  },
+  {
+   "id": "SURG-C47-055",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "EPS samples the:",
+   "opts": [
+    "Prostate",
+    "Urethra",
+    "Bladder",
+    "Testis"
+   ],
+   "ans": 0,
+   "exp": "Prostate (Book p362)"
+  },
+  {
+   "id": "SURG-C47-056",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "VB3 in the 3 tube test is:",
+   "opts": [
+    "First voided 10 ml after massage",
+    "First voided before massage",
+    "Mid-stream culture",
+    "24-hour urine"
+   ],
+   "ans": 0,
+   "exp": "First voided 10 ml after massage (Book p362)"
+  },
+  {
+   "id": "SURG-C47-057",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "VB3 is collected after:",
+   "opts": [
+    "Void following prostate massage",
+    "Sleep",
+    "Exercise",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Void following prostate massage (Book p362)"
+  },
+  {
+   "id": "SURG-C47-058",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "All 3-tube test samples are:",
+   "opts": [
+    "Sent for culture",
+    "Discarded",
+    "Sent for cytology only",
+    "Kept for a week"
+   ],
+   "ans": 0,
+   "exp": "Sent for culture (Book p362)"
+  },
+  {
+   "id": "SURG-C47-059",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Both BPH and prostate cancer present with:",
+   "opts": [
+    "Lower urinary tract symptoms (LUTS)",
+    "Upper GI bleeding",
+    "Chest pain",
+    "Headache"
+   ],
+   "ans": 0,
+   "exp": "Lower urinary tract symptoms (LUTS) (Book p362)"
+  },
+  {
+   "id": "SURG-C47-060",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Hesitancy is a:",
+   "opts": [
+    "Voiding (Obstructive) symptom",
+    "Storage (Irritative) symptom",
+    "Post-mictural symptom only",
+    "Constitutional symptom"
+   ],
+   "ans": 0,
+   "exp": "Voiding (Obstructive) symptom (Book p362)"
+  },
+  {
+   "id": "SURG-C47-061",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Hesitancy is worse with:",
+   "opts": [
+    "A full bladder",
+    "An empty bladder",
+    "Exercise",
+    "Fasting"
+   ],
+   "ans": 0,
+   "exp": "A full bladder (Book p362)"
+  },
+  {
+   "id": "SURG-C47-062",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Poor flow in LUTS is:",
+   "opts": [
+    "Not improved by straining",
+    "Improved by straining",
+    "Improved by fasting",
+    "Relieved by lying down"
+   ],
+   "ans": 0,
+   "exp": "Not improved by straining (Book p362)"
+  },
+  {
+   "id": "SURG-C47-063",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Intermittent stream means urine:",
+   "opts": [
+    "Stops and starts",
+    "Flows continuously",
+    "Is bloody always",
+    "Is milky"
+   ],
+   "ans": 0,
+   "exp": "Stops and starts (Book p362)"
+  },
+  {
+   "id": "SURG-C47-064",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Dribbling includes dribbling:",
+   "opts": [
+    "After micturition",
+    "Before puberty",
+    "Only at night",
+    "Only during fever"
+   ],
+   "ans": 0,
+   "exp": "After micturition (Book p362)"
+  },
+  {
+   "id": "SURG-C47-065",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "A voiding symptom is:",
+   "opts": [
+    "Sensation of poor bladder emptying",
+    "Frequency",
+    "Urgency",
+    "Nocturia"
+   ],
+   "ans": 0,
+   "exp": "Sensation of poor bladder emptying (Book p362)"
+  },
+  {
+   "id": "SURG-C47-066",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Episodes of near retention are:",
+   "opts": [
+    "Voiding symptoms",
+    "Storage symptoms",
+    "Systemic symptoms",
+    "Normal findings"
+   ],
+   "ans": 0,
+   "exp": "Voiding symptoms (Book p362)"
+  },
+  {
+   "id": "SURG-C47-067",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Frequency is a:",
+   "opts": [
+    "Storage (Irritative) symptom",
+    "Voiding symptom",
+    "Post-mictural symptom",
+    "Pain symptom"
+   ],
+   "ans": 0,
+   "exp": "Storage (Irritative) symptom (Book p362)"
+  },
+  {
+   "id": "SURG-C47-068",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "The most common and earliest LUTS is:",
+   "opts": [
+    "Frequency",
+    "Nocturia",
+    "Urgency",
+    "Dribbling"
+   ],
+   "ans": 0,
+   "exp": "Frequency (Book p362)"
+  },
+  {
+   "id": "SURG-C47-069",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "A storage symptom is:",
+   "opts": [
+    "Nocturia",
+    "Hesitancy",
+    "Poor flow",
+    "Intermittent stream"
+   ],
+   "ans": 0,
+   "exp": "Nocturia (Book p362)"
+  },
+  {
+   "id": "SURG-C47-070",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "A storage symptom is:",
+   "opts": [
+    "Urgency",
+    "Dribbling",
+    "Poor emptying",
+    "Near retention"
+   ],
+   "ans": 0,
+   "exp": "Urgency (Book p362)"
+  },
+  {
+   "id": "SURG-C47-071",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "A storage symptom is:",
+   "opts": [
+    "Urge incontinence",
+    "Hesitancy",
+    "Poor flow",
+    "Dribbling"
+   ],
+   "ans": 0,
+   "exp": "Urge incontinence (Book p362)"
+  },
+  {
+   "id": "SURG-C47-072",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "Nocturnal incontinence is also called:",
+   "opts": [
+    "Enuresis",
+    "Encopresis",
+    "Epistaxis",
+    "Haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Enuresis (Book p362)"
+  },
+  {
+   "id": "SURG-C47-073",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "In BPH, post mictural LUTS like dribbling and incomplete emptying:",
+   "opts": [
+    "Aren't corrected even post TURP",
+    "Always resolve post TURP",
+    "Never occur",
+    "Occur only after TURP"
+   ],
+   "ans": 0,
+   "exp": "Aren't corrected even post TURP (Book p362)"
+  },
+  {
+   "id": "SURG-C47-074",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "The prostate cancer diagram shows a normal prostate with:",
+   "opts": [
+    "Normal urethra",
+    "Compressed urethra",
+    "Enlarged prostate",
+    "Diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Normal urethra (Book p362)"
+  },
+  {
+   "id": "SURG-C47-075",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "page": 362,
+   "q": "The BPH diagram shows an enlarged prostate with:",
+   "opts": [
+    "Compressed urethra",
+    "Normal urethra",
+    "Normal prostate",
+    "Ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Compressed urethra (Book p362)"
+  },
+  {
+   "id": "SURG-C47-076",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 362,
+   "q": "On digital rectal examination, BPH feels:",
+   "opts": [
+    "Rubbery",
+    "Hard",
+    "Stony",
+    "Boggy"
+   ],
+   "ans": 0,
+   "exp": "Rubbery (Book p362)"
+  },
+  {
+   "id": "SURG-C47-077",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 362,
+   "q": "In BPH the rectal mucosa is:",
+   "opts": [
+    "Mobile",
+    "Fixed",
+    "Ulcerated",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Mobile (Book p362)"
+  },
+  {
+   "id": "SURG-C47-078",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 362,
+   "q": "On digital rectal examination, prostate cancer feels:",
+   "opts": [
+    "Hard",
+    "Rubbery",
+    "Boggy",
+    "Soft"
+   ],
+   "ans": 0,
+   "exp": "Hard (Book p362)"
+  },
+  {
+   "id": "SURG-C47-079",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 362,
+   "q": "In prostate cancer the rectal mucosa is:",
+   "opts": [
+    "Fixed",
+    "Mobile",
+    "Normal in every case",
+    "Transilluminant"
+   ],
+   "ans": 0,
+   "exp": "Fixed (Book p362)"
+  },
+  {
+   "id": "SURG-C47-080",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 362,
+   "q": "Urine examination includes:",
+   "opts": [
+    "Urine routine and microscopy",
+    "Stool routine only",
+    "Sputum cytology",
+    "CSF analysis"
+   ],
+   "ans": 0,
+   "exp": "Urine routine and microscopy (Book p362)"
+  },
+  {
+   "id": "SURG-C47-081",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 362,
+   "q": "Urine examination includes:",
+   "opts": [
+    "Urine culture and sensitivity",
+    "Blood culture only",
+    "Throat swab",
+    "Skin biopsy"
+   ],
+   "ans": 0,
+   "exp": "Urine culture and sensitivity (Book p362)"
+  },
+  {
+   "id": "SURG-C47-082",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 362,
+   "q": "Urine examination includes testing:",
+   "opts": [
+    "Urine glucose",
+    "Urine ketones only",
+    "Urine pregnancy",
+    "Urine osmolality only"
+   ],
+   "ans": 0,
+   "exp": "Urine glucose (Book p362)"
+  },
+  {
+   "id": "SURG-C47-083",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "USG KUB assesses:",
+   "opts": [
+    "Prostatic size",
+    "Liver span",
+    "Spleen size",
+    "Thyroid volume"
+   ],
+   "ans": 0,
+   "exp": "Prostatic size (Book p363)"
+  },
+  {
+   "id": "SURG-C47-084",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "USG KUB assesses:",
+   "opts": [
+    "Prostatic volume",
+    "Renal artery flow only",
+    "Bladder stone colour",
+    "Urethral length only"
+   ],
+   "ans": 0,
+   "exp": "Prostatic volume (Book p363)"
+  },
+  {
+   "id": "SURG-C47-085",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "USG KUB measures:",
+   "opts": [
+    "Residual urine",
+    "Serum PSA",
+    "Urine glucose",
+    "Bladder pressure"
+   ],
+   "ans": 0,
+   "exp": "Residual urine (Book p363)"
+  },
+  {
+   "id": "SURG-C47-086",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "USG KUB assesses:",
+   "opts": [
+    "LN status",
+    "Bone density",
+    "Lung nodules",
+    "Brain mets"
+   ],
+   "ans": 0,
+   "exp": "LN status (Book p363)"
+  },
+  {
+   "id": "SURG-C47-087",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "USG KUB looks for:",
+   "opts": [
+    "Hydronephrosis",
+    "Hydrocele",
+    "Hydatid cyst",
+    "Hydrocephalus"
+   ],
+   "ans": 0,
+   "exp": "Hydronephrosis (Book p363)"
+  },
+  {
+   "id": "SURG-C47-088",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Free PSA is:",
+   "opts": [
+    "Better than protein bound PSA",
+    "Worse than bound PSA",
+    "Equal to bound PSA",
+    "Never measured"
+   ],
+   "ans": 0,
+   "exp": "Better than protein bound PSA (Book p363)"
+  },
+  {
+   "id": "SURG-C47-089",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "PSA velocity suspecting malignancy is:",
+   "opts": [
+    ">0.75 ng/ml/year",
+    "<0.25 ng/ml/year",
+    ">7.5 ng/ml/day",
+    "<0.075 ng/ml/year"
+   ],
+   "ans": 0,
+   "exp": ">0.75 ng/ml/year (Book p363)"
+  },
+  {
+   "id": "SURG-C47-090",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "BPSA (Nicked) and IPSA (Intact) are raised in:",
+   "opts": [
+    "Benign prostatic conditions",
+    "Prostate cancer",
+    "Bladder cancer",
+    "Renal cancer"
+   ],
+   "ans": 0,
+   "exp": "Benign prostatic conditions (Book p363)"
+  },
+  {
+   "id": "SURG-C47-091",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Pro PSA is raised in:",
+   "opts": [
+    "Cancer",
+    "Benign conditions",
+    "UTI only",
+    "Normal prostate"
+   ],
+   "ans": 0,
+   "exp": "Cancer (Book p363)"
+  },
+  {
+   "id": "SURG-C47-092",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "PSA evaluation is done at:",
+   "opts": [
+    "50 to 69 years",
+    "20 to 30 years",
+    "80 to 90 years",
+    "Birth"
+   ],
+   "ans": 0,
+   "exp": "50 to 69 years (Book p363)"
+  },
+  {
+   "id": "SURG-C47-093",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "PSA 0–3 ng/ml is:",
+   "opts": [
+    "Normal",
+    "Highly malignant",
+    "Always prostatitis",
+    "Always BPH"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p363)"
+  },
+  {
+   "id": "SURG-C47-094",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "PSA 0–3 ng/ml differentials include:",
+   "opts": [
+    "BPH and Prostatitis",
+    "Cancer in every case",
+    "Bladder stone",
+    "Urethral stricture"
+   ],
+   "ans": 0,
+   "exp": "BPH and Prostatitis (Book p363)"
+  },
+  {
+   "id": "SURG-C47-095",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "With PSA 0–3 ng/ml, confirm diagnosis by ruling out prostatitis then:",
+   "opts": [
+    "Start patient on BPH mx (Biopsy not required)",
+    "Immediate TRUS biopsy",
+    "Radical prostatectomy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Start patient on BPH mx (Biopsy not required) (Book p363)"
+  },
+  {
+   "id": "SURG-C47-096",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "PSA >3–4 ng/ml differentials include:",
+   "opts": [
+    "BPH, Cancer and Prostatitis",
+    "Only normal prostate",
+    "Only bladder cancer",
+    "Only renal stones"
+   ],
+   "ans": 0,
+   "exp": "BPH, Cancer and Prostatitis (Book p363)"
+  },
+  {
+   "id": "SURG-C47-097",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "With PSA >3–4 ng/ml, if prostatitis is present give:",
+   "opts": [
+    "Antibiotics 4–6 weeks",
+    "Antibiotics 2–3 days",
+    "Immediate surgery",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics 4–6 weeks (Book p363)"
+  },
+  {
+   "id": "SURG-C47-098",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "After antibiotics for prostatitis, repeat PSA after:",
+   "opts": [
+    "6 weeks",
+    "6 days",
+    "6 months",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "6 weeks (Book p363)"
+  },
+  {
+   "id": "SURG-C47-099",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "On repeat after treatment, PSA becomes:",
+   "opts": [
+    "Normal",
+    "Higher always",
+    "Undetectable always",
+    "Unchanged"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p363)"
+  },
+  {
+   "id": "SURG-C47-100",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "With PSA >3–4 ng/ml and no prostatitis, do:",
+   "opts": [
+    "TRUS guided trucut biopsy",
+    "Only observation",
+    "Empirical TURP",
+    "Cystectomy"
+   ],
+   "ans": 0,
+   "exp": "TRUS guided trucut biopsy (Book p363)"
+  },
+  {
+   "id": "SURG-C47-101",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Minimum cores to be taken on prostate biopsy:",
+   "opts": [
+    "12 cores",
+    "2 cores",
+    "6 cores",
+    "24 cores"
+   ],
+   "ans": 0,
+   "exp": "12 cores (Book p363)"
+  },
+  {
+   "id": "SURG-C47-102",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Transperineal biopsy samples the:",
+   "opts": [
+    "Anterior lobe",
+    "Posterior lobe",
+    "Median lobe only",
+    "Lateral lobe only"
+   ],
+   "ans": 0,
+   "exp": "Anterior lobe (Book p363)"
+  },
+  {
+   "id": "SURG-C47-103",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Transperineal biopsy is done under:",
+   "opts": [
+    "GA",
+    "LA",
+    "No anaesthesia",
+    "Spinal only"
+   ],
+   "ans": 0,
+   "exp": "GA (Book p363)"
+  },
+  {
+   "id": "SURG-C47-104",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Transperineal biopsy has:",
+   "opts": [
+    "Decreased risk of infection",
+    "Increased risk of infection",
+    "No infection risk difference",
+    "100% infection"
+   ],
+   "ans": 0,
+   "exp": "Decreased risk of infection (Book p363)"
+  },
+  {
+   "id": "SURG-C47-105",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Transperineal biopsy is done if:",
+   "opts": [
+    "Raised PSA but TRUS biopsy negative",
+    "PSA is normal",
+    "DRE is normal",
+    "Patient refuses consent"
+   ],
+   "ans": 0,
+   "exp": "Raised PSA but TRUS biopsy negative (Book p363)"
+  },
+  {
+   "id": "SURG-C47-106",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Transrectal biopsy samples the:",
+   "opts": [
+    "Posterior lobe",
+    "Anterior lobe",
+    "Whole gland equally",
+    "Seminal vesicle only"
+   ],
+   "ans": 0,
+   "exp": "Posterior lobe (Book p363)"
+  },
+  {
+   "id": "SURG-C47-107",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Transrectal biopsy is done under:",
+   "opts": [
+    "LA",
+    "GA",
+    "No anaesthesia",
+    "Epidural only"
+   ],
+   "ans": 0,
+   "exp": "LA (Book p363)"
+  },
+  {
+   "id": "SURG-C47-108",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Transrectal biopsy has:",
+   "opts": [
+    "Increased risk of infection",
+    "Decreased risk of infection",
+    "No risk at all",
+    "Only bleeding risk"
+   ],
+   "ans": 0,
+   "exp": "Increased risk of infection (Book p363)"
+  },
+  {
+   "id": "SURG-C47-109",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Uroflowmetry >15 ml/sec is:",
+   "opts": [
+    "Normal",
+    "Equivocal",
+    "Low",
+    "High"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p363)"
+  },
+  {
+   "id": "SURG-C47-110",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Uroflowmetry 10–15 ml/sec is:",
+   "opts": [
+    "Equivocal",
+    "Normal",
+    "Low",
+    "High"
+   ],
+   "ans": 0,
+   "exp": "Equivocal (Book p363)"
+  },
+  {
+   "id": "SURG-C47-111",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Uroflowmetry <10 ml/sec is:",
+   "opts": [
+    "Low",
+    "Normal",
+    "Equivocal",
+    "High"
+   ],
+   "ans": 0,
+   "exp": "Low (Book p363)"
+  },
+  {
+   "id": "SURG-C47-112",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Bladder pressure <60 cm of H2O is:",
+   "opts": [
+    "Normal",
+    "Equivocal",
+    "High",
+    "Low"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p363)"
+  },
+  {
+   "id": "SURG-C47-113",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Bladder pressure 60–80 cm of H2O is:",
+   "opts": [
+    "Equivocal",
+    "Normal",
+    "High",
+    "Low"
+   ],
+   "ans": 0,
+   "exp": "Equivocal (Book p363)"
+  },
+  {
+   "id": "SURG-C47-114",
+   "sec": "Workup: Examination, USG, PSA and Biopsy",
+   "page": 363,
+   "q": "Bladder pressure >80 cm of H2O is:",
+   "opts": [
+    "High",
+    "Normal",
+    "Equivocal",
+    "Low"
+   ],
+   "ans": 0,
+   "exp": "High (Book p363)"
+  },
+  {
+   "id": "SURG-C47-115",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "In bladder outlet obstruction, bladder pressure is:",
+   "opts": [
+    "Increased",
+    "Decreased markedly",
+    "Normal always",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Increased (Book p364)"
+  },
+  {
+   "id": "SURG-C47-116",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "In bladder outlet obstruction, flow rate is:",
+   "opts": [
+    "Decreased",
+    "Increased",
+    "Normal always",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Decreased (Book p364)"
+  },
+  {
+   "id": "SURG-C47-117",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "In neurogenic bladder, bladder pressure is:",
+   "opts": [
+    "Markedly decreased",
+    "Increased",
+    "Normal always",
+    "High"
+   ],
+   "ans": 0,
+   "exp": "Markedly decreased (Book p364)"
+  },
+  {
+   "id": "SURG-C47-118",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "In neurogenic bladder, flow rate is:",
+   "opts": [
+    "Decreased",
+    "Increased",
+    "Normal always",
+    "High"
+   ],
+   "ans": 0,
+   "exp": "Decreased (Book p364)"
+  },
+  {
+   "id": "SURG-C47-119",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "Marion disease occurs due to hypertrophy of the:",
+   "opts": [
+    "Internal sphincter",
+    "External sphincter",
+    "Detrusor only",
+    "Prostate"
+   ],
+   "ans": 0,
+   "exp": "Internal sphincter (Book p364)"
+  },
+  {
+   "id": "SURG-C47-120",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "Marion disease has:",
+   "opts": [
+    "LUTS positive but no BPH/cancer",
+    "No LUTS",
+    "BPH in every case",
+    "Cancer in every case"
+   ],
+   "ans": 0,
+   "exp": "LUTS positive but no BPH/cancer (Book p364)"
+  },
+  {
+   "id": "SURG-C47-121",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "BPH occurs in the:",
+   "opts": [
+    "5th decade",
+    "2nd decade",
+    "8th decade",
+    "Neonatal period"
+   ],
+   "ans": 0,
+   "exp": "5th decade (Book p364)"
+  },
+  {
+   "id": "SURG-C47-122",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "BPH affects the:",
+   "opts": [
+    "Transitional zone",
+    "Peripheral zone",
+    "Central zone",
+    "Fibromuscular zone"
+   ],
+   "ans": 0,
+   "exp": "Transitional zone (Book p364)"
+  },
+  {
+   "id": "SURG-C47-123",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "In BPH the prostatic urethral lumen is:",
+   "opts": [
+    "Decreased, causing LUTS features",
+    "Increased",
+    "Normal",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Decreased, causing LUTS features (Book p364)"
+  },
+  {
+   "id": "SURG-C47-124",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "In BPH the prostatic urethral curve is:",
+   "opts": [
+    "Increased, causing difficult catheterisation",
+    "Decreased",
+    "Normal",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Increased, causing difficult catheterisation (Book p364)"
+  },
+  {
+   "id": "SURG-C47-125",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "Obstruction in BPH raises pressure in the bladder causing:",
+   "opts": [
+    "Diverticulae, trabeculae and increased residual urine",
+    "Decreased residual urine",
+    "Bladder rupture in every case",
+    "Normal bladder always"
+   ],
+   "ans": 0,
+   "exp": "Diverticulae, trabeculae and increased residual urine (Book p364)"
+  },
+  {
+   "id": "SURG-C47-126",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "International prostate symptom score 0–7 is:",
+   "opts": [
+    "Mild",
+    "Moderate",
+    "Severe",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Mild (Book p364)"
+  },
+  {
+   "id": "SURG-C47-127",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "Mild IPSS is managed with:",
+   "opts": [
+    "Observation",
+    "Medical or surgery",
+    "Immediate TURP",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Observation (Book p364)"
+  },
+  {
+   "id": "SURG-C47-128",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "International prostate symptom score 8–19 is:",
+   "opts": [
+    "Moderate",
+    "Mild",
+    "Severe",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Moderate (Book p364)"
+  },
+  {
+   "id": "SURG-C47-129",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "Moderate IPSS is managed with:",
+   "opts": [
+    "Medical or surgery",
+    "Observation only",
+    "No treatment",
+    "Only radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Medical or surgery (Book p364)"
+  },
+  {
+   "id": "SURG-C47-130",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "International prostate symptom score 20–25 is:",
+   "opts": [
+    "Severe",
+    "Mild",
+    "Moderate",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Severe (Book p364)"
+  },
+  {
+   "id": "SURG-C47-131",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "Severe IPSS is managed with:",
+   "opts": [
+    "Medical or surgery",
+    "Observation only",
+    "No treatment",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Medical or surgery (Book p364)"
+  },
+  {
+   "id": "SURG-C47-132",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "The static component of BPH is:",
+   "opts": [
+    "Increase in prostate bulk",
+    "Increase in smooth muscle tone",
+    "Decrease in stroma",
+    "Bladder neck relaxation"
+   ],
+   "ans": 0,
+   "exp": "Increase in prostate bulk (Book p364)"
+  },
+  {
+   "id": "SURG-C47-133",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "The static component is stromal hyperplasia due to:",
+   "opts": [
+    "5DHT",
+    "Testosterone only",
+    "Oestrogen only",
+    "PSA"
+   ],
+   "ans": 0,
+   "exp": "5DHT (Book p364)"
+  },
+  {
+   "id": "SURG-C47-134",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "The dynamic component of BPH is:",
+   "opts": [
+    "Increase in smooth muscle tone",
+    "Increase in prostate bulk",
+    "Stromal hyperplasia",
+    "Glandular atrophy"
+   ],
+   "ans": 0,
+   "exp": "Increase in smooth muscle tone (Book p364)"
+  },
+  {
+   "id": "SURG-C47-135",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "page": 364,
+   "q": "The dynamic component is mediated by:",
+   "opts": [
+    "Alpha adrenergic receptors",
+    "Beta receptors only",
+    "Muscarinic receptors",
+    "Dopamine receptors"
+   ],
+   "ans": 0,
+   "exp": "Alpha adrenergic receptors (Book p364)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U47-1",
+   "ch": 47,
+   "n": 1,
+   "title": "Surgical Anatomy of the Prostate",
+   "sec": "Surgical Anatomy of the Prostate · p360",
+   "qs": [
+    "SURG-C47-001",
+    "SURG-C47-002",
+    "SURG-C47-003",
+    "SURG-C47-004",
+    "SURG-C47-005",
+    "SURG-C47-006",
+    "SURG-C47-007",
+    "SURG-C47-008",
+    "SURG-C47-009",
+    "SURG-C47-010",
+    "SURG-C47-011",
+    "SURG-C47-012",
+    "SURG-C47-013",
+    "SURG-C47-014",
+    "SURG-C47-015",
+    "SURG-C47-016",
+    "SURG-C47-017",
+    "SURG-C47-018",
+    "SURG-C47-019",
+    "SURG-C47-020"
+   ],
+   "guide": "Central zone glands are short and unbranched while peripheral glands are long and branched, with cancer favouring the periphery and BPH the transition zone around the prostatic urethra. Veru montanum marks the distal TURP limit that protects continence, bladder-neck injury causes retrograde ejaculation as the commonest TURP complication, and the posterolateral neurovascular bundle in the holy plane near Denonvilliers fascia threatens impotence when injured."
+  },
+  {
+   "id": "SURG-U47-2",
+   "ch": 47,
+   "n": 2,
+   "title": "Prostatic Capsules, Corpora Amylacea and Stones",
+   "sec": "Prostatic Capsules, Corpora Amylacea and Stones · p361",
+   "qs": [
+    "SURG-C47-021",
+    "SURG-C47-022",
+    "SURG-C47-023",
+    "SURG-C47-024",
+    "SURG-C47-025",
+    "SURG-C47-026",
+    "SURG-C47-027",
+    "SURG-C47-028",
+    "SURG-C47-029",
+    "SURG-C47-030",
+    "SURG-C47-031",
+    "SURG-C47-032",
+    "SURG-C47-033",
+    "SURG-C47-034"
+   ],
+   "guide": "Between true and false capsules lies the prostatic venous plexus, which bleeds if the capsule is breached and carries metastases to bone and vertebrae. Corpora amylacea are eosinophilic lamellated precursors of stones; endogenous CaPO4 stones arise in the prostate in a fifth of cases while exogenous stones arrive from the kidney, both usually incidental and needing no treatment."
+  },
+  {
+   "id": "SURG-U47-3",
+   "ch": 47,
+   "n": 3,
+   "title": "Acute versus Chronic Prostatitis",
+   "sec": "Acute versus Chronic Prostatitis · p361",
+   "qs": [
+    "SURG-C47-035",
+    "SURG-C47-036",
+    "SURG-C47-037",
+    "SURG-C47-038",
+    "SURG-C47-039",
+    "SURG-C47-040",
+    "SURG-C47-041",
+    "SURG-C47-042",
+    "SURG-C47-043",
+    "SURG-C47-044",
+    "SURG-C47-045",
+    "SURG-C47-046",
+    "SURG-C47-047"
+   ],
+   "guide": "Acute prostatitis is an E. coli UTI complication with fever, pain and a tender boggy prostate showing threads and neutrophils, where massage is forbidden and 2–3 weeks of antibiotics suffice. Chronic disease follows repeated acute attacks with dull prostadynia and a tender gland, diagnosed by the 3-tube test and treated for 4–6 weeks."
+  },
+  {
+   "id": "SURG-U47-4",
+   "ch": 47,
+   "n": 4,
+   "title": "Three-Tube Test and Lower Urinary Tract Symptoms",
+   "sec": "Three-Tube Test and Lower Urinary Tract Symptoms · p362",
+   "qs": [
+    "SURG-C47-048",
+    "SURG-C47-049",
+    "SURG-C47-050",
+    "SURG-C47-051",
+    "SURG-C47-052",
+    "SURG-C47-053",
+    "SURG-C47-054",
+    "SURG-C47-055",
+    "SURG-C47-056",
+    "SURG-C47-057",
+    "SURG-C47-058",
+    "SURG-C47-059",
+    "SURG-C47-060",
+    "SURG-C47-061",
+    "SURG-C47-062",
+    "SURG-C47-063",
+    "SURG-C47-064",
+    "SURG-C47-065",
+    "SURG-C47-066",
+    "SURG-C47-067",
+    "SURG-C47-068",
+    "SURG-C47-069",
+    "SURG-C47-070",
+    "SURG-C47-071",
+    "SURG-C47-072",
+    "SURG-C47-073",
+    "SURG-C47-074",
+    "SURG-C47-075"
+   ],
+   "guide": "VB1 samples urethral first-void, VB2 bladder midstream 200 ml later, EPS prostatic secretions after massage and VB3 post-massage first-void, all cultured to localize infection. BPH and cancer both cause LUTS: obstructive hesitancy, poor unimproved flow, intermittent stream, post-void dribbling, poor emptying and near-retention, plus irritative frequency as the earliest commonest symptom with nocturia, urgency, urge and nocturnal enuresis; BPH post-micturition dribbling may persist even after TURP."
+  },
+  {
+   "id": "SURG-U47-5",
+   "ch": 47,
+   "n": 5,
+   "title": "Workup: Examination, USG, PSA and Biopsy",
+   "sec": "Workup: Examination, USG, PSA and Biopsy · p362",
+   "qs": [
+    "SURG-C47-076",
+    "SURG-C47-077",
+    "SURG-C47-078",
+    "SURG-C47-079",
+    "SURG-C47-080",
+    "SURG-C47-081",
+    "SURG-C47-082",
+    "SURG-C47-083",
+    "SURG-C47-084",
+    "SURG-C47-085",
+    "SURG-C47-086",
+    "SURG-C47-087",
+    "SURG-C47-088",
+    "SURG-C47-089",
+    "SURG-C47-090",
+    "SURG-C47-091",
+    "SURG-C47-092",
+    "SURG-C47-093",
+    "SURG-C47-094",
+    "SURG-C47-095",
+    "SURG-C47-096",
+    "SURG-C47-097",
+    "SURG-C47-098",
+    "SURG-C47-099",
+    "SURG-C47-100",
+    "SURG-C47-101",
+    "SURG-C47-102",
+    "SURG-C47-103",
+    "SURG-C47-104",
+    "SURG-C47-105",
+    "SURG-C47-106",
+    "SURG-C47-107",
+    "SURG-C47-108",
+    "SURG-C47-109",
+    "SURG-C47-110",
+    "SURG-C47-111",
+    "SURG-C47-112",
+    "SURG-C47-113",
+    "SURG-C47-114"
+   ],
+   "guide": "BPH feels rubbery with mobile mucosa while cancer feels hard with fixed mucosa, followed by urine routine, culture and glucose, then USG KUB for size, volume, residual urine, nodes and hydronephrosis. Free PSA beats bound PSA, velocity above 0.75 ng/ml/year alarms, BPSA/IPSA mark benign disease and proPSA marks cancer; at 50–69 years low PSA avoids biopsy while high PSA is triaged through prostatitis treatment and repeat testing to TRUS trucut biopsy of at least 12 cores, choosing transperineal anterior under GA for lower infection after negative TRUS versus transrectal posterior under LA, and grading flow above 15 as normal, 10–15 equivocal and below 10 low against bladder pressures below 60 normal, 60–80 equivocal and above 80 high."
+  },
+  {
+   "id": "SURG-U47-6",
+   "ch": 47,
+   "n": 6,
+   "title": "Neurogenic Bladder, Marion Disease and BPH Basics",
+   "sec": "Neurogenic Bladder, Marion Disease and BPH Basics · p364",
+   "qs": [
+    "SURG-C47-115",
+    "SURG-C47-116",
+    "SURG-C47-117",
+    "SURG-C47-118",
+    "SURG-C47-119",
+    "SURG-C47-120",
+    "SURG-C47-121",
+    "SURG-C47-122",
+    "SURG-C47-123",
+    "SURG-C47-124",
+    "SURG-C47-125",
+    "SURG-C47-126",
+    "SURG-C47-127",
+    "SURG-C47-128",
+    "SURG-C47-129",
+    "SURG-C47-130",
+    "SURG-C47-131",
+    "SURG-C47-132",
+    "SURG-C47-133",
+    "SURG-C47-134",
+    "SURG-C47-135"
+   ],
+   "guide": "Outlet obstruction raises bladder pressure with low flow while neurogenic bladder drops pressure markedly with low flow, and Marion disease from internal-sphincter hypertrophy mimics LUTS without BPH or cancer. Fifth-decade transitional-zone BPH narrows the lumen to cause LUTS and steepens the curve to hinder catheterisation, backing pressure into diverticulae, trabeculae and residual urine; IPSS grades 0–7 mild for observation and 8–25 moderate-severe for medical or surgical care, splitting disease into a 5DHT static bulk component and an alpha-mediated dynamic tone component."
+  }
+ ]
+}

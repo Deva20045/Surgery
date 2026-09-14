@@ -1,0 +1,3766 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C50-001",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Autograft is a graft from:",
+   "opts": [
+    "Same person (Eg: Skin graft)",
+    "Identical twins",
+    "Same species",
+    "Different species"
+   ],
+   "ans": 0,
+   "exp": "Same person (Eg: Skin graft) (Book p377)"
+  },
+  {
+   "id": "SURG-C50-002",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Isograft is a graft between:",
+   "opts": [
+    "Identical twins",
+    "Same person",
+    "Same species",
+    "Different species"
+   ],
+   "ans": 0,
+   "exp": "Identical twins (Book p377)"
+  },
+  {
+   "id": "SURG-C50-003",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Allograft is a graft among:",
+   "opts": [
+    "Same species",
+    "Same person",
+    "Identical twins",
+    "Different species"
+   ],
+   "ans": 0,
+   "exp": "Same species (Book p377)"
+  },
+  {
+   "id": "SURG-C50-004",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Xenograft is a graft between:",
+   "opts": [
+    "Different species",
+    "Same person",
+    "Identical twins",
+    "Same species"
+   ],
+   "ans": 0,
+   "exp": "Different species (Book p377)"
+  },
+  {
+   "id": "SURG-C50-005",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "A type of donor is:",
+   "opts": [
+    "Living donors",
+    "Xeno donors",
+    "Dead organs only",
+    "Artificial donors"
+   ],
+   "ans": 0,
+   "exp": "Living donors (Book p377)"
+  },
+  {
+   "id": "SURG-C50-006",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "The other type of donor is:",
+   "opts": [
+    "Dead donors",
+    "Living donors",
+    "Twin donors",
+    "Animal donors"
+   ],
+   "ans": 0,
+   "exp": "Dead donors (Book p377)"
+  },
+  {
+   "id": "SURG-C50-007",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class I presentation is:",
+   "opts": [
+    "Dead on arrival",
+    "Unsuccessful resuscitation",
+    "Anticipated cardiac arrest",
+    "Cardiac arrest in brain dead donor"
+   ],
+   "ans": 0,
+   "exp": "Dead on arrival (Book p377)"
+  },
+  {
+   "id": "SURG-C50-008",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class I situation is:",
+   "opts": [
+    "Uncontrolled",
+    "Controlled",
+    "Anticipated",
+    "Planned"
+   ],
+   "ans": 0,
+   "exp": "Uncontrolled (Book p377)"
+  },
+  {
+   "id": "SURG-C50-009",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Organs procurable in Maastricht Class I are:",
+   "opts": [
+    "Heart valves, cornea",
+    "Kidney, heart valves, cornea",
+    "All organs except heart",
+    "All organs including heart"
+   ],
+   "ans": 0,
+   "exp": "Heart valves, cornea (Book p377)"
+  },
+  {
+   "id": "SURG-C50-010",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class II presentation is:",
+   "opts": [
+    "Unsuccessful resuscitation",
+    "Dead on arrival",
+    "Anticipated cardiac arrest",
+    "Unexpected arrest in hospital"
+   ],
+   "ans": 0,
+   "exp": "Unsuccessful resuscitation (Book p377)"
+  },
+  {
+   "id": "SURG-C50-011",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class II situation is:",
+   "opts": [
+    "Uncontrolled",
+    "Controlled",
+    "Elective",
+    "Planned"
+   ],
+   "ans": 0,
+   "exp": "Uncontrolled (Book p377)"
+  },
+  {
+   "id": "SURG-C50-012",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Organs procurable in Maastricht Class II are:",
+   "opts": [
+    "Kidney, heart valves, cornea",
+    "Heart valves, cornea only",
+    "All organs except heart",
+    "Heart only"
+   ],
+   "ans": 0,
+   "exp": "Kidney, heart valves, cornea (Book p377)"
+  },
+  {
+   "id": "SURG-C50-013",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class III presentation is:",
+   "opts": [
+    "Anticipated cardiac arrest",
+    "Dead on arrival",
+    "Unsuccessful resuscitation",
+    "Unexpected arrest in hospital"
+   ],
+   "ans": 0,
+   "exp": "Anticipated cardiac arrest (Book p377)"
+  },
+  {
+   "id": "SURG-C50-014",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class III situation is:",
+   "opts": [
+    "Controlled",
+    "Uncontrolled",
+    "Unwitnessed",
+    "Out-of-hospital"
+   ],
+   "ans": 0,
+   "exp": "Controlled (Book p377)"
+  },
+  {
+   "id": "SURG-C50-015",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class IV presentation is:",
+   "opts": [
+    "Cardiac arrest in brain dead donor",
+    "Dead on arrival",
+    "Anticipated cardiac arrest",
+    "Unsuccessful resuscitation"
+   ],
+   "ans": 0,
+   "exp": "Cardiac arrest in brain dead donor (Book p377)"
+  },
+  {
+   "id": "SURG-C50-016",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class IV situation is:",
+   "opts": [
+    "Controlled",
+    "Uncontrolled",
+    "Unexpected",
+    "Unwitnessed"
+   ],
+   "ans": 0,
+   "exp": "Controlled (Book p377)"
+  },
+  {
+   "id": "SURG-C50-017",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class V presentation is:",
+   "opts": [
+    "Unexpected cardiac arrest in a hospital patient",
+    "Dead on arrival",
+    "Anticipated cardiac arrest",
+    "Cardiac arrest in brain dead donor"
+   ],
+   "ans": 0,
+   "exp": "Unexpected cardiac arrest in a hospital patient (Book p377)"
+  },
+  {
+   "id": "SURG-C50-018",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Maastricht Class V situation is:",
+   "opts": [
+    "Uncontrolled",
+    "Controlled",
+    "Elective",
+    "Planned"
+   ],
+   "ans": 0,
+   "exp": "Uncontrolled (Book p377)"
+  },
+  {
+   "id": "SURG-C50-019",
+   "sec": "Types of Grafts, Donors and Maastricht Classification",
+   "page": 377,
+   "q": "Organs procurable in Maastricht Class III–V are:",
+   "opts": [
+    "All organs except heart",
+    "Heart valves, cornea only",
+    "Kidney only",
+    "Heart only"
+   ],
+   "ans": 0,
+   "exp": "All organs except heart (Book p377)"
+  },
+  {
+   "id": "SURG-C50-020",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "Static cold storage uses:",
+   "opts": [
+    "UW (University of Wisconsin) solution",
+    "Normal saline",
+    "Ringer lactate",
+    "Distilled water"
+   ],
+   "ans": 0,
+   "exp": "UW (University of Wisconsin) solution (Book p377)"
+  },
+  {
+   "id": "SURG-C50-021",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution is stored at:",
+   "opts": [
+    "4°C",
+    "37°C",
+    "−20°C",
+    "25°C"
+   ],
+   "ans": 0,
+   "exp": "4°C (Book p377)"
+  },
+  {
+   "id": "SURG-C50-022",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "A constituent of UW solution is:",
+   "opts": [
+    "Hydroxyethyl starch (HES)",
+    "Hydroxyapatite",
+    "Hetastarch-free saline",
+    "Albumin only"
+   ],
+   "ans": 0,
+   "exp": "Hydroxyethyl starch (HES) (Book p377)"
+  },
+  {
+   "id": "SURG-C50-023",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution contains:",
+   "opts": [
+    "Lactobionic acid (As lactone)",
+    "Lactic acid only",
+    "Citric acid",
+    "Acetic acid"
+   ],
+   "ans": 0,
+   "exp": "Lactobionic acid (As lactone) (Book p377)"
+  },
+  {
+   "id": "SURG-C50-024",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "A constituent of UW solution is:",
+   "opts": [
+    "Adenosine",
+    "Adrenaline",
+    "ATPase",
+    "Adenine only"
+   ],
+   "ans": 0,
+   "exp": "Adenosine (Book p377)"
+  },
+  {
+   "id": "SURG-C50-025",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution contains:",
+   "opts": [
+    "Allopurinol",
+    "Allopregnanolone",
+    "Aspirin",
+    "Amiodarone"
+   ],
+   "ans": 0,
+   "exp": "Allopurinol (Book p377)"
+  },
+  {
+   "id": "SURG-C50-026",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution contains glutathione in the:",
+   "opts": [
+    "Reduced form",
+    "Oxidized form",
+    "Gaseous form",
+    "Solid form"
+   ],
+   "ans": 0,
+   "exp": "Reduced form (Book p377)"
+  },
+  {
+   "id": "SURG-C50-027",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution is injected into the donor through:",
+   "opts": [
+    "Aorta & portal vein",
+    "IVC & aorta",
+    "Renal vein",
+    "Carotid artery"
+   ],
+   "ans": 0,
+   "exp": "Aorta & portal vein (Book p377)"
+  },
+  {
+   "id": "SURG-C50-028",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution flushes out blood and thereby:",
+   "opts": [
+    "Prevents thrombosis",
+    "Causes thrombosis",
+    "Increases clotting",
+    "Lyses organs"
+   ],
+   "ans": 0,
+   "exp": "Prevents thrombosis (Book p377)"
+  },
+  {
+   "id": "SURG-C50-029",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution cools organs and thereby:",
+   "opts": [
+    "Decreases oxygen requirement",
+    "Increases oxygen requirement",
+    "Stops perfusion",
+    "Warms organs"
+   ],
+   "ans": 0,
+   "exp": "Decreases oxygen requirement (Book p377)"
+  },
+  {
+   "id": "SURG-C50-030",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 377,
+   "q": "UW solution replaces normal extracellular fluid with:",
+   "opts": [
+    "Preservation fluid",
+    "Blood",
+    "Bile",
+    "Lymph"
+   ],
+   "ans": 0,
+   "exp": "Preservation fluid (Book p377)"
+  },
+  {
+   "id": "SURG-C50-031",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Safe maximum cold ischemia time for the kidney is:",
+   "opts": [
+    "36 hours (max)",
+    "12–18 hours",
+    "4–6 hours",
+    "3–6 hours"
+   ],
+   "ans": 0,
+   "exp": "36 hours (max) (Book p378)"
+  },
+  {
+   "id": "SURG-C50-032",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "The organ with maximum cold ischemia time is the:",
+   "opts": [
+    "Kidney",
+    "Liver",
+    "Heart",
+    "Lung"
+   ],
+   "ans": 0,
+   "exp": "Kidney (Book p378)"
+  },
+  {
+   "id": "SURG-C50-033",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Safe maximum cold ischemia time for the liver is:",
+   "opts": [
+    "12–18 hours",
+    "36 hours",
+    "4–6 hours",
+    "3–8 hours"
+   ],
+   "ans": 0,
+   "exp": "12–18 hours (Book p378)"
+  },
+  {
+   "id": "SURG-C50-034",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Safe maximum cold ischemia time for the pancreas is:",
+   "opts": [
+    "<10–18 hours",
+    "36 hours",
+    "4–6 hours",
+    "3–6 hours"
+   ],
+   "ans": 0,
+   "exp": "<10–18 hours (Book p378)"
+  },
+  {
+   "id": "SURG-C50-035",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Safe maximum cold ischemia time for the small intestine is:",
+   "opts": [
+    "4–6 hours",
+    "36 hours",
+    "12–18 hours",
+    "3–8 hours"
+   ],
+   "ans": 0,
+   "exp": "4–6 hours (Book p378)"
+  },
+  {
+   "id": "SURG-C50-036",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Safe maximum cold ischemia time for the heart is:",
+   "opts": [
+    "3–6 hours (Least)",
+    "36 hours",
+    "12–18 hours",
+    "3–8 hours"
+   ],
+   "ans": 0,
+   "exp": "3–6 hours (Least) (Book p378)"
+  },
+  {
+   "id": "SURG-C50-037",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "The organ with least cold ischemia time is the:",
+   "opts": [
+    "Heart",
+    "Kidney",
+    "Liver",
+    "Lung"
+   ],
+   "ans": 0,
+   "exp": "Heart (Book p378)"
+  },
+  {
+   "id": "SURG-C50-038",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Safe maximum cold ischemia time for the lung is:",
+   "opts": [
+    "3–8 hours",
+    "36 hours",
+    "12–18 hours",
+    "4–6 hours"
+   ],
+   "ans": 0,
+   "exp": "3–8 hours (Book p378)"
+  },
+  {
+   "id": "SURG-C50-039",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Normothermic machine perfusion stores organs in:",
+   "opts": [
+    "Normal temperature",
+    "4°C",
+    "−20°C",
+    "Iced saline"
+   ],
+   "ans": 0,
+   "exp": "Normal temperature (Book p378)"
+  },
+  {
+   "id": "SURG-C50-040",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Organs for normothermic machine perfusion include:",
+   "opts": [
+    "Heart, lung, liver, kidney",
+    "Only kidney",
+    "Only cornea",
+    "Heart valves only"
+   ],
+   "ans": 0,
+   "exp": "Heart, lung, liver, kidney (Book p378)"
+  },
+  {
+   "id": "SURG-C50-041",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "An advantage of normothermic machine perfusion is a:",
+   "opts": [
+    "More physiological state",
+    "Less physiological state",
+    "Frozen state",
+    "Dry state"
+   ],
+   "ans": 0,
+   "exp": "More physiological state (Book p378)"
+  },
+  {
+   "id": "SURG-C50-042",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Normothermic perfusion restores function ex-vivo and replenishes depleted:",
+   "opts": [
+    "ATPs",
+    "Glucose",
+    "Lipids",
+    "Calcium"
+   ],
+   "ans": 0,
+   "exp": "ATPs (Book p378)"
+  },
+  {
+   "id": "SURG-C50-043",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Normothermic perfusion allows utility of:",
+   "opts": [
+    "Marginal donors",
+    "Only ideal donors",
+    "No donors",
+    "Animal donors"
+   ],
+   "ans": 0,
+   "exp": "Marginal donors (Book p378)"
+  },
+  {
+   "id": "SURG-C50-044",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion",
+   "page": 378,
+   "q": "Normothermic perfusion gives:",
+   "opts": [
+    "Early graft function",
+    "Delayed graft function",
+    "No graft function",
+    "Chronic rejection"
+   ],
+   "ans": 0,
+   "exp": "Early graft function (Book p378)"
+  },
+  {
+   "id": "SURG-C50-045",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "The most common indication for renal transplant in adults is:",
+   "opts": [
+    "Diabetic nephropathy",
+    "Glomerulonephritis",
+    "Polycystic kidney",
+    "Renal stones"
+   ],
+   "ans": 0,
+   "exp": "Diabetic nephropathy (Book p378)"
+  },
+  {
+   "id": "SURG-C50-046",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "The most common indication for renal transplant in children is:",
+   "opts": [
+    "Glomerulonephritis",
+    "Diabetic nephropathy",
+    "VUR only",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Glomerulonephritis (Book p378)"
+  },
+  {
+   "id": "SURG-C50-047",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Extended donor criteria include a fit patient aged:",
+   "opts": [
+    ">60 years",
+    "<60 years",
+    ">80 years only",
+    "<40 years"
+   ],
+   "ans": 0,
+   "exp": ">60 years (Book p378)"
+  },
+  {
+   "id": "SURG-C50-048",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Extended criteria also include >50 yrs plus ≥2 of the following, including:",
+   "opts": [
+    "Death d/t stroke",
+    "Death d/t trauma only",
+    "No comorbidity",
+    "Young age"
+   ],
+   "ans": 0,
+   "exp": "Death d/t stroke (Book p378)"
+  },
+  {
+   "id": "SURG-C50-049",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Extended donor criteria include history of:",
+   "opts": [
+    "Hypertension",
+    "Hypotension",
+    "Diabetes only",
+    "Asthma"
+   ],
+   "ans": 0,
+   "exp": "Hypertension (Book p378)"
+  },
+  {
+   "id": "SURG-C50-050",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Extended donor criteria include serum creatinine:",
+   "opts": [
+    ">1.5 mg/dL",
+    "<1.0 mg/dL",
+    "<0.5 mg/dL",
+    ">10 mg/dL"
+   ],
+   "ans": 0,
+   "exp": ">1.5 mg/dL (Book p378)"
+  },
+  {
+   "id": "SURG-C50-051",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Dual kidney transplantation uses a pair of marginal quality kidneys to provide:",
+   "opts": [
+    "Adequate nephron mass",
+    "Inadequate mass",
+    "Single nephron",
+    "No function"
+   ],
+   "ans": 0,
+   "exp": "Adequate nephron mass (Book p378)"
+  },
+  {
+   "id": "SURG-C50-052",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Dual kidneys are transplanted to:",
+   "opts": [
+    "One recipient",
+    "Two recipients",
+    "Three recipients",
+    "No recipient"
+   ],
+   "ans": 0,
+   "exp": "One recipient (Book p378)"
+  },
+  {
+   "id": "SURG-C50-053",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Dual kidneys are placed in the:",
+   "opts": [
+    "Same iliac fossa",
+    "Opposite fossae",
+    "Renal fossa",
+    "Thorax"
+   ],
+   "ans": 0,
+   "exp": "Same iliac fossa (Book p378)"
+  },
+  {
+   "id": "SURG-C50-054",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Dual transplantation is used in:",
+   "opts": [
+    "Extended criteria in patients (Donors)",
+    "Standard criteria only",
+    "Living donors only",
+    "Children only"
+   ],
+   "ans": 0,
+   "exp": "Extended criteria in patients (Donors) (Book p378)"
+  },
+  {
+   "id": "SURG-C50-055",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Investigations in a donor include:",
+   "opts": [
+    "ABO compatibility",
+    "Only age",
+    "Only weight",
+    "Only height"
+   ],
+   "ans": 0,
+   "exp": "ABO compatibility (Book p378)"
+  },
+  {
+   "id": "SURG-C50-056",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Donor workup includes:",
+   "opts": [
+    "Rh compatibility",
+    "ABO only",
+    "No blood grouping",
+    "Only HLA"
+   ],
+   "ans": 0,
+   "exp": "Rh compatibility (Book p378)"
+  },
+  {
+   "id": "SURG-C50-057",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "HLA compatibility loci are:",
+   "opts": [
+    "A, B, DR",
+    "A, B only",
+    "C, D only",
+    "X, Y"
+   ],
+   "ans": 0,
+   "exp": "A, B, DR (Book p378)"
+  },
+  {
+   "id": "SURG-C50-058",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "The most important HLA locus is:",
+   "opts": [
+    "DR",
+    "A",
+    "B",
+    "C"
+   ],
+   "ans": 0,
+   "exp": "DR (Book p378)"
+  },
+  {
+   "id": "SURG-C50-059",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "Donor workup includes:",
+   "opts": [
+    "KFT compatibility",
+    "LFT only",
+    "CBC only",
+    "ECG only"
+   ],
+   "ans": 0,
+   "exp": "KFT compatibility (Book p378)"
+  },
+  {
+   "id": "SURG-C50-060",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "On USG KUB, the preferred donor kidney is the:",
+   "opts": [
+    "Left kidney",
+    "Right kidney",
+    "Either equally",
+    "Horseshoe kidney"
+   ],
+   "ans": 0,
+   "exp": "Left kidney (Book p378)"
+  },
+  {
+   "id": "SURG-C50-061",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 378,
+   "q": "The left kidney is preferred due to a:",
+   "opts": [
+    "Longer renal vein",
+    "Shorter renal vein",
+    "Longer artery",
+    "Absent ureter"
+   ],
+   "ans": 0,
+   "exp": "Longer renal vein (Book p378)"
+  },
+  {
+   "id": "SURG-C50-062",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Renal transplant is heterotopic, placed in the:",
+   "opts": [
+    "Iliac fossa",
+    "Renal fossa",
+    "Pelvis midline",
+    "Thorax"
+   ],
+   "ans": 0,
+   "exp": "Iliac fossa (Book p379)"
+  },
+  {
+   "id": "SURG-C50-063",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "In a dead donor, a cusp of aorta can be:",
+   "opts": [
+    "Taken",
+    "Never taken",
+    "Ligated always",
+    "Discarded"
+   ],
+   "ans": 0,
+   "exp": "Taken (Book p379)"
+  },
+  {
+   "id": "SURG-C50-064",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "In a dead donor, the renal artery is anastomosed to the:",
+   "opts": [
+    "External iliac artery",
+    "Internal iliac artery",
+    "Aorta directly",
+    "Renal artery stump"
+   ],
+   "ans": 0,
+   "exp": "External iliac artery (Book p379)"
+  },
+  {
+   "id": "SURG-C50-065",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Dead-donor arterial anastomosis is:",
+   "opts": [
+    "End-to-side anastomosis",
+    "End-to-end anastomosis",
+    "Side-to-side",
+    "No anastomosis"
+   ],
+   "ans": 0,
+   "exp": "End-to-side anastomosis (Book p379)"
+  },
+  {
+   "id": "SURG-C50-066",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "In a live donor, the renal artery is anastomosed to the:",
+   "opts": [
+    "Internal iliac artery",
+    "External iliac artery",
+    "Aorta",
+    "Femoral artery"
+   ],
+   "ans": 0,
+   "exp": "Internal iliac artery (Book p379)"
+  },
+  {
+   "id": "SURG-C50-067",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Live-donor arterial anastomosis is:",
+   "opts": [
+    "End-to-end anastomosis",
+    "End-to-side anastomosis",
+    "Side-to-side",
+    "Patch graft"
+   ],
+   "ans": 0,
+   "exp": "End-to-end anastomosis (Book p379)"
+  },
+  {
+   "id": "SURG-C50-068",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "The renal vein is anastomosed to the:",
+   "opts": [
+    "External iliac vein",
+    "Internal iliac vein",
+    "IVC",
+    "Portal vein"
+   ],
+   "ans": 0,
+   "exp": "External iliac vein (Book p379)"
+  },
+  {
+   "id": "SURG-C50-069",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Renal vein anastomosis is:",
+   "opts": [
+    "End-to-side anastomosis",
+    "End-to-end anastomosis",
+    "Side-to-side",
+    "Ligated"
+   ],
+   "ans": 0,
+   "exp": "End-to-side anastomosis (Book p379)"
+  },
+  {
+   "id": "SURG-C50-070",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "The donor ureter is anastomosed to the:",
+   "opts": [
+    "Bladder",
+    "Ureter",
+    "Renal pelvis",
+    "Urethra"
+   ],
+   "ans": 0,
+   "exp": "Bladder (Book p379)"
+  },
+  {
+   "id": "SURG-C50-071",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Vascular anastomoses use:",
+   "opts": [
+    "Proline suture",
+    "Vicryl",
+    "Catgut",
+    "Silk"
+   ],
+   "ans": 0,
+   "exp": "Proline suture (Book p379)"
+  },
+  {
+   "id": "SURG-C50-072",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Ureteric anastomosis uses:",
+   "opts": [
+    "Vicryl (PDS)",
+    "Proline",
+    "Steel wire",
+    "Nylon"
+   ],
+   "ans": 0,
+   "exp": "Vicryl (PDS) (Book p379)"
+  },
+  {
+   "id": "SURG-C50-073",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Acute allograft dysfunction is a rise of serum creatinine >10% of baseline or:",
+   "opts": [
+    ">30 μmol/L",
+    ">300 μmol/L",
+    ">3 μmol/L",
+    ">130 μmol/L"
+   ],
+   "ans": 0,
+   "exp": ">30 μmol/L (Book p379)"
+  },
+  {
+   "id": "SURG-C50-074",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "A cause of early graft dysfunction is:",
+   "opts": [
+    "Acute rejection",
+    "Chronic rejection",
+    "Hyperacute rejection only",
+    "No rejection"
+   ],
+   "ans": 0,
+   "exp": "Acute rejection (Book p379)"
+  },
+  {
+   "id": "SURG-C50-075",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Early graft dysfunction may be due to:",
+   "opts": [
+    "Calcineurin inhibitor toxicity",
+    "Antibiotic toxicity",
+    "Vitamin deficiency",
+    "Steroid excess only"
+   ],
+   "ans": 0,
+   "exp": "Calcineurin inhibitor toxicity (Book p379)"
+  },
+  {
+   "id": "SURG-C50-076",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "A cause of early graft dysfunction is:",
+   "opts": [
+    "Dehydration",
+    "Overhydration",
+    "Hyperkalemia only",
+    "Anaemia only"
+   ],
+   "ans": 0,
+   "exp": "Dehydration (Book p379)"
+  },
+  {
+   "id": "SURG-C50-077",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Early graft dysfunction may follow:",
+   "opts": [
+    "Urinary tract infection or pyelonephritis",
+    "Pneumonia only",
+    "Meningitis",
+    "Cellulitis"
+   ],
+   "ans": 0,
+   "exp": "Urinary tract infection or pyelonephritis (Book p379)"
+  },
+  {
+   "id": "SURG-C50-078",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "A surgical cause of early graft dysfunction is:",
+   "opts": [
+    "Ureteric obstruction",
+    "Ureteric reflux only",
+    "Bladder stone",
+    "Meatal stenosis"
+   ],
+   "ans": 0,
+   "exp": "Ureteric obstruction (Book p379)"
+  },
+  {
+   "id": "SURG-C50-079",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Early graft dysfunction may be due to:",
+   "opts": [
+    "Renal vein or artery thrombosis",
+    "Renal cyst",
+    "Renal stone",
+    "Renal ptosis"
+   ],
+   "ans": 0,
+   "exp": "Renal vein or artery thrombosis (Book p379)"
+  },
+  {
+   "id": "SURG-C50-080",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "A cause of early graft dysfunction is:",
+   "opts": [
+    "Sepsis",
+    "Asepsis",
+    "Allergy",
+    "Asthma"
+   ],
+   "ans": 0,
+   "exp": "Sepsis (Book p379)"
+  },
+  {
+   "id": "SURG-C50-081",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "5-year graft survival with a live donor is:",
+   "opts": [
+    "90%",
+    "85%",
+    "70%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "90% (Book p379)"
+  },
+  {
+   "id": "SURG-C50-082",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "5-year graft survival with a dead donor is:",
+   "opts": [
+    "85%",
+    "90%",
+    "95%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "85% (Book p379)"
+  },
+  {
+   "id": "SURG-C50-083",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Graft survival improved due to:",
+   "opts": [
+    "Immunosuppression",
+    "No drugs",
+    "Only surgery",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Immunosuppression (Book p379)"
+  },
+  {
+   "id": "SURG-C50-084",
+   "sec": "Renal Transplantation: Indications, Donors and Technique",
+   "page": 379,
+   "q": "Graft survival improved due to better:",
+   "opts": [
+    "Surgical technique",
+    "No technique",
+    "Blind surgery",
+    "Open biopsy"
+   ],
+   "ans": 0,
+   "exp": "Surgical technique (Book p379)"
+  },
+  {
+   "id": "SURG-C50-085",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Hyperacute rejection is:",
+   "opts": [
+    "On table rejection",
+    "Rejection after 6 months",
+    "Rejection after a year",
+    "Chronic rejection"
+   ],
+   "ans": 0,
+   "exp": "On table rejection (Book p380)"
+  },
+  {
+   "id": "SURG-C50-086",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Hyperacute rejection shows a:",
+   "opts": [
+    "Dusky kidney",
+    "Pale kidney",
+    "Enlarged liver",
+    "Normal kidney"
+   ],
+   "ans": 0,
+   "exp": "Dusky kidney (Book p380)"
+  },
+  {
+   "id": "SURG-C50-087",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Hyperacute rejection causes:",
+   "opts": [
+    "No urine",
+    "Polyuria",
+    "Haematuria only",
+    "Pyuria"
+   ],
+   "ans": 0,
+   "exp": "No urine (Book p380)"
+  },
+  {
+   "id": "SURG-C50-088",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Hyperacute rejection is due to:",
+   "opts": [
+    "Pre-formed antibody",
+    "T-cells",
+    "No immunity",
+    "Drugs"
+   ],
+   "ans": 0,
+   "exp": "Pre-formed antibody (Book p380)"
+  },
+  {
+   "id": "SURG-C50-089",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The pre-formed antibody in hyperacute rejection is the:",
+   "opts": [
+    "HLA antibody",
+    "ABO antibody only",
+    "Rh antibody",
+    "Platelet antibody"
+   ],
+   "ans": 0,
+   "exp": "HLA antibody (Book p380)"
+  },
+  {
+   "id": "SURG-C50-090",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Hyperacute rejection is a:",
+   "opts": [
+    "Type II hypersensitivity reaction",
+    "Type I reaction",
+    "Type III reaction",
+    "Type IV reaction"
+   ],
+   "ans": 0,
+   "exp": "Type II hypersensitivity reaction (Book p380)"
+  },
+  {
+   "id": "SURG-C50-091",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Histology of hyperacute rejection shows:",
+   "opts": [
+    "Intravascular thrombosis",
+    "Glomerular sclerosis",
+    "Tubular atrophy only",
+    "Normal vessels"
+   ],
+   "ans": 0,
+   "exp": "Intravascular thrombosis (Book p380)"
+  },
+  {
+   "id": "SURG-C50-092",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Acute T-cell rejection:",
+   "opts": [
+    "Responds to immunosuppression",
+    "Never responds",
+    "Needs re-transplant",
+    "Is untreatable"
+   ],
+   "ans": 0,
+   "exp": "Responds to immunosuppression (Book p380)"
+  },
+  {
+   "id": "SURG-C50-093",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Acute antibody-mediated rejection has:",
+   "opts": [
+    "Less response to immunosuppression",
+    "Better response",
+    "No treatment needed",
+    "Spontaneous cure"
+   ],
+   "ans": 0,
+   "exp": "Less response to immunosuppression (Book p380)"
+  },
+  {
+   "id": "SURG-C50-094",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Chronic rejection occurs after:",
+   "opts": [
+    ">6 months",
+    "<1 week",
+    "On table",
+    "Within a day"
+   ],
+   "ans": 0,
+   "exp": ">6 months (Book p380)"
+  },
+  {
+   "id": "SURG-C50-095",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The most common type of rejection is:",
+   "opts": [
+    "Chronic",
+    "Hyperacute",
+    "Acute",
+    "No rejection"
+   ],
+   "ans": 0,
+   "exp": "Chronic (Book p380)"
+  },
+  {
+   "id": "SURG-C50-096",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Chronic rejection is a:",
+   "opts": [
+    "Type IV hypersensitivity",
+    "Type I hypersensitivity",
+    "Type II hypersensitivity",
+    "Type III hypersensitivity"
+   ],
+   "ans": 0,
+   "exp": "Type IV hypersensitivity (Book p380)"
+  },
+  {
+   "id": "SURG-C50-097",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Histology of chronic rejection shows:",
+   "opts": [
+    "Glomerular sclerosis",
+    "Intravascular thrombosis",
+    "Normal glomeruli",
+    "Acute tubular necrosis"
+   ],
+   "ans": 0,
+   "exp": "Glomerular sclerosis (Book p380)"
+  },
+  {
+   "id": "SURG-C50-098",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The histological classification of rejection is the:",
+   "opts": [
+    "Banff classification",
+    "Milan criteria",
+    "Child Pugh",
+    "MELD score"
+   ],
+   "ans": 0,
+   "exp": "Banff classification (Book p380)"
+  },
+  {
+   "id": "SURG-C50-099",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Biopsy type for kidney and liver rejection is:",
+   "opts": [
+    "Needle biopsy",
+    "Endoscopic mucosal biopsy",
+    "Subendocardial biopsy",
+    "Excision biopsy"
+   ],
+   "ans": 0,
+   "exp": "Needle biopsy (Book p380)"
+  },
+  {
+   "id": "SURG-C50-100",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Biopsy type for bowel rejection is:",
+   "opts": [
+    "Endoscopic mucosal biopsy",
+    "Needle biopsy",
+    "Subendocardial biopsy",
+    "Skin biopsy"
+   ],
+   "ans": 0,
+   "exp": "Endoscopic mucosal biopsy (Book p380)"
+  },
+  {
+   "id": "SURG-C50-101",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Biopsy type for heart rejection is:",
+   "opts": [
+    "Subendocardial biopsy through jugular vein",
+    "Needle biopsy",
+    "Endoscopic biopsy",
+    "Open biopsy"
+   ],
+   "ans": 0,
+   "exp": "Subendocardial biopsy through jugular vein (Book p380)"
+  },
+  {
+   "id": "SURG-C50-102",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The most common infection in the 1st month post-transplant is:",
+   "opts": [
+    "Bacterial infections",
+    "Viral infections",
+    "Fungal infections",
+    "Parasitic infections"
+   ],
+   "ans": 0,
+   "exp": "Bacterial infections (Book p380)"
+  },
+  {
+   "id": "SURG-C50-103",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The most common infection overall post-transplant is:",
+   "opts": [
+    "Viral infection",
+    "Bacterial infection",
+    "Fungal infection",
+    "Protozoal infection"
+   ],
+   "ans": 0,
+   "exp": "Viral infection (Book p380)"
+  },
+  {
+   "id": "SURG-C50-104",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The most common viral infection post-transplant is:",
+   "opts": [
+    "Cytomegalovirus",
+    "BK virus",
+    "EBV",
+    "Hepatitis B"
+   ],
+   "ans": 0,
+   "exp": "Cytomegalovirus (Book p380)"
+  },
+  {
+   "id": "SURG-C50-105",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "A viral infection post-transplant is:",
+   "opts": [
+    "BK virus",
+    "Staphylococcus",
+    "E. coli",
+    "Candida"
+   ],
+   "ans": 0,
+   "exp": "BK virus (Book p380)"
+  },
+  {
+   "id": "SURG-C50-106",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The most common malignancy post-transplant is:",
+   "opts": [
+    "Skin cancer",
+    "Breast cancer",
+    "Hematological cancer",
+    "Lung cancer"
+   ],
+   "ans": 0,
+   "exp": "Skin cancer (Book p380)"
+  },
+  {
+   "id": "SURG-C50-107",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Post-transplant skin cancer is commonly:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Basal cell carcinoma",
+    "Melanoma",
+    "Merkel cell"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (Book p380)"
+  },
+  {
+   "id": "SURG-C50-108",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "The 2nd most common malignancy post-transplant is:",
+   "opts": [
+    "Hematological",
+    "Skin",
+    "Breast",
+    "Colon"
+   ],
+   "ans": 0,
+   "exp": "Hematological (Book p380)"
+  },
+  {
+   "id": "SURG-C50-109",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Post renal transplant, breast cancer may occur as a:",
+   "opts": [
+    "Malignancy",
+    "Infection",
+    "Rejection",
+    "Vascular event"
+   ],
+   "ans": 0,
+   "exp": "Malignancy (Book p380)"
+  },
+  {
+   "id": "SURG-C50-110",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "Post transplant lympho-proliferative disorders (PTLD) are due to:",
+   "opts": [
+    "EBV",
+    "CMV",
+    "BK virus",
+    "HBV"
+   ],
+   "ans": 0,
+   "exp": "EBV (Book p380)"
+  },
+  {
+   "id": "SURG-C50-111",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "PTLD has a:",
+   "opts": [
+    "High mortality rate",
+    "Low mortality rate",
+    "No mortality",
+    "Benign course"
+   ],
+   "ans": 0,
+   "exp": "High mortality rate (Book p380)"
+  },
+  {
+   "id": "SURG-C50-112",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "CNS involvement in PTLD means:",
+   "opts": [
+    "Poor prognosis",
+    "Good prognosis",
+    "No significance",
+    "Cure"
+   ],
+   "ans": 0,
+   "exp": "Poor prognosis (Book p380)"
+  },
+  {
+   "id": "SURG-C50-113",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "PTLD involves:",
+   "opts": [
+    "B-cell mediated immunity",
+    "T-cell immunity only",
+    "No immunity",
+    "NK cells only"
+   ],
+   "ans": 0,
+   "exp": "B-cell mediated immunity (Book p380)"
+  },
+  {
+   "id": "SURG-C50-114",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "page": 380,
+   "q": "PTLD presents like infectious mononucleosis with:",
+   "opts": [
+    "Fever + lymphadenopathy",
+    "Jaundice + ascites",
+    "Chest pain + cough",
+    "Haematuria + pain"
+   ],
+   "ans": 0,
+   "exp": "Fever + lymphadenopathy (Book p380)"
+  },
+  {
+   "id": "SURG-C50-115",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Renal vein thrombosis is the:",
+   "opts": [
+    "Most common vascular complication",
+    "Least common complication",
+    "Rare event",
+    "Benign finding"
+   ],
+   "ans": 0,
+   "exp": "Most common vascular complication (Book p381)"
+  },
+  {
+   "id": "SURG-C50-116",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Renal vein thrombosis leads to:",
+   "opts": [
+    "Decreased graft function",
+    "Increased graft function",
+    "No change",
+    "Polyuria"
+   ],
+   "ans": 0,
+   "exp": "Decreased graft function (Book p381)"
+  },
+  {
+   "id": "SURG-C50-117",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Renal vein thrombosis is managed with:",
+   "opts": [
+    "Anticoagulants",
+    "Balloon dilatation",
+    "Re-transplantation",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Anticoagulants (Book p381)"
+  },
+  {
+   "id": "SURG-C50-118",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Renal artery stenosis has:",
+   "opts": [
+    "Gradual onset",
+    "Sudden onset",
+    "On-table onset",
+    "No onset"
+   ],
+   "ans": 0,
+   "exp": "Gradual onset (Book p381)"
+  },
+  {
+   "id": "SURG-C50-119",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Renal artery stenosis causes:",
+   "opts": [
+    "Hypertension",
+    "Hypotension",
+    "No BP change",
+    "Bradycardia"
+   ],
+   "ans": 0,
+   "exp": "Hypertension (Book p381)"
+  },
+  {
+   "id": "SURG-C50-120",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Renal artery stenosis decreases:",
+   "opts": [
+    "Graft function",
+    "Blood pressure",
+    "Creatinine",
+    "Proteinuria"
+   ],
+   "ans": 0,
+   "exp": "Graft function (Book p381)"
+  },
+  {
+   "id": "SURG-C50-121",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Renal artery stenosis is managed with:",
+   "opts": [
+    "Balloon dilatation",
+    "Anticoagulants",
+    "Re-transplantation",
+    "Nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Balloon dilatation (Book p381)"
+  },
+  {
+   "id": "SURG-C50-122",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Investigation for post-transplant vascular events is:",
+   "opts": [
+    "CT angiography",
+    "USG KUB",
+    "Plain X-ray",
+    "ECG"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p381)"
+  },
+  {
+   "id": "SURG-C50-123",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Diabetic nephropathy needs:",
+   "opts": [
+    "Combined kidney + pancreas transplantation (Tx)",
+    "Kidney alone always",
+    "Pancreas alone always",
+    "No transplant"
+   ],
+   "ans": 0,
+   "exp": "Combined kidney + pancreas transplantation (Tx) (Book p381)"
+  },
+  {
+   "id": "SURG-C50-124",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Bladder anastomosis of pancreatic transplant monitors function with:",
+   "opts": [
+    "Insulin",
+    "Glucagon",
+    "Somatostatin",
+    "Bile"
+   ],
+   "ans": 0,
+   "exp": "Insulin (Book p381)"
+  },
+  {
+   "id": "SURG-C50-125",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Bladder drainage also monitors:",
+   "opts": [
+    "Amylase",
+    "Lipase only",
+    "Trypsin only",
+    "Bilirubin"
+   ],
+   "ans": 0,
+   "exp": "Amylase (Book p381)"
+  },
+  {
+   "id": "SURG-C50-126",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Complications of bladder anastomosis begin in:",
+   "opts": [
+    "3–4 yrs",
+    "3–4 days",
+    "3–4 weeks",
+    "10 years"
+   ],
+   "ans": 0,
+   "exp": "3–4 yrs (Book p381)"
+  },
+  {
+   "id": "SURG-C50-127",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "On complications, bladder anastomosis is converted to:",
+   "opts": [
+    "Enteric anastomosis",
+    "Gastric anastomosis",
+    "No anastomosis",
+    "Skin anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Enteric anastomosis (Book p381)"
+  },
+  {
+   "id": "SURG-C50-128",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Enteric anastomosis is the:",
+   "opts": [
+    "Better procedure",
+    "Worse procedure",
+    "Obsolete procedure",
+    "Experimental procedure"
+   ],
+   "ans": 0,
+   "exp": "Better procedure (Book p381)"
+  },
+  {
+   "id": "SURG-C50-129",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "The disadvantage of enteric anastomosis is:",
+   "opts": [
+    "Difficult monitoring",
+    "Easy monitoring",
+    "No complications",
+    "Early failure"
+   ],
+   "ans": 0,
+   "exp": "Difficult monitoring (Book p381)"
+  },
+  {
+   "id": "SURG-C50-130",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "The most common cause for liver transplant in adults is:",
+   "opts": [
+    "Cirrhosis (D/t hep B, hep C, alcohol induced)",
+    "Acute liver failure",
+    "HCC only",
+    "Biliary atresia"
+   ],
+   "ans": 0,
+   "exp": "Cirrhosis (D/t hep B, hep C, alcohol induced) (Book p381)"
+  },
+  {
+   "id": "SURG-C50-131",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "The most common cause for liver transplant in children is:",
+   "opts": [
+    "Extrahepatic biliary atresia",
+    "Cirrhosis",
+    "Hepatitis B",
+    "Autoimmune hepatitis"
+   ],
+   "ans": 0,
+   "exp": "Extrahepatic biliary atresia (Book p381)"
+  },
+  {
+   "id": "SURG-C50-132",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "In liver transplantation, HLA matching is:",
+   "opts": [
+    "Not important",
+    "Most important",
+    "Mandatory",
+    "The only criterion"
+   ],
+   "ans": 0,
+   "exp": "Not important (Book p381)"
+  },
+  {
+   "id": "SURG-C50-133",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "In liver transplant, hyperacute rejection is:",
+   "opts": [
+    "Not seen",
+    "Common",
+    "Universal",
+    "The m/c type"
+   ],
+   "ans": 0,
+   "exp": "Not seen (Book p381)"
+  },
+  {
+   "id": "SURG-C50-134",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Child Pugh Class A score is:",
+   "opts": [
+    "5–6",
+    "7–9",
+    "10–15",
+    "0–4"
+   ],
+   "ans": 0,
+   "exp": "5–6 (Book p381)"
+  },
+  {
+   "id": "SURG-C50-135",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Child Pugh Class B score is:",
+   "opts": [
+    "7–9",
+    "5–6",
+    "10–15",
+    "16–20"
+   ],
+   "ans": 0,
+   "exp": "7–9 (Book p381)"
+  },
+  {
+   "id": "SURG-C50-136",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Child Pugh Class C score is:",
+   "opts": [
+    "10–15",
+    "5–6",
+    "7–9",
+    "0–5"
+   ],
+   "ans": 0,
+   "exp": "10–15 (Book p381)"
+  },
+  {
+   "id": "SURG-C50-137",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Liver transplantation is indicated for Child Pugh classes:",
+   "opts": [
+    "B and C (Tx)",
+    "A only",
+    "A and B",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "B and C (Tx) (Book p381)"
+  },
+  {
+   "id": "SURG-C50-138",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "MELD stands for:",
+   "opts": [
+    "Model for end stage liver disease",
+    "Malignant end stage lung disease",
+    "Metabolic end liver disorder",
+    "Model for early lung disease"
+   ],
+   "ans": 0,
+   "exp": "Model for end stage liver disease (Book p381)"
+  },
+  {
+   "id": "SURG-C50-139",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "MELD score is used in:",
+   "opts": [
+    "Adults",
+    "Children",
+    "Neonates",
+    "Animals"
+   ],
+   "ans": 0,
+   "exp": "Adults (Book p381)"
+  },
+  {
+   "id": "SURG-C50-140",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "PELD stands for:",
+   "opts": [
+    "Pediatric end stage liver disease",
+    "Adult end stage liver disease",
+    "Pulmonary end stage disease",
+    "Pancreatic end stage disease"
+   ],
+   "ans": 0,
+   "exp": "Pediatric end stage liver disease (Book p381)"
+  },
+  {
+   "id": "SURG-C50-141",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Milan criteria are an indicator for transplantation in:",
+   "opts": [
+    "Hepatocellular carcinoma",
+    "Cholangiocarcinoma",
+    "Cirrhosis",
+    "Biliary atresia"
+   ],
+   "ans": 0,
+   "exp": "Hepatocellular carcinoma (Book p381)"
+  },
+  {
+   "id": "SURG-C50-142",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Milan criteria: single tumour <5 cm plus no mets indicates:",
+   "opts": [
+    "Liver transplantation",
+    "No transplantation",
+    "Only chemotherapy",
+    "Only resection"
+   ],
+   "ans": 0,
+   "exp": "Liver transplantation (Book p381)"
+  },
+  {
+   "id": "SURG-C50-143",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "page": 381,
+   "q": "Milan criteria: 1–3 tumours <3 cm plus no mets indicates:",
+   "opts": [
+    "Liver transplantation",
+    "Palliative care only",
+    "No surgery",
+    "Only TACE"
+   ],
+   "ans": 0,
+   "exp": "Liver transplantation (Book p381)"
+  },
+  {
+   "id": "SURG-C50-144",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "King's college criteria are an indicator for treatment in:",
+   "opts": [
+    "Acute liver failure",
+    "Chronic liver failure",
+    "HCC",
+    "Cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "Acute liver failure (Book p382)"
+  },
+  {
+   "id": "SURG-C50-145",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Non-acetaminophen acute liver failure needs transplant if prothrombin time is:",
+   "opts": [
+    ">100 s",
+    ">50 sec",
+    ">18 sec",
+    ">10 s"
+   ],
+   "ans": 0,
+   "exp": ">100 s (Book p382)"
+  },
+  {
+   "id": "SURG-C50-146",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Alternatively, any 3 of the listed criteria including:",
+   "opts": [
+    "Non-A, non-B viral hepatitis",
+    "Hepatitis A",
+    "Hepatitis E",
+    "Alcoholic hepatitis"
+   ],
+   "ans": 0,
+   "exp": "Non-A, non-B viral hepatitis (Book p382)"
+  },
+  {
+   "id": "SURG-C50-147",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "A King's criterion is jaundice to encephalopathy:",
+   "opts": [
+    ">7 days",
+    "<7 days",
+    ">7 hours",
+    "<24 hours"
+   ],
+   "ans": 0,
+   "exp": ">7 days (Book p382)"
+  },
+  {
+   "id": "SURG-C50-148",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "A King's criterion is age:",
+   "opts": [
+    "<10 years or >40 years",
+    "20–30 years",
+    ">60 years only",
+    "<5 years only"
+   ],
+   "ans": 0,
+   "exp": "<10 years or >40 years (Book p382)"
+  },
+  {
+   "id": "SURG-C50-149",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "A King's criterion is prothrombin time:",
+   "opts": [
+    ">50 sec",
+    ">100 s",
+    "<50 sec",
+    ">18 sec"
+   ],
+   "ans": 0,
+   "exp": ">50 sec (Book p382)"
+  },
+  {
+   "id": "SURG-C50-150",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "A King's criterion is serum bilirubin:",
+   "opts": [
+    ">18 mg/dL",
+    ">1.8 mg/dL",
+    "<18 mg/dL",
+    ">180 mg/dL"
+   ],
+   "ans": 0,
+   "exp": ">18 mg/dL (Book p382)"
+  },
+  {
+   "id": "SURG-C50-151",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "A type of liver transplant is:",
+   "opts": [
+    "Dead donor",
+    "Xeno donor",
+    "No donor",
+    "Skin donor"
+   ],
+   "ans": 0,
+   "exp": "Dead donor (Book p382)"
+  },
+  {
+   "id": "SURG-C50-152",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "A type of liver transplant is:",
+   "opts": [
+    "Live donor",
+    "Dead donor only",
+    "No donor",
+    "Cadaver skin"
+   ],
+   "ans": 0,
+   "exp": "Live donor (Book p382)"
+  },
+  {
+   "id": "SURG-C50-153",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Split and reduced liver transplant divides the liver into segments:",
+   "opts": [
+    "IV to VIII & II, III",
+    "I to III & IV",
+    "V to VI only",
+    "No segments"
+   ],
+   "ans": 0,
+   "exp": "IV to VIII & II, III (Book p382)"
+  },
+  {
+   "id": "SURG-C50-154",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Segments IV to VIII are transplanted to an:",
+   "opts": [
+    "Adult",
+    "Child",
+    "Infant",
+    "Animal"
+   ],
+   "ans": 0,
+   "exp": "Adult (Book p382)"
+  },
+  {
+   "id": "SURG-C50-155",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Segments II, III are transplanted to a:",
+   "opts": [
+    "Child",
+    "Adult",
+    "Elderly",
+    "Donor"
+   ],
+   "ans": 0,
+   "exp": "Child (Book p382)"
+  },
+  {
+   "id": "SURG-C50-156",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Extended donor criteria for liver include:",
+   "opts": [
+    "Advanced donor age",
+    "Young age",
+    "No disease",
+    "Ideal organs"
+   ],
+   "ans": 0,
+   "exp": "Advanced donor age (Book p382)"
+  },
+  {
+   "id": "SURG-C50-157",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Extended liver donor criteria include:",
+   "opts": [
+    "Organ dysfunction",
+    "Normal organs",
+    "No infection",
+    "Young donor"
+   ],
+   "ans": 0,
+   "exp": "Organ dysfunction (Book p382)"
+  },
+  {
+   "id": "SURG-C50-158",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Extended liver donor criteria include infections like:",
+   "opts": [
+    "Hepatitis",
+    "UTI",
+    "Pneumonia",
+    "Skin infection"
+   ],
+   "ans": 0,
+   "exp": "Hepatitis (Book p382)"
+  },
+  {
+   "id": "SURG-C50-159",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Auxiliary liver transplant is a piggy back transplant in:",
+   "opts": [
+    "Fulminant liver failure",
+    "Chronic failure",
+    "HCC",
+    "Cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "Fulminant liver failure (Book p382)"
+  },
+  {
+   "id": "SURG-C50-160",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "In auxiliary transplant, the diseased liver is:",
+   "opts": [
+    "Not removed",
+    "Removed",
+    "Resected partially",
+    "Biopsied only"
+   ],
+   "ans": 0,
+   "exp": "Not removed (Book p382)"
+  },
+  {
+   "id": "SURG-C50-161",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Domino liver transplant transplants the liver of a patient with systemic disease to another patient, Eg:",
+   "opts": [
+    "Amyloidosis, HIV",
+    "Cirrhosis, HCC",
+    "Biliary atresia",
+    "Hepatitis"
+   ],
+   "ans": 0,
+   "exp": "Amyloidosis, HIV (Book p382)"
+  },
+  {
+   "id": "SURG-C50-162",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "In the paired exchange programme, donors A/B and recipients A'/B':",
+   "opts": [
+    "Do not match one another",
+    "Match each other",
+    "Need no matching",
+    "Are identical twins"
+   ],
+   "ans": 0,
+   "exp": "Do not match one another (Book p382)"
+  },
+  {
+   "id": "SURG-C50-163",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 382,
+   "q": "Hence in paired exchange, each donor:",
+   "opts": [
+    "Matches the other, so transplant pair exchanged",
+    "Donates to self",
+    "Is rejected",
+    "Waits for a cadaver"
+   ],
+   "ans": 0,
+   "exp": "Matches the other, so transplant pair exchanged (Book p382)"
+  },
+  {
+   "id": "SURG-C50-164",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "First anastomosis in liver transplant sequence is the:",
+   "opts": [
+    "Suprahepatic IVC",
+    "Infrahepatic IVC",
+    "Portal vein",
+    "Bile duct"
+   ],
+   "ans": 0,
+   "exp": "Suprahepatic IVC (Book p383)"
+  },
+  {
+   "id": "SURG-C50-165",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Second in liver transplant sequence is the:",
+   "opts": [
+    "Infrahepatic IVC",
+    "Suprahepatic IVC",
+    "Hepatic artery",
+    "Bile duct"
+   ],
+   "ans": 0,
+   "exp": "Infrahepatic IVC (Book p383)"
+  },
+  {
+   "id": "SURG-C50-166",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Third in liver transplant sequence is the:",
+   "opts": [
+    "Portal vein",
+    "Hepatic artery",
+    "Bile duct",
+    "Suprahepatic IVC"
+   ],
+   "ans": 0,
+   "exp": "Portal vein (Book p383)"
+  },
+  {
+   "id": "SURG-C50-167",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Fourth in liver transplant sequence is the:",
+   "opts": [
+    "Hepatic artery",
+    "Portal vein",
+    "Bile duct",
+    "IVC"
+   ],
+   "ans": 0,
+   "exp": "Hepatic artery (Book p383)"
+  },
+  {
+   "id": "SURG-C50-168",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Vascular anastomoses in liver transplant use:",
+   "opts": [
+    "Proline suture",
+    "PDS",
+    "Vicryl",
+    "Catgut"
+   ],
+   "ans": 0,
+   "exp": "Proline suture (Book p383)"
+  },
+  {
+   "id": "SURG-C50-169",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Fifth in liver transplant sequence is the:",
+   "opts": [
+    "Bile duct",
+    "Portal vein",
+    "Hepatic artery",
+    "IVC"
+   ],
+   "ans": 0,
+   "exp": "Bile duct (Book p383)"
+  },
+  {
+   "id": "SURG-C50-170",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Bile duct anastomosis uses:",
+   "opts": [
+    "PDS (monofilament absorbable sutures)",
+    "Proline",
+    "Silk",
+    "Steel"
+   ],
+   "ans": 0,
+   "exp": "PDS (monofilament absorbable sutures) (Book p383)"
+  },
+  {
+   "id": "SURG-C50-171",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "In liver transplant there is:",
+   "opts": [
+    "No hyperacute rejection",
+    "Hyperacute rejection always",
+    "Chronic rejection only",
+    "No rejection at all"
+   ],
+   "ans": 0,
+   "exp": "No hyperacute rejection (Book p383)"
+  },
+  {
+   "id": "SURG-C50-172",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Acute liver rejection is:",
+   "opts": [
+    "Reduced by effective immunosuppression",
+    "Increased by immunosuppression",
+    "Untreatable",
+    "Always fatal"
+   ],
+   "ans": 0,
+   "exp": "Reduced by effective immunosuppression (Book p383)"
+  },
+  {
+   "id": "SURG-C50-173",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "The most common liver rejection is:",
+   "opts": [
+    "Chronic",
+    "Hyperacute",
+    "Acute",
+    "No rejection"
+   ],
+   "ans": 0,
+   "exp": "Chronic (Book p383)"
+  },
+  {
+   "id": "SURG-C50-174",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Chronic liver rejection occurs:",
+   "opts": [
+    "After 6 months",
+    "On table",
+    "Within a week",
+    "Within a day"
+   ],
+   "ans": 0,
+   "exp": "After 6 months (Book p383)"
+  },
+  {
+   "id": "SURG-C50-175",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Biopsy of chronic liver rejection shows:",
+   "opts": [
+    "Vanishing duct syndrome",
+    "Glomerular sclerosis",
+    "Intravascular thrombosis",
+    "Normal ducts"
+   ],
+   "ans": 0,
+   "exp": "Vanishing duct syndrome (Book p383)"
+  },
+  {
+   "id": "SURG-C50-176",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "The most common vascular complication after liver transplant is:",
+   "opts": [
+    "Hepatic artery thrombosis",
+    "Portal vein thrombosis",
+    "IVC thrombosis",
+    "Biliary stricture"
+   ],
+   "ans": 0,
+   "exp": "Hepatic artery thrombosis (Book p383)"
+  },
+  {
+   "id": "SURG-C50-177",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Hepatic artery thrombosis presents as:",
+   "opts": [
+    "Acute rejection/acute liver failure",
+    "Chronic rejection",
+    "Bile leak only",
+    "No symptoms"
+   ],
+   "ans": 0,
+   "exp": "Acute rejection/acute liver failure (Book p383)"
+  },
+  {
+   "id": "SURG-C50-178",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Hepatic artery thrombosis is managed with:",
+   "opts": [
+    "Anticoagulants",
+    "Balloon dilatation",
+    "Observation",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Anticoagulants (Book p383)"
+  },
+  {
+   "id": "SURG-C50-179",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Failure to respond in hepatic artery thrombosis needs:",
+   "opts": [
+    "Re-transplantation",
+    "Only antibiotics",
+    "Discharge",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Re-transplantation (Book p383)"
+  },
+  {
+   "id": "SURG-C50-180",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "A biliary complication after liver transplant is:",
+   "opts": [
+    "Biliary stricture",
+    "Bile duct dilatation",
+    "Gallstones",
+    "No complication"
+   ],
+   "ans": 0,
+   "exp": "Biliary stricture (Book p383)"
+  },
+  {
+   "id": "SURG-C50-181",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Recurrence of disease after liver transplant includes:",
+   "opts": [
+    "Hepatitis B and C",
+    "Hepatitis A only",
+    "No recurrence",
+    "Malaria"
+   ],
+   "ans": 0,
+   "exp": "Hepatitis B and C (Book p383)"
+  },
+  {
+   "id": "SURG-C50-182",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Recurrent disease after liver transplant includes:",
+   "opts": [
+    "1° biliary cholangitis",
+    "Acute appendicitis",
+    "Pneumonia",
+    "UTI"
+   ],
+   "ans": 0,
+   "exp": "1° biliary cholangitis (Book p383)"
+  },
+  {
+   "id": "SURG-C50-183",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Recurrence after liver transplant includes:",
+   "opts": [
+    "Sclerosing cholangitis",
+    "Sclerosing pancreatitis",
+    "Normal ducts",
+    "No disease"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing cholangitis (Book p383)"
+  },
+  {
+   "id": "SURG-C50-184",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Recurrent disease includes:",
+   "opts": [
+    "Autoimmune hepatitis",
+    "Alcoholic hepatitis",
+    "Drug hepatitis only",
+    "Ischemic hepatitis"
+   ],
+   "ans": 0,
+   "exp": "Autoimmune hepatitis (Book p383)"
+  },
+  {
+   "id": "SURG-C50-185",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Recurrence includes:",
+   "opts": [
+    "Non-alcoholic fatty liver disease",
+    "Alcoholic liver only",
+    "No fat",
+    "Viral hepatitis only"
+   ],
+   "ans": 0,
+   "exp": "Non-alcoholic fatty liver disease (Book p383)"
+  },
+  {
+   "id": "SURG-C50-186",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Recurrent disease includes:",
+   "opts": [
+    "Budd-chiari syndrome",
+    "Budd-chiari never recurs",
+    "Portal hypertension only",
+    "Splenomegaly only"
+   ],
+   "ans": 0,
+   "exp": "Budd-chiari syndrome (Book p383)"
+  },
+  {
+   "id": "SURG-C50-187",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Recurrence after liver transplant includes:",
+   "opts": [
+    "Malignant tumours",
+    "No tumours",
+    "Benign tumours only",
+    "Cysts only"
+   ],
+   "ans": 0,
+   "exp": "Malignant tumours (Book p383)"
+  },
+  {
+   "id": "SURG-C50-188",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "page": 383,
+   "q": "Infections, malignancy and PTLD after liver transplant are:",
+   "opts": [
+    "Same as renal Tx",
+    "Never seen",
+    "Different always",
+    "Fatal always"
+   ],
+   "ans": 0,
+   "exp": "Same as renal Tx (Book p383)"
+  },
+  {
+   "id": "SURG-C50-189",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 383,
+   "q": "A heart transplant criterion is:",
+   "opts": [
+    "Impaired left ventricular systolic function",
+    "Normal LV function",
+    "Right ventricular failure only",
+    "Normal heart"
+   ],
+   "ans": 0,
+   "exp": "Impaired left ventricular systolic function (Book p383)"
+  },
+  {
+   "id": "SURG-C50-190",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 383,
+   "q": "Heart transplant needs NYHA class:",
+   "opts": [
+    "III",
+    "I",
+    "II",
+    "IV only"
+   ],
+   "ans": 0,
+   "exp": "III (Book p383)"
+  },
+  {
+   "id": "SURG-C50-191",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 383,
+   "q": "Heart transplant patients are:",
+   "opts": [
+    "Receiving optimal medical therapy",
+    "Drug naive",
+    "Untreated",
+    "On no drugs"
+   ],
+   "ans": 0,
+   "exp": "Receiving optimal medical therapy (Book p383)"
+  },
+  {
+   "id": "SURG-C50-192",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 383,
+   "q": "Heart transplant criteria include resynchronisation pacing or:",
+   "opts": [
+    "Implantable defibrillator device",
+    "Pacemaker removal",
+    "No device",
+    "Stent only"
+   ],
+   "ans": 0,
+   "exp": "Implantable defibrillator device (Book p383)"
+  },
+  {
+   "id": "SURG-C50-193",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 383,
+   "q": "Heart transplant is for patients with:",
+   "opts": [
+    "Poor prognosis",
+    "Good prognosis",
+    "No symptoms",
+    "Mild disease"
+   ],
+   "ans": 0,
+   "exp": "Poor prognosis (Book p383)"
+  },
+  {
+   "id": "SURG-C50-194",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "First anastomosis in heart transplant sequence is the:",
+   "opts": [
+    "Left atrium",
+    "Right atrium",
+    "Pulmonary artery",
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "Left atrium (Book p384)"
+  },
+  {
+   "id": "SURG-C50-195",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Second in heart transplant sequence is the:",
+   "opts": [
+    "Right atrium",
+    "Left atrium",
+    "Aorta",
+    "Pulmonary vein"
+   ],
+   "ans": 0,
+   "exp": "Right atrium (Book p384)"
+  },
+  {
+   "id": "SURG-C50-196",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Third in heart transplant sequence is the:",
+   "opts": [
+    "Pulmonary artery",
+    "Aorta",
+    "Left atrium",
+    "Right atrium"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary artery (Book p384)"
+  },
+  {
+   "id": "SURG-C50-197",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Fourth in heart transplant sequence is the:",
+   "opts": [
+    "Aorta",
+    "Pulmonary artery",
+    "Left atrium",
+    "IVC"
+   ],
+   "ans": 0,
+   "exp": "Aorta (Book p384)"
+  },
+  {
+   "id": "SURG-C50-198",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Heart rejection is monitored by:",
+   "opts": [
+    "Subendocardial biopsy through jugular route",
+    "Needle biopsy",
+    "Endoscopic biopsy",
+    "Open biopsy"
+   ],
+   "ans": 0,
+   "exp": "Subendocardial biopsy through jugular route (Book p384)"
+  },
+  {
+   "id": "SURG-C50-199",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung donor investigations need a:",
+   "opts": [
+    "Clear chest radiograph",
+    "Abnormal radiograph",
+    "CT only",
+    "No imaging"
+   ],
+   "ans": 0,
+   "exp": "Clear chest radiograph (Book p384)"
+  },
+  {
+   "id": "SURG-C50-200",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung donors need negative gram stain of:",
+   "opts": [
+    "Bronchial/purulent secretion",
+    "Blood",
+    "Urine",
+    "Sputum only"
+   ],
+   "ans": 0,
+   "exp": "Bronchial/purulent secretion (Book p384)"
+  },
+  {
+   "id": "SURG-C50-201",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung donors need arterial O2 tension:",
+   "opts": [
+    ">300 mmHg",
+    "<300 mmHg",
+    ">100 mmHg",
+    "<100 mmHg"
+   ],
+   "ans": 0,
+   "exp": ">300 mmHg (Book p384)"
+  },
+  {
+   "id": "SURG-C50-202",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung donor history: age:",
+   "opts": [
+    "<55 yrs",
+    ">55 yrs",
+    "<18 yrs",
+    ">70 yrs"
+   ],
+   "ans": 0,
+   "exp": "<55 yrs (Book p384)"
+  },
+  {
+   "id": "SURG-C50-203",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung donor smoking history:",
+   "opts": [
+    "<20 pack-years",
+    ">20 pack-years",
+    "Any smoking",
+    "No limit"
+   ],
+   "ans": 0,
+   "exp": "<20 pack-years (Book p384)"
+  },
+  {
+   "id": "SURG-C50-204",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung donors must have no:",
+   "opts": [
+    "Chest trauma, aspiration, pneumonia",
+    "Smoking history",
+    "Any age limit",
+    "O2 requirement"
+   ],
+   "ans": 0,
+   "exp": "Chest trauma, aspiration, pneumonia (Book p384)"
+  },
+  {
+   "id": "SURG-C50-205",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "A disease requiring lung transplant is:",
+   "opts": [
+    "B/L cystic fibrosis",
+    "Asthma",
+    "Pneumonia",
+    "TB"
+   ],
+   "ans": 0,
+   "exp": "B/L cystic fibrosis (Book p384)"
+  },
+  {
+   "id": "SURG-C50-206",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung transplant is needed for:",
+   "opts": [
+    "Interstitial lung disease",
+    "COPD only",
+    "Asthma",
+    "Bronchitis"
+   ],
+   "ans": 0,
+   "exp": "Interstitial lung disease (Book p384)"
+  },
+  {
+   "id": "SURG-C50-207",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung transplant is indicated in:",
+   "opts": [
+    "Emphysema/COPD",
+    "Pneumonia",
+    "Pleurisy",
+    "Pneumothorax"
+   ],
+   "ans": 0,
+   "exp": "Emphysema/COPD (Book p384)"
+  },
+  {
+   "id": "SURG-C50-208",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung transplant is needed for:",
+   "opts": [
+    "Pulmonary hypertension",
+    "Systemic hypertension",
+    "Hypotension",
+    "Aortic stenosis"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary hypertension (Book p384)"
+  },
+  {
+   "id": "SURG-C50-209",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Pulmonary hypertension can need combined heart-lung transplantation if associated with:",
+   "opts": [
+    "Congenital heart disease",
+    "Acquired disease",
+    "No heart disease",
+    "Coronary disease"
+   ],
+   "ans": 0,
+   "exp": "Congenital heart disease (Book p384)"
+  },
+  {
+   "id": "SURG-C50-210",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "First in lung transplant sequence: pulmonary vein with cuff of left atrium to:",
+   "opts": [
+    "Left atrium of recipient",
+    "Right atrium",
+    "Pulmonary artery",
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "Left atrium of recipient (Book p384)"
+  },
+  {
+   "id": "SURG-C50-211",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Lung transplant sequence includes:",
+   "opts": [
+    "Bronchial anastomosis",
+    "Tracheal resection",
+    "Lobectomy",
+    "Pneumonectomy"
+   ],
+   "ans": 0,
+   "exp": "Bronchial anastomosis (Book p384)"
+  },
+  {
+   "id": "SURG-C50-212",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Last in lung transplant sequence is the:",
+   "opts": [
+    "Pulmonary artery",
+    "Pulmonary vein",
+    "Bronchus",
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary artery (Book p384)"
+  },
+  {
+   "id": "SURG-C50-213",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Small bowel transplant challenge is:",
+   "opts": [
+    "Large lymphoid tissue",
+    "Small lymphoid tissue",
+    "No lymphoid tissue",
+    "Avascular tissue"
+   ],
+   "ans": 0,
+   "exp": "Large lymphoid tissue (Book p384)"
+  },
+  {
+   "id": "SURG-C50-214",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Large lymphoid tissue increases the risk of:",
+   "opts": [
+    "Rejection",
+    "Infection only",
+    "Bleeding",
+    "No risk"
+   ],
+   "ans": 0,
+   "exp": "Rejection (Book p384)"
+  },
+  {
+   "id": "SURG-C50-215",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Small bowel transplant risks:",
+   "opts": [
+    "Graft vs host reaction",
+    "No immune risk",
+    "Only infection",
+    "Only bleeding"
+   ],
+   "ans": 0,
+   "exp": "Graft vs host reaction (Book p384)"
+  },
+  {
+   "id": "SURG-C50-216",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Ischemia & rejection increase intestinal permeability and risk of:",
+   "opts": [
+    "Bacterial infections",
+    "Viral infections",
+    "Fungal infections",
+    "No infections"
+   ],
+   "ans": 0,
+   "exp": "Bacterial infections (Book p384)"
+  },
+  {
+   "id": "SURG-C50-217",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Graft rejection and infection in small bowel transplant give:",
+   "opts": [
+    "Poor outcomes",
+    "Good outcomes",
+    "No effect",
+    "Cure"
+   ],
+   "ans": 0,
+   "exp": "Poor outcomes (Book p384)"
+  },
+  {
+   "id": "SURG-C50-218",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Indication for small bowel transplant is short bowel syndrome requiring:",
+   "opts": [
+    "Long term total parenteral nutrition (TPN)",
+    "Short term TPN",
+    "No TPN",
+    "Enteral feeds"
+   ],
+   "ans": 0,
+   "exp": "Long term total parenteral nutrition (TPN) (Book p384)"
+  },
+  {
+   "id": "SURG-C50-219",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Isolated small bowel transplant uses:",
+   "opts": [
+    "Jejunum or ileum",
+    "Duodenum only",
+    "Colon only",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Jejunum or ileum (Book p384)"
+  },
+  {
+   "id": "SURG-C50-220",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Combined small bowel + liver transplant is indicated for:",
+   "opts": [
+    "Liver dysfunction d/t long term TPN",
+    "Normal liver",
+    "Acute liver failure",
+    "HCC"
+   ],
+   "ans": 0,
+   "exp": "Liver dysfunction d/t long term TPN (Book p384)"
+  },
+  {
+   "id": "SURG-C50-221",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 384,
+   "q": "Multivisceral transplants are called:",
+   "opts": [
+    "Cluster transplants",
+    "Split transplants",
+    "Domino transplants",
+    "Paired exchange"
+   ],
+   "ans": 0,
+   "exp": "Cluster transplants (Book p384)"
+  },
+  {
+   "id": "SURG-C50-222",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Early complications of small bowel transplant include:",
+   "opts": [
+    "Vascular",
+    "Chronic rejection",
+    "Hernias",
+    "Thrombosis only"
+   ],
+   "ans": 0,
+   "exp": "Vascular (Book p385)"
+  },
+  {
+   "id": "SURG-C50-223",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "An early complication is:",
+   "opts": [
+    "Anastomotic leaks",
+    "Chronic rejection",
+    "Hernias",
+    "Thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Anastomotic leaks (Book p385)"
+  },
+  {
+   "id": "SURG-C50-224",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Early complications include:",
+   "opts": [
+    "Abdominal collections",
+    "Late hernias",
+    "Chronic rejection",
+    "No collections"
+   ],
+   "ans": 0,
+   "exp": "Abdominal collections (Book p385)"
+  },
+  {
+   "id": "SURG-C50-225",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "An early complication is:",
+   "opts": [
+    "Pancreatitis",
+    "Hepatitis",
+    "Cholecystitis",
+    "Appendicitis"
+   ],
+   "ans": 0,
+   "exp": "Pancreatitis (Book p385)"
+  },
+  {
+   "id": "SURG-C50-226",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Early complications include:",
+   "opts": [
+    "Renal impairment",
+    "Hepatic failure",
+    "No renal issues",
+    "Polyuria"
+   ],
+   "ans": 0,
+   "exp": "Renal impairment (Book p385)"
+  },
+  {
+   "id": "SURG-C50-227",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Early complications include:",
+   "opts": [
+    "Stomal complications",
+    "No stomal issues",
+    "Late hernias",
+    "Chronic rejection"
+   ],
+   "ans": 0,
+   "exp": "Stomal complications (Book p385)"
+  },
+  {
+   "id": "SURG-C50-228",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Early complications include:",
+   "opts": [
+    "Drug related",
+    "No drug effects",
+    "Late effects",
+    "Surgical only"
+   ],
+   "ans": 0,
+   "exp": "Drug related (Book p385)"
+  },
+  {
+   "id": "SURG-C50-229",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Early complications include:",
+   "opts": [
+    "GVHD",
+    "No immunity",
+    "Late only",
+    "Chronic only"
+   ],
+   "ans": 0,
+   "exp": "GVHD (Book p385)"
+  },
+  {
+   "id": "SURG-C50-230",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Early complications include:",
+   "opts": [
+    "PTLD",
+    "No tumours",
+    "Late only",
+    "Benign only"
+   ],
+   "ans": 0,
+   "exp": "PTLD (Book p385)"
+  },
+  {
+   "id": "SURG-C50-231",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Late complications of small bowel transplant include:",
+   "opts": [
+    "Thrombosis",
+    "Anastomotic leaks",
+    "Abdominal collections",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Thrombosis (Book p385)"
+  },
+  {
+   "id": "SURG-C50-232",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "A late complication is:",
+   "opts": [
+    "Renal impairment",
+    "Acute rejection",
+    "Anastomotic leak",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Renal impairment (Book p385)"
+  },
+  {
+   "id": "SURG-C50-233",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Late complications include:",
+   "opts": [
+    "Hernias",
+    "Leaks",
+    "Collections",
+    "Stomal issues"
+   ],
+   "ans": 0,
+   "exp": "Hernias (Book p385)"
+  },
+  {
+   "id": "SURG-C50-234",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "A late complication is:",
+   "opts": [
+    "Chronic rejection",
+    "Hyperacute rejection",
+    "Acute rejection",
+    "No rejection"
+   ],
+   "ans": 0,
+   "exp": "Chronic rejection (Book p385)"
+  },
+  {
+   "id": "SURG-C50-235",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Late complications include:",
+   "opts": [
+    "PTLD",
+    "No tumours",
+    "Benign polyps",
+    "Skin cancer"
+   ],
+   "ans": 0,
+   "exp": "PTLD (Book p385)"
+  },
+  {
+   "id": "SURG-C50-236",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "1 year graft survival in small bowel transplant is:",
+   "opts": [
+    "80%",
+    "70%",
+    "90%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "80% (Book p385)"
+  },
+  {
+   "id": "SURG-C50-237",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "3 year survival in small bowel transplant is:",
+   "opts": [
+    "70%",
+    "80%",
+    "90%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "70% (Book p385)"
+  },
+  {
+   "id": "SURG-C50-238",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Small bowel transplant has high incidence of:",
+   "opts": [
+    "Lymphoproliferative disease (PTLD, Lymphomas)",
+    "No tumours",
+    "Skin cancer",
+    "Breast cancer"
+   ],
+   "ans": 0,
+   "exp": "Lymphoproliferative disease (PTLD, Lymphomas) (Book p385)"
+  },
+  {
+   "id": "SURG-C50-239",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "Graft vs host disease is active white cells in donor organs that:",
+   "opts": [
+    "Attack immunocompromised recipient",
+    "Protect the recipient",
+    "Attack the donor",
+    "Cause no harm"
+   ],
+   "ans": 0,
+   "exp": "Attack immunocompromised recipient (Book p385)"
+  },
+  {
+   "id": "SURG-C50-240",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "GVHD is seen in:",
+   "opts": [
+    "Small intestinal transplant",
+    "Kidney transplant",
+    "Liver transplant",
+    "Heart transplant"
+   ],
+   "ans": 0,
+   "exp": "Small intestinal transplant (Book p385)"
+  },
+  {
+   "id": "SURG-C50-241",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "GVHD is also seen in:",
+   "opts": [
+    "Bone marrow transplant",
+    "Corneal transplant",
+    "Skin graft",
+    "Heart valves"
+   ],
+   "ans": 0,
+   "exp": "Bone marrow transplant (Book p385)"
+  },
+  {
+   "id": "SURG-C50-242",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "A clinical feature of GVHD is:",
+   "opts": [
+    "Extensive rash",
+    "No rash",
+    "Jaundice only",
+    "Fever only"
+   ],
+   "ans": 0,
+   "exp": "Extensive rash (Book p385)"
+  },
+  {
+   "id": "SURG-C50-243",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "GI disturbances in GVHD include:",
+   "opts": [
+    "Diarrhoea",
+    "Constipation",
+    "Vomiting only",
+    "No GI symptoms"
+   ],
+   "ans": 0,
+   "exp": "Diarrhoea (Book p385)"
+  },
+  {
+   "id": "SURG-C50-244",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "GVHD causes:",
+   "opts": [
+    "Protein losing enteropathy",
+    "Protein gain",
+    "No enteropathy",
+    "Malabsorption never"
+   ],
+   "ans": 0,
+   "exp": "Protein losing enteropathy (Book p385)"
+  },
+  {
+   "id": "SURG-C50-245",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "GVHD causes:",
+   "opts": [
+    "Edema",
+    "Dehydration",
+    "Weight loss only",
+    "No swelling"
+   ],
+   "ans": 0,
+   "exp": "Edema (Book p385)"
+  },
+  {
+   "id": "SURG-C50-246",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "page": 385,
+   "q": "GVHD causes:",
+   "opts": [
+    "Liver dysfunction",
+    "Normal liver",
+    "Renal failure",
+    "Lung fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Liver dysfunction (Book p385)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U50-1",
+   "ch": 50,
+   "n": 1,
+   "title": "Types of Grafts, Donors and Maastricht Classification",
+   "sec": "Types of Grafts, Donors and Maastricht Classification · p377",
+   "qs": [
+    "SURG-C50-001",
+    "SURG-C50-002",
+    "SURG-C50-003",
+    "SURG-C50-004",
+    "SURG-C50-005",
+    "SURG-C50-006",
+    "SURG-C50-007",
+    "SURG-C50-008",
+    "SURG-C50-009",
+    "SURG-C50-010",
+    "SURG-C50-011",
+    "SURG-C50-012",
+    "SURG-C50-013",
+    "SURG-C50-014",
+    "SURG-C50-015",
+    "SURG-C50-016",
+    "SURG-C50-017",
+    "SURG-C50-018",
+    "SURG-C50-019"
+   ],
+   "guide": "Autografts stay within one person, isografts pass between identical twins, allografts within a species and xenografts across species, harvested from living or dead donors. Maastricht grades dead donors from uncontrolled dead-on-arrival and failed resuscitation yielding valves, corneas and kidneys, to controlled anticipated and brain-dead arrests plus uncontrolled in-hospital arrests that can give all organs except the heart."
+  },
+  {
+   "id": "SURG-U50-2",
+   "ch": 50,
+   "n": 2,
+   "title": "Storage, Cold Ischemia and Machine Perfusion",
+   "sec": "Storage, Cold Ischemia and Machine Perfusion · p377",
+   "qs": [
+    "SURG-C50-020",
+    "SURG-C50-021",
+    "SURG-C50-022",
+    "SURG-C50-023",
+    "SURG-C50-024",
+    "SURG-C50-025",
+    "SURG-C50-026",
+    "SURG-C50-027",
+    "SURG-C50-028",
+    "SURG-C50-029",
+    "SURG-C50-030",
+    "SURG-C50-031",
+    "SURG-C50-032",
+    "SURG-C50-033",
+    "SURG-C50-034",
+    "SURG-C50-035",
+    "SURG-C50-036",
+    "SURG-C50-037",
+    "SURG-C50-038",
+    "SURG-C50-039",
+    "SURG-C50-040",
+    "SURG-C50-041",
+    "SURG-C50-042",
+    "SURG-C50-043",
+    "SURG-C50-044"
+   ],
+   "guide": "Cold UW solution at 4°C with hydroxyethyl starch, lactobionate, adenosine, allopurinol and reduced glutathione flushes through aorta and portal vein to block thrombosis, cut oxygen demand and swap in preservative. Cold tolerance runs kidney 36 hours longest through liver 12–18, pancreas <10–18, small bowel 4–6 and lung 3–8 down to heart 3–6 shortest, while normothermic machine perfusion of heart, lung, liver and kidney restores ATP ex-vivo for marginal donors and early function."
+  },
+  {
+   "id": "SURG-U50-3",
+   "ch": 50,
+   "n": 3,
+   "title": "Renal Transplantation: Indications, Donors and Technique",
+   "sec": "Renal Transplantation: Indications, Donors and Technique · p378",
+   "qs": [
+    "SURG-C50-045",
+    "SURG-C50-046",
+    "SURG-C50-047",
+    "SURG-C50-048",
+    "SURG-C50-049",
+    "SURG-C50-050",
+    "SURG-C50-051",
+    "SURG-C50-052",
+    "SURG-C50-053",
+    "SURG-C50-054",
+    "SURG-C50-055",
+    "SURG-C50-056",
+    "SURG-C50-057",
+    "SURG-C50-058",
+    "SURG-C50-059",
+    "SURG-C50-060",
+    "SURG-C50-061",
+    "SURG-C50-062",
+    "SURG-C50-063",
+    "SURG-C50-064",
+    "SURG-C50-065",
+    "SURG-C50-066",
+    "SURG-C50-067",
+    "SURG-C50-068",
+    "SURG-C50-069",
+    "SURG-C50-070",
+    "SURG-C50-071",
+    "SURG-C50-072",
+    "SURG-C50-073",
+    "SURG-C50-074",
+    "SURG-C50-075",
+    "SURG-C50-076",
+    "SURG-C50-077",
+    "SURG-C50-078",
+    "SURG-C50-079",
+    "SURG-C50-080",
+    "SURG-C50-081",
+    "SURG-C50-082",
+    "SURG-C50-083",
+    "SURG-C50-084"
+   ],
+   "guide": "Diabetic nephropathy leads adult renal indications and glomerulonephritis leads paediatric ones, extended by fit over-60 or over-50 donors with stroke death, hypertension or creatinine above 1.5, doubling marginal kidneys into one iliac fossa for nephron mass. Match ABO, Rh and HLA-A/B/DR with DR supreme plus KFT, favour the left kidney's long vein, park the graft heterotopically in the iliac fossa with dead-donor end-to-side external iliac or live-donor end-to-end internal iliac arterial joins in Proline, vein to external iliac vein and ureter to bladder in Vicryl/PDS; creatinine rises over 10% or 30 μmol/L flag rejection, calcineurin toxicity, dehydration, UTI, obstruction, vascular thrombosis or sepsis, with 90% live and 85% dead five-year survival improving through drugs and technique."
+  },
+  {
+   "id": "SURG-U50-4",
+   "ch": 50,
+   "n": 4,
+   "title": "Rejection, Banff, Infection, Malignancy and PTLD",
+   "sec": "Rejection, Banff, Infection, Malignancy and PTLD · p380",
+   "qs": [
+    "SURG-C50-085",
+    "SURG-C50-086",
+    "SURG-C50-087",
+    "SURG-C50-088",
+    "SURG-C50-089",
+    "SURG-C50-090",
+    "SURG-C50-091",
+    "SURG-C50-092",
+    "SURG-C50-093",
+    "SURG-C50-094",
+    "SURG-C50-095",
+    "SURG-C50-096",
+    "SURG-C50-097",
+    "SURG-C50-098",
+    "SURG-C50-099",
+    "SURG-C50-100",
+    "SURG-C50-101",
+    "SURG-C50-102",
+    "SURG-C50-103",
+    "SURG-C50-104",
+    "SURG-C50-105",
+    "SURG-C50-106",
+    "SURG-C50-107",
+    "SURG-C50-108",
+    "SURG-C50-109",
+    "SURG-C50-110",
+    "SURG-C50-111",
+    "SURG-C50-112",
+    "SURG-C50-113",
+    "SURG-C50-114"
+   ],
+   "guide": "Hyperacute on-table dusky anuric rejection comes from preformed HLA type-II antibody with intravascular thrombosis, acute disease splits into responsive T-cell and stubborn antibody arms, and chronic type-IV disease past six months with glomerular sclerosis is commonest, all graded by Banff on needle kidney/liver, endoscopic bowel or jugular subendocardial heart biopsies. Bacteria dominate month one and viruses led by CMV and BK dominate overall; skin SCC leads malignancy ahead of haematological and post-renal breast cancers, while EBV-driven B-cell PTLD mimics mononucleosis with fever and nodes, kills frequently and worsens with CNS spread."
+  },
+  {
+   "id": "SURG-U50-5",
+   "ch": 50,
+   "n": 5,
+   "title": "Vascular Events, Pancreatic and Liver Transplant Assessment",
+   "sec": "Vascular Events, Pancreatic and Liver Transplant Assessment · p381",
+   "qs": [
+    "SURG-C50-115",
+    "SURG-C50-116",
+    "SURG-C50-117",
+    "SURG-C50-118",
+    "SURG-C50-119",
+    "SURG-C50-120",
+    "SURG-C50-121",
+    "SURG-C50-122",
+    "SURG-C50-123",
+    "SURG-C50-124",
+    "SURG-C50-125",
+    "SURG-C50-126",
+    "SURG-C50-127",
+    "SURG-C50-128",
+    "SURG-C50-129",
+    "SURG-C50-130",
+    "SURG-C50-131",
+    "SURG-C50-132",
+    "SURG-C50-133",
+    "SURG-C50-134",
+    "SURG-C50-135",
+    "SURG-C50-136",
+    "SURG-C50-137",
+    "SURG-C50-138",
+    "SURG-C50-139",
+    "SURG-C50-140",
+    "SURG-C50-141",
+    "SURG-C50-142",
+    "SURG-C50-143"
+   ],
+   "guide": "Post-renal vascular trouble is usually vein thrombosis with falling function fixed by anticoagulation versus gradual hypertensive arterial stenosis opened by balloon, both imaged by CT angiography. Diabetic nephropathy earns combined kidney-pancreas grafts monitored by insulin and amylase through bladder drainage until 3–4-year complications force conversion to better but harder-to-watch enteric drainage. Cirrhosis from hepatitis B/C and alcohol leads adult liver indications and extrahepatic biliary atresia leads paediatric ones without HLA worry or hyperacute rejection, scored by Child-Pugh A 5–6 against transplantable B 7–9 and C 10–15, adult MELD and paediatric PELD models, and Milan HCC limits of one sub-5-cm or up to three sub-3-cm tumours without mets."
+  },
+  {
+   "id": "SURG-U50-6",
+   "ch": 50,
+   "n": 6,
+   "title": "Liver Transplant: King Criteria, Types, Sequence and Complications",
+   "sec": "Liver Transplant: King Criteria, Types, Sequence and Complications · p382",
+   "qs": [
+    "SURG-C50-144",
+    "SURG-C50-145",
+    "SURG-C50-146",
+    "SURG-C50-147",
+    "SURG-C50-148",
+    "SURG-C50-149",
+    "SURG-C50-150",
+    "SURG-C50-151",
+    "SURG-C50-152",
+    "SURG-C50-153",
+    "SURG-C50-154",
+    "SURG-C50-155",
+    "SURG-C50-156",
+    "SURG-C50-157",
+    "SURG-C50-158",
+    "SURG-C50-159",
+    "SURG-C50-160",
+    "SURG-C50-161",
+    "SURG-C50-162",
+    "SURG-C50-163",
+    "SURG-C50-164",
+    "SURG-C50-165",
+    "SURG-C50-166",
+    "SURG-C50-167",
+    "SURG-C50-168",
+    "SURG-C50-169",
+    "SURG-C50-170",
+    "SURG-C50-171",
+    "SURG-C50-172",
+    "SURG-C50-173",
+    "SURG-C50-174",
+    "SURG-C50-175",
+    "SURG-C50-176",
+    "SURG-C50-177",
+    "SURG-C50-178",
+    "SURG-C50-179",
+    "SURG-C50-180",
+    "SURG-C50-181",
+    "SURG-C50-182",
+    "SURG-C50-183",
+    "SURG-C50-184",
+    "SURG-C50-185",
+    "SURG-C50-186",
+    "SURG-C50-187",
+    "SURG-C50-188"
+   ],
+   "guide": "King's College lists acute-liver-failure transplant triggers of PT over 100 seconds or any three of non-A/B hepatitis, >7-day jaundice-encephalopathy gap, age under 10 or over 40, PT over 50 and bilirubin over 18. Livers come dead, live, split with IV–VIII to adults and II–III to children, or extended by age, dysfunction and hepatitis; piggy-back auxiliaries leave the native liver in fulminant failure, domino grafts recycle amyloid/HIV livers, and paired exchanges swap mismatched pairs. Sew supra- then infra-hepatic IVC, portal vein and hepatic artery in Proline before the PDS bile duct; expect no hyperacute, suppressible acute and dominant post-6-month chronic vanishing-duct rejection, hepatic-artery thrombosis with failure needing re-transplant plus strictures, recurrence of hepatitis, cholangitis, autoimmune, fatty, Budd-Chiari and malignant disease, and renal-like infection, malignancy and PTLD."
+  },
+  {
+   "id": "SURG-U50-7",
+   "ch": 50,
+   "n": 7,
+   "title": "Heart, Lung, Small Bowel Transplantation and GVHD",
+   "sec": "Heart, Lung, Small Bowel Transplantation and GVHD · p383",
+   "qs": [
+    "SURG-C50-189",
+    "SURG-C50-190",
+    "SURG-C50-191",
+    "SURG-C50-192",
+    "SURG-C50-193",
+    "SURG-C50-194",
+    "SURG-C50-195",
+    "SURG-C50-196",
+    "SURG-C50-197",
+    "SURG-C50-198",
+    "SURG-C50-199",
+    "SURG-C50-200",
+    "SURG-C50-201",
+    "SURG-C50-202",
+    "SURG-C50-203",
+    "SURG-C50-204",
+    "SURG-C50-205",
+    "SURG-C50-206",
+    "SURG-C50-207",
+    "SURG-C50-208",
+    "SURG-C50-209",
+    "SURG-C50-210",
+    "SURG-C50-211",
+    "SURG-C50-212",
+    "SURG-C50-213",
+    "SURG-C50-214",
+    "SURG-C50-215",
+    "SURG-C50-216",
+    "SURG-C50-217",
+    "SURG-C50-218",
+    "SURG-C50-219",
+    "SURG-C50-220",
+    "SURG-C50-221",
+    "SURG-C50-222",
+    "SURG-C50-223",
+    "SURG-C50-224",
+    "SURG-C50-225",
+    "SURG-C50-226",
+    "SURG-C50-227",
+    "SURG-C50-228",
+    "SURG-C50-229",
+    "SURG-C50-230",
+    "SURG-C50-231",
+    "SURG-C50-232",
+    "SURG-C50-233",
+    "SURG-C50-234",
+    "SURG-C50-235",
+    "SURG-C50-236",
+    "SURG-C50-237",
+    "SURG-C50-238",
+    "SURG-C50-239",
+    "SURG-C50-240",
+    "SURG-C50-241",
+    "SURG-C50-242",
+    "SURG-C50-243",
+    "SURG-C50-244",
+    "SURG-C50-245",
+    "SURG-C50-246"
+   ],
+   "guide": "Hearts go to NYHA-III medically-maxed poor-prognosis LV failure with resynchronisation or defibrillators, sewn left atrium, right atrium, pulmonary artery then aorta and watched by jugular subendocardial biopsy. Lungs need clear films, clean gram stains, PaO2 above 300, age under 55, under 20 pack-years and no trauma/aspiration/pneumonia for cystic fibrosis, interstitial disease, COPD/emphysema and pulmonary hypertension with congenital heart combos, joined vein-cuff to left atrium, bronchus then artery. Lymphoid-rich small bowel fights rejection, graft-versus-host and permeability-driven bacterial sepsis with poor rescue, serving TPN-dependent short bowel by isolated jejunal/ileal, liver-combined or multivisceral cluster grafts; early vascular, leak, collection, pancreatitis, renal, stomal, drug, GVHD and PTLD hazards mature into late thrombosis, renal, hernia, chronic rejection and PTLD with 80% one-year and 70% three-year survival plus lymphomas, while donor white cells attacking immunocompromised intestinal or marrow recipients produce rash, diarrhoea, protein-losing enteropathy, oedema and liver dysfunction."
+  }
+ ]
+}

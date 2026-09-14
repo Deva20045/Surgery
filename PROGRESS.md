@@ -15,7 +15,7 @@ strict book order, 4 options each, book page cited in every explanation.
 | `Surgery Vol. 1-168-237.pdf` (v1c) | 70 | **book = pdf + 158** (p1 duplicates v1b p78 = book p159) | 159-228 |
 | `Surgery Vol. 1-238-316.pdf` (v1d) | 79 | **book = pdf + 228** (pdf 79 = blank unnumbered page after p306) | 229-306 |
 | `Surgery Vol. 2_part_1.pdf` (v2a) | 82 | pdf 1-9 = unnumbered front matter; **book = pdf + 297** | 307-378 |
-| `Surgery Vol. 2_part_2.pdf` (v2b) | 75 | **book = pdf + 377** | 379-452 |
+| `Surgery Vol. 2_part_2.pdf` (v2b) | 75 | **book = pdf + 378** (fixed 2026-09-14; was +377) | 379-452 |
 | `Surgery Vol. 2_part_3.pdf` (v2c) | 71 | **book = pdf + 452** | 453-523 |
 | `Surgery Vol. 2_part_4.pdf` (v2d) | 35 | **book = pdf + 523** (content to ~p556, back cover at end) | 524-558 |
 
@@ -61,7 +61,7 @@ ch46 Bladder 353-359 (v2a p57-63) · ch47 Prostate Part 1 360-364 (v2a p64-68) �
 **Speciality:** ch49 Minimally Invasive Surgery 371-376 (v2a p75-80) · ch50 Transplant Surgery 377-385 (v2a p81-89) ·
 ch51 Plastic Surgery Part 1 386-392 (v2b p7-13) · ch52 Plastic Surgery Part 2 393-398 (v2b p14-19) · ch53 Neurosurgery 399-409 (v2b p20-30) ·
 **Trauma:** ch54 Basics of Trauma Management 410-416 (v2b p31-37) · ch55 Abdominal Trauma 417-425 (v2b p38-46) · ch56 Thoracic Trauma 426-434 (v2b p47-55) ·
-ch57 Head Trauma 435-443 (v2b p56-64) · ch58 Thermal Injuries 444-450 (v2b p65-73) ·
+ch57 Head Trauma 435-443 (v2b p57-65) · ch58 Thermal Injuries 444-450 (v2b p66-72) ·
 **Hernia:** ch59 Hernia Part 1 451-459 (v2b p74-75 + v2c p1-7) · ch60 Hernia Part 2 460-469 (v2c p8-17) ·
 **Vascular:** ch61 Venous Thrombosis 470-475 (v2c p18-23) · ch62 Varicose Veins 476-485 (v2c p24-33) · ch63 Arterial System Part 1 486-493 (v2c p34-41) ·
 ch64 Arterial System Part 2 494-502 (v2c p42-50) · ch65 Lymphatic System 503-508 (v2c p51-56) ·
@@ -156,11 +156,11 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch43 Urethral and Penile Disorders — p318-326 — **DONE (177 qs, 10 units)** 2026-09-14
 - [x] ch44 Kidney : Part 1 — p327-338 — **DONE (214 qs, 10 units)** 2026-09-14
 - [x] ch45 Kidney : Part 2 — p339-352 — **DONE (281 qs, 10 units)** 2026-09-14
-- [ ] ch46 Bladder — p353-359 — Soon
-- [ ] ch47 Prostate : Part 1 — p360-364 — Soon
-- [ ] ch48 Prostate : Part 2 — p365-370 — Soon
-- [ ] ch49 Minimally Invasive Surgery — p371-376 — Soon
-- [ ] ch50 Transplant Surgery — p377-385 — Soon
+- [x] ch46 Bladder — p353-359 — **DONE (184 qs, 9 units)** 2026-09-14
+- [x] ch47 Prostate : Part 1 — p360-364 — **DONE (135 qs, 6 units)** 2026-09-14
+- [x] ch48 Prostate : Part 2 — p365-370 — **DONE (164 qs, 6 units)** 2026-09-14
+- [x] ch49 Minimally Invasive Surgery — p371-376 — **DONE (133 qs, 6 units)** 2026-09-14
+- [x] ch50 Transplant Surgery — p377-385 — **DONE (246 qs, 7 units)** 2026-09-14
 - [ ] ch51 Plastic surgery : Part 1 — p386-392 — Soon
 - [ ] ch52 Plastic surgery : Part 2 — p393-398 — Soon
 - [ ] ch53 Neurosurgery — p399-409 — Soon
