@@ -15,7 +15,7 @@ strict book order, 4 options each, book page cited in every explanation.
 | `Surgery Vol. 1-168-237.pdf` (v1c) | 70 | **book = pdf + 158** (p1 duplicates v1b p78 = book p159) | 159-228 |
 | `Surgery Vol. 1-238-316.pdf` (v1d) | 79 | **book = pdf + 228** (pdf 79 = blank unnumbered page after p306) | 229-306 |
 | `Surgery Vol. 2_part_1.pdf` (v2a) | 82 | pdf 1-9 = unnumbered front matter; **book = pdf + 297** | 307-378 |
-| `Surgery Vol. 2_part_2.pdf` (v2b) | 75 | **book = pdf + 378** (fixed 2026-09-14; was +377) | 379-452 |
+| `Surgery Vol. 2_part_2.pdf` (v2b) | 75 | **pdf 1-71 → book = pdf + 378 (p379-449)**; pdf 71 AND 72 BOTH print p449 (scan duplicate, fixed 2026-09-14); **pdf 73-75 → book = pdf − 377 (p450-452)** | 379-452 |
 | `Surgery Vol. 2_part_3.pdf` (v2c) | 71 | **book = pdf + 452** | 453-523 |
 | `Surgery Vol. 2_part_4.pdf` (v2d) | 35 | **book = pdf + 523** (content to ~p556, back cover at end) | 524-558 |
 
@@ -25,10 +25,12 @@ Verified against printed headers: v1a pdf9=p1 … pdf17=p9, pdf18=p9(dup), pdf19
 pdf40=p31, pdf50=p41, pdf60=p51, pdf70=p61, pdf80=p71, pdf88=p79, pdf89=p80, pdf90=p81;
 v1b pdf1=p82 / pdf78=p159; v1c pdf1=p159 / pdf70=p228; v1d pdf1=p229 / pdf78=p306;
 v2a pdf10=p307 / pdf29=p326 / pdf30=p326(dup) / pdf31=p327 / pdf82=p378;
-v2b pdf1=p379 / pdf75=p452; v2c pdf1=p453 / pdf71=p523;
+v2b pdf1=p379 / pdf71=p449 / pdf72=p449(dup) / pdf73=p450 / pdf74=p451 / pdf75=p452;
+v2c pdf1=p453 / pdf71=p523;
 v2d pdf1=p524 / pdf27=p550 / pdf33=p556.
-All files except v1a and v2a are provably sequential (last header − first header = page count − 1);
-the other duplicated pages are book p159 (v1b pdf78 = v1c pdf1, split overlap) and book p326 (v2a pdf29 = pdf30).
+All files except v1a, v2a and v2b are provably sequential (last header − first header = page count − 1);
+the duplicated pages are book p9 (v1a pdf17=pdf18), book p159 (v1b pdf78 = v1c pdf1, split overlap),
+book p326 (v2a pdf29 = pdf30) and book p449 (v2b pdf71 = pdf72).
 
 Book: "Surgery, Marrow Edition 8" (Vol 1: Patient Safety → Pancreatic Tumour;
 Vol 2: Testicular Disorders → Surgical Instruments). Author: Dr. Rohan Khandelwal (MS General Surgery).
@@ -202,9 +204,10 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **55/72 chapters live** · Questions: 7305 · Units: 629
-- GitHub HTML: **synced at 55/72** (merged to `main` via PR #22 on 2026-09-14)
-- NEXT: ch56 Thoracic trauma — p426-434 (v2b p48-56) — **same source PDF: `Surgery Vol. 2_part_2.pdf`** (book = pdf + 378)
+- Local HTML: **60/72 chapters live** · Questions: 8039 · Units: 694
+- GitHub HTML: **synced at 60/72** (merged to `main` via PR #24 on 2026-09-14)
+- NEXT: ch61 Venous Thrombosis — p470-475 (v2c p18-23) — **source PDF: `Surgery Vol. 2_part_3.pdf`**
+  (book = pdf + 452; NO shift needed for ch61-62 — the p449 duplicate affects only v2b pdf72)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).

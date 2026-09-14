@@ -1,0 +1,2736 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C57-001",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "The mnemonic for layers of the scalp is:",
+   "opts": [
+    "SCALP",
+    "SCALD",
+    "SCARF",
+    "PLACS"
+   ],
+   "ans": 0,
+   "exp": "SCALP (Book p435)"
+  },
+  {
+   "id": "SURG-C57-002",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "In the SCALP mnemonic, 'A' stands for:",
+   "opts": [
+    "Aponeurosis",
+    "Arachnoid",
+    "Arteries",
+    "Areolar tissue"
+   ],
+   "ans": 0,
+   "exp": "Aponeurosis (Book p435)"
+  },
+  {
+   "id": "SURG-C57-003",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "The 4th layer of the scalp is:",
+   "opts": [
+    "Loose areolar tissue",
+    "Aponeurosis",
+    "Periosteum",
+    "Connective tissue"
+   ],
+   "ans": 0,
+   "exp": "Loose areolar tissue (Book p435)"
+  },
+  {
+   "id": "SURG-C57-004",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "The 5th layer of the scalp is:",
+   "opts": [
+    "Periosteum",
+    "Loose areolar tissue",
+    "Skin",
+    "Dura"
+   ],
+   "ans": 0,
+   "exp": "Periosteum (Book p435)"
+  },
+  {
+   "id": "SURG-C57-005",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "In scalp laceration, blood vessels cannot vasoconstrict because they are:",
+   "opts": [
+    "Adherent to fibrous septa",
+    "In spasm",
+    "Inside the aponeurosis",
+    "Surrounded by bone"
+   ],
+   "ans": 0,
+   "exp": "Adherent to fibrous septa (Book p435)"
+  },
+  {
+   "id": "SURG-C57-006",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "The result of vessel-septa adherence in scalp laceration is:",
+   "opts": [
+    "↑Bleeding",
+    "No bleeding",
+    "Delayed bleeding",
+    "Thrombosis"
+   ],
+   "ans": 0,
+   "exp": "↑Bleeding (Book p435)"
+  },
+  {
+   "id": "SURG-C57-007",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "EMERGENCY mx of scalp laceration is:",
+   "opts": [
+    "Apply pressure",
+    "Ligature the vessel",
+    "Apply ice",
+    "Head elevation"
+   ],
+   "ans": 0,
+   "exp": "Apply pressure (Book p435)"
+  },
+  {
+   "id": "SURG-C57-008",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "DEFINITIVE mx of scalp laceration is:",
+   "opts": [
+    "Suturing the laceration",
+    "Pressure dressing",
+    "Staples only",
+    "Flap coverage"
+   ],
+   "ans": 0,
+   "exp": "Suturing the laceration (Book p435)"
+  },
+  {
+   "id": "SURG-C57-009",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "Needle rule for scalp suturing:",
+   "opts": [
+    "No 1/1-0/2-0 suture",
+    "Only 1-0 suture",
+    "Only round body needle",
+    "Only 4-0 suture"
+   ],
+   "ans": 0,
+   "exp": "No 1/1-0/2-0 suture (Book p435)"
+  },
+  {
+   "id": "SURG-C57-010",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "Needle TYPE preferred for scalp suturing:",
+   "opts": [
+    "Cutting / reverse cutting",
+    "Round body",
+    "Blunt",
+    "Taper cut only"
+   ],
+   "ans": 0,
+   "exp": "Cutting / reverse cutting (Book p435)"
+  },
+  {
+   "id": "SURG-C57-011",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "Bleeding below the aponeurotic layer of scalp leads to:",
+   "opts": [
+    "Black eye",
+    "Cavernous sinus thrombosis",
+    "Meningitis",
+    "Battle sign"
+   ],
+   "ans": 0,
+   "exp": "Black eye (Book p435)"
+  },
+  {
+   "id": "SURG-C57-012",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "Infection from the dangerous area of face spreads via loose areolar tissue through:",
+   "opts": [
+    "Emissary veins",
+    "Lymphatics",
+    "Nerve sheaths",
+    "Arterial supply"
+   ],
+   "ans": 0,
+   "exp": "Emissary veins (Book p435)"
+  },
+  {
+   "id": "SURG-C57-013",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "Retrograde spread of facial infection via emissary veins causes:",
+   "opts": [
+    "Cavernous sinus thrombosis",
+    "Sagittal sinus thrombosis",
+    "Brain abscess only",
+    "Meningitis only"
+   ],
+   "ans": 0,
+   "exp": "Cavernous sinus thrombosis (Book p435)"
+  },
+  {
+   "id": "SURG-C57-014",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "page": 435,
+   "q": "The 'dangerous area of face' shown corresponds to the triangle covering:",
+   "opts": [
+    "Upper lip and nose (medial canthus to upper lip)",
+    "Forehead",
+    "Chin",
+    "Temple"
+   ],
+   "ans": 0,
+   "exp": "Upper lip and nose (medial canthus to upper lip) (Book p435)"
+  },
+  {
+   "id": "SURG-C57-015",
+   "sec": "Skull Fractures: Depressed vs Non-Depressed",
+   "page": 435,
+   "q": "Non-depressed skull fracture is managed:",
+   "opts": [
+    "Conservatively",
+    "Surgically always",
+    "With steroids",
+    "With antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Conservatively (Book p435)"
+  },
+  {
+   "id": "SURG-C57-016",
+   "sec": "Skull Fractures: Depressed vs Non-Depressed",
+   "page": 435,
+   "q": "Ix of depressed skull fracture is:",
+   "opts": [
+    "NCCT (IOC)",
+    "MRI",
+    "X-ray skull",
+    "Contrast CT"
+   ],
+   "ans": 0,
+   "exp": "NCCT (IOC) (Book p435)"
+  },
+  {
+   "id": "SURG-C57-017",
+   "sec": "Skull Fractures: Depressed vs Non-Depressed",
+   "page": 436,
+   "q": "Mx of depressed skull fracture is surgical elevation & fixation only if:",
+   "opts": [
+    "Focal neurological signs (+) OR depression > adjacent skull thickness",
+    "Any fracture seen",
+    "Patient demands",
+    "Cosmesis alone"
+   ],
+   "ans": 0,
+   "exp": "Focal neurological signs (+) OR depression > adjacent skull thickness (Book p436)"
+  },
+  {
+   "id": "SURG-C57-018",
+   "sec": "Skull Fractures: Depressed vs Non-Depressed",
+   "page": 436,
+   "q": "IOC for head injuries overall:",
+   "opts": [
+    "NCCT",
+    "MRI",
+    "X-ray skull AP/Lat",
+    "PET"
+   ],
+   "ans": 0,
+   "exp": "NCCT (Book p436)"
+  },
+  {
+   "id": "SURG-C57-019",
+   "sec": "Skull Fractures: Depressed vs Non-Depressed",
+   "page": 436,
+   "q": "Depression exceeding which structure mandates surgery (without focal signs)?",
+   "opts": [
+    "Adjacent skull thickness",
+    "2 cm depth",
+    "Dural thickness",
+    "Scalp thickness"
+   ],
+   "ans": 0,
+   "exp": "Adjacent skull thickness (Book p436)"
+  },
+  {
+   "id": "SURG-C57-020",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "ANTERIOR cranial fossa fracture involves the:",
+   "opts": [
+    "Cribriform plate",
+    "Petrous temporal",
+    "Occipital bone",
+    "Sphenoid wing"
+   ],
+   "ans": 0,
+   "exp": "Cribriform plate (Book p436)"
+  },
+  {
+   "id": "SURG-C57-021",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "MIDDLE cranial fossa fracture involves the:",
+   "opts": [
+    "Petrous part of temporal bone",
+    "Cribriform plate",
+    "Occipital bone",
+    "Frontal sinus"
+   ],
+   "ans": 0,
+   "exp": "Petrous part of temporal bone (Book p436)"
+  },
+  {
+   "id": "SURG-C57-022",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "POSTERIOR cranial fossa fracture involves the:",
+   "opts": [
+    "Occipital bone",
+    "Cribriform plate",
+    "Petrous temporal",
+    "Zygoma"
+   ],
+   "ans": 0,
+   "exp": "Occipital bone (Book p436)"
+  },
+  {
+   "id": "SURG-C57-023",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Raccoon eyes (B/L black eye) suggest:",
+   "opts": [
+    "Anterior fossa fracture",
+    "Middle fossa fracture",
+    "Posterior fossa fracture",
+    "Nasal fracture only"
+   ],
+   "ans": 0,
+   "exp": "Anterior fossa fracture (Book p436)"
+  },
+  {
+   "id": "SURG-C57-024",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "In raccoon eyes the posterior/superior border of subconjunctival hemorrhage:",
+   "opts": [
+    "Cannot be seen",
+    "Is sharply seen",
+    "Is absent",
+    "Is calcified"
+   ],
+   "ans": 0,
+   "exp": "Cannot be seen (Book p436)"
+  },
+  {
+   "id": "SURG-C57-025",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "A visible posterior/superior border of subconjunctival hemorrhage indicates:",
+   "opts": [
+    "Direct trauma to the eye",
+    "Basal skull fracture",
+    "Cavernous sinus thrombosis",
+    "Orbital cellulitis"
+   ],
+   "ans": 0,
+   "exp": "Direct trauma to the eye (Book p436)"
+  },
+  {
+   "id": "SURG-C57-026",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "CSF rhinorrhoea is confirmed by:",
+   "opts": [
+    "Target/Halo sign (+) & β2 transferrin",
+    "β2 microglobulin",
+    "Glucose only",
+    "Target sign (–)"
+   ],
+   "ans": 0,
+   "exp": "Target/Halo sign (+) & β2 transferrin (Book p436)"
+  },
+  {
+   "id": "SURG-C57-027",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Target/Halo sign & β2 transferrin differentiate CSF leak from:",
+   "opts": [
+    "Epistaxis",
+    "Lacrimation",
+    "Saliva",
+    "Serous otitis"
+   ],
+   "ans": 0,
+   "exp": "Epistaxis (Book p436)"
+  },
+  {
+   "id": "SURG-C57-028",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Along with CSF rhinorrhoea, anterior fossa fracture features include:",
+   "opts": [
+    "Epistaxis, anosmia & frontal lobe contusion",
+    "Hemotympanum & otorrhea",
+    "Battle sign & VI nerve palsy",
+    "Vernet syndrome"
+   ],
+   "ans": 0,
+   "exp": "Epistaxis, anosmia & frontal lobe contusion (Book p436)"
+  },
+  {
+   "id": "SURG-C57-029",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Anosmia in anterior fossa fracture is due to:",
+   "opts": [
+    "Cribriform plate fracture (olfactory fibers)",
+    "Occipital injury",
+    "Facial nerve injury",
+    "Petrous fracture"
+   ],
+   "ans": 0,
+   "exp": "Cribriform plate fracture (olfactory fibers) (Book p436)"
+  },
+  {
+   "id": "SURG-C57-030",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Battle sign — discoloration over the mastoid process — appears:",
+   "opts": [
+    "24-48 hrs after fracture",
+    "Immediately",
+    "After 1 week",
+    "After 1 month"
+   ],
+   "ans": 0,
+   "exp": "24-48 hrs after fracture (Book p436)"
+  },
+  {
+   "id": "SURG-C57-031",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Battle sign indicates:",
+   "opts": [
+    "Middle cranial fossa (petrous temporal) fracture",
+    "Anterior fossa fracture",
+    "Frontal contusion",
+    "Nasal fracture"
+   ],
+   "ans": 0,
+   "exp": "Middle cranial fossa (petrous temporal) fracture (Book p436)"
+  },
+  {
+   "id": "SURG-C57-032",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Middle fossa fracture features (ear):",
+   "opts": [
+    "Hemotympanum & CSF otorrhea",
+    "Rhinorrhoea & anosmia",
+    "Raccoon eyes",
+    "Visual problems"
+   ],
+   "ans": 0,
+   "exp": "Hemotympanum & CSF otorrhea (Book p436)"
+  },
+  {
+   "id": "SURG-C57-033",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Middle fossa (petrous) fracture commonly injures which nerve?",
+   "opts": [
+    "Facial nerve",
+    "VI nerve",
+    "IX-XI nerves",
+    "II nerve"
+   ],
+   "ans": 0,
+   "exp": "Facial nerve (Book p436)"
+  },
+  {
+   "id": "SURG-C57-034",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "PARADOXICAL rhinorrhoea (rare) pathway in petrous fracture:",
+   "opts": [
+    "Middle ear → CSF into Eustachian tube → nose",
+    "Nose → Eustachian tube → ear",
+    "Mouth → ear",
+    "Sinus → orbit"
+   ],
+   "ans": 0,
+   "exp": "Middle ear → CSF into Eustachian tube → nose (Book p436)"
+  },
+  {
+   "id": "SURG-C57-035",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Temporal lobe contusions accompany:",
+   "opts": [
+    "Middle fossa fracture",
+    "Anterior fossa fracture",
+    "Posterior fossa fracture",
+    "Depressed vault fracture"
+   ],
+   "ans": 0,
+   "exp": "Middle fossa fracture (Book p436)"
+  },
+  {
+   "id": "SURG-C57-036",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "POSTERIOR fossa fracture features include:",
+   "opts": [
+    "Visual problems, occipital contusion & VIth nerve injury",
+    "Raccoon eyes",
+    "Battle sign",
+    "CSF otorrhea"
+   ],
+   "ans": 0,
+   "exp": "Visual problems, occipital contusion & VIth nerve injury (Book p436)"
+  },
+  {
+   "id": "SURG-C57-037",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Vernet syndrome / Jugular foramen syndrome (rare) is:",
+   "opts": [
+    "IX-XIth cranial nerve injury",
+    "VI nerve palsy",
+    "II nerve injury",
+    "VII-VIII injury"
+   ],
+   "ans": 0,
+   "exp": "IX-XIth cranial nerve injury (Book p436)"
+  },
+  {
+   "id": "SURG-C57-038",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 437,
+   "q": "The clinical photo of discoloration over the mastoid region is labelled:",
+   "opts": [
+    "Battle sign",
+    "Raccoon eyes",
+    "Target/halo sign",
+    "Halo vest"
+   ],
+   "ans": 0,
+   "exp": "Battle sign (Book p437)"
+  },
+  {
+   "id": "SURG-C57-039",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Ix of base of skull fractures:",
+   "opts": [
+    "NCCT (IOC)",
+    "MRI",
+    "Skull X-ray",
+    "Angiography"
+   ],
+   "ans": 0,
+   "exp": "NCCT (IOC) (Book p436)"
+  },
+  {
+   "id": "SURG-C57-040",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Base of skull fractures are treated as:",
+   "opts": [
+    "Open fractures",
+    "Closed fractures",
+    "No treatment",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "Open fractures (Book p436)"
+  },
+  {
+   "id": "SURG-C57-041",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Prophylactic antibiotic of choice in base of skull fracture:",
+   "opts": [
+    "3rd generation cephalosporin (to prevent meningitis)",
+    "Penicillin G",
+    "Metronidazole only",
+    "Vancomycin"
+   ],
+   "ans": 0,
+   "exp": "3rd generation cephalosporin (to prevent meningitis) (Book p436)"
+  },
+  {
+   "id": "SURG-C57-042",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "page": 436,
+   "q": "Nose/ear is NOT packed in CSF leak because packing:",
+   "opts": [
+    "Aids growth of bacteria via anaerobic conditions",
+    "Stops CSF flow",
+    "Causes bleeding",
+    "Blocks the sinus"
+   ],
+   "ans": 0,
+   "exp": "Aids growth of bacteria via anaerobic conditions (Book p436)"
+  },
+  {
+   "id": "SURG-C57-043",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "NICE head injury guidelines require ruling out which injury in ALL patients?",
+   "opts": [
+    "Cervical spine injury",
+    "Thoracic injury",
+    "Pelvic injury",
+    "Facial fracture"
+   ],
+   "ans": 0,
+   "exp": "Cervical spine injury (Book p437)"
+  },
+  {
+   "id": "SURG-C57-044",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "GCS monitoring in the FIRST 2 hours is done every:",
+   "opts": [
+    "1/2 hour",
+    "1 hour",
+    "2 hours",
+    "4 hours"
+   ],
+   "ans": 0,
+   "exp": "1/2 hour (Book p437)"
+  },
+  {
+   "id": "SURG-C57-045",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "GCS monitoring in the NEXT 4 hours is done every:",
+   "opts": [
+    "1 hour",
+    "1/2 hour",
+    "2 hours",
+    "6 hours"
+   ],
+   "ans": 0,
+   "exp": "1 hour (Book p437)"
+  },
+  {
+   "id": "SURG-C57-046",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "After 6 hours, GCS monitoring is done every:",
+   "opts": [
+    "2 hours",
+    "1/2 hour",
+    "1 hour",
+    "6 hours"
+   ],
+   "ans": 0,
+   "exp": "2 hours (Book p437)"
+  },
+  {
+   "id": "SURG-C57-047",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "Adult CT within 1 HOUR indication (GCS):",
+   "opts": [
+    "GCS <13 at any point",
+    "GCS <15 at any time",
+    "GCS ≤8 only",
+    "GCS 13 at 8 hours"
+   ],
+   "ans": 0,
+   "exp": "GCS <13 at any point (Book p437)"
+  },
+  {
+   "id": "SURG-C57-048",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "Adult CT within 1 hour: GCS <15 at:",
+   "opts": [
+    "2 hours",
+    "30 mins",
+    "4 hours",
+    "8 hours"
+   ],
+   "ans": 0,
+   "exp": "2 hours (Book p437)"
+  },
+  {
+   "id": "SURG-C57-049",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "More than ONE episode of vomiting after head injury in adults warrants CT:",
+   "opts": [
+    "Within 1 hour",
+    "Within 8 hours",
+    "Within 24 hours",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Within 1 hour (Book p437)"
+  },
+  {
+   "id": "SURG-C57-050",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "Which seizure type mandates CT within 1 hour in adults?",
+   "opts": [
+    "Post-traumatic seizure",
+    "Febrile seizure",
+    "Alcohol withdrawal seizure",
+    "Epileptic absence"
+   ],
+   "ans": 0,
+   "exp": "Post-traumatic seizure (Book p437)"
+  },
+  {
+   "id": "SURG-C57-051",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "Adult CT within 8 HOURS indications:",
+   "opts": [
+    "Age >65 yrs & retrograde amnesia >30 mins",
+    "Age >40 yrs & amnesia >10 min",
+    "Age >65 yrs only",
+    "Any age with vomiting"
+   ],
+   "ans": 0,
+   "exp": "Age >65 yrs & retrograde amnesia >30 mins (Book p437)"
+  },
+  {
+   "id": "SURG-C57-052",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "In adults, suspected open/depressed/basal skull fracture needs CT:",
+   "opts": [
+    "Within 1 hour",
+    "Within 8 hours",
+    "Within 24 hours",
+    "Only if GCS falls"
+   ],
+   "ans": 0,
+   "exp": "Within 1 hour (Book p437)"
+  },
+  {
+   "id": "SURG-C57-053",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "In CHILDREN, head injury with suspicion of NAI (non-accidental injury) needs:",
+   "opts": [
+    "CT",
+    "Observation only",
+    "MRI always first",
+    "X-ray skull"
+   ],
+   "ans": 0,
+   "exp": "CT (Book p437)"
+  },
+  {
+   "id": "SURG-C57-054",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "In children, GCS <14 or <15 applies to:",
+   "opts": [
+    "Under-ones",
+    "Under-fives",
+    "Under-tens",
+    "Adolescents"
+   ],
+   "ans": 0,
+   "exp": "Under-ones (Book p437)"
+  },
+  {
+   "id": "SURG-C57-055",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "In children, bruise/swelling/laceration of what size warrants CT?",
+   "opts": [
+    ">5 cm in under-ones",
+    ">3 cm in under-fives",
+    ">10 cm any age",
+    ">2 cm in newborns"
+   ],
+   "ans": 0,
+   "exp": ">5 cm in under-ones (Book p437)"
+  },
+  {
+   "id": "SURG-C57-056",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "Unexplained confusion >4 hours after head injury requires:",
+   "opts": [
+    "Neurosurgeon involvement",
+    "CT after 24 h",
+    "Discharge advice",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Neurosurgeon involvement (Book p437)"
+  },
+  {
+   "id": "SURG-C57-057",
+   "sec": "NICE Guidelines for Head Injury",
+   "page": 437,
+   "q": "Neurosurgeon is involved when GCS is:",
+   "opts": [
+    "≤8",
+    "≤13",
+    "≤15",
+    "<5 only"
+   ],
+   "ans": 0,
+   "exp": "≤8 (Book p437)"
+  },
+  {
+   "id": "SURG-C57-058",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "PRIMARY brain injury is due to:",
+   "opts": [
+    "Impact",
+    "Rise in ICT",
+    "Hypoxia",
+    "Hypotension"
+   ],
+   "ans": 0,
+   "exp": "Impact (Book p438)"
+  },
+  {
+   "id": "SURG-C57-059",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "SECONDARY brain injury is due to:",
+   "opts": [
+    "Rise in ICT",
+    "Impact",
+    "Direct contusion",
+    "Scalp laceration"
+   ],
+   "ans": 0,
+   "exp": "Rise in ICT (Book p438)"
+  },
+  {
+   "id": "SURG-C57-060",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "MINOR head injury severity is:",
+   "opts": [
+    "GCS 15/15, no LOC",
+    "GCS 14/15, LOC(+)",
+    "GCS 9-13",
+    "GCS ≤8"
+   ],
+   "ans": 0,
+   "exp": "GCS 15/15, no LOC (Book p438)"
+  },
+  {
+   "id": "SURG-C57-061",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "MILD head injury severity is:",
+   "opts": [
+    "GCS 14/15, LOC(+)",
+    "GCS 15/15 no LOC",
+    "GCS 9-13",
+    "GCS ≤8"
+   ],
+   "ans": 0,
+   "exp": "GCS 14/15, LOC(+) (Book p438)"
+  },
+  {
+   "id": "SURG-C57-062",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "MODERATE head injury GCS is:",
+   "opts": [
+    "9-13",
+    "14-15",
+    "≤8",
+    "3-5"
+   ],
+   "ans": 0,
+   "exp": "9-13 (Book p438)"
+  },
+  {
+   "id": "SURG-C57-063",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "SEVERE head injury GCS is:",
+   "opts": [
+    "≤8",
+    "9-13",
+    "14-15",
+    "13-14"
+   ],
+   "ans": 0,
+   "exp": "≤8 (Book p438)"
+  },
+  {
+   "id": "SURG-C57-064",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "The mildest type of primary brain injury is:",
+   "opts": [
+    "Concussion",
+    "DAI",
+    "Contusion",
+    "EDH"
+   ],
+   "ans": 0,
+   "exp": "Concussion (Book p438)"
+  },
+  {
+   "id": "SURG-C57-065",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "The most severe type of primary brain injury is:",
+   "opts": [
+    "Diffuse axonal injury (DAI)",
+    "Concussion",
+    "Contusion",
+    "SAH"
+   ],
+   "ans": 0,
+   "exp": "Diffuse axonal injury (DAI) (Book p438)"
+  },
+  {
+   "id": "SURG-C57-066",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Mechanism of concussion:",
+   "opts": [
+    "Contact sports",
+    "High velocity shearing",
+    "Penetrating injury",
+    "Blast"
+   ],
+   "ans": 0,
+   "exp": "Contact sports (Book p438)"
+  },
+  {
+   "id": "SURG-C57-067",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Mechanism of DAI:",
+   "opts": [
+    "High velocity injury → shearing force b/w grey & white matter",
+    "Contact sports",
+    "Low velocity fall",
+    "Venous tear"
+   ],
+   "ans": 0,
+   "exp": "High velocity injury → shearing force b/w grey & white matter (Book p438)"
+  },
+  {
+   "id": "SURG-C57-068",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Colorado classification grades (concussion):",
+   "opts": [
+    "Grade I confusion, Grade II amnesia, Grade III LOC",
+    "Grade I LOC, Grade II confusion, Grade III amnesia",
+    "I coma, II amnesia, III confusion",
+    "I death, II vegetative, III recovery"
+   ],
+   "ans": 0,
+   "exp": "Grade I confusion, Grade II amnesia, Grade III LOC (Book p438)"
+  },
+  {
+   "id": "SURG-C57-069",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Multiple concussions lead to:",
+   "opts": [
+    "Chronic traumatic encephalopathy",
+    "DAI",
+    "EDH",
+    "Normal pressure hydrocephalus"
+   ],
+   "ans": 0,
+   "exp": "Chronic traumatic encephalopathy (Book p438)"
+  },
+  {
+   "id": "SURG-C57-070",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Ix of concussion:",
+   "opts": [
+    "NCCT (IOC) — Normal",
+    "MRI — hemorrhages",
+    "EEG",
+    "LP"
+   ],
+   "ans": 0,
+   "exp": "NCCT (IOC) — Normal (Book p438)"
+  },
+  {
+   "id": "SURG-C57-071",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Mx/advice after concussion:",
+   "opts": [
+    "Avoid contact sports",
+    "Immediate surgery",
+    "Lumbar puncture",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Avoid contact sports (Book p438)"
+  },
+  {
+   "id": "SURG-C57-072",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "C/F of DAI:",
+   "opts": [
+    "Coma with no improvement of GCS",
+    "Lucid interval",
+    "Raccoon eyes",
+    "Battle sign"
+   ],
+   "ans": 0,
+   "exp": "Coma with no improvement of GCS (Book p438)"
+  },
+  {
+   "id": "SURG-C57-073",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "DAI: NCCT shows:",
+   "opts": [
+    "Normal scan",
+    "Biconvex bleed",
+    "Crescenteric bleed",
+    "Punctate hemorrhages"
+   ],
+   "ans": 0,
+   "exp": "Normal scan (Book p438)"
+  },
+  {
+   "id": "SURG-C57-074",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "IOC for DAI:",
+   "opts": [
+    "MRI — punctate hemorrhages at grey & white matter junction",
+    "NCCT",
+    "EEG",
+    "Angiography"
+   ],
+   "ans": 0,
+   "exp": "MRI — punctate hemorrhages at grey & white matter junction (Book p438)"
+  },
+  {
+   "id": "SURG-C57-075",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Autopsy findings in DAI:",
+   "opts": [
+    "Retraction balls, clubbed axons",
+    "Plaques & tangles",
+    "Lewy bodies",
+    "Ring hemorrhages"
+   ],
+   "ans": 0,
+   "exp": "Retraction balls, clubbed axons (Book p438)"
+  },
+  {
+   "id": "SURG-C57-076",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Prognosis of DAI:",
+   "opts": [
+    "Worst",
+    "Best",
+    "Intermediate",
+    "Depends only on age"
+   ],
+   "ans": 0,
+   "exp": "Worst (Book p438)"
+  },
+  {
+   "id": "SURG-C57-077",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Isolated brain/head injury rarely causes:",
+   "opts": [
+    "Hypotension",
+    "Hypertension",
+    "Bradycardia",
+    "Seizure"
+   ],
+   "ans": 0,
+   "exp": "Hypotension (Book p438)"
+  },
+  {
+   "id": "SURG-C57-078",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "In a head injury patient with hypotension, suspect:",
+   "opts": [
+    "Bleeding elsewhere (thorax, pelvis, abdomen, long bones)",
+    "Brain bleed as cause",
+    "Scalp hemorrhage only",
+    "Neurogenic shock always"
+   ],
+   "ans": 0,
+   "exp": "Bleeding elsewhere (thorax, pelvis, abdomen, long bones) (Book p438)"
+  },
+  {
+   "id": "SURG-C57-079",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Concealed bleeding sites searched in a hypotensive head injury patient:",
+   "opts": [
+    "Thorax, pelvis, abdomen & long bones",
+    "Scalp & face",
+    "Neck & hands",
+    "Feet only"
+   ],
+   "ans": 0,
+   "exp": "Thorax, pelvis, abdomen & long bones (Book p438)"
+  },
+  {
+   "id": "SURG-C57-080",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Hypotension with associated spinal injury in head trauma is due to:",
+   "opts": [
+    "Neurogenic bladder",
+    "Neurogenic heart",
+    "Adrenal failure",
+    "Vagal stimulation"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic bladder (Book p438)"
+  },
+  {
+   "id": "SURG-C57-081",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "page": 438,
+   "q": "Late stage head injury state that can cause hypotension:",
+   "opts": [
+    "Brain herniation",
+    "Concussion",
+    "DAI",
+    "Scalp tear"
+   ],
+   "ans": 0,
+   "exp": "Brain herniation (Book p438)"
+  },
+  {
+   "id": "SURG-C57-082",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "The m/c type of bleed following head trauma is:",
+   "opts": [
+    "Contusion (intraparenchymal bleed)",
+    "EDH",
+    "SDH",
+    "SAH"
+   ],
+   "ans": 0,
+   "exp": "Contusion (intraparenchymal bleed) (Book p439)"
+  },
+  {
+   "id": "SURG-C57-083",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "M/c site of traumatic cerebral contusion:",
+   "opts": [
+    "Temporal > frontal lobe",
+    "Frontal > temporal",
+    "Occipital",
+    "Parietal"
+   ],
+   "ans": 0,
+   "exp": "Temporal > frontal lobe (Book p439)"
+  },
+  {
+   "id": "SURG-C57-084",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Frontal lobe contusion can cause:",
+   "opts": [
+    "Personality changes",
+    "Hemotympanum",
+    "Battle sign",
+    "CSF leak"
+   ],
+   "ans": 0,
+   "exp": "Personality changes (Book p439)"
+  },
+  {
+   "id": "SURG-C57-085",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Ix of contusion:",
+   "opts": [
+    "NCCT (IOC)",
+    "MRI",
+    "X-ray",
+    "Angio"
+   ],
+   "ans": 0,
+   "exp": "NCCT (IOC) (Book p439)"
+  },
+  {
+   "id": "SURG-C57-086",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "In the majority, contusion mx is:",
+   "opts": [
+    "Conservative — control the ICT",
+    "Surgical evacuation",
+    "Steroids",
+    "Decompressive craniectomy"
+   ],
+   "ans": 0,
+   "exp": "Conservative — control the ICT (Book p439)"
+  },
+  {
+   "id": "SURG-C57-087",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Contusions that coalesce & increase in size need:",
+   "opts": [
+    "Sx evacuation",
+    "Observation",
+    "Mannitol only",
+    "LP"
+   ],
+   "ans": 0,
+   "exp": "Sx evacuation (Book p439)"
+  },
+  {
+   "id": "SURG-C57-088",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "EDH incidence is m/c in:",
+   "opts": [
+    "Young age",
+    "Elderly",
+    "Infants",
+    "Middle age"
+   ],
+   "ans": 0,
+   "exp": "Young age (Book p439)"
+  },
+  {
+   "id": "SURG-C57-089",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Mechanism of EDH:",
+   "opts": [
+    "High velocity impact",
+    "Trivial injury",
+    "Whiplash",
+    "Blast wave"
+   ],
+   "ans": 0,
+   "exp": "High velocity impact (Book p439)"
+  },
+  {
+   "id": "SURG-C57-090",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "M/c source of bleeding in EDH:",
+   "opts": [
+    "Middle meningeal artery",
+    "Bridging veins",
+    "Sagittal sinus",
+    "Cortical artery"
+   ],
+   "ans": 0,
+   "exp": "Middle meningeal artery (Book p439)"
+  },
+  {
+   "id": "SURG-C57-091",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "The lucid interval in EDH is:",
+   "opts": [
+    "Not pathognomonic",
+    "Always present",
+    "Pathognomonic",
+    "Seen only in children"
+   ],
+   "ans": 0,
+   "exp": "Not pathognomonic (Book p439)"
+  },
+  {
+   "id": "SURG-C57-092",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Classic NCCT appearance of EDH:",
+   "opts": [
+    "Biconvex/lens-shaped hemorrhage",
+    "Crescenteric",
+    "Star-shaped",
+    "Diffuse white-out"
+   ],
+   "ans": 0,
+   "exp": "Biconvex/lens-shaped hemorrhage (Book p439)"
+  },
+  {
+   "id": "SURG-C57-093",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "EDH bleed is restricted between:",
+   "opts": [
+    "Skull & dura (limited by cranial sutures)",
+    "Dura & arachnoid",
+    "Arachnoid & pia",
+    "Within brain"
+   ],
+   "ans": 0,
+   "exp": "Skull & dura (limited by cranial sutures) (Book p439)"
+  },
+  {
+   "id": "SURG-C57-094",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Definitive mx of EDH:",
+   "opts": [
+    "Craniotomy > Burr hole",
+    "Burr hole > craniotomy",
+    "Observation",
+    "Mannitol"
+   ],
+   "ans": 0,
+   "exp": "Craniotomy > Burr hole (Book p439)"
+  },
+  {
+   "id": "SURG-C57-095",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "EDH accumulates near the:",
+   "opts": [
+    "Pterion",
+    "Lambda",
+    "Bregma",
+    "Asterion"
+   ],
+   "ans": 0,
+   "exp": "Pterion (Book p439)"
+  },
+  {
+   "id": "SURG-C57-096",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Indication for craniotomy in EDH (clot volume):",
+   "opts": [
+    ">30 cc",
+    ">10 cc",
+    ">50 cc",
+    ">100 cc"
+   ],
+   "ans": 0,
+   "exp": ">30 cc (Book p439)"
+  },
+  {
+   "id": "SURG-C57-097",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Indication for craniotomy in EDH (midline shift):",
+   "opts": [
+    ">5 mm",
+    ">2 mm",
+    ">10 mm",
+    ">15 mm"
+   ],
+   "ans": 0,
+   "exp": ">5 mm (Book p439)"
+  },
+  {
+   "id": "SURG-C57-098",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Indication for craniotomy in EDH (clot thickness):",
+   "opts": [
+    ">1.5 cm",
+    ">0.5 cm",
+    ">2.5 cm",
+    ">3 cm"
+   ],
+   "ans": 0,
+   "exp": ">1.5 cm (Book p439)"
+  },
+  {
+   "id": "SURG-C57-099",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "If NCCT is not available, the side of craniotomy/burr hole is decided by:",
+   "opts": [
+    "Same side as the dilated pupil",
+    "Opposite to dilated pupil",
+    "Side of hemiparesis",
+    "Side of Battle sign"
+   ],
+   "ans": 0,
+   "exp": "Same side as the dilated pupil (Book p439)"
+  },
+  {
+   "id": "SURG-C57-100",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Normal phenomenon: a LEFT EDH produces:",
+   "opts": [
+    "Right sided hemiparesis",
+    "Left sided hemiparesis",
+    "Bilateral paresis",
+    "No weakness"
+   ],
+   "ans": 0,
+   "exp": "Right sided hemiparesis (Book p439)"
+  },
+  {
+   "id": "SURG-C57-101",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "page": 439,
+   "q": "Site of burr hole is marked on NCCT as:",
+   "opts": [
+    "Same side as the bleeding",
+    "Contralateral side",
+    "Midline",
+    "Depends on pupil only"
+   ],
+   "ans": 0,
+   "exp": "Same side as the bleeding (Book p439)"
+  },
+  {
+   "id": "SURG-C57-102",
+   "sec": "Kernohan Notch Phenomenon",
+   "page": 440,
+   "q": "Kernohan notch phenomenon occurs in:",
+   "opts": [
+    "Lt. temporal lobe EDH (left side bleed)",
+    "Rt frontal SDH",
+    "Bilateral SAH",
+    "Posterior fossa EDH"
+   ],
+   "ans": 0,
+   "exp": "Lt. temporal lobe EDH (left side bleed) (Book p440)"
+  },
+  {
+   "id": "SURG-C57-103",
+   "sec": "Kernohan Notch Phenomenon",
+   "page": 440,
+   "q": "Sequence after ↑ICT in Kernohan phenomenon:",
+   "opts": [
+    "Temporal lobe/uncal herniation → compress Kernohan notch on Rt. side",
+    "Uncal herniation → Lt notch → Rt corticospinal",
+    "Tonsillar herniation → medulla",
+    "Subfalcial herniation → ACA"
+   ],
+   "ans": 0,
+   "exp": "Temporal lobe/uncal herniation → compress Kernohan notch on Rt. side (Book p440)"
+  },
+  {
+   "id": "SURG-C57-104",
+   "sec": "Kernohan Notch Phenomenon",
+   "page": 440,
+   "q": "Kernohan notch compresses the:",
+   "opts": [
+    "Right corticospinal tract",
+    "Left corticospinal tract",
+    "Optic tract",
+    "Medial lemniscus"
+   ],
+   "ans": 0,
+   "exp": "Right corticospinal tract (Book p440)"
+  },
+  {
+   "id": "SURG-C57-105",
+   "sec": "Kernohan Notch Phenomenon",
+   "page": 440,
+   "q": "The paradoxical result of right corticospinal tract compression (left EDH):",
+   "opts": [
+    "Lt sided hemiparesis (falsely localised as Rt sided bleed)",
+    "Rt sided hemiparesis",
+    "Bilateral weakness",
+    "Only ataxia"
+   ],
+   "ans": 0,
+   "exp": "Lt sided hemiparesis (falsely localised as Rt sided bleed) (Book p440)"
+  },
+  {
+   "id": "SURG-C57-106",
+   "sec": "Kernohan Notch Phenomenon",
+   "page": 440,
+   "q": "Kernohan phenomenon can falsely localise the bleed as:",
+   "opts": [
+    "Right sided",
+    "Left sided",
+    "Bilateral",
+    "Midline"
+   ],
+   "ans": 0,
+   "exp": "Right sided (Book p440)"
+  },
+  {
+   "id": "SURG-C57-107",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "ACUTE subdural hemorrhage is defined as:",
+   "opts": [
+    "<3 days",
+    "<7 days",
+    "3-21 days",
+    ">21 days"
+   ],
+   "ans": 0,
+   "exp": "<3 days (Book p440)"
+  },
+  {
+   "id": "SURG-C57-108",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "SUBACUTE subdural hemorrhage duration:",
+   "opts": [
+    "3-21 days",
+    "<3 days",
+    "21-60 days",
+    ">21 days"
+   ],
+   "ans": 0,
+   "exp": "3-21 days (Book p440)"
+  },
+  {
+   "id": "SURG-C57-109",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "CHRONIC subdural hemorrhage duration:",
+   "opts": [
+    ">21 days",
+    "<3 days",
+    "3-21 days",
+    ">7 days only"
+   ],
+   "ans": 0,
+   "exp": ">21 days (Book p440)"
+  },
+  {
+   "id": "SURG-C57-110",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "Mechanism of CHRONIC SDH:",
+   "opts": [
+    "Trivial injury → bleed in bridging veins",
+    "High velocity → MMA tear",
+    "Penetrating injury",
+    "Cortical artery rupture"
+   ],
+   "ans": 0,
+   "exp": "Trivial injury → bleed in bridging veins (Book p440)"
+  },
+  {
+   "id": "SURG-C57-111",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "Classic chronic SDH patient:",
+   "opts": [
+    "Elderly patient post trivial injury",
+    "Young adult post RTA",
+    "Infant",
+    "Athlete"
+   ],
+   "ans": 0,
+   "exp": "Elderly patient post trivial injury (Book p440)"
+  },
+  {
+   "id": "SURG-C57-112",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "Typical chronic SDH course:",
+   "opts": [
+    "Normal for few days/weeks → altered sensorium",
+    "Immediate coma",
+    "Lucid interval",
+    "Progressive blindness"
+   ],
+   "ans": 0,
+   "exp": "Normal for few days/weeks → altered sensorium (Book p440)"
+  },
+  {
+   "id": "SURG-C57-113",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "IOC for SDH:",
+   "opts": [
+    "CT scan",
+    "MRI",
+    "NCCT only for chronic",
+    "LP"
+   ],
+   "ans": 0,
+   "exp": "CT scan (Book p440)"
+  },
+  {
+   "id": "SURG-C57-114",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "CT appearance of SDH:",
+   "opts": [
+    "Concavo convex/crescenteric hemorrhage",
+    "Biconvex/lens",
+    "Ring enhancing",
+    "Diffuse axonal spots"
+   ],
+   "ans": 0,
+   "exp": "Concavo convex/crescenteric hemorrhage (Book p440)"
+  },
+  {
+   "id": "SURG-C57-115",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "SDH blood is located:",
+   "opts": [
+    "B/w dura & arachnoid",
+    "B/w skull & dura",
+    "Intraparenchymal",
+    "Subarachnoid"
+   ],
+   "ans": 0,
+   "exp": "B/w dura & arachnoid (Book p440)"
+  },
+  {
+   "id": "SURG-C57-116",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "SDH is NOT restricted by suture lines, hence:",
+   "opts": [
+    "↑Extent of brain injury",
+    "Smaller bleed",
+    "Self-limiting",
+    "Never crosses midline"
+   ],
+   "ans": 0,
+   "exp": "↑Extent of brain injury (Book p440)"
+  },
+  {
+   "id": "SURG-C57-117",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "Craniotomy/burr hole for SDH — ANY 1 criterion (thickness):",
+   "opts": [
+    ">1 cm",
+    ">1.5 cm",
+    ">0.5 cm",
+    ">3 cm"
+   ],
+   "ans": 0,
+   "exp": ">1 cm (Book p440)"
+  },
+  {
+   "id": "SURG-C57-118",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "Craniotomy/burr hole for SDH — ANY 1 criterion (midline shift):",
+   "opts": [
+    ">5 mm",
+    ">10 mm",
+    ">2 mm",
+    ">1 cm"
+   ],
+   "ans": 0,
+   "exp": ">5 mm (Book p440)"
+  },
+  {
+   "id": "SURG-C57-119",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "Craniotomy/burr hole for SDH — ANY 2 criteria include:",
+   "opts": [
+    ">2 points drop in GCS, ICP >20 mmHg, fixed dilated pupil",
+    ">30 cc clot, >5 mm shift",
+    "Lucid interval, raccoon eyes",
+    "Age >65, amnesia"
+   ],
+   "ans": 0,
+   "exp": ">2 points drop in GCS, ICP >20 mmHg, fixed dilated pupil (Book p440)"
+  },
+  {
+   "id": "SURG-C57-120",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "The m/c cause of SAH is:",
+   "opts": [
+    "Trauma",
+    "Aneurysm",
+    "AVM",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Trauma (Book p440)"
+  },
+  {
+   "id": "SURG-C57-121",
+   "sec": "Subdural Haemorrhage and Traumatic SAH",
+   "page": 440,
+   "q": "Mx of traumatic SAH:",
+   "opts": [
+    "Conservative",
+    "Surgery",
+    "Coiling",
+    "Nimodipine infusion"
+   ],
+   "ans": 0,
+   "exp": "Conservative (Book p440)"
+  },
+  {
+   "id": "SURG-C57-122",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Summary: EDH history is:",
+   "opts": [
+    "Usually young patient, high velocity impact",
+    "Usually elderly, trivial injury",
+    "Any age, spontaneous",
+    "Infant, birth trauma"
+   ],
+   "ans": 0,
+   "exp": "Usually young patient, high velocity impact (Book p441)"
+  },
+  {
+   "id": "SURG-C57-123",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Summary: Chronic SDH history is:",
+   "opts": [
+    "Usually elderly patient, trivial injury",
+    "Young, high velocity",
+    "Always iatrogenic",
+    "Child, NAI"
+   ],
+   "ans": 0,
+   "exp": "Usually elderly patient, trivial injury (Book p441)"
+  },
+  {
+   "id": "SURG-C57-124",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Summary: EDH feature & CT:",
+   "opts": [
+    "Lucid interval; biconvex hemorrhage",
+    "Coma; concavo convex",
+    "Altered sensorium; crescenteric",
+    "None; normal"
+   ],
+   "ans": 0,
+   "exp": "Lucid interval; biconvex hemorrhage (Book p441)"
+  },
+  {
+   "id": "SURG-C57-125",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Summary: Chronic SDH feature & CT:",
+   "opts": [
+    "Normal for a few weeks then altered sensorium; concavo convex",
+    "Lucid interval; biconvex",
+    "Coma; MRI IOC",
+    "None; normal"
+   ],
+   "ans": 0,
+   "exp": "Normal for a few weeks then altered sensorium; concavo convex (Book p441)"
+  },
+  {
+   "id": "SURG-C57-126",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Summary: DAI features & Ix:",
+   "opts": [
+    "Coma with no signs of recovery; IOC is MRI",
+    "Lucid interval; CT",
+    "Altered sensorium; CT",
+    "Hemiparesis; X-ray"
+   ],
+   "ans": 0,
+   "exp": "Coma with no signs of recovery; IOC is MRI (Book p441)"
+  },
+  {
+   "id": "SURG-C57-127",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Normal state (Monro-Kellie) intracranial components:",
+   "opts": [
+    "Venous volume, arterial volume, brain & CSF",
+    "Brain, blood, bone",
+    "CSF, blood, mass",
+    "Brain, CSF, lymph"
+   ],
+   "ans": 0,
+   "exp": "Venous volume, arterial volume, brain & CSF (Book p441)"
+  },
+  {
+   "id": "SURG-C57-128",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "The doctrine explaining compensated vs decompensated states with a mass:",
+   "opts": [
+    "Monro-Kellie doctrine",
+    "Cushing doctrine",
+    "Starling law",
+    "Monroe-Guthrie test"
+   ],
+   "ans": 0,
+   "exp": "Monro-Kellie doctrine (Book p441)"
+  },
+  {
+   "id": "SURG-C57-129",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Cerebral Perfusion Pressure (CPP) is:",
+   "opts": [
+    "The pressure required to perfuse brain parenchyma",
+    "Pressure inside ventricles",
+    "Systemic BP only",
+    "Venous sinus pressure"
+   ],
+   "ans": 0,
+   "exp": "The pressure required to perfuse brain parenchyma (Book p441)"
+  },
+  {
+   "id": "SURG-C57-130",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "CPP formula:",
+   "opts": [
+    "CPP = mean arterial pressure − intracranial pressure",
+    "CPP = ICP − MAP",
+    "CPP = SBP − ICP",
+    "CPP = MAP × ICP"
+   ],
+   "ans": 0,
+   "exp": "CPP = mean arterial pressure − intracranial pressure (Book p441)"
+  },
+  {
+   "id": "SURG-C57-131",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Normal CPP:",
+   "opts": [
+    "≥60 mmHg",
+    "≥100 mmHg",
+    "≥40 mmHg",
+    "≥80 mmHg"
+   ],
+   "ans": 0,
+   "exp": "≥60 mmHg (Book p441)"
+  },
+  {
+   "id": "SURG-C57-132",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Cushing's reflex triad (response to maintain CPP despite ↑ICP):",
+   "opts": [
+    "↑SBP, ↓HR & altered respiration",
+    "↓SBP, ↑HR, tachypnea",
+    "↑SBP, ↑HR, apnea",
+    "↓SBP, ↓HR, bradypnea"
+   ],
+   "ans": 0,
+   "exp": "↑SBP, ↓HR & altered respiration (Book p441)"
+  },
+  {
+   "id": "SURG-C57-133",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "The MAP rises in raised ICT to:",
+   "opts": [
+    "Maintain CPP despite ↑ICP",
+    "Reduce brain volume",
+    "Treat hypertension",
+    "Shrink CSF spaces"
+   ],
+   "ans": 0,
+   "exp": "Maintain CPP despite ↑ICP (Book p441)"
+  },
+  {
+   "id": "SURG-C57-134",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Cushing's ulcers — site:",
+   "opts": [
+    "Acid producing areas of stomach",
+    "Duodenal cap only",
+    "Esophagus",
+    "Colon"
+   ],
+   "ans": 0,
+   "exp": "Acid producing areas of stomach (Book p441)"
+  },
+  {
+   "id": "SURG-C57-135",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "page": 441,
+   "q": "Cushing's ulcers — type:",
+   "opts": [
+    "Stress ulcers",
+    "Peptic ulcers",
+    "Dieulafoy lesions",
+    "Mallory-Weiss tears"
+   ],
+   "ans": 0,
+   "exp": "Stress ulcers (Book p441)"
+  },
+  {
+   "id": "SURG-C57-136",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Raised ICT in trauma — mx step 1:",
+   "opts": [
+    "Adequate oxygen",
+    "Mannitol first",
+    "Hyperventilation first",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Adequate oxygen (Book p442)"
+  },
+  {
+   "id": "SURG-C57-137",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Adequate perfusion in raised ICT means SBP:",
+   "opts": [
+    ">100 mmHg",
+    ">80 mmHg",
+    ">120 mmHg",
+    ">90 mmHg"
+   ],
+   "ans": 0,
+   "exp": ">100 mmHg (Book p442)"
+  },
+  {
+   "id": "SURG-C57-138",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Dextrose solutions are AVOIDED in head injury because they cause:",
+   "opts": [
+    "Hyperglycemia → worsens cerebral edema",
+    "Hyponatremia",
+    "Hypoglycemia",
+    "Metabolic acidosis"
+   ],
+   "ans": 0,
+   "exp": "Hyperglycemia → worsens cerebral edema (Book p442)"
+  },
+  {
+   "id": "SURG-C57-139",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Osmotic agent used in raised ICT:",
+   "opts": [
+    "I/V mannitol",
+    "Dextrose",
+    "Furosemide only",
+    "Hypertonic saline only"
+   ],
+   "ans": 0,
+   "exp": "I/V mannitol (Book p442)"
+  },
+  {
+   "id": "SURG-C57-140",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Hyperventilation in raised ICT is used:",
+   "opts": [
+    "Only in moderate amounts",
+    "Maximally",
+    "Never",
+    "Continuously for 48 h"
+   ],
+   "ans": 0,
+   "exp": "Only in moderate amounts (Book p442)"
+  },
+  {
+   "id": "SURG-C57-141",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Head position in raised ICT:",
+   "opts": [
+    "Slight elevation",
+    "Flat",
+    "Trendelenburg",
+    "Head down"
+   ],
+   "ans": 0,
+   "exp": "Slight elevation (Book p442)"
+  },
+  {
+   "id": "SURG-C57-142",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Role of steroids in traumatic raised ICT:",
+   "opts": [
+    "No role",
+    "First line",
+    "Given with mannitol",
+    "Always prophylactic"
+   ],
+   "ans": 0,
+   "exp": "No role (Book p442)"
+  },
+  {
+   "id": "SURG-C57-143",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Steroids ARE used in ↑ICT when there is:",
+   "opts": [
+    "Vasogenic edema d/t tumors",
+    "Cytotoxic edema",
+    "Any trauma",
+    "SAH"
+   ],
+   "ans": 0,
+   "exp": "Vasogenic edema d/t tumors (Book p442)"
+  },
+  {
+   "id": "SURG-C57-144",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Target PaCO2 in head injury:",
+   "opts": [
+    "4.5-5.0 kPa",
+    "6-7 kPa",
+    "3.0-3.5 kPa",
+    "8-9 kPa"
+   ],
+   "ans": 0,
+   "exp": "4.5-5.0 kPa (Book p442)"
+  },
+  {
+   "id": "SURG-C57-145",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Target PaO2 in head injury:",
+   "opts": [
+    ">11 kPa",
+    ">5 kPa",
+    ">8 kPa",
+    ">15 kPa"
+   ],
+   "ans": 0,
+   "exp": ">11 kPa (Book p442)"
+  },
+  {
+   "id": "SURG-C57-146",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Target MAP in head injury:",
+   "opts": [
+    "80-90 mmHg",
+    "60-70 mmHg",
+    "100-120 mmHg",
+    "50-60 mmHg"
+   ],
+   "ans": 0,
+   "exp": "80-90 mmHg (Book p442)"
+  },
+  {
+   "id": "SURG-C57-147",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Target ICP in head injury:",
+   "opts": [
+    "<20 mmHg",
+    "<30 mmHg",
+    "<40 mmHg",
+    "<60 mmHg"
+   ],
+   "ans": 0,
+   "exp": "<20 mmHg (Book p442)"
+  },
+  {
+   "id": "SURG-C57-148",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Target CPP in head injury:",
+   "opts": [
+    ">60 mmHg",
+    ">100 mmHg",
+    ">40 mmHg",
+    ">80 mmHg"
+   ],
+   "ans": 0,
+   "exp": ">60 mmHg (Book p442)"
+  },
+  {
+   "id": "SURG-C57-149",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Target [Na+] in head injury:",
+   "opts": [
+    ">140 mmol/L",
+    ">130 mmol/L",
+    ">120 mmol/L",
+    ">150 mmol/L"
+   ],
+   "ans": 0,
+   "exp": ">140 mmol/L (Book p442)"
+  },
+  {
+   "id": "SURG-C57-150",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Target [K+] in head injury:",
+   "opts": [
+    ">4 mmol/L",
+    ">3 mmol/L",
+    ">2.5 mmol/L",
+    ">5 mmol/L"
+   ],
+   "ans": 0,
+   "exp": ">4 mmol/L (Book p442)"
+  },
+  {
+   "id": "SURG-C57-151",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Prophylactic phenytoin/valproate is NOT recommended for:",
+   "opts": [
+    "Preventing LATE posttraumatic seizures (PTS)",
+    "Early PTS",
+    "Status epilepticus",
+    "Alcohol withdrawal"
+   ],
+   "ans": 0,
+   "exp": "Preventing LATE posttraumatic seizures (PTS) (Book p442)"
+  },
+  {
+   "id": "SURG-C57-152",
+   "sec": "Management of Raised ICT and Key Parameters",
+   "page": 442,
+   "q": "Phenytoin/valproate prophylaxis IS used in:",
+   "opts": [
+    "Early PTS",
+    "Late PTS",
+    "All PTS",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Early PTS (Book p442)"
+  },
+  {
+   "id": "SURG-C57-153",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "GCS criterion for discharge in mild head injury:",
+   "opts": [
+    "GCS 15/15 with no focal deficits",
+    "GCS ≥13",
+    "GCS 14/15",
+    "GCS ≥12"
+   ],
+   "ans": 0,
+   "exp": "GCS 15/15 with no focal deficits (Book p442)"
+  },
+  {
+   "id": "SURG-C57-154",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "CT requirement before discharge:",
+   "opts": [
+    "Normal CT brain if indicated",
+    "CT mandatory in all",
+    "No CT ever",
+    "CT only for elderly"
+   ],
+   "ans": 0,
+   "exp": "Normal CT brain if indicated (Book p442)"
+  },
+  {
+   "id": "SURG-C57-155",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "Patient must NOT be under the influence of:",
+   "opts": [
+    "Alcohol or drugs",
+    "Caffeine",
+    "Smoking",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Alcohol or drugs (Book p442)"
+  },
+  {
+   "id": "SURG-C57-156",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "Discharge requires the patient to be accompanied by:",
+   "opts": [
+    "A responsible adult",
+    "A doctor",
+    "A nurse",
+    "A physiotherapist"
+   ],
+   "ans": 0,
+   "exp": "A responsible adult (Book p442)"
+  },
+  {
+   "id": "SURG-C57-157",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "Advice format at discharge:",
+   "opts": [
+    "Verbal AND written head injury advice",
+    "Verbal only",
+    "Written only",
+    "No advice needed"
+   ],
+   "ans": 0,
+   "exp": "Verbal AND written head injury advice (Book p442)"
+  },
+  {
+   "id": "SURG-C57-158",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "Seek medical attention if — headache:",
+   "opts": [
+    "Persistent/worsening despite analgesia",
+    "Any mild headache",
+    "Headache at night only",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Persistent/worsening despite analgesia (Book p442)"
+  },
+  {
+   "id": "SURG-C57-159",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "Seek medical attention if — vomiting:",
+   "opts": [
+    "Persistent",
+    "One episode",
+    "Never",
+    "Only morning"
+   ],
+   "ans": 0,
+   "exp": "Persistent (Book p442)"
+  },
+  {
+   "id": "SURG-C57-160",
+   "sec": "NICE Discharge Criteria in Mild Head Injury",
+   "page": 442,
+   "q": "Seek medical attention symptoms also include:",
+   "opts": [
+    "Drowsiness, visual disturbance, limb weakness or numbness",
+    "Mild nausea",
+    "Neck stiffness only",
+    "Tinnitus only"
+   ],
+   "ans": 0,
+   "exp": "Drowsiness, visual disturbance, limb weakness or numbness (Book p442)"
+  },
+  {
+   "id": "SURG-C57-161",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Glasgow Outcome Score is a:",
+   "opts": [
+    "Prognostic score",
+    "Severity score",
+    "Anatomical score",
+    "Disability pension score"
+   ],
+   "ans": 0,
+   "exp": "Prognostic score (Book p443)"
+  },
+  {
+   "id": "SURG-C57-162",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Glasgow Outcome Score 1:",
+   "opts": [
+    "Death",
+    "Good recovery",
+    "PVS",
+    "Severe disability"
+   ],
+   "ans": 0,
+   "exp": "Death (Book p443)"
+  },
+  {
+   "id": "SURG-C57-163",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Glasgow Outcome Score 2:",
+   "opts": [
+    "Persistent vegetative state",
+    "Death",
+    "Moderate disability",
+    "Severe disability"
+   ],
+   "ans": 0,
+   "exp": "Persistent vegetative state (Book p443)"
+  },
+  {
+   "id": "SURG-C57-164",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Glasgow Outcome Score 3:",
+   "opts": [
+    "Severe disability",
+    "Moderate disability",
+    "Good recovery",
+    "PVS"
+   ],
+   "ans": 0,
+   "exp": "Severe disability (Book p443)"
+  },
+  {
+   "id": "SURG-C57-165",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Glasgow Outcome Score 4:",
+   "opts": [
+    "Moderate disability",
+    "Severe disability",
+    "Good recovery",
+    "Death"
+   ],
+   "ans": 0,
+   "exp": "Moderate disability (Book p443)"
+  },
+  {
+   "id": "SURG-C57-166",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Glasgow Outcome Score 5:",
+   "opts": [
+    "Good recovery",
+    "Moderate disability",
+    "PVS",
+    "Death"
+   ],
+   "ans": 0,
+   "exp": "Good recovery (Book p443)"
+  },
+  {
+   "id": "SURG-C57-167",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Brain death is certified by:",
+   "opts": [
+    "2 experts",
+    "1 expert",
+    "3 experts",
+    "A panel of 5"
+   ],
+   "ans": 0,
+   "exp": "2 experts (Book p443)"
+  },
+  {
+   "id": "SURG-C57-168",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Brain death can be declared only if:",
+   "opts": [
+    "There is no possibility of recovery of brain function",
+    "EEG is flat once",
+    "Pupils are sluggish",
+    "GCS is 5"
+   ],
+   "ans": 0,
+   "exp": "There is no possibility of recovery of brain function (Book p443)"
+  },
+  {
+   "id": "SURG-C57-169",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Brain death criteria — GCS:",
+   "opts": [
+    "3",
+    "≤5",
+    "≤8",
+    "0"
+   ],
+   "ans": 0,
+   "exp": "3 (Book p443)"
+  },
+  {
+   "id": "SURG-C57-170",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Brain death criteria — pupils:",
+   "opts": [
+    "Nonreactive",
+    "Sluggish",
+    "Constricted",
+    "Dilated but reactive"
+   ],
+   "ans": 0,
+   "exp": "Nonreactive (Book p443)"
+  },
+  {
+   "id": "SURG-C57-171",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Brain death criteria — brainstem reflexes:",
+   "opts": [
+    "Absent",
+    "Present",
+    "Hyperactive",
+    "Variable"
+   ],
+   "ans": 0,
+   "exp": "Absent (Book p443)"
+  },
+  {
+   "id": "SURG-C57-172",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Brain death criteria — ventilation:",
+   "opts": [
+    "No spontaneous ventilatory effort",
+    "Needs O2 only",
+    "Rapid shallow breathing",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "No spontaneous ventilatory effort (Book p443)"
+  },
+  {
+   "id": "SURG-C57-173",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Confounding factors excluded before brain death declaration:",
+   "opts": [
+    "Alcohol/drug intoxication & hypothermia",
+    "Diabetes",
+    "Anemia",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Alcohol/drug intoxication & hypothermia (Book p443)"
+  },
+  {
+   "id": "SURG-C57-174",
+   "sec": "Glasgow Outcome Score and Brain Death",
+   "page": 443,
+   "q": "Ancillary studies used in brain death:",
+   "opts": [
+    "EEG & cerebral angiography",
+    "MRI only",
+    "PET only",
+    "LP"
+   ],
+   "ans": 0,
+   "exp": "EEG & cerebral angiography (Book p443)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U57-1",
+   "ch": 57,
+   "n": 1,
+   "title": "Anatomy of Scalp (SCALP) and Scalp Laceration",
+   "sec": "Anatomy of Scalp (SCALP) and Scalp Laceration · p435",
+   "qs": [
+    "SURG-C57-001",
+    "SURG-C57-002",
+    "SURG-C57-003",
+    "SURG-C57-004",
+    "SURG-C57-005",
+    "SURG-C57-006",
+    "SURG-C57-007",
+    "SURG-C57-008",
+    "SURG-C57-009",
+    "SURG-C57-010",
+    "SURG-C57-011",
+    "SURG-C57-012",
+    "SURG-C57-013",
+    "SURG-C57-014"
+   ],
+   "guide": "Scalp layers ride the SCALP mnemonic — Skin, Connective tissue, Aponeurosis, Loose areolar tissue, Periosteum. The dense connective layer anchors vessels to fibrous septa so they cannot constrict: pressure first, then suture (no 1/1-0/2-0; cutting or reverse-cutting needle). Blood under the aponeurosis tracks to a black eye, and loose areolar tissue carries infection from the dangerous area of the face retrograde via emissary veins into cavernous sinus thrombosis."
+  },
+  {
+   "id": "SURG-U57-2",
+   "ch": 57,
+   "n": 2,
+   "title": "Skull Fractures: Depressed vs Non-Depressed",
+   "sec": "Skull Fractures: Depressed vs Non-Depressed · p435",
+   "qs": [
+    "SURG-C57-015",
+    "SURG-C57-016",
+    "SURG-C57-017",
+    "SURG-C57-018",
+    "SURG-C57-019"
+   ],
+   "guide": "Non-depressed skull fractures heal with conservative mx; depressed ones get an NCCT (the IOC for head injury) and are elevated and fixed only for focal neurological signs or depression deeper than the adjacent skull."
+  },
+  {
+   "id": "SURG-U57-3",
+   "ch": 57,
+   "n": 3,
+   "title": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa",
+   "sec": "Base of Skull Fractures: Anterior / Middle / Posterior Fossa · p436",
+   "qs": [
+    "SURG-C57-020",
+    "SURG-C57-021",
+    "SURG-C57-022",
+    "SURG-C57-023",
+    "SURG-C57-024",
+    "SURG-C57-025",
+    "SURG-C57-026",
+    "SURG-C57-027",
+    "SURG-C57-028",
+    "SURG-C57-029",
+    "SURG-C57-030",
+    "SURG-C57-031",
+    "SURG-C57-032",
+    "SURG-C57-033",
+    "SURG-C57-034",
+    "SURG-C57-035",
+    "SURG-C57-036",
+    "SURG-C57-037",
+    "SURG-C57-038",
+    "SURG-C57-039",
+    "SURG-C57-040",
+    "SURG-C57-041",
+    "SURG-C57-042"
+   ],
+   "guide": "Fossa-wise: anterior fractures hit the cribriform plate (bilateral raccoon eyes whose posterior border vanishes, CSF rhinorrhoea with halo sign and β2 transferrin, epistaxis, anosmia, frontal contusion); middle hit the petrous temporal (Battle sign at 24-48 h, hemotympanum, otorrhea, facial palsy, paradoxical rhinorrhoea); posterior hit the occipital bone (visual problems, VI nerve, Vernet syndrome IX-XI). Treat as open fractures with a 3rd-gen cephalosporin and never pack the nose/ear."
+  },
+  {
+   "id": "SURG-U57-4",
+   "ch": 57,
+   "n": 4,
+   "title": "NICE Guidelines for Head Injury",
+   "sec": "NICE Guidelines for Head Injury · p437",
+   "qs": [
+    "SURG-C57-043",
+    "SURG-C57-044",
+    "SURG-C57-045",
+    "SURG-C57-046",
+    "SURG-C57-047",
+    "SURG-C57-048",
+    "SURG-C57-049",
+    "SURG-C57-050",
+    "SURG-C57-051",
+    "SURG-C57-052",
+    "SURG-C57-053",
+    "SURG-C57-054",
+    "SURG-C57-055",
+    "SURG-C57-056",
+    "SURG-C57-057"
+   ],
+   "guide": "NICE: rule out cervical spine injury in everyone and log GCS half-hourly for 2 h, hourly to 6 h, then 2-hourly. Adults get CT within 1 h for GCS <13 anytime, <15 at 2 h, focal deficit, suspected open/depressed/basal fracture, >1 vomit, post-traumatic seizure or LOC — and within 8 h for age >65 or retrograde amnesia >30 min. Children add NAI suspicion, first seizure, GCS <14/<15 in under-ones and >5 cm swellings; GCS ≤8, a falling GCS or confusion >4 h calls the neurosurgeon."
+  },
+  {
+   "id": "SURG-U57-5",
+   "ch": 57,
+   "n": 5,
+   "title": "Brain Injury: Types, Severity, Concussion vs DAI",
+   "sec": "Brain Injury: Types, Severity, Concussion vs DAI · p438",
+   "qs": [
+    "SURG-C57-058",
+    "SURG-C57-059",
+    "SURG-C57-060",
+    "SURG-C57-061",
+    "SURG-C57-062",
+    "SURG-C57-063",
+    "SURG-C57-064",
+    "SURG-C57-065",
+    "SURG-C57-066",
+    "SURG-C57-067",
+    "SURG-C57-068",
+    "SURG-C57-069",
+    "SURG-C57-070",
+    "SURG-C57-071",
+    "SURG-C57-072",
+    "SURG-C57-073",
+    "SURG-C57-074",
+    "SURG-C57-075",
+    "SURG-C57-076",
+    "SURG-C57-077",
+    "SURG-C57-078",
+    "SURG-C57-079",
+    "SURG-C57-080",
+    "SURG-C57-081"
+   ],
+   "guide": "Primary injury comes with the impact, secondary with rising ICT; severity runs minor (15, no LOC), mild (14, LOC), moderate (9-13), severe (≤8). Concussion — the mildest — grades Colorado I-II-III (confusion, amnesia, LOC) and heals off contact sports; DAI — the worst — shears grey-white junction with coma, a normal NCCT, punctate MRI hemorrhages and retraction balls at autopsy. Isolated head injury rarely drops the BP: suspect thorax/pelvis/abdomen/long-bone bleeding, neurogenic bladder or late herniation."
+  },
+  {
+   "id": "SURG-U57-6",
+   "ch": 57,
+   "n": 6,
+   "title": "Intracranial Haemorrhages: Contusion and Extradural (EDH)",
+   "sec": "Intracranial Haemorrhages: Contusion and Extradural (EDH) · p439",
+   "qs": [
+    "SURG-C57-082",
+    "SURG-C57-083",
+    "SURG-C57-084",
+    "SURG-C57-085",
+    "SURG-C57-086",
+    "SURG-C57-087",
+    "SURG-C57-088",
+    "SURG-C57-089",
+    "SURG-C57-090",
+    "SURG-C57-091",
+    "SURG-C57-092",
+    "SURG-C57-093",
+    "SURG-C57-094",
+    "SURG-C57-095",
+    "SURG-C57-096",
+    "SURG-C57-097",
+    "SURG-C57-098",
+    "SURG-C57-099",
+    "SURG-C57-100",
+    "SURG-C57-101"
+   ],
+   "guide": "Contusion is the commonest traumatic bleed (temporal > frontal, personality changes when frontal) — NCCT, control ICT, evacuate only when it coalesces. EDH is a young person's high-velocity bleed from the middle meningeal artery near the pterion: lucid interval (±, not pathognomonic), biconvex clot splinted by sutures, and craniotomy for >30 cc, >5 mm shift or >1.5 cm thickness — pick the side off the CT or the dilated pupil (left EDH → right hemiparesis normally)."
+  },
+  {
+   "id": "SURG-U57-7",
+   "ch": 57,
+   "n": 7,
+   "title": "Kernohan Notch Phenomenon",
+   "sec": "Kernohan Notch Phenomenon · p440",
+   "qs": [
+    "SURG-C57-102",
+    "SURG-C57-103",
+    "SURG-C57-104",
+    "SURG-C57-105",
+    "SURG-C57-106"
+   ],
+   "guide": "Kernohan notch: a left temporal EDH pushes ↑ICT, uncal herniation, and the notch on the RIGHT crushes the right corticospinal tract — so the LEFT side becomes weak and the bleed is falsely localised as right-sided."
+  },
+  {
+   "id": "SURG-U57-8",
+   "ch": 57,
+   "n": 8,
+   "title": "Subdural Haemorrhage and Traumatic SAH",
+   "sec": "Subdural Haemorrhage and Traumatic SAH · p440",
+   "qs": [
+    "SURG-C57-107",
+    "SURG-C57-108",
+    "SURG-C57-109",
+    "SURG-C57-110",
+    "SURG-C57-111",
+    "SURG-C57-112",
+    "SURG-C57-113",
+    "SURG-C57-114",
+    "SURG-C57-115",
+    "SURG-C57-116",
+    "SURG-C57-117",
+    "SURG-C57-118",
+    "SURG-C57-119",
+    "SURG-C57-120",
+    "SURG-C57-121"
+   ],
+   "guide": "SDH is timed acute <3 d, subacute 3-21 d, chronic >21 d; the chronic one is an elderly post-trivial-illness bridging-vein bleed that wakes up altered weeks later. CT shows a concavo-convex crescent between dura and arachnoid that ignores suture lines. Surgery needs any one of >1 cm thickness or >5 mm shift, or any two of >2-point GCS drop, ICP >20 mmHg, fixed dilated pupil. Traumatic SAH — trauma is the commonest SAH cause — stays conservative."
+  },
+  {
+   "id": "SURG-U57-9",
+   "ch": 57,
+   "n": 9,
+   "title": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's",
+   "sec": "Bleeds Summary, Secondary Brain Injury, Monro-Kellie, CPP & Cushing's · p441",
+   "qs": [
+    "SURG-C57-122",
+    "SURG-C57-123",
+    "SURG-C57-124",
+    "SURG-C57-125",
+    "SURG-C57-126",
+    "SURG-C57-127",
+    "SURG-C57-128",
+    "SURG-C57-129",
+    "SURG-C57-130",
+    "SURG-C57-131",
+    "SURG-C57-132",
+    "SURG-C57-133",
+    "SURG-C57-134",
+    "SURG-C57-135"
+   ],
+   "guide": "The summary table contrasts EDH (young, high velocity, lucid, biconvex) with chronic SDH (elderly, trivial, delayed sensorium, concavo-convex) and DAI (high velocity coma, MRI IOC). Monro-Kellie balances venous, arterial, brain and CSF volumes until decompensation. CPP = MAP − ICP and must stay ≥60; the Cushing reflex buys perfusion with ↑SBP, ↓HR and altered respiration, while Cushing's stress ulcers blossom in acid-producing stomach areas."
+  },
+  {
+   "id": "SURG-U57-10",
+   "ch": 57,
+   "n": 10,
+   "title": "Management of Raised ICT and Key Parameters",
+   "sec": "Management of Raised ICT and Key Parameters · p442",
+   "qs": [
+    "SURG-C57-136",
+    "SURG-C57-137",
+    "SURG-C57-138",
+    "SURG-C57-139",
+    "SURG-C57-140",
+    "SURG-C57-141",
+    "SURG-C57-142",
+    "SURG-C57-143",
+    "SURG-C57-144",
+    "SURG-C57-145",
+    "SURG-C57-146",
+    "SURG-C57-147",
+    "SURG-C57-148",
+    "SURG-C57-149",
+    "SURG-C57-150",
+    "SURG-C57-151",
+    "SURG-C57-152"
+   ],
+   "guide": "Raised ICT in trauma: oxygenate, perfuse (SBP >100), skip dextrose (hyperglycemia worsens edema), give IV mannitol, hyperventilate only moderately, elevate the head, and no steroids — except vasogenic tumour edema. Hold PaCO2 4.5-5.0 kPa, PaO2 >11, MAP 80-90, ICP <20, CPP >60, Na >140, K >4; phenytoin/valproate covers early PTS but not late seizures."
+  },
+  {
+   "id": "SURG-U57-11",
+   "ch": 57,
+   "n": 11,
+   "title": "NICE Discharge Criteria in Mild Head Injury",
+   "sec": "NICE Discharge Criteria in Mild Head Injury · p442",
+   "qs": [
+    "SURG-C57-153",
+    "SURG-C57-154",
+    "SURG-C57-155",
+    "SURG-C57-156",
+    "SURG-C57-157",
+    "SURG-C57-158",
+    "SURG-C57-159",
+    "SURG-C57-160"
+   ],
+   "guide": "Mild head injury discharges home only with GCS 15/15 without deficits, a normal CT if CT was indicated, no alcohol/drugs on board, a responsible adult and verbal-plus-written advice; return for persistent headache, vomiting, drowsiness, visual disturbance or limb weakness."
+  },
+  {
+   "id": "SURG-U57-12",
+   "ch": 57,
+   "n": 12,
+   "title": "Glasgow Outcome Score and Brain Death",
+   "sec": "Glasgow Outcome Score and Brain Death · p443",
+   "qs": [
+    "SURG-C57-161",
+    "SURG-C57-162",
+    "SURG-C57-163",
+    "SURG-C57-164",
+    "SURG-C57-165",
+    "SURG-C57-166",
+    "SURG-C57-167",
+    "SURG-C57-168",
+    "SURG-C57-169",
+    "SURG-C57-170",
+    "SURG-C57-171",
+    "SURG-C57-172",
+    "SURG-C57-173",
+    "SURG-C57-174"
+   ],
+   "guide": "Glasgow Outcome Score walks 1-5: death, vegetative state, severe disability, moderate disability, good recovery. Brain death is certified by two experts when nothing can recover — GCS 3, nonreactive pupils, absent brainstem reflexes, no spontaneous ventilatory effort, no confounders (alcohol, drugs, hypothermia) — with EEG and cerebral angiography as ancillary support."
+  }
+ ]
+}

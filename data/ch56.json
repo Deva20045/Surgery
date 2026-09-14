@@ -1,0 +1,2206 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C56-001",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "Thoracic trauma is m/c seen in:",
+   "opts": [
+    "Polytrauma patients",
+    "Isolated assault victims",
+    "Burns patients",
+    "Post-operative ICU patients"
+   ],
+   "ans": 0,
+   "exp": "Polytrauma patients (Book p426)"
+  },
+  {
+   "id": "SURG-C56-002",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "The m/c cause of death in blunt thoracic trauma is:",
+   "opts": [
+    "Tracheobronchial injury",
+    "Hemothorax",
+    "Rib fracture",
+    "Pulmonary contusion"
+   ],
+   "ans": 0,
+   "exp": "Tracheobronchial injury (Book p426)"
+  },
+  {
+   "id": "SURG-C56-003",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "The m/c cause of death in penetrating thoracic trauma is:",
+   "opts": [
+    "Hemothorax 2° to pulmonary laceration",
+    "Tracheobronchial injury",
+    "Cardiac tamponade",
+    "Airway obstruction"
+   ],
+   "ans": 0,
+   "exp": "Hemothorax 2° to pulmonary laceration (Book p426)"
+  },
+  {
+   "id": "SURG-C56-004",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "Which life-threatening AIRWAY injuries are looked for during the 1° survey?",
+   "opts": [
+    "Airway obstruction & tracheobronchial tree injury",
+    "Tension pneumothorax & open pneumothorax",
+    "Massive hemothorax & tamponade",
+    "Pulmonary contusion & flail chest"
+   ],
+   "ans": 0,
+   "exp": "Airway obstruction & tracheobronchial tree injury (Book p426)"
+  },
+  {
+   "id": "SURG-C56-005",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "Which life-threatening BREATHING injuries are looked for during the 1° survey?",
+   "opts": [
+    "Tension pneumothorax & open pneumothorax",
+    "Airway obstruction & tracheobronchial injury",
+    "Massive hemothorax & cardiac tamponade",
+    "Traumatic circulatory arrest & tamponade"
+   ],
+   "ans": 0,
+   "exp": "Tension pneumothorax & open pneumothorax (Book p426)"
+  },
+  {
+   "id": "SURG-C56-006",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "Which life-threatening CIRCULATION injuries are looked for during the 1° survey?",
+   "opts": [
+    "Massive hemothorax, cardiac tamponade & traumatic circulatory arrest",
+    "Tension & open pneumothorax",
+    "Airway obstruction & tracheobronchial injury",
+    "Rib fracture & flail chest"
+   ],
+   "ans": 0,
+   "exp": "Massive hemothorax, cardiac tamponade & traumatic circulatory arrest (Book p426)"
+  },
+  {
+   "id": "SURG-C56-007",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "The 1st investigation in thoracic trauma is:",
+   "opts": [
+    "Chest X-ray (AP view)",
+    "CT chest",
+    "eFAST",
+    "Pulse oximetry"
+   ],
+   "ans": 0,
+   "exp": "Chest X-ray (AP view) (Book p426)"
+  },
+  {
+   "id": "SURG-C56-008",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "The 2nd investigation in thoracic trauma is:",
+   "opts": [
+    "eFAST (extended focused assessment sonogram in trauma)",
+    "Chest X-ray (AP view)",
+    "CT angiography",
+    "Pulse oximetry"
+   ],
+   "ans": 0,
+   "exp": "eFAST (extended focused assessment sonogram in trauma) (Book p426)"
+  },
+  {
+   "id": "SURG-C56-009",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "The 3rd investigation in thoracic trauma is:",
+   "opts": [
+    "Pulse oximetry",
+    "eFAST",
+    "Chest X-ray",
+    "ABG"
+   ],
+   "ans": 0,
+   "exp": "Pulse oximetry (Book p426)"
+  },
+  {
+   "id": "SURG-C56-010",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "The majority of thoracic trauma is managed:",
+   "opts": [
+    "Conservatively with chest tubes",
+    "By emergency thoracotomy",
+    "By sternotomy",
+    "With IPPV"
+   ],
+   "ans": 0,
+   "exp": "Conservatively with chest tubes (Book p426)"
+  },
+  {
+   "id": "SURG-C56-011",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "In eFAST, the epigastric/subxiphoid probe gives the:",
+   "opts": [
+    "Pericardial window",
+    "Perisplenic window",
+    "Perihepatic window",
+    "Pelvic window"
+   ],
+   "ans": 0,
+   "exp": "Pericardial window (Book p426)"
+  },
+  {
+   "id": "SURG-C56-012",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "In eFAST, the suprapubic probe looks for fluid collection in the:",
+   "opts": [
+    "Pelvis",
+    "Pericardium",
+    "Left chest",
+    "Right chest"
+   ],
+   "ans": 0,
+   "exp": "Pelvis (Book p426)"
+  },
+  {
+   "id": "SURG-C56-013",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "page": 426,
+   "q": "The RUQ and LUQ probes in eFAST look for collections around the liver and:",
+   "opts": [
+    "Spleen",
+    "Kidneys",
+    "Pancreas",
+    "Pericardium"
+   ],
+   "ans": 0,
+   "exp": "Spleen (Book p426)"
+  },
+  {
+   "id": "SURG-C56-014",
+   "sec": "Rib Fractures",
+   "page": 426,
+   "q": "The m/c type of thoracic trauma is:",
+   "opts": [
+    "Rib fractures",
+    "Pneumothorax",
+    "Hemothorax",
+    "Flail chest"
+   ],
+   "ans": 0,
+   "exp": "Rib fractures (Book p426)"
+  },
+  {
+   "id": "SURG-C56-015",
+   "sec": "Rib Fractures",
+   "page": 426,
+   "q": "The m/c ribs fractured during CPR are the:",
+   "opts": [
+    "3-5th ribs",
+    "1st-2nd ribs",
+    "8-10th ribs",
+    "11-12th ribs"
+   ],
+   "ans": 0,
+   "exp": "3-5th ribs (Book p426)"
+  },
+  {
+   "id": "SURG-C56-016",
+   "sec": "Rib Fractures",
+   "page": 426,
+   "q": "High velocity impact (RTA) leads to fractures of the:",
+   "opts": [
+    "1st / 10-12th ribs",
+    "3-5th ribs only",
+    "6-8th ribs only",
+    "Only the sternum"
+   ],
+   "ans": 0,
+   "exp": "1st / 10-12th ribs (Book p426)"
+  },
+  {
+   "id": "SURG-C56-017",
+   "sec": "Rib Fractures",
+   "page": 426,
+   "q": "Structures associated with 1st rib fracture are:",
+   "opts": [
+    "Apex of lung, brachial plexus & subclavian vessels",
+    "Spleen and liver",
+    "Trachea and esophagus",
+    "Diaphragm and colon"
+   ],
+   "ans": 0,
+   "exp": "Apex of lung, brachial plexus & subclavian vessels (Book p426)"
+  },
+  {
+   "id": "SURG-C56-018",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "Injury to the 10-12th (floating) ribs on the LEFT suggests:",
+   "opts": [
+    "Splenic injury",
+    "Liver injury",
+    "Renal injury",
+    "Cardiac injury"
+   ],
+   "ans": 0,
+   "exp": "Splenic injury (Book p427)"
+  },
+  {
+   "id": "SURG-C56-019",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "Injury to the 10-12th (floating) ribs on the RIGHT suggests:",
+   "opts": [
+    "Liver injury",
+    "Splenic injury",
+    "Duodenal injury",
+    "Bladder injury"
+   ],
+   "ans": 0,
+   "exp": "Liver injury (Book p427)"
+  },
+  {
+   "id": "SURG-C56-020",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "ANTERIOR aspect of the rib on CXR is located:",
+   "opts": [
+    "Away from the midline",
+    "Closer to the midline",
+    "Over the spine",
+    "Below the clavicle"
+   ],
+   "ans": 0,
+   "exp": "Away from the midline (Book p427)"
+  },
+  {
+   "id": "SURG-C56-021",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "POSTERIOR aspect of the rib on CXR is located:",
+   "opts": [
+    "Closer to the midline",
+    "Away from the midline",
+    "Near the axilla",
+    "Below the scapula"
+   ],
+   "ans": 0,
+   "exp": "Closer to the midline (Book p427)"
+  },
+  {
+   "id": "SURG-C56-022",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "ANTERIOR ribs are oriented:",
+   "opts": [
+    "Obliquely",
+    "Horizontally",
+    "Vertically",
+    "Spirally"
+   ],
+   "ans": 0,
+   "exp": "Obliquely (Book p427)"
+  },
+  {
+   "id": "SURG-C56-023",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "POSTERIOR ribs are oriented:",
+   "opts": [
+    "Horizontally",
+    "Obliquely",
+    "Vertically",
+    "Randomly"
+   ],
+   "ans": 0,
+   "exp": "Horizontally (Book p427)"
+  },
+  {
+   "id": "SURG-C56-024",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "Rib fractures are m/c seen in:",
+   "opts": [
+    "Adults",
+    "Children",
+    "Neonates",
+    "Elderly only"
+   ],
+   "ans": 0,
+   "exp": "Adults (Book p427)"
+  },
+  {
+   "id": "SURG-C56-025",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "In children the ribs are pliable, so chest trauma tends to:",
+   "opts": [
+    "Damage the underlying organs without fracture",
+    "Always fracture upper ribs",
+    "Cause flail chest",
+    "Spare all intrathoracic organs"
+   ],
+   "ans": 0,
+   "exp": "Damage the underlying organs without fracture (Book p427)"
+  },
+  {
+   "id": "SURG-C56-026",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "Clinical features of rib fracture include pain and:",
+   "opts": [
+    "Bruising on the chest",
+    "Paradoxical movement",
+    "Tracheal shift",
+    "Muffled heart sounds"
+   ],
+   "ans": 0,
+   "exp": "Bruising on the chest (Book p427)"
+  },
+  {
+   "id": "SURG-C56-027",
+   "sec": "Rib Fractures",
+   "page": 427,
+   "q": "Treatment of an isolated rib fracture is:",
+   "opts": [
+    "Adequate analgesia",
+    "Strapping of chest",
+    "Rib fixation",
+    "IPPV"
+   ],
+   "ans": 0,
+   "exp": "Adequate analgesia (Book p427)"
+  },
+  {
+   "id": "SURG-C56-028",
+   "sec": "Rib Fractures",
+   "page": 426,
+   "q": "CXR shows ribs 1-11; rib fractures missing on CXR suggest injury to the:",
+   "opts": [
+    "12th rib (rarely fractured)",
+    "1st rib",
+    "4th rib",
+    "7th rib"
+   ],
+   "ans": 0,
+   "exp": "12th rib (rarely fractured) (Book p426)"
+  },
+  {
+   "id": "SURG-C56-029",
+   "sec": "Flail Chest",
+   "page": 427,
+   "q": "Flail chest is defined as fracture of:",
+   "opts": [
+    "≥2 consecutive ribs at ≥2 places",
+    "≥3 ribs at 1 place",
+    "1 rib at 2 places",
+    "≥2 ribs anywhere"
+   ],
+   "ans": 0,
+   "exp": "≥2 consecutive ribs at ≥2 places (Book p427)"
+  },
+  {
+   "id": "SURG-C56-030",
+   "sec": "Flail Chest",
+   "page": 427,
+   "q": "The leading cause of death in flail chest is:",
+   "opts": [
+    "Underlying pulmonary contusion",
+    "Paradoxical movement",
+    "Pneumothorax",
+    "Aortic injury"
+   ],
+   "ans": 0,
+   "exp": "Underlying pulmonary contusion (Book p427)"
+  },
+  {
+   "id": "SURG-C56-031",
+   "sec": "Flail Chest",
+   "page": 427,
+   "q": "Paradoxical chest movement in flail chest means the flail segment:",
+   "opts": [
+    "Moves in the opposite direction of the chest wall",
+    "Moves with the chest wall",
+    "Is completely immobile",
+    "Moves only on coughing"
+   ],
+   "ans": 0,
+   "exp": "Moves in the opposite direction of the chest wall (Book p427)"
+  },
+  {
+   "id": "SURG-C56-032",
+   "sec": "Flail Chest",
+   "page": 427,
+   "q": "During INSPIRATION the flail segment:",
+   "opts": [
+    "Moves in",
+    "Moves out",
+    "Does not move",
+    "Moves up"
+   ],
+   "ans": 0,
+   "exp": "Moves in (Book p427)"
+  },
+  {
+   "id": "SURG-C56-033",
+   "sec": "Flail Chest",
+   "page": 427,
+   "q": "During EXPIRATION the flail segment:",
+   "opts": [
+    "Moves out",
+    "Moves in",
+    "Does not move",
+    "Moves down"
+   ],
+   "ans": 0,
+   "exp": "Moves out (Book p427)"
+  },
+  {
+   "id": "SURG-C56-034",
+   "sec": "Flail Chest",
+   "page": 428,
+   "q": "The Ix of flail chest is:",
+   "opts": [
+    "Chest X-ray",
+    "CT chest",
+    "USG chest",
+    "Fluoroscopy"
+   ],
+   "ans": 0,
+   "exp": "Chest X-ray (Book p428)"
+  },
+  {
+   "id": "SURG-C56-035",
+   "sec": "Flail Chest",
+   "page": 428,
+   "q": "Initial mx of flail chest is:",
+   "opts": [
+    "O2 + adequate analgesia (thoracic epidural)",
+    "Immediate surgical fixation",
+    "Chest strapping",
+    "Tracheostomy"
+   ],
+   "ans": 0,
+   "exp": "O2 + adequate analgesia (thoracic epidural) (Book p428)"
+  },
+  {
+   "id": "SURG-C56-036",
+   "sec": "Flail Chest",
+   "page": 428,
+   "q": "The preferred mode of analgesia in flail chest is:",
+   "opts": [
+    "Thoracic epidural",
+    "NSAIDs only",
+    "Intercostal block only",
+    "IV opioids only"
+   ],
+   "ans": 0,
+   "exp": "Thoracic epidural (Book p428)"
+  },
+  {
+   "id": "SURG-C56-037",
+   "sec": "Flail Chest",
+   "page": 428,
+   "q": "IPPV is indicated in flail chest when:",
+   "opts": [
+    "RR > 30/min & pO2 < 60 mmHg",
+    "RR > 10/min & pO2 < 90 mmHg",
+    "RR < 12/min & pCO2 > 45 mmHg",
+    "RR > 40/min & pO2 > 80 mmHg"
+   ],
+   "ans": 0,
+   "exp": "RR > 30/min & pO2 < 60 mmHg (Book p428)"
+  },
+  {
+   "id": "SURG-C56-038",
+   "sec": "Flail Chest",
+   "page": 428,
+   "q": "IPPV in flail chest serves as:",
+   "opts": [
+    "Internal splinting",
+    "External splinting",
+    "Secretion clearance",
+    "Analgesia"
+   ],
+   "ans": 0,
+   "exp": "Internal splinting (Book p428)"
+  },
+  {
+   "id": "SURG-C56-039",
+   "sec": "Flail Chest",
+   "page": 428,
+   "q": "Surgical fixation of flail chest is done when despite IPPV:",
+   "opts": [
+    "RR > 30/min & pO2 < 60 mmHg persist",
+    "Pain is mild",
+    "CXR is normal",
+    "Patient is asymptomatic"
+   ],
+   "ans": 0,
+   "exp": "RR > 30/min & pO2 < 60 mmHg persist (Book p428)"
+  },
+  {
+   "id": "SURG-C56-040",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "Pneumothorax is accumulation of air in the:",
+   "opts": [
+    "Pleural space",
+    "Pericardial space",
+    "Peritoneal space",
+    "Mediastinum"
+   ],
+   "ans": 0,
+   "exp": "Pleural space (Book p428)"
+  },
+  {
+   "id": "SURG-C56-041",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "The two types of pneumothorax are:",
+   "opts": [
+    "Simple and Tension",
+    "Open and Closed only",
+    "Wet and Dry",
+    "Acute and Chronic"
+   ],
+   "ans": 0,
+   "exp": "Simple and Tension (Book p428)"
+  },
+  {
+   "id": "SURG-C56-042",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "In SIMPLE pneumothorax there is:",
+   "opts": [
+    "No change in hemodynamic status",
+    "Altered hemodynamic status",
+    "Always shock",
+    "Tracheal shift to same side"
+   ],
+   "ans": 0,
+   "exp": "No change in hemodynamic status (Book p428)"
+  },
+  {
+   "id": "SURG-C56-043",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "In TENSION pneumothorax there is:",
+   "opts": [
+    "Altered hemodynamic status",
+    "No change in hemodynamics",
+    "Only mild dyspnea",
+    "Normal JVP"
+   ],
+   "ans": 0,
+   "exp": "Altered hemodynamic status (Book p428)"
+  },
+  {
+   "id": "SURG-C56-044",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "Etiology of tension pneumothorax (1):",
+   "opts": [
+    "Tracheobronchial injury",
+    "Esophageal rupture",
+    "Diaphragmatic injury",
+    "Sternal fracture"
+   ],
+   "ans": 0,
+   "exp": "Tracheobronchial injury (Book p428)"
+  },
+  {
+   "id": "SURG-C56-045",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "Etiology of tension pneumothorax (2):",
+   "opts": [
+    "Large pulmonary laceration with air leak",
+    "Small hemothorax",
+    "Rib bruising",
+    "Cardiac contusion"
+   ],
+   "ans": 0,
+   "exp": "Large pulmonary laceration with air leak (Book p428)"
+  },
+  {
+   "id": "SURG-C56-046",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "Etiology of tension pneumothorax (3):",
+   "opts": [
+    "Penetrating wound in the chest wall (open pneumothorax)",
+    "Blunt abdominal trauma",
+    "CPR fractures",
+    "Whiplash injury"
+   ],
+   "ans": 0,
+   "exp": "Penetrating wound in the chest wall (open pneumothorax) (Book p428)"
+  },
+  {
+   "id": "SURG-C56-047",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "A stab wound to the chest wall acts as a:",
+   "opts": [
+    "Sucking wound (one-way valve)",
+    "Two-way valve",
+    "Self-sealing wound",
+    "Vacuum"
+   ],
+   "ans": 0,
+   "exp": "Sucking wound (one-way valve) (Book p428)"
+  },
+  {
+   "id": "SURG-C56-048",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "The immediate effect of a one-way valve chest wound is:",
+   "opts": [
+    "Collapse of affected lung & hyperinflation of opposite lung",
+    "Bilateral collapse",
+    "Collapse of opposite lung",
+    "No lung change"
+   ],
+   "ans": 0,
+   "exp": "Collapse of affected lung & hyperinflation of opposite lung (Book p428)"
+  },
+  {
+   "id": "SURG-C56-049",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "page": 428,
+   "q": "As tension pneumothorax progresses (mins/hours):",
+   "opts": [
+    "Trachea shifts to opposite side & heart gets compressed",
+    "Trachea shifts to same side",
+    "Trachea & heart unaffected",
+    "Heart gets dilated"
+   ],
+   "ans": 0,
+   "exp": "Trachea shifts to opposite side & heart gets compressed (Book p428)"
+  },
+  {
+   "id": "SURG-C56-050",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Tension pneumothorax is a:",
+   "opts": [
+    "Clinical diagnosis",
+    "Radiological diagnosis",
+    "CT-based diagnosis",
+    "Laboratory diagnosis"
+   ],
+   "ans": 0,
+   "exp": "Clinical diagnosis (Book p429)"
+  },
+  {
+   "id": "SURG-C56-051",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Clinical features of tension pneumothorax include all EXCEPT:",
+   "opts": [
+    "Bradycardia",
+    "Tachypnea (↑RR)",
+    "Tachycardia (↑HR)",
+    "↓SBP"
+   ],
+   "ans": 0,
+   "exp": "Bradycardia (Book p429)"
+  },
+  {
+   "id": "SURG-C56-052",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "JVP in tension pneumothorax is:",
+   "opts": [
+    "↑ (raised)",
+    "Normal",
+    "Absent",
+    "Low"
+   ],
+   "ans": 0,
+   "exp": "↑ (raised) (Book p429)"
+  },
+  {
+   "id": "SURG-C56-053",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Breath sounds in tension pneumothorax are:",
+   "opts": [
+    "Absent",
+    "Normal",
+    "Bronchial",
+    "Vesicular"
+   ],
+   "ans": 0,
+   "exp": "Absent (Book p429)"
+  },
+  {
+   "id": "SURG-C56-054",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Percussion note in tension pneumothorax is:",
+   "opts": [
+    "Hyperresonant",
+    "Dull",
+    "Normal",
+    "Stony dull"
+   ],
+   "ans": 0,
+   "exp": "Hyperresonant (Book p429)"
+  },
+  {
+   "id": "SURG-C56-055",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Cardiac sounds in tension pneumothorax are:",
+   "opts": [
+    "Normal",
+    "Muffled",
+    "Loud",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p429)"
+  },
+  {
+   "id": "SURG-C56-056",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "vs cardiac tamponade: breath sounds and percussion note are:",
+   "opts": [
+    "Normal",
+    "Absent and hyperresonant",
+    "Absent and dull",
+    "Bronchial and dull"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p429)"
+  },
+  {
+   "id": "SURG-C56-057",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "vs cardiac tamponade: the distinguishing cardiac finding is:",
+   "opts": [
+    "Muffled cardiac sounds",
+    "Normal cardiac sounds",
+    "Accentuated S1",
+    "Pericardial knock"
+   ],
+   "ans": 0,
+   "exp": "Muffled cardiac sounds (Book p429)"
+  },
+  {
+   "id": "SURG-C56-058",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "In hemothorax the percussion note is:",
+   "opts": [
+    "Dull",
+    "Hyperresonant",
+    "Normal",
+    "Tympanic"
+   ],
+   "ans": 0,
+   "exp": "Dull (Book p429)"
+  },
+  {
+   "id": "SURG-C56-059",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "In hemothorax the JVP is:",
+   "opts": [
+    "Normal (–)",
+    "Raised",
+    "Collapsed",
+    "Bilaterally raised"
+   ],
+   "ans": 0,
+   "exp": "Normal (–) (Book p429)"
+  },
+  {
+   "id": "SURG-C56-060",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Breath sounds in hemothorax are:",
+   "opts": [
+    "Absent",
+    "Normal",
+    "Bronchial",
+    "Amphoric"
+   ],
+   "ans": 0,
+   "exp": "Absent (Book p429)"
+  },
+  {
+   "id": "SURG-C56-061",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "The only pneumothorax with NO change in hemodynamic status is:",
+   "opts": [
+    "Simple pneumothorax",
+    "Tension pneumothorax",
+    "Open pneumothorax",
+    "Hydropneumothorax"
+   ],
+   "ans": 0,
+   "exp": "Simple pneumothorax (Book p429)"
+  },
+  {
+   "id": "SURG-C56-062",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "The 1st Ix of tension pneumothorax is:",
+   "opts": [
+    "Chest X-ray",
+    "CT chest",
+    "eFAST",
+    "ECG"
+   ],
+   "ans": 0,
+   "exp": "Chest X-ray (Book p429)"
+  },
+  {
+   "id": "SURG-C56-063",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "eFAST in pneumothorax (M-mode) shows:",
+   "opts": [
+    "Loss of seashore/barcode/stratosphere sign",
+    "Normal seashore sign",
+    "Gliding sign increase",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "Loss of seashore/barcode/stratosphere sign (Book p429)"
+  },
+  {
+   "id": "SURG-C56-064",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "eFAST additionally helps in ruling out:",
+   "opts": [
+    "Cardiac tamponade",
+    "Rib fracture",
+    "Diaphragmatic injury",
+    "Aortic injury"
+   ],
+   "ans": 0,
+   "exp": "Cardiac tamponade (Book p429)"
+  },
+  {
+   "id": "SURG-C56-065",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Emergency mx of tension pneumothorax is:",
+   "opts": [
+    "Needle thoracocentesis",
+    "Chest tube immediately",
+    "Thoracotomy",
+    "IPPV"
+   ],
+   "ans": 0,
+   "exp": "Needle thoracocentesis (Book p429)"
+  },
+  {
+   "id": "SURG-C56-066",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Needle thoracocentesis site in ADULTS is:",
+   "opts": [
+    "5th intercostal space, mid axillary line",
+    "2nd intercostal space, mid clavicular line",
+    "5th ICS, mid clavicular line",
+    "2nd ICS, mid axillary line"
+   ],
+   "ans": 0,
+   "exp": "5th intercostal space, mid axillary line (Book p429)"
+  },
+  {
+   "id": "SURG-C56-067",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Needle thoracocentesis site in CHILDREN is:",
+   "opts": [
+    "2nd intercostal space, mid clavicular line",
+    "5th intercostal space, mid axillary line",
+    "3rd ICS, mid axillary line",
+    "4th ICS, mid clavicular line"
+   ],
+   "ans": 0,
+   "exp": "2nd intercostal space, mid clavicular line (Book p429)"
+  },
+  {
+   "id": "SURG-C56-068",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Definitive mx of tension pneumothorax is:",
+   "opts": [
+    "Tube thoracocentesis (chest tube)",
+    "Needle thoracocentesis",
+    "Thoracotomy",
+    "Sternotomy"
+   ],
+   "ans": 0,
+   "exp": "Tube thoracocentesis (chest tube) (Book p429)"
+  },
+  {
+   "id": "SURG-C56-069",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "The chest tube for tension pneumothorax is placed in the:",
+   "opts": [
+    "Triangle of safety",
+    "2nd ICS mid-clavicular",
+    "1st ICS mid-line",
+    "9th ICS posteriorly"
+   ],
+   "ans": 0,
+   "exp": "Triangle of safety (Book p429)"
+  },
+  {
+   "id": "SURG-C56-070",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "An open chest wound is covered with:",
+   "opts": [
+    "3-sided occlusive dressing",
+    "4-sided occlusive dressing",
+    "Wet gauze only",
+    "No dressing"
+   ],
+   "ans": 0,
+   "exp": "3-sided occlusive dressing (Book p429)"
+  },
+  {
+   "id": "SURG-C56-071",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "The 3-sided occlusive dressing works by:",
+   "opts": [
+    "Reversing the flow of one-way valve",
+    "Sealing completely",
+    "Sucking air in",
+    "Applying pressure"
+   ],
+   "ans": 0,
+   "exp": "Reversing the flow of one-way valve (Book p429)"
+  },
+  {
+   "id": "SURG-C56-072",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "page": 429,
+   "q": "Mx of SIMPLE (symptomatic) pneumothorax is:",
+   "opts": [
+    "Chest tube placement",
+    "Observation only",
+    "Needle aspiration only",
+    "Thoracotomy"
+   ],
+   "ans": 0,
+   "exp": "Chest tube placement (Book p429)"
+  },
+  {
+   "id": "SURG-C56-073",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Hemothorax is accumulation of blood in the pleural space, most commonly d/t:",
+   "opts": [
+    "Intercostal vessels injury",
+    "Aortic injury",
+    "Pulmonary vein injury",
+    "Coronary vessel injury"
+   ],
+   "ans": 0,
+   "exp": "Intercostal vessels injury (Book p430)"
+  },
+  {
+   "id": "SURG-C56-074",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Symptoms of hemothorax include:",
+   "opts": [
+    "Tachypnoea, ↓cardiac output, ↓SBP, tachycardia",
+    "Bradypnea and hypertension",
+    "Bradycardia and flushing",
+    "Fever and rigors"
+   ],
+   "ans": 0,
+   "exp": "Tachypnoea, ↓cardiac output, ↓SBP, tachycardia (Book p430)"
+  },
+  {
+   "id": "SURG-C56-075",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Signs of hemothorax are:",
+   "opts": [
+    "Percussion dull note & absent breath sounds",
+    "Hyperresonant note & absent sounds",
+    "Dull note & bronchial breathing",
+    "Hyperresonant note & normal sounds"
+   ],
+   "ans": 0,
+   "exp": "Percussion dull note & absent breath sounds (Book p430)"
+  },
+  {
+   "id": "SURG-C56-076",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Ix of hemothorax:",
+   "opts": [
+    "Chest X-ray & eFAST",
+    "CT chest & MRI",
+    "CXR & bronchoscopy",
+    "USG & DPL"
+   ],
+   "ans": 0,
+   "exp": "Chest X-ray & eFAST (Book p430)"
+  },
+  {
+   "id": "SURG-C56-077",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "CXR findings in hemothorax include:",
+   "opts": [
+    "Air-fluid level, white-out lung & blunting of costophrenic angle",
+    "Tracheal pull to same side",
+    "Ring shadow",
+    "Barrel chest"
+   ],
+   "ans": 0,
+   "exp": "Air-fluid level, white-out lung & blunting of costophrenic angle (Book p430)"
+  },
+  {
+   "id": "SURG-C56-078",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Mx of hemothorax is:",
+   "opts": [
+    "Chest tube insertion in triangle of safety",
+    "Needle aspiration",
+    "Observation",
+    "Thoracotomy in all"
+   ],
+   "ans": 0,
+   "exp": "Chest tube insertion in triangle of safety (Book p430)"
+  },
+  {
+   "id": "SURG-C56-079",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Emergency thoracotomy is indicated when chest tube releases bleeding of:",
+   "opts": [
+    ">1-1.5 L",
+    ">500 ml",
+    ">2-3 L",
+    "Any amount"
+   ],
+   "ans": 0,
+   "exp": ">1-1.5 L (Book p430)"
+  },
+  {
+   "id": "SURG-C56-080",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Emergency thoracotomy is indicated for continued bleeding of:",
+   "opts": [
+    ">200 cc/hr for ≥3 consecutive hours",
+    ">100 cc/hr for 6 hours",
+    ">500 cc/hr for 1 hour",
+    ">200 cc/day"
+   ],
+   "ans": 0,
+   "exp": ">200 cc/hr for ≥3 consecutive hours (Book p430)"
+  },
+  {
+   "id": "SURG-C56-081",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Which great vessel injury mandates emergency thoracotomy?",
+   "opts": [
+    "Aortic injury",
+    "Femoral artery",
+    "Subclavian vein",
+    "Carotid injury"
+   ],
+   "ans": 0,
+   "exp": "Aortic injury (Book p430)"
+  },
+  {
+   "id": "SURG-C56-082",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Which paired organ injuries mandate emergency thoracotomy?",
+   "opts": [
+    "Tracheobronchial / esophageal injury",
+    "Rib fractures",
+    "Sternal fracture",
+    "Clavicle fracture"
+   ],
+   "ans": 0,
+   "exp": "Tracheobronchial / esophageal injury (Book p430)"
+  },
+  {
+   "id": "SURG-C56-083",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Cardiac condition that mandates emergency thoracotomy:",
+   "opts": [
+    "Cardiac tamponade",
+    "Myocardial contusion",
+    "Atrial fibrillation",
+    "Pericardial cyst"
+   ],
+   "ans": 0,
+   "exp": "Cardiac tamponade (Book p430)"
+  },
+  {
+   "id": "SURG-C56-084",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Emergency thoracotomy for trauma is done through the:",
+   "opts": [
+    "Anterolateral approach",
+    "Posterolateral approach",
+    "Median sternotomy only",
+    "Thoracoabdominal approach"
+   ],
+   "ans": 0,
+   "exp": "Anterolateral approach (Book p430)"
+  },
+  {
+   "id": "SURG-C56-085",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Emergency ROOM thoracotomy is:",
+   "opts": [
+    "Obsolete now",
+    "First line",
+    "Done in all arrest cases",
+    "Preferred over OT thoracotomy"
+   ],
+   "ans": 0,
+   "exp": "Obsolete now (Book p430)"
+  },
+  {
+   "id": "SURG-C56-086",
+   "sec": "Hemothorax",
+   "page": 430,
+   "q": "Disadvantages of ER thoracotomy:",
+   "opts": [
+    "Open cardiac massage (contaminated wound) & high mortality",
+    "Low yield of CT",
+    "Needs anaesthesia",
+    "Long incision"
+   ],
+   "ans": 0,
+   "exp": "Open cardiac massage (contaminated wound) & high mortality (Book p430)"
+  },
+  {
+   "id": "SURG-C56-087",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 430,
+   "q": "Site of chest tube insertion is:",
+   "opts": [
+    "Triangle of safety",
+    "2nd ICS mid-clavicular line",
+    "Posterior axillary line 9th ICS",
+    "Any intercostal space"
+   ],
+   "ans": 0,
+   "exp": "Triangle of safety (Book p430)"
+  },
+  {
+   "id": "SURG-C56-088",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 430,
+   "q": "Within the triangle of safety the tube is placed over the:",
+   "opts": [
+    "Upper border of lower rib",
+    "Lower border of upper rib",
+    "Middle of the space",
+    "Rib itself"
+   ],
+   "ans": 0,
+   "exp": "Upper border of lower rib (Book p430)"
+  },
+  {
+   "id": "SURG-C56-089",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "The tube goes over the upper border of the lower rib because the lower border has:",
+   "opts": [
+    "The neurovascular border (bundle)",
+    "No structures",
+    "Lymphatics only",
+    "Fat only"
+   ],
+   "ans": 0,
+   "exp": "The neurovascular border (bundle) (Book p431)"
+  },
+  {
+   "id": "SURG-C56-090",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "The APEX of the triangle of safety is the:",
+   "opts": [
+    "Axilla",
+    "Nipple",
+    "Xiphisternum",
+    "Clavicle"
+   ],
+   "ans": 0,
+   "exp": "Axilla (Book p431)"
+  },
+  {
+   "id": "SURG-C56-091",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "The POSTERIOR boundary of the triangle of safety is the:",
+   "opts": [
+    "Mid axillary line",
+    "Anterior axillary line",
+    "Mid clavicular line",
+    "Vertebral line"
+   ],
+   "ans": 0,
+   "exp": "Mid axillary line (Book p431)"
+  },
+  {
+   "id": "SURG-C56-092",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "The ANTERIOR boundary of the triangle of safety is the anterior axillary line, formed by:",
+   "opts": [
+    "Pectoralis major",
+    "Latissimus dorsi",
+    "Serratus anterior",
+    "Rectus abdominis"
+   ],
+   "ans": 0,
+   "exp": "Pectoralis major (Book p431)"
+  },
+  {
+   "id": "SURG-C56-093",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "The BASE of the triangle of safety is the:",
+   "opts": [
+    "5th intercostal space",
+    "2nd intercostal space",
+    "4th lumbar space",
+    "6th rib margin"
+   ],
+   "ans": 0,
+   "exp": "5th intercostal space (Book p431)"
+  },
+  {
+   "id": "SURG-C56-094",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "Structures pierced during chest tube insertion (1-4):",
+   "opts": [
+    "Skin, superficial fascia, deep fascia & serratus anterior",
+    "Pec major, ribs, pleura, lung",
+    "Skin, muscle, rib, pleura",
+    "Fascia, rib, lung, pleura"
+   ],
+   "ans": 0,
+   "exp": "Skin, superficial fascia, deep fascia & serratus anterior (Book p431)"
+  },
+  {
+   "id": "SURG-C56-095",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "Structures pierced during chest tube insertion (5-7):",
+   "opts": [
+    "3 layers of intercostal muscles, endothoracic fascia & parietal pleura",
+    "Serratus, rib, lung",
+    "Pec major, pericardium, lung",
+    "External oblique, pleura, lung"
+   ],
+   "ans": 0,
+   "exp": "3 layers of intercostal muscles, endothoracic fascia & parietal pleura (Book p431)"
+  },
+  {
+   "id": "SURG-C56-096",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "During chest tube insertion, ALL layers from skin to parietal pleura must be:",
+   "opts": [
+    "Anesthetized",
+    "Avoided",
+    "Cut without anesthesia",
+    "Sutured"
+   ],
+   "ans": 0,
+   "exp": "Anesthetized (Book p431)"
+  },
+  {
+   "id": "SURG-C56-097",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "The underwater seal is filled with water to:",
+   "opts": [
+    "Prevent suction of air during inspiration",
+    "Detect bleeding",
+    "Lubricate the tube",
+    "Sterilize the system"
+   ],
+   "ans": 0,
+   "exp": "Prevent suction of air during inspiration (Book p431)"
+  },
+  {
+   "id": "SURG-C56-098",
+   "sec": "Chest Tube: Triangle of Safety and Insertion",
+   "page": 431,
+   "q": "Functioning of a chest tube is assessed by:",
+   "opts": [
+    "Movement of the water column",
+    "Bubbling sound",
+    "Tube length",
+    "Daily X-ray only"
+   ],
+   "ans": 0,
+   "exp": "Movement of the water column (Book p431)"
+  },
+  {
+   "id": "SURG-C56-099",
+   "sec": "Chest Tube: Positioning and Removal",
+   "page": 432,
+   "q": "Positioning of the chest tube is assessed by:",
+   "opts": [
+    "X-ray chest",
+    "USG chest",
+    "CT chest",
+    "Auscultation only"
+   ],
+   "ans": 0,
+   "exp": "X-ray chest (Book p432)"
+  },
+  {
+   "id": "SURG-C56-100",
+   "sec": "Chest Tube: Positioning and Removal",
+   "page": 432,
+   "q": "A normally positioned chest tube on CXR shows:",
+   "opts": [
+    "A break in the radio-opaque line",
+    "A continuous radio-opaque line",
+    "No tube shadow",
+    "A pleural ring"
+   ],
+   "ans": 0,
+   "exp": "A break in the radio-opaque line (Book p432)"
+  },
+  {
+   "id": "SURG-C56-101",
+   "sec": "Chest Tube: Positioning and Removal",
+   "page": 432,
+   "q": "Chest tube is removed when the lung is expanded, which is confirmed by:",
+   "opts": [
+    "CXR + normal breath sounds",
+    "Only auscultation",
+    "Only patient comfort",
+    "CT scan"
+   ],
+   "ans": 0,
+   "exp": "CXR + normal breath sounds (Book p432)"
+  },
+  {
+   "id": "SURG-C56-102",
+   "sec": "Chest Tube: Positioning and Removal",
+   "page": 432,
+   "q": "Chest tube output criterion for removal:",
+   "opts": [
+    "<100 cc/24 hours",
+    "<500 cc/24 hours",
+    "<100 cc/hour",
+    "<1 L/day"
+   ],
+   "ans": 0,
+   "exp": "<100 cc/24 hours (Book p432)"
+  },
+  {
+   "id": "SURG-C56-103",
+   "sec": "Chest Tube: Positioning and Removal",
+   "page": 432,
+   "q": "Chest tube is removed at the peak of inspiration with patient holding breath to:",
+   "opts": [
+    "Prevent suction of air",
+    "Reduce pain",
+    "Avoid bleeding",
+    "Prevent cough"
+   ],
+   "ans": 0,
+   "exp": "Prevent suction of air (Book p432)"
+  },
+  {
+   "id": "SURG-C56-104",
+   "sec": "Cardiac Tamponade",
+   "page": 432,
+   "q": "Cardiac tamponade is rapid accumulation of blood in the pericardial space, minimum volume:",
+   "opts": [
+    "60-70 cc",
+    "200-300 cc",
+    "500 cc",
+    "1 L"
+   ],
+   "ans": 0,
+   "exp": "60-70 cc (Book p432)"
+  },
+  {
+   "id": "SURG-C56-105",
+   "sec": "Cardiac Tamponade",
+   "page": 432,
+   "q": "Cardiac tamponade m/c follows:",
+   "opts": [
+    "Penetrating trauma >> blunt injury",
+    "Blunt injury >> penetrating",
+    "Burns",
+    "Falls"
+   ],
+   "ans": 0,
+   "exp": "Penetrating trauma >> blunt injury (Book p432)"
+  },
+  {
+   "id": "SURG-C56-106",
+   "sec": "Cardiac Tamponade",
+   "page": 432,
+   "q": "Beck's triad consists of:",
+   "opts": [
+    "Hypotension, ↑JVP/distended neck veins & muffled heart sounds",
+    "Hypertension, ↑JVP & loud sounds",
+    "Tachycardia, ↓JVP & muffled sounds",
+    "Hypotension, ↓JVP & click"
+   ],
+   "ans": 0,
+   "exp": "Hypotension, ↑JVP/distended neck veins & muffled heart sounds (Book p432)"
+  },
+  {
+   "id": "SURG-C56-107",
+   "sec": "Cardiac Tamponade",
+   "page": 432,
+   "q": "Presentation of cardiac tamponade is similar to tension pneumothorax, with:",
+   "opts": [
+    "Deteriorating cyanosis, tachycardia & agitation",
+    "Bradycardia & comfort",
+    "Paradoxical movement",
+    "Bowel sounds in chest"
+   ],
+   "ans": 0,
+   "exp": "Deteriorating cyanosis, tachycardia & agitation (Book p432)"
+  },
+  {
+   "id": "SURG-C56-108",
+   "sec": "Cardiac Tamponade",
+   "page": 432,
+   "q": "Cardiac tamponade is a clinical diagnosis supported by:",
+   "opts": [
+    "FAST/eFAST",
+    "MRI",
+    "CXR only",
+    "ECG only"
+   ],
+   "ans": 0,
+   "exp": "FAST/eFAST (Book p432)"
+  },
+  {
+   "id": "SURG-C56-109",
+   "sec": "Cardiac Tamponade",
+   "page": 432,
+   "q": "FAST in cardiac tamponade shows:",
+   "opts": [
+    "Hypoechoic collection in subxiphoid (cardiac window)",
+    "Hyperechoic collection",
+    "Pleural fluid only",
+    "Free air"
+   ],
+   "ans": 0,
+   "exp": "Hypoechoic collection in subxiphoid (cardiac window) (Book p432)"
+  },
+  {
+   "id": "SURG-C56-110",
+   "sec": "Cardiac Tamponade",
+   "page": 432,
+   "q": "Definitive mx of traumatic cardiac tamponade:",
+   "opts": [
+    "Left anterolateral thoracotomy/sternotomy + evacuation of haematoma & myocardial repair + pericardial drain",
+    "Pericardiocentesis",
+    "Observation",
+    "Chest tube only"
+   ],
+   "ans": 0,
+   "exp": "Left anterolateral thoracotomy/sternotomy + evacuation of haematoma & myocardial repair + pericardial drain (Book p432)"
+  },
+  {
+   "id": "SURG-C56-111",
+   "sec": "Cardiac Tamponade",
+   "page": 433,
+   "q": "Role of pericardiocentesis in traumatic cardiac tamponade:",
+   "opts": [
+    "No role",
+    "First line",
+    "Definitive",
+    "Preferred in children"
+   ],
+   "ans": 0,
+   "exp": "No role (Book p433)"
+  },
+  {
+   "id": "SURG-C56-112",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "The m/c site of traumatic thoracic aortic injury is:",
+   "opts": [
+    "Distal to ligamentum arteriosum",
+    "Proximal to left subclavian",
+    "At the diaphragm",
+    "Abdominal aorta"
+   ],
+   "ans": 0,
+   "exp": "Distal to ligamentum arteriosum (Book p433)"
+  },
+  {
+   "id": "SURG-C56-113",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "Clinical features of TTAI include:",
+   "opts": [
+    "Chest pain, BP difference b/w 2 limbs & absent pulsations in one limb",
+    "Abdominal pain & hematuria",
+    "Dysphagia & hoarseness only",
+    "Fever & cough"
+   ],
+   "ans": 0,
+   "exp": "Chest pain, BP difference b/w 2 limbs & absent pulsations in one limb (Book p433)"
+  },
+  {
+   "id": "SURG-C56-114",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "The screening Ix of TTAI is:",
+   "opts": [
+    "Chest X-ray",
+    "CT angio",
+    "Aortography",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Chest X-ray (Book p433)"
+  },
+  {
+   "id": "SURG-C56-115",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "IOC of TTAI in a STABLE patient:",
+   "opts": [
+    "CT angiography",
+    "Transesophageal echo",
+    "CXR",
+    "Angiography"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p433)"
+  },
+  {
+   "id": "SURG-C56-116",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "IOC of TTAI in an UNSTABLE patient:",
+   "opts": [
+    "Transesophageal ECHO",
+    "CT angiography",
+    "Aortography",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Transesophageal ECHO (Book p433)"
+  },
+  {
+   "id": "SURG-C56-117",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "CXR findings of TTAI:",
+   "opts": [
+    "Widened mediastinum & ↓(Lt) main stem bronchus",
+    "Narrow mediastinum & ↑Lt bronchus",
+    "Pleural effusion only",
+    "Normal CXR in all"
+   ],
+   "ans": 0,
+   "exp": "Widened mediastinum & ↓(Lt) main stem bronchus (Book p433)"
+  },
+  {
+   "id": "SURG-C56-118",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "First line drug mx of TTAI:",
+   "opts": [
+    "Short acting β blocker (Esmolol)",
+    "Vasopressor",
+    "Long acting β blocker",
+    "CCB"
+   ],
+   "ans": 0,
+   "exp": "Short acting β blocker (Esmolol) (Book p433)"
+  },
+  {
+   "id": "SURG-C56-119",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "The goal of drug mx in TTAI is:",
+   "opts": [
+    "Permissive hypotension (MAP: 60-70 mmHg)",
+    "Normal BP 120/80",
+    "MAP > 100 mmHg",
+    "Tachycardia"
+   ],
+   "ans": 0,
+   "exp": "Permissive hypotension (MAP: 60-70 mmHg) (Book p433)"
+  },
+  {
+   "id": "SURG-C56-120",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "page": 433,
+   "q": "Definitive mx of TTAI:",
+   "opts": [
+    "Graft repair — open or endovascular",
+    "Balloon only",
+    "Medical mx alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Graft repair — open or endovascular (Book p433)"
+  },
+  {
+   "id": "SURG-C56-121",
+   "sec": "Sternal Fractures",
+   "page": 433,
+   "q": "Sternal fracture occurs 2° to high velocity impact and one should suspect:",
+   "opts": [
+    "Myocardial contusion",
+    "Aortic injury",
+    "Tracheal injury",
+    "Esophageal injury"
+   ],
+   "ans": 0,
+   "exp": "Myocardial contusion (Book p433)"
+  },
+  {
+   "id": "SURG-C56-122",
+   "sec": "Sternal Fractures",
+   "page": 433,
+   "q": "Monitoring done in sternal fracture:",
+   "opts": [
+    "Cardiac enzymes & 12 lead ECG",
+    "Serial CXR",
+    "Cardiac MRI",
+    "Troponin only"
+   ],
+   "ans": 0,
+   "exp": "Cardiac enzymes & 12 lead ECG (Book p433)"
+  },
+  {
+   "id": "SURG-C56-123",
+   "sec": "Sternal Fractures",
+   "page": 433,
+   "q": "Surgical intervention in isolated sternal fracture:",
+   "opts": [
+    "Not required",
+    "Always needed",
+    "Plating in all",
+    "Wiring in all"
+   ],
+   "ans": 0,
+   "exp": "Not required (Book p433)"
+  },
+  {
+   "id": "SURG-C56-124",
+   "sec": "Diaphragmatic Injuries",
+   "page": 433,
+   "q": "Diaphragmatic injury site:",
+   "opts": [
+    "Left > Right (right is protected by liver)",
+    "Right > Left",
+    "Equal bilaterally",
+    "Always central"
+   ],
+   "ans": 0,
+   "exp": "Left > Right (right is protected by liver) (Book p433)"
+  },
+  {
+   "id": "SURG-C56-125",
+   "sec": "Diaphragmatic Injuries",
+   "page": 434,
+   "q": "Etiology of diaphragmatic injury:",
+   "opts": [
+    "Penetrating trauma > blunt abdominal trauma",
+    "Blunt > penetrating",
+    "Only iatrogenic",
+    "Only blast"
+   ],
+   "ans": 0,
+   "exp": "Penetrating trauma > blunt abdominal trauma (Book p434)"
+  },
+  {
+   "id": "SURG-C56-126",
+   "sec": "Diaphragmatic Injuries",
+   "page": 434,
+   "q": "Clinical features of diaphragmatic injury:",
+   "opts": [
+    "Breathlessness & bowel sounds heard in thoracic cavity",
+    "Bowel sounds in flank",
+    "Hematemesis",
+    "Constipation"
+   ],
+   "ans": 0,
+   "exp": "Breathlessness & bowel sounds heard in thoracic cavity (Book p434)"
+  },
+  {
+   "id": "SURG-C56-127",
+   "sec": "Diaphragmatic Injuries",
+   "page": 434,
+   "q": "What is NEVER done in diaphragmatic injury?",
+   "opts": [
+    "Insert intercostal tube blindly",
+    "Repair with prolene",
+    "Do laparotomy",
+    "Insert chest tube under vision"
+   ],
+   "ans": 0,
+   "exp": "Insert intercostal tube blindly (Book p434)"
+  },
+  {
+   "id": "SURG-C56-128",
+   "sec": "Diaphragmatic Injuries",
+   "page": 434,
+   "q": "Mx sequence of diaphragmatic injury:",
+   "opts": [
+    "Laparotomy → bring down bowel → repair diaphragm with prolene sutures → insert chest tube under vision",
+    "Chest tube first → thoracotomy",
+    "Observation",
+    "Thoracoscopy repair"
+   ],
+   "ans": 0,
+   "exp": "Laparotomy → bring down bowel → repair diaphragm with prolene sutures → insert chest tube under vision (Book p434)"
+  },
+  {
+   "id": "SURG-C56-129",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Zone I of neck trauma extends from:",
+   "opts": [
+    "Thoracic inlet to cricoid cartilage",
+    "Cricoid to angle of mandible",
+    "Angle of mandible to base of skull",
+    "Clavicle to thyroid"
+   ],
+   "ans": 0,
+   "exp": "Thoracic inlet to cricoid cartilage (Book p434)"
+  },
+  {
+   "id": "SURG-C56-130",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Feature of Zone I neck trauma:",
+   "opts": [
+    "Max mortality (d/t vital structures)",
+    "Most exposed",
+    "M/c injured",
+    "Most accessible"
+   ],
+   "ans": 0,
+   "exp": "Max mortality (d/t vital structures) (Book p434)"
+  },
+  {
+   "id": "SURG-C56-131",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Intervention for Zone I neck trauma:",
+   "opts": [
+    "Angiography & embolization",
+    "Conservative only",
+    "Surgical exploration always",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Angiography & embolization (Book p434)"
+  },
+  {
+   "id": "SURG-C56-132",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Zone II of neck trauma extends from:",
+   "opts": [
+    "Cricoid cartilage to angle of mandible",
+    "Thoracic inlet to cricoid",
+    "Angle of mandible to skull base",
+    "Hyoid to thyroid"
+   ],
+   "ans": 0,
+   "exp": "Cricoid cartilage to angle of mandible (Book p434)"
+  },
+  {
+   "id": "SURG-C56-133",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Zone II of neck trauma is:",
+   "opts": [
+    "Most exposed, m/c injured & most surgically accessible",
+    "Least accessible",
+    "Max mortality",
+    "Never explored"
+   ],
+   "ans": 0,
+   "exp": "Most exposed, m/c injured & most surgically accessible (Book p434)"
+  },
+  {
+   "id": "SURG-C56-134",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Majority of Zone II neck injuries are managed:",
+   "opts": [
+    "Conservatively",
+    "By mandatory exploration",
+    "By embolization",
+    "By radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Conservatively (Book p434)"
+  },
+  {
+   "id": "SURG-C56-135",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Zone III of neck trauma extends from:",
+   "opts": [
+    "Angle of mandible to base of skull",
+    "Cricoid to mandible",
+    "Inlet to cricoid",
+    "Mandible to orbit"
+   ],
+   "ans": 0,
+   "exp": "Angle of mandible to base of skull (Book p434)"
+  },
+  {
+   "id": "SURG-C56-136",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Intervention for Zone III neck trauma:",
+   "opts": [
+    "Angiography & embolization",
+    "Conservative only",
+    "Sternotomy",
+    "Tracheostomy"
+   ],
+   "ans": 0,
+   "exp": "Angiography & embolization (Book p434)"
+  },
+  {
+   "id": "SURG-C56-137",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "Hard signs of neck trauma (indications for intervention) include:",
+   "opts": [
+    "Subcutaneous emphysema, air bubbling from wound, expanding haematoma & hoarseness",
+    "Small contusion",
+    "Mild pain",
+    "Fever"
+   ],
+   "ans": 0,
+   "exp": "Subcutaneous emphysema, air bubbling from wound, expanding haematoma & hoarseness (Book p434)"
+  },
+  {
+   "id": "SURG-C56-138",
+   "sec": "Neck Trauma: Zones and Hard Signs",
+   "page": 434,
+   "q": "The image of neck zones labels the cricoid cartilage at the boundary between:",
+   "opts": [
+    "Zone I and Zone II",
+    "Zone II and III",
+    "Zone III and skull",
+    "Zones I and III"
+   ],
+   "ans": 0,
+   "exp": "Zone I and Zone II (Book p434)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U56-1",
+   "ch": 56,
+   "n": 1,
+   "title": "Thoracic Trauma: Overview and Life-Threatening Injuries",
+   "sec": "Thoracic Trauma: Overview and Life-Threatening Injuries · p426",
+   "qs": [
+    "SURG-C56-001",
+    "SURG-C56-002",
+    "SURG-C56-003",
+    "SURG-C56-004",
+    "SURG-C56-005",
+    "SURG-C56-006",
+    "SURG-C56-007",
+    "SURG-C56-008",
+    "SURG-C56-009",
+    "SURG-C56-010",
+    "SURG-C56-011",
+    "SURG-C56-012",
+    "SURG-C56-013"
+   ],
+   "guide": "Thoracic trauma is m/c in polytrauma: blunt deaths come from tracheobronchial injury, penetrating deaths from hemothorax 2° to pulmonary laceration. The 1° survey hunts airway obstruction, tracheobronchial injury, tension/open pneumothorax, massive hemothorax, tamponade and traumatic circulatory arrest. Ix is CXR (AP view) → eFAST → pulse oximetry, and the majority is managed conservatively with chest tubes."
+  },
+  {
+   "id": "SURG-U56-2",
+   "ch": 56,
+   "n": 2,
+   "title": "Rib Fractures",
+   "sec": "Rib Fractures · p426",
+   "qs": [
+    "SURG-C56-014",
+    "SURG-C56-015",
+    "SURG-C56-016",
+    "SURG-C56-017",
+    "SURG-C56-018",
+    "SURG-C56-019",
+    "SURG-C56-020",
+    "SURG-C56-021",
+    "SURG-C56-022",
+    "SURG-C56-023",
+    "SURG-C56-024",
+    "SURG-C56-025",
+    "SURG-C56-026",
+    "SURG-C56-027",
+    "SURG-C56-028"
+   ],
+   "guide": "Rib fracture is the m/c thoracic trauma: CPR cracks the 3-5th ribs while high-velocity impact breaks the 1st (lung apex, brachial plexus, subclavian vessels) and floating 10-12th ribs — left means spleen, right means liver. Anterior ribs sit away from the midline and run oblique; posterior ribs sit close to the midline and run horizontal. Adults fracture; pliable children's ribs spare bone and hammer the underlying organs; mx is adequate analgesia."
+  },
+  {
+   "id": "SURG-U56-3",
+   "ch": 56,
+   "n": 3,
+   "title": "Flail Chest",
+   "sec": "Flail Chest · p427",
+   "qs": [
+    "SURG-C56-029",
+    "SURG-C56-030",
+    "SURG-C56-031",
+    "SURG-C56-032",
+    "SURG-C56-033",
+    "SURG-C56-034",
+    "SURG-C56-035",
+    "SURG-C56-036",
+    "SURG-C56-037",
+    "SURG-C56-038",
+    "SURG-C56-039"
+   ],
+   "guide": "Flail chest = ≥2 consecutive ribs fractured at ≥2 places; the hidden killer is the underlying pulmonary contusion. The segment falls in on inspiration and balloons out on expiration — paradoxical movement. Mx climbs from O2 + thoracic epidural analgesia to IPPV (internal splinting) when RR > 30/min or pO2 < 60 mmHg, and on to surgical fixation if those thresholds persist."
+  },
+  {
+   "id": "SURG-U56-4",
+   "ch": 56,
+   "n": 4,
+   "title": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism",
+   "sec": "Pneumothorax: Definition, Types and Tension Etiology/Mechanism · p428",
+   "qs": [
+    "SURG-C56-040",
+    "SURG-C56-041",
+    "SURG-C56-042",
+    "SURG-C56-043",
+    "SURG-C56-044",
+    "SURG-C56-045",
+    "SURG-C56-046",
+    "SURG-C56-047",
+    "SURG-C56-048",
+    "SURG-C56-049"
+   ],
+   "guide": "Pneumothorax is air in the pleural space: simple leaves hemodynamics untouched, tension alters them. Tension follows tracheobronchial injury, a large air-leaking pulmonary laceration or an open chest wound that sucks air through a one-way valve. The lung collapses (opposite lung hyperinflates), then the trachea shifts across and the heart gets compressed."
+  },
+  {
+   "id": "SURG-U56-5",
+   "ch": 56,
+   "n": 5,
+   "title": "Tension Pneumothorax: Clinical Features, Differentials and Management",
+   "sec": "Tension Pneumothorax: Clinical Features, Differentials and Management · p429",
+   "qs": [
+    "SURG-C56-050",
+    "SURG-C56-051",
+    "SURG-C56-052",
+    "SURG-C56-053",
+    "SURG-C56-054",
+    "SURG-C56-055",
+    "SURG-C56-056",
+    "SURG-C56-057",
+    "SURG-C56-058",
+    "SURG-C56-059",
+    "SURG-C56-060",
+    "SURG-C56-061",
+    "SURG-C56-062",
+    "SURG-C56-063",
+    "SURG-C56-064",
+    "SURG-C56-065",
+    "SURG-C56-066",
+    "SURG-C56-067",
+    "SURG-C56-068",
+    "SURG-C56-069",
+    "SURG-C56-070",
+    "SURG-C56-071",
+    "SURG-C56-072"
+   ],
+   "guide": "Tension pneumothorax is a bedside diagnosis — tachypnea, tachycardia, ↓SBP, ↓CO and ↑JVP. Versus tamponade (absent breath sounds + hyperresonance here; normal chest + muffled sounds there) and hemothorax (dull note), CXR and loss of the seashore/barcode/stratosphere sign on eFAST confirm. Decompress first with needle thoracocentesis (adults 5th ICS mid-axillary; children 2nd ICS mid-clavicular), then a triangle-of-safety chest tube; an open wound gets a 3-sided occlusive dressing."
+  },
+  {
+   "id": "SURG-U56-6",
+   "ch": 56,
+   "n": 6,
+   "title": "Hemothorax",
+   "sec": "Hemothorax · p430",
+   "qs": [
+    "SURG-C56-073",
+    "SURG-C56-074",
+    "SURG-C56-075",
+    "SURG-C56-076",
+    "SURG-C56-077",
+    "SURG-C56-078",
+    "SURG-C56-079",
+    "SURG-C56-080",
+    "SURG-C56-081",
+    "SURG-C56-082",
+    "SURG-C56-083",
+    "SURG-C56-084",
+    "SURG-C56-085",
+    "SURG-C56-086"
+   ],
+   "guide": "Hemothorax is blood in the pleural space, usually from torn intercostal vessels — dull percussion, absent breath sounds, CXR showing air-fluid level, white-out and blunted costophrenic angle; drain via triangle of safety. Emergency anterolateral thoracotomy is for >1-1.5 L immediately, >200 cc/hr × ≥3 h, aortic, tracheobronchial/esophageal injury, or tamponade. ER thoracotomy is obsolete — open cardiac massage contaminates the wound and mortality is high."
+  },
+  {
+   "id": "SURG-U56-7",
+   "ch": 56,
+   "n": 7,
+   "title": "Chest Tube: Triangle of Safety and Insertion",
+   "sec": "Chest Tube: Triangle of Safety and Insertion · p430",
+   "qs": [
+    "SURG-C56-087",
+    "SURG-C56-088",
+    "SURG-C56-089",
+    "SURG-C56-090",
+    "SURG-C56-091",
+    "SURG-C56-092",
+    "SURG-C56-093",
+    "SURG-C56-094",
+    "SURG-C56-095",
+    "SURG-C56-096",
+    "SURG-C56-097",
+    "SURG-C56-098"
+   ],
+   "guide": "The chest tube enters the triangle of safety — apex at the axilla, posterior edge mid-axillary line, anterior edge the pec-major-formed anterior axillary line, base the 5th ICS — riding the upper border of the lower rib to dodge the neurovascular bundle. Skin, superficial and deep fascia, serratus anterior, the three intercostal muscle layers, endothoracic fascia and parietal pleura all get anesthetized. The underwater seal's water stops air being sucked in on inspiration, and the swinging water column proves the drain works."
+  },
+  {
+   "id": "SURG-U56-8",
+   "ch": 56,
+   "n": 8,
+   "title": "Chest Tube: Positioning and Removal",
+   "sec": "Chest Tube: Positioning and Removal · p432",
+   "qs": [
+    "SURG-C56-099",
+    "SURG-C56-100",
+    "SURG-C56-101",
+    "SURG-C56-102",
+    "SURG-C56-103"
+   ],
+   "guide": "Tube position is read off a chest X-ray — a break in the radio-opaque line means it is correctly placed; films also expose anterior and intrapleural misplacements. Pull the tube once the lung is expanded (CXR + normal breath sounds) and output is <100 cc/24 h. The moment of removal is peak inspiration with the patient holding their breath, so no air sneaks in."
+  },
+  {
+   "id": "SURG-U56-9",
+   "ch": 56,
+   "n": 9,
+   "title": "Cardiac Tamponade",
+   "sec": "Cardiac Tamponade · p432",
+   "qs": [
+    "SURG-C56-104",
+    "SURG-C56-105",
+    "SURG-C56-106",
+    "SURG-C56-107",
+    "SURG-C56-108",
+    "SURG-C56-109",
+    "SURG-C56-110",
+    "SURG-C56-111"
+   ],
+   "guide": "Cardiac tamponade is rapid pericardial blood — as little as 60-70 cc — with penetrating trauma far outstripping blunt. Beck's triad (hypotension, raised JVP, muffled heart sounds) mimics tension pneumothorax with cyanosis, tachycardia and agitation; FAST shows a hypoechoic subxiphoid collection. Definitive care is left anterolateral thoracotomy or sternotomy with clot evacuation, myocardial repair and a pericardial drain — pericardiocentesis has no role in traumatic tamponade."
+  },
+  {
+   "id": "SURG-U56-10",
+   "ch": 56,
+   "n": 10,
+   "title": "Traumatic Thoracic Aortic Injury (TTAI)",
+   "sec": "Traumatic Thoracic Aortic Injury (TTAI) · p433",
+   "qs": [
+    "SURG-C56-112",
+    "SURG-C56-113",
+    "SURG-C56-114",
+    "SURG-C56-115",
+    "SURG-C56-116",
+    "SURG-C56-117",
+    "SURG-C56-118",
+    "SURG-C56-119",
+    "SURG-C56-120"
+   ],
+   "guide": "Traumatic thoracic aortic injury tears most often just distal to the ligamentum arteriosum; chest pain, inter-limb BP difference or a pulseless limb are the clues. CXR screens (widened mediastinum, descended left main bronchus); stable patients go to CT angio, unstable ones to transesophageal echo. Esmolol (short-acting β blocker) titrates to permissive hypotension (MAP 60-70 mmHg) before open or endovascular graft repair."
+  },
+  {
+   "id": "SURG-U56-11",
+   "ch": 56,
+   "n": 11,
+   "title": "Sternal Fractures",
+   "sec": "Sternal Fractures · p433",
+   "qs": [
+    "SURG-C56-121",
+    "SURG-C56-122",
+    "SURG-C56-123"
+   ],
+   "guide": "A sternal fracture means high-velocity impact — suspect myocardial contusion underneath. Watch with cardiac enzymes and a 12-lead ECG; the bone itself needs no surgery."
+  },
+  {
+   "id": "SURG-U56-12",
+   "ch": 56,
+   "n": 12,
+   "title": "Diaphragmatic Injuries",
+   "sec": "Diaphragmatic Injuries · p433",
+   "qs": [
+    "SURG-C56-124",
+    "SURG-C56-125",
+    "SURG-C56-126",
+    "SURG-C56-127",
+    "SURG-C56-128"
+   ],
+   "guide": "The diaphragm tears more often on the left — the liver shields the right — and penetrating trauma beats blunt as the cause. Breathlessness plus bowel sounds in the chest gives it away. Never insert an intercostal tube blindly: do a laparotomy, bring the bowel down, repair with prolene and place the chest tube under vision."
+  },
+  {
+   "id": "SURG-U56-13",
+   "ch": 56,
+   "n": 13,
+   "title": "Neck Trauma: Zones and Hard Signs",
+   "sec": "Neck Trauma: Zones and Hard Signs · p434",
+   "qs": [
+    "SURG-C56-129",
+    "SURG-C56-130",
+    "SURG-C56-131",
+    "SURG-C56-132",
+    "SURG-C56-133",
+    "SURG-C56-134",
+    "SURG-C56-135",
+    "SURG-C56-136",
+    "SURG-C56-137",
+    "SURG-C56-138"
+   ],
+   "guide": "Neck trauma has three zones: I (thoracic inlet→cricoid) kills most — angiography & embolization; II (cricoid→angle of mandible) is most exposed, most injured and most accessible — usually conservative or exploration; III (mandible angle→skull base) again gets angiography & embolization. Hard signs — subcutaneous emphysema, air bubbling from the wound, an expanding haematoma, hoarseness — are the indications to intervene."
+  }
+ ]
+}

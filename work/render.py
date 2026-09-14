@@ -43,8 +43,10 @@ def pdf_for(book):
         return [("Surgery Vol. 2_part_1.pdf", book - 297)]
     if 327 <= book <= 378:
         return [("Surgery Vol. 2_part_1.pdf", book - 296)]
-    if 379 <= book <= 452:
+    if 379 <= book <= 449:
         return [("Surgery Vol. 2_part_2.pdf", book - 378)]
+    if 450 <= book <= 452:  # v2b prints p449 twice (pdf 71 & 72); pages shift after it
+        return [("Surgery Vol. 2_part_2.pdf", book - 377)]
     if 453 <= book <= 523:
         return [("Surgery Vol. 2_part_3.pdf", book - 452)]
     if 524 <= book <= 558:
