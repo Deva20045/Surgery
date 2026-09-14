@@ -140,7 +140,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch30 Appendix — p208-217 — **DONE (150 qs, 6 units)** 2026-09-14
 - [x] ch31 Colorectal Polyps and Cancer : Part 1 — p218-226 — **DONE (129 qs, 8 units)** 2026-09-14
 - [x] ch32 Colorectal Polyps and Cancer : Part 2 — p227-232 — **DONE (111 qs, 8 units)** 2026-09-14
-- [ ] ch33 Rectum and Anal Canal — p233-244 — **IN PROGRESS** (pages OCR'd + transcribed 2026-09-14, questions pending)
+- [x] ch33 Rectum and Anal Canal — p233-244 — **DONE (199 qs, 27 units)** 2026-09-14
 - [ ] ch34 Liver : Part 1 — p245-252 — Soon
 - [ ] ch35 Liver : Part 2 — p253-259 — Soon
 - [ ] ch36 Spleen — p260-264 — Soon
