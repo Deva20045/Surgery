@@ -179,7 +179,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## Totals / live link
 - Local HTML: **32/72 chapters live** · Questions: 3529 · Units: 409
-- GitHub HTML: **pending sync from arena/01a09e89-surgery PR**
+- GitHub HTML: **synced at 32/72** (merged to `main` via PR #14 on 2026-09-14)
 - NEXT: ch33 Rectum and Anal Canal — p233-244 (v1d p5-16)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
