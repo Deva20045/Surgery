@@ -1,0 +1,2431 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C58-001",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "page": 444,
+   "q": "Burns referral criteria include burns of face, hands and:",
+   "opts": [
+    "Genitalia",
+    "Feet only",
+    "Trunk only",
+    "Forearms"
+   ],
+   "ans": 0,
+   "exp": "Genitalia (Book p444)"
+  },
+  {
+   "id": "SURG-C58-002",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "page": 444,
+   "q": "Which burn types mandate referral to a burns unit?",
+   "opts": [
+    "Chemical, electrical & inhalation injury",
+    "Only thermal",
+    "Only sunburn",
+    "Only first degree"
+   ],
+   "ans": 0,
+   "exp": "Chemical, electrical & inhalation injury (Book p444)"
+  },
+  {
+   "id": "SURG-C58-003",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "page": 444,
+   "q": "Partial thickness burns over what TBSA need referral?",
+   "opts": [
+    ">10% TBSA",
+    ">5% TBSA",
+    ">20% TBSA",
+    ">50% TBSA"
+   ],
+   "ans": 0,
+   "exp": ">10% TBSA (Book p444)"
+  },
+  {
+   "id": "SURG-C58-004",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "page": 444,
+   "q": "All FULL thickness (3rd degree) burns are:",
+   "opts": [
+    "Referred to burns unit",
+    "Managed at home",
+    "Treated with creams only",
+    "Not referred"
+   ],
+   "ans": 0,
+   "exp": "Referred to burns unit (Book p444)"
+  },
+  {
+   "id": "SURG-C58-005",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "page": 444,
+   "q": "Burns management follows which guidelines?",
+   "opts": [
+    "ACLS (ABCDE)",
+    "ATLS only",
+    "NICE",
+    "GCS"
+   ],
+   "ans": 0,
+   "exp": "ACLS (ABCDE) (Book p444)"
+  },
+  {
+   "id": "SURG-C58-006",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "page": 444,
+   "q": "In the ACLS 'E' of burns management, exposure assesses:",
+   "opts": [
+    "Cause of burns & extent of burns",
+    "Only limbs",
+    "Rectal tone",
+    "Spine only"
+   ],
+   "ans": 0,
+   "exp": "Cause of burns & extent of burns (Book p444)"
+  },
+  {
+   "id": "SURG-C58-007",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "page": 444,
+   "q": "ABCDE of burns stands for:",
+   "opts": [
+    "Airway, Breathing, Circulation, Disability, Exposure",
+    "Airway, Burns, Circulation, Drainage, Exposure",
+    "Assess, Breathing, Cool, Dress, Evaluate",
+    "Airway, Blood, Circulation, Dressing, Extent"
+   ],
+   "ans": 0,
+   "exp": "Airway, Breathing, Circulation, Disability, Exposure (Book p444)"
+  },
+  {
+   "id": "SURG-C58-008",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "Signs of airway burns (1):",
+   "opts": [
+    "Singed nasal hair",
+    "Bilateral clear lungs",
+    "Bradypnea",
+    "Stridor only"
+   ],
+   "ans": 0,
+   "exp": "Singed nasal hair (Book p444)"
+  },
+  {
+   "id": "SURG-C58-009",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "Signs of airway burns (2):",
+   "opts": [
+    "Hoarseness of voice",
+    "Rhinorrhoea",
+    "Dysphagia only",
+    "Cough with sputum only"
+   ],
+   "ans": 0,
+   "exp": "Hoarseness of voice (Book p444)"
+  },
+  {
+   "id": "SURG-C58-010",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "Signs of airway burns (3):",
+   "opts": [
+    "Carbonaceous deposits in sputum",
+    "Hemoptysis",
+    "Purulent sputum",
+    "Pink froth"
+   ],
+   "ans": 0,
+   "exp": "Carbonaceous deposits in sputum (Book p444)"
+  },
+  {
+   "id": "SURG-C58-011",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "History suggesting airway burns:",
+   "opts": [
+    "Burns in a closed room",
+    "Open field burn",
+    "Scald only",
+    "Sunburn"
+   ],
+   "ans": 0,
+   "exp": "Burns in a closed room (Book p444)"
+  },
+  {
+   "id": "SURG-C58-012",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "Burns involving which regions suggest airway burns?",
+   "opts": [
+    "Head, face & neck",
+    "Only feet",
+    "Only perineum",
+    "Only back"
+   ],
+   "ans": 0,
+   "exp": "Head, face & neck (Book p444)"
+  },
+  {
+   "id": "SURG-C58-013",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "Altered sensorium after burns suggests:",
+   "opts": [
+    "Airway burns (with closed room/head/face burns)",
+    "Only pain",
+    "Fluid overload always",
+    "Nothing"
+   ],
+   "ans": 0,
+   "exp": "Airway burns (with closed room/head/face burns) (Book p444)"
+  },
+  {
+   "id": "SURG-C58-014",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "Airway burns require:",
+   "opts": [
+    "Prophylactic intubation (d/t rapid airway collapse)",
+    "Observation only",
+    "Tracheostomy always",
+    "Nebulisation only"
+   ],
+   "ans": 0,
+   "exp": "Prophylactic intubation (d/t rapid airway collapse) (Book p444)"
+  },
+  {
+   "id": "SURG-C58-015",
+   "sec": "Airway Burns: Signs and Stages",
+   "page": 444,
+   "q": "Reason for prophylactic intubation in airway burns:",
+   "opts": [
+    "Rapid airway collapse",
+    "Facial swelling only",
+    "Voice change",
+    "Sputum retention"
+   ],
+   "ans": 0,
+   "exp": "Rapid airway collapse (Book p444)"
+  },
+  {
+   "id": "SURG-C58-016",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "Stage 1 of airway burns:",
+   "opts": [
+    "Acute pulmonary insufficiency — hypoxia",
+    "ARDS at 24-48 h",
+    "Bronchopneumonia",
+    "Fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Acute pulmonary insufficiency — hypoxia (Book p444)"
+  },
+  {
+   "id": "SURG-C58-017",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "Stage 2 of airway burns (24-48 hrs):",
+   "opts": [
+    "ARDS-like picture — B/L lung infiltrates, hypoxia",
+    "Immediate asphyxia",
+    "Bronchopneumonia",
+    "Pleural effusion"
+   ],
+   "ans": 0,
+   "exp": "ARDS-like picture — B/L lung infiltrates, hypoxia (Book p444)"
+  },
+  {
+   "id": "SURG-C58-018",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "ARDS-like stage of airway burns requires:",
+   "opts": [
+    "Intubation & bronchodilators",
+    "Only O2 mask",
+    "Chest physiotherapy only",
+    "Steroids only"
+   ],
+   "ans": 0,
+   "exp": "Intubation & bronchodilators (Book p444)"
+  },
+  {
+   "id": "SURG-C58-019",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "Stage 3 of airway burns:",
+   "opts": [
+    "Bronchopneumonia",
+    "ARDS",
+    "Acute insufficiency",
+    "Atelectasis only"
+   ],
+   "ans": 0,
+   "exp": "Bronchopneumonia (Book p444)"
+  },
+  {
+   "id": "SURG-C58-020",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "Pathogenesis of burn bronchopneumonia:",
+   "opts": [
+    "Burns → epithelial injury → ↓immune response",
+    "Burns → sepsis → DIC",
+    "Burns → aspiration",
+    "Fluid overload"
+   ],
+   "ans": 0,
+   "exp": "Burns → epithelial injury → ↓immune response (Book p444)"
+  },
+  {
+   "id": "SURG-C58-021",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "EARLY phase (1-3 days) bronchopneumonia organism:",
+   "opts": [
+    "S. aureus",
+    "Gram negative bacteria",
+    "Pseudomonas only",
+    "Candida"
+   ],
+   "ans": 0,
+   "exp": "S. aureus (Book p444)"
+  },
+  {
+   "id": "SURG-C58-022",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "LATE phase (>3 days) bronchopneumonia organism:",
+   "opts": [
+    "Gram negative bacteria",
+    "S. aureus",
+    "S. pyogenes",
+    "Anaerobes only"
+   ],
+   "ans": 0,
+   "exp": "Gram negative bacteria (Book p444)"
+  },
+  {
+   "id": "SURG-C58-023",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "Causes of hypoxia in burns (1-3):",
+   "opts": [
+    "Inhalation of smoke, airway collapse & CO poisoning",
+    "Only anemia",
+    "Neurogenic shock",
+    "Pulmonary embolism"
+   ],
+   "ans": 0,
+   "exp": "Inhalation of smoke, airway collapse & CO poisoning (Book p444)"
+  },
+  {
+   "id": "SURG-C58-024",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "CO causes hypoxia by:",
+   "opts": [
+    "↑affinity to hemoglobin → ↓O2 transportation",
+    "Blocking cytochrome oxidase only",
+    "Causing bronchospasm",
+    "Alveolar flooding"
+   ],
+   "ans": 0,
+   "exp": "↑affinity to hemoglobin → ↓O2 transportation (Book p444)"
+  },
+  {
+   "id": "SURG-C58-025",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "Eschar around the chest causes hypoxia by:",
+   "opts": [
+    "Restricting chest expansion",
+    "Aspiration",
+    "Pneumothorax",
+    "Pulmonary embolism"
+   ],
+   "ans": 0,
+   "exp": "Restricting chest expansion (Book p444)"
+  },
+  {
+   "id": "SURG-C58-026",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "page": 444,
+   "q": "Mx of chest-restricting eschar:",
+   "opts": [
+    "Escharotomy",
+    "Steroids",
+    "IPPV only",
+    "Analgesia"
+   ],
+   "ans": 0,
+   "exp": "Escharotomy (Book p444)"
+  },
+  {
+   "id": "SURG-C58-027",
+   "sec": "Circulation: Burns Pathophysiology",
+   "page": 445,
+   "q": "Burns release inflammatory mediators that cause:",
+   "opts": [
+    "Vasodilation",
+    "Vasoconstriction",
+    "Thrombosis",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "Vasodilation (Book p445)"
+  },
+  {
+   "id": "SURG-C58-028",
+   "sec": "Circulation: Burns Pathophysiology",
+   "page": 445,
+   "q": "Burns <10% TBSA produce:",
+   "opts": [
+    "Localized immune response",
+    "Generalized immune response",
+    "Septic shock",
+    "No response"
+   ],
+   "ans": 0,
+   "exp": "Localized immune response (Book p445)"
+  },
+  {
+   "id": "SURG-C58-029",
+   "sec": "Circulation: Burns Pathophysiology",
+   "page": 445,
+   "q": "Burns >10% TBSA produce:",
+   "opts": [
+    "Generalized immune response",
+    "Localized immune response",
+    "Immune paralysis only",
+    "No response"
+   ],
+   "ans": 0,
+   "exp": "Generalized immune response (Book p445)"
+  },
+  {
+   "id": "SURG-C58-030",
+   "sec": "Circulation: Burns Pathophysiology",
+   "page": 445,
+   "q": "Vasodilation after burns causes dehydration via:",
+   "opts": [
+    "↑evaporation",
+    "↓sweating",
+    "Polyuria",
+    "Vomiting"
+   ],
+   "ans": 0,
+   "exp": "↑evaporation (Book p445)"
+  },
+  {
+   "id": "SURG-C58-031",
+   "sec": "Circulation: Burns Pathophysiology",
+   "page": 445,
+   "q": "Leaky vessels after burns (12-24 hrs) cause:",
+   "opts": [
+    "Albumin lost into extravascular space → tissue edema (3rd space loss)",
+    "Albumin gain in vessels",
+    "RBC gain",
+    "Hemoconcentration of lymph only"
+   ],
+   "ans": 0,
+   "exp": "Albumin lost into extravascular space → tissue edema (3rd space loss) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-032",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Colloid formulas used AFTER 12 hrs:",
+   "opts": [
+    "Muir & Barclay formula",
+    "Parkland",
+    "Brooke",
+    "Galveston"
+   ],
+   "ans": 0,
+   "exp": "Muir & Barclay formula (Book p445)"
+  },
+  {
+   "id": "SURG-C58-033",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "The m/c crystalloid formula for burns:",
+   "opts": [
+    "Parkland formula (Ringer lactate)",
+    "Muir & Barclay",
+    "Brooke colloid",
+    "Hartmann colloid"
+   ],
+   "ans": 0,
+   "exp": "Parkland formula (Ringer lactate) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-034",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Parkland formula:",
+   "opts": [
+    "4 × body weight (kg) × % TBSA of burns (excluding 1° burns)",
+    "2 × weight × %TBSA",
+    "3 × weight × %TBSA",
+    "4 × weight × %TBSA (including 1°)"
+   ],
+   "ans": 0,
+   "exp": "4 × body weight (kg) × % TBSA of burns (excluding 1° burns) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-035",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "In Parkland, the 24-hr volume is given as:",
+   "opts": [
+    "½ amount over 8 hrs + ½ over 16 hrs",
+    "¼ over 12 h + ¾ over 12 h",
+    "All over 4 h",
+    "⅓ over 8 h each split"
+   ],
+   "ans": 0,
+   "exp": "½ amount over 8 hrs + ½ over 16 hrs (Book p445)"
+  },
+  {
+   "id": "SURG-C58-036",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Modified Parkland/Brooke formula:",
+   "opts": [
+    "2 × body weight (kg) × %TBSA",
+    "4 × weight × %TBSA",
+    "3 × weight × %TBSA",
+    "6 × weight × %TBSA"
+   ],
+   "ans": 0,
+   "exp": "2 × body weight (kg) × %TBSA (Book p445)"
+  },
+  {
+   "id": "SURG-C58-037",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Flame/scald fluid rate in adults & older children (≥14 yr):",
+   "opts": [
+    "2 mL LR × kg × %TBSA (urine 0.5 mL/kg/hr)",
+    "4 mL LR",
+    "3 mL LR",
+    "1 mL LR"
+   ],
+   "ans": 0,
+   "exp": "2 mL LR × kg × %TBSA (urine 0.5 mL/kg/hr) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-038",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Fluid rate for children (<14 yr) with flame/scald burns:",
+   "opts": [
+    "3 mL LR × kg × %TBSA (urine 30-50 mL/hr)",
+    "2 mL LR (0.5 mL/kg/hr)",
+    "4 mL LR (1-1.5 mL/kg/hr)",
+    "1 mL LR"
+   ],
+   "ans": 0,
+   "exp": "3 mL LR × kg × %TBSA (urine 30-50 mL/hr) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-039",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Infants/young children (≤30 kg) with flame/scald burns get:",
+   "opts": [
+    "3 mL LR × kg × %TBSA PLUS sugar solution at maintenance (urine 1 mL/kg/hr)",
+    "Only 2 mL LR",
+    "4 mL LR only",
+    "Colloids only"
+   ],
+   "ans": 0,
+   "exp": "3 mL LR × kg × %TBSA PLUS sugar solution at maintenance (urine 1 mL/kg/hr) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-040",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Electrical injury fluid resuscitation (all ages):",
+   "opts": [
+    "4 mL LR × kg × %TBSA until urine clears (urine 1-1.5 mL/kg/hr)",
+    "2 mL LR until urine clears",
+    "3 mL LR fixed 24 h",
+    "Colloid 12-hourly"
+   ],
+   "ans": 0,
+   "exp": "4 mL LR × kg × %TBSA until urine clears (urine 1-1.5 mL/kg/hr) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-041",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Maintenance fluid in children — first 10 kg:",
+   "opts": [
+    "100 mL/kg",
+    "50 mL/kg",
+    "20 mL/kg",
+    "150 mL/kg"
+   ],
+   "ans": 0,
+   "exp": "100 mL/kg (Book p445)"
+  },
+  {
+   "id": "SURG-C58-042",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Maintenance fluid in children — next 10 kg:",
+   "opts": [
+    "50 mL/kg",
+    "100 mL/kg",
+    "20 mL/kg",
+    "75 mL/kg"
+   ],
+   "ans": 0,
+   "exp": "50 mL/kg (Book p445)"
+  },
+  {
+   "id": "SURG-C58-043",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Maintenance fluid in children — every kg AFTER 20 kg:",
+   "opts": [
+    "20 mL/kg (all over 24 hrs)",
+    "50 mL/kg",
+    "100 mL/kg",
+    "10 mL/kg"
+   ],
+   "ans": 0,
+   "exp": "20 mL/kg (all over 24 hrs) (Book p445)"
+  },
+  {
+   "id": "SURG-C58-044",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "page": 445,
+   "q": "Galveston formula is:",
+   "opts": [
+    "For crystalloid solutions, also used in children",
+    "Colloid formula for adults",
+    "Only for electrical burns",
+    "For escharotomy timing"
+   ],
+   "ans": 0,
+   "exp": "For crystalloid solutions, also used in children (Book p445)"
+  },
+  {
+   "id": "SURG-C58-045",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "Palm of the patient equals what TBSA (for small burns)?",
+   "opts": [
+    "1%",
+    "2%",
+    "5%",
+    "9%"
+   ],
+   "ans": 0,
+   "exp": "1% (Book p446)"
+  },
+  {
+   "id": "SURG-C58-046",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "Wallace's rule is also called:",
+   "opts": [
+    "Rule of 9s",
+    "Rule of palms",
+    "Lund rule",
+    "Browder rule"
+   ],
+   "ans": 0,
+   "exp": "Rule of 9s (Book p446)"
+  },
+  {
+   "id": "SURG-C58-047",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "The BEST method for burns % calculation:",
+   "opts": [
+    "Lund & Browder chart",
+    "Rule of 9s",
+    "Palm method",
+    "Serial weighing"
+   ],
+   "ans": 0,
+   "exp": "Lund & Browder chart (Book p446)"
+  },
+  {
+   "id": "SURG-C58-048",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In adults (rule of 9s), each arm is:",
+   "opts": [
+    "9% (4.5% front + 4.5% back)",
+    "18%",
+    "4.5%",
+    "1%"
+   ],
+   "ans": 0,
+   "exp": "9% (4.5% front + 4.5% back) (Book p446)"
+  },
+  {
+   "id": "SURG-C58-049",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In adults, head & neck together are:",
+   "opts": [
+    "9% (4.5% front + 4.5% back)",
+    "18%",
+    "1%",
+    "13.5%"
+   ],
+   "ans": 0,
+   "exp": "9% (4.5% front + 4.5% back) (Book p446)"
+  },
+  {
+   "id": "SURG-C58-050",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In adults, front trunk is:",
+   "opts": [
+    "18%",
+    "9%",
+    "36%",
+    "13.5%"
+   ],
+   "ans": 0,
+   "exp": "18% (Book p446)"
+  },
+  {
+   "id": "SURG-C58-051",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In adults, each leg is:",
+   "opts": [
+    "18% (9% front + 9% back)",
+    "9%",
+    "13.5%",
+    "27%"
+   ],
+   "ans": 0,
+   "exp": "18% (9% front + 9% back) (Book p446)"
+  },
+  {
+   "id": "SURG-C58-052",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In adults, perineum is:",
+   "opts": [
+    "1%",
+    "9%",
+    "18%",
+    "0.5%"
+   ],
+   "ans": 0,
+   "exp": "1% (Book p446)"
+  },
+  {
+   "id": "SURG-C58-053",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In CHILDREN (rule of 9s), head is:",
+   "opts": [
+    "18%",
+    "9%",
+    "13.5%",
+    "1%"
+   ],
+   "ans": 0,
+   "exp": "18% (Book p446)"
+  },
+  {
+   "id": "SURG-C58-054",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In CHILDREN, each arm is:",
+   "opts": [
+    "9%",
+    "4.5%",
+    "18%",
+    "13.5%"
+   ],
+   "ans": 0,
+   "exp": "9% (Book p446)"
+  },
+  {
+   "id": "SURG-C58-055",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "In CHILDREN, each leg is:",
+   "opts": [
+    "13.5%",
+    "18%",
+    "9%",
+    "27%"
+   ],
+   "ans": 0,
+   "exp": "13.5% (Book p446)"
+  },
+  {
+   "id": "SURG-C58-056",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "page": 446,
+   "q": "Child photo: burns over one arm (9%) + anterior chest/abdomen (9%) equal:",
+   "opts": [
+    "18%",
+    "9%",
+    "27%",
+    "36%"
+   ],
+   "ans": 0,
+   "exp": "18% (Book p446)"
+  },
+  {
+   "id": "SURG-C58-057",
+   "sec": "Zones of Burns",
+   "page": 446,
+   "q": "The zone of burns with IRREVERSIBLE damage:",
+   "opts": [
+    "Zone of coagulation/necrosis",
+    "Zone of stasis",
+    "Zone of hyperemia",
+    "All zones"
+   ],
+   "ans": 0,
+   "exp": "Zone of coagulation/necrosis (Book p446)"
+  },
+  {
+   "id": "SURG-C58-058",
+   "sec": "Zones of Burns",
+   "page": 446,
+   "q": "Zone of stasis if POORLY managed becomes:",
+   "opts": [
+    "Zone of necrosis",
+    "Zone of hyperemia",
+    "Normal skin",
+    "Zone of coagulation shrinkage"
+   ],
+   "ans": 0,
+   "exp": "Zone of necrosis (Book p446)"
+  },
+  {
+   "id": "SURG-C58-059",
+   "sec": "Zones of Burns",
+   "page": 446,
+   "q": "Zone of stasis if MANAGED WELL becomes:",
+   "opts": [
+    "Zone of hyperemia (reversible → healing)",
+    "Necrosis",
+    "Coagulation",
+    "Scar only"
+   ],
+   "ans": 0,
+   "exp": "Zone of hyperemia (reversible → healing) (Book p446)"
+  },
+  {
+   "id": "SURG-C58-060",
+   "sec": "Zones of Burns",
+   "page": 446,
+   "q": "Zone of hyperemia develops d/t:",
+   "opts": [
+    "Vasodilation",
+    "Thrombosis",
+    "Necrosis",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Vasodilation (Book p446)"
+  },
+  {
+   "id": "SURG-C58-061",
+   "sec": "Zones of Burns",
+   "page": 446,
+   "q": "The zone of stasis is characterised by:",
+   "opts": [
+    "Capillary damage & tissue edema",
+    "Instant charring",
+    "Only pain",
+    "Full thickness death"
+   ],
+   "ans": 0,
+   "exp": "Capillary damage & tissue edema (Book p446)"
+  },
+  {
+   "id": "SURG-C58-062",
+   "sec": "Zones of Burns",
+   "page": 446,
+   "q": "Immune change in the burn zone:",
+   "opts": [
+    "G-CSF receptor downregulation; reduced immune cell capacity",
+    "G-CSF upregulation",
+    "Complement gain",
+    "No immune change"
+   ],
+   "ans": 0,
+   "exp": "G-CSF receptor downregulation; reduced immune cell capacity (Book p446)"
+  },
+  {
+   "id": "SURG-C58-063",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "1st degree burns involve:",
+   "opts": [
+    "Epidermis only",
+    "Epidermis + dermis",
+    "Subcutaneous tissue",
+    "Muscle"
+   ],
+   "ans": 0,
+   "exp": "Epidermis only (Book p446)"
+  },
+  {
+   "id": "SURG-C58-064",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "1st degree burns character:",
+   "opts": [
+    "Red, tender, blanching (+)",
+    "Black, charred, painless",
+    "Leathery white",
+    "Non-blanching"
+   ],
+   "ans": 0,
+   "exp": "Red, tender, blanching (+) (Book p446)"
+  },
+  {
+   "id": "SURG-C58-065",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "1st degree burns heal:",
+   "opts": [
+    "Without scarring in 3-5 days",
+    "With scarring in 3 weeks",
+    "By grafting",
+    "In 3 months"
+   ],
+   "ans": 0,
+   "exp": "Without scarring in 3-5 days (Book p446)"
+  },
+  {
+   "id": "SURG-C58-066",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "Classic example of 1st degree burn:",
+   "opts": [
+    "Sunburn",
+    "Flame burn of hand",
+    "Electrical entry wound",
+    "Scald over thigh"
+   ],
+   "ans": 0,
+   "exp": "Sunburn (Book p446)"
+  },
+  {
+   "id": "SURG-C58-067",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "2nd degree SUPERFICIAL burns involve:",
+   "opts": [
+    "Epidermis + papillary dermis",
+    "Whole dermis",
+    "Muscle",
+    "Epidermis only"
+   ],
+   "ans": 0,
+   "exp": "Epidermis + papillary dermis (Book p446)"
+  },
+  {
+   "id": "SURG-C58-068",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "Superficial 2nd degree burns look:",
+   "opts": [
+    "Similar to 1st degree burns (blister seen)",
+    "Black & charred",
+    "Painless & white",
+    "Mummified"
+   ],
+   "ans": 0,
+   "exp": "Similar to 1st degree burns (blister seen) (Book p446)"
+  },
+  {
+   "id": "SURG-C58-069",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "Superficial 2nd degree burns heal on proper dressing:",
+   "opts": [
+    "Without scarring in 2-3 weeks",
+    "In 3-5 days",
+    "With keloids always",
+    "Only by grafting"
+   ],
+   "ans": 0,
+   "exp": "Without scarring in 2-3 weeks (Book p446)"
+  },
+  {
+   "id": "SURG-C58-070",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "2nd degree DEEP burns involve:",
+   "opts": [
+    "Epidermis + (whole) dermis",
+    "Papillary dermis only",
+    "Subcutaneous fat",
+    "Bone"
+   ],
+   "ans": 0,
+   "exp": "Epidermis + (whole) dermis (Book p446)"
+  },
+  {
+   "id": "SURG-C58-071",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "Deep 2nd degree burns are:",
+   "opts": [
+    "Red, ↓tender, ±blanching (d/t vessel thrombosis)",
+    "Always painless & black",
+    "Blanching ++",
+    "Painless from day 1"
+   ],
+   "ans": 0,
+   "exp": "Red, ↓tender, ±blanching (d/t vessel thrombosis) (Book p446)"
+  },
+  {
+   "id": "SURG-C58-072",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "Deep 2nd degree burns result in:",
+   "opts": [
+    "Hypertrophic scars & keloids; requires dressing of wound",
+    "Heal in 3 days",
+    "Never scar",
+    "Need amputation"
+   ],
+   "ans": 0,
+   "exp": "Hypertrophic scars & keloids; requires dressing of wound (Book p446)"
+  },
+  {
+   "id": "SURG-C58-073",
+   "sec": "Degrees of Burns",
+   "page": 447,
+   "q": "3rd degree burns involve:",
+   "opts": [
+    "Subcutaneous tissue",
+    "Dermis only",
+    "Epidermis only",
+    "Papillary dermis"
+   ],
+   "ans": 0,
+   "exp": "Subcutaneous tissue (Book p447)"
+  },
+  {
+   "id": "SURG-C58-074",
+   "sec": "Degrees of Burns",
+   "page": 447,
+   "q": "4th degree burns involve:",
+   "opts": [
+    "Muscle",
+    "Subcutaneous tissue",
+    "Whole dermis",
+    "Epidermis"
+   ],
+   "ans": 0,
+   "exp": "Muscle (Book p447)"
+  },
+  {
+   "id": "SURG-C58-075",
+   "sec": "Degrees of Burns",
+   "page": 447,
+   "q": "Character of 3rd/4th degree burns:",
+   "opts": [
+    "Black, charred, no blanching & PAINLESS",
+    "Red, tender, blanching",
+    "Blistering & painful",
+    "Weepy & pink"
+   ],
+   "ans": 0,
+   "exp": "Black, charred, no blanching & PAINLESS (Book p447)"
+  },
+  {
+   "id": "SURG-C58-076",
+   "sec": "Degrees of Burns",
+   "page": 447,
+   "q": "Mx of 3rd/4th degree burns:",
+   "opts": [
+    "Early excision + split thickness skin grafting",
+    "Dressing only",
+    "Conservative healing",
+    "Mesh only"
+   ],
+   "ans": 0,
+   "exp": "Early excision + split thickness skin grafting (Book p447)"
+  },
+  {
+   "id": "SURG-C58-077",
+   "sec": "Degrees of Burns",
+   "page": 446,
+   "q": "Blister photo over reddened skin (painful, heals 2-3 weeks) depicts:",
+   "opts": [
+    "Superficial 2nd degree burn",
+    "1st degree",
+    "4th degree",
+    "Chemical burn"
+   ],
+   "ans": 0,
+   "exp": "Superficial 2nd degree burn (Book p446)"
+  },
+  {
+   "id": "SURG-C58-078",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Initial wash for a burn wound:",
+   "opts": [
+    "Room temperature water",
+    "Ice cold water",
+    "Hot water",
+    "Alcohol"
+   ],
+   "ans": 0,
+   "exp": "Room temperature water (Book p447)"
+  },
+  {
+   "id": "SURG-C58-079",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Ryle's tube insertion is indicated in burns >:",
+   "opts": [
+    "15-20% (to avoid vomiting caused by ileus)",
+    "5%",
+    "50%",
+    "80%"
+   ],
+   "ans": 0,
+   "exp": "15-20% (to avoid vomiting caused by ileus) (Book p447)"
+  },
+  {
+   "id": "SURG-C58-080",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Avoid in burns first aid:",
+   "opts": [
+    "Bursting blisters, IM & SC injections",
+    "IV fluids",
+    "Tetanus toxoid",
+    "Analgesia"
+   ],
+   "ans": 0,
+   "exp": "Bursting blisters, IM & SC injections (Book p447)"
+  },
+  {
+   "id": "SURG-C58-081",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Compartment syndrome in burns — compartment pressure:",
+   "opts": [
+    ">30 mm Hg",
+    ">10 mm Hg",
+    ">60 mm Hg",
+    ">100 mm Hg"
+   ],
+   "ans": 0,
+   "exp": ">30 mm Hg (Book p447)"
+  },
+  {
+   "id": "SURG-C58-082",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Compartment syndrome in burns occurs d/t:",
+   "opts": [
+    "Circumferential eschar",
+    "Fluid overload",
+    "Sepsis",
+    "Positioning"
+   ],
+   "ans": 0,
+   "exp": "Circumferential eschar (Book p447)"
+  },
+  {
+   "id": "SURG-C58-083",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Clinical features of burn compartment syndrome:",
+   "opts": [
+    "Severe pain not relieved by medication & pain on passive flexion",
+    "Painless swelling",
+    "Coldness only",
+    "Itching"
+   ],
+   "ans": 0,
+   "exp": "Severe pain not relieved by medication & pain on passive flexion (Book p447)"
+  },
+  {
+   "id": "SURG-C58-084",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Treatment of burn compartment syndrome:",
+   "opts": [
+    "Escharotomy (a type of fasciotomy)",
+    "Analgesia",
+    "Elevation",
+    "Delay till day 7"
+   ],
+   "ans": 0,
+   "exp": "Escharotomy (a type of fasciotomy) (Book p447)"
+  },
+  {
+   "id": "SURG-C58-085",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy",
+   "page": 447,
+   "q": "Layers cut in escharotomy:",
+   "opts": [
+    "Skin → S/c tissue → superficial fascia → deep fascia (till muscle is exposed)",
+    "Only epidermis",
+    "Skin + muscle",
+    "Fascia alone"
+   ],
+   "ans": 0,
+   "exp": "Skin → S/c tissue → superficial fascia → deep fascia (till muscle is exposed) (Book p447)"
+  },
+  {
+   "id": "SURG-C58-086",
+   "sec": "Nutrition in Burns",
+   "page": 447,
+   "q": "BEE/REE multiplier — Normal:",
+   "opts": [
+    "1",
+    "1.4",
+    "1.8",
+    "2"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p447)"
+  },
+  {
+   "id": "SURG-C58-087",
+   "sec": "Nutrition in Burns",
+   "page": 447,
+   "q": "BEE/REE multiplier — mild/moderate sepsis:",
+   "opts": [
+    "1.4",
+    "1",
+    "1.8",
+    "2"
+   ],
+   "ans": 0,
+   "exp": "1.4 (Book p447)"
+  },
+  {
+   "id": "SURG-C58-088",
+   "sec": "Nutrition in Burns",
+   "page": 447,
+   "q": "BEE/REE multiplier — severe sepsis:",
+   "opts": [
+    "1.8",
+    "1.4",
+    "2",
+    "2.5"
+   ],
+   "ans": 0,
+   "exp": "1.8 (Book p447)"
+  },
+  {
+   "id": "SURG-C58-089",
+   "sec": "Nutrition in Burns",
+   "page": 447,
+   "q": "BEE/REE multiplier — severe burns:",
+   "opts": [
+    "2 (= 40 kcal/kg/day)",
+    "1.8",
+    "1.4",
+    "1"
+   ],
+   "ans": 0,
+   "exp": "2 (= 40 kcal/kg/day) (Book p447)"
+  },
+  {
+   "id": "SURG-C58-090",
+   "sec": "Nutrition in Burns",
+   "page": 447,
+   "q": "Caloric requirement formula in burns:",
+   "opts": [
+    "Curreri/Sutherland formula",
+    "Davies formula",
+    "Harris only",
+    "Muir-Barclay"
+   ],
+   "ans": 0,
+   "exp": "Curreri/Sutherland formula (Book p447)"
+  },
+  {
+   "id": "SURG-C58-091",
+   "sec": "Nutrition in Burns",
+   "page": 447,
+   "q": "Day 5-10 of burns: nitrogen balance is:",
+   "opts": [
+    "Negative → 20% of nutrition must be protein",
+    "Positive",
+    "Neutral",
+    "Zero"
+   ],
+   "ans": 0,
+   "exp": "Negative → 20% of nutrition must be protein (Book p447)"
+  },
+  {
+   "id": "SURG-C58-092",
+   "sec": "Nutrition in Burns",
+   "page": 447,
+   "q": "Protein requirement formula in burns:",
+   "opts": [
+    "Davies formula",
+    "Curreri",
+    "Sutherland",
+    "Parkland"
+   ],
+   "ans": 0,
+   "exp": "Davies formula (Book p447)"
+  },
+  {
+   "id": "SURG-C58-093",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 447,
+   "q": "Aims of burn dressing:",
+   "opts": [
+    "Protect damaged epithelium, minimise infection & promote healing",
+    "Dry the wound",
+    "Tighten eschar",
+    "Colour the skin"
+   ],
+   "ans": 0,
+   "exp": "Protect damaged epithelium, minimise infection & promote healing (Book p447)"
+  },
+  {
+   "id": "SURG-C58-094",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 447,
+   "q": "Dressing for 1st degree burns:",
+   "opts": [
+    "Expose the wound",
+    "Vaseline gauze",
+    "Hydrocolloid",
+    "Silver cream"
+   ],
+   "ans": 0,
+   "exp": "Expose the wound (Book p447)"
+  },
+  {
+   "id": "SURG-C58-095",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 447,
+   "q": "Dressing for superficial 2nd degree burns:",
+   "opts": [
+    "Vaseline/paraffin gauze; collagen dressing (if not infected)",
+    "Hydrocolloid (Duoderm)",
+    "Exposure",
+    "Debridement"
+   ],
+   "ans": 0,
+   "exp": "Vaseline/paraffin gauze; collagen dressing (if not infected) (Book p447)"
+  },
+  {
+   "id": "SURG-C58-096",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 447,
+   "q": "Dressing for deep 2nd degree burns:",
+   "opts": [
+    "Hydrocolloid dressing (e.g. Duoderm)",
+    "Exposure",
+    "Vaseline gauze only",
+    "Collagen only"
+   ],
+   "ans": 0,
+   "exp": "Hydrocolloid dressing (e.g. Duoderm) (Book p447)"
+  },
+  {
+   "id": "SURG-C58-097",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "The m/c special agent in 2° burns:",
+   "opts": [
+    "1% Silver sulphadiazine",
+    "Silver nitrate",
+    "Mafenide",
+    "Cesium nitrate"
+   ],
+   "ans": 0,
+   "exp": "1% Silver sulphadiazine (Book p448)"
+  },
+  {
+   "id": "SURG-C58-098",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "1% Silver sulphadiazine is effective against:",
+   "opts": [
+    "Pseudomonas & Gram negative bacteria",
+    "Only fungi",
+    "Only anaerobes",
+    "Viruses"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas & Gram negative bacteria (Book p448)"
+  },
+  {
+   "id": "SURG-C58-099",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "Disadvantages of silver sulphadiazine:",
+   "opts": [
+    "Requires frequent dressing change & doesn't penetrate eschar (superficial wounds only)",
+    "Black stain",
+    "Metabolic acidosis",
+    "Hypoglycemia"
+   ],
+   "ans": 0,
+   "exp": "Requires frequent dressing change & doesn't penetrate eschar (superficial wounds only) (Book p448)"
+  },
+  {
+   "id": "SURG-C58-100",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "Silver nitrate — spectrum & drawback:",
+   "opts": [
+    "Pseudomonas > Gram negative; black stain",
+    "Penetrates eschar; pain",
+    "Immunomodulator; expensive",
+    "Only gram positive; acidosis"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas > Gram negative; black stain (Book p448)"
+  },
+  {
+   "id": "SURG-C58-101",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "The special agent that PENETRATES eschar:",
+   "opts": [
+    "5% Mafenide acetate",
+    "Silver sulphadiazine",
+    "Silver nitrate",
+    "Cesium nitrate"
+   ],
+   "ans": 0,
+   "exp": "5% Mafenide acetate (Book p448)"
+  },
+  {
+   "id": "SURG-C58-102",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "Disadvantages of mafenide acetate:",
+   "opts": [
+    "Painful application & metabolic acidosis",
+    "Black stain",
+    "Expensive",
+    "Poor eschar entry"
+   ],
+   "ans": 0,
+   "exp": "Painful application & metabolic acidosis (Book p448)"
+  },
+  {
+   "id": "SURG-C58-103",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "The BEST special agent for 2° burns:",
+   "opts": [
+    "Cesium nitrate (immunomodulator)",
+    "Silver sulphadiazine",
+    "Mafenide",
+    "Silver nitrate"
+   ],
+   "ans": 0,
+   "exp": "Cesium nitrate (immunomodulator) (Book p448)"
+  },
+  {
+   "id": "SURG-C58-104",
+   "sec": "Dressing Materials and Special Agents in 2° Burns",
+   "page": 448,
+   "q": "Drawback of cesium nitrate:",
+   "opts": [
+    "Expensive",
+    "Painful",
+    "Black stain",
+    "Acidosis"
+   ],
+   "ans": 0,
+   "exp": "Expensive (Book p448)"
+  },
+  {
+   "id": "SURG-C58-105",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "Mx of hypertrophic scar after burns:",
+   "opts": [
+    "Spontaneous resolution with time",
+    "Intralesional triamcinolone",
+    "V-Y plasty",
+    "Wide excision"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous resolution with time (Book p448)"
+  },
+  {
+   "id": "SURG-C58-106",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "Mx of keloids after burns:",
+   "opts": [
+    "Intralesional triamcinolone",
+    "Observation only",
+    "V-Y plasty",
+    "Radiation only"
+   ],
+   "ans": 0,
+   "exp": "Intralesional triamcinolone (Book p448)"
+  },
+  {
+   "id": "SURG-C58-107",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "Mx of post-burn contracture:",
+   "opts": [
+    "V-Y plasty, Z plasty",
+    "Triamcinolone",
+    "Wide local excision",
+    "Graft alone"
+   ],
+   "ans": 0,
+   "exp": "V-Y plasty, Z plasty (Book p448)"
+  },
+  {
+   "id": "SURG-C58-108",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "Mx of Marjolin's ulcer:",
+   "opts": [
+    "Wide local excision",
+    "Z plasty",
+    "Triamcinolone",
+    "Dressing"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision (Book p448)"
+  },
+  {
+   "id": "SURG-C58-109",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "IMMEDIATE cause of death in burns:",
+   "opts": [
+    "Asphyxia > neurogenic shock",
+    "Hypovolemic shock",
+    "Septicemia",
+    "Renal failure"
+   ],
+   "ans": 0,
+   "exp": "Asphyxia > neurogenic shock (Book p448)"
+  },
+  {
+   "id": "SURG-C58-110",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "EARLY (1-3 days) cause of death in burns:",
+   "opts": [
+    "Hypovolemic shock",
+    "Septic shock",
+    "Asphyxia",
+    "CO poisoning"
+   ],
+   "ans": 0,
+   "exp": "Hypovolemic shock (Book p448)"
+  },
+  {
+   "id": "SURG-C58-111",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "LATE (>3 days) & m/c OVERALL cause of death in burns:",
+   "opts": [
+    "Septic shock",
+    "Hypovolemia",
+    "Asphyxia",
+    "Arrhythmia"
+   ],
+   "ans": 0,
+   "exp": "Septic shock (Book p448)"
+  },
+  {
+   "id": "SURG-C58-112",
+   "sec": "Management of Complications and Causes of Death in Burns",
+   "page": 448,
+   "q": "M/c causative organism of lethal burn septicemia:",
+   "opts": [
+    "Pseudomonas",
+    "S. aureus",
+    "E. coli",
+    "Klebsiella"
+   ],
+   "ans": 0,
+   "exp": "Pseudomonas (Book p448)"
+  },
+  {
+   "id": "SURG-C58-113",
+   "sec": "Chemical Burns and Hydrofluoric Acid",
+   "page": 448,
+   "q": "Which chemical burn penetrates DEEPER?",
+   "opts": [
+    "Alkali burns > acid burns",
+    "Acid > alkali",
+    "Equal",
+    "Neither penetrates"
+   ],
+   "ans": 0,
+   "exp": "Alkali burns > acid burns (Book p448)"
+  },
+  {
+   "id": "SURG-C58-114",
+   "sec": "Chemical Burns and Hydrofluoric Acid",
+   "page": 448,
+   "q": "First mx step of chemical burns:",
+   "opts": [
+    "Wash with water (do NOT try neutralization)",
+    "Neutralise with weak acid/base",
+    "Apply oil",
+    "Occlusive dressing"
+   ],
+   "ans": 0,
+   "exp": "Wash with water (do NOT try neutralization) (Book p448)"
+  },
+  {
+   "id": "SURG-C58-115",
+   "sec": "Chemical Burns and Hydrofluoric Acid",
+   "page": 448,
+   "q": "Chemical POWDER on skin is managed by:",
+   "opts": [
+    "Brush off (before washing)",
+    "Immediate water only",
+    "Neutralization",
+    "Solvent wipe"
+   ],
+   "ans": 0,
+   "exp": "Brush off (before washing) (Book p448)"
+  },
+  {
+   "id": "SURG-C58-116",
+   "sec": "Chemical Burns and Hydrofluoric Acid",
+   "page": 448,
+   "q": "Hydrofluoric acid burns — electrolyte effects:",
+   "opts": [
+    "↓Ca²⁺ (chelation), ↑K⁺ (tissue damage) & acidosis",
+    "↑Ca²⁺, ↓K⁺",
+    "↑Na⁺ only",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "↓Ca²⁺ (chelation), ↑K⁺ (tissue damage) & acidosis (Book p448)"
+  },
+  {
+   "id": "SURG-C58-117",
+   "sec": "Chemical Burns and Hydrofluoric Acid",
+   "page": 448,
+   "q": "Mx of hydrofluoric acid burns:",
+   "opts": [
+    "Calcium gluconate (topical gel/oral/i.v./i.a.)",
+    "Sodium bicarbonate",
+    "Magnesium sulfate",
+    "Insulin-dextrose"
+   ],
+   "ans": 0,
+   "exp": "Calcium gluconate (topical gel/oral/i.v./i.a.) (Book p448)"
+  },
+  {
+   "id": "SURG-C58-118",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "Electrical burns are typically what degree?",
+   "opts": [
+    "3°/4°",
+    "1°",
+    "2° superficial",
+    "Sunburn-like"
+   ],
+   "ans": 0,
+   "exp": "3°/4° (Book p449)"
+  },
+  {
+   "id": "SURG-C58-119",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "DC current causes:",
+   "opts": [
+    "Heart blocks",
+    "Tetany",
+    "Myoglobinuria",
+    "Only skin burns"
+   ],
+   "ans": 0,
+   "exp": "Heart blocks (Book p449)"
+  },
+  {
+   "id": "SURG-C58-120",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "AC current causes:",
+   "opts": [
+    "Tetany → muscle damage → myoglobinuria",
+    "Heart blocks only",
+    "Only surface burn",
+    "Deafness"
+   ],
+   "ans": 0,
+   "exp": "Tetany → muscle damage → myoglobinuria (Book p449)"
+  },
+  {
+   "id": "SURG-C58-121",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "Myoglobinuria after AC injury is prevented by:",
+   "opts": [
+    "↑IV fluids (to prevent ATN)",
+    "Diuretics only",
+    "Alkalinisation alone",
+    "Fluid restriction"
+   ],
+   "ans": 0,
+   "exp": "↑IV fluids (to prevent ATN) (Book p449)"
+  },
+  {
+   "id": "SURG-C58-122",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "M/c cause of death in electrical burns:",
+   "opts": [
+    "Arrhythmia",
+    "Renal failure",
+    "Sepsis",
+    "Hypovolemia"
+   ],
+   "ans": 0,
+   "exp": "Arrhythmia (Book p449)"
+  },
+  {
+   "id": "SURG-C58-123",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "Examination of electrical burns must include:",
+   "opts": [
+    "Both entry AND exit wounds",
+    "Entry only",
+    "Exit only",
+    "Mouth"
+   ],
+   "ans": 0,
+   "exp": "Both entry AND exit wounds (Book p449)"
+  },
+  {
+   "id": "SURG-C58-124",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "Definitive care of electrical burn wound:",
+   "opts": [
+    "Early excision + split thickness skin grafting",
+    "Dressing for weeks",
+    "Amputation always",
+    "Conservative healing"
+   ],
+   "ans": 0,
+   "exp": "Early excision + split thickness skin grafting (Book p449)"
+  },
+  {
+   "id": "SURG-C58-125",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "DIRECT lightning injury features:",
+   "opts": [
+    "High grade electrical injury & arrhythmias",
+    "Filigree burns",
+    "Only superficial burns",
+    "No cardiac effect"
+   ],
+   "ans": 0,
+   "exp": "High grade electrical injury & arrhythmias (Book p449)"
+  },
+  {
+   "id": "SURG-C58-126",
+   "sec": "Electrical Burns and Lightning Injury",
+   "page": 449,
+   "q": "INDIRECT lightning injury:",
+   "opts": [
+    "Filigree burns pattern; superficial burns d/t sparks from adjacent object",
+    "High grade deep burns",
+    "Always fatal",
+    "Entry-exit wounds"
+   ],
+   "ans": 0,
+   "exp": "Filigree burns pattern; superficial burns d/t sparks from adjacent object (Book p449)"
+  },
+  {
+   "id": "SURG-C58-127",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Hypothermia is usually caused by:",
+   "opts": [
+    "30 mins of cold exposure",
+    "3 hours",
+    "24 hours",
+    "1 week"
+   ],
+   "ans": 0,
+   "exp": "30 mins of cold exposure (Book p449)"
+  },
+  {
+   "id": "SURG-C58-128",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Stage I hypothermia:",
+   "opts": [
+    "Conscious, shivering (35-32°C / 95-89.6°F)",
+    "Unconscious, shivering",
+    "No vital signs",
+    "J/Osborne waves"
+   ],
+   "ans": 0,
+   "exp": "Conscious, shivering (35-32°C / 95-89.6°F) (Book p449)"
+  },
+  {
+   "id": "SURG-C58-129",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Stage II hypothermia:",
+   "opts": [
+    "Impaired consciousness, NOT shivering (32-28°C); ECG J/Osborne waves",
+    "Conscious, shivering",
+    "No vital signs",
+    "Hyperthermia"
+   ],
+   "ans": 0,
+   "exp": "Impaired consciousness, NOT shivering (32-28°C); ECG J/Osborne waves (Book p449)"
+  },
+  {
+   "id": "SURG-C58-130",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Stage III hypothermia:",
+   "opts": [
+    "Unconscious, not shivering; vital signs present (28-24°C)",
+    "No vital signs",
+    "Conscious",
+    "Shivering violently"
+   ],
+   "ans": 0,
+   "exp": "Unconscious, not shivering; vital signs present (28-24°C) (Book p449)"
+  },
+  {
+   "id": "SURG-C58-131",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Stage IV hypothermia:",
+   "opts": [
+    "No vital signs (<24°C / <75.2°F)",
+    "Vital signs present",
+    "Shivering",
+    "J waves only"
+   ],
+   "ans": 0,
+   "exp": "No vital signs (<24°C / <75.2°F) (Book p449)"
+  },
+  {
+   "id": "SURG-C58-132",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Treatment of Stage I hypothermia:",
+   "opts": [
+    "Warm environment & clothing, warm sweet drinks, active movement",
+    "ECMO",
+    "CPR",
+    "Immobility"
+   ],
+   "ans": 0,
+   "exp": "Warm environment & clothing, warm sweet drinks, active movement (Book p449)"
+  },
+  {
+   "id": "SURG-C58-133",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Treatment of Stage II hypothermia:",
+   "opts": [
+    "Cardiac monitoring, minimal movements to avoid arrhythmias, immobilization, full-body insulation, active external rewarming",
+    "Sweet drinks & movement",
+    "ECMO only",
+    "Nothing"
+   ],
+   "ans": 0,
+   "exp": "Cardiac monitoring, minimal movements to avoid arrhythmias, immobilization, full-body insulation, active external rewarming (Book p449)"
+  },
+  {
+   "id": "SURG-C58-134",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Stage III hypothermia treatment adds:",
+   "opts": [
+    "ECMO or CPB in cases with cardiac instability",
+    "Active movement",
+    "Cold lavage",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "ECMO or CPB in cases with cardiac instability (Book p449)"
+  },
+  {
+   "id": "SURG-C58-135",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 449,
+   "q": "Stage IV hypothermia treatment:",
+   "opts": [
+    "Stage 2 and 3 management plus CPR + ECMO or CPB",
+    "Warm drinks",
+    "External warmth only",
+    "Declare death"
+   ],
+   "ans": 0,
+   "exp": "Stage 2 and 3 management plus CPR + ECMO or CPB (Book p449)"
+  },
+  {
+   "id": "SURG-C58-136",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "PASSIVE rewarming (prevent heat loss) includes:",
+   "opts": [
+    "Dry patient, warm environment, shivering, blankets/clothing, cover head",
+    "Heating pads",
+    "Heated IV fluids",
+    "CPB"
+   ],
+   "ans": 0,
+   "exp": "Dry patient, warm environment, shivering, blankets/clothing, cover head (Book p450)"
+  },
+  {
+   "id": "SURG-C58-137",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Passive rewarming level of hypothermia:",
+   "opts": [
+    "Mild: 35°C to 32°C",
+    "Moderate 32-28",
+    "Severe <28",
+    "Any stage"
+   ],
+   "ans": 0,
+   "exp": "Mild: 35°C to 32°C (Book p450)"
+  },
+  {
+   "id": "SURG-C58-138",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "ACTIVE EXTERNAL rewarming methods:",
+   "opts": [
+    "Heating pad, warm water/blankets/water bottles, warm water immersion, convection heaters (lamps & radiant warmers)",
+    "Gastric lavage",
+    "CPB",
+    "Heated IV fluids"
+   ],
+   "ans": 0,
+   "exp": "Heating pad, warm water/blankets/water bottles, warm water immersion, convection heaters (lamps & radiant warmers) (Book p450)"
+  },
+  {
+   "id": "SURG-C58-139",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Active external rewarming level:",
+   "opts": [
+    "Mild (35-32°C) and moderate (<32-28°C)",
+    "Severe only",
+    "Any",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "Mild (35-32°C) and moderate (<32-28°C) (Book p450)"
+  },
+  {
+   "id": "SURG-C58-140",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "ACTIVE INTERNAL rewarming methods:",
+   "opts": [
+    "Heated intravenous fluids & gastric or colonic lavage",
+    "Blankets",
+    "Lamps",
+    "Warm drinks"
+   ],
+   "ans": 0,
+   "exp": "Heated intravenous fluids & gastric or colonic lavage (Book p450)"
+  },
+  {
+   "id": "SURG-C58-141",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Internal rewarming level:",
+   "opts": [
+    "Moderate (<32-28°C) and severe (<28-24°C)",
+    "Mild only",
+    "None",
+    "Only stage IV"
+   ],
+   "ans": 0,
+   "exp": "Moderate (<32-28°C) and severe (<28-24°C) (Book p450)"
+  },
+  {
+   "id": "SURG-C58-142",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "BEST method of rewarming (severe):",
+   "opts": [
+    "Cardiopulmonary bypass",
+    "Warm water immersion",
+    "Heated blankets",
+    "Gastric lavage"
+   ],
+   "ans": 0,
+   "exp": "Cardiopulmonary bypass (Book p450)"
+  },
+  {
+   "id": "SURG-C58-143",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Best site to measure core temperature:",
+   "opts": [
+    "Rectal > esophageal",
+    "Axillary",
+    "Oral",
+    "Tympanic"
+   ],
+   "ans": 0,
+   "exp": "Rectal > esophageal (Book p450)"
+  },
+  {
+   "id": "SURG-C58-144",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Before declaring death in hypothermia:",
+   "opts": [
+    "Body temperature should have returned to normal",
+    "2 hours of arrest suffices",
+    "No rule",
+    "Pupils only"
+   ],
+   "ans": 0,
+   "exp": "Body temperature should have returned to normal (Book p450)"
+  },
+  {
+   "id": "SURG-C58-145",
+   "sec": "Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Frostbite pathophysiology:",
+   "opts": [
+    "Dry cold exposure → formation of ice crystals → tissue damage",
+    "Wet cold → stasis",
+    "Heat → edema",
+    "Chemical chelation"
+   ],
+   "ans": 0,
+   "exp": "Dry cold exposure → formation of ice crystals → tissue damage (Book p450)"
+  },
+  {
+   "id": "SURG-C58-146",
+   "sec": "Frostbite and Trench Foot",
+   "page": 450,
+   "q": "After frostbite rewarming:",
+   "opts": [
+    "Vasodilation → free O₂ radicals → reperfusion injury",
+    "Vasoconstriction",
+    "Immediate healing",
+    "Necrosis without radicals"
+   ],
+   "ans": 0,
+   "exp": "Vasodilation → free O₂ radicals → reperfusion injury (Book p450)"
+  },
+  {
+   "id": "SURG-C58-147",
+   "sec": "Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Trench foot pathophysiology:",
+   "opts": [
+    "Wet cold exposure → microvascular damage + stasis and occlusion",
+    "Dry cold → ice crystals",
+    "Burn injury",
+    "Arterial emboli"
+   ],
+   "ans": 0,
+   "exp": "Wet cold exposure → microvascular damage + stasis and occlusion (Book p450)"
+  },
+  {
+   "id": "SURG-C58-148",
+   "sec": "Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Mx of frostbite/trench foot — rewarming water temperature:",
+   "opts": [
+    "40°C (rapid rewarming)",
+    "60°C",
+    "25°C",
+    "10°C"
+   ],
+   "ans": 0,
+   "exp": "40°C (rapid rewarming) (Book p450)"
+  },
+  {
+   "id": "SURG-C58-149",
+   "sec": "Frostbite and Trench Foot",
+   "page": 450,
+   "q": "What must be AVOIDED in frostbite?",
+   "opts": [
+    "Rubbing the tissue",
+    "Rewarming",
+    "Elevation",
+    "Analgesia"
+   ],
+   "ans": 0,
+   "exp": "Rubbing the tissue (Book p450)"
+  },
+  {
+   "id": "SURG-C58-150",
+   "sec": "Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Correct along with rewarming:",
+   "opts": [
+    "Hyperkalemia & acidosis",
+    "Hypokalemia & alkalosis",
+    "Hypernatremia",
+    "Hypocalcemia only"
+   ],
+   "ans": 0,
+   "exp": "Hyperkalemia & acidosis (Book p450)"
+  },
+  {
+   "id": "SURG-C58-151",
+   "sec": "Frostbite and Trench Foot",
+   "page": 450,
+   "q": "Gangrenous frostbite amputation timing:",
+   "opts": [
+    "Once demarcation line appears",
+    "Immediately",
+    "Never",
+    "After 1 year"
+   ],
+   "ans": 0,
+   "exp": "Once demarcation line appears (Book p450)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U58-1",
+   "ch": 58,
+   "n": 1,
+   "title": "Burns Unit: Referral Criteria and ACLS (ABCDE)",
+   "sec": "Burns Unit: Referral Criteria and ACLS (ABCDE) · p444",
+   "qs": [
+    "SURG-C58-001",
+    "SURG-C58-002",
+    "SURG-C58-003",
+    "SURG-C58-004",
+    "SURG-C58-005",
+    "SURG-C58-006",
+    "SURG-C58-007"
+   ],
+   "guide": "Face, hands, genitalia, chemical/electrical/inhalation burns, partial thickness >10% TBSA and any full thickness burn go to the burns unit; the resuscitation skeleton is ACLS-style ABCDE, where exposure means finding the cause and extent."
+  },
+  {
+   "id": "SURG-U58-2",
+   "ch": 58,
+   "n": 2,
+   "title": "Airway Burns: Signs and Stages",
+   "sec": "Airway Burns: Signs and Stages · p444",
+   "qs": [
+    "SURG-C58-008",
+    "SURG-C58-009",
+    "SURG-C58-010",
+    "SURG-C58-011",
+    "SURG-C58-012",
+    "SURG-C58-013",
+    "SURG-C58-014",
+    "SURG-C58-015"
+   ],
+   "guide": "Singed nasal hair, hoarseness, carbonaceous sputum, closed-room or face/neck burns and altered sensorium all point to airway burns — intubate prophylactically because the airway collapses fast."
+  },
+  {
+   "id": "SURG-U58-3",
+   "ch": 58,
+   "n": 3,
+   "title": "Stages of Airway Burns and Breathing (Hypoxia Causes)",
+   "sec": "Stages of Airway Burns and Breathing (Hypoxia Causes) · p444",
+   "qs": [
+    "SURG-C58-016",
+    "SURG-C58-017",
+    "SURG-C58-018",
+    "SURG-C58-019",
+    "SURG-C58-020",
+    "SURG-C58-021",
+    "SURG-C58-022",
+    "SURG-C58-023",
+    "SURG-C58-024",
+    "SURG-C58-025",
+    "SURG-C58-026"
+   ],
+   "guide": "Airway burns run hypoxia → ARDS-like bilateral infiltrates at 24-48 h → bronchopneumonia (S. aureus early, gram negatives late). Add smoke, CO's hemoglobin grip and a chest eschar strangling expansion to the hypoxia list."
+  },
+  {
+   "id": "SURG-U58-4",
+   "ch": 58,
+   "n": 4,
+   "title": "Circulation: Burns Pathophysiology",
+   "sec": "Circulation: Burns Pathophysiology · p445",
+   "qs": [
+    "SURG-C58-027",
+    "SURG-C58-028",
+    "SURG-C58-029",
+    "SURG-C58-030",
+    "SURG-C58-031"
+   ],
+   "guide": "Burn mediators vasodilate: <10% TBSA stays a local immune event, >10% goes systemic, and leaky 12-24 h vessels spill albumin into the third space."
+  },
+  {
+   "id": "SURG-U58-5",
+   "ch": 58,
+   "n": 5,
+   "title": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output",
+   "sec": "Fluid Resuscitation: Parkland, Brooke, Galveston & Target Urine Output · p445",
+   "qs": [
+    "SURG-C58-032",
+    "SURG-C58-033",
+    "SURG-C58-034",
+    "SURG-C58-035",
+    "SURG-C58-036",
+    "SURG-C58-037",
+    "SURG-C58-038",
+    "SURG-C58-039",
+    "SURG-C58-040",
+    "SURG-C58-041",
+    "SURG-C58-042",
+    "SURG-C58-043",
+    "SURG-C58-044"
+   ],
+   "guide": "Crystalloids follow Parkland (4 × kg × %TBSA, half in 8 h, half in 16 h, Ringer lactate, 1° burns excluded) or modified Brooke (2 ×); colloids come after 12 h by Muir & Barclay. Children <14 get 3 mL/kg/%, infants add sugar maintenance; electrical injuries get 4 mL until urine clears; Galveston covers pediatric crystalloid."
+  },
+  {
+   "id": "SURG-U58-6",
+   "ch": 58,
+   "n": 6,
+   "title": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder",
+   "sec": "Burns % Calculation: Palm, Rule of 9s, Lund & Browder · p446",
+   "qs": [
+    "SURG-C58-045",
+    "SURG-C58-046",
+    "SURG-C58-047",
+    "SURG-C58-048",
+    "SURG-C58-049",
+    "SURG-C58-050",
+    "SURG-C58-051",
+    "SURG-C58-052",
+    "SURG-C58-053",
+    "SURG-C58-054",
+    "SURG-C58-055",
+    "SURG-C58-056"
+   ],
+   "guide": "Palm = 1% for small burns, Wallace's rule of 9s for adults (arm 9, head 9, trunk 18 each half, leg 18, perineum 1), children shift volume to the head (18%) and legs (13.5%), and the Lund & Browder chart is the best method overall."
+  },
+  {
+   "id": "SURG-U58-7",
+   "ch": 58,
+   "n": 7,
+   "title": "Zones of Burns",
+   "sec": "Zones of Burns · p446",
+   "qs": [
+    "SURG-C58-057",
+    "SURG-C58-058",
+    "SURG-C58-059",
+    "SURG-C58-060",
+    "SURG-C58-061",
+    "SURG-C58-062"
+   ],
+   "guide": "The wound is three zones: central coagulation (irreversible), surrounding stasis (capillary damage + edema — salvageable into hyperemia if well managed, necrosis if not), and outer hyperemia from vasodilation; G-CSF receptor downregulation blunts local immunity."
+  },
+  {
+   "id": "SURG-U58-8",
+   "ch": 58,
+   "n": 8,
+   "title": "Degrees of Burns",
+   "sec": "Degrees of Burns · p446",
+   "qs": [
+    "SURG-C58-063",
+    "SURG-C58-064",
+    "SURG-C58-065",
+    "SURG-C58-066",
+    "SURG-C58-067",
+    "SURG-C58-068",
+    "SURG-C58-069",
+    "SURG-C58-070",
+    "SURG-C58-071",
+    "SURG-C58-072",
+    "SURG-C58-073",
+    "SURG-C58-074",
+    "SURG-C58-075",
+    "SURG-C58-076",
+    "SURG-C58-077"
+   ],
+   "guide": "1st degree = epidermis (sunburn, blanching red, heals 3-5 d); superficial 2nd = papillary dermis (blisters, 2-3 weeks, no scar); deep 2nd = whole dermis (thrombosed vessels, keloids); 3rd = subcutaneous fat and 4th = muscle — charred, painless, needing early excision and STSG."
+  },
+  {
+   "id": "SURG-U58-9",
+   "ch": 58,
+   "n": 9,
+   "title": "General Measures and Compartment Syndrome / Escharotomy",
+   "sec": "General Measures and Compartment Syndrome / Escharotomy · p447",
+   "qs": [
+    "SURG-C58-078",
+    "SURG-C58-079",
+    "SURG-C58-080",
+    "SURG-C58-081",
+    "SURG-C58-082",
+    "SURG-C58-083",
+    "SURG-C58-084",
+    "SURG-C58-085"
+   ],
+   "guide": "Wash with room-temperature water, decompress the ileus-prone stomach (Ryle's in >15-20%), never burst blisters or give IM/SC injections. Circumferential eschar drives pressures >30 mm Hg — severe pain and pain on passive flexion demand escharotomy down to deep fascia until muscle is exposed."
+  },
+  {
+   "id": "SURG-U58-10",
+   "ch": 58,
+   "n": 10,
+   "title": "Nutrition in Burns",
+   "sec": "Nutrition in Burns · p447",
+   "qs": [
+    "SURG-C58-086",
+    "SURG-C58-087",
+    "SURG-C58-088",
+    "SURG-C58-089",
+    "SURG-C58-090",
+    "SURG-C58-091",
+    "SURG-C58-092"
+   ],
+   "guide": "Energy multipliers stack 1 / 1.4 / 1.8 / 2 (severe burns = 40 kcal/kg/day) via Curreri/Sutherland; days 5-10 run negative nitrogen balance so 20% of nutrition must be protein (Davies formula)."
+  },
+  {
+   "id": "SURG-U58-11",
+   "ch": 58,
+   "n": 11,
+   "title": "Dressing Materials and Special Agents in 2° Burns",
+   "sec": "Dressing Materials and Special Agents in 2° Burns · p447",
+   "qs": [
+    "SURG-C58-093",
+    "SURG-C58-094",
+    "SURG-C58-095",
+    "SURG-C58-096",
+    "SURG-C58-097",
+    "SURG-C58-098",
+    "SURG-C58-099",
+    "SURG-C58-100",
+    "SURG-C58-101",
+    "SURG-C58-102",
+    "SURG-C58-103",
+    "SURG-C58-104"
+   ],
+   "guide": "Dressings aim to protect, decontaminate and heal: expose 1st degree, vaseline/collagen for superficial 2nd, hydrocolloid (Duoderm) for deep 2nd. Silver sulphadiazine 1% remains the m/c agent (frequent changes, no eschar penetration), silver nitrate stains black, mafenide 5% penetrates eschar but burns and acidifies, and cesium nitrate — the best — is an immunomodulator with a price tag."
+  },
+  {
+   "id": "SURG-U58-12",
+   "ch": 58,
+   "n": 12,
+   "title": "Management of Complications and Causes of Death in Burns",
+   "sec": "Management of Complications and Causes of Death in Burns · p448",
+   "qs": [
+    "SURG-C58-105",
+    "SURG-C58-106",
+    "SURG-C58-107",
+    "SURG-C58-108",
+    "SURG-C58-109",
+    "SURG-C58-110",
+    "SURG-C58-111",
+    "SURG-C58-112"
+   ],
+   "guide": "Hypertrophic scars settle alone, keloids get triamcinolone, contractures get V-Y/Z-plasty, Marjolin's ulcer a wide excision. Death runs asphyxia → hypovolemic shock (1-3 d) → septic shock, the overall top killer, with Pseudomonas the usual organism."
+  },
+  {
+   "id": "SURG-U58-13",
+   "ch": 58,
+   "n": 13,
+   "title": "Chemical Burns and Hydrofluoric Acid",
+   "sec": "Chemical Burns and Hydrofluoric Acid · p448",
+   "qs": [
+    "SURG-C58-113",
+    "SURG-C58-114",
+    "SURG-C58-115",
+    "SURG-C58-116",
+    "SURG-C58-117"
+   ],
+   "guide": "Alkali bites deeper than acid; flood with water and never neutralize — brush powders off first. Hydrofluoric acid chelates calcium (↓Ca²⁺, ↑K⁺, acidosis) and is treated with calcium gluconate by gel, mouth, IV or IA."
+  },
+  {
+   "id": "SURG-U58-14",
+   "ch": 58,
+   "n": 14,
+   "title": "Electrical Burns and Lightning Injury",
+   "sec": "Electrical Burns and Lightning Injury · p449",
+   "qs": [
+    "SURG-C58-118",
+    "SURG-C58-119",
+    "SURG-C58-120",
+    "SURG-C58-121",
+    "SURG-C58-122",
+    "SURG-C58-123",
+    "SURG-C58-124",
+    "SURG-C58-125",
+    "SURG-C58-126"
+   ],
+   "guide": "Electrical burns are 3°/4°: DC blocks the heart, AC tetanises muscle into myoglobinuria (flood with fluids to dodge ATN), and arrhythmia kills most. Trace entry and exit wounds, excise early and graft; lightning splits into direct (high-grade, arrhythmias) and indirect filigree spark burns."
+  },
+  {
+   "id": "SURG-U58-15",
+   "ch": 58,
+   "n": 15,
+   "title": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot",
+   "sec": "Hypothermia: Stages, Rewarming, Frostbite and Trench Foot · p449",
+   "qs": [
+    "SURG-C58-127",
+    "SURG-C58-128",
+    "SURG-C58-129",
+    "SURG-C58-130",
+    "SURG-C58-131",
+    "SURG-C58-132",
+    "SURG-C58-133",
+    "SURG-C58-134",
+    "SURG-C58-135",
+    "SURG-C58-136",
+    "SURG-C58-137",
+    "SURG-C58-138",
+    "SURG-C58-139",
+    "SURG-C58-140",
+    "SURG-C58-141",
+    "SURG-C58-142",
+    "SURG-C58-143",
+    "SURG-C58-144"
+   ],
+   "guide": "Thirty minutes of cold drops the core: stage I shivering 35-32°C, stage II 32-28°C with J/Osborne waves, stage III 28-24°C unconscious with vitals, stage IV <24°C flat. Rewarm passively (mild), actively externally (mild-moderate), internally (moderate-severe) and with CPB/ECMO (best, severe); core temp reads best rectally and must normalise before death is declared."
+  },
+  {
+   "id": "SURG-U58-16",
+   "ch": 58,
+   "n": 16,
+   "title": "Frostbite and Trench Foot",
+   "sec": "Frostbite and Trench Foot · p450",
+   "qs": [
+    "SURG-C58-145",
+    "SURG-C58-146",
+    "SURG-C58-147",
+    "SURG-C58-148",
+    "SURG-C58-149",
+    "SURG-C58-150",
+    "SURG-C58-151"
+   ],
+   "guide": "Frostbite = dry cold freezing ice crystals into tissue; rewarming then vasodilates and free radicals cause reperfusion injury. Trench foot = wet cold with microvascular stasis. Rewarm fast at 40°C, never rub, fix hyperkalemia and acidosis, and amputate gangrene only at the demarcation line."
+  }
+ ]
+}
