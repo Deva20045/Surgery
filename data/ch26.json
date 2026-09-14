@@ -1,0 +1,1091 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C26-001",
+   "sec": "Indications for Bariatric Surgery",
+   "page": 179,
+   "q": "In the general population, bariatric surgery is indicated at a BMI of:",
+   "opts": [
+    "≥40 kg/m²",
+    "≥30 kg/m²",
+    "≥25 kg/m²",
+    "≥50 kg/m²"
+   ],
+   "ans": 0,
+   "exp": "Indications - BMI in general population: ≥40 kg/m². (Book p179)"
+  },
+  {
+   "id": "SURG-C26-002",
+   "sec": "Indications for Bariatric Surgery",
+   "page": 179,
+   "q": "In the general population, bariatric surgery is indicated at a BMI of ≥35 kg/m² when:",
+   "opts": [
+    "Obesity related complications are present",
+    "The patient requests it",
+    "The patient is over 50 years old",
+    "There is a family history of obesity"
+   ],
+   "ans": 0,
+   "exp": "Indications: ≥35 kg/m² with obesity complications. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-003",
+   "sec": "Indications for Bariatric Surgery",
+   "page": 179,
+   "q": "Obesity related complications that justify surgery at a BMI of ≥35 kg/m² include all EXCEPT:",
+   "opts": [
+    "Peptic ulcer disease",
+    "Diabetes mellitus",
+    "Obstructive sleep apnoea / Pickwickian syndrome",
+    "Hyperlipidemia"
+   ],
+   "ans": 0,
+   "exp": "Obesity complications: DM, obstructive sleep apnea (OSA)/Pickwickian syndrome, hyperlipidemia, osteoarthritis. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-004",
+   "sec": "Indications for Bariatric Surgery",
+   "page": 179,
+   "q": "In the general population, surgery is also indicated at a BMI of 30-34.9 kg/m² when:",
+   "opts": [
+    "Type 2 diabetes mellitus is present (within 10 years)",
+    "There is hypertension alone",
+    "There is osteoarthritis",
+    "The patient is a smoker"
+   ],
+   "ans": 0,
+   "exp": "Indications: 30-34.9 kg/m² with type 2 DM within 10 years. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-005",
+   "sec": "Indications for Bariatric Surgery",
+   "page": 179,
+   "q": "In the Asian population, bariatric surgery is indicated at a BMI of:",
+   "opts": [
+    "≥37.5 kg/m²",
+    "≥40 kg/m²",
+    "≥30 kg/m²",
+    "≥45 kg/m²"
+   ],
+   "ans": 0,
+   "exp": "BMI in Asian population: ≥37.5 kg/m². (Book p179)"
+  },
+  {
+   "id": "SURG-C26-006",
+   "sec": "Indications for Bariatric Surgery",
+   "page": 179,
+   "q": "In the Asian population, bariatric surgery is indicated at a BMI of ≥32.5 kg/m² when:",
+   "opts": [
+    "Obesity related complications are present",
+    "There is no complication",
+    "The patient is above 60 years",
+    "There is a history of smoking"
+   ],
+   "ans": 0,
+   "exp": "BMI in Asian population: ≥32.5 kg/m² with complications. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-007",
+   "sec": "Pre-operative Considerations",
+   "page": 179,
+   "q": "Before bariatric surgery a liver shrinkage diet is advised. It is:",
+   "opts": [
+    "Low carbohydrate and high protein",
+    "High carbohydrate and low protein",
+    "High fat and low protein",
+    "A pure liquid fat free diet"
+   ],
+   "ans": 0,
+   "exp": "Liver shrinkage diet: low carbohydrate, high protein (at least 2 weeks). (Book p179)"
+  },
+  {
+   "id": "SURG-C26-008",
+   "sec": "Pre-operative Considerations",
+   "page": 179,
+   "q": "The liver shrinkage diet is given for at least:",
+   "opts": [
+    "2 weeks",
+    "1 day",
+    "6 weeks",
+    "3 months"
+   ],
+   "ans": 0,
+   "exp": "Liver shrinkage diet: low carbohydrate, high protein (at least 2 weeks). (Book p179)"
+  },
+  {
+   "id": "SURG-C26-009",
+   "sec": "Pre-operative Considerations",
+   "page": 179,
+   "q": "A patient who is non-adherent to the pre-operative diet should be:",
+   "opts": [
+    "Referred for psychotherapy",
+    "Operated on immediately",
+    "Given a larger calorie allowance",
+    "Started on TPN"
+   ],
+   "ans": 0,
+   "exp": "Refer to psychotherapy if inadherent to diet. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-010",
+   "sec": "Pre-operative Considerations",
+   "page": 179,
+   "q": "Smoking cessation before bariatric surgery should be done at least:",
+   "opts": [
+    "4-6 weeks prior",
+    "1 day prior",
+    "2 days prior",
+    "24 hours prior"
+   ],
+   "ans": 0,
+   "exp": "Smoking cessation: at least 4-6 weeks prior. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-011",
+   "sec": "Pre-operative Considerations",
+   "page": 179,
+   "q": "Obstructive sleep apnoea in a bariatric patient is:",
+   "opts": [
+    "An independent risk factor for cardiac mortality",
+    "Irrelevant to outcome",
+    "Only a marker of obesity",
+    "A contra-indication to surgery"
+   ],
+   "ans": 0,
+   "exp": "OSA patients: independent risk factor for cardiac mortality. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-012",
+   "sec": "Pre-operative Considerations",
+   "page": 179,
+   "q": "After bariatric surgery, patients with obstructive sleep apnoea have an increased risk of:",
+   "opts": [
+    "Anastomotic leak",
+    "Bleeding",
+    "Wound infection",
+    "Incisional hernia"
+   ],
+   "ans": 0,
+   "exp": "Post Sx: ↑ risk of anastomotic leak in OSA patients. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-013",
+   "sec": "Pre-operative Considerations",
+   "page": 179,
+   "q": "Pre-operative preparation for bariatric surgery includes all EXCEPT:",
+   "opts": [
+    "Routine total parenteral nutrition",
+    "Proper counselling",
+    "Dietary and lifestyle changes",
+    "Smoking cessation"
+   ],
+   "ans": 0,
+   "exp": "Pre-op considerations: proper counselling; dietary & lifestyle changes; liver shrinkage diet; smoking cessation; oxygen in OSA patients. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-014",
+   "sec": "OS-MRS: Obesity Surgery Mortality Risk Score",
+   "page": 179,
+   "q": "OS-MRS stands for:",
+   "opts": [
+    "Obesity surgery mortality risk score",
+    "Obesity surgery morbidity risk score",
+    "Operative surgical mortality risk score",
+    "Obesity surgical morbidity rating score"
+   ],
+   "ans": 0,
+   "exp": "OS-MRS: obesity surgery mortality risk score. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-015",
+   "sec": "OS-MRS: Obesity Surgery Mortality Risk Score",
+   "page": 179,
+   "q": "Risk factors included in the OS-MRS include all EXCEPT:",
+   "opts": [
+    "Diabetes mellitus",
+    "Arterial hypertension",
+    "Age > 45 years",
+    "Male gender"
+   ],
+   "ans": 0,
+   "exp": "OS-MRS risk factors: arterial hypertension, age > 45, male gender, BMI > 50 kg/m², risk factors for pulmonary thromboembolism. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-016",
+   "sec": "OS-MRS: Obesity Surgery Mortality Risk Score",
+   "page": 179,
+   "q": "The BMI cut-off used in the OS-MRS is:",
+   "opts": [
+    ">50 kg/m²",
+    ">40 kg/m²",
+    ">35 kg/m²",
+    ">30 kg/m²"
+   ],
+   "ans": 0,
+   "exp": "OS-MRS: body mass index > 50 kg/m². (Book p179)"
+  },
+  {
+   "id": "SURG-C26-017",
+   "sec": "OS-MRS: Obesity Surgery Mortality Risk Score",
+   "page": 179,
+   "q": "The age cut-off used in the OS-MRS is:",
+   "opts": [
+    ">45 years",
+    ">60 years",
+    ">35 years",
+    ">50 years"
+   ],
+   "ans": 0,
+   "exp": "OS-MRS: age > 45. (Book p179)"
+  },
+  {
+   "id": "SURG-C26-018",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "page": 180,
+   "q": "Bariatric surgery produces weight loss by all of the following EXCEPT:",
+   "opts": [
+    "Increasing gastric acid secretion",
+    "Malabsorption",
+    "Restriction of volume",
+    "Hormonal changes with a decrease in ghrelin"
+   ],
+   "ans": 0,
+   "exp": "Bariatric Sx causes weight loss through: malabsorption; restriction of volume; hormonal changes - ↓ ghrelin. (Book p180)"
+  },
+  {
+   "id": "SURG-C26-019",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "page": 180,
+   "q": "The hormonal change responsible for weight loss after bariatric surgery is:",
+   "opts": [
+    "A decrease in ghrelin",
+    "An increase in ghrelin",
+    "A decrease in insulin",
+    "An increase in gastrin"
+   ],
+   "ans": 0,
+   "exp": "Hormonal changes: ↓ ghrelin. (Book p180)"
+  },
+  {
+   "id": "SURG-C26-020",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "page": 180,
+   "q": "Irreversible bariatric procedures include:",
+   "opts": [
+    "Biliopancreatic division (BPD) and duodenal switch (DS)",
+    "Adjustable gastric banding and intragastric balloon",
+    "Sleeve gastrectomy only",
+    "Roux-en-Y gastric bypass"
+   ],
+   "ans": 0,
+   "exp": "Irreversible surgeries: biliopancreatic division (BPD) & duodenal switch (DS). (Book p180)"
+  },
+  {
+   "id": "SURG-C26-021",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "page": 180,
+   "q": "Biliopancreatic division and duodenal switch give:",
+   "opts": [
+    "Maximum weight loss and resolution of diabetes, but the most post-operative complications",
+    "The least weight loss and the fewest complications",
+    "No metabolic benefit",
+    "Weight loss only without metabolic change"
+   ],
+   "ans": 0,
+   "exp": "BPD/DS: max weight loss & resolution of DM; ↑↑ malabsorption; max post Sx complications - hence not done anymore. (Book p180)"
+  },
+  {
+   "id": "SURG-C26-022",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "page": 180,
+   "q": "Biliopancreatic division and duodenal switch are now:",
+   "opts": [
+    "Not done anymore",
+    "The procedures of choice",
+    "Done only as revisional surgery",
+    "Done only in adolescents"
+   ],
+   "ans": 0,
+   "exp": "BPD/DS: max post Sx complications - hence not done anymore. (Book p180)"
+  },
+  {
+   "id": "SURG-C26-023",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "page": 180,
+   "q": "The length of the common channel in a biliopancreatic division is:",
+   "opts": [
+    "50 cm",
+    "100 cm",
+    "150 cm",
+    "200 cm"
+   ],
+   "ans": 0,
+   "exp": "Bilio-pancreatic division: common channel 50 cm. (Book p180)"
+  },
+  {
+   "id": "SURG-C26-024",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "page": 180,
+   "q": "The length of the common channel in a duodenal switch is:",
+   "opts": [
+    "100 cm",
+    "50 cm",
+    "150 cm",
+    "200 cm"
+   ],
+   "ans": 0,
+   "exp": "Duodenal switch: common channel 100 cm. (Book p180)"
+  },
+  {
+   "id": "SURG-C26-025",
+   "sec": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass",
+   "page": 181,
+   "q": "A Roux-en-Y gastric bypass consists of all of the following EXCEPT:",
+   "opts": [
+    "An ileo-colic anastomosis",
+    "A gastric pouch",
+    "A gastrojejunostomy",
+    "A jejunojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Roux en Y: gastric pouch, gastro jejunostomy, jejuno jejunostomy. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-026",
+   "sec": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass",
+   "page": 181,
+   "q": "The mini gastric bypass is a:",
+   "opts": [
+    "Single anastomosis gastrojejunostomy",
+    "Roux-en-Y reconstruction",
+    "Sleeve gastrectomy with bypass",
+    "Biliopancreatic division"
+   ],
+   "ans": 0,
+   "exp": "Mini gastric bypass: single gastro jejunostomy. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-027",
+   "sec": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass",
+   "page": 181,
+   "q": "The limb of a Roux-en-Y gastric bypass that carries bile and pancreatic juice is the:",
+   "opts": [
+    "Biliopancreatic limb",
+    "Roux limb",
+    "Common channel",
+    "Alimentary limb"
+   ],
+   "ans": 0,
+   "exp": "Roux en Y gastric bypass: bilio pancreatic limb and Roux limb. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-028",
+   "sec": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass",
+   "page": 181,
+   "q": "In a Roux-en-Y reconstruction done for peptic ulcer disease, the Roux limb is:",
+   "opts": [
+    "50 cm",
+    "100 cm",
+    "150 cm",
+    "25 cm"
+   ],
+   "ans": 0,
+   "exp": "Length of Roux en limb: peptic ulcer - 50 cm. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-029",
+   "sec": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass",
+   "page": 181,
+   "q": "In a Roux-en-Y reconstruction done for bariatric surgery, the Roux limb is:",
+   "opts": [
+    "100 cm",
+    "50 cm",
+    "150 cm",
+    "25 cm"
+   ],
+   "ans": 0,
+   "exp": "Length of Roux en limb: bariatric Sx - 100 cm. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-030",
+   "sec": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass",
+   "page": 181,
+   "q": "In a superobese patient the Roux limb used is:",
+   "opts": [
+    "150 cm",
+    "50 cm",
+    "100 cm",
+    "25 cm"
+   ],
+   "ans": 0,
+   "exp": "Length of Roux en limb: superobese - 150 cm. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-031",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "The m/c cause of mortality after bariatric surgery is:",
+   "opts": [
+    "DVT leading to pulmonary embolism",
+    "Anastomotic leak",
+    "Bleeding",
+    "Nutritional deficiency"
+   ],
+   "ans": 0,
+   "exp": "Complications: DVT → pulmonary embolism (PE) - m/c cause of mortality. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-032",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "The risk of DVT and pulmonary embolism after bariatric surgery is highest in the:",
+   "opts": [
+    "1st month",
+    "6th month",
+    "2nd year",
+    "5th year"
+   ],
+   "ans": 0,
+   "exp": "DVT → PE: ↑ risk in 1st month. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-033",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "The clinical features of an anastomotic leak after bariatric surgery include:",
+   "opts": [
+    "Pain abdomen, fever and peritonitis with rebound tenderness, guarding and rigidity",
+    "Asymptomatic weight gain",
+    "Diarrhoea alone",
+    "Jaundice alone"
+   ],
+   "ans": 0,
+   "exp": "Anastomotic leak: pain abdomen, fever, peritonitis (rebound tenderness, guarding, rigidity). (Book p181)"
+  },
+  {
+   "id": "SURG-C26-034",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "On ultrasound, an anastomotic leak after bariatric surgery shows:",
+   "opts": [
+    "A collection of fluid in the abdomen",
+    "A dilated bowel loop",
+    "A normal study",
+    "Free air in the pleural cavity"
+   ],
+   "ans": 0,
+   "exp": "On USG: collection of fluid in abdomen. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-035",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "The investigation that confirms an anastomotic leak after bariatric surgery is:",
+   "opts": [
+    "CECT",
+    "Ultrasound",
+    "Plain X-ray",
+    "Upper GI endoscopy"
+   ],
+   "ans": 0,
+   "exp": "CECT: confirm leak → re-explore. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-036",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "Once an anastomotic leak is confirmed, the management is:",
+   "opts": [
+    "Re-exploration",
+    "Conservative management with antibiotics",
+    "Endoscopic stenting",
+    "Percutaneous drainage alone"
+   ],
+   "ans": 0,
+   "exp": "CECT: confirm leak → re explore. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-037",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "Nutritional complications after bariatric surgery include:",
+   "opts": [
+    "Malnutrition and calcium deficiency",
+    "Vitamin A excess",
+    "Iron overload",
+    "Hypernatremia"
+   ],
+   "ans": 0,
+   "exp": "Nutritional complications: malnutrition; Ca²⁺ deficiency. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-038",
+   "sec": "Complications of Bariatric Surgery",
+   "page": 181,
+   "q": "Late complications of bariatric surgery include:",
+   "opts": [
+    "Anastomotic ulcer/stricture",
+    "Hyperthyroidism",
+    "Duodenal atresia",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Complications: anastomotic ulcer/stricture. (Book p181)"
+  },
+  {
+   "id": "SURG-C26-039",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "Sleeve gastrectomy produces weight loss by:",
+   "opts": [
+    "Causing early satiety and reducing food consumption",
+    "Malabsorption",
+    "Bypassing the duodenum",
+    "Reducing bile secretion"
+   ],
+   "ans": 0,
+   "exp": "Sleeve gastrectomy: causes early satiety → ↓ consumption of food → weight loss. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-040",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "Nutritional deficiencies after sleeve gastrectomy include:",
+   "opts": [
+    "Iron, vitamin B12 and calcium deficiency",
+    "Iron deficiency only",
+    "Vitamin A excess",
+    "Zinc excess"
+   ],
+   "ans": 0,
+   "exp": "Complications - nutritional: iron, vit B12 & Ca²⁺ deficiency. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-041",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "The m/c complication of sleeve gastrectomy is:",
+   "opts": [
+    "Bleeding from the staple line",
+    "Leak from the angle of His",
+    "DVT/PE",
+    "Gastro-oesophageal reflux"
+   ],
+   "ans": 0,
+   "exp": "Bleeding from staple line: m/c complication. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-042",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "The most distressing complication of sleeve gastrectomy is:",
+   "opts": [
+    "Leak from the angle of His",
+    "Bleeding from the staple line",
+    "DVT/PE",
+    "Reflux"
+   ],
+   "ans": 0,
+   "exp": "Leak from angle of His: most distressing complication. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-043",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "A persistent leak from the angle of His after sleeve gastrectomy requires:",
+   "opts": [
+    "Revision surgery",
+    "Conservative management only",
+    "Endoscopic dilatation",
+    "Total gastrectomy"
+   ],
+   "ans": 0,
+   "exp": "Leak from angle of His: requires revision Sx if persistent. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-044",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "Late complications of sleeve gastrectomy include:",
+   "opts": [
+    "Gastro-oesophageal reflux and Barrett's oesophagus",
+    "Dumping syndrome",
+    "Afferent loop syndrome",
+    "Bile reflux gastritis"
+   ],
+   "ans": 0,
+   "exp": "Complications: gastro-esophageal reflux; Barrett's esophagus. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-045",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "Weight gain after sleeve gastrectomy is due to:",
+   "opts": [
+    "Re-distension of the sleeve",
+    "Non-compliance with vitamins",
+    "Development of a stricture",
+    "Excess bile secretion"
+   ],
+   "ans": 0,
+   "exp": "Weight gain: d/t re-distension of sleeve. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-046",
+   "sec": "Sleeve Gastrectomy",
+   "page": 182,
+   "q": "Weight gain after sleeve gastrectomy is treated by:",
+   "opts": [
+    "ROSE - restorative obesity surgery endoscopically",
+    "Revisional gastric bypass",
+    "Total gastrectomy",
+    "Intragastric balloon"
+   ],
+   "ans": 0,
+   "exp": "Rx: ROSE - restorative obesity surgery endoscopically. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-047",
+   "sec": "Endoscopic Bariatric Procedures (ROSE / NOTES)",
+   "page": 182,
+   "q": "ROSE in bariatric surgery stands for:",
+   "opts": [
+    "Restorative obesity surgery endoscopically",
+    "Restrictive obesity surgery endoscopically",
+    "Revision obesity surgery endoscopically",
+    "Revisional obesity sleeve endoscopically"
+   ],
+   "ans": 0,
+   "exp": "ROSE - restorative obesity surgery endoscopically. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-048",
+   "sec": "Endoscopic Bariatric Procedures (ROSE / NOTES)",
+   "page": 182,
+   "q": "ROSE is a type of __________ procedure.",
+   "opts": [
+    "NOTES (natural orifice transluminal endoscopic surgery)",
+    "Laparoscopic",
+    "Open",
+    "Robotic"
+   ],
+   "ans": 0,
+   "exp": "Type of NOTES procedure: natural orifice transluminal endoscopic surgery. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-049",
+   "sec": "Endoscopic Bariatric Procedures (ROSE / NOTES)",
+   "page": 182,
+   "q": "POSE in bariatric surgery stands for:",
+   "opts": [
+    "Primary obesity surgery endoscopically",
+    "Primary obesity sleeve endoscopically",
+    "Post operative surgery endoscopically",
+    "Proximal obesity surgery endoscopically"
+   ],
+   "ans": 0,
+   "exp": "POSE - primary obesity surgery endoscopically. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-050",
+   "sec": "Endoscopic Bariatric Procedures (ROSE / NOTES)",
+   "page": 182,
+   "q": "TOGA in bariatric surgery stands for:",
+   "opts": [
+    "Transoral gastroplasty",
+    "Transoral gastric bypass",
+    "Total gastric plication",
+    "Transoral gastropexy"
+   ],
+   "ans": 0,
+   "exp": "TOGA - transoral gastroplasty (type of ROSE). (Book p182)"
+  },
+  {
+   "id": "SURG-C26-051",
+   "sec": "Endoscopic Bariatric Procedures (ROSE / NOTES)",
+   "page": 182,
+   "q": "Endocinch is:",
+   "opts": [
+    "An endoscopic bariatric procedure",
+    "A type of gastric band",
+    "A stapling device",
+    "A nutritional supplement"
+   ],
+   "ans": 0,
+   "exp": "Endocinch: an endoscopic bariatric/ROSE procedure. (Book p182)"
+  },
+  {
+   "id": "SURG-C26-052",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "An adjustable gastric band is placed at the:",
+   "opts": [
+    "Gastroesophageal junction",
+    "Pylorus",
+    "Angle of His",
+    "D2 of duodenum"
+   ],
+   "ans": 0,
+   "exp": "Adjustable band: placed at the GE junction. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-053",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "The adjustable gastric band creates a virtual stomach pouch of about:",
+   "opts": [
+    "10 cm",
+    "50 cm",
+    "100 cm",
+    "5 cm"
+   ],
+   "ans": 0,
+   "exp": "Virtual stomach pouch: 10 cm. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-054",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "The size of an adjustable gastric band is adjusted through:",
+   "opts": [
+    "A port placed at the umbilicus",
+    "A second operation",
+    "An endoscopic balloon",
+    "A nasogastric tube"
+   ],
+   "ans": 0,
+   "exp": "Port used to adjust the size of the band - at the umbilicus. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-055",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "An adjustable gastric band produces weight loss by causing:",
+   "opts": [
+    "Early satiety",
+    "Malabsorption",
+    "Dumping",
+    "Decreased ghrelin alone"
+   ],
+   "ans": 0,
+   "exp": "Adjustable band: early satiety → weight loss. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-056",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "Complications of adjustable gastric banding include all EXCEPT:",
+   "opts": [
+    "Anastomotic leak",
+    "Access port infection",
+    "Band infection",
+    "Tubing leak"
+   ],
+   "ans": 0,
+   "exp": "Complications: access port infection, DVT/PE, band infection, tubing leak, slippage of band, stomach erosion, band intolerance, weight regain. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-057",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "Slippage of the gastric band leads to:",
+   "opts": [
+    "Weight gain",
+    "Weight loss",
+    "Perforation",
+    "Dumping syndrome"
+   ],
+   "ans": 0,
+   "exp": "Slippage of band → weight gain. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-058",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "Erosion of the stomach by a gastric band is:",
+   "opts": [
+    "A known complication of the band",
+    "Due to over-inflation of the balloon",
+    "Seen only with the intragastric balloon",
+    "Always fatal"
+   ],
+   "ans": 0,
+   "exp": "Complication: stomach erosion (d/t band). (Book p183)"
+  },
+  {
+   "id": "SURG-C26-059",
+   "sec": "Adjustable Gastric Banding",
+   "page": 183,
+   "q": "Band intolerance as a complication of gastric banding means the band:",
+   "opts": [
+    "Is not tolerated by the patient and needs removal",
+    "Slips upward",
+    "Causes malabsorption",
+    "Causes reflux only"
+   ],
+   "ans": 0,
+   "exp": "Complication: band intolerance. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-060",
+   "sec": "Intragastric Balloon",
+   "page": 183,
+   "q": "The Allurion balloon is:",
+   "opts": [
+    "A self dissolving intragastric balloon",
+    "An adjustable gastric band",
+    "A permanent gastric balloon",
+    "A duodenal balloon"
+   ],
+   "ans": 0,
+   "exp": "Allurion: self dissolving balloon. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-061",
+   "sec": "Intragastric Balloon",
+   "page": 183,
+   "q": "An intragastric balloon is placed as part of:",
+   "opts": [
+    "Endoscopic bariatric therapy",
+    "Open bariatric surgery",
+    "A biliopancreatic division",
+    "A Roux-en-Y reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Intra gastric balloon placement - an endoscopic bariatric procedure. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-062",
+   "sec": "Nutritional Guidelines after Bariatric Surgery",
+   "page": 183,
+   "q": "After gastric banding, supplements are advised if the patient has:",
+   "opts": [
+    "Vomiting (+)",
+    "Diarrhoea",
+    "Constipation",
+    "Reflux"
+   ],
+   "ans": 0,
+   "exp": "Nutritional guidelines: gastric banding - supplement if vomiting (+). (Book p183)"
+  },
+  {
+   "id": "SURG-C26-063",
+   "sec": "Nutritional Guidelines after Bariatric Surgery",
+   "page": 183,
+   "q": "Minerals supplemented after sleeve gastrectomy and gastric bypass include:",
+   "opts": [
+    "Thiamine, selenium, copper and zinc",
+    "Iron alone",
+    "Sodium and potassium",
+    "Magnesium alone"
+   ],
+   "ans": 0,
+   "exp": "Nutritional guidelines: minerals - thiamine, selenium, copper, zinc. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-064",
+   "sec": "Nutritional Guidelines after Bariatric Surgery",
+   "page": 183,
+   "q": "Vitamins supplemented after sleeve gastrectomy and gastric bypass include:",
+   "opts": [
+    "Vitamin A, D, E, K, B12 and folic acid",
+    "Vitamin C alone",
+    "Vitamin A alone",
+    "No vitamins are needed"
+   ],
+   "ans": 0,
+   "exp": "Nutritional guidelines: folic acid, vit B12, A, D, E, K. (Book p183)"
+  },
+  {
+   "id": "SURG-C26-065",
+   "sec": "Nutritional Guidelines after Bariatric Surgery",
+   "page": 183,
+   "q": "Bariatric surgery leads to remission of:",
+   "opts": [
+    "Diabetes mellitus, hypertension and hyperlipidemia",
+    "Diabetes only",
+    "Hypertension only",
+    "No comorbidities"
+   ],
+   "ans": 0,
+   "exp": "Note: DM, HTN, hyperlipidemia - remission. (Book p183)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U26-1",
+   "ch": 26,
+   "n": 1,
+   "title": "Indications for Bariatric Surgery",
+   "sec": "Indications for Bariatric Surgery · p179",
+   "qs": [
+    "SURG-C26-001",
+    "SURG-C26-002",
+    "SURG-C26-003",
+    "SURG-C26-004",
+    "SURG-C26-005",
+    "SURG-C26-006"
+   ],
+   "guide": "The thresholds differ by population: 40, or 35 with complications such as diabetes, obstructive sleep apnoea or Pickwickian syndrome, hyperlipidemia and osteoarthritis, and even 30-34.9 when type 2 diabetes has appeared within ten years. Asians are operated at lower numbers - 37.5, or 32.5 once complications set in."
+  },
+  {
+   "id": "SURG-U26-2",
+   "ch": 26,
+   "n": 2,
+   "title": "Pre-operative Considerations",
+   "sec": "Pre-operative Considerations · p179",
+   "qs": [
+    "SURG-C26-007",
+    "SURG-C26-008",
+    "SURG-C26-009",
+    "SURG-C26-010",
+    "SURG-C26-011",
+    "SURG-C26-012",
+    "SURG-C26-013"
+   ],
+   "guide": "Prepare the patient as carefully as you operate: counsel properly, change the diet and lifestyle, and put them on a low carbohydrate, high protein liver shrinkage diet for at least two weeks. Anyone who cannot stick to that diet needs psychotherapy first. Smoking must stop 4-6 weeks before surgery, and the patient with obstructive sleep apnoea - an independent risk factor for cardiac death - needs oxygen and a watch for an anastomotic leak afterwards."
+  },
+  {
+   "id": "SURG-U26-3",
+   "ch": 26,
+   "n": 3,
+   "title": "OS-MRS: Obesity Surgery Mortality Risk Score",
+   "sec": "OS-MRS: Obesity Surgery Mortality Risk Score · p179",
+   "qs": [
+    "SURG-C26-014",
+    "SURG-C26-015",
+    "SURG-C26-016",
+    "SURG-C26-017"
+   ],
+   "guide": "The obesity surgery mortality risk score adds a point each for arterial hypertension, age over 45, male gender, BMI above 50 and any risk factor for pulmonary thromboembolism."
+  },
+  {
+   "id": "SURG-U26-4",
+   "ch": 26,
+   "n": 4,
+   "title": "Mechanisms of Weight Loss and Irreversible Procedures",
+   "sec": "Mechanisms of Weight Loss and Irreversible Procedures · p180",
+   "qs": [
+    "SURG-C26-018",
+    "SURG-C26-019",
+    "SURG-C26-020",
+    "SURG-C26-021",
+    "SURG-C26-022",
+    "SURG-C26-023",
+    "SURG-C26-024"
+   ],
+   "guide": "Every operation works through some combination of malabsorption, restriction of volume and hormonal change - chiefly the fall in ghrelin. The irreversible malabsorptive operations, biliopancreatic division with a 50 cm common channel and the duodenal switch with a 100 cm channel, produce the greatest weight loss and diabetes resolution but also the most complications, which is why they are no longer done."
+  },
+  {
+   "id": "SURG-U26-5",
+   "ch": 26,
+   "n": 5,
+   "title": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass",
+   "sec": "Roux-en-Y Gastric Bypass and Mini Gastric Bypass · p181",
+   "qs": [
+    "SURG-C26-025",
+    "SURG-C26-026",
+    "SURG-C26-027",
+    "SURG-C26-028",
+    "SURG-C26-029",
+    "SURG-C26-030"
+   ],
+   "guide": "Roux-en-Y gastric bypass builds a small gastric pouch, joins it to jejunum and then rejoins jejunum to jejunum, leaving a biliopancreatic limb and a Roux limb. The mini gastric bypass does the whole job with a single gastrojejunostomy. Size the Roux limb by indication: 50 cm for peptic ulcer, 100 cm for bariatric surgery and 150 cm in the superobese."
+  },
+  {
+   "id": "SURG-U26-6",
+   "ch": 26,
+   "n": 6,
+   "title": "Complications of Bariatric Surgery",
+   "sec": "Complications of Bariatric Surgery · p181",
+   "qs": [
+    "SURG-C26-031",
+    "SURG-C26-032",
+    "SURG-C26-033",
+    "SURG-C26-034",
+    "SURG-C26-035",
+    "SURG-C26-036",
+    "SURG-C26-037",
+    "SURG-C26-038"
+   ],
+   "guide": "The commonest cause of death is pulmonary embolism from a DVT, and the first month is the dangerous one. A leak presents with pain, fever and peritonitis; ultrasound shows the collection and CECT confirms it, after which the patient goes back to theatre. Malnutrition and calcium deficiency follow later, as do anastomotic ulcers and strictures."
+  },
+  {
+   "id": "SURG-U26-7",
+   "ch": 26,
+   "n": 7,
+   "title": "Sleeve Gastrectomy",
+   "sec": "Sleeve Gastrectomy · p182",
+   "qs": [
+    "SURG-C26-039",
+    "SURG-C26-040",
+    "SURG-C26-041",
+    "SURG-C26-042",
+    "SURG-C26-043",
+    "SURG-C26-044",
+    "SURG-C26-045",
+    "SURG-C26-046"
+   ],
+   "guide": "Sleeve gastrectomy works by causing early satiety, so the patient simply eats less. Bleeding from the staple line is the commonest complication, but a leak at the angle of His is the most distressing and needs revision surgery if it persists. Iron, B12 and calcium run low, reflux and Barrett's oesophagus appear late, and weight can return once the sleeve re-distends."
+  },
+  {
+   "id": "SURG-U26-8",
+   "ch": 26,
+   "n": 8,
+   "title": "Endoscopic Bariatric Procedures (ROSE / NOTES)",
+   "sec": "Endoscopic Bariatric Procedures (ROSE / NOTES) · p182",
+   "qs": [
+    "SURG-C26-047",
+    "SURG-C26-048",
+    "SURG-C26-049",
+    "SURG-C26-050",
+    "SURG-C26-051"
+   ],
+   "guide": "Weight regain after a sleeve can be treated endoscopically: ROSE, restorative obesity surgery endoscopically, which is a NOTES (natural orifice transluminal endoscopic surgery) procedure. Its family includes Endocinch, POSE - primary obesity surgery endoscopically - TOGA, the transoral gastroplasty, and ESG."
+  },
+  {
+   "id": "SURG-U26-9",
+   "ch": 26,
+   "n": 9,
+   "title": "Adjustable Gastric Banding",
+   "sec": "Adjustable Gastric Banding · p183",
+   "qs": [
+    "SURG-C26-052",
+    "SURG-C26-053",
+    "SURG-C26-054",
+    "SURG-C26-055",
+    "SURG-C26-056",
+    "SURG-C26-057",
+    "SURG-C26-058",
+    "SURG-C26-059"
+   ],
+   "guide": "The adjustable band sits at the gastroesophageal junction, creating a 10 cm virtual pouch with a port at the umbilicus to tighten or loosen it, and works purely by producing early satiety. Its problems are mechanical and infective: port infection, DVT/PE, band infection, tubing leak, slippage with weight gain, erosion of the stomach, intolerance and ultimately weight regain."
+  },
+  {
+   "id": "SURG-U26-10",
+   "ch": 26,
+   "n": 10,
+   "title": "Intragastric Balloon",
+   "sec": "Intragastric Balloon · p183",
+   "qs": [
+    "SURG-C26-060",
+    "SURG-C26-061"
+   ],
+   "guide": "The intragastric balloon is the least invasive option, and the Allurion balloon is the one that dissolves by itself so it never has to be removed endoscopically."
+  },
+  {
+   "id": "SURG-U26-11",
+   "ch": 26,
+   "n": 11,
+   "title": "Nutritional Guidelines after Bariatric Surgery",
+   "sec": "Nutritional Guidelines after Bariatric Surgery · p183",
+   "qs": [
+    "SURG-C26-062",
+    "SURG-C26-063",
+    "SURG-C26-064",
+    "SURG-C26-065"
+   ],
+   "guide": "Supplement by the operation: after banding only if the patient is vomiting; after sleeve gastrectomy or gastric bypass the full list - thiamine, selenium, copper and zinc with folic acid and vitamins B12, A, D, E and K. The reward is remission of diabetes, hypertension and hyperlipidemia."
+  }
+ ]
+}

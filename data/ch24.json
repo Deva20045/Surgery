@@ -1,0 +1,2776 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C24-001",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "All of the following are risk factors for gastric cancer EXCEPT:",
+   "opts": [
+    "Refrigeration of food (reduced preservative intake)",
+    "Smoking",
+    "Consumption of smoked food/fish",
+    "Alcohol consumption"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: smoking, alcohol, smoked food/fish, preservative rich food - refrigeration ↓ gastric cancer. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-002",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "Refrigeration of food (with less preservative use) has what effect on gastric cancer?",
+   "opts": [
+    "Decreases the incidence",
+    "Increases the incidence",
+    "No effect",
+    "Doubles the incidence"
+   ],
+   "ans": 0,
+   "exp": "Preservative rich food ↑ risk; refrigeration ↓ gastric cancer. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-003",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "True (adenomatous) gastric polyps are associated with:",
+   "opts": [
+    "FAP (APC gene)",
+    "Peutz-Jeghers syndrome",
+    "Juvenile polyposis",
+    "Cowden syndrome"
+   ],
+   "ans": 0,
+   "exp": "Polyps: true (adenomatous) polyps are associated with FAP (APC gene). (Book p161)"
+  },
+  {
+   "id": "SURG-C24-004",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "The m/c gastric polyp is the:",
+   "opts": [
+    "Metaplastic polyp (H. pylori associated)",
+    "Adenomatous polyp",
+    "Hamartomatous polyp",
+    "Inflammatory fibroid polyp"
+   ],
+   "ans": 0,
+   "exp": "m/c gastric polyp: metaplastic (H. pylori). (Book p161)"
+  },
+  {
+   "id": "SURG-C24-005",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "Menetrier's disease, a risk factor for gastric cancer, is characterised by:",
+   "opts": [
+    "Hypertrophy of gastric mucosal folds",
+    "Atrophy of the gastric mucosa",
+    "Multiple gastric ulcers",
+    "Gastric outlet obstruction"
+   ],
+   "ans": 0,
+   "exp": "Menetrier's disease: hypertrophy of gastric mucosal folds. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-006",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "The blood group associated with an increased risk of gastric cancer is:",
+   "opts": [
+    "Group A",
+    "Group O",
+    "Group B",
+    "Bombay blood group"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: group A blood group. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-007",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "Previous gastric resection predisposes to cancer of the:",
+   "opts": [
+    "Gastric stump",
+    "Esophagus",
+    "Duodenum",
+    "Colon"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: previous gastric resections. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-008",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "Which gastritis is a risk factor for gastric cancer?",
+   "opts": [
+    "Both type A and type B",
+    "Type A only",
+    "Type B only",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: gastritis (type A & B). (Book p161)"
+  },
+  {
+   "id": "SURG-C24-009",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "The infection associated with an increased risk of gastric cancer is:",
+   "opts": [
+    "H. pylori",
+    "HPV",
+    "HBV",
+    "CMV"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: H. pylori infection. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-010",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "Which dietary habit increases the risk of gastric cancer?",
+   "opts": [
+    "Consumption of smoked food/fish",
+    "Refrigerated fresh food",
+    "High fibre diet",
+    "Citrus rich diet"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: consumption of smoked food/fish and preservative rich food. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-011",
+   "sec": "Gastric Cancer: Risk Factors",
+   "page": 161,
+   "q": "Adenomatous gastric polyps are considered:",
+   "opts": [
+    "True (neoplastic) polyps with malignant potential",
+    "Metaplastic polyps",
+    "Hamartomas",
+    "Inflammatory pseudopolyps"
+   ],
+   "ans": 0,
+   "exp": "True (adenomatous) polyps: associated with FAP (APC gene) - malignant potential. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-012",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "Lauren's classification divides gastric adenocarcinoma into:",
+   "opts": [
+    "Intestinal and diffuse types",
+    "Polypoid and ulcerative types",
+    "Superficial and penetrating types",
+    "Early and advanced types"
+   ],
+   "ans": 0,
+   "exp": "1. Lauren classification: intestinal v/s diffuse. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-013",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "The intestinal type of gastric cancer is associated with:",
+   "opts": [
+    "Environmental factors - gastric atrophy and intestinal metaplasia",
+    "Familial factors and blood type A",
+    "Younger age group",
+    "Decreased E-cadherin"
+   ],
+   "ans": 0,
+   "exp": "Intestinal: environmental factors - gastric atrophy, intestinal metaplasia. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-014",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "The diffuse type of gastric cancer is associated with:",
+   "opts": [
+    "Familial factors and blood type A",
+    "Gastric atrophy and intestinal metaplasia",
+    "Older age group",
+    "Microsatellite instability"
+   ],
+   "ans": 0,
+   "exp": "Diffuse: familial factors, blood type A. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-015",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "The gender distribution in the intestinal type of gastric cancer is:",
+   "opts": [
+    "Men > women",
+    "Women > men",
+    "Equal in both",
+    "Seen only in women"
+   ],
+   "ans": 0,
+   "exp": "Intestinal: men > women; diffuse: women > men. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-016",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "The diffuse type of gastric cancer is seen in the:",
+   "opts": [
+    "Younger age group",
+    "Elderly with increasing incidence with age",
+    "Only in children",
+    "Equal at all ages"
+   ],
+   "ans": 0,
+   "exp": "Intestinal: increasing incidence with age; diffuse: younger age group. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-017",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "The histology of the intestinal type of gastric cancer shows:",
+   "opts": [
+    "Gland formation",
+    "Poorly differentiated tumour with signet ring cells",
+    "Signet ring cells (+)",
+    "No gland formation"
+   ],
+   "ans": 0,
+   "exp": "Intestinal HPE: gland formation; diffuse: poorly differentiated. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-018",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "Signet ring cells are characteristic of the:",
+   "opts": [
+    "Diffuse type",
+    "Intestinal type",
+    "Both types equally",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Diffuse type: poorly differentiated, more aggressive, signet ring cells (+). (Book p161)"
+  },
+  {
+   "id": "SURG-C24-019",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "The main route of spread in the intestinal type of gastric cancer is:",
+   "opts": [
+    "Hematogenous spread",
+    "Transmural/lymphatic spread",
+    "Peritoneal seedling only",
+    "Perineural spread"
+   ],
+   "ans": 0,
+   "exp": "Intestinal: hematogenous spread; diffuse: transmural/lymphatic spread. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-020",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "The main route of spread in the diffuse type of gastric cancer is:",
+   "opts": [
+    "Transmural/lymphatic spread",
+    "Hematogenous spread",
+    "Peritoneal seedling only",
+    "Perineural spread"
+   ],
+   "ans": 0,
+   "exp": "Diffuse: transmural/lymphatic spread. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-021",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "Decreased E-cadherin is seen in the:",
+   "opts": [
+    "Diffuse type",
+    "Intestinal type",
+    "Both types",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Diffuse: decreased E-cadherin. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-022",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse",
+   "page": 161,
+   "q": "Microsatellite instability and APC gene mutations are associated with the:",
+   "opts": [
+    "Intestinal type",
+    "Diffuse type",
+    "Both types equally",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Intestinal: microsatellite instability, APC gene mutations. (Book p161)"
+  },
+  {
+   "id": "SURG-C24-023",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Early gastric cancer is classified by the:",
+   "opts": [
+    "Japanese classification",
+    "Bormann classification",
+    "Lauren classification",
+    "Siewert classification"
+   ],
+   "ans": 0,
+   "exp": "Early gastric cancer: Japanese classification (above muscle layer). (Book p162)"
+  },
+  {
+   "id": "SURG-C24-024",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Early gastric cancer is a tumour limited to:",
+   "opts": [
+    "Above the muscle layer (mucosa and submucosa)",
+    "Below the muscle layer",
+    "The serosa",
+    "Adjacent structures"
+   ],
+   "ans": 0,
+   "exp": "Japanese classification: tumour above the muscle layer. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-025",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Advanced gastric cancer, with the muscle layer involved, is classified by the:",
+   "opts": [
+    "Bormann classification",
+    "Japanese classification",
+    "Lauren classification",
+    "TNM only"
+   ],
+   "ans": 0,
+   "exp": "Advanced gastric cancer: Bormann classification (muscle layer involved). (Book p162)"
+  },
+  {
+   "id": "SURG-C24-026",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Bormann type I gastric cancer is:",
+   "opts": [
+    "Polypoid or fungating",
+    "Ulcerated with surrounding elevated borders",
+    "Diffusely infiltrating (linitis plastica)",
+    "Unable to be classified"
+   ],
+   "ans": 0,
+   "exp": "Bormann type I: polypoid or fungating cancers. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-027",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Bormann type II gastric cancer is:",
+   "opts": [
+    "Fungating or ulcerated with surrounding elevated borders",
+    "Polypoid",
+    "Diffusely infiltrating",
+    "Flat and superficial"
+   ],
+   "ans": 0,
+   "exp": "Type II: fungating or ulcerated with surrounding elevated borders. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-028",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Bormann type III gastric cancer is:",
+   "opts": [
+    "Ulcerated lesions infiltrating the gastric wall",
+    "Polypoid or fungating",
+    "Linitis plastica",
+    "Unable to be classified"
+   ],
+   "ans": 0,
+   "exp": "Type III: ulcerated lesions infiltrating the gastric wall. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-029",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Bormann type IV gastric cancer is:",
+   "opts": [
+    "Linitis plastica (diffusely infiltrating)",
+    "Polypoid or fungating",
+    "Ulcerated with elevated borders",
+    "Superficial flat lesion"
+   ],
+   "ans": 0,
+   "exp": "Type IV: linitis plastica - diffusely infiltrating. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-030",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Linitis plastica is also known as:",
+   "opts": [
+    "Leather bottle appearance",
+    "Cascade stomach",
+    "Hourglass stomach",
+    "Cup and spill stomach"
+   ],
+   "ans": 0,
+   "exp": "Linitis plastica: aka leather bottle appearance. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-031",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "The most aggressive Bormann type with the worst prognosis is:",
+   "opts": [
+    "Type IV (linitis plastica)",
+    "Type I",
+    "Type II",
+    "Type III"
+   ],
+   "ans": 0,
+   "exp": "Type IV: most aggressive type, worst prognosis. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-032",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Bormann type V means the tumour is:",
+   "opts": [
+    "Unable to be classified",
+    "Polypoid",
+    "Diffusely infiltrating",
+    "Limited to mucosa"
+   ],
+   "ans": 0,
+   "exp": "Type V: unable to be classified. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-033",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "Which gastric cancer carries the best prognosis?",
+   "opts": [
+    "Early gastric cancer (above the muscle layer)",
+    "Bormann type III",
+    "Bormann type IV",
+    "Linitis plastica"
+   ],
+   "ans": 0,
+   "exp": "Early gastric cancer (Japanese classification, above muscle layer) has the best prognosis. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-034",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "In the Japanese macroscopic typing of early gastric cancer, type IIc is a:",
+   "opts": [
+    "Depressed lesion",
+    "Elevated lesion",
+    "Flat lesion",
+    "Excavated lesion"
+   ],
+   "ans": 0,
+   "exp": "Early gastric cancer types: I polypoid, IIa elevated, IIb flat, IIc depressed, III excavated. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-035",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "page": 162,
+   "q": "In the Japanese macroscopic typing of early gastric cancer, type III is:",
+   "opts": [
+    "Excavated",
+    "Polypoid",
+    "Flat",
+    "Depressed"
+   ],
+   "ans": 0,
+   "exp": "Type III: excavated lesion. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-036",
+   "sec": "Molecular Classification of Gastric Cancer",
+   "page": 162,
+   "q": "The molecular subtype of gastric cancer associated with intestinal pathology and the best prognosis is:",
+   "opts": [
+    "Chromosomal instability",
+    "Genomically stable",
+    "EBV related",
+    "Microsatellite instability"
+   ],
+   "ans": 0,
+   "exp": "Chromosomal instability: intestinal pathology, best prognosis. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-037",
+   "sec": "Molecular Classification of Gastric Cancer",
+   "page": 162,
+   "q": "The genomically stable molecular subtype of gastric cancer is associated with:",
+   "opts": [
+    "Diffuse pathology and the worst prognosis",
+    "Intestinal pathology and best prognosis",
+    "EBV infection",
+    "Microsatellite instability"
+   ],
+   "ans": 0,
+   "exp": "Genomically stable: diffuse pathology, worst prognosis. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-038",
+   "sec": "Molecular Classification of Gastric Cancer",
+   "page": 162,
+   "q": "Epstein-Barr virus (EBV) is one of the molecular subtypes of:",
+   "opts": [
+    "Gastric cancer",
+    "GIST",
+    "Gastric lymphoma",
+    "MALToma"
+   ],
+   "ans": 0,
+   "exp": "Molecular classification: Epstein Barr virus (EBV) subtype. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-039",
+   "sec": "Molecular Classification of Gastric Cancer",
+   "page": 162,
+   "q": "Microsatellite instability (MSI) is a molecular subtype of:",
+   "opts": [
+    "Gastric cancer",
+    "GIST",
+    "Gastric lymphoma",
+    "Trichobezoar"
+   ],
+   "ans": 0,
+   "exp": "Molecular classification: microsatellite instability (MSI) subtype. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-040",
+   "sec": "Clinical Features: the LOADS Mnemonic",
+   "page": 162,
+   "q": "The mnemonic used for the clinical features of gastric cancer is:",
+   "opts": [
+    "LOADS",
+    "PAIN",
+    "WEIGHT",
+    "MASS"
+   ],
+   "ans": 0,
+   "exp": "Clinical features mnemonic: LOADS. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-041",
+   "sec": "Clinical Features: the LOADS Mnemonic",
+   "page": 162,
+   "q": "In the LOADS mnemonic for gastric cancer, L stands for:",
+   "opts": [
+    "Lump",
+    "Leukopenia",
+    "Lethargy",
+    "Liver enlargement"
+   ],
+   "ans": 0,
+   "exp": "LOADS: L - lump. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-042",
+   "sec": "Clinical Features: the LOADS Mnemonic",
+   "page": 162,
+   "q": "In the LOADS mnemonic for gastric cancer, O stands for:",
+   "opts": [
+    "Gastric outlet obstruction",
+    "Oesophageal varices",
+    "Obstipation",
+    "Osteomalacia"
+   ],
+   "ans": 0,
+   "exp": "LOADS: O - gastric outlet obstruction. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-043",
+   "sec": "Clinical Features: the LOADS Mnemonic",
+   "page": 162,
+   "q": "In the LOADS mnemonic for gastric cancer, A stands for:",
+   "opts": [
+    "Anaemia and anorexia",
+    "Ascites",
+    "Achalasia",
+    "Alopecia"
+   ],
+   "ans": 0,
+   "exp": "LOADS: A - anaemia, anorexia. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-044",
+   "sec": "Clinical Features: the LOADS Mnemonic",
+   "page": 162,
+   "q": "In the LOADS mnemonic for gastric cancer, D stands for:",
+   "opts": [
+    "Dyspepsia (new onset GERD)",
+    "Diarrhoea",
+    "Dysphagia",
+    "Dumping"
+   ],
+   "ans": 0,
+   "exp": "LOADS: D - dyspepsia (new onset GERD). (Book p162)"
+  },
+  {
+   "id": "SURG-C24-045",
+   "sec": "Clinical Features: the LOADS Mnemonic",
+   "page": 162,
+   "q": "In the LOADS mnemonic for gastric cancer, S stands for:",
+   "opts": [
+    "Silent presentation",
+    "Splenomegaly",
+    "Stricture",
+    "Sepsis"
+   ],
+   "ans": 0,
+   "exp": "LOADS: S - silent presentation. (Book p162)"
+  },
+  {
+   "id": "SURG-C24-046",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Sister Mary Joseph's nodule is:",
+   "opts": [
+    "Periumbilical metastasis",
+    "Left supraclavicular lymph node enlargement",
+    "Left axillary lymph node enlargement",
+    "Metastasis in the pouch of Douglas"
+   ],
+   "ans": 0,
+   "exp": "Sister Mary Joseph's nodule: periumbilical metastasis. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-047",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "The m/c cancer presenting as Sister Mary Joseph's nodule is:",
+   "opts": [
+    "Stomach > ovarian",
+    "Colorectal > stomach",
+    "Breast > lung",
+    "Prostate"
+   ],
+   "ans": 0,
+   "exp": "Sister Mary Joseph's nodule: m/c cancer - stomach > ovarian. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-048",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Krukenberg tumour refers to:",
+   "opts": [
+    "Bilateral ovarian metastases",
+    "Periumbilical metastasis",
+    "Left supraclavicular lymph node",
+    "Pelvic peritoneal deposit"
+   ],
+   "ans": 0,
+   "exp": "Krukenberg tumor: B/L ovarian metastases. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-049",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Krukenberg tumour is seen in cancers of the:",
+   "opts": [
+    "Stomach, breast > colorectal",
+    "Lung, prostate",
+    "Thyroid, kidney",
+    "Cervix, endometrium"
+   ],
+   "ans": 0,
+   "exp": "Krukenberg tumor: seen in stomach, breast > colorectal. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-050",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "The latest (current) theory for the spread of Krukenberg tumour is:",
+   "opts": [
+    "Retrograde lymphatic spread",
+    "Transcoelomic (drop) metastasis",
+    "Hematogenous spread",
+    "Direct invasion"
+   ],
+   "ans": 0,
+   "exp": "Latest theory: retrograde lymphatic spread. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-051",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "The old theory for the spread of Krukenberg tumour is:",
+   "opts": [
+    "Transcoelomic (drop metastases)",
+    "Retrograde lymphatic spread",
+    "Hematogenous spread",
+    "Perineural spread"
+   ],
+   "ans": 0,
+   "exp": "Old theory: transcoelomic (drop mets). (Book p163)"
+  },
+  {
+   "id": "SURG-C24-052",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Signet ring cells are characteristically seen in:",
+   "opts": [
+    "Krukenberg tumour",
+    "Sister Mary Joseph's nodule",
+    "Irish nodule",
+    "Blummer's shelf"
+   ],
+   "ans": 0,
+   "exp": "Krukenberg tumor: signet ring cells. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-053",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Blummer's shelf is metastasis into the:",
+   "opts": [
+    "Pelvis / pouch of Douglas",
+    "Umbilicus",
+    "Left supraclavicular fossa",
+    "Left axilla"
+   ],
+   "ans": 0,
+   "exp": "Blummer's shelf: mets into pelvis/pouch of Douglas. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-054",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Blummer's shelf is best detected by:",
+   "opts": [
+    "Digital rectal examination (DRE)/imaging",
+    "Laparoscopy",
+    "Barium swallow",
+    "Colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis of Blummer's shelf: digital rectal examination (DRE)/imaging. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-055",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Blummer's shelf is a sign of:",
+   "opts": [
+    "Advanced cancer",
+    "Early cancer",
+    "Benign disease",
+    "Carcinoma in situ"
+   ],
+   "ans": 0,
+   "exp": "Blummer's shelf: sign of advanced cancer. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-056",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Virchow's node (Troisier's sign) is enlargement of the:",
+   "opts": [
+    "Left supraclavicular lymph node",
+    "Right supraclavicular lymph node",
+    "Left axillary lymph node",
+    "Periumbilical node"
+   ],
+   "ans": 0,
+   "exp": "Virchow's node/Troisier's sign: left supraclavicular lymph node enlargement. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-057",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "The anatomical reason for Virchow's node enlargement is involvement of the:",
+   "opts": [
+    "Thoracic duct",
+    "Cisterna chyli",
+    "Spleen",
+    "Portal vein"
+   ],
+   "ans": 0,
+   "exp": "Anatomical reason: involvement of thoracic duct. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-058",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Virchow's node is seen in advanced disease of:",
+   "opts": [
+    "GI and genitourinary (GU) causes",
+    "Only the stomach",
+    "Only the lung",
+    "Only the breast"
+   ],
+   "ans": 0,
+   "exp": "Virchow's node: seen in GI/genitourinary (GU) causes. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-059",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Irish nodule is enlargement of the:",
+   "opts": [
+    "Left axillary lymph node",
+    "Left supraclavicular lymph node",
+    "Right axillary lymph node",
+    "Inguinal lymph node"
+   ],
+   "ans": 0,
+   "exp": "Irish nodule: left axillary lymph node enlargement. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-060",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Migratory thrombophlebitis (Trousseau syndrome) is m/c associated with:",
+   "opts": [
+    "Pancreatic cancer",
+    "Gastric cancer",
+    "Colorectal cancer",
+    "Lung cancer"
+   ],
+   "ans": 0,
+   "exp": "Migratory thrombophlebitis/Trousseau syndrome: m/c - pancreatic cancer. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-061",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Leser-Trelat sign refers to:",
+   "opts": [
+    "Multiple seborrheic keratoses",
+    "Hyperkeratotic palms",
+    "Periumbilical nodule",
+    "Left supraclavicular node"
+   ],
+   "ans": 0,
+   "exp": "Dermatological manifestation - a) Leser-Trelat sign: multiple seborrheic keratoses. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-062",
+   "sec": "Metastatic Signs in Gastric Cancer",
+   "page": 163,
+   "q": "Tripe palms refers to:",
+   "opts": [
+    "Hyperkeratotic palms",
+    "Multiple seborrheic keratoses",
+    "Palmar erythema",
+    "Digital clubbing"
+   ],
+   "ans": 0,
+   "exp": "Dermatological manifestation - b) tripe palms: hyperkeratotic palms. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-063",
+   "sec": "Investigations in Gastric Cancer",
+   "page": 163,
+   "q": "The investigation used for overall staging of gastric cancer is:",
+   "opts": [
+    "PET-CT",
+    "CECT",
+    "Endoscopic ultrasound",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "Overall staging: PET-CT. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-064",
+   "sec": "Investigations in Gastric Cancer",
+   "page": 163,
+   "q": "T and N staging of gastric cancer is best done by:",
+   "opts": [
+    "Endoscopic ultrasound (EUS)",
+    "PET-CT",
+    "CECT",
+    "Diagnostic laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "T & N stage: endoscopic ultrasound (EUS). (Book p163)"
+  },
+  {
+   "id": "SURG-C24-065",
+   "sec": "Investigations in Gastric Cancer",
+   "page": 163,
+   "q": "The diagnosis of gastric cancer is established by:",
+   "opts": [
+    "Endoscopic biopsy",
+    "PET-CT",
+    "CECT",
+    "Tumour markers"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: endoscopic biopsy. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-066",
+   "sec": "Investigations in Gastric Cancer",
+   "page": 163,
+   "q": "The typical endoscopic finding in gastric cancer is a:",
+   "opts": [
+    "Friable mass",
+    "Smooth submucosal swelling",
+    "Multiple diverticula",
+    "Linear ulcer alone"
+   ],
+   "ans": 0,
+   "exp": "Endoscopic finding of gastric cancer: friable mass. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-067",
+   "sec": "Investigations in Gastric Cancer",
+   "page": 163,
+   "q": "The m/c site of gastric cancer overall is the:",
+   "opts": [
+    "Antrum",
+    "Fundus",
+    "Cardia",
+    "Greater curvature"
+   ],
+   "ans": 0,
+   "exp": "Site: m/c overall - antrum. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-068",
+   "sec": "Investigations in Gastric Cancer",
+   "page": 163,
+   "q": "In the West, there is an increased incidence of:",
+   "opts": [
+    "Proximal gastric cancer",
+    "Antral cancer",
+    "Pyloric cancer",
+    "Greater curvature cancer"
+   ],
+   "ans": 0,
+   "exp": "West: ↑ incidence of proximal gastric cancer. (Book p163)"
+  },
+  {
+   "id": "SURG-C24-069",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "Tis in the TNM staging of gastric cancer means:",
+   "opts": [
+    "Carcinoma in situ (lamina propria)",
+    "Tumour invades the submucosa",
+    "Tumour invades the muscularis propria",
+    "Tumour invades the serosa"
+   ],
+   "ans": 0,
+   "exp": "Tis: carcinoma in situ, lamina propria. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-070",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "T1a gastric cancer invades the:",
+   "opts": [
+    "Lamina propria",
+    "Submucosa",
+    "Muscularis propria",
+    "Subserosa"
+   ],
+   "ans": 0,
+   "exp": "T1a: lamina propria. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-071",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "T1b gastric cancer means the tumour:",
+   "opts": [
+    "Invades the submucosa",
+    "Is limited to the lamina propria",
+    "Invades the muscularis propria",
+    "Penetrates the serosa"
+   ],
+   "ans": 0,
+   "exp": "T1b: tumor invades the submucosa. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-072",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "T2 gastric cancer means the tumour:",
+   "opts": [
+    "Invades the muscularis propria",
+    "Invades the submucosa",
+    "Penetrates the subserosal connective tissue",
+    "Invades adjacent structures"
+   ],
+   "ans": 0,
+   "exp": "T2: tumor invades the muscularis propria. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-073",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "T3 gastric cancer means the tumour:",
+   "opts": [
+    "Penetrates the subserosal connective tissue without invasion of the visceral peritoneum or adjacent structures",
+    "Invades the mucosa only",
+    "Invades the serosa",
+    "Invades adjacent structures"
+   ],
+   "ans": 0,
+   "exp": "T3: penetrates the subserosal connective tissue without invasion of the visceral peritoneum or adjacent structures. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-074",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "T4 gastric cancer means the tumour:",
+   "opts": [
+    "Invades the serosa (visceral peritoneum) or adjacent structures",
+    "Invades the muscularis propria",
+    "Invades the submucosa",
+    "Penetrates the subserosa only"
+   ],
+   "ans": 0,
+   "exp": "T4: tumor invades the serosa (visceral peritoneum) or adjacent structures. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-075",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "The minimum number of lymph nodes to be removed for staging of gastric cancer is:",
+   "opts": [
+    "15",
+    "10",
+    "12",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "Minimum no. of lymph nodes removed: gastric cancer - 15. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-076",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "The minimum number of lymph nodes to be removed for staging of esophageal cancer is:",
+   "opts": [
+    "15",
+    "10",
+    "12",
+    "20"
+   ],
+   "ans": 0,
+   "exp": "Minimum no. of lymph nodes removed: esophageal cancer - 15. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-077",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "The minimum number of lymph nodes to be removed for staging of breast cancer is:",
+   "opts": [
+    "10",
+    "15",
+    "12",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "Minimum no. of lymph nodes removed: breast cancer - 10. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-078",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "The minimum number of lymph nodes to be removed for staging of colorectal cancer is:",
+   "opts": [
+    "12",
+    "15",
+    "10",
+    "5"
+   ],
+   "ans": 0,
+   "exp": "Minimum no. of lymph nodes removed: colorectal cancer - 12. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-079",
+   "sec": "TNM Classification of Gastric Cancer",
+   "page": 164,
+   "q": "The m/c site of metastasis from gastric cancer is the:",
+   "opts": [
+    "Liver",
+    "Lung",
+    "Brain",
+    "Bone"
+   ],
+   "ans": 0,
+   "exp": "m/c site of metastasis: liver. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-080",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "The management of gastric cancer is:",
+   "opts": [
+    "Multimodality - chemotherapy, radiotherapy and surgery",
+    "Surgery alone",
+    "Chemotherapy alone",
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Management: multimodality management - chemotherapy, radiotherapy, surgery. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-081",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "The proximal margin aimed for in surgery for the primary gastric tumour is:",
+   "opts": [
+    "5 cm",
+    "1 cm",
+    "10 cm",
+    "2 cm"
+   ],
+   "ans": 0,
+   "exp": "Surgery for 1° tumor: proximal margin - 5 cm. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-082",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "The distal margin aimed for in surgery for the primary gastric tumour is:",
+   "opts": [
+    "Pylorus",
+    "Duodenum",
+    "Jejunum",
+    "Cardia"
+   ],
+   "ans": 0,
+   "exp": "Surgery for 1° tumor: distal margin - pylorus. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-083",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "An R0 resection means:",
+   "opts": [
+    "Microscopic freedom from disease",
+    "Macroscopic clearance with microscopic residual disease",
+    "Gross residual disease",
+    "A purely palliative resection"
+   ],
+   "ans": 0,
+   "exp": "To achieve R0 resection: microscopic freedom from disease. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-084",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "Total gastrectomy is followed by reconstruction with:",
+   "opts": [
+    "Esophagojejunostomy using a circular stapler",
+    "Gastroduodenostomy",
+    "Roux-en-Y duodenojejunostomy",
+    "Billroth I anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Total gastrectomy followed by esophageal jejunostomy using circular stapler. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-085",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "A Siewert III tumour is treated by:",
+   "opts": [
+    "Subtotal gastrectomy (60-70% of stomach removed)",
+    "Total gastrectomy",
+    "Distal gastrectomy (30% of stomach removed)",
+    "Oesophagectomy"
+   ],
+   "ans": 0,
+   "exp": "Siewart III: subtotal gastrectomy (60-70% stomach removed). (Book p164)"
+  },
+  {
+   "id": "SURG-C24-086",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "A distal gastrectomy removes approximately:",
+   "opts": [
+    "30% of the stomach",
+    "60-70% of the stomach",
+    "90% of the stomach",
+    "10% of the stomach"
+   ],
+   "ans": 0,
+   "exp": "Distal gastrectomy: 30% stomach removed. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-087",
+   "sec": "Surgical Management of Gastric Cancer",
+   "page": 164,
+   "q": "A subtotal gastrectomy removes approximately:",
+   "opts": [
+    "60-70% of the stomach",
+    "30% of the stomach",
+    "90% of the stomach",
+    "100% of the stomach"
+   ],
+   "ans": 0,
+   "exp": "Subtotal gastrectomy: 60-70% stomach removed. (Book p164)"
+  },
+  {
+   "id": "SURG-C24-088",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Lymph node clearance in gastric cancer surgery follows the:",
+   "opts": [
+    "Japanese stations",
+    "Bormann stations",
+    "Siewert stations",
+    "Lauren stations"
+   ],
+   "ans": 0,
+   "exp": "Surgery for lymph node clearance: Japanese stations. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-089",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node station 1 is the:",
+   "opts": [
+    "Right paracardial",
+    "Left paracardial",
+    "Lesser curvature",
+    "Greater curvature"
+   ],
+   "ans": 0,
+   "exp": "Station 1: right para-cardial. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-090",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node station 2 is the:",
+   "opts": [
+    "Left paracardial",
+    "Right paracardial",
+    "Lesser curvature",
+    "Greater curvature"
+   ],
+   "ans": 0,
+   "exp": "Station 2: left para-cardial. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-091",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node station 3 is along the:",
+   "opts": [
+    "Lesser curvature",
+    "Greater curvature",
+    "Splenic artery",
+    "Splenic hilum"
+   ],
+   "ans": 0,
+   "exp": "Station 3: lesser curvature. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-092",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node station 4 is along the:",
+   "opts": [
+    "Greater curvature",
+    "Lesser curvature",
+    "Left gastric artery",
+    "Coeliac axis"
+   ],
+   "ans": 0,
+   "exp": "Station 4: greater curvature. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-093",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node stations 5 and 6 are the:",
+   "opts": [
+    "Suprapyloric and infrapyloric nodes",
+    "Paracardial nodes",
+    "Splenic nodes",
+    "Hepatoduodenal nodes"
+   ],
+   "ans": 0,
+   "exp": "Station 5: suprapyloric; station 6: infrapyloric. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-094",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node stations 7, 8 and 9 are along the:",
+   "opts": [
+    "Left gastric artery, common hepatic artery and coeliac axis",
+    "Splenic artery, splenic hilum and hepatoduodenal ligament",
+    "Right and left paracardial region and lesser curvature",
+    "Suprapyloric, infrapyloric and retropancreatic region"
+   ],
+   "ans": 0,
+   "exp": "Station 7: left gastric; 8: common hepatic; 9: celiac. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-095",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node stations 10 and 11 are at the:",
+   "opts": [
+    "Splenic hilum and along the splenic artery",
+    "Coeliac axis and left gastric artery",
+    "Hepatoduodenal ligament and retropancreatic region",
+    "Greater and lesser curvature"
+   ],
+   "ans": 0,
+   "exp": "Station 10: splenic hilum; station 11: splenic artery. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-096",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "Japanese lymph node stations 12 and 13 are the:",
+   "opts": [
+    "Hepatoduodenal ligament and retropancreatic nodes",
+    "Splenic hilum and splenic artery nodes",
+    "Paracardial and pyloric nodes",
+    "Coeliac and left gastric nodes"
+   ],
+   "ans": 0,
+   "exp": "Station 12: hepatoduodenal ligament; station 13: retropancreatic. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-097",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "D1 lymph node clearance means removal of stations:",
+   "opts": [
+    "1-6",
+    "1-11",
+    "1-13",
+    "7-11"
+   ],
+   "ans": 0,
+   "exp": "D1 lymph node clearance: removal of 1-6 stations. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-098",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "page": 165,
+   "q": "D2 (optimum) lymph node clearance means removal of stations:",
+   "opts": [
+    "1-11",
+    "1-6",
+    "1-13",
+    "1-3"
+   ],
+   "ans": 0,
+   "exp": "D2 lymph node clearance (optimum): removal of 1-11 stations. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-099",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "The chemotherapy drugs used in gastric cancer are:",
+   "opts": [
+    "5-FU and cisplatin",
+    "Cyclophosphamide and methotrexate",
+    "Vincristine and prednisolone",
+    "Docetaxel and carboplatin"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy: 5FU, cisplatin. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-100",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "Chemotherapy in gastric cancer is indicated when there is:",
+   "opts": [
+    "Lymph node positivity",
+    "Carcinoma in situ",
+    "T1a mucosal disease",
+    "A metaplastic polyp"
+   ],
+   "ans": 0,
+   "exp": "Indications: lymph node (+). (Book p165)"
+  },
+  {
+   "id": "SURG-C24-101",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "Neo-adjuvant chemotherapy in gastric cancer is given for:",
+   "opts": [
+    "Bulky lymph nodes",
+    "T1a tumours",
+    "Carcinoma in situ",
+    "Metaplastic polyps"
+   ],
+   "ans": 0,
+   "exp": "Indications: bulky lymph node - neo-adjuvant chemotherapy given. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-102",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "Which T stage of gastric cancer is an indication for chemotherapy?",
+   "opts": [
+    "T3/T4",
+    "Tis",
+    "T1a",
+    "T1b"
+   ],
+   "ans": 0,
+   "exp": "Indications: T3/T4. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-103",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "Muscle invasion in gastric cancer is an indication for:",
+   "opts": [
+    "Chemotherapy",
+    "Radiotherapy alone",
+    "Endoscopic mucosal resection",
+    "No further treatment"
+   ],
+   "ans": 0,
+   "exp": "Indications: muscle invasion. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-104",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "Radiotherapy in gastric cancer is given to the:",
+   "opts": [
+    "Stomach bed",
+    "Whole abdomen",
+    "Liver",
+    "Pelvis"
+   ],
+   "ans": 0,
+   "exp": "Radiotherapy: site - stomach bed. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-105",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "The aim of radiotherapy in gastric cancer is to reduce the:",
+   "opts": [
+    "Loco-regional recurrence (LRR)",
+    "Distant metastasis",
+    "Post-gastrectomy dumping",
+    "Iron deficiency"
+   ],
+   "ans": 0,
+   "exp": "Radiotherapy: to reduce loco-regional recurrence (LRR). (Book p165)"
+  },
+  {
+   "id": "SURG-C24-106",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "Newer modalities used in metastatic gastric cancer include:",
+   "opts": [
+    "Pembrolizumab and nivolumab",
+    "Imatinib and sunitinib",
+    "Rituximab",
+    "Bevacizumab"
+   ],
+   "ans": 0,
+   "exp": "Newer modalities for metastatic gastric cancer: pembrolizumab, nivolumab. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-107",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "A HER2 neu mutation in metastatic gastric cancer is treated with:",
+   "opts": [
+    "Trastuzumab",
+    "Imatinib",
+    "Rituximab",
+    "Bevacizumab"
+   ],
+   "ans": 0,
+   "exp": "HER 2 neu mutation: trastuzumab. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-108",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "S-1 chemotherapy consists of:",
+   "opts": [
+    "Oral fluoropyrimidine with enzyme inhibitors (oteracil and gimeracil)",
+    "A platinum compound alone",
+    "A taxane alone",
+    "An anthracycline alone"
+   ],
+   "ans": 0,
+   "exp": "S-1 chemotherapy: oral fluoropyrimidine + enzyme inhibitors (oteracil & gimeracil). (Book p165)"
+  },
+  {
+   "id": "SURG-C24-109",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "Overall, the prognosis of gastric cancer depends on the:",
+   "opts": [
+    "Depth of invasion",
+    "Lymph node status",
+    "Tumour size",
+    "Patient's age"
+   ],
+   "ans": 0,
+   "exp": "Note: overall - depth of invasion. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-110",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "page": 165,
+   "q": "In operable gastric cancer the most important prognostic factor is:",
+   "opts": [
+    "Lymph node status",
+    "Depth of invasion",
+    "Site of the tumour",
+    "Histological type"
+   ],
+   "ans": 0,
+   "exp": "Operable gastric cancer: lymph node status. (Book p165)"
+  },
+  {
+   "id": "SURG-C24-111",
+   "sec": "GIST: Origin, Types and Associations",
+   "page": 166,
+   "q": "A gastrointestinal stromal tumour arises from:",
+   "opts": [
+    "Interstitial pacemaker cells of Cajal",
+    "Smooth muscle cells",
+    "Neural crest cells",
+    "Mucosal epithelium"
+   ],
+   "ans": 0,
+   "exp": "GIST - origin: intestinal pacemaker cells of Cajal. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-112",
+   "sec": "GIST: Origin, Types and Associations",
+   "page": 166,
+   "q": "The m/c site of a GIST is the:",
+   "opts": [
+    "Stomach",
+    "Small intestine",
+    "Colon",
+    "Esophagus"
+   ],
+   "ans": 0,
+   "exp": "GIST: m/c site - stomach. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-113",
+   "sec": "GIST: Origin, Types and Associations",
+   "page": 166,
+   "q": "Familial GIST is associated with:",
+   "opts": [
+    "Carney's triad",
+    "MEN 1 syndrome",
+    "Von Hippel-Lindau disease",
+    "FAP"
+   ],
+   "ans": 0,
+   "exp": "Types: sporadic; familial - associated with Carney's triad. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-114",
+   "sec": "GIST: Origin, Types and Associations",
+   "page": 166,
+   "q": "Carney's triad consists of:",
+   "opts": [
+    "Gastric GIST, paraganglioma and pulmonary chondroma",
+    "Gastric GIST, paraganglioma and phaeochromocytoma",
+    "GIST, thyroid carcinoma and chondroma",
+    "GIST, lipoma and chondroma"
+   ],
+   "ans": 0,
+   "exp": "Carney's triad: I. gastric GIST, II. paraganglionoma, III. pulmonary chondroma. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-115",
+   "sec": "GIST: Origin, Types and Associations",
+   "page": 166,
+   "q": "Carney-Stratakis syndrome is due to a mutation of:",
+   "opts": [
+    "Succinate dehydrogenase B",
+    "c-KIT",
+    "PDGFRα",
+    "p53"
+   ],
+   "ans": 0,
+   "exp": "Carney Stratakis syndrome: mutation of succinyl dehydrogenase B. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-116",
+   "sec": "GIST: Origin, Types and Associations",
+   "page": 166,
+   "q": "Carney-Stratakis syndrome is associated with:",
+   "opts": [
+    "Primary resistance to imatinib",
+    "Primary resistance to sunitinib",
+    "A very good response to imatinib",
+    "Spontaneous regression"
+   ],
+   "ans": 0,
+   "exp": "Carney Stratakis syndrome: I° resistance to imatinib. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-117",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "The m/c presentation of a GIST is:",
+   "opts": [
+    "Upper GI haemorrhage",
+    "Abdominal mass",
+    "Perforation",
+    "Gastric outlet obstruction"
+   ],
+   "ans": 0,
+   "exp": "Presentation: upper GI hemorrhage - m/c. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-118",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "The usual mode of spread of a GIST is:",
+   "opts": [
+    "Local invasion and hematogenous spread",
+    "Lymphatic spread",
+    "Transcoelomic seedling",
+    "Perineural spread"
+   ],
+   "ans": 0,
+   "exp": "Spread: local invasion; hematogenous spread m/c to liver. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-119",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "The m/c site of hematogenous metastasis of a GIST is the:",
+   "opts": [
+    "Liver",
+    "Lung",
+    "Bone",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "Hematogenous spread: m/c to liver. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-120",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "Lymphatic spread in GIST occurs in:",
+   "opts": [
+    "<10% - so lymph node clearance is not mandatory",
+    "More than 50%",
+    "30-40%",
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "Lymphatic spread: <10% (LN clearance not mandatory). (Book p166)"
+  },
+  {
+   "id": "SURG-C24-121",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "The investigation of choice for the radiological diagnosis of a GIST is:",
+   "opts": [
+    "CECT",
+    "MRI",
+    "Ultrasound",
+    "Plain X-ray abdomen"
+   ],
+   "ans": 0,
+   "exp": "Investigations: CECT - IOC (radiological diagnosis). (Book p166)"
+  },
+  {
+   "id": "SURG-C24-122",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "PET-CT in a GIST is used for:",
+   "opts": [
+    "Treatment monitoring in malignant GIST and detection of recurrence",
+    "The primary radiological diagnosis",
+    "Screening of relatives",
+    "Assessment of lymphatic spread"
+   ],
+   "ans": 0,
+   "exp": "PET-CT: treatment monitoring in malignant GIST; recurrence. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-123",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "A GIST biopsy is reported using the:",
+   "opts": [
+    "Fletcher classification",
+    "Lauren classification",
+    "Bormann classification",
+    "Siewert classification"
+   ],
+   "ans": 0,
+   "exp": "Biopsy: Fletcher classification - benign/intermediate/malignant. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-124",
+   "sec": "GIST: Presentation, Spread and Investigations",
+   "page": 166,
+   "q": "The malignancy risk of a GIST is assessed on the basis of:",
+   "opts": [
+    "Size and mitotic figures",
+    "Site and patient's age",
+    "Sex and site",
+    "Lymph node status"
+   ],
+   "ans": 0,
+   "exp": "Malignancy risk assessed based on size and mitotic figures. (Book p166)"
+  },
+  {
+   "id": "SURG-C24-125",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "The m/c immunohistochemical marker of a GIST is:",
+   "opts": [
+    "c-KIT (CD117) - positive in >90%",
+    "CD34",
+    "DOG-1",
+    "S-100"
+   ],
+   "ans": 0,
+   "exp": "IHC: m/c marker - c-KIT (CD117) (>90%). (Book p167)"
+  },
+  {
+   "id": "SURG-C24-126",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "CD34 positivity is seen in what proportion of GISTs?",
+   "opts": [
+    "60-70%",
+    "Less than 10%",
+    "90-100%",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "IHC: CD34 (+) in 60-70%. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-127",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "The most specific immunohistochemical marker for a GIST is:",
+   "opts": [
+    "DOG-1",
+    "CD34",
+    "CD117",
+    "Desmin"
+   ],
+   "ans": 0,
+   "exp": "IHC: most specific - DOG-1. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-128",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "A wild type GIST is negative for:",
+   "opts": [
+    "CD117, CD34 and PDGFRα",
+    "DOG-1",
+    "S-100",
+    "Desmin"
+   ],
+   "ans": 0,
+   "exp": "Wild type GIST: negative for CD117, CD34, PDGFRα. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-129",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "The treatment of a benign/borderline GIST is:",
+   "opts": [
+    "Surgery - wedge resection",
+    "Imatinib alone",
+    "Radiotherapy",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Benign/borderline GIST: surgery - wedge resection. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-130",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "The margin aimed for in a wedge resection of a GIST is:",
+   "opts": [
+    "1-2 cm",
+    "5 cm",
+    "0.5 cm",
+    "10 cm"
+   ],
+   "ans": 0,
+   "exp": "Wedge resection with a 1-2 cm margin. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-131",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "A malignant/metastatic GIST is treated with:",
+   "opts": [
+    "Surgery plus imatinib (tyrosine kinase inhibitor)",
+    "Surgery alone",
+    "Radiotherapy alone",
+    "5-FU based chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Malignant/metastatic GIST: surgery + imatinib (tyrosine kinase inhibitors). (Book p167)"
+  },
+  {
+   "id": "SURG-C24-132",
+   "sec": "GIST: Immunohistochemistry and Treatment",
+   "page": 167,
+   "q": "Drugs used in a GIST resistant to imatinib are:",
+   "opts": [
+    "Sunitinib and sorafenib",
+    "Pembrolizumab and nivolumab",
+    "Trastuzumab",
+    "Rituximab"
+   ],
+   "ans": 0,
+   "exp": "Resistant to imatinib: sunitinib, sorafenib. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-133",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "A primary gastric lymphoma, compared with a generalized lymphomatous process involving the stomach, is:",
+   "opts": [
+    "Much less common",
+    "Much more common",
+    "Equally common",
+    "Always the presentation"
+   ],
+   "ans": 0,
+   "exp": "Generalized lymphomatous process >> I° gastric lymphoma. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-134",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "The m/c type of primary gastric lymphoma is:",
+   "opts": [
+    "Non-Hodgkin's B cell lymphoma",
+    "Hodgkin's lymphoma",
+    "T cell lymphoma",
+    "NK/T cell lymphoma"
+   ],
+   "ans": 0,
+   "exp": "I° gastric lymphoma: m/c - non-Hodgkin's B cell. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-135",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "The m/c subtype of primary gastric lymphoma is:",
+   "opts": [
+    "DLBCL (diffuse large B cell lymphoma)",
+    "Follicular lymphoma",
+    "Mantle cell lymphoma",
+    "Burkitt lymphoma"
+   ],
+   "ans": 0,
+   "exp": "m/c: DLBCL (diffuse large B cell). (Book p167)"
+  },
+  {
+   "id": "SURG-C24-136",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "Clinical features of gastric lymphoma include:",
+   "opts": [
+    "Upper GI haemorrhage, pain and a lump",
+    "Only B symptoms",
+    "Only perforation",
+    "Only gastric outlet obstruction"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: upper GI hemorrhage, pain, lump. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-137",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "B symptoms of gastric lymphoma include:",
+   "opts": [
+    "Fever, night sweats, pruritus and weight loss",
+    "Fever alone",
+    "Weight gain",
+    "Night sweats alone"
+   ],
+   "ans": 0,
+   "exp": "B symptoms: fever, night sweat, pruritus, weight loss. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-138",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "The investigation used to diagnose gastric lymphoma is:",
+   "opts": [
+    "Endoscopic biopsy",
+    "PET-CT",
+    "Barium meal",
+    "Diagnostic laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "Investigation: endoscopic biopsy. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-139",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "The first line treatment of gastric lymphoma is:",
+   "opts": [
+    "Chemotherapy - R-CHOP regimen",
+    "Surgery",
+    "Radiotherapy",
+    "Imatinib"
+   ],
+   "ans": 0,
+   "exp": "Management: I. chemotherapy (1st line) - R CHOP regime. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-140",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "Rituximab used in the R-CHOP regimen is a monoclonal antibody against:",
+   "opts": [
+    "CD20",
+    "CD117",
+    "CD34",
+    "HER2"
+   ],
+   "ans": 0,
+   "exp": "Rituximab: mAB against CD20. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-141",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "The drugs in the R-CHOP regimen are:",
+   "opts": [
+    "Rituximab, cyclophosphamide, hydroxydaunorubicin, oncovin (vincristine) and prednisolone",
+    "Rituximab, cisplatin, fluorouracil and prednisolone",
+    "Rituximab, cyclophosphamide and methotrexate",
+    "Rituximab, vinblastine and dacarbazine"
+   ],
+   "ans": 0,
+   "exp": "R-CHOP: rituximab, cyclophosphamide, hydroxydaunorubicin, oncovin/vincristine, prednisolone. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-142",
+   "sec": "Gastric Lymphoma",
+   "page": 167,
+   "q": "Surgery in gastric lymphoma is indicated for:",
+   "opts": [
+    "Residual disease/recurrence",
+    "As first line treatment",
+    "For B symptoms",
+    "For all stage I disease"
+   ],
+   "ans": 0,
+   "exp": "Surgery: residual disease/recurrence. (Book p167)"
+  },
+  {
+   "id": "SURG-C24-143",
+   "sec": "MALToma (Mucosa Associated Lymphoid Tissue)",
+   "page": 168,
+   "q": "MALToma stands for:",
+   "opts": [
+    "Mucosa associated lymphoid tissue lymphoma",
+    "Mucosal associated lymphatic tumour",
+    "Malignant lymphoid tissue tumour",
+    "Mucosa associated lymphoid tumour"
+   ],
+   "ans": 0,
+   "exp": "MALTOMA: mucosa associated lymphoid tissue. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-144",
+   "sec": "MALToma (Mucosa Associated Lymphoid Tissue)",
+   "page": 168,
+   "q": "The m/c site of a MALToma is the:",
+   "opts": [
+    "Stomach",
+    "Salivary gland",
+    "Thyroid",
+    "Lung"
+   ],
+   "ans": 0,
+   "exp": "MALToma: m/c site - stomach (associated with H. pylori). (Book p168)"
+  },
+  {
+   "id": "SURG-C24-145",
+   "sec": "MALToma (Mucosa Associated Lymphoid Tissue)",
+   "page": 168,
+   "q": "Gastric MALToma is associated with infection by:",
+   "opts": [
+    "H. pylori",
+    "EBV",
+    "HPV",
+    "HBV"
+   ],
+   "ans": 0,
+   "exp": "m/c site: stomach (associated with H. pylori). (Book p168)"
+  },
+  {
+   "id": "SURG-C24-146",
+   "sec": "MALToma (Mucosa Associated Lymphoid Tissue)",
+   "page": 168,
+   "q": "Low grade gastric MALToma is managed by:",
+   "opts": [
+    "H. pylori eradication",
+    "R-CHOP chemotherapy",
+    "Surgery",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Types: low grade - management: H. pylori eradication. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-147",
+   "sec": "MALToma (Mucosa Associated Lymphoid Tissue)",
+   "page": 168,
+   "q": "High grade gastric MALToma is managed with:",
+   "opts": [
+    "R-CHOP (managed as a lymphoma)",
+    "H. pylori eradication alone",
+    "Imatinib",
+    "Surgery alone"
+   ],
+   "ans": 0,
+   "exp": "High grade: R CHOP (managed as lymphoma). (Book p168)"
+  },
+  {
+   "id": "SURG-C24-148",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "The m/c type of gastric volvulus is:",
+   "opts": [
+    "Organoaxial",
+    "Mesenteroaxial",
+    "Combined",
+    "Idiopathic"
+   ],
+   "ans": 0,
+   "exp": "Organoaxial: most common type. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-149",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "In an organoaxial volvulus the twist occurs:",
+   "opts": [
+    "Along the long axis - the line connecting the cardia and pylorus",
+    "Along a plane perpendicular to the long axis of the stomach",
+    "From the lesser to the greater curvature",
+    "Around the gastrocolic ligament"
+   ],
+   "ans": 0,
+   "exp": "Organoaxial: twist occurs along the line connecting the cardia and pylorus, along the long axis of the stomach. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-150",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "Organoaxial gastric volvulus is also described as:",
+   "opts": [
+    "Longitudinal",
+    "Vertical",
+    "Transverse",
+    "Horizontal"
+   ],
+   "ans": 0,
+   "exp": "Organoaxial volvulus: longitudinal. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-151",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "Mesenteroaxial gastric volvulus is described as:",
+   "opts": [
+    "Vertical - rotation in a plane perpendicular to the long axis, from the lesser to the greater curvature",
+    "Longitudinal - along the line joining the cardia and pylorus",
+    "Transverse",
+    "Horizontal"
+   ],
+   "ans": 0,
+   "exp": "Mesenteroaxial volvulus: vertical; twist occurs along a plane perpendicular to the long axis of the stomach from lesser to greater curvature. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-152",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "In a mesenteroaxial volvulus:",
+   "opts": [
+    "The stomach folds upon itself - the greater curvature twists over the lesser curvature",
+    "The cardia twists over the pylorus",
+    "The antrum twists over the fundus",
+    "The stomach rotates around the gastrocolic ligament"
+   ],
+   "ans": 0,
+   "exp": "Mesenteroaxial: stomach folds upon itself - greater curvature twists over lesser curvature. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-153",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "Vascular compromise is more common in:",
+   "opts": [
+    "Organoaxial volvulus",
+    "Mesenteroaxial volvulus",
+    "Both equally",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Organoaxial: vascular compromise common. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-154",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "Chronic symptoms are more common in:",
+   "opts": [
+    "Mesenteroaxial volvulus",
+    "Organoaxial volvulus",
+    "Both equally",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Mesenteroaxial: chronic symptoms common. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-155",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "A diaphragmatic defect (rolling hiatal hernia) is associated with:",
+   "opts": [
+    "Organoaxial volvulus",
+    "Mesenteroaxial volvulus",
+    "Both equally",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Organoaxial: associated with diaphragmatic defect (rolling hiatal hernia). (Book p168)"
+  },
+  {
+   "id": "SURG-C24-156",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "Diaphragmatic defects are less common in:",
+   "opts": [
+    "Mesenteroaxial volvulus",
+    "Organoaxial volvulus",
+    "Both types",
+    "Neither type"
+   ],
+   "ans": 0,
+   "exp": "Mesenteroaxial: diaphragmatic defects less common. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-157",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "Borchardt's triad of gastric volvulus consists of:",
+   "opts": [
+    "Retching, pain and inability to pass a Ryle's tube",
+    "Vomiting, distension and constipation",
+    "Pain, vomiting and fever",
+    "Haematemesis, pain and a mass"
+   ],
+   "ans": 0,
+   "exp": "Borchardt's triad: retching, pain, inability to pass Ryle's tube. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-158",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "The investigation of choice in a stable patient with suspected gastric volvulus is:",
+   "opts": [
+    "CECT",
+    "Contrast study",
+    "Plain X-ray abdomen",
+    "Upper GI endoscopy"
+   ],
+   "ans": 0,
+   "exp": "Investigations - IOC: stable patient - CECT. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-159",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "In an unstable patient with suspected gastric volvulus the investigation is:",
+   "opts": [
+    "Contrast study",
+    "CECT",
+    "MRI",
+    "Upper GI endoscopy"
+   ],
+   "ans": 0,
+   "exp": "Investigations: unstable - contrast study. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-160",
+   "sec": "Gastric Volvulus: Types and Features",
+   "page": 168,
+   "q": "The cascade sign on a contrast study is seen in:",
+   "opts": [
+    "Gastric volvulus",
+    "Gastric cancer",
+    "Pyloric stenosis",
+    "Achalasia cardia"
+   ],
+   "ans": 0,
+   "exp": "Cascade sign: seen on contrast study of volvulus. (Book p168)"
+  },
+  {
+   "id": "SURG-C24-161",
+   "sec": "Management of Gastric Volvulus",
+   "page": 169,
+   "q": "The treatment of gastric volvulus is:",
+   "opts": [
+    "Surgery (exploratory laparotomy)",
+    "Conservative management only",
+    "Endoscopic dilatation",
+    "Nasogastric decompression alone"
+   ],
+   "ans": 0,
+   "exp": "Management: surgery (explorative laparotomy). (Book p169)"
+  },
+  {
+   "id": "SURG-C24-162",
+   "sec": "Management of Gastric Volvulus",
+   "page": 169,
+   "q": "At laparotomy, if the stomach is viable the treatment is:",
+   "opts": [
+    "De-rotation, gastropexy and repair of the diaphragmatic defect",
+    "Resection and reconstruction",
+    "Total gastrectomy",
+    "Pyloroplasty"
+   ],
+   "ans": 0,
+   "exp": "Stomach viable: de-rotate, gastropexy (fix the stomach), repair diaphragmatic defect. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-163",
+   "sec": "Management of Gastric Volvulus",
+   "page": 169,
+   "q": "Gastropexy means:",
+   "opts": [
+    "Fixing the stomach",
+    "Rotating the stomach",
+    "Resecting the stomach",
+    "Bypassing the stomach"
+   ],
+   "ans": 0,
+   "exp": "Gastropexy: fix the stomach. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-164",
+   "sec": "Management of Gastric Volvulus",
+   "page": 169,
+   "q": "If the stomach is not viable at laparotomy the treatment is:",
+   "opts": [
+    "Resection and reconstruction",
+    "Gastropexy alone",
+    "De-rotation alone",
+    "Total gastrectomy with esophagojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Not viable: resection & reconstruction. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-165",
+   "sec": "Management of Gastric Volvulus",
+   "page": 169,
+   "q": "In gastric volvulus associated with a diaphragmatic defect, the defect should be:",
+   "opts": [
+    "Repaired",
+    "Left alone",
+    "Enlarged",
+    "Covered with mesh only"
+   ],
+   "ans": 0,
+   "exp": "Surgery: repair diaphragmatic defect. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-166",
+   "sec": "Trichobezoar",
+   "page": 169,
+   "q": "A trichobezoar is:",
+   "opts": [
+    "A mass of hair (hairball) inside the stomach",
+    "A mass of vegetable fibres",
+    "A gallstone in the stomach",
+    "A mass of undissolved medication"
+   ],
+   "ans": 0,
+   "exp": "Trichobezoar: mass of hair (hairball) inside the stomach. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-167",
+   "sec": "Trichobezoar",
+   "page": 169,
+   "q": "A trichobezoar occurs secondary to:",
+   "opts": [
+    "Trichophagy (eating hair)",
+    "Pica for soil",
+    "Iron deficiency",
+    "Achalasia cardia"
+   ],
+   "ans": 0,
+   "exp": "Trichobezoar: 2° to trichophagy. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-168",
+   "sec": "Trichobezoar",
+   "page": 169,
+   "q": "A patient with a trichobezoar additionally requires:",
+   "opts": [
+    "Psychiatric referral",
+    "Long term PPI therapy",
+    "Iron supplementation",
+    "Gastrectomy"
+   ],
+   "ans": 0,
+   "exp": "Trichobezoar: psychiatric reference required. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-169",
+   "sec": "Trichobezoar",
+   "page": 169,
+   "q": "Clinical features of a trichobezoar include:",
+   "opts": [
+    "Gastric outlet obstruction, vomiting and pain",
+    "Haematemesis alone",
+    "Diarrhoea",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: gastric outlet obstruction, vomiting, pain. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-170",
+   "sec": "Trichobezoar",
+   "page": 169,
+   "q": "Rapunzel syndrome refers to:",
+   "opts": [
+    "Duodenal extension of the trichobezoar",
+    "Gastric outlet obstruction alone",
+    "Multiple bezoars in the stomach",
+    "Perforation of the stomach by a bezoar"
+   ],
+   "ans": 0,
+   "exp": "Rapunzel syndrome: duodenal extension of the trichobezoar. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-171",
+   "sec": "Trichobezoar",
+   "page": 169,
+   "q": "A small trichobezoar is removed:",
+   "opts": [
+    "Endoscopically",
+    "By laparotomy",
+    "By enzymatic dissolution",
+    "By prokinetics"
+   ],
+   "ans": 0,
+   "exp": "Removal: small size - endoscopically. (Book p169)"
+  },
+  {
+   "id": "SURG-C24-172",
+   "sec": "Trichobezoar",
+   "page": 169,
+   "q": "A large trichobezoar is removed:",
+   "opts": [
+    "Surgically",
+    "Endoscopically",
+    "By enzymatic dissolution",
+    "By prokinetics"
+   ],
+   "ans": 0,
+   "exp": "Removal: large size - surgically. (Book p169)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U24-1",
+   "ch": 24,
+   "n": 1,
+   "title": "Gastric Cancer: Risk Factors",
+   "sec": "Gastric Cancer: Risk Factors · p161",
+   "qs": [
+    "SURG-C24-001",
+    "SURG-C24-002",
+    "SURG-C24-003",
+    "SURG-C24-004",
+    "SURG-C24-005",
+    "SURG-C24-006",
+    "SURG-C24-007",
+    "SURG-C24-008",
+    "SURG-C24-009",
+    "SURG-C24-010",
+    "SURG-C24-011"
+   ],
+   "guide": "Gastric cancer tracks the usual suspects: smoking, alcohol, smoked and preservative-rich food (refrigeration protects), adenomatous polyps - the true ones that come with FAP and the APC gene - gastritis of both types, H. pylori, group A blood, Menetrier's hypertrophic folds and, years later, the stump of a previous gastric resection. Remember that the commonest gastric polyp is the innocent metaplastic one."
+  },
+  {
+   "id": "SURG-U24-2",
+   "ch": 24,
+   "n": 2,
+   "title": "Lauren Classification: Intestinal v/s Diffuse",
+   "sec": "Lauren Classification: Intestinal v/s Diffuse · p161",
+   "qs": [
+    "SURG-C24-012",
+    "SURG-C24-013",
+    "SURG-C24-014",
+    "SURG-C24-015",
+    "SURG-C24-016",
+    "SURG-C24-017",
+    "SURG-C24-018",
+    "SURG-C24-019",
+    "SURG-C24-020",
+    "SURG-C24-021",
+    "SURG-C24-022"
+   ],
+   "guide": "Lauren splits adenocarcinoma into intestinal and diffuse. Intestinal is environmental - gastric atrophy and intestinal metaplasia, older men, glands on HPE, haematogenous spread, driven by microsatellite instability and APC mutations. Diffuse is familial, blood group A, younger women, poorly differentiated with signet ring cells, decreased E-cadherin and transmural/lymphatic spread."
+  },
+  {
+   "id": "SURG-U24-3",
+   "ch": 24,
+   "n": 3,
+   "title": "Early & Advanced Gastric Cancer: Japanese and Bormann",
+   "sec": "Early & Advanced Gastric Cancer: Japanese and Bormann · p162",
+   "qs": [
+    "SURG-C24-023",
+    "SURG-C24-024",
+    "SURG-C24-025",
+    "SURG-C24-026",
+    "SURG-C24-027",
+    "SURG-C24-028",
+    "SURG-C24-029",
+    "SURG-C24-030",
+    "SURG-C24-031",
+    "SURG-C24-032",
+    "SURG-C24-033",
+    "SURG-C24-034",
+    "SURG-C24-035"
+   ],
+   "guide": "Early gastric cancer stops above the muscularis propria and is typed by the Japanese classification (I polypoid, IIa elevated, IIb flat, IIc depressed, III excavated) - and it carries the best prognosis. Once muscle is involved you switch to Bormann: I polypoid/fungating, II fungating or ulcerated with raised borders, III ulcerated and infiltrating, IV linitis plastica - the leather bottle stomach, most aggressive and worst of all - and V for whatever cannot be classified."
+  },
+  {
+   "id": "SURG-U24-4",
+   "ch": 24,
+   "n": 4,
+   "title": "Molecular Classification of Gastric Cancer",
+   "sec": "Molecular Classification of Gastric Cancer · p162",
+   "qs": [
+    "SURG-C24-036",
+    "SURG-C24-037",
+    "SURG-C24-038",
+    "SURG-C24-039"
+   ],
+   "guide": "The molecular classification adds four more labels: chromosomal instability travels with intestinal pathology and the best prognosis, microsatellite instability, genomically stable disease with diffuse pathology and the worst prognosis, and the Epstein-Barr virus subgroup."
+  },
+  {
+   "id": "SURG-U24-5",
+   "ch": 24,
+   "n": 5,
+   "title": "Clinical Features: the LOADS Mnemonic",
+   "sec": "Clinical Features: the LOADS Mnemonic · p162",
+   "qs": [
+    "SURG-C24-040",
+    "SURG-C24-041",
+    "SURG-C24-042",
+    "SURG-C24-043",
+    "SURG-C24-044",
+    "SURG-C24-045"
+   ],
+   "guide": "Clinical features are recalled with LOADS - Lump, gastric Outlet obstruction, Anaemia and anorexia, Dyspepsia that is really new onset GERD, and the Silent presentation that lets an advanced tumour hide."
+  },
+  {
+   "id": "SURG-U24-6",
+   "ch": 24,
+   "n": 6,
+   "title": "Metastatic Signs in Gastric Cancer",
+   "sec": "Metastatic Signs in Gastric Cancer · p163",
+   "qs": [
+    "SURG-C24-046",
+    "SURG-C24-047",
+    "SURG-C24-048",
+    "SURG-C24-049",
+    "SURG-C24-050",
+    "SURG-C24-051",
+    "SURG-C24-052",
+    "SURG-C24-053",
+    "SURG-C24-054",
+    "SURG-C24-055",
+    "SURG-C24-056",
+    "SURG-C24-057",
+    "SURG-C24-058",
+    "SURG-C24-059",
+    "SURG-C24-060",
+    "SURG-C24-061",
+    "SURG-C24-062"
+   ],
+   "guide": "Know the named metastases: Sister Mary Joseph's periumbilical nodule (stomach more than ovary), Krukenberg's bilateral ovarian deposits full of signet ring cells (spread now thought to be retrograde lymphatic, not transcoelomic drop), Blummer's shelf in the pouch of Douglas felt on digital rectal examination, Virchow's left supraclavicular node via the thoracic duct, Irish's left axillary node, Trousseau's migratory thrombophlebitis (pancreas is the classic) and the skin clues - Leser-Trelat's seborrheic keratoses and tripe palms."
+  },
+  {
+   "id": "SURG-U24-7",
+   "ch": 24,
+   "n": 7,
+   "title": "Investigations in Gastric Cancer",
+   "sec": "Investigations in Gastric Cancer · p163",
+   "qs": [
+    "SURG-C24-063",
+    "SURG-C24-064",
+    "SURG-C24-065",
+    "SURG-C24-066",
+    "SURG-C24-067",
+    "SURG-C24-068"
+   ],
+   "guide": "Investigations split by question: endoscopic biopsy makes the diagnosis and shows a friable mass, endoscopic ultrasound gives T and N, and PET-CT does the overall staging. The antrum is still the commonest site worldwide, though the West is seeing more proximal tumours."
+  },
+  {
+   "id": "SURG-U24-8",
+   "ch": 24,
+   "n": 8,
+   "title": "TNM Classification of Gastric Cancer",
+   "sec": "TNM Classification of Gastric Cancer · p164",
+   "qs": [
+    "SURG-C24-069",
+    "SURG-C24-070",
+    "SURG-C24-071",
+    "SURG-C24-072",
+    "SURG-C24-073",
+    "SURG-C24-074",
+    "SURG-C24-075",
+    "SURG-C24-076",
+    "SURG-C24-077",
+    "SURG-C24-078",
+    "SURG-C24-079"
+   ],
+   "guide": "TNM runs Tis in the lamina propria, T1a lamina propria, T1b submucosa, T2 muscularis propria, T3 into subserosal connective tissue but not through the visceral peritoneum, and T4 into serosa or adjacent structures. Do not forget the minimum nodal harvest - 15 for gastric and esophageal, 10 for breast, 12 for colorectal - and that the liver is where these tumours metastasise first."
+  },
+  {
+   "id": "SURG-U24-9",
+   "ch": 24,
+   "n": 9,
+   "title": "Surgical Management of Gastric Cancer",
+   "sec": "Surgical Management of Gastric Cancer · p164",
+   "qs": [
+    "SURG-C24-080",
+    "SURG-C24-081",
+    "SURG-C24-082",
+    "SURG-C24-083",
+    "SURG-C24-084",
+    "SURG-C24-085",
+    "SURG-C24-086",
+    "SURG-C24-087"
+   ],
+   "guide": "Surgery is one limb of multimodality treatment: aim for a 5 cm proximal margin and the pylorus distally, and call it R0 only when there is microscopic freedom from disease. Total gastrectomy is reconstructed with a circular-stapled esophagojejunostomy; Siewert III tumours get a subtotal gastrectomy (60-70% of the stomach) and distal lesions a distal gastrectomy (about 30%)."
+  },
+  {
+   "id": "SURG-U24-10",
+   "ch": 24,
+   "n": 10,
+   "title": "Japanese Lymph Node Stations and D1/D2 Clearance",
+   "sec": "Japanese Lymph Node Stations and D1/D2 Clearance · p165",
+   "qs": [
+    "SURG-C24-088",
+    "SURG-C24-089",
+    "SURG-C24-090",
+    "SURG-C24-091",
+    "SURG-C24-092",
+    "SURG-C24-093",
+    "SURG-C24-094",
+    "SURG-C24-095",
+    "SURG-C24-096",
+    "SURG-C24-097",
+    "SURG-C24-098"
+   ],
+   "guide": "Clearance follows the numbered Japanese stations - 1 right and 2 left paracardial, 3 lesser and 4 greater curvature, 5 supra- and 6 infrapyloric, 7 left gastric, 8 common hepatic, 9 coeliac, 10 splenic hilum, 11 splenic artery, 12 hepatoduodenal, 13 retropancreatic. D1 takes stations 1-6; D2, the optimum, takes 1-11."
+  },
+  {
+   "id": "SURG-U24-11",
+   "ch": 24,
+   "n": 11,
+   "title": "Chemotherapy, Radiotherapy & Newer Modalities",
+   "sec": "Chemotherapy, Radiotherapy & Newer Modalities · p165",
+   "qs": [
+    "SURG-C24-099",
+    "SURG-C24-100",
+    "SURG-C24-101",
+    "SURG-C24-102",
+    "SURG-C24-103",
+    "SURG-C24-104",
+    "SURG-C24-105",
+    "SURG-C24-106",
+    "SURG-C24-107",
+    "SURG-C24-108",
+    "SURG-C24-109",
+    "SURG-C24-110"
+   ],
+   "guide": "Chemotherapy with 5-FU and cisplatin is used for node-positive, bulky node, T3/T4 and muscle-invasive disease, and as neoadjuvant treatment for bulky nodes. Radiotherapy is aimed at the stomach bed to cut loco-regional recurrence. In metastatic disease the newer tools are pembrolizumab and nivolumab, trastuzumab for HER2 neu, and oral S-1 - a fluoropyrimidine propped up by the enzyme inhibitors oteracil and gimeracil. Overall prognosis follows depth of invasion, but once a tumour is operable the nodes decide."
+  },
+  {
+   "id": "SURG-U24-12",
+   "ch": 24,
+   "n": 12,
+   "title": "GIST: Origin, Types and Associations",
+   "sec": "GIST: Origin, Types and Associations · p166",
+   "qs": [
+    "SURG-C24-111",
+    "SURG-C24-112",
+    "SURG-C24-113",
+    "SURG-C24-114",
+    "SURG-C24-115",
+    "SURG-C24-116"
+   ],
+   "guide": "GIST comes from the interstitial pacemaker cells of Cajal and likes the stomach. Sporadic disease is the rule; the familial forms are Carney's triad (gastric GIST, paraganglioma, pulmonary chondroma) and Carney-Stratakis syndrome, whose succinate dehydrogenase B mutation makes the tumour primarily resistant to imatinib."
+  },
+  {
+   "id": "SURG-U24-13",
+   "ch": 24,
+   "n": 13,
+   "title": "GIST: Presentation, Spread and Investigations",
+   "sec": "GIST: Presentation, Spread and Investigations · p166",
+   "qs": [
+    "SURG-C24-117",
+    "SURG-C24-118",
+    "SURG-C24-119",
+    "SURG-C24-120",
+    "SURG-C24-121",
+    "SURG-C24-122",
+    "SURG-C24-123",
+    "SURG-C24-124"
+   ],
+   "guide": "GIST usually announces itself with upper GI bleeding; it spreads locally and through blood to the liver, and nodes are involved in under 10%, so lymph node clearance is not mandatory. CECT is the radiological investigation of choice, PET-CT monitors treatment and picks up recurrence, and the biopsy is reported by the Fletcher classification - benign, intermediate or malignant - judged on size and mitotic figures."
+  },
+  {
+   "id": "SURG-U24-14",
+   "ch": 24,
+   "n": 14,
+   "title": "GIST: Immunohistochemistry and Treatment",
+   "sec": "GIST: Immunohistochemistry and Treatment · p167",
+   "qs": [
+    "SURG-C24-125",
+    "SURG-C24-126",
+    "SURG-C24-127",
+    "SURG-C24-128",
+    "SURG-C24-129",
+    "SURG-C24-130",
+    "SURG-C24-131",
+    "SURG-C24-132"
+   ],
+   "guide": "On immunohistochemistry c-KIT (CD117) is positive in over 90%, CD34 in 60-70%, and DOG-1 is the most specific marker; wild type tumours lack CD117, CD34 and PDGFRα. Benign and borderline tumours only need a wedge resection with a 1-2 cm margin; malignant or metastatic disease gets surgery plus imatinib, with sunitinib or sorafenib once imatinib fails."
+  },
+  {
+   "id": "SURG-U24-15",
+   "ch": 24,
+   "n": 15,
+   "title": "Gastric Lymphoma",
+   "sec": "Gastric Lymphoma · p167",
+   "qs": [
+    "SURG-C24-133",
+    "SURG-C24-134",
+    "SURG-C24-135",
+    "SURG-C24-136",
+    "SURG-C24-137",
+    "SURG-C24-138",
+    "SURG-C24-139",
+    "SURG-C24-140",
+    "SURG-C24-141",
+    "SURG-C24-142"
+   ],
+   "guide": "A stomach involved by lymphoma is far more often part of a generalised process than a primary gastric lymphoma. Primary disease is non-Hodgkin B-cell, usually DLBCL, and presents with bleeding, pain, a lump and B symptoms - fever, night sweats, pruritus and weight loss. Endoscopic biopsy diagnoses it, R-CHOP (rituximab against CD20, cyclophosphamide, hydroxydaunorubicin, oncovin and prednisolone) treats it, and surgery is kept for residual or recurrent disease."
+  },
+  {
+   "id": "SURG-U24-16",
+   "ch": 24,
+   "n": 16,
+   "title": "MALToma (Mucosa Associated Lymphoid Tissue)",
+   "sec": "MALToma (Mucosa Associated Lymphoid Tissue) · p168",
+   "qs": [
+    "SURG-C24-143",
+    "SURG-C24-144",
+    "SURG-C24-145",
+    "SURG-C24-146",
+    "SURG-C24-147"
+   ],
+   "guide": "MALToma - mucosa associated lymphoid tissue lymphoma - usually sits in the stomach and follows H. pylori. Eradicate the organism for low grade disease; once it is high grade, treat it like any lymphoma with R-CHOP."
+  },
+  {
+   "id": "SURG-U24-17",
+   "ch": 24,
+   "n": 17,
+   "title": "Gastric Volvulus: Types and Features",
+   "sec": "Gastric Volvulus: Types and Features · p168",
+   "qs": [
+    "SURG-C24-148",
+    "SURG-C24-149",
+    "SURG-C24-150",
+    "SURG-C24-151",
+    "SURG-C24-152",
+    "SURG-C24-153",
+    "SURG-C24-154",
+    "SURG-C24-155",
+    "SURG-C24-156",
+    "SURG-C24-157",
+    "SURG-C24-158",
+    "SURG-C24-159",
+    "SURG-C24-160"
+   ],
+   "guide": "Gastric volvulus is usually organoaxial: the stomach twists along its long axis, the line joining cardia and pylorus, it is the longitudinal pattern, it accompanies a rolling hiatal hernia and it strangles. Mesenteroaxial volvulus is vertical, the stomach folding on itself so the greater curvature swings over the lesser; it is chronic, intermittent and rarely has a diaphragmatic defect. Borchardt's triad is retching, pain and the Ryle's tube that will not go in. CECT for the stable patient, contrast study for the unstable - look for the cascade sign."
+  },
+  {
+   "id": "SURG-U24-18",
+   "ch": 24,
+   "n": 18,
+   "title": "Management of Gastric Volvulus",
+   "sec": "Management of Gastric Volvulus · p169",
+   "qs": [
+    "SURG-C24-161",
+    "SURG-C24-162",
+    "SURG-C24-163",
+    "SURG-C24-164",
+    "SURG-C24-165"
+   ],
+   "guide": "Treatment is an exploratory laparotomy. If the stomach is still viable, de-rotate it, fix it with a gastropexy and repair the diaphragmatic defect; if it is not, resect and reconstruct."
+  },
+  {
+   "id": "SURG-U24-19",
+   "ch": 24,
+   "n": 19,
+   "title": "Trichobezoar",
+   "sec": "Trichobezoar · p169",
+   "qs": [
+    "SURG-C24-166",
+    "SURG-C24-167",
+    "SURG-C24-168",
+    "SURG-C24-169",
+    "SURG-C24-170",
+    "SURG-C24-171",
+    "SURG-C24-172"
+   ],
+   "guide": "A trichobezoar is a hairball in the stomach from trichophagy, and these patients need a psychiatric referral as much as an operation. It obstructs the outlet, causes vomiting and pain, and when the tail runs into the duodenum it is called Rapunzel syndrome. Small ones come out endoscopically; large ones need surgery."
+  }
+ ]
+}
