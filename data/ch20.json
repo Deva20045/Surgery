@@ -1,0 +1,1996 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C20-001",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "Esophageal candidiasis is associated with:",
+   "opts": [
+    "Oral thrush",
+    "Herpes labialis",
+    "Graft versus host disease",
+    "Corkscrew esophagus"
+   ],
+   "ans": 0,
+   "exp": "Esophageal candidiasis: associated with oral thrush, seen in immunocompromised patients. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-002",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "Endoscopy in esophageal candidiasis shows:",
+   "opts": [
+    "Shaggy deposits",
+    "Geographical ulcers",
+    "Small ulcers with raised margins",
+    "Corkscrew appearance"
+   ],
+   "ans": 0,
+   "exp": "Investigations: endoscopy shows shaggy deposits. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-003",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "Barium swallow in esophageal candidiasis shows:",
+   "opts": [
+    "Worm like ulcers",
+    "Corkscrew appearance",
+    "Bird beak appearance",
+    "Rosary bead appearance"
+   ],
+   "ans": 0,
+   "exp": "Barium swallow in candidiasis: worm like ulcers. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-004",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "The treatment of esophageal candidiasis is:",
+   "opts": [
+    "Antifungals",
+    "Acyclovir",
+    "Ganciclovir",
+    "Proton pump inhibitors alone"
+   ],
+   "ans": 0,
+   "exp": "Management of esophageal candidiasis: antifungals. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-005",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "CMV esophagitis is typically seen in:",
+   "opts": [
+    "Post transplant patients on immunosuppressants",
+    "Healthy young adults",
+    "Patients with achalasia",
+    "Patients with Zenker's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "CMV: post transplant (immunosuppressants). (Book p135)"
+  },
+  {
+   "id": "SURG-C20-006",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "CMV esophagitis is associated with:",
+   "opts": [
+    "Graft versus host disease",
+    "Herpes labialis",
+    "Oral thrush",
+    "Barrett's esophagus"
+   ],
+   "ans": 0,
+   "exp": "CMV: associated with GvHD (graft versus host disease). (Book p135)"
+  },
+  {
+   "id": "SURG-C20-007",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "The endoscopic appearance of CMV esophagitis is:",
+   "opts": [
+    "Geographical / serpiginous ulcers",
+    "Shaggy white deposits",
+    "Small ulcers with raised margins",
+    "Linear furrows"
+   ],
+   "ans": 0,
+   "exp": "CMV appearance: geographical / serpiginous ulcers. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-008",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "Herpes esophagitis is associated with:",
+   "opts": [
+    "Herpes labialis",
+    "Oral thrush",
+    "Graft versus host disease",
+    "Food allergies"
+   ],
+   "ans": 0,
+   "exp": "Herpes infection: associated with herpes labialis. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-009",
+   "sec": "Esophageal Infections",
+   "page": 135,
+   "q": "The endoscopic appearance of herpes esophagitis is:",
+   "opts": [
+    "Small ulcers with raised margins",
+    "Large geographical ulcers",
+    "Shaggy deposits",
+    "Cobblestone mucosa"
+   ],
+   "ans": 0,
+   "exp": "Herpes infection: small ulcers with raised margins. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-010",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "Feline esophagus (stacked up transverse folds) is seen in:",
+   "opts": [
+    "GERD and eosinophilic esophagitis",
+    "Achalasia cardia",
+    "Barrett's esophagus",
+    "Zenker's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Feline esophagus: seen in GERD and eosinophilic esophagitis. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-011",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "The site of feline esophagus is the:",
+   "opts": [
+    "Upper one third of the esophagus",
+    "Lower one third",
+    "Whole esophagus",
+    "Gastroesophageal junction only"
+   ],
+   "ans": 0,
+   "exp": "Feline esophagus: site is the upper 1/3rd, with a stacked up appearance. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-012",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "The m/c cause of changes in the lower one third in this context is:",
+   "opts": [
+    "GERD",
+    "Eosinophilic esophagitis",
+    "Candidiasis",
+    "Scleroderma"
+   ],
+   "ans": 0,
+   "exp": "Lower 1/3rd changes: m/c cause is GERD. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-013",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "Eosinophilic esophagitis is a:",
+   "opts": [
+    "Chronic immune mediated disease with esophageal dysfunction",
+    "Acute infective esophagitis",
+    "Congenital motility disorder",
+    "Complication of Barrett's esophagus"
+   ],
+   "ans": 0,
+   "exp": "Eosinophilic esophagitis: chronic immune mediated disease with esophageal dysfunction. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-014",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "Eosinophilic esophagitis is initiated by food antigens leading to:",
+   "opts": [
+    "Eosinophilia and fibrosis",
+    "Neutrophilic infiltration only",
+    "Caseating granulomas",
+    "Mucosal calcification"
+   ],
+   "ans": 0,
+   "exp": "Food antigen initiation: eosinophilia and fibrosis. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-015",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "The peak age of presentation of eosinophilic esophagitis is:",
+   "opts": [
+    "20-30 years",
+    "1-5 years",
+    "60-70 years",
+    "Above 80 years"
+   ],
+   "ans": 0,
+   "exp": "Peak age: 20-30 years. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-016",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "Endoscopic findings in eosinophilic esophagitis include all of the following EXCEPT:",
+   "opts": [
+    "Bird beak appearance",
+    "Crepe paper mucosa",
+    "Furrows",
+    "Rings"
+   ],
+   "ans": 0,
+   "exp": "Endoscopy: crepe paper mucosa, furrows, rings. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-017",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 135,
+   "q": "The diagnostic criterion on biopsy in eosinophilic esophagitis is:",
+   "opts": [
+    "Eosinophilia > 15-20 eosinophils per HPF",
+    "Neutrophils > 50 per HPF",
+    "Lymphocytes > 20 per HPF",
+    "Presence of granulomas"
+   ],
+   "ans": 0,
+   "exp": "Biopsy (taken from 2 fields): eosinophilia > 15-20 eosinophils/HPF. (Book p135)"
+  },
+  {
+   "id": "SURG-C20-018",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 136,
+   "q": "The goals of treatment of eosinophilic esophagitis are:",
+   "opts": [
+    "Reduce eosinophilia and control symptoms",
+    "Eradicate Helicobacter pylori",
+    "Restore peristalsis by myotomy",
+    "Dilate the stricture endoscopically"
+   ],
+   "ans": 0,
+   "exp": "Goal: reduce eosinophilia, control symptoms. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-019",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis",
+   "page": 136,
+   "q": "Treatment options for eosinophilic esophagitis include:",
+   "opts": [
+    "Topical steroids and proton pump inhibitors",
+    "Systemic antifungals",
+    "Antivirals",
+    "Botulinum toxin injection"
+   ],
+   "ans": 0,
+   "exp": "Treatment: topical steroids and PPIs. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-020",
+   "sec": "Motility Disorders: Chicago 4.0 & HRM Metrics",
+   "page": 136,
+   "q": "The Chicago 4.0 classification of esophageal motility disorders is based on:",
+   "opts": [
+    "High resolution manometry",
+    "Barium swallow",
+    "Endoscopy",
+    "24 hour pH monitoring"
+   ],
+   "ans": 0,
+   "exp": "Chicago 4.0: based on high resolution manometry (HRM). (Book p136)"
+  },
+  {
+   "id": "SURG-C20-021",
+   "sec": "Motility Disorders: Chicago 4.0 & HRM Metrics",
+   "page": 136,
+   "q": "An elevated integrated relaxation pressure (IRP) above normal indicates:",
+   "opts": [
+    "Lack of LES relaxation",
+    "Excessive LES relaxation",
+    "Hypercontractile peristalsis",
+    "Esophageal shortening"
+   ],
+   "ans": 0,
+   "exp": "IRP elevated above normal defines lack of LES relaxation. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-022",
+   "sec": "Motility Disorders: Chicago 4.0 & HRM Metrics",
+   "page": 136,
+   "q": "The distal contractile integral (DCI) measures:",
+   "opts": [
+    "Strength of distal esophageal contraction",
+    "Resting LES pressure",
+    "Length of the esophagus",
+    "Gastric emptying"
+   ],
+   "ans": 0,
+   "exp": "DCI (mmHg-s-cm): amplitude x duration x length of the distal esophageal contraction - measures strength. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-023",
+   "sec": "Motility Disorders: Chicago 4.0 & HRM Metrics",
+   "page": 136,
+   "q": "A decreased distal latency (< 4.5 sec) indicates:",
+   "opts": [
+    "A spastic esophageal motor disorder",
+    "Achalasia type II",
+    "Normal peristalsis",
+    "Ineffective swallowing"
+   ],
+   "ans": 0,
+   "exp": "Decreased DL (< 4.5 sec) is an indicator of a spastic esophageal motor disorder. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-024",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "The m/c esophageal motility disorder is:",
+   "opts": [
+    "Achalasia cardia",
+    "Diffuse esophageal spasm",
+    "Nutcracker esophagus",
+    "Ineffective esophageal motility"
+   ],
+   "ans": 0,
+   "exp": "Achalasia cardia: m/c motility disorder, with increased risk of squamous cell carcinoma of the esophagus. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-025",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "Achalasia cardia is characterised by:",
+   "opts": [
+    "Failure of the lower esophageal sphincter to relax",
+    "Excessive LES relaxation",
+    "Absence of the esophagus",
+    "Hypertrophy of the cricopharyngeus"
+   ],
+   "ans": 0,
+   "exp": "Achalasia: failure of LES to relax. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-026",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "The pathophysiology of achalasia cardia is loss of ganglion cells in the:",
+   "opts": [
+    "Myenteric (Auerbach's) plexus of the lower half of the esophagus",
+    "Submucosal (Meissner's) plexus of the whole esophagus",
+    "Dorsal motor nucleus of the vagus",
+    "Celiac ganglion"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology: loss of ganglion cells in the myenteric/Auerbach plexus (lower half). (Book p136)"
+  },
+  {
+   "id": "SURG-C20-027",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "Hirschsprung disease, quoted alongside achalasia, is due to:",
+   "opts": [
+    "Congenital absence of ganglion cells",
+    "Hypertrophy of ganglion cells",
+    "Viral destruction of ganglion cells",
+    "Autoimmune ganglionitis"
+   ],
+   "ans": 0,
+   "exp": "Hirschsprung disease: congenital absence of ganglion cells. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-028",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "Primary achalasia is due to:",
+   "opts": [
+    "Loss of ganglion cells",
+    "Chaga's disease",
+    "Malignancy",
+    "Radiation"
+   ],
+   "ans": 0,
+   "exp": "1 degree achalasia: loss of ganglion cells. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-029",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "Secondary achalasia is classically due to:",
+   "opts": [
+    "Chaga's disease (Trypanosoma cruzi)",
+    "Herpes infection",
+    "Candidiasis",
+    "Tuberculosis"
+   ],
+   "ans": 0,
+   "exp": "2 degrees achalasia: secondary to Chaga's disease (Trypanosoma cruzi). (Book p136)"
+  },
+  {
+   "id": "SURG-C20-030",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "Vigorous achalasia is:",
+   "opts": [
+    "Rapidly progressive",
+    "Asymptomatic",
+    "A variant of Zenker's diverticulum",
+    "Due to malignancy"
+   ],
+   "ans": 0,
+   "exp": "Vigorous achalasia: rapidly progressive. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-031",
+   "sec": "Achalasia Cardia: Pathophysiology & Types",
+   "page": 136,
+   "q": "Pseudoachalasia is associated with:",
+   "opts": [
+    "Malignancy",
+    "Chaga's disease",
+    "GERD",
+    "Candidiasis"
+   ],
+   "ans": 0,
+   "exp": "Pseudoachalasia: associated with malignancy. (Book p136)"
+  },
+  {
+   "id": "SURG-C20-032",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "In achalasia cardia, dysphagia is typically:",
+   "opts": [
+    "Initially for liquids more than solids",
+    "Only for solids",
+    "Only for bread",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Dysphagia: initially liquids > solids (solids relax the sphincter by their weight). (Book p137)"
+  },
+  {
+   "id": "SURG-C20-033",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "The earliest feature of achalasia cardia is:",
+   "opts": [
+    "Regurgitation",
+    "Weight loss",
+    "Chest pain",
+    "Hematemesis"
+   ],
+   "ans": 0,
+   "exp": "Regurgitation: earliest feature. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-034",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "Other clinical features of achalasia include all of the following EXCEPT:",
+   "opts": [
+    "Hematemesis",
+    "Nocturnal coughing",
+    "Post prandial choking",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "Other features: nocturnal coughing, post prandial choking, weight loss. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-035",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "The m/c complication of achalasia cardia is:",
+   "opts": [
+    "Aspiration pneumonia",
+    "Esophageal carcinoma",
+    "Liver abscess",
+    "Perforation"
+   ],
+   "ans": 0,
+   "exp": "Complications: aspiration pneumonia (m/c), lung abscess. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-036",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "The investigation of choice for achalasia cardia is:",
+   "opts": [
+    "Manometry",
+    "Barium swallow",
+    "Upper GI endoscopy",
+    "CT chest"
+   ],
+   "ans": 0,
+   "exp": "Manometry: IOC; shows increased IRP and failure of LES relaxation. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-037",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "Endoscopy in a patient with suspected achalasia is done to:",
+   "opts": [
+    "Rule out cancer",
+    "Measure pressures",
+    "Perform dilatation",
+    "Take a biopsy of the plexus"
+   ],
+   "ans": 0,
+   "exp": "Endoscopy: rule out cancer. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-038",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "The barium swallow appearance in achalasia cardia is:",
+   "opts": [
+    "Bird beak appearance",
+    "Corkscrew appearance",
+    "Rosary bead appearance",
+    "Worm like ulcers"
+   ],
+   "ans": 0,
+   "exp": "Barium swallow: bird beak appearance. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-039",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "Chicago type I achalasia is characterised by:",
+   "opts": [
+    "100% failed peristalsis with absent peristalsis",
+    "Panesophageal pressurisation in >= 20% swallows",
+    "Premature spastic contractions in >= 20% swallows",
+    "Normal peristalsis with high DCI"
+   ],
+   "ans": 0,
+   "exp": "Type I: elevated median IRP with 100% failed peristalsis. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-040",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "Chicago type II achalasia shows:",
+   "opts": [
+    "Panesophageal pressurisation in >= 20% of swallows",
+    "Premature spastic contractions in >= 20% of swallows",
+    "Normal peristalsis",
+    "Absent contractions with normal IRP"
+   ],
+   "ans": 0,
+   "exp": "Type II: 100% failed peristalsis with panesophageal pressurisation (POP) in >= 20% swallows. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-041",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "Chicago type III achalasia shows:",
+   "opts": [
+    ">= 20% swallows with premature (spastic) contractions",
+    "Panesophageal pressurisation in all swallows",
+    "Normal peristalsis",
+    "Absent IRP"
+   ],
+   "ans": 0,
+   "exp": "Type III: >= 20% swallows with premature contractions - spastic. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-042",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "The Eckardt score for achalasia includes all of the following EXCEPT:",
+   "opts": [
+    "Hematemesis",
+    "Weight loss",
+    "Dysphagia",
+    "Retrosternal pain"
+   ],
+   "ans": 0,
+   "exp": "Eckardt score: 4 parameters - weight loss, dysphagia, retrosternal pain, regurgitation. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-043",
+   "sec": "Achalasia: Features, Investigations & Chicago Types",
+   "page": 137,
+   "q": "Each parameter of the Eckardt score is scored from:",
+   "opts": [
+    "0-3",
+    "0-1",
+    "1-10",
+    "0-100"
+   ],
+   "ans": 0,
+   "exp": "Each parameter of the Eckardt score is scored 0-3. (Book p137)"
+  },
+  {
+   "id": "SURG-C20-044",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "Botulinum toxin injection in achalasia causes relaxation; its main drawback is:",
+   "opts": [
+    "Highest rate of recurrence",
+    "Highest risk of perforation",
+    "Severe bleeding",
+    "Permanent fibrosis of the esophagus"
+   ],
+   "ans": 0,
+   "exp": "Botox: causes relaxation; adverse effects - highest rate of recurrence. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-045",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "Repeated administration of botulinum toxin in achalasia leads to:",
+   "opts": [
+    "Fibrosis",
+    "Malignant transformation",
+    "Complete cure",
+    "Stricture formation"
+   ],
+   "ans": 0,
+   "exp": "Repeat administration of botox: fibrosis. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-046",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "Botulinum toxin is preferred in:",
+   "opts": [
+    "Elderly patients with co-morbidities",
+    "Young patients with type III achalasia",
+    "Patients with Chaga's disease",
+    "Patients with Barrett's esophagus"
+   ],
+   "ans": 0,
+   "exp": "Indications for botox: elderly patients with co-morbidities. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-047",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "Serial pneumatic balloon dilatations in achalasia have efficacy:",
+   "opts": [
+    "Similar to surgical myotomy",
+    "Far superior to surgery",
+    "Far inferior to botox",
+    "Only in type III disease"
+   ],
+   "ans": 0,
+   "exp": "Serial dilatations: similar efficacy to surgical myotomy. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-048",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "The best responders to pneumatic dilatation in achalasia are:",
+   "opts": [
+    "Patients > 45 years, females, previously undilated esophagus and type II achalasia",
+    "Children with type III disease",
+    "Patients with prior Heller's myotomy",
+    "Patients with pseudoachalasia"
+   ],
+   "ans": 0,
+   "exp": "Best responders: > 45 years, females, previously undilated esophagus, type 2 achalasia. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-049",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "The risk of perforation during pneumatic dilatation is reduced by using a balloon:",
+   "opts": [
+    "< 30 mm",
+    "> 40 mm",
+    "Exactly 35 mm",
+    "Any size - size makes no difference"
+   ],
+   "ans": 0,
+   "exp": "Risk of perforation is reduced with balloon < 30 mm. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-050",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "Heller's myotomy involves cutting the muscle:",
+   "opts": [
+    "6 cm proximal and 2-3 cm distal to the gastroesophageal junction",
+    "Only 1 cm above the GE junction",
+    "The whole length of the esophagus",
+    "Only the circular muscle of the stomach"
+   ],
+   "ans": 0,
+   "exp": "Heller's myotomy: cut muscle 6 cm proximal and 2-3 cm distal to the GE junction. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-051",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "The m/c complication of Heller's myotomy is:",
+   "opts": [
+    "GERD",
+    "Dysphagia",
+    "Perforation",
+    "Bleeding"
+   ],
+   "ans": 0,
+   "exp": "Surgical myotomy: m/c complication is GERD (prevented by fundoplication). (Book p138)"
+  },
+  {
+   "id": "SURG-C20-052",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "GERD after Heller's myotomy is prevented by:",
+   "opts": [
+    "Adding a fundoplication",
+    "Giving botox",
+    "Postoperative dilatation",
+    "Total parenteral nutrition"
+   ],
+   "ans": 0,
+   "exp": "GERD after myotomy is prevented by fundoplication. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-053",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "POEM (per oral endoscopic myotomy) is a type of:",
+   "opts": [
+    "NOTES procedure",
+    "Laparoscopic surgery",
+    "Open thoracotomy",
+    "Radiological intervention"
+   ],
+   "ans": 0,
+   "exp": "POEM: per oral endoscopic myotomy - a type of NOTES procedure. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-054",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "During POEM the layer removed is the:",
+   "opts": [
+    "Circular muscle layer",
+    "Longitudinal muscle layer",
+    "Mucosa",
+    "Serosa"
+   ],
+   "ans": 0,
+   "exp": "POEM: remove the circular muscle layer then close the mucosal entry/tunnel. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-055",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "Which achalasia types respond best to surgery (myotomy)?",
+   "opts": [
+    "Type I and type II",
+    "Type III only",
+    "Pseudoachalasia only",
+    "Vigorous achalasia only"
+   ],
+   "ans": 0,
+   "exp": "Surgical outcome: type 1 and 2 respond best; type 3 and other spastic conditions respond less well. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-056",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "The preferred management of type I achalasia is:",
+   "opts": [
+    "Heller's myotomy",
+    "Pneumatic dilation",
+    "POEM alone",
+    "Botulinum toxin"
+   ],
+   "ans": 0,
+   "exp": "Best management: type 1 - Heller's myotomy; type 2 - pneumatic dilation; type 3 - POEM. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-057",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "The preferred management of type II achalasia is:",
+   "opts": [
+    "Pneumatic dilation",
+    "Heller's myotomy",
+    "Botulinum toxin",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Best management: type 2 - pneumatic dilation. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-058",
+   "sec": "Achalasia: Management",
+   "page": 138,
+   "q": "The preferred management of type III achalasia is:",
+   "opts": [
+    "POEM",
+    "Pneumatic dilation",
+    "Botulinum toxin",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Best management: type 3 - POEM. (Book p138)"
+  },
+  {
+   "id": "SURG-C20-059",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "Diffuse esophageal spasm is:",
+   "opts": [
+    "Less common than achalasia",
+    "More common than achalasia",
+    "The m/c motility disorder",
+    "Seen only in children"
+   ],
+   "ans": 0,
+   "exp": "DES: symptoms less common than achalasia. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-060",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "Diffuse esophageal spasm is a motor abnormality of the:",
+   "opts": [
+    "Esophageal body (lower two thirds)",
+    "Upper esophageal sphincter only",
+    "Cricopharyngeus",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "DES: motor abnormality of the esophageal body (lower 2/3rd). (Book p139)"
+  },
+  {
+   "id": "SURG-C20-061",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "Manometry in diffuse esophageal spasm shows contractions that are:",
+   "opts": [
+    "Repetitive, simultaneous and of high amplitude (raised DCI)",
+    "Absent with a high IRP",
+    "Normal in amplitude but slow",
+    "Confined to the UES"
+   ],
+   "ans": 0,
+   "exp": "DES contractions: repetitive, simultaneous and high amplitude (increased DCI). (Book p139)"
+  },
+  {
+   "id": "SURG-C20-062",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "Acid reflux in diffuse esophageal spasm is:",
+   "opts": [
+    "Negative",
+    "The dominant feature",
+    "Universal",
+    "The cause of the spasm"
+   ],
+   "ans": 0,
+   "exp": "DES: acid reflux is negative. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-063",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "The presenting features of diffuse esophageal spasm are:",
+   "opts": [
+    "Chest pain (angina like) and dysphagia",
+    "Hematemesis and melena",
+    "Jaundice and fever",
+    "Hoarseness and stridor"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: chest pain (angina like) and dysphagia. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-064",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "Diffuse esophageal spasm is more common in:",
+   "opts": [
+    "Females",
+    "Males",
+    "Children",
+    "The elderly only"
+   ],
+   "ans": 0,
+   "exp": "DES: females > males. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-065",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "The barium swallow appearance in diffuse esophageal spasm is:",
+   "opts": [
+    "Rosary bead / corkscrew appearance",
+    "Bird beak appearance",
+    "Worm like ulcers",
+    "Apple core lesion"
+   ],
+   "ans": 0,
+   "exp": "Barium swallow in DES: rosary bead / corkscrew appearance. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-066",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "The confirmatory investigation for diffuse esophageal spasm is:",
+   "opts": [
+    "Manometry",
+    "Barium swallow",
+    "ECG",
+    "Endoscopy"
+   ],
+   "ans": 0,
+   "exp": "Investigations: ECG to rule out angina, barium swallow, manometry is confirmatory. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-067",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "In a patient with angina-like chest pain, the first investigation to be done is:",
+   "opts": [
+    "ECG to rule out angina",
+    "Manometry",
+    "Barium swallow",
+    "Coronary angiography"
+   ],
+   "ans": 0,
+   "exp": "ECG: rule out angina before attributing chest pain to esophageal spasm. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-068",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "Treatment of diffuse esophageal spasm includes all of the following EXCEPT:",
+   "opts": [
+    "Botulinum toxin as first line",
+    "POEM - very good response",
+    "Calcium channel blockers",
+    "Nitrates"
+   ],
+   "ans": 0,
+   "exp": "Treatment: POEM gives a very good response; calcium channel blockers and nitrates are used. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-069",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "page": 139,
+   "q": "A patient with chest pain resembling angina but normal cardiac enzymes is evaluated with:",
+   "opts": [
+    "ECG followed by manometry",
+    "Immediate coronary angiography",
+    "Laparoscopy",
+    "CT brain"
+   ],
+   "ans": 0,
+   "exp": "Approach: chest pain similar to angina with normal cardiac enzymes - ECG, then manometry. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-070",
+   "sec": "Esophageal Diverticulae",
+   "page": 139,
+   "q": "Zenker's diverticulum is located in the:",
+   "opts": [
+    "Upper esophagus",
+    "Mid esophagus",
+    "Lower esophagus",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Types: upper esophageal (Zenker's), mid esophageal (para-bronchial), lower esophageal (epiphrenic). (Book p139)"
+  },
+  {
+   "id": "SURG-C20-071",
+   "sec": "Esophageal Diverticulae",
+   "page": 139,
+   "q": "The mid esophageal or para-bronchial diverticulum is:",
+   "opts": [
+    "The only true diverticulum (contains all layers)",
+    "A false diverticulum",
+    "A traction diverticulum caused by candida",
+    "Always malignant"
+   ],
+   "ans": 0,
+   "exp": "Mid esophageal (para-bronchial): traction, only true diverticulum of the esophagus (all layers). (Book p139)"
+  },
+  {
+   "id": "SURG-C20-072",
+   "sec": "Esophageal Diverticulae",
+   "page": 139,
+   "q": "Mid esophageal traction diverticulae are associated with:",
+   "opts": [
+    "Tuberculosis and histoplasmosis",
+    "Chaga's disease",
+    "Scleroderma",
+    "Barrett's esophagus"
+   ],
+   "ans": 0,
+   "exp": "Mid esophageal diverticulum: TB, histoplasmosis. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-073",
+   "sec": "Esophageal Diverticulae",
+   "page": 139,
+   "q": "Epiphrenic diverticula are located:",
+   "opts": [
+    "In the lower esophagus close to the diaphragm",
+    "In the upper esophagus",
+    "At the cricopharyngeus",
+    "In the gastric fundus"
+   ],
+   "ans": 0,
+   "exp": "Lower esophageal (epiphrenic): pulsion, false diverticulum, close to the diaphragm. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-074",
+   "sec": "Esophageal Diverticulae",
+   "page": 139,
+   "q": "The mechanism of formation of Zenker's and epiphrenic diverticula is:",
+   "opts": [
+    "Pulsion from increased intraluminal pressure",
+    "Traction from outside",
+    "Congenital weakness",
+    "Ischaemic necrosis"
+   ],
+   "ans": 0,
+   "exp": "Zenker's and epiphrenic: pulsion (increased pressure) - false diverticula. (Book p139)"
+  },
+  {
+   "id": "SURG-C20-075",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Zenker's diverticulum is also known as:",
+   "opts": [
+    "Cricopharyngeal achalasia",
+    "Boerhaave syndrome",
+    "Mallory Weiss syndrome",
+    "Schatzki ring"
+   ],
+   "ans": 0,
+   "exp": "Zenker's diverticulum: AKA cricopharyngeal achalasia. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-076",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Zenker's diverticulum carries an increased risk of:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Leiomyoma",
+    "Melanoma"
+   ],
+   "ans": 0,
+   "exp": "Zenker's diverticulum: increased risk of squamous cell carcinoma. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-077",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Zenker's diverticulum herniates through:",
+   "opts": [
+    "Killian's dehiscence between thyropharyngeus and cricopharyngeus",
+    "The diaphragmatic hiatus",
+    "The cricothyroid membrane",
+    "The esophageal hiatus"
+   ],
+   "ans": 0,
+   "exp": "Outpouches through Killian's dehiscence - the potential space between thyropharyngeus and cricopharyngeus. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-078",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Zenker's diverticulum begins in the midline posteriorly and finally lies:",
+   "opts": [
+    "To the left of the midline",
+    "To the right of the midline",
+    "In the midline anteriorly",
+    "In the posterior triangle"
+   ],
+   "ans": 0,
+   "exp": "Begins midline posteriorly; final position is to the left of the midline. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-079",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "The earliest symptom of Zenker's diverticulum is:",
+   "opts": [
+    "Regurgitation",
+    "Dysphagia",
+    "Hematemesis",
+    "Hoarseness"
+   ],
+   "ans": 0,
+   "exp": "Regurgitation is the earliest symptom; also halitosis and dysphagia. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-080",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Halitosis (bad oral odour) is a recognised feature of:",
+   "opts": [
+    "Zenker's diverticulum",
+    "Achalasia cardia",
+    "Schatzki ring",
+    "Barrett's esophagus"
+   ],
+   "ans": 0,
+   "exp": "Halitosis (bad oral odor) is a feature of Zenker's diverticulum. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-081",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Regurgitation of food in Zenker's diverticulum is relieved when the patient:",
+   "opts": [
+    "Shifts position",
+    "Lies flat",
+    "Drinks cold water",
+    "Holds the breath"
+   ],
+   "ans": 0,
+   "exp": "Food in the diverticulum causes regurgitation; patients shift position to relieve it. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-082",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "The m/c complication of Zenker's diverticulum is:",
+   "opts": [
+    "Aspiration pneumonia",
+    "Perforation",
+    "Hemorrhage",
+    "Stricture"
+   ],
+   "ans": 0,
+   "exp": "Complications: aspiration pneumonia (m/c), lung abscess. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-083",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "The investigation of choice for Zenker's diverticulum is:",
+   "opts": [
+    "Barium swallow",
+    "CT scan",
+    "Manometry",
+    "Endoscopy"
+   ],
+   "ans": 0,
+   "exp": "IOC: barium swallow. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-084",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Surgery for Zenker's diverticulum is indicated for:",
+   "opts": [
+    "Large (> 2 cm) and symptomatic diverticula",
+    "All asymptomatic diverticula",
+    "Diverticula smaller than 5 mm",
+    "Only when carcinoma is proven"
+   ],
+   "ans": 0,
+   "exp": "Management: large (> 2 cm) and symptomatic - surgery. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-085",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "Surgical treatment of Zenker's diverticulum combines diverticulectomy with:",
+   "opts": [
+    "Cricopharyngeal myotomy",
+    "Fundoplication",
+    "Total esophagectomy",
+    "Heller's myotomy"
+   ],
+   "ans": 0,
+   "exp": "Surgery: diverticulectomy (linear stapler > LASER) with cricopharyngeal myotomy - reduces recurrence. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-086",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "The additional procedure that reduces recurrence after diverticulectomy is:",
+   "opts": [
+    "Cricopharyngeal myotomy",
+    "Fundoplication",
+    "Pyloroplasty",
+    "Gastrostomy"
+   ],
+   "ans": 0,
+   "exp": "Cricopharyngeal myotomy added to diverticulectomy reduces recurrence. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-087",
+   "sec": "Zenker's Diverticulum",
+   "page": 140,
+   "q": "The endoscopic option for Zenker's diverticulum is:",
+   "opts": [
+    "Endoscopic diverticulopexy with cricopharyngeal myotomy",
+    "Endoscopic dilatation alone",
+    "Endoscopic mucosal resection",
+    "Endoscopic sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Management: endoscopic diverticulopexy with cricopharyngeal myotomy. (Book p140)"
+  },
+  {
+   "id": "SURG-C20-088",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "The m/c type of hiatal hernia is:",
+   "opts": [
+    "Type I sliding hiatal hernia",
+    "Type II rolling hernia",
+    "Type III mixed hernia",
+    "Type IV hernia"
+   ],
+   "ans": 0,
+   "exp": "Sliding hiatal hernia: type I and the m/c type. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-089",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "The pathophysiology of a sliding hiatal hernia is:",
+   "opts": [
+    "Upward sliding of the gastroesophageal junction",
+    "Herniation of the fundus with a normal GE junction",
+    "Herniation of the colon through the hiatus",
+    "Defect in the pleural space"
+   ],
+   "ans": 0,
+   "exp": "Sliding hernia: upward sliding of the GE junction. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-090",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "Sliding hiatal hernias are:",
+   "opts": [
+    "Asymptomatic or present with GERD and are not life threatening",
+    "Always life threatening",
+    "Always associated with volvulus",
+    "Always surgical emergencies"
+   ],
+   "ans": 0,
+   "exp": "Sliding hernia: asymptomatic or GERD; not life threatening. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-091",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "The investigation of choice for a hiatal hernia is:",
+   "opts": [
+    "CT with oral contrast",
+    "Plain X-ray abdomen",
+    "Ultrasound",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Investigations: CT with oral contrast is the IOC; barium swallow also used. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-092",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "Symptomatic or large sliding hiatal hernias are treated by:",
+   "opts": [
+    "Fundoplication",
+    "Observation alone",
+    "Gastrectomy",
+    "Total parenteral nutrition"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic or large sliding hernia: fundoplication. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-093",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "A rolling / paraesophageal hernia is a:",
+   "opts": [
+    "Type II hernia",
+    "Type I hernia",
+    "Type III hernia",
+    "Type IV hernia"
+   ],
+   "ans": 0,
+   "exp": "Rolling / paraesophageal hernia: type II. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-094",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "In a rolling hernia the portion of stomach herniates into the thoracic cavity through the hiatal opening while the:",
+   "opts": [
+    "GE junction remains normal",
+    "GE junction slides upwards",
+    "Esophagus shortens",
+    "Fundus remains intra-abdominal"
+   ],
+   "ans": 0,
+   "exp": "Rolling hernia: part of stomach herniates into the thoracic cavity; GE junction is normal. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-095",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "A rolling / paraesophageal hernia is dangerous because the herniated part may undergo:",
+   "opts": [
+    "Volvulus and necrosis",
+    "Malignant transformation",
+    "Calcification",
+    "Intussusception"
+   ],
+   "ans": 0,
+   "exp": "Complications of rolling hernia: volvulus/necrosis - life threatening. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-096",
+   "sec": "Hiatal Hernia",
+   "page": 141,
+   "q": "The management of a rolling / paraesophageal hernia is:",
+   "opts": [
+    "Surgery",
+    "Observation",
+    "Proton pump inhibitors alone",
+    "Endoscopic dilatation"
+   ],
+   "ans": 0,
+   "exp": "Rolling hernia: management is surgery. (Book p141)"
+  },
+  {
+   "id": "SURG-C20-097",
+   "sec": "Hiatal Hernia",
+   "page": 142,
+   "q": "A type III hiatal hernia is:",
+   "opts": [
+    "Mixed sliding and rolling",
+    "A paraesophageal hernia with contents other than stomach",
+    "A pure sliding hernia",
+    "A congenital diaphragmatic hernia"
+   ],
+   "ans": 0,
+   "exp": "Type III: mixed sliding + rolling; management governed by the rolling component. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-098",
+   "sec": "Hiatal Hernia",
+   "page": 142,
+   "q": "A type IV hiatal hernia is:",
+   "opts": [
+    "Paraesophageal hernia with contents other than the stomach",
+    "A pure sliding hernia",
+    "A mixed sliding and rolling hernia",
+    "A traumatic diaphragmatic rupture"
+   ],
+   "ans": 0,
+   "exp": "Type IV: paraesophageal hernia with content other than the stomach. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-099",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "The m/c type of esophageal perforation is:",
+   "opts": [
+    "Iatrogenic",
+    "Spontaneous",
+    "Traumatic",
+    "Foreign body related"
+   ],
+   "ans": 0,
+   "exp": "Esophageal perforation types: iatrogenic (m/c) and spontaneous. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-100",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "Iatrogenic esophageal perforation is m/c located in the:",
+   "opts": [
+    "Upper one third of the esophagus",
+    "Lower one third",
+    "Mid esophagus",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Iatrogenic: post endoscopy; site upper 1/3rd (m/c). (Book p142)"
+  },
+  {
+   "id": "SURG-C20-101",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "Risk factors for iatrogenic esophageal perforation include all of the following EXCEPT:",
+   "opts": [
+    "Diagnostic upperGI endoscopy alone in a normal esophagus",
+    "Therapeutic endoscopy",
+    "Lack of skill",
+    "Endoscopy in cancer"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: therapeutic endoscopy, lack of skill, endoscopy in cancer. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-102",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "The typical presentation of iatrogenic esophageal perforation is:",
+   "opts": [
+    "Chest pain after endoscopy",
+    "Hematemesis after endoscopy",
+    "Hoarseness after endoscopy",
+    "Asymptomatic presentation"
+   ],
+   "ans": 0,
+   "exp": "C/F: chest pain after endoscopy. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-103",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "The investigation of choice for esophageal perforation is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray",
+    "Barium swallow",
+    "Endoscopy"
+   ],
+   "ans": 0,
+   "exp": "Ix: CECT is the IOC. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-104",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "In a stable patient with a small iatrogenic perforation, management includes all of the following EXCEPT:",
+   "opts": [
+    "Blind NG tube insertion",
+    "Endoscopic sealing with clips or SEMS",
+    "IV fluids",
+    "IV antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Stable patient / small perforation: endoscopic sealing with clips or SEMS, IV fluids, IV antibiotics, pain management; no blind NG tube as it increases perforation. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-105",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "Self expanding metallic stents (SEMS) in esophageal perforation are used to:",
+   "opts": [
+    "Seal the perforation endoscopically",
+    "Dilate a stricture",
+    "Measure pressures",
+    "Deliver radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Endoscopic sealing with clips or SEMS (self expanding metallic stent). (Book p142)"
+  },
+  {
+   "id": "SURG-C20-106",
+   "sec": "Iatrogenic Esophageal Perforation",
+   "page": 142,
+   "q": "A large perforation or a patient with sepsis is managed by:",
+   "opts": [
+    "Surgical repair",
+    "Discharge with oral antibiotics",
+    "Observation alone",
+    "Endoscopic dilatation"
+   ],
+   "ans": 0,
+   "exp": "Large perforation or sepsis: surgical repair. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-107",
+   "sec": "Boerhaave Syndrome",
+   "page": 142,
+   "q": "Spontaneous esophageal perforation is also known as:",
+   "opts": [
+    "Boerhaave syndrome",
+    "Mallory Weiss syndrome",
+    "Plummer-Vinson syndrome",
+    "Zollinger-Ellison syndrome"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous perforation: AKA Boerhaave syndrome. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-108",
+   "sec": "Boerhaave Syndrome",
+   "page": 142,
+   "q": "Spontaneous esophageal perforation occurs in the:",
+   "opts": [
+    "Lower one third, left posterolateral wall",
+    "Upper one third, anterior wall",
+    "Mid esophagus, right wall",
+    "Cervical esophagus"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous: site lower 1/3rd (left posterolateral wall). (Book p142)"
+  },
+  {
+   "id": "SURG-C20-109",
+   "sec": "Boerhaave Syndrome",
+   "page": 142,
+   "q": "The classic history in Boerhaave syndrome is:",
+   "opts": [
+    "Vomiting against a closed glottis in an alcoholic",
+    "Swallowing a fish bone",
+    "Chronic heartburn",
+    "Blunt chest trauma"
+   ],
+   "ans": 0,
+   "exp": "History: vomiting against a closed glottis; typically an alcoholic. (Book p142)"
+  },
+  {
+   "id": "SURG-C20-110",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "Mackler's triad of Boerhaave syndrome includes all of the following EXCEPT:",
+   "opts": [
+    "Hemoptysis",
+    "Chest pain",
+    "Retching",
+    "Subcutaneous emphysema"
+   ],
+   "ans": 0,
+   "exp": "Mackler's triad: chest pain, retching, subcutaneous emphysema (crackling on soft tissue palpation). (Book p143)"
+  },
+  {
+   "id": "SURG-C20-111",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "Hamman's crunch is heard in:",
+   "opts": [
+    "Boerhaave syndrome on auscultation of the heart",
+    "Achalasia cardia",
+    "Zenker's diverticulum",
+    "Barrett's esophagus"
+   ],
+   "ans": 0,
+   "exp": "O/E: Hamman's crunch on auscultation of the heart (surgical emphysema). (Book p143)"
+  },
+  {
+   "id": "SURG-C20-112",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "A Mallory Weiss tear differs from Boerhaave syndrome in that the pathology is:",
+   "opts": [
+    "A split in mucosa +/- submucosa without perforation",
+    "A full thickness perforation",
+    "A muscular tear of the stomach",
+    "A rupture of the diaphragm"
+   ],
+   "ans": 0,
+   "exp": "Mallory Weiss: split in mucosa +/- submucosal layers; Boerhaave: perforation. (Book p143)"
+  },
+  {
+   "id": "SURG-C20-113",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "Mallory Weiss syndrome presents with:",
+   "opts": [
+    "Upper GI haemorrhage",
+    "Mackler's triad",
+    "Subcutaneous emphysema",
+    "Peritonitis"
+   ],
+   "ans": 0,
+   "exp": "Mallory Weiss tear: upper GI hemorrhage; Boerhaave: Mackler's triad. (Book p143)"
+  },
+  {
+   "id": "SURG-C20-114",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "In an unstable patient with suspected Boerhaave syndrome, the investigation done is:",
+   "opts": [
+    "Contrast study with iohexol (safer than barium if there is a leak)",
+    "Barium swallow",
+    "MRI",
+    "Manometry"
+   ],
+   "ans": 0,
+   "exp": "Unstable: contrast study (iohexol > diatrizoate) - safer than barium in case of leak through the perforation. (Book p143)"
+  },
+  {
+   "id": "SURG-C20-115",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "Naclerio's V sign on chest X-ray is seen in:",
+   "opts": [
+    "Boerhaave syndrome (pneumomediastinum)",
+    "Achalasia cardia",
+    "Schatzki ring",
+    "Hiatal hernia"
+   ],
+   "ans": 0,
+   "exp": "X-ray: pneumomediastinum, Naclerio's V sign, pleural effusion. (Book p143)"
+  },
+  {
+   "id": "SURG-C20-116",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "The objectives of management of esophageal perforation are:",
+   "opts": [
+    "To seal the perforation and provide adequate drainage",
+    "To resect the whole esophagus",
+    "To dilate the esophagus",
+    "To perform a gastrostomy only"
+   ],
+   "ans": 0,
+   "exp": "Objectives: seal the perforation, adequate drainage. (Book p143)"
+  },
+  {
+   "id": "SURG-C20-117",
+   "sec": "Boerhaave Syndrome",
+   "page": 143,
+   "q": "Management options for large or unstable esophageal perforations include all of the following EXCEPT:",
+   "opts": [
+    "Immediate primary anastomosis of the two ends",
+    "Cervical esophagostomy",
+    "T-tube placement and repair",
+    "Gastrostomy with delayed reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Unstable/large: cervical esophagostomy, T-tube placement and repair, esophagostomy plus gastrostomy and delayed anastomosis of the two ends. (Book p143)"
+  },
+  {
+   "id": "SURG-C20-118",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "page": 144,
+   "q": "A Schatzki ring is predominantly composed of:",
+   "opts": [
+    "Mucosa (mucosal much more than submucosal)",
+    "Muscle",
+    "Fibrous tissue",
+    "Cartilage"
+   ],
+   "ans": 0,
+   "exp": "Schatzki ring: mucosal >>> submucosal ring. (Book p144)"
+  },
+  {
+   "id": "SURG-C20-119",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "page": 144,
+   "q": "The site of a Schatzki ring is the:",
+   "opts": [
+    "Lower esophagus",
+    "Upper esophagus",
+    "Mid esophagus",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Site: lower esophagus. (Book p144)"
+  },
+  {
+   "id": "SURG-C20-120",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "page": 144,
+   "q": "The typical symptom of a Schatzki ring is:",
+   "opts": [
+    "Intermittent, non-progressive dysphagia",
+    "Progressive dysphagia with weight loss",
+    "Hematemesis",
+    "Odynophagia with fever"
+   ],
+   "ans": 0,
+   "exp": "C/F: intermittent, non-progressive dysphagia. (Book p144)"
+  },
+  {
+   "id": "SURG-C20-121",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "page": 144,
+   "q": "The investigation of choice for a Schatzki ring is:",
+   "opts": [
+    "Barium swallow",
+    "Manometry",
+    "CT scan",
+    "Endoscopic ultrasound"
+   ],
+   "ans": 0,
+   "exp": "Ix: IOC is barium swallow. (Book p144)"
+  },
+  {
+   "id": "SURG-C20-122",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "page": 144,
+   "q": "The treatment of a Schatzki ring is:",
+   "opts": [
+    "Balloon dilatation",
+    "Esophagectomy",
+    "Fundoplication",
+    "Botulinum toxin"
+   ],
+   "ans": 0,
+   "exp": "Treatment: balloon dilatation. (Book p144)"
+  },
+  {
+   "id": "SURG-C20-123",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "page": 144,
+   "q": "The C ring described in the lower esophageal rings is associated with:",
+   "opts": [
+    "Sliding hiatal hernia",
+    "Barrett's esophagus",
+    "Achalasia",
+    "Zenker's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "C ring: associated with sliding hiatal hernia. (Book p144)"
+  },
+  {
+   "id": "SURG-C20-124",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "page": 144,
+   "q": "Dysphagia lusoria is caused by:",
+   "opts": [
+    "Esophageal compression by an aberrant right subclavian artery",
+    "A stricture after corrosive ingestion",
+    "Achalasia cardia",
+    "An esophageal web"
+   ],
+   "ans": 0,
+   "exp": "Dysphagia lusoria: esophageal compression due to an aberrant (right) subclavian artery. (Book p144)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U20-1",
+   "ch": 20,
+   "n": 1,
+   "title": "Esophageal Infections",
+   "sec": "Esophageal Infections · p135",
+   "qs": [
+    "SURG-C20-001",
+    "SURG-C20-002",
+    "SURG-C20-003",
+    "SURG-C20-004",
+    "SURG-C20-005",
+    "SURG-C20-006",
+    "SURG-C20-007",
+    "SURG-C20-008",
+    "SURG-C20-009"
+   ],
+   "guide": "Three infective esophagitides, three looks: candida in the immunocompromised with oral thrush gives shaggy white deposits and worm-like ulcers on barium (treat with antifungals); CMV after transplant or with GvHD gives large geographical/serpiginous ulcers; herpes, with herpes labialis, gives small ulcers with raised margins."
+  },
+  {
+   "id": "SURG-U20-2",
+   "ch": 20,
+   "n": 2,
+   "title": "Feline Esophagus & Eosinophilic Esophagitis",
+   "sec": "Feline Esophagus & Eosinophilic Esophagitis · p135",
+   "qs": [
+    "SURG-C20-010",
+    "SURG-C20-011",
+    "SURG-C20-012",
+    "SURG-C20-013",
+    "SURG-C20-014",
+    "SURG-C20-015",
+    "SURG-C20-016",
+    "SURG-C20-017",
+    "SURG-C20-018",
+    "SURG-C20-019"
+   ],
+   "guide": "Feline esophagus - stacked transverse folds in the upper third - is the endoscopic signature of eosinophilic esophagitis (and GERD, which dominates the lower third). Eosinophilic esophagitis is a chronic immune-mediated, food-antigen-driven disease of young adults (20-30 years) showing crepe-paper mucosa, furrows and rings, with > 15-20 eosinophils/HPF on biopsy; treat with topical steroids and PPIs to settle eosinophilia and symptoms."
+  },
+  {
+   "id": "SURG-U20-3",
+   "ch": 20,
+   "n": 3,
+   "title": "Motility Disorders: Chicago 4.0 & HRM Metrics",
+   "sec": "Motility Disorders: Chicago 4.0 & HRM Metrics · p136",
+   "qs": [
+    "SURG-C20-020",
+    "SURG-C20-021",
+    "SURG-C20-022",
+    "SURG-C20-023"
+   ],
+   "guide": "Chicago 4.0 classifies motility by high-resolution manometry using three numbers: IRP (raised when the LES will not relax), DCI (amplitude x duration x length - how strong the distal contraction is) and distal latency (below 4.5 s means a spastic disorder)."
+  },
+  {
+   "id": "SURG-U20-4",
+   "ch": 20,
+   "n": 4,
+   "title": "Achalasia Cardia: Pathophysiology & Types",
+   "sec": "Achalasia Cardia: Pathophysiology & Types · p136",
+   "qs": [
+    "SURG-C20-024",
+    "SURG-C20-025",
+    "SURG-C20-026",
+    "SURG-C20-027",
+    "SURG-C20-028",
+    "SURG-C20-029",
+    "SURG-C20-030",
+    "SURG-C20-031"
+   ],
+   "guide": "Achalasia - the commonest motility disorder and a premalignant one for squamous carcinoma - is failure of the LES to relax from loss of ganglion cells in Auerbach's plexus of the lower esophagus (the Hirschsprung analogy). Primary is idiopathic ganglion loss; secondary is Chaga's disease; vigorous is rapidly progressive; pseudoachalasia means an underlying malignancy."
+  },
+  {
+   "id": "SURG-U20-5",
+   "ch": 20,
+   "n": 5,
+   "title": "Achalasia: Features, Investigations & Chicago Types",
+   "sec": "Achalasia: Features, Investigations & Chicago Types · p137",
+   "qs": [
+    "SURG-C20-032",
+    "SURG-C20-033",
+    "SURG-C20-034",
+    "SURG-C20-035",
+    "SURG-C20-036",
+    "SURG-C20-037",
+    "SURG-C20-038",
+    "SURG-C20-039",
+    "SURG-C20-040",
+    "SURG-C20-041",
+    "SURG-C20-042",
+    "SURG-C20-043"
+   ],
+   "guide": "Dysphagia is paradoxically worse for liquids (solid food's own weight opens the sphincter), regurgitation comes first, then weight loss, nocturnal cough and post-prandial choking; aspiration pneumonia is the commonest complication. Manometry is the IOC (raised IRP, failed relaxation), endoscopy rules out cancer, barium shows the bird beak. Chicago: type I no peristalsis, type II panesophageal pressurisation in >= 20% of swallows, type III premature spastic contractions - severity scored by the 4-item Eckardt score (0-3 each)."
+  },
+  {
+   "id": "SURG-U20-6",
+   "ch": 20,
+   "n": 6,
+   "title": "Achalasia: Management",
+   "sec": "Achalasia: Management · p138",
+   "qs": [
+    "SURG-C20-044",
+    "SURG-C20-045",
+    "SURG-C20-046",
+    "SURG-C20-047",
+    "SURG-C20-048",
+    "SURG-C20-049",
+    "SURG-C20-050",
+    "SURG-C20-051",
+    "SURG-C20-052",
+    "SURG-C20-053",
+    "SURG-C20-054",
+    "SURG-C20-055",
+    "SURG-C20-056",
+    "SURG-C20-057",
+    "SURG-C20-058"
+   ],
+   "guide": "Three tools: botox (relaxes but recurs most, and repeat dosing fibroses - keep it for frail elderly patients), pneumatic dilatation (serial dilatations match myotomy; best in patients over 45, women, a virgin esophagus and type II disease; keep the balloon under 30 mm to limit perforation) and myotomy - Heller's (6 cm above and 2-3 cm below the junction, GERD is the usual price, so add a fundoplication) or POEM (NOTES, circular muscle only, more reflux). Type I prefers Heller's, type II dilatation, type III POEM."
+  },
+  {
+   "id": "SURG-U20-7",
+   "ch": 20,
+   "n": 7,
+   "title": "Diffuse Esophageal Spasm & Approach to Motility Disorders",
+   "sec": "Diffuse Esophageal Spasm & Approach to Motility Disorders · p139",
+   "qs": [
+    "SURG-C20-059",
+    "SURG-C20-060",
+    "SURG-C20-061",
+    "SURG-C20-062",
+    "SURG-C20-063",
+    "SURG-C20-064",
+    "SURG-C20-065",
+    "SURG-C20-066",
+    "SURG-C20-067",
+    "SURG-C20-068",
+    "SURG-C20-069"
+   ],
+   "guide": "Diffuse esophageal spasm is a body-of-esophagus disorder (lower two thirds), more often in women, with repetitive simultaneous high-amplitude contractions and no acid reflux: angina-like chest pain and dysphagia, corkscrew/rosary-bead barium, confirmed on manometry. Exclude angina with an ECG first; treat with calcium channel blockers or nitrates, and POEM responds very well."
+  },
+  {
+   "id": "SURG-U20-8",
+   "ch": 20,
+   "n": 8,
+   "title": "Esophageal Diverticulae",
+   "sec": "Esophageal Diverticulae · p139",
+   "qs": [
+    "SURG-C20-070",
+    "SURG-C20-071",
+    "SURG-C20-072",
+    "SURG-C20-073",
+    "SURG-C20-074"
+   ],
+   "guide": "Upper third Zenker's and lower third epiphrenic diverticula are pulsion false diverticula; only the mid-esophageal para-bronchial pouch is a true diverticulum containing all layers, dragged out by healed TB or histoplasmosis. Symptomatic or large ones go to surgery."
+  },
+  {
+   "id": "SURG-U20-9",
+   "ch": 20,
+   "n": 9,
+   "title": "Zenker's Diverticulum",
+   "sec": "Zenker's Diverticulum · p140",
+   "qs": [
+    "SURG-C20-075",
+    "SURG-C20-076",
+    "SURG-C20-077",
+    "SURG-C20-078",
+    "SURG-C20-079",
+    "SURG-C20-080",
+    "SURG-C20-081",
+    "SURG-C20-082",
+    "SURG-C20-083",
+    "SURG-C20-084",
+    "SURG-C20-085",
+    "SURG-C20-086",
+    "SURG-C20-087"
+   ],
+   "guide": "Zenker's - cricopharyngeal achalasia - pushes through Killian's dehiscence between thyropharyngeus and cricopharyngeus, starting in the posterior midline and ending up on the left; it raises squamous carcinoma risk. Regurgitation is the earliest symptom, halitosis the give-away, aspiration pneumonia the commonest complication; barium is the IOC, and surgery (diverticulectomy with a linear stapler, or endoscopic diverticulopexy) must be paired with cricopharyngeal myotomy or it comes back."
+  },
+  {
+   "id": "SURG-U20-10",
+   "ch": 20,
+   "n": 10,
+   "title": "Hiatal Hernia",
+   "sec": "Hiatal Hernia · p141",
+   "qs": [
+    "SURG-C20-088",
+    "SURG-C20-089",
+    "SURG-C20-090",
+    "SURG-C20-091",
+    "SURG-C20-092",
+    "SURG-C20-093",
+    "SURG-C20-094",
+    "SURG-C20-095",
+    "SURG-C20-096",
+    "SURG-C20-097",
+    "SURG-C20-098"
+   ],
+   "guide": "Type I sliding hernias slide the GE junction up, are usually silent or just reflux, and are not dangerous - operate (fundoplication) only if symptomatic or large. Type II rolling hernias send stomach alongside a normally positioned GE junction into the chest and can strangulate, so they are always repaired; type III is mixed (the rolling component dictates management) and type IV contains something other than stomach."
+  },
+  {
+   "id": "SURG-U20-11",
+   "ch": 20,
+   "n": 11,
+   "title": "Iatrogenic Esophageal Perforation",
+   "sec": "Iatrogenic Esophageal Perforation · p142",
+   "qs": [
+    "SURG-C20-099",
+    "SURG-C20-100",
+    "SURG-C20-101",
+    "SURG-C20-102",
+    "SURG-C20-103",
+    "SURG-C20-104",
+    "SURG-C20-105",
+    "SURG-C20-106"
+   ],
+   "guide": "Most perforations are iatrogenic and in the upper third - therapeutic endoscopy, inexperience and cancerous esophagus are the risks; suspect it when chest pain follows endoscopy, confirm with CECT. Small contained leaks in stable patients can be clipped or stented with IV fluids and antibiotics - but never pass a NG tube blind; large leaks or sepsis need surgical repair or T-tube drainage."
+  },
+  {
+   "id": "SURG-U20-12",
+   "ch": 20,
+   "n": 12,
+   "title": "Boerhaave Syndrome",
+   "sec": "Boerhaave Syndrome · p142",
+   "qs": [
+    "SURG-C20-107",
+    "SURG-C20-108",
+    "SURG-C20-109",
+    "SURG-C20-110",
+    "SURG-C20-111",
+    "SURG-C20-112",
+    "SURG-C20-113",
+    "SURG-C20-114",
+    "SURG-C20-115",
+    "SURG-C20-116",
+    "SURG-C20-117"
+   ],
+   "guide": "Boerhaave is bursting the lower third on the left posterolateral wall when an alcoholic vomits against a closed glottis: Mackler's triad of chest pain, retching and subcutaneous emphysema, Hamman's crunch over the heart, pneumomediastinum and Naclerio's V sign. Unlike a Mallory-Weiss mucosal split that bleeds, this is a full perforation - CT if stable, iohexol if unstable (it leaks more safely than barium), then seal the hole and drain."
+  },
+  {
+   "id": "SURG-U20-13",
+   "ch": 20,
+   "n": 13,
+   "title": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria",
+   "sec": "Other Esophageal Disorders: Schatzki Ring & Dysphagia Lusoria · p144",
+   "qs": [
+    "SURG-C20-118",
+    "SURG-C20-119",
+    "SURG-C20-120",
+    "SURG-C20-121",
+    "SURG-C20-122",
+    "SURG-C20-123",
+    "SURG-C20-124"
+   ],
+   "guide": "Schatzki's B ring is a thin mucosal ring low in the esophagus causing intermittent, non-progressive dysphagia - barium shows it and balloon dilatation fixes it (the C ring below is the one seen with a sliding hiatal hernia). Dysphagia lusoria is compression from an aberrant right subclavian artery."
+  }
+ ]
+}
