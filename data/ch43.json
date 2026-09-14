@@ -1,0 +1,2761 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C43-001",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The female urethra is approximately:",
+   "opts": [
+    "3–4 cm long",
+    "1 cm long",
+    "10–12 cm long",
+    "18–20 cm long"
+   ],
+   "ans": 0,
+   "exp": "3–4 cm long (Book p318)"
+  },
+  {
+   "id": "SURG-C43-002",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The short female urethra predisposes females to:",
+   "opts": [
+    "Urinary tract infection",
+    "Renal-cell carcinoma",
+    "Testicular torsion",
+    "Penile fracture"
+   ],
+   "ans": 0,
+   "exp": "Urinary tract infection (Book p318)"
+  },
+  {
+   "id": "SURG-C43-003",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The male urethra is approximately:",
+   "opts": [
+    "18–20 cm long",
+    "3–4 cm long",
+    "6–8 cm long",
+    "30–35 cm long"
+   ],
+   "ans": 0,
+   "exp": "18–20 cm long (Book p318)"
+  },
+  {
+   "id": "SURG-C43-004",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "Which part of the urethra is the most distensible?",
+   "opts": [
+    "Prostatic urethra",
+    "Membranous urethra",
+    "Bulbar urethra",
+    "External urinary meatus"
+   ],
+   "ans": 0,
+   "exp": "Prostatic urethra (Book p318)"
+  },
+  {
+   "id": "SURG-C43-005",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "Which part of the urethra is the shortest and least distensible?",
+   "opts": [
+    "Membranous urethra",
+    "Prostatic urethra",
+    "Bulbar urethra",
+    "Penile urethra"
+   ],
+   "ans": 0,
+   "exp": "Membranous urethra (Book p318)"
+  },
+  {
+   "id": "SURG-C43-006",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The membranous urethra pierces the:",
+   "opts": [
+    "Urogenital diaphragm",
+    "Pelvic diaphragm only",
+    "Tunica vaginalis",
+    "Superficial perineal fascia"
+   ],
+   "ans": 0,
+   "exp": "Urogenital diaphragm (Book p318)"
+  },
+  {
+   "id": "SURG-C43-007",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The bulbar urethra is characterized by a:",
+   "opts": [
+    "Bend",
+    "Valve at the bladder neck",
+    "Complete absence of erectile tissue",
+    "Connection to the renal pelvis"
+   ],
+   "ans": 0,
+   "exp": "Bend (Book p318)"
+  },
+  {
+   "id": "SURG-C43-008",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The longest portion of the male urethra is the:",
+   "opts": [
+    "Penile urethra",
+    "Membranous urethra",
+    "Prostatic urethra",
+    "Bulbar urethra"
+   ],
+   "ans": 0,
+   "exp": "Penile urethra (Book p318)"
+  },
+  {
+   "id": "SURG-C43-009",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The narrowest portion of the urethra is the:",
+   "opts": [
+    "External urinary meatus",
+    "Prostatic urethra",
+    "Bulbar urethra",
+    "Membranous urethra"
+   ],
+   "ans": 0,
+   "exp": "External urinary meatus (Book p318)"
+  },
+  {
+   "id": "SURG-C43-010",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "In a retrograde urethrogram, contrast is inserted through the:",
+   "opts": [
+    "Penis",
+    "Bladder by suprapubic puncture",
+    "Renal artery",
+    "Rectum"
+   ],
+   "ans": 0,
+   "exp": "Penis (Book p318)"
+  },
+  {
+   "id": "SURG-C43-011",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "A retrograde urethrogram primarily delineates the:",
+   "opts": [
+    "Distal urethra",
+    "Renal pelvis",
+    "Proximal ureter",
+    "Bladder dome"
+   ],
+   "ans": 0,
+   "exp": "Distal urethra (Book p318)"
+  },
+  {
+   "id": "SURG-C43-012",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The investigation performed in urethral trauma to delineate the urethral lumen is:",
+   "opts": [
+    "Retrograde urethrogram",
+    "HIDA scan",
+    "Barium enema",
+    "Plain skull radiograph"
+   ],
+   "ans": 0,
+   "exp": "Retrograde urethrogram (Book p318)"
+  },
+  {
+   "id": "SURG-C43-013",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "In a micturating cystourethrogram, dye is placed in the:",
+   "opts": [
+    "Bladder",
+    "Scrotum",
+    "Renal vein",
+    "Corpus cavernosum"
+   ],
+   "ans": 0,
+   "exp": "Bladder (Book p318)"
+  },
+  {
+   "id": "SURG-C43-014",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "A micturating cystourethrogram delineates the:",
+   "opts": [
+    "Proximal urethra",
+    "Distal urethra only",
+    "Renal calyces",
+    "Epididymis"
+   ],
+   "ans": 0,
+   "exp": "Proximal urethra (Book p318)"
+  },
+  {
+   "id": "SURG-C43-015",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "A micturating cystourethrogram is used to diagnose:",
+   "opts": [
+    "Vesicoureteric reflux",
+    "Varicocele",
+    "Peyronie's disease",
+    "Penile carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Vesicoureteric reflux (Book p318)"
+  },
+  {
+   "id": "SURG-C43-016",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The most superficial covering of the penis is the:",
+   "opts": [
+    "Skin",
+    "Buck's fascia",
+    "Tunica albuginea",
+    "Corpus spongiosum"
+   ],
+   "ans": 0,
+   "exp": "Skin (Book p318)"
+  },
+  {
+   "id": "SURG-C43-017",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The superficial fascia of the penis is also called:",
+   "opts": [
+    "Dartos fascia",
+    "Buck's fascia",
+    "Colles' ligament",
+    "Scarpa's fascia"
+   ],
+   "ans": 0,
+   "exp": "Dartos fascia (Book p318)"
+  },
+  {
+   "id": "SURG-C43-018",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The deep fascia of the penis is called:",
+   "opts": [
+    "Buck's fascia",
+    "Dartos fascia",
+    "Tunica vaginalis",
+    "Denonvilliers' fascia"
+   ],
+   "ans": 0,
+   "exp": "Buck's fascia (Book p318)"
+  },
+  {
+   "id": "SURG-C43-019",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "The erectile tissue that surrounds the urethra is the:",
+   "opts": [
+    "Corpus spongiosum",
+    "Corpus cavernosum",
+    "Tunica albuginea",
+    "Dartos fascia"
+   ],
+   "ans": 0,
+   "exp": "Corpus spongiosum (Book p318)"
+  },
+  {
+   "id": "SURG-C43-020",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings",
+   "page": 318,
+   "q": "Rupture of the tunica albuginea of the corpora cavernosa produces:",
+   "opts": [
+    "Fracture shaft of the penis",
+    "Hydrocele",
+    "Posterior urethral valve",
+    "Varicocele"
+   ],
+   "ans": 0,
+   "exp": "Fracture shaft of the penis (Book p318)"
+  },
+  {
+   "id": "SURG-C43-021",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Hypospadias is the most common:",
+   "opts": [
+    "Congenital urogenital anomaly",
+    "Acquired penile malignancy",
+    "Congenital renal tumour",
+    "Cause of adult hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Congenital urogenital anomaly (Book p319)"
+  },
+  {
+   "id": "SURG-C43-022",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "In hypospadias, the urethral opening is placed:",
+   "opts": [
+    "Ventrally",
+    "Dorsally",
+    "Laterally on the scrotum in every case",
+    "At the umbilicus"
+   ],
+   "ans": 0,
+   "exp": "Ventrally (Book p319)"
+  },
+  {
+   "id": "SURG-C43-023",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The incidence of hypospadias listed in the chapter is approximately:",
+   "opts": [
+    "1 in 450 live births",
+    "1 in 45 live births",
+    "1 in 4,500 live births",
+    "1 in 45,000 live births"
+   ],
+   "ans": 0,
+   "exp": "1 in 450 live births (Book p319)"
+  },
+  {
+   "id": "SURG-C43-024",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Hypospadias may be associated with:",
+   "opts": [
+    "Micropenis and an undescended testis",
+    "Macropenis and bilateral hydrocele only",
+    "Renal agenesis in every case",
+    "Female internal genitalia in every case"
+   ],
+   "ans": 0,
+   "exp": "Micropenis and an undescended testis (Book p319)"
+  },
+  {
+   "id": "SURG-C43-025",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "A downward-directed urinary stream in a child suggests:",
+   "opts": [
+    "Hypospadias",
+    "Varicocele",
+    "Hydrocele",
+    "Renal colic"
+   ],
+   "ans": 0,
+   "exp": "Hypospadias (Book p319)"
+  },
+  {
+   "id": "SURG-C43-026",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Chordee is defined as:",
+   "opts": [
+    "Downward bending of the penis",
+    "Dorsal displacement of the urethra",
+    "Torsion of the testis",
+    "Dilatation of the pampiniform plexus"
+   ],
+   "ans": 0,
+   "exp": "Downward bending of the penis (Book p319)"
+  },
+  {
+   "id": "SURG-C43-027",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Chordee is most prominent when the penis is:",
+   "opts": [
+    "Erect",
+    "Flaccid only",
+    "Inside the bladder",
+    "During renal ultrasonography"
+   ],
+   "ans": 0,
+   "exp": "Erect (Book p319)"
+  },
+  {
+   "id": "SURG-C43-028",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "A severe chordee can cause:",
+   "opts": [
+    "Difficulty with intercourse",
+    "Painless jaundice",
+    "Urinary stone formation only",
+    "Bilateral renal agenesis"
+   ],
+   "ans": 0,
+   "exp": "Difficulty with intercourse (Book p319)"
+  },
+  {
+   "id": "SURG-C43-029",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The severity of hypospadias is proportional to the:",
+   "opts": [
+    "Proximity of the meatus to the proximal penis",
+    "Length of the renal artery",
+    "Size of the testis only",
+    "Degree of gallbladder distension"
+   ],
+   "ans": 0,
+   "exp": "Proximity of the meatus to the proximal penis (Book p319)"
+  },
+  {
+   "id": "SURG-C43-030",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "A possible consequence of severe hypospadias is:",
+   "opts": [
+    "Infertility",
+    "Cannonball lung metastases",
+    "Biliary obstruction",
+    "Hydatid disease"
+   ],
+   "ans": 0,
+   "exp": "Infertility (Book p319)"
+  },
+  {
+   "id": "SURG-C43-031",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The mildest and most common form of hypospadias is:",
+   "opts": [
+    "Glanular hypospadias",
+    "Perineal hypospadias",
+    "Scrotal hypospadias",
+    "Penoscrotal hypospadias"
+   ],
+   "ans": 0,
+   "exp": "Glanular hypospadias (Book p319)"
+  },
+  {
+   "id": "SURG-C43-032",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The distal/anterior group of hypospadias includes:",
+   "opts": [
+    "Glanular, coronal and distal penile varieties",
+    "Only scrotal and perineal varieties",
+    "Only prostatic and membranous varieties",
+    "Only midshaft disease"
+   ],
+   "ans": 0,
+   "exp": "Glanular, coronal and distal penile varieties (Book p319)"
+  },
+  {
+   "id": "SURG-C43-033",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The middle group of hypospadias is represented by the:",
+   "opts": [
+    "Midshaft variety",
+    "Glanular variety",
+    "Perineal variety",
+    "Scrotal variety only"
+   ],
+   "ans": 0,
+   "exp": "Midshaft variety (Book p319)"
+  },
+  {
+   "id": "SURG-C43-034",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Which is a posterior/proximal form of hypospadias?",
+   "opts": [
+    "Perineal hypospadias",
+    "Glanular hypospadias",
+    "Coronal hypospadias",
+    "Distal penile hypospadias"
+   ],
+   "ans": 0,
+   "exp": "Perineal hypospadias (Book p319)"
+  },
+  {
+   "id": "SURG-C43-035",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The most severe form of hypospadias listed is:",
+   "opts": [
+    "Perineal hypospadias",
+    "Glanular hypospadias",
+    "Coronal hypospadias",
+    "Distal penile hypospadias"
+   ],
+   "ans": 0,
+   "exp": "Perineal hypospadias (Book p319)"
+  },
+  {
+   "id": "SURG-C43-036",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The treatment of clinically significant hypospadias is:",
+   "opts": [
+    "Surgery",
+    "Radiotherapy",
+    "Observation in every case",
+    "Antitubercular therapy"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p319)"
+  },
+  {
+   "id": "SURG-C43-037",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The usual timing of hypospadias repair is:",
+   "opts": [
+    "6–12 months of age",
+    "At 1 week of age",
+    "After 18 years of age",
+    "Only after infertility develops"
+   ],
+   "ans": 0,
+   "exp": "6–12 months of age (Book p319)"
+  },
+  {
+   "id": "SURG-C43-038",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Circumcision is avoided before hypospadias repair because the:",
+   "opts": [
+    "Foreskin may be needed for reconstruction",
+    "Foreskin causes renal failure",
+    "Foreskin prevents all chordee",
+    "Circumcision causes posterior urethral valves"
+   ],
+   "ans": 0,
+   "exp": "Foreskin may be needed for reconstruction (Book p319)"
+  },
+  {
+   "id": "SURG-C43-039",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The first principle of hypospadias repair is orthoplasty, which corrects:",
+   "opts": [
+    "Chordee",
+    "Hydronephrosis",
+    "A ureteric stone",
+    "A renal tumour"
+   ],
+   "ans": 0,
+   "exp": "Chordee (Book p319)"
+  },
+  {
+   "id": "SURG-C43-040",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Urethroplasty in hypospadias repair involves:",
+   "opts": [
+    "Resection and tubularization of the urethra",
+    "Excision of the kidney",
+    "Eversion of a hydrocele sac",
+    "Ligation of the renal vein"
+   ],
+   "ans": 0,
+   "exp": "Resection and tubularization of the urethra (Book p319)"
+  },
+  {
+   "id": "SURG-C43-041",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "Glanuloplasty means:",
+   "opts": [
+    "Reconstruction of the glans",
+    "Reconstruction of the bladder",
+    "Repair of the renal pelvis",
+    "Removal of the foreskin only"
+   ],
+   "ans": 0,
+   "exp": "Reconstruction of the glans (Book p319)"
+  },
+  {
+   "id": "SURG-C43-042",
+   "sec": "Hypospadias",
+   "page": 319,
+   "q": "The fourth principle of hypospadias repair is:",
+   "opts": [
+    "Skin cover",
+    "Lymph-node clearance",
+    "Ureteric reimplantation",
+    "Suprapubic cystolithotomy"
+   ],
+   "ans": 0,
+   "exp": "Skin cover (Book p319)"
+  },
+  {
+   "id": "SURG-C43-043",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "A listed repair for distal hypospadias is the:",
+   "opts": [
+    "Mathieu procedure",
+    "Fowler–Stephens procedure",
+    "Whipple procedure",
+    "Boari flap"
+   ],
+   "ans": 0,
+   "exp": "Mathieu procedure (Book p320)"
+  },
+  {
+   "id": "SURG-C43-044",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "A listed repair for mid hypospadias is:",
+   "opts": [
+    "Snodgrass/TIP repair",
+    "Jaboulay procedure",
+    "Politano–Leadbetter procedure",
+    "Radical nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Snodgrass/TIP repair (Book p320)"
+  },
+  {
+   "id": "SURG-C43-045",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "TIP in hypospadias surgery stands for:",
+   "opts": [
+    "Tubularized incised plate",
+    "Total internal penile excision",
+    "Transitional iliac procedure",
+    "Tunica implantation protocol"
+   ],
+   "ans": 0,
+   "exp": "Tubularized incised plate (Book p320)"
+  },
+  {
+   "id": "SURG-C43-046",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "A listed repair for proximal hypospadias is:",
+   "opts": [
+    "Thiersch–Duplay repair",
+    "Mathieu repair only",
+    "Lord's plication",
+    "Nesbit's procedure"
+   ],
+   "ans": 0,
+   "exp": "Thiersch–Duplay repair (Book p320)"
+  },
+  {
+   "id": "SURG-C43-047",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "The proximal hypospadias repair listed is a:",
+   "opts": [
+    "Two-stage repair",
+    "Single-stage renal transplant",
+    "Three-stage bladder diversion",
+    "Non-operative treatment"
+   ],
+   "ans": 0,
+   "exp": "Two-stage repair (Book p320)"
+  },
+  {
+   "id": "SURG-C43-048",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "A postoperative complication of hypospadias repair is:",
+   "opts": [
+    "Meatal stenosis",
+    "Courvoisier's law",
+    "Biliary fistula",
+    "Renal collar formation"
+   ],
+   "ans": 0,
+   "exp": "Meatal stenosis (Book p320)"
+  },
+  {
+   "id": "SURG-C43-049",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "A urethral cutaneous fistula is a complication of:",
+   "opts": [
+    "Hypospadias repair",
+    "Horseshoe kidney",
+    "Varicocele embolisation",
+    "Hydrocele transillumination"
+   ],
+   "ans": 0,
+   "exp": "Hypospadias repair (Book p320)"
+  },
+  {
+   "id": "SURG-C43-050",
+   "sec": "Hypospadias",
+   "page": 320,
+   "q": "Recurrence of chordee after hypospadias repair is attributed to:",
+   "opts": [
+    "Fibrosis",
+    "Gallstone impaction",
+    "A patent processus vaginalis",
+    "Pyloric stenosis"
+   ],
+   "ans": 0,
+   "exp": "Fibrosis (Book p320)"
+  },
+  {
+   "id": "SURG-C43-051",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "Ectopia vesicae involves deficiency of the anterior abdominal wall and the:",
+   "opts": [
+    "Anterior wall of the bladder below the umbilicus",
+    "Posterior wall of the stomach",
+    "Renal cortex above the diaphragm",
+    "Tunica vaginalis"
+   ],
+   "ans": 0,
+   "exp": "Anterior wall of the bladder below the umbilicus (Book p320)"
+  },
+  {
+   "id": "SURG-C43-052",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "The prognosis of ectopia vesicae is described as:",
+   "opts": [
+    "Poor",
+    "Uniformly excellent",
+    "Unrelated to the defect",
+    "Better than an isolated hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Poor (Book p320)"
+  },
+  {
+   "id": "SURG-C43-053",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "A typical presentation of ectopia vesicae is:",
+   "opts": [
+    "Urine dribbling from the bladder",
+    "Painless haematuria only",
+    "A bag-of-worms scrotum",
+    "Obstructive jaundice"
+   ],
+   "ans": 0,
+   "exp": "Urine dribbling from the bladder (Book p320)"
+  },
+  {
+   "id": "SURG-C43-054",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "Pelvic diastasis in ectopia vesicae is treated with:",
+   "opts": [
+    "Iliac osteotomy",
+    "Radical nephrectomy",
+    "Orchidectomy",
+    "Hepaticojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Iliac osteotomy (Book p320)"
+  },
+  {
+   "id": "SURG-C43-055",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "Ectopia vesicae may be associated with:",
+   "opts": [
+    "Bilateral congenital inguinal hernias",
+    "Bilateral renal tumours in every case",
+    "A single acquired femoral hernia only",
+    "Gallstone ileus"
+   ],
+   "ans": 0,
+   "exp": "Bilateral congenital inguinal hernias (Book p320)"
+  },
+  {
+   "id": "SURG-C43-056",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "In a male with ectopia vesicae, an associated genital finding may be:",
+   "opts": [
+    "Undescended testis",
+    "Hypospadias is impossible",
+    "Bilateral varicocele in every case",
+    "A testicular tumour at birth"
+   ],
+   "ans": 0,
+   "exp": "Undescended testis (Book p320)"
+  },
+  {
+   "id": "SURG-C43-057",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "In a female with ectopia vesicae, an associated finding may be:",
+   "opts": [
+    "Bifid clitoris",
+    "Absent urethra in every case",
+    "A prostate gland",
+    "A hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Bifid clitoris (Book p320)"
+  },
+  {
+   "id": "SURG-C43-058",
+   "sec": "Ectopia Vesicae",
+   "page": 320,
+   "q": "Complications of ectopia vesicae include:",
+   "opts": [
+    "Recurrent infections and strictures",
+    "Only biliary colic",
+    "Only pulmonary embolism",
+    "Only pancreatic fistula"
+   ],
+   "ans": 0,
+   "exp": "Recurrent infections and strictures (Book p320)"
+  },
+  {
+   "id": "SURG-C43-059",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "The usual site of an anterior urethral injury is the:",
+   "opts": [
+    "Bulbar or penile urethra",
+    "Prostatic urethra only",
+    "Ureteropelvic junction",
+    "Renal pelvis"
+   ],
+   "ans": 0,
+   "exp": "Bulbar or penile urethra (Book p320)"
+  },
+  {
+   "id": "SURG-C43-060",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "The usual mechanism of anterior urethral injury is:",
+   "opts": [
+    "Direct trauma or a straddle injury",
+    "Pelvic fracture only",
+    "A viral infection",
+    "A renal biopsy"
+   ],
+   "ans": 0,
+   "exp": "Direct trauma or a straddle injury (Book p320)"
+  },
+  {
+   "id": "SURG-C43-061",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "A superficial perineal haematoma after anterior urethral injury is classically:",
+   "opts": [
+    "Butterfly-shaped and involves the penis and scrotum",
+    "Cannonball-shaped in the chest",
+    "Confined to the renal angle",
+    "Limited to the upper abdomen"
+   ],
+   "ans": 0,
+   "exp": "Butterfly-shaped and involves the penis and scrotum (Book p320)"
+  },
+  {
+   "id": "SURG-C43-062",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "A clinical feature of anterior urethral injury is:",
+   "opts": [
+    "Blood at the tip of the meatus",
+    "A high-riding prostate",
+    "Painless jaundice",
+    "A palpable gallbladder"
+   ],
+   "ans": 0,
+   "exp": "Blood at the tip of the meatus (Book p320)"
+  },
+  {
+   "id": "SURG-C43-063",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "Another clinical feature of urethral injury is:",
+   "opts": [
+    "Inability to pass urine",
+    "Increased bile flow",
+    "Spontaneous hydrocele resolution",
+    "A normal bladder in every case"
+   ],
+   "ans": 0,
+   "exp": "Inability to pass urine (Book p320)"
+  },
+  {
+   "id": "SURG-C43-064",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "The usual site of a posterior urethral injury is the:",
+   "opts": [
+    "Prostatic or membranous urethra",
+    "Distal penile urethra only",
+    "Bulbar urethra only",
+    "External urinary meatus only"
+   ],
+   "ans": 0,
+   "exp": "Prostatic or membranous urethra (Book p320)"
+  },
+  {
+   "id": "SURG-C43-065",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "A posterior urethral injury is classically secondary to:",
+   "opts": [
+    "Pelvic fracture",
+    "A straddle injury only",
+    "Circumcision",
+    "A ureteric stone"
+   ],
+   "ans": 0,
+   "exp": "Pelvic fracture (Book p320)"
+  },
+  {
+   "id": "SURG-C43-066",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "The haematoma of a posterior urethral injury is typically:",
+   "opts": [
+    "Deep perineal and may involve the anterior abdominal wall and upper third of the thigh",
+    "Superficial and limited to the scrotum",
+    "Confined to the glans",
+    "Located in the renal capsule"
+   ],
+   "ans": 0,
+   "exp": "Deep perineal and may involve the anterior abdominal wall and upper third of the thigh (Book p320)"
+  },
+  {
+   "id": "SURG-C43-067",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "Vermooten sign is a:",
+   "opts": [
+    "High-riding or floating prostate on digital rectal examination",
+    "Transverse testis on scrotal examination",
+    "Pyriform gallbladder on ultrasound",
+    "Cobra-head ureter on IVU"
+   ],
+   "ans": 0,
+   "exp": "High-riding or floating prostate on digital rectal examination (Book p320)"
+  },
+  {
+   "id": "SURG-C43-068",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 320,
+   "q": "Bladder distension is a feature particularly associated with:",
+   "opts": [
+    "Posterior urethral injury",
+    "A simple hydrocele",
+    "A varicocele",
+    "A superficial penile cyst"
+   ],
+   "ans": 0,
+   "exp": "Posterior urethral injury (Book p320)"
+  },
+  {
+   "id": "SURG-C43-069",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "A Foley catheter should be inserted routinely in a patient with suspected urethral trauma:",
+   "opts": [
+    "Never",
+    "Before any assessment in every case",
+    "Only through the scrotum",
+    "Only after forceful manipulation"
+   ],
+   "ans": 0,
+   "exp": "Never (Book p321)"
+  },
+  {
+   "id": "SURG-C43-070",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "A full bladder with symptoms after urethral trauma is managed initially with:",
+   "opts": [
+    "Suprapubic catheterization",
+    "Blind Foley catheterization",
+    "Orchidectomy",
+    "Urethral dilatation without imaging"
+   ],
+   "ans": 0,
+   "exp": "Suprapubic catheterization (Book p321)"
+  },
+  {
+   "id": "SURG-C43-071",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "If the bladder is not full and there is no discomfort after urethral trauma, management is to:",
+   "opts": [
+    "Wait for bladder filling and allow one trial of micturition",
+    "Perform immediate nephrectomy",
+    "Give radiotherapy",
+    "Insert a catheter forcefully"
+   ],
+   "ans": 0,
+   "exp": "Wait for bladder filling and allow one trial of micturition (Book p321)"
+  },
+  {
+   "id": "SURG-C43-072",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "The investigation of choice for urethral injury is:",
+   "opts": [
+    "Retrograde urethrogram",
+    "Micturating cystourethrogram only",
+    "HIDA scan",
+    "Plain abdominal radiograph"
+   ],
+   "ans": 0,
+   "exp": "Retrograde urethrogram (Book p321)"
+  },
+  {
+   "id": "SURG-C43-073",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "On retrograde urethrogram, contrast spilling at the injured site suggests:",
+   "opts": [
+    "Urethral injury",
+    "A normal urethra",
+    "A renal cyst",
+    "A testicular tumour"
+   ],
+   "ans": 0,
+   "exp": "Urethral injury (Book p321)"
+  },
+  {
+   "id": "SURG-C43-074",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "The most common site of a post-traumatic stricture listed is the:",
+   "opts": [
+    "Bulbomembranous junction",
+    "External urinary meatus only",
+    "Prostatic apex",
+    "Ureteric orifice"
+   ],
+   "ans": 0,
+   "exp": "Bulbomembranous junction (Book p321)"
+  },
+  {
+   "id": "SURG-C43-075",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "A short incomplete urethral stricture is managed by passing a guidewire followed by:",
+   "opts": [
+    "Optical internal urethrotomy or visual internal urethrotomy",
+    "Radical cystectomy",
+    "Total penectomy",
+    "Hepaticojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Optical internal urethrotomy or visual internal urethrotomy (Book p321)"
+  },
+  {
+   "id": "SURG-C43-076",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "The treatment of a short complete urethral stricture is:",
+   "opts": [
+    "Resection with end-to-end anastomosis",
+    "Observation for life",
+    "Only oral antibiotics",
+    "Suprapubic nephrostomy"
+   ],
+   "ans": 0,
+   "exp": "Resection with end-to-end anastomosis (Book p321)"
+  },
+  {
+   "id": "SURG-C43-077",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "A long complete urethral stricture is treated by resection followed by:",
+   "opts": [
+    "A graft to bridge the gap",
+    "A hydrocele repair",
+    "A renal transplant",
+    "Only balloon dilatation"
+   ],
+   "ans": 0,
+   "exp": "A graft to bridge the gap (Book p321)"
+  },
+  {
+   "id": "SURG-C43-078",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "The most commonly used graft for a long complete urethral stricture is:",
+   "opts": [
+    "Buccal mucosal graft",
+    "Saphenous vein graft",
+    "Pericardial patch only",
+    "Gastric mucosa in every case"
+   ],
+   "ans": 0,
+   "exp": "Buccal mucosal graft (Book p321)"
+  },
+  {
+   "id": "SURG-C43-079",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "Buccal mucosal graft urethroplasty is also called:",
+   "opts": [
+    "Barbagli's technique",
+    "Nesbit's technique",
+    "Grayhack's technique",
+    "Politano's technique"
+   ],
+   "ans": 0,
+   "exp": "Barbagli's technique (Book p321)"
+  },
+  {
+   "id": "SURG-C43-080",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "After excision of a bulbar urethral stricture, the illustrated gap is approximately:",
+   "opts": [
+    "2 cm",
+    "0.2 cm",
+    "8 cm",
+    "20 cm"
+   ],
+   "ans": 0,
+   "exp": "2 cm (Book p321)"
+  },
+  {
+   "id": "SURG-C43-081",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "In the illustrated end-to-end repair, bulbar urethral mobilization provides approximately:",
+   "opts": [
+    "4–5 cm of lengthening",
+    "0.5 cm",
+    "1 mm",
+    "10–12 cm"
+   ],
+   "ans": 0,
+   "exp": "4–5 cm of lengthening (Book p321)"
+  },
+  {
+   "id": "SURG-C43-082",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "The ends of the urethra are spatulated by approximately:",
+   "opts": [
+    "1 cm on each side",
+    "10 cm on each side",
+    "Only 1 mm on one side",
+    "5 cm on each side"
+   ],
+   "ans": 0,
+   "exp": "1 cm on each side (Book p321)"
+  },
+  {
+   "id": "SURG-C43-083",
+   "sec": "Urethral Trauma and Stricture Management",
+   "page": 321,
+   "q": "The illustrated anastomosis uses an overlap of approximately:",
+   "opts": [
+    "1 cm",
+    "5 cm",
+    "10 cm",
+    "No overlap is possible"
+   ],
+   "ans": 0,
+   "exp": "1 cm (Book p321)"
+  },
+  {
+   "id": "SURG-C43-084",
+   "sec": "Fracture Shaft of the Penis",
+   "page": 322,
+   "q": "Fracture shaft of the penis most commonly occurs when the penis is:",
+   "opts": [
+    "Erect during sexual intercourse",
+    "Flaccid during sleep",
+    "Inside the bladder",
+    "During renal ultrasonography"
+   ],
+   "ans": 0,
+   "exp": "Erect during sexual intercourse (Book p322)"
+  },
+  {
+   "id": "SURG-C43-085",
+   "sec": "Fracture Shaft of the Penis",
+   "page": 322,
+   "q": "The pathological lesion in penile fracture is a tear in the corpora cavernosa and/or:",
+   "opts": [
+    "Tunica albuginea",
+    "Tunica vaginalis",
+    "Dartos fascia only",
+    "Corpus spongiosum in every case"
+   ],
+   "ans": 0,
+   "exp": "Tunica albuginea (Book p322)"
+  },
+  {
+   "id": "SURG-C43-086",
+   "sec": "Fracture Shaft of the Penis",
+   "page": 322,
+   "q": "A classic clinical feature of penile fracture is a:",
+   "opts": [
+    "Popping sound",
+    "Cough impulse",
+    "Bruit over the renal artery",
+    "Painless urinary stream"
+   ],
+   "ans": 0,
+   "exp": "Popping sound (Book p322)"
+  },
+  {
+   "id": "SURG-C43-087",
+   "sec": "Fracture Shaft of the Penis",
+   "page": 322,
+   "q": "The typical external appearance in penile fracture is:",
+   "opts": [
+    "Eggplant deformity",
+    "Bag-of-worms deformity",
+    "Cannonball deformity",
+    "Pyriform deformity"
+   ],
+   "ans": 0,
+   "exp": "Eggplant deformity (Book p322)"
+  },
+  {
+   "id": "SURG-C43-088",
+   "sec": "Fracture Shaft of the Penis",
+   "page": 322,
+   "q": "Penile fracture commonly causes:",
+   "opts": [
+    "Pain and swelling",
+    "Painless jaundice",
+    "Only microscopic haematuria",
+    "A high-riding prostate"
+   ],
+   "ans": 0,
+   "exp": "Pain and swelling (Book p322)"
+  },
+  {
+   "id": "SURG-C43-089",
+   "sec": "Fracture Shaft of the Penis",
+   "page": 322,
+   "q": "The operative management of penile fracture includes:",
+   "opts": [
+    "Drainage of the haematoma and repair of the tear",
+    "Observation without repair",
+    "Orchidectomy",
+    "Perineal urethrostomy in every case"
+   ],
+   "ans": 0,
+   "exp": "Drainage of the haematoma and repair of the tear (Book p322)"
+  },
+  {
+   "id": "SURG-C43-090",
+   "sec": "Fracture Shaft of the Penis",
+   "page": 322,
+   "q": "Oral contraceptive pills are given for one month after penile-fracture repair to:",
+   "opts": [
+    "Prevent erection",
+    "Prevent renal stones",
+    "Treat infection",
+    "Increase spermatogenesis"
+   ],
+   "ans": 0,
+   "exp": "Prevent erection (Book p322)"
+  },
+  {
+   "id": "SURG-C43-091",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "Posterior urethral valves are seen in:",
+   "opts": [
+    "Males",
+    "Females only",
+    "Both sexes equally in the chapter",
+    "Only elderly women"
+   ],
+   "ans": 0,
+   "exp": "Males (Book p322)"
+  },
+  {
+   "id": "SURG-C43-092",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "Posterior urethral valves are:",
+   "opts": [
+    "One-way valves",
+    "Two-way ureteric valves",
+    "A type of penile tumour",
+    "A form of hydrocele"
+   ],
+   "ans": 0,
+   "exp": "One-way valves (Book p322)"
+  },
+  {
+   "id": "SURG-C43-093",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "Posterior urethral valves can cause:",
+   "opts": [
+    "Hydronephrosis",
+    "Varicocele only",
+    "Gallstone ileus",
+    "Peyronie's disease"
+   ],
+   "ans": 0,
+   "exp": "Hydronephrosis (Book p322)"
+  },
+  {
+   "id": "SURG-C43-094",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "The most common type in Young's classification of posterior urethral valves is:",
+   "opts": [
+    "Type I",
+    "Type II",
+    "Type III",
+    "Type IV"
+   ],
+   "ans": 0,
+   "exp": "Type I (Book p322)"
+  },
+  {
+   "id": "SURG-C43-095",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "Type I posterior urethral valves are:",
+   "opts": [
+    "Mucosal folds arising from the verumontanum",
+    "A constriction at the external meatus",
+    "A bladder diverticulum",
+    "A ureteric stone"
+   ],
+   "ans": 0,
+   "exp": "Mucosal folds arising from the verumontanum (Book p322)"
+  },
+  {
+   "id": "SURG-C43-096",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "The rare type in Young's classification listed in the chapter is:",
+   "opts": [
+    "Type II",
+    "Type I",
+    "Type III",
+    "Type V"
+   ],
+   "ans": 0,
+   "exp": "Type II (Book p322)"
+  },
+  {
+   "id": "SURG-C43-097",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "Cobb's collar is classified as:",
+   "opts": [
+    "Type III posterior urethral valve",
+    "Type I",
+    "Type II",
+    "Type IV"
+   ],
+   "ans": 0,
+   "exp": "Type III posterior urethral valve (Book p322)"
+  },
+  {
+   "id": "SURG-C43-098",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "A clinical feature of posterior urethral valves is:",
+   "opts": [
+    "Recurrent urinary tract infection in a male child",
+    "Painless scrotal swelling only",
+    "Haematemesis",
+    "Adult obstructive jaundice"
+   ],
+   "ans": 0,
+   "exp": "Recurrent urinary tract infection in a male child (Book p322)"
+  },
+  {
+   "id": "SURG-C43-099",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "The key micturating cystourethrogram finding in posterior urethral valves is a:",
+   "opts": [
+    "Keyhole defect",
+    "Double-duct sign",
+    "Cobra-head sign",
+    "Frostberg reverse 3 sign"
+   ],
+   "ans": 0,
+   "exp": "Keyhole defect (Book p322)"
+  },
+  {
+   "id": "SURG-C43-100",
+   "sec": "Posterior Urethral Valves",
+   "page": 322,
+   "q": "The treatment of posterior urethral valves is:",
+   "opts": [
+    "Fulguration of the valves",
+    "Hydrocelectomy",
+    "Total nephrectomy in every case",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Fulguration of the valves (Book p322)"
+  },
+  {
+   "id": "SURG-C43-101",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "Peyronie's disease is caused by:",
+   "opts": [
+    "Calcific deposition in the corpora",
+    "A dilated pampiniform plexus",
+    "A patent processus vaginalis",
+    "A ureteric obstruction"
+   ],
+   "ans": 0,
+   "exp": "Calcific deposition in the corpora (Book p323)"
+  },
+  {
+   "id": "SURG-C43-102",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "In Peyronie's disease, the penis bends:",
+   "opts": [
+    "Towards the plaque",
+    "Away from the plaque in every case",
+    "Only towards the scrotum",
+    "Only during micturition"
+   ],
+   "ans": 0,
+   "exp": "Towards the plaque (Book p323)"
+  },
+  {
+   "id": "SURG-C43-103",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "The curvature of Peyronie's disease is most pronounced during:",
+   "opts": [
+    "Erection",
+    "Sleep",
+    "Renal dialysis",
+    "Defecation"
+   ],
+   "ans": 0,
+   "exp": "Erection (Book p323)"
+  },
+  {
+   "id": "SURG-C43-104",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "A clinical problem caused by Peyronie's disease is:",
+   "opts": [
+    "Difficulty during intercourse",
+    "Painless jaundice",
+    "Loss of renal function in every case",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Difficulty during intercourse (Book p323)"
+  },
+  {
+   "id": "SURG-C43-105",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "Peyronie's disease is associated with:",
+   "opts": [
+    "Retroperitoneal fibrosis and Dupuytren's contracture",
+    "Peutz–Jeghers syndrome",
+    "Courvoisier's law",
+    "Fournier's gangrene only"
+   ],
+   "ans": 0,
+   "exp": "Retroperitoneal fibrosis and Dupuytren's contracture (Book p323)"
+  },
+  {
+   "id": "SURG-C43-106",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "In the active phase of Peyronie's disease, the bend:",
+   "opts": [
+    "Increases",
+    "Disappears immediately",
+    "Remains constant",
+    "Rotates to the opposite side"
+   ],
+   "ans": 0,
+   "exp": "Increases (Book p323)"
+  },
+  {
+   "id": "SURG-C43-107",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "In the stabilization phase of Peyronie's disease, the bend:",
+   "opts": [
+    "Remains constant",
+    "Always increases",
+    "Always resolves",
+    "Causes renal failure"
+   ],
+   "ans": 0,
+   "exp": "Remains constant (Book p323)"
+  },
+  {
+   "id": "SURG-C43-108",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "The investigation of choice listed for Peyronie's disease is:",
+   "opts": [
+    "MRI",
+    "HIDA scan",
+    "Barium meal",
+    "Plain chest radiography"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p323)"
+  },
+  {
+   "id": "SURG-C43-109",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "On examination in Peyronie's disease, the plaque is usually:",
+   "opts": [
+    "Palpable",
+    "Invisible and never palpable",
+    "Located in the kidney",
+    "Confined to the scrotal skin"
+   ],
+   "ans": 0,
+   "exp": "Palpable (Book p323)"
+  },
+  {
+   "id": "SURG-C43-110",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "The new first-line modality listed for Peyronie's disease is intralesional injection of:",
+   "opts": [
+    "Collagenase Clostridium histolyticum",
+    "Bleomycin",
+    "Dactinomycin",
+    "Urokinase"
+   ],
+   "ans": 0,
+   "exp": "Collagenase Clostridium histolyticum (Book p323)"
+  },
+  {
+   "id": "SURG-C43-111",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "The intralesional collagenase preparation used for Peyronie's disease is:",
+   "opts": [
+    "Xiaflex",
+    "Deflux",
+    "Urografin",
+    "BEP"
+   ],
+   "ans": 0,
+   "exp": "Xiaflex (Book p323)"
+  },
+  {
+   "id": "SURG-C43-112",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "If collagenase treatment fails, Nesbit's or the 16-dot technique counterbalances the bend with:",
+   "opts": [
+    "Contralateral non-absorbable sutures",
+    "Absorbable renal sutures",
+    "A ureteric stent",
+    "A skin graft alone"
+   ],
+   "ans": 0,
+   "exp": "Contralateral non-absorbable sutures (Book p323)"
+  },
+  {
+   "id": "SURG-C43-113",
+   "sec": "Peyronie's Disease",
+   "page": 323,
+   "q": "An alternative operation for Peyronie's plaque is excision followed by placement of a:",
+   "opts": [
+    "Bovine pericardial patch",
+    "Buccal mucosal graft in every case",
+    "Synthetic ureteric tube",
+    "Gastric patch"
+   ],
+   "ans": 0,
+   "exp": "Bovine pericardial patch (Book p323)"
+  },
+  {
+   "id": "SURG-C43-114",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Priapism is defined in the chapter as a prolonged erection lasting more than:",
+   "opts": [
+    "4 hours",
+    "30 minutes",
+    "1 hour",
+    "24 hours"
+   ],
+   "ans": 0,
+   "exp": "4 hours (Book p323)"
+  },
+  {
+   "id": "SURG-C43-115",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "An erection lasting more than six hours can lead to:",
+   "opts": [
+    "Ischaemia and necrosis",
+    "Spontaneous cure in every case",
+    "Hydrocele formation",
+    "Renal agenesis"
+   ],
+   "ans": 0,
+   "exp": "Ischaemia and necrosis (Book p323)"
+  },
+  {
+   "id": "SURG-C43-116",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "High-flow priapism results from:",
+   "opts": [
+    "Increased inflow of blood",
+    "Venous blockade",
+    "Absent arterial flow",
+    "Urethral stricture only"
+   ],
+   "ans": 0,
+   "exp": "Increased inflow of blood (Book p323)"
+  },
+  {
+   "id": "SURG-C43-117",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "A cause of high-flow priapism is:",
+   "opts": [
+    "Trauma",
+    "Sickle-cell anaemia only",
+    "Leukaemia only",
+    "A hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Trauma (Book p323)"
+  },
+  {
+   "id": "SURG-C43-118",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Another cause of high-flow priapism is:",
+   "opts": [
+    "Papaverine injection",
+    "A low-calcium diet",
+    "A patent ureter",
+    "Balanitis xerotica obliterans"
+   ],
+   "ans": 0,
+   "exp": "Papaverine injection (Book p323)"
+  },
+  {
+   "id": "SURG-C43-119",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Spinal injury can cause:",
+   "opts": [
+    "High-flow priapism",
+    "Only low-flow priapism",
+    "Hydrocele",
+    "Testicular tumour"
+   ],
+   "ans": 0,
+   "exp": "High-flow priapism (Book p323)"
+  },
+  {
+   "id": "SURG-C43-120",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "High-flow priapism is usually:",
+   "opts": [
+    "Painless",
+    "Severely painful in every case",
+    "Associated with jaundice",
+    "Associated with haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Painless (Book p323)"
+  },
+  {
+   "id": "SURG-C43-121",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Penile blood gas in high-flow priapism shows:",
+   "opts": [
+    "Oxygenated blood",
+    "Deoxygenated blood",
+    "Bile-stained blood",
+    "No blood"
+   ],
+   "ans": 0,
+   "exp": "Oxygenated blood (Book p323)"
+  },
+  {
+   "id": "SURG-C43-122",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Low-flow or ischaemic priapism is caused by:",
+   "opts": [
+    "Venous blockade",
+    "Increased arterial inflow only",
+    "A ureteric stone",
+    "A scrotal sebaceous cyst"
+   ],
+   "ans": 0,
+   "exp": "Venous blockade (Book p323)"
+  },
+  {
+   "id": "SURG-C43-123",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Compared with high-flow priapism, low-flow priapism is:",
+   "opts": [
+    "More common",
+    "Less common in every population",
+    "Never painful",
+    "Always caused by trauma"
+   ],
+   "ans": 0,
+   "exp": "More common (Book p323)"
+  },
+  {
+   "id": "SURG-C43-124",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "A cause of low-flow priapism in children is:",
+   "opts": [
+    "Sickle-cell anaemia",
+    "Papaverine injection only",
+    "A straddle injury",
+    "A renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Sickle-cell anaemia (Book p323)"
+  },
+  {
+   "id": "SURG-C43-125",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Leukaemia is listed as a cause of:",
+   "opts": [
+    "Low-flow priapism",
+    "High-flow priapism only",
+    "Peyronie's disease",
+    "Hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Low-flow priapism (Book p323)"
+  },
+  {
+   "id": "SURG-C43-126",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Low-flow priapism is typically:",
+   "opts": [
+    "Painful",
+    "Painless",
+    "Associated with a clear hydrocele",
+    "Associated with a soft prostate"
+   ],
+   "ans": 0,
+   "exp": "Painful (Book p323)"
+  },
+  {
+   "id": "SURG-C43-127",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Penile blood gas in low-flow priapism shows:",
+   "opts": [
+    "Deoxygenated blood",
+    "Oxygenated blood",
+    "Only lymph",
+    "Urine"
+   ],
+   "ans": 0,
+   "exp": "Deoxygenated blood (Book p323)"
+  },
+  {
+   "id": "SURG-C43-128",
+   "sec": "Priapism",
+   "page": 323,
+   "q": "Penile angiography in low-flow priapism demonstrates the:",
+   "opts": [
+    "Site of vascular blockage",
+    "Renal artery aneurysm in every case",
+    "Biliary tree",
+    "Testicular lymphatic basin"
+   ],
+   "ans": 0,
+   "exp": "Site of vascular blockage (Book p323)"
+  },
+  {
+   "id": "SURG-C43-129",
+   "sec": "Priapism",
+   "page": 324,
+   "q": "The first step listed in the management sequence for priapism is:",
+   "opts": [
+    "Sedation followed by adrenaline injection into the corpora",
+    "Immediate orchidectomy",
+    "Radiotherapy",
+    "Observation for one week"
+   ],
+   "ans": 0,
+   "exp": "Sedation followed by adrenaline injection into the corpora (Book p324)"
+  },
+  {
+   "id": "SURG-C43-130",
+   "sec": "Priapism",
+   "page": 324,
+   "q": "Adrenaline injection into the corpora relieves priapism by causing:",
+   "opts": [
+    "Vasoconstriction",
+    "Vasodilatation",
+    "Diuresis",
+    "Bile secretion"
+   ],
+   "ans": 0,
+   "exp": "Vasoconstriction (Book p324)"
+  },
+  {
+   "id": "SURG-C43-131",
+   "sec": "Priapism",
+   "page": 324,
+   "q": "Persistent priapism after medical treatment is managed with:",
+   "opts": [
+    "Shunt surgery",
+    "Hydrocelectomy",
+    "Renal transplantation",
+    "Circumcision alone"
+   ],
+   "ans": 0,
+   "exp": "Shunt surgery (Book p324)"
+  },
+  {
+   "id": "SURG-C43-132",
+   "sec": "Priapism",
+   "page": 324,
+   "q": "The Greyhack shunt is a:",
+   "opts": [
+    "Corporo-saphenous shunt",
+    "Portosystemic shunt",
+    "Ureteric reimplantation",
+    "Bladder neck incision"
+   ],
+   "ans": 0,
+   "exp": "Corporo-saphenous shunt (Book p324)"
+  },
+  {
+   "id": "SURG-C43-133",
+   "sec": "Priapism",
+   "page": 324,
+   "q": "Persistent high-flow priapism is treated with:",
+   "opts": [
+    "Embolisation",
+    "Only antibiotics",
+    "Fulguration of posterior valves",
+    "Partial nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Embolisation (Book p324)"
+  },
+  {
+   "id": "SURG-C43-134",
+   "sec": "Priapism",
+   "page": 324,
+   "q": "Embolisation in persistent high-flow priapism works by:",
+   "opts": [
+    "Blocking blood flow",
+    "Increasing arterial inflow",
+    "Opening the urethra",
+    "Removing the tunica vaginalis"
+   ],
+   "ans": 0,
+   "exp": "Blocking blood flow (Book p324)"
+  },
+  {
+   "id": "SURG-C43-135",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "The commonest penile cancer is:",
+   "opts": [
+    "Squamous-cell carcinoma",
+    "Seminoma",
+    "Basal-cell carcinoma of the kidney",
+    "Small-cell lung carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous-cell carcinoma (Book p324)"
+  },
+  {
+   "id": "SURG-C43-136",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "The most common gene mutation listed in penile cancer is in:",
+   "opts": [
+    "p53",
+    "BRCA1",
+    "PRSS1",
+    "PKD1"
+   ],
+   "ans": 0,
+   "exp": "p53 (Book p324)"
+  },
+  {
+   "id": "SURG-C43-137",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Buschke–Lowenstein tumour is caused by:",
+   "opts": [
+    "Human papillomavirus",
+    "Epstein–Barr virus",
+    "Mycobacterium tuberculosis",
+    "Cytomegalovirus"
+   ],
+   "ans": 0,
+   "exp": "Human papillomavirus (Book p324)"
+  },
+  {
+   "id": "SURG-C43-138",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Buschke–Lowenstein tumour is characteristically:",
+   "opts": [
+    "Slow growing",
+    "Rapidly metastatic in every case",
+    "A renal tumour",
+    "A vascular malformation"
+   ],
+   "ans": 0,
+   "exp": "Slow growing (Book p324)"
+  },
+  {
+   "id": "SURG-C43-139",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Buschke–Lowenstein tumour grows:",
+   "opts": [
+    "Outwards and has a good prognosis",
+    "Only into the renal pelvis",
+    "Inwards with uniformly poor prognosis",
+    "Only along the ureter"
+   ],
+   "ans": 0,
+   "exp": "Outwards and has a good prognosis (Book p324)"
+  },
+  {
+   "id": "SURG-C43-140",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Buschke–Lowenstein tumour resembles:",
+   "opts": [
+    "Verrucous oral cancer",
+    "Clear-cell RCC",
+    "A hydrocele",
+    "A pancreatic pseudocyst"
+   ],
+   "ans": 0,
+   "exp": "Verrucous oral cancer (Book p324)"
+  },
+  {
+   "id": "SURG-C43-141",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Bowen's disease is a premalignant lesion of the penile:",
+   "opts": [
+    "Shaft",
+    "Renal cortex",
+    "Glans only",
+    "Scrotal lymph nodes"
+   ],
+   "ans": 0,
+   "exp": "Shaft (Book p324)"
+  },
+  {
+   "id": "SURG-C43-142",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Erythroplasia of Queyrat is a premalignant lesion of the:",
+   "opts": [
+    "Glans",
+    "Penile shaft only",
+    "Kidney",
+    "Ureter"
+   ],
+   "ans": 0,
+   "exp": "Glans (Book p324)"
+  },
+  {
+   "id": "SURG-C43-143",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Genital warts are caused by:",
+   "opts": [
+    "Human papillomavirus",
+    "Hepatitis B virus",
+    "Proteus",
+    "E. coli"
+   ],
+   "ans": 0,
+   "exp": "Human papillomavirus (Book p324)"
+  },
+  {
+   "id": "SURG-C43-144",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Balanitis xerotica obliterans may lead to:",
+   "opts": [
+    "Phimosis",
+    "Varicocele",
+    "Hydronephrosis from a renal stone in every case",
+    "Testicular torsion"
+   ],
+   "ans": 0,
+   "exp": "Phimosis (Book p324)"
+  },
+  {
+   "id": "SURG-C43-145",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "A further premalignant penile condition listed is:",
+   "opts": [
+    "Leukoplakia",
+    "Pyloric stenosis",
+    "Cystinuria",
+    "Horseshoe kidney"
+   ],
+   "ans": 0,
+   "exp": "Leukoplakia (Book p324)"
+  },
+  {
+   "id": "SURG-C43-146",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "The typical penile-cancer growth is:",
+   "opts": [
+    "Ulceroproliferative and foul smelling",
+    "A clear transilluminant swelling",
+    "A painless renal-angle mass",
+    "A purely intratesticular lesion"
+   ],
+   "ans": 0,
+   "exp": "Ulceroproliferative and foul smelling (Book p324)"
+  },
+  {
+   "id": "SURG-C43-147",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "In penile cancer, inguinal lymph nodes are positive in approximately:",
+   "opts": [
+    "50% of cases",
+    "1% of cases",
+    "5% of cases",
+    "100% of cases"
+   ],
+   "ans": 0,
+   "exp": "50% of cases (Book p324)"
+  },
+  {
+   "id": "SURG-C43-148",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Inguinal lymph-node enlargement in penile cancer may be due to:",
+   "opts": [
+    "Infection or cancer",
+    "Only a hydrocele",
+    "Only renal agenesis",
+    "Only a benign varicocele"
+   ],
+   "ans": 0,
+   "exp": "Infection or cancer (Book p324)"
+  },
+  {
+   "id": "SURG-C43-149",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "The biopsy finding supporting penile squamous-cell carcinoma is:",
+   "opts": [
+    "Keratin pearls",
+    "Psammoma bodies",
+    "Coffin-lid crystals",
+    "Reed–Sternberg cells"
+   ],
+   "ans": 0,
+   "exp": "Keratin pearls (Book p324)"
+  },
+  {
+   "id": "SURG-C43-150",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Local staging of penile cancer is performed with:",
+   "opts": [
+    "MRI",
+    "HIDA scan",
+    "Micturating cystourethrogram",
+    "Plain abdominal X-ray"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p324)"
+  },
+  {
+   "id": "SURG-C43-151",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "Distant metastasis staging in penile cancer uses:",
+   "opts": [
+    "PET-CT",
+    "Retrograde urethrogram",
+    "Barium meal",
+    "Scrotal transillumination"
+   ],
+   "ans": 0,
+   "exp": "PET-CT (Book p324)"
+  },
+  {
+   "id": "SURG-C43-152",
+   "sec": "Penile Cancers",
+   "page": 324,
+   "q": "The staging systems listed for penile cancer include TNM and:",
+   "opts": [
+    "Jackson's staging",
+    "Bosniak staging",
+    "Robson staging only",
+    "Young's renal staging"
+   ],
+   "ans": 0,
+   "exp": "Jackson's staging (Book p324)"
+  },
+  {
+   "id": "SURG-C43-153",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "Bowen disease/in-situ penile cancer can be treated with:",
+   "opts": [
+    "Topical 5-fluorouracil and laser",
+    "BEP chemotherapy only",
+    "Immediate radical nephrectomy",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Topical 5-fluorouracil and laser (Book p325)"
+  },
+  {
+   "id": "SURG-C43-154",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "For a primary penile tumour away from the root, the surgical margin listed is:",
+   "opts": [
+    "0.5 cm",
+    "0.05 cm",
+    "5 cm",
+    "10 cm"
+   ],
+   "ans": 0,
+   "exp": "0.5 cm (Book p325)"
+  },
+  {
+   "id": "SURG-C43-155",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "If the penile stump after resection is more than 2 cm, the operation is:",
+   "opts": [
+    "Partial penectomy",
+    "Total nephrectomy",
+    "Hydrocelectomy",
+    "Ureteric reimplantation"
+   ],
+   "ans": 0,
+   "exp": "Partial penectomy (Book p325)"
+  },
+  {
+   "id": "SURG-C43-156",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "For a deep-seated tumour close to the root, a stump shorter than 2 cm requires:",
+   "opts": [
+    "Total amputation with perineal urethrostomy",
+    "Observation only",
+    "Partial nephrectomy",
+    "Endoscopic stone extraction"
+   ],
+   "ans": 0,
+   "exp": "Total amputation with perineal urethrostomy (Book p325)"
+  },
+  {
+   "id": "SURG-C43-157",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "Chemotherapy listed for primary penile carcinoma includes:",
+   "opts": [
+    "5-fluorouracil and cisplatin",
+    "BEP and carboplatin only",
+    "FOLFOX only",
+    "Dactinomycin and vincristine only"
+   ],
+   "ans": 0,
+   "exp": "5-fluorouracil and cisplatin (Book p325)"
+  },
+  {
+   "id": "SURG-C43-158",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "An enlarged inguinal lymph node in penile cancer should first undergo:",
+   "opts": [
+    "FNAC",
+    "Blind excision of the penis",
+    "HIDA scanning",
+    "Renal isotope scanning"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p325)"
+  },
+  {
+   "id": "SURG-C43-159",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "If an enlarged inguinal node is reactive or due to infection, management includes:",
+   "opts": [
+    "Antibiotics and sentinel lymph-node biopsy",
+    "Immediate total amputation",
+    "Only radiotherapy",
+    "No assessment"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics and sentinel lymph-node biopsy (Book p325)"
+  },
+  {
+   "id": "SURG-C43-160",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "If an inguinal lymph node contains cancer, listed treatment includes radiotherapy and:",
+   "opts": [
+    "Ilioinguinal lymph-node clearance",
+    "Only circumcision",
+    "Perinephric drainage",
+    "A Whipple procedure"
+   ],
+   "ans": 0,
+   "exp": "Ilioinguinal lymph-node clearance (Book p325)"
+  },
+  {
+   "id": "SURG-C43-161",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "The sentinel lymph-node biopsy described for penile cancer is the:",
+   "opts": [
+    "Cabanas procedure",
+    "Mathieu procedure",
+    "Fowler–Stephens procedure",
+    "Anderson–Hynes procedure"
+   ],
+   "ans": 0,
+   "exp": "Cabanas procedure (Book p325)"
+  },
+  {
+   "id": "SURG-C43-162",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "The most important prognostic factor in penile cancer is:",
+   "opts": [
+    "Lymph-node status",
+    "Penile length",
+    "Presence of a hydrocele",
+    "Serum amylase"
+   ],
+   "ans": 0,
+   "exp": "Lymph-node status (Book p325)"
+  },
+  {
+   "id": "SURG-C43-163",
+   "sec": "Penile Cancers",
+   "page": 325,
+   "q": "The commonest cause of death in penile cancer is:",
+   "opts": [
+    "Erosion of femoral or iliac vessels by lymph nodes",
+    "Simple phimosis",
+    "A benign scrotal cyst",
+    "A transilluminant hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Erosion of femoral or iliac vessels by lymph nodes (Book p325)"
+  },
+  {
+   "id": "SURG-C43-164",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 325,
+   "q": "Phimosis is defined as:",
+   "opts": [
+    "Inability to retract the foreskin",
+    "Torsion of the testis",
+    "Inability to pass urine from a ureter",
+    "Dilatation of the pampiniform plexus"
+   ],
+   "ans": 0,
+   "exp": "Inability to retract the foreskin (Book p325)"
+  },
+  {
+   "id": "SURG-C43-165",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 325,
+   "q": "Physiological phimosis may persist up to approximately:",
+   "opts": [
+    "2–6 years of age",
+    "2–6 weeks of age",
+    "12–15 years in every child",
+    "Adulthood in every child"
+   ],
+   "ans": 0,
+   "exp": "2–6 years of age (Book p325)"
+  },
+  {
+   "id": "SURG-C43-166",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 325,
+   "q": "Inability to retract the foreskin beyond six years is listed as:",
+   "opts": [
+    "Symptomatic phimosis",
+    "A normal adult variant",
+    "Varicocele",
+    "Ectopic testis"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic phimosis (Book p325)"
+  },
+  {
+   "id": "SURG-C43-167",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 325,
+   "q": "A symptom associated with phimosis is:",
+   "opts": [
+    "Recurrent urinary tract infection or balanoposthitis",
+    "Cannonball lung metastases",
+    "Renal artery aneurysm",
+    "Gallstone ileus"
+   ],
+   "ans": 0,
+   "exp": "Recurrent urinary tract infection or balanoposthitis (Book p325)"
+  },
+  {
+   "id": "SURG-C43-168",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 325,
+   "q": "Severe phimosis can cause:",
+   "opts": [
+    "Hydronephrosis",
+    "Peyronie's plaque",
+    "A pancreatic tumour",
+    "A renal collar"
+   ],
+   "ans": 0,
+   "exp": "Hydronephrosis (Book p325)"
+  },
+  {
+   "id": "SURG-C43-169",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 325,
+   "q": "Ballooning of the foreskin is a feature of:",
+   "opts": [
+    "Phimosis",
+    "Varicocele",
+    "Testicular torsion",
+    "Renal agenesis"
+   ],
+   "ans": 0,
+   "exp": "Phimosis (Book p325)"
+  },
+  {
+   "id": "SURG-C43-170",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 325,
+   "q": "The treatment of symptomatic phimosis is:",
+   "opts": [
+    "Circumcision",
+    "Orchidectomy",
+    "Radiotherapy",
+    "Ureteric stenting"
+   ],
+   "ans": 0,
+   "exp": "Circumcision (Book p325)"
+  },
+  {
+   "id": "SURG-C43-171",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 326,
+   "q": "The most common vessel causing haemorrhage after circumcision is the:",
+   "opts": [
+    "Frenular vessel",
+    "Renal artery",
+    "Testicular artery",
+    "Dorsal aorta"
+   ],
+   "ans": 0,
+   "exp": "Frenular vessel (Book p326)"
+  },
+  {
+   "id": "SURG-C43-172",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 326,
+   "q": "Other listed postoperative complications of circumcision include:",
+   "opts": [
+    "Infection and chordee formation",
+    "Pancreatitis and jaundice",
+    "Cannonball metastases",
+    "Hydronephrosis in every patient"
+   ],
+   "ans": 0,
+   "exp": "Infection and chordee formation (Book p326)"
+  },
+  {
+   "id": "SURG-C43-173",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 326,
+   "q": "Paraphimosis occurs when the foreskin forms a:",
+   "opts": [
+    "Constriction ring around the penis",
+    "Ring around the kidney",
+    "Valve in the posterior urethra",
+    "Band around the testis"
+   ],
+   "ans": 0,
+   "exp": "Constriction ring around the penis (Book p326)"
+  },
+  {
+   "id": "SURG-C43-174",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 326,
+   "q": "The typical presentation of paraphimosis is:",
+   "opts": [
+    "A swollen painful penis",
+    "Painless jaundice",
+    "A painless renal mass",
+    "A bag-of-worms scrotum"
+   ],
+   "ans": 0,
+   "exp": "A swollen painful penis (Book p326)"
+  },
+  {
+   "id": "SURG-C43-175",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 326,
+   "q": "Initial conservative management of paraphimosis includes:",
+   "opts": [
+    "Xylocaine jelly and reduction",
+    "Immediate nephrectomy",
+    "Radiotherapy",
+    "Only oral chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Xylocaine jelly and reduction (Book p326)"
+  },
+  {
+   "id": "SURG-C43-176",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 326,
+   "q": "Multiple punctures in conservative paraphimosis management are followed by:",
+   "opts": [
+    "Reduction",
+    "Renal transplantation",
+    "Partial penectomy",
+    "Ureteric reimplantation"
+   ],
+   "ans": 0,
+   "exp": "Reduction (Book p326)"
+  },
+  {
+   "id": "SURG-C43-177",
+   "sec": "Phimosis, Circumcision and Paraphimosis",
+   "page": 326,
+   "q": "If conservative reduction of paraphimosis fails, the next step is:",
+   "opts": [
+    "Dorsal slit surgery",
+    "Bilateral orchidectomy",
+    "Whipple surgery",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "Dorsal slit surgery (Book p326)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U43-1",
+   "ch": 43,
+   "n": 1,
+   "title": "Urethral Anatomy, Investigations and Penile Coverings",
+   "sec": "Urethral Anatomy, Investigations and Penile Coverings · p318",
+   "qs": [
+    "SURG-C43-001",
+    "SURG-C43-002",
+    "SURG-C43-003",
+    "SURG-C43-004",
+    "SURG-C43-005",
+    "SURG-C43-006",
+    "SURG-C43-007",
+    "SURG-C43-008",
+    "SURG-C43-009",
+    "SURG-C43-010",
+    "SURG-C43-011",
+    "SURG-C43-012",
+    "SURG-C43-013",
+    "SURG-C43-014",
+    "SURG-C43-015",
+    "SURG-C43-016",
+    "SURG-C43-017",
+    "SURG-C43-018",
+    "SURG-C43-019",
+    "SURG-C43-020"
+   ],
+   "guide": "Map the urethra from the distensible prostatic segment to the narrow external meatus, and keep the investigation direction straight: RGU fills through the penis and shows distal urethra, whereas MCU fills the bladder and demonstrates proximal urethra and reflux. Around the penis, remember the order skin, Dartos, areolar tissue, Buck's fascia and tunica albuginea, with the corpora cavernosa and ventral corpus spongiosum forming the erectile framework."
+  },
+  {
+   "id": "SURG-U43-2",
+   "ch": 43,
+   "n": 2,
+   "title": "Hypospadias",
+   "sec": "Hypospadias · p319",
+   "qs": [
+    "SURG-C43-021",
+    "SURG-C43-022",
+    "SURG-C43-023",
+    "SURG-C43-024",
+    "SURG-C43-025",
+    "SURG-C43-026",
+    "SURG-C43-027",
+    "SURG-C43-028",
+    "SURG-C43-029",
+    "SURG-C43-030",
+    "SURG-C43-031",
+    "SURG-C43-032",
+    "SURG-C43-033",
+    "SURG-C43-034",
+    "SURG-C43-035",
+    "SURG-C43-036",
+    "SURG-C43-037",
+    "SURG-C43-038",
+    "SURG-C43-039",
+    "SURG-C43-040",
+    "SURG-C43-041",
+    "SURG-C43-042",
+    "SURG-C43-043",
+    "SURG-C43-044",
+    "SURG-C43-045",
+    "SURG-C43-046",
+    "SURG-C43-047",
+    "SURG-C43-048",
+    "SURG-C43-049",
+    "SURG-C43-050"
+   ],
+   "guide": "Hypospadias is a ventral meatus with severity increasing as the opening moves proximally; glanular disease is mildest and most common, while perineal disease is most severe. Repair at 6–12 months preserves the foreskin for reconstruction and combines chordee correction, urethral tubularization, glanuloplasty and skin cover; know the named distal, mid and proximal procedures and their fistula, stenosis, stricture and recurrent-chordee complications."
+  },
+  {
+   "id": "SURG-U43-3",
+   "ch": 43,
+   "n": 3,
+   "title": "Ectopia Vesicae",
+   "sec": "Ectopia Vesicae · p320",
+   "qs": [
+    "SURG-C43-051",
+    "SURG-C43-052",
+    "SURG-C43-053",
+    "SURG-C43-054",
+    "SURG-C43-055",
+    "SURG-C43-056",
+    "SURG-C43-057",
+    "SURG-C43-058"
+   ],
+   "guide": "Ectopia vesicae is a poor-prognosis deficiency of the anterior abdominal wall and bladder wall below the umbilicus. Dribbling urine, pelvic diastasis needing iliac osteotomy, bilateral congenital hernias, undescended testis in males, bifid clitoris in females, recurrent infection and strictures are the associated pattern."
+  },
+  {
+   "id": "SURG-U43-4",
+   "ch": 43,
+   "n": 4,
+   "title": "Urethral Trauma and Stricture Management",
+   "sec": "Urethral Trauma and Stricture Management · p320",
+   "qs": [
+    "SURG-C43-059",
+    "SURG-C43-060",
+    "SURG-C43-061",
+    "SURG-C43-062",
+    "SURG-C43-063",
+    "SURG-C43-064",
+    "SURG-C43-065",
+    "SURG-C43-066",
+    "SURG-C43-067",
+    "SURG-C43-068",
+    "SURG-C43-069",
+    "SURG-C43-070",
+    "SURG-C43-071",
+    "SURG-C43-072",
+    "SURG-C43-073",
+    "SURG-C43-074",
+    "SURG-C43-075",
+    "SURG-C43-076",
+    "SURG-C43-077",
+    "SURG-C43-078",
+    "SURG-C43-079",
+    "SURG-C43-080",
+    "SURG-C43-081",
+    "SURG-C43-082",
+    "SURG-C43-083"
+   ],
+   "guide": "Separate anterior bulbar/penile trauma from posterior prostatic/membranous trauma: straddle injury produces a butterfly superficial haematoma, while pelvic fracture produces deep haematoma, Vermooten's floating prostate and bladder distension. Never pass a Foley blindly; use suprapubic drainage when a full symptomatic bladder demands it and RGU for diagnosis. Match stricture length and completeness to OIU/VIU, end-to-end anastomosis or buccal-mucosal Barbagli graft, including the illustrated spatulation and mobilization measurements."
+  },
+  {
+   "id": "SURG-U43-5",
+   "ch": 43,
+   "n": 5,
+   "title": "Fracture Shaft of the Penis",
+   "sec": "Fracture Shaft of the Penis · p322",
+   "qs": [
+    "SURG-C43-084",
+    "SURG-C43-085",
+    "SURG-C43-086",
+    "SURG-C43-087",
+    "SURG-C43-088",
+    "SURG-C43-089",
+    "SURG-C43-090"
+   ],
+   "guide": "Penile fracture is a tear of the corpora cavernosa or tunica albuginea in an erect penis, classically announced by a pop, pain, swelling and eggplant deformity. Drain the haematoma and repair the tear, then use a one-month course of oral contraceptive pills to prevent erection."
+  },
+  {
+   "id": "SURG-U43-6",
+   "ch": 43,
+   "n": 6,
+   "title": "Posterior Urethral Valves",
+   "sec": "Posterior Urethral Valves · p322",
+   "qs": [
+    "SURG-C43-091",
+    "SURG-C43-092",
+    "SURG-C43-093",
+    "SURG-C43-094",
+    "SURG-C43-095",
+    "SURG-C43-096",
+    "SURG-C43-097",
+    "SURG-C43-098",
+    "SURG-C43-099",
+    "SURG-C43-100"
+   ],
+   "guide": "Posterior urethral valves are male one-way valves that produce recurrent UTI and hydronephrosis; Young type I is most common, type II is rare and type III is Cobb's collar. A keyhole defect on MCU points to the diagnosis, and the treatment is valve fulguration."
+  },
+  {
+   "id": "SURG-U43-7",
+   "ch": 43,
+   "n": 7,
+   "title": "Peyronie's Disease",
+   "sec": "Peyronie's Disease · p323",
+   "qs": [
+    "SURG-C43-101",
+    "SURG-C43-102",
+    "SURG-C43-103",
+    "SURG-C43-104",
+    "SURG-C43-105",
+    "SURG-C43-106",
+    "SURG-C43-107",
+    "SURG-C43-108",
+    "SURG-C43-109",
+    "SURG-C43-110",
+    "SURG-C43-111",
+    "SURG-C43-112",
+    "SURG-C43-113"
+   ],
+   "guide": "Peyronie's disease is a palpable calcific corporal plaque that bends the erect penis towards itself and interferes with intercourse; it travels with retroperitoneal fibrosis and Dupuytren's contracture. Distinguish the active phase, when the angle increases, from stabilization; MRI and examination support diagnosis, collagenase Xiaflex is first line, and failed disease is counterbalanced by Nesbit/16-dot sutures or plaque excision with bovine pericardium."
+  },
+  {
+   "id": "SURG-U43-8",
+   "ch": 43,
+   "n": 8,
+   "title": "Priapism",
+   "sec": "Priapism · p323",
+   "qs": [
+    "SURG-C43-114",
+    "SURG-C43-115",
+    "SURG-C43-116",
+    "SURG-C43-117",
+    "SURG-C43-118",
+    "SURG-C43-119",
+    "SURG-C43-120",
+    "SURG-C43-121",
+    "SURG-C43-122",
+    "SURG-C43-123",
+    "SURG-C43-124",
+    "SURG-C43-125",
+    "SURG-C43-126",
+    "SURG-C43-127",
+    "SURG-C43-128",
+    "SURG-C43-129",
+    "SURG-C43-130",
+    "SURG-C43-131",
+    "SURG-C43-132",
+    "SURG-C43-133",
+    "SURG-C43-134"
+   ],
+   "guide": "Priapism beyond four hours is dangerous, with ischaemia and necrosis after six hours. High-flow disease is painless, oxygenated and inflow-driven after trauma, papaverine or spinal injury; low-flow disease is more common, painful, deoxygenated and venous-blocked in sickle cell disease, children and leukaemia. Follow sedation and intracavernosal adrenaline with Greyhack shunt surgery if persistent, or embolisation for persistent high flow."
+  },
+  {
+   "id": "SURG-U43-9",
+   "ch": 43,
+   "n": 9,
+   "title": "Penile Cancers",
+   "sec": "Penile Cancers · p324",
+   "qs": [
+    "SURG-C43-135",
+    "SURG-C43-136",
+    "SURG-C43-137",
+    "SURG-C43-138",
+    "SURG-C43-139",
+    "SURG-C43-140",
+    "SURG-C43-141",
+    "SURG-C43-142",
+    "SURG-C43-143",
+    "SURG-C43-144",
+    "SURG-C43-145",
+    "SURG-C43-146",
+    "SURG-C43-147",
+    "SURG-C43-148",
+    "SURG-C43-149",
+    "SURG-C43-150",
+    "SURG-C43-151",
+    "SURG-C43-152",
+    "SURG-C43-153",
+    "SURG-C43-154",
+    "SURG-C43-155",
+    "SURG-C43-156",
+    "SURG-C43-157",
+    "SURG-C43-158",
+    "SURG-C43-159",
+    "SURG-C43-160",
+    "SURG-C43-161",
+    "SURG-C43-162",
+    "SURG-C43-163"
+   ],
+   "guide": "Penile cancer is usually squamous-cell carcinoma with p53 mutation; Buschke–Lowenstein is a slow HPV-related outward-growing verrucous tumour. Know the premalignant site map, keratin pearls, MRI local staging, PET-CT for distant spread, TNM/Jackson systems, margin-based partial versus total amputation, FNAC-led nodal management, Cabanas sentinel biopsy and the prognostic importance of lymph nodes."
+  },
+  {
+   "id": "SURG-U43-10",
+   "ch": 43,
+   "n": 10,
+   "title": "Phimosis, Circumcision and Paraphimosis",
+   "sec": "Phimosis, Circumcision and Paraphimosis · p325",
+   "qs": [
+    "SURG-C43-164",
+    "SURG-C43-165",
+    "SURG-C43-166",
+    "SURG-C43-167",
+    "SURG-C43-168",
+    "SURG-C43-169",
+    "SURG-C43-170",
+    "SURG-C43-171",
+    "SURG-C43-172",
+    "SURG-C43-173",
+    "SURG-C43-174",
+    "SURG-C43-175",
+    "SURG-C43-176",
+    "SURG-C43-177"
+   ],
+   "guide": "Phimosis is failure to retract the foreskin: physiological to 2–6 years, but symptomatic with persistence, recurrent UTI/balanoposthitis, ballooning or severe hydronephrosis and treated by circumcision. Circumcision most often bleeds from the frenular vessel; paraphimosis is a painful constriction ring, reduced with Xylocaine jelly and punctures or treated by dorsal slit when reduction fails."
+  }
+ ]
+}

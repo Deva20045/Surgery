@@ -1,0 +1,1871 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C41-001",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The epididymis primarily:",
+   "opts": [
+    "Transports sperm to the vas deferens",
+    "Produces testosterone",
+    "Drains lymph to the inguinal nodes",
+    "Forms the tunica vaginalis"
+   ],
+   "ans": 0,
+   "exp": "The epididymis transports sperm to the vas deferens. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-002",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The seminiferous tubules are the site of:",
+   "opts": [
+    "Spermatogenesis",
+    "Testosterone storage",
+    "Lymphatic drainage",
+    "Hydrocele formation"
+   ],
+   "ans": 0,
+   "exp": "Seminiferous tubules are the site of spermatogenesis. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-003",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The rete testis transports sperm to the:",
+   "opts": [
+    "Epididymis",
+    "Prostate",
+    "Seminal vesicle",
+    "Urethral meatus"
+   ],
+   "ans": 0,
+   "exp": "The rete testis transports sperm to the epididymis. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-004",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "Accumulation of fluid in the tunica vaginalis produces:",
+   "opts": [
+    "Hydrocele",
+    "Varicocele",
+    "Spermatocele",
+    "Epididymo-orchitis"
+   ],
+   "ans": 0,
+   "exp": "Fluid accumulation in the tunica vaginalis causes a hydrocele. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-005",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The left testicular vein drains:",
+   "opts": [
+    "At a right angle into the left renal vein",
+    "Directly into the inferior vena cava",
+    "Into the right renal vein",
+    "Into the portal vein"
+   ],
+   "ans": 0,
+   "exp": "The left testicular vein drains at a right angle into the left renal vein. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-006",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The longer course of the left testicular vein contributes to the fact that:",
+   "opts": [
+    "Left-sided varicocele is more common",
+    "Right-sided varicocele is more common",
+    "Varicocele is never left-sided",
+    "Only bilateral hydrocele occurs"
+   ],
+   "ans": 0,
+   "exp": "The left testicular vein has a longer course and left varicocele is more common. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-007",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The first lymphatic basin for the left testis is the:",
+   "opts": [
+    "Para-aortic group",
+    "Superficial inguinal group",
+    "External iliac group",
+    "Mesenteric group"
+   ],
+   "ans": 0,
+   "exp": "Left testicular lymphatics drain first to the para-aortic group. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-008",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The first lymphatic basin for the right testis is the:",
+   "opts": [
+    "Interaortocaval group",
+    "Para-aortic group only",
+    "Superficial inguinal group",
+    "Internal iliac group"
+   ],
+   "ans": 0,
+   "exp": "Right testicular lymphatics drain first to the interaortocaval group. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-009",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The testis develops in the:",
+   "opts": [
+    "Genital ridge in the retroperitoneum",
+    "Scrotal skin",
+    "Anterior abdominal wall",
+    "Pelvic peritoneum"
+   ],
+   "ans": 0,
+   "exp": "The testis develops in the genital ridge, which is retroperitoneal. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-010",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "Which is a trigger for descent of the testis?",
+   "opts": [
+    "Pull of the gubernaculum",
+    "Contraction of the cremaster alone",
+    "Closure of the processus vaginalis",
+    "Obstruction of the vas deferens"
+   ],
+   "ans": 0,
+   "exp": "Triggers for descent include the pull of the contractile gubernaculum. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-011",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "The gubernaculum is described in the chapter as:",
+   "opts": [
+    "Contractile tissue",
+    "A lymphatic channel",
+    "A venous plexus",
+    "A part of the tunica albuginea"
+   ],
+   "ans": 0,
+   "exp": "The gubernaculum is contractile tissue involved in testicular descent. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-012",
+   "sec": "Surgical Anatomy, Blood Supply and Descent",
+   "page": 307,
+   "q": "Besides the gubernaculum, testicular descent is aided by:",
+   "opts": [
+    "Hormonal factors and differential growth of the abdominal wall",
+    "Only increased intra-abdominal pressure",
+    "Only closure of the inguinal canal",
+    "Only contraction of the dartos muscle"
+   ],
+   "ans": 0,
+   "exp": "Hormonal factors and differential growth of the abdominal wall are also descent triggers. (Book p307)"
+  },
+  {
+   "id": "SURG-C41-013",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "An undescended testis is one that:",
+   "opts": [
+    "Is arrested along the normal path of descent",
+    "Has deviated from the normal path",
+    "Has undergone torsion in the scrotum",
+    "Is always absent"
+   ],
+   "ans": 0,
+   "exp": "An undescended testis is arrested along its normal path of descent. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-014",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The most common site of arrest of an undescended testis is the:",
+   "opts": [
+    "Inguinal canal",
+    "Abdominal cavity",
+    "Superficial perineum",
+    "Scrotal neck"
+   ],
+   "ans": 0,
+   "exp": "The inguinal canal is the most common site of arrest. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-015",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Undescended testis is more common on the:",
+   "opts": [
+    "Right side",
+    "Left side",
+    "Two sides equally in every case",
+    "Side of the dominant hand"
+   ],
+   "ans": 0,
+   "exp": "Right-sided undescended testis is more common because the right testis descends later. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-016",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Bilateral undescended testes are termed:",
+   "opts": [
+    "Cryptorchidism",
+    "Anorchia",
+    "Monorchia",
+    "Ectopic testis"
+   ],
+   "ans": 0,
+   "exp": "Bilateral undescended testes are called cryptorchidism. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-017",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The testis begins its descent at approximately:",
+   "opts": [
+    "3 months of intrauterine life",
+    "At birth",
+    "6 months of intrauterine life",
+    "9 months of intrauterine life"
+   ],
+   "ans": 0,
+   "exp": "The timeline shows that testicular descent begins at 3 months of intrauterine life. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-018",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "At approximately 6 months of intrauterine life, the descending testis lies in the:",
+   "opts": [
+    "Iliac fossa",
+    "Scrotum",
+    "Superficial inguinal ring",
+    "Perineum"
+   ],
+   "ans": 0,
+   "exp": "At 6 months the testis lies in the iliac fossa. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-019",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "At approximately 7 months of intrauterine life, the testis lies in the:",
+   "opts": [
+    "Inguinal canal",
+    "Iliac fossa",
+    "Scrotum",
+    "Renal fossa"
+   ],
+   "ans": 0,
+   "exp": "At 7 months the testis lies in the inguinal canal. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-020",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "At approximately 8 months of intrauterine life, the testis lies at the:",
+   "opts": [
+    "Superficial ring",
+    "Deep ring only",
+    "Scrotal base",
+    "Pelvic brim"
+   ],
+   "ans": 0,
+   "exp": "At 8 months the testis lies at the superficial ring. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-021",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The testis reaches the scrotum at approximately:",
+   "opts": [
+    "9 months of intrauterine life",
+    "3 months",
+    "5 months",
+    "7 months"
+   ],
+   "ans": 0,
+   "exp": "The timeline shows scrotal arrival at 9 months of intrauterine life. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-022",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "A characteristic change in an undescended testis is:",
+   "opts": [
+    "Decreased volume",
+    "Increased volume in every case",
+    "Calcification of the tunica",
+    "Immediate hydrocele"
+   ],
+   "ans": 0,
+   "exp": "An undescended testis has decreased volume. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-023",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Undescended testis is associated with an increased risk of:",
+   "opts": [
+    "Intratubular germ cell neoplasia and seminoma",
+    "Only Leydig-cell adenoma",
+    "Only prostate cancer",
+    "Only renal-cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Undescended testis increases intratubular germ cell neoplasia and seminoma risk. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-024",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "In an undescended testis, which cells are affected more?",
+   "opts": [
+    "Sertoli cells",
+    "Leydig cells",
+    "Peritubular myoid cells only",
+    "Red blood cells"
+   ],
+   "ans": 0,
+   "exp": "Sertoli cells are affected more in an undescended testis. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-025",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The effect of undescended testis on Sertoli cells is:",
+   "opts": [
+    "Reduced spermatogenesis",
+    "Increased spermatogenesis",
+    "Increased testosterone secretion",
+    "No effect on fertility"
+   ],
+   "ans": 0,
+   "exp": "Sertoli-cell injury causes reduced spermatogenesis. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-026",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Leydig cells in an undescended testis are affected less, so there are usually:",
+   "opts": [
+    "Normal secondary sexual characteristics",
+    "Absent secondary sexual characteristics",
+    "Female secondary sexual characteristics",
+    "Only adrenal sexual characteristics"
+   ],
+   "ans": 0,
+   "exp": "Leydig cells are affected less and secondary sexual characteristics remain normal. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-027",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The higher the undescended testis, the:",
+   "opts": [
+    "Greater the histological changes",
+    "Less the risk of histological change",
+    "More normal the seminiferous tubules",
+    "Lower the risk of malignancy"
+   ],
+   "ans": 0,
+   "exp": "Higher position is associated with more histological changes. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-028",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Which is a listed complication of an undescended testis?",
+   "opts": [
+    "Trauma",
+    "Varicose veins of the leg",
+    "Pancreatitis",
+    "Gallstone ileus"
+   ],
+   "ans": 0,
+   "exp": "Trauma is one of the listed complications of an undescended testis. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-029",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Sterility associated with an undescended testis is particularly described in:",
+   "opts": [
+    "Cryptorchidism",
+    "Retractile testis",
+    "Hydrocele",
+    "A simple epididymal cyst"
+   ],
+   "ans": 0,
+   "exp": "Sterility is described in cryptorchidism; early surgery is recommended. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-030",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "If surgery for cryptorchidism is delayed until adulthood, the patient may:",
+   "opts": [
+    "Remain infertile",
+    "Always regain normal fertility",
+    "Develop only a hydrocele",
+    "Have guaranteed normal spermatogenesis"
+   ],
+   "ans": 0,
+   "exp": "When surgery is done in adulthood, infertility may persist. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-031",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The most common associated hernia in undescended testis is:",
+   "opts": [
+    "Indirect inguinal hernia",
+    "Direct inguinal hernia",
+    "Femoral hernia",
+    "Incisional hernia"
+   ],
+   "ans": 0,
+   "exp": "Indirect inguinal hernia is the commonest associated hernia, listed as about 95%. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-032",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The most common malignancy associated with undescended testis is:",
+   "opts": [
+    "Seminoma",
+    "Choriocarcinoma",
+    "Yolk sac tumour",
+    "Leydig-cell tumour"
+   ],
+   "ans": 0,
+   "exp": "Seminoma is the most common malignancy associated with an undescended testis. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-033",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Surgery for an undescended testis is recommended before puberty mainly to:",
+   "opts": [
+    "Reduce the risk of cancer",
+    "Create a hydrocele",
+    "Prevent all epididymo-orchitis",
+    "Increase the length of the vas deferens"
+   ],
+   "ans": 0,
+   "exp": "Surgery before puberty reduces the risk of cancer. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-034",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "An undescended testis is commonly reported by the:",
+   "opts": [
+    "Mother",
+    "Anaesthetist",
+    "Radiologist",
+    "Laboratory technician"
+   ],
+   "ans": 0,
+   "exp": "Clinical presentation is commonly reported by the mother. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-035",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Absent scrotal rugosities suggest:",
+   "opts": [
+    "An undescended testis",
+    "A scrotal sebaceous cyst",
+    "A spermatocele",
+    "A normal descended testis"
+   ],
+   "ans": 0,
+   "exp": "Scrotal rugosities are absent in the clinical presentation of an undescended testis. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-036",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "An inguinal undescended testis is usually:",
+   "opts": [
+    "Palpable",
+    "Never palpable",
+    "Visible only on CT",
+    "Always found in the scrotum"
+   ],
+   "ans": 0,
+   "exp": "An inguinal testis is palpable. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-037",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The investigation of choice for an inguinal undescended testis is:",
+   "opts": [
+    "Ultrasonography",
+    "Plain radiography",
+    "Barium meal",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Ultrasonography is used for an inguinal testis. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-038",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The investigation of choice for an intra-abdominal undescended testis is:",
+   "opts": [
+    "Diagnostic laparoscopy",
+    "Scrotal transillumination",
+    "Barium enema",
+    "Cystoscopy"
+   ],
+   "ans": 0,
+   "exp": "Diagnostic laparoscopy is the investigation of choice for an intra-abdominal testis. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-039",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "Spontaneous descent of the testis can occur until approximately:",
+   "opts": [
+    "5 months of age",
+    "2 weeks of age",
+    "2 years of age",
+    "Puberty"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous descent can occur until 5 months; conservative management is used until then. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-040",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 308,
+   "q": "The ideal timing of surgery for an undescended testis is:",
+   "opts": [
+    "6–12 months of age",
+    "At birth in every case",
+    "After puberty",
+    "Only after infertility develops"
+   ],
+   "ans": 0,
+   "exp": "The ideal timing of surgery is 6–12 months of age. (Book p308)"
+  },
+  {
+   "id": "SURG-C41-041",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "In bilateral undescended testis, the initial protocol uses:",
+   "opts": [
+    "A single dose of beta-hCG",
+    "Long-term testosterone alone",
+    "A single dose of FSH",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "The bilateral cryptorchidism protocol begins with a single dose of beta-hCG. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-042",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "In bilateral undescended testes, no response to beta-hCG suggests:",
+   "opts": [
+    "Anorchia",
+    "A viable intra-abdominal testis",
+    "Ectopic testis",
+    "Retractile testis"
+   ],
+   "ans": 0,
+   "exp": "No response to beta-hCG in the bilateral protocol suggests anorchia. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-043",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "In bilateral cryptorchidism, a rise in testosterone with raised FSH and LH is followed by:",
+   "opts": [
+    "Laparoscopy and exploration",
+    "Immediate hydrocelectomy",
+    "Observation only",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Raised testosterone with FSH and LH leads to laparoscopy and exploration in the protocol. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-044",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "For a unilateral undescended testis, the initial operative evaluation is:",
+   "opts": [
+    "Laparoscopy",
+    "Transillumination",
+    "Barium urethrography",
+    "Open scrotal biopsy"
+   ],
+   "ans": 0,
+   "exp": "Laparoscopy is used in the unilateral undescended testis protocol. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-045",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "At laparoscopy, an intra-abdominal testis that is necrotic or rudimentary is managed by:",
+   "opts": [
+    "Orchidectomy",
+    "Orchidopexy",
+    "Observation for spontaneous descent",
+    "Hydrocele repair"
+   ],
+   "ans": 0,
+   "exp": "A necrotic or rudimentary intra-abdominal testis is treated by orchidectomy. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-046",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "At laparoscopy, a viable intra-abdominal testis is managed by:",
+   "opts": [
+    "Orchidopexy",
+    "Orchidectomy in every case",
+    "Excision of the remnant",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "A viable intra-abdominal testis is treated with orchidopexy. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-047",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "If the testicular vessels are seen exiting the deep ring, the next step is:",
+   "opts": [
+    "Inguinal exploration",
+    "Immediate nephrectomy",
+    "Scrotal aspiration",
+    "No further evaluation"
+   ],
+   "ans": 0,
+   "exp": "Vessels exiting the deep ring lead to inguinal exploration. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-048",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "Blind-ending testicular vessels in the unilateral protocol suggest monorchia or:",
+   "opts": [
+    "Intrauterine torsion",
+    "Hydrocele",
+    "Epididymitis",
+    "Varicocele"
+   ],
+   "ans": 0,
+   "exp": "Blind-ending vessels suggest monorchia or intrauterine torsion. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-049",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "Blind-ending testicular vessels are managed by:",
+   "opts": [
+    "Excision of the remnant",
+    "Orchidopexy of the remnant",
+    "Beta-hCG therapy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "The remnant is excised when the vessels are blind-ending. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-050",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "Fowler–Stephens orchidopexy is a:",
+   "opts": [
+    "Two-stage procedure",
+    "Single-stage hydrocele repair",
+    "Three-stage procedure",
+    "Non-operative protocol"
+   ],
+   "ans": 0,
+   "exp": "Fowler–Stephens orchidopexy is a two-stage procedure. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-051",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "The first stage of Fowler–Stephens orchidopexy involves:",
+   "opts": [
+    "High ligation of testicular vessels and mobilisation into the inguinal canal",
+    "Excision of the testis",
+    "Only fixation in the scrotum",
+    "Ligation of the vas deferens"
+   ],
+   "ans": 0,
+   "exp": "Stage 1 is high ligation of testicular vessels plus mobilisation into the inguinal canal. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-052",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "The rationale for high ligation in Fowler–Stephens orchidopexy is to create a:",
+   "opts": [
+    "Longer pedicle that is easier to mobilise",
+    "Shorter pedicle with no blood supply",
+    "Wider inguinal ring",
+    "New vas deferens"
+   ],
+   "ans": 0,
+   "exp": "High ligation creates a longer pedicle that is easier to mobilise. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-053",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "The second stage of Fowler–Stephens orchidopexy is performed after a few weeks and involves:",
+   "opts": [
+    "Mobilisation of the testis into the scrotum",
+    "Removal of the testis",
+    "Closure of the processus vaginalis only",
+    "Ligation of the renal vein"
+   ],
+   "ans": 0,
+   "exp": "Stage 2 mobilises the testis into the scrotum after a few weeks. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-054",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "The best method of orchidopexy listed in the chapter is:",
+   "opts": [
+    "Silbaar technique",
+    "Keetley–Torek technique",
+    "Jaboulay procedure",
+    "Lord's plication"
+   ],
+   "ans": 0,
+   "exp": "Silbaar is listed as the best orchidopexy method. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-055",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "In the Silbaar method, the testicular vessels are cut and followed by:",
+   "opts": [
+    "Microvascular anastomosis with branches of the internal iliac",
+    "Anastomosis with the portal vein",
+    "Ligation of the vas deferens",
+    "Anastomosis with the femoral artery"
+   ],
+   "ans": 0,
+   "exp": "Silbaar uses microvascular anastomosis with branches of the internal iliac after cutting the testicular vessels. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-056",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "An ectopic testis is one that:",
+   "opts": [
+    "Deviates from the normal path of descent",
+    "Is arrested along the normal path",
+    "Is always intra-abdominal",
+    "Has no blood supply"
+   ],
+   "ans": 0,
+   "exp": "An ectopic testis deviates from the normal path of descent. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-057",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "The most common site of an ectopic testis is the:",
+   "opts": [
+    "Superficial inguinal pouch near the superficial ring",
+    "Perineum",
+    "Renal fossa",
+    "Contralateral scrotum"
+   ],
+   "ans": 0,
+   "exp": "The superficial inguinal pouch close to the superficial ring is the commonest ectopic site. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-058",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "The treatment of an ectopic testis is:",
+   "opts": [
+    "Orchidopexy",
+    "Reassurance only",
+    "Orchidectomy in all cases",
+    "Hydrocelectomy"
+   ],
+   "ans": 0,
+   "exp": "Ectopic testis is managed by orchidopexy. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-059",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "A retractile testis is considered a:",
+   "opts": [
+    "Normal variant",
+    "Malignancy",
+    "Form of anorchia",
+    "Type of hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Retractile testis is a normal variant. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-060",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "A retractile testis may:",
+   "opts": [
+    "Occasionally jump into the inguinal canal and return to the scrotum",
+    "Never enter the inguinal canal",
+    "Always remain intra-abdominal",
+    "Become an ectopic testis"
+   ],
+   "ans": 0,
+   "exp": "A retractile testis can occasionally jump into the inguinal canal and return to the scrotum by itself or manual repositioning. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-061",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management",
+   "page": 309,
+   "q": "The management of a retractile testis is:",
+   "opts": [
+    "Reassurance",
+    "Immediate orchidectomy",
+    "Fowler–Stephens orchidopexy",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "A retractile testis is managed with reassurance. (Book p309)"
+  },
+  {
+   "id": "SURG-C41-062",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "The bell-clapper deformity predisposes to torsion because of:",
+   "opts": [
+    "High attachment of the tunica vaginalis",
+    "Low attachment of the tunica vaginalis",
+    "Absence of the epididymis",
+    "A patent processus vaginalis only"
+   ],
+   "ans": 0,
+   "exp": "Bell-clapper testis has high attachment of the tunica vaginalis. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-063",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "Which is a risk factor for testicular torsion?",
+   "opts": [
+    "Testicular inversion",
+    "A descended testis with normal attachment only",
+    "Hydrocele alone",
+    "Epididymal cyst"
+   ],
+   "ans": 0,
+   "exp": "Testicular inversion is a listed risk factor for torsion. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-064",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "An undescended testis is a risk factor for:",
+   "opts": [
+    "Testicular torsion",
+    "Only hydrocele",
+    "Only penile fracture",
+    "Only balanitis"
+   ],
+   "ans": 0,
+   "exp": "Undescended testis is a risk factor for testicular torsion. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-065",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "Separation of the testis from the epididymis is a:",
+   "opts": [
+    "Rare risk factor for torsion",
+    "Common cause of hydrocele",
+    "Diagnostic sign of epididymitis",
+    "Normal attachment"
+   ],
+   "ans": 0,
+   "exp": "A testis separating from the epididymis is a rare torsion risk factor. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-066",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "The typical patient with testicular torsion is a:",
+   "opts": [
+    "Young male",
+    "Postmenopausal woman",
+    "Neonate with a renal cyst",
+    "Elderly woman"
+   ],
+   "ans": 0,
+   "exp": "Testicular torsion typically affects a young male. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-067",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "The pain of testicular torsion is typically:",
+   "opts": [
+    "Acute, severe scrotal pain",
+    "Mild chronic loin pain",
+    "Painless swelling",
+    "Pain only on micturition"
+   ],
+   "ans": 0,
+   "exp": "Torsion causes acute-onset severe scrotal pain. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-068",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "Acute swelling in a young male with severe scrotal pain should raise suspicion of:",
+   "opts": [
+    "Testicular torsion",
+    "Simple spermatocele",
+    "Scrotal sebaceous cyst",
+    "Chronic hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Acute swelling accompanies the acute pain of torsion. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-069",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "In testicular torsion, lifting the testis on Prehn's sign causes:",
+   "opts": [
+    "Increased pain",
+    "Relief of pain",
+    "No change in pain in every case",
+    "Immediate reduction of swelling"
+   ],
+   "ans": 0,
+   "exp": "The book contrasts torsion, in which lifting the testis increases pain, with epididymo-orchitis, in which pain decreases. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-070",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "In torsion, the affected testis lies:",
+   "opts": [
+    "Higher than the opposite testis",
+    "Lower than the opposite testis",
+    "At the level of the knee",
+    "Only in the perineum"
+   ],
+   "ans": 0,
+   "exp": "The Deming sign is a higher-riding testis on the side of torsion. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-071",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "A transversely placed testis is suggestive of:",
+   "opts": [
+    "Testicular torsion",
+    "Hydrocele",
+    "Varicocele",
+    "Epididymal cyst"
+   ],
+   "ans": 0,
+   "exp": "A transverse lie is a listed sign of torsion. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-072",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "A 720-degree twist causes more rapid ischaemia than a twist of:",
+   "opts": [
+    "Less than 360 degrees",
+    "Exactly 720 degrees",
+    "More than 1080 degrees only",
+    "No twist"
+   ],
+   "ans": 0,
+   "exp": "A 720-degree twist causes more rapid ischaemia than a twist of less than 360 degrees. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-073",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "If testicular torsion is untwisted within 6 hours, the chance of salvage is approximately:",
+   "opts": [
+    "100%",
+    "20%",
+    "50%",
+    "0%"
+   ],
+   "ans": 0,
+   "exp": "Untwisting within 6 hours gives a 100% chance of salvage in the chapter. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-074",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "If testicular torsion is treated after 24 hours, the chance of salvage is approximately:",
+   "opts": [
+    "20%",
+    "100%",
+    "80%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "After more than 24 hours the listed chance of salvage is 20%. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-075",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "The diagnosis of testicular torsion is primarily:",
+   "opts": [
+    "Clinical, supported by Doppler",
+    "Made only by biopsy",
+    "Made only by urine culture",
+    "Made by plain abdominal X-ray"
+   ],
+   "ans": 0,
+   "exp": "Torsion is diagnosed clinically and supported by Doppler. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-076",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "Doppler in testicular torsion shows:",
+   "opts": [
+    "Absent blood flow in the testis",
+    "Increased renal blood flow",
+    "A normal testicular flow in every case",
+    "Portal venous flow"
+   ],
+   "ans": 0,
+   "exp": "Doppler shows absent blood flow in the affected testis. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-077",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "The operative management of suspected testicular torsion is:",
+   "opts": [
+    "Scrotal exploration",
+    "Observation for 24 hours",
+    "Aspiration of the hydrocele",
+    "Perineal urethrostomy"
+   ],
+   "ans": 0,
+   "exp": "Scrotal exploration is the operative management of torsion. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-078",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "At exploration, a viable torsed testis is managed by:",
+   "opts": [
+    "De-rotation and orchidopexy",
+    "Orchidectomy without detorsion",
+    "Only antibiotics",
+    "Hydrocelectomy"
+   ],
+   "ans": 0,
+   "exp": "A viable testis is de-rotated and fixed by orchidopexy. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-079",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "At exploration, a necrotic torsed testis is managed by:",
+   "opts": [
+    "Orchidectomy",
+    "Orchidopexy alone",
+    "Observation",
+    "Epididymal aspiration"
+   ],
+   "ans": 0,
+   "exp": "A necrotic testis requires orchidectomy. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-080",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "Orchidopexy for torsion uses:",
+   "opts": [
+    "Three-point fixation with non-absorbable sutures",
+    "A single absorbable suture",
+    "No fixation",
+    "Only a skin suture"
+   ],
+   "ans": 0,
+   "exp": "The testis is fixed at three points with non-absorbable sutures. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-081",
+   "sec": "Testicular Torsion",
+   "page": 310,
+   "q": "After unilateral testicular torsion, the contralateral testis should undergo:",
+   "opts": [
+    "Prophylactic orchidopexy",
+    "Routine orchidectomy",
+    "No procedure ever",
+    "Only hydrocele repair"
+   ],
+   "ans": 0,
+   "exp": "Prophylactic contralateral orchidopexy is performed because the predisposing anatomy may be bilateral. (Book p310)"
+  },
+  {
+   "id": "SURG-C41-082",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "Epididymo-orchitis is an infection of the:",
+   "opts": [
+    "Epididymis and testis",
+    "Prostate and seminal vesicle only",
+    "Tunica albuginea only",
+    "Kidney and ureter"
+   ],
+   "ans": 0,
+   "exp": "Epididymo-orchitis is infection of the epididymis plus testis. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-083",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The most common organism in epididymo-orchitis in a patient younger than 40 years is:",
+   "opts": [
+    "Chlamydia",
+    "Escherichia coli",
+    "Proteus",
+    "Candida"
+   ],
+   "ans": 0,
+   "exp": "In patients under 40 years, Chlamydia is the commonest organism. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-084",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The most common organism in epididymo-orchitis in a patient older than 40 years is:",
+   "opts": [
+    "Escherichia coli",
+    "Chlamydia",
+    "Mycobacterium tuberculosis",
+    "Staphylococcus aureus"
+   ],
+   "ans": 0,
+   "exp": "In patients over 40 years, E. coli is the commonest organism, secondary to UTI. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-085",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "A typical clinical feature of epididymo-orchitis is:",
+   "opts": [
+    "Acute scrotal pain and swelling",
+    "Painless scrotal mass",
+    "Chronic loin pain only",
+    "A dry cough"
+   ],
+   "ans": 0,
+   "exp": "Epididymo-orchitis presents with acute scrotal pain and swelling. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-086",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The important differential diagnosis of acute epididymo-orchitis is:",
+   "opts": [
+    "Testicular torsion",
+    "Renal-cell carcinoma",
+    "Hydrocele of the cord",
+    "Phimosis"
+   ],
+   "ans": 0,
+   "exp": "Testicular torsion is the important differential diagnosis. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-087",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "Initial management of epididymo-orchitis includes:",
+   "opts": [
+    "Antibiotics, scrotal support and pain killers",
+    "Orchidectomy in every case",
+    "Only radiotherapy",
+    "Only aspiration"
+   ],
+   "ans": 0,
+   "exp": "Management is antibiotics plus scrotal support and pain killers. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-088",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "A hydrocele is an accumulation of fluid in the:",
+   "opts": [
+    "Tunica vaginalis",
+    "Seminiferous tubules",
+    "Vas deferens",
+    "Epididymal head only"
+   ],
+   "ans": 0,
+   "exp": "Hydrocele is fluid accumulation in the tunica vaginalis. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-089",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The most common type of hydrocele is:",
+   "opts": [
+    "Vaginal hydrocele",
+    "Hydrocele of the cord",
+    "Congenital hydrocele",
+    "Infantile hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Vaginal hydrocele is the commonest type. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-090",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "A vaginal hydrocele consists of fluid accumulation:",
+   "opts": [
+    "Only around the testis",
+    "Only inside the epididymis",
+    "Within the renal pelvis",
+    "Around the prostate"
+   ],
+   "ans": 0,
+   "exp": "Vaginal hydrocele is fluid only around the testis. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-091",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The commonest type of vaginal hydrocele is:",
+   "opts": [
+    "Primary hydrocele",
+    "Secondary hydrocele",
+    "Congenital hydrocele",
+    "Infantile hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Primary vaginal hydrocele is the commonest type. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-092",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "Primary vaginal hydrocele is caused by:",
+   "opts": [
+    "Decreased absorption",
+    "Increased secretion only",
+    "A renal tumour",
+    "A patent urethra"
+   ],
+   "ans": 0,
+   "exp": "Primary hydrocele is due to decreased absorption. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-093",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "Secondary vaginal hydrocele is caused by:",
+   "opts": [
+    "Increased secretion",
+    "Decreased lymphatic drainage only",
+    "Absent tunica vaginalis",
+    "A short vas deferens"
+   ],
+   "ans": 0,
+   "exp": "Secondary vaginal hydrocele is due to increased secretion. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-094",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The most common cause of secondary vaginal hydrocele listed is:",
+   "opts": [
+    "Epididymo-orchitis",
+    "Renal agenesis",
+    "Testicular descent",
+    "Phimosis"
+   ],
+   "ans": 0,
+   "exp": "Secondary hydrocele is most commonly secondary to epididymo-orchitis; trauma and tumours are also listed. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-095",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "A primary hydrocele is usually:",
+   "opts": [
+    "A tense swelling with the testis not separately palpable",
+    "A lax swelling with the testis clearly palpable",
+    "A solid non-scrotal mass",
+    "A painful inguinal mass"
+   ],
+   "ans": 0,
+   "exp": "Primary hydrocele is tense and the testis is not separately palpable. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-096",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "A secondary hydrocele is usually:",
+   "opts": [
+    "A lax swelling with the testis separately palpable",
+    "A tense swelling with no testis palpable",
+    "A solid mass in the renal angle",
+    "A completely empty scrotum"
+   ],
+   "ans": 0,
+   "exp": "Secondary hydrocele is lax and the testis is separately palpable. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-097",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "A primary hydrocele usually contains:",
+   "opts": [
+    "Clear fluid and brilliantly transilluminates",
+    "Turbid fluid with no transillumination",
+    "Blood that never transilluminates",
+    "Air that gives a double bubble sign"
+   ],
+   "ans": 0,
+   "exp": "Primary hydrocele contains clear fluid and is brilliantly transilluminant. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-098",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "A secondary hydrocele usually:",
+   "opts": [
+    "Does not transilluminate because the fluid is turbid",
+    "Brilliantly transilluminates",
+    "Contains only air",
+    "Always contains sperm"
+   ],
+   "ans": 0,
+   "exp": "Secondary hydrocele has turbid fluid and no transillumination. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-099",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The operation listed for a small hydrocele is:",
+   "opts": [
+    "Lord's plication",
+    "Jaboulay's procedure only",
+    "Fowler–Stephens procedure",
+    "Barbagli urethroplasty"
+   ],
+   "ans": 0,
+   "exp": "Lord's plication is used for small hydroceles. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-100",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "Jaboulay's procedure consists of:",
+   "opts": [
+    "Eversion and suturing of the sac",
+    "High ligation of testicular vessels",
+    "End-to-end urethral anastomosis",
+    "Excision of the testis"
+   ],
+   "ans": 0,
+   "exp": "Jaboulay's procedure is eversion plus suturing of the hydrocele sac. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-101",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "An inguinoscrotal swelling in infantile hydrocele has which getting-above sign?",
+   "opts": [
+    "Getting above the swelling is negative",
+    "Getting above the swelling is positive",
+    "It is positive only after exercise",
+    "The sign is never assessed"
+   ],
+   "ans": 0,
+   "exp": "In infantile hydrocele, an inguinoscrotal swelling cannot be got above. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-102",
+   "sec": "Epididymo-orchitis and Hydrocele",
+   "page": 311,
+   "q": "The treatment of infantile hydrocele is:",
+   "opts": [
+    "Excision of excess sac with eversion of the sac",
+    "Orchidectomy",
+    "Only reassurance in all cases",
+    "Percutaneous nephrostomy"
+   ],
+   "ans": 0,
+   "exp": "Infantile hydrocele is treated by excision of excess sac and eversion of the sac. (Book p311)"
+  },
+  {
+   "id": "SURG-C41-103",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Congenital hydrocele is associated with a:",
+   "opts": [
+    "Patent processus vaginalis",
+    "Closed processus vaginalis",
+    "Absent tunica vaginalis",
+    "Patent urethra only"
+   ],
+   "ans": 0,
+   "exp": "Congenital hydrocele has a patent processus vaginalis. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-104",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "A patent processus vaginalis in congenital hydrocele communicates with the:",
+   "opts": [
+    "Peritoneal cavity",
+    "Renal pelvis",
+    "Seminal vesicle",
+    "Subarachnoid space"
+   ],
+   "ans": 0,
+   "exp": "The patent processus vaginalis communicates with the peritoneal cavity. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-105",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Congenital hydrocele is associated with a:",
+   "opts": [
+    "Hernial sac",
+    "Pancreatic pseudocyst",
+    "Urethral diverticulum",
+    "Renal abscess"
+   ],
+   "ans": 0,
+   "exp": "The chapter depicts a hernial sac with congenital hydrocele. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-106",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "The treatment of congenital hydrocele is:",
+   "opts": [
+    "Herniotomy, done by 2–3 years of age",
+    "Lord's plication at birth in every case",
+    "Orchidectomy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Congenital hydrocele is treated by herniotomy, done by 2–3 years of age. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-107",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Hydrocele of the cord presents as:",
+   "opts": [
+    "Swelling along the spermatic cord",
+    "Only a renal-angle mass",
+    "A swelling inside the prostate",
+    "A lesion of the glans"
+   ],
+   "ans": 0,
+   "exp": "Hydrocele of the cord presents as swelling along the cord. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-108",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Symptomatic hydrocele of the cord is treated by:",
+   "opts": [
+    "Excision",
+    "Antibiotics only",
+    "Fowler–Stephens orchidopexy",
+    "Perineal urethrostomy"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic hydrocele of the cord is treated by excision. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-109",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "A spermatocele is usually:",
+   "opts": [
+    "Unilocular",
+    "Multiloculated like a bunch of grapes",
+    "A solid tumour",
+    "A communicating hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Spermatocele is unilocular; an epididymal cyst is multiloculated. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-110",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "An epididymal cyst is characteristically:",
+   "opts": [
+    "Multiloculated, like a bunch of grapes",
+    "Unilocular and solid",
+    "Always connected to the kidney",
+    "Filled with blood only"
+   ],
+   "ans": 0,
+   "exp": "An epididymal cyst is multiloculated and has a bunch-of-grapes appearance. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-111",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "A spermatocele involves the:",
+   "opts": [
+    "Head of the epididymis",
+    "Tunica vaginalis only",
+    "Renal pelvis",
+    "Prostatic urethra"
+   ],
+   "ans": 0,
+   "exp": "The spermatocele involves the epididymal head. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-112",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "An epididymal cyst represents:",
+   "opts": [
+    "Cystic degeneration of the epididymis",
+    "Cystic degeneration of the kidney",
+    "A dilated seminal vesicle",
+    "A testicular germ-cell tumour"
+   ],
+   "ans": 0,
+   "exp": "An epididymal cyst is due to cystic degeneration of the epididymis. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-113",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "The fluid in a spermatocele is described as:",
+   "opts": [
+    "Barley coloured",
+    "Crystal clear",
+    "Milky white in every case",
+    "Frankly purulent"
+   ],
+   "ans": 0,
+   "exp": "Spermatocele contains barley-coloured fluid. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-114",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "The fluid in an epididymal cyst is:",
+   "opts": [
+    "Crystal clear and gives a Chinese-lantern transillumination pattern",
+    "Barley coloured and opaque",
+    "Always blood stained",
+    "Non-transilluminant air"
+   ],
+   "ans": 0,
+   "exp": "Epididymal cyst contains crystal-clear fluid and transilluminates in a Chinese-lantern pattern. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-115",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Spermatocele contains:",
+   "opts": [
+    "Sperm",
+    "Only bile",
+    "No fluid at all",
+    "Urine"
+   ],
+   "ans": 0,
+   "exp": "Sperm are present in a spermatocele. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-116",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "The treatment of a symptomatic spermatocele is:",
+   "opts": [
+    "Excision",
+    "Observation only regardless of symptoms",
+    "Orchidectomy in every case",
+    "Antitubercular therapy"
+   ],
+   "ans": 0,
+   "exp": "A symptomatic spermatocele is treated by excision, which may cause infertility. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-117",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Excision of a symptomatic spermatocele may cause:",
+   "opts": [
+    "Infertility",
+    "Hydronephrosis",
+    "Penile fracture",
+    "Aortic aneurysm"
+   ],
+   "ans": 0,
+   "exp": "Excision of a spermatocele may cause infertility. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-118",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "The treatment of a symptomatic epididymal cyst is:",
+   "opts": [
+    "Excision",
+    "Radiotherapy",
+    "Only scrotal support",
+    "High inguinal orchidectomy"
+   ],
+   "ans": 0,
+   "exp": "A symptomatic epididymal cyst is treated by excision. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-119",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Scrotal sebaceous cysts are due to:",
+   "opts": [
+    "Blocked hair-follicle ducts",
+    "Patent processus vaginalis",
+    "Torsion of the testis",
+    "A ureteric stone"
+   ],
+   "ans": 0,
+   "exp": "Scrotal sebaceous cysts are due to blocked hair follicle ducts. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-120",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "Scrotal sebaceous cysts are associated with:",
+   "opts": [
+    "No increased risk of cancer",
+    "A very high risk of seminoma",
+    "A guaranteed risk of SCC",
+    "An increased risk of renal-cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "The chapter states that scrotal sebaceous cysts do not increase cancer risk. (Book p312)"
+  },
+  {
+   "id": "SURG-C41-121",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "page": 312,
+   "q": "The treatment of a symptomatic scrotal sebaceous cyst is:",
+   "opts": [
+    "Excision",
+    "Chemotherapy",
+    "Orchidopexy",
+    "Endoscopic urethrotomy"
+   ],
+   "ans": 0,
+   "exp": "Symptomatic scrotal sebaceous cysts are treated by excision. (Book p312)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U41-1",
+   "ch": 41,
+   "n": 1,
+   "title": "Surgical Anatomy, Blood Supply and Descent",
+   "sec": "Surgical Anatomy, Blood Supply and Descent · p307",
+   "qs": [
+    "SURG-C41-001",
+    "SURG-C41-002",
+    "SURG-C41-003",
+    "SURG-C41-004",
+    "SURG-C41-005",
+    "SURG-C41-006",
+    "SURG-C41-007",
+    "SURG-C41-008",
+    "SURG-C41-009",
+    "SURG-C41-010",
+    "SURG-C41-011",
+    "SURG-C41-012"
+   ],
+   "guide": "The testis develops in the retroperitoneal genital ridge and descends under the pull of the contractile gubernaculum, hormonal factors and differential abdominal-wall growth. Remember the transport map: epididymis to vas, rete testis to epididymis; the left testicular vein takes a long right-angled route to the left renal vein, while left and right testicular lymph drain first to para-aortic and interaortocaval groups respectively."
+  },
+  {
+   "id": "SURG-U41-2",
+   "ch": 41,
+   "n": 2,
+   "title": "Undescended Testis: Pathophysiology, Workup and Management",
+   "sec": "Undescended Testis: Pathophysiology, Workup and Management · p308",
+   "qs": [
+    "SURG-C41-013",
+    "SURG-C41-014",
+    "SURG-C41-015",
+    "SURG-C41-016",
+    "SURG-C41-017",
+    "SURG-C41-018",
+    "SURG-C41-019",
+    "SURG-C41-020",
+    "SURG-C41-021",
+    "SURG-C41-022",
+    "SURG-C41-023",
+    "SURG-C41-024",
+    "SURG-C41-025",
+    "SURG-C41-026",
+    "SURG-C41-027",
+    "SURG-C41-028",
+    "SURG-C41-029",
+    "SURG-C41-030",
+    "SURG-C41-031",
+    "SURG-C41-032",
+    "SURG-C41-033",
+    "SURG-C41-034",
+    "SURG-C41-035",
+    "SURG-C41-036",
+    "SURG-C41-037",
+    "SURG-C41-038",
+    "SURG-C41-039",
+    "SURG-C41-040",
+    "SURG-C41-041",
+    "SURG-C41-042",
+    "SURG-C41-043",
+    "SURG-C41-044",
+    "SURG-C41-045",
+    "SURG-C41-046",
+    "SURG-C41-047",
+    "SURG-C41-048",
+    "SURG-C41-049",
+    "SURG-C41-050",
+    "SURG-C41-051",
+    "SURG-C41-052",
+    "SURG-C41-053",
+    "SURG-C41-054",
+    "SURG-C41-055",
+    "SURG-C41-056",
+    "SURG-C41-057",
+    "SURG-C41-058",
+    "SURG-C41-059",
+    "SURG-C41-060",
+    "SURG-C41-061"
+   ],
+   "guide": "An undescended testis is arrested on its normal route, usually in the inguinal canal, with the right side more often involved. It shrinks, injures Sertoli cells and spermatogenesis, raises intratubular germ-cell neoplasia and seminoma risk, and brings trauma, torsion, infertility and indirect hernia; use ultrasound for an inguinal testis and diagnostic laparoscopy for an intra-abdominal one. Wait for spontaneous descent only to five months, operate at 6–12 months, and follow the beta-hCG/laparoscopy and orchidopexy algorithms; distinguish ectopic from retractile testis."
+  },
+  {
+   "id": "SURG-U41-3",
+   "ch": 41,
+   "n": 3,
+   "title": "Testicular Torsion",
+   "sec": "Testicular Torsion · p310",
+   "qs": [
+    "SURG-C41-062",
+    "SURG-C41-063",
+    "SURG-C41-064",
+    "SURG-C41-065",
+    "SURG-C41-066",
+    "SURG-C41-067",
+    "SURG-C41-068",
+    "SURG-C41-069",
+    "SURG-C41-070",
+    "SURG-C41-071",
+    "SURG-C41-072",
+    "SURG-C41-073",
+    "SURG-C41-074",
+    "SURG-C41-075",
+    "SURG-C41-076",
+    "SURG-C41-077",
+    "SURG-C41-078",
+    "SURG-C41-079",
+    "SURG-C41-080",
+    "SURG-C41-081"
+   ],
+   "guide": "Torsion is an acute surgical emergency in a young male: the bell-clapper anatomy, severe pain, high-riding transverse testis and painful Prehn sign point to absent Doppler flow. Salvage is best within six hours, so explore rather than delay; de-rotate and fix a viable testis, remove a necrotic one, use three-point non-absorbable fixation and fix the other side prophylactically."
+  },
+  {
+   "id": "SURG-U41-4",
+   "ch": 41,
+   "n": 4,
+   "title": "Epididymo-orchitis and Hydrocele",
+   "sec": "Epididymo-orchitis and Hydrocele · p311",
+   "qs": [
+    "SURG-C41-082",
+    "SURG-C41-083",
+    "SURG-C41-084",
+    "SURG-C41-085",
+    "SURG-C41-086",
+    "SURG-C41-087",
+    "SURG-C41-088",
+    "SURG-C41-089",
+    "SURG-C41-090",
+    "SURG-C41-091",
+    "SURG-C41-092",
+    "SURG-C41-093",
+    "SURG-C41-094",
+    "SURG-C41-095",
+    "SURG-C41-096",
+    "SURG-C41-097",
+    "SURG-C41-098",
+    "SURG-C41-099",
+    "SURG-C41-100",
+    "SURG-C41-101",
+    "SURG-C41-102"
+   ],
+   "guide": "Epididymo-orchitis infects both epididymis and testis: Chlamydia is common below 40 years and E. coli above 40 years, but torsion must be excluded. Hydrocele is fluid in the tunica vaginalis: primary is common, decreased absorption, tense, clear and brilliantly transilluminant; secondary is increased secretion, commonly from epididymo-orchitis, lax, separately palpable and turbid. Match the hydrocele operation to the lesion — Lord for small sacs, Jaboulay for eversion and suture, and excision plus eversion for infantile hydrocele."
+  },
+  {
+   "id": "SURG-U41-5",
+   "ch": 41,
+   "n": 5,
+   "title": "Congenital Hydrocele and Miscellaneous Scrotal Conditions",
+   "sec": "Congenital Hydrocele and Miscellaneous Scrotal Conditions · p312",
+   "qs": [
+    "SURG-C41-103",
+    "SURG-C41-104",
+    "SURG-C41-105",
+    "SURG-C41-106",
+    "SURG-C41-107",
+    "SURG-C41-108",
+    "SURG-C41-109",
+    "SURG-C41-110",
+    "SURG-C41-111",
+    "SURG-C41-112",
+    "SURG-C41-113",
+    "SURG-C41-114",
+    "SURG-C41-115",
+    "SURG-C41-116",
+    "SURG-C41-117",
+    "SURG-C41-118",
+    "SURG-C41-119",
+    "SURG-C41-120",
+    "SURG-C41-121"
+   ],
+   "guide": "Congenital hydrocele communicates through a patent processus vaginalis and is treated with age-appropriate herniotomy; cord hydrocele runs along the cord and is excised when symptomatic. A spermatocele is a unilocular barley-coloured, sperm-containing epididymal-head lesion, whereas an epididymal cyst is a multiloculated crystal-clear Chinese-lantern lesion. Both symptomatic lesions are excised, while scrotal sebaceous cysts arise from blocked hair-follicle ducts without increased cancer risk."
+  }
+ ]
+}

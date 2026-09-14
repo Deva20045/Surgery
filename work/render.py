@@ -39,8 +39,10 @@ def pdf_for(book):
         return [("Surgery Vol. 1-168-237.pdf", book - 158)]
     if 229 <= book <= 306:
         return [("Surgery Vol. 1-238-316.pdf", book - 228)]
-    if 307 <= book <= 378:
+    if 307 <= book <= 326:
         return [("Surgery Vol. 2_part_1.pdf", book - 297)]
+    if 327 <= book <= 378:
+        return [("Surgery Vol. 2_part_1.pdf", book - 296)]
     if 379 <= book <= 452:
         return [("Surgery Vol. 2_part_2.pdf", book - 377)]
     if 453 <= book <= 523:

@@ -1,0 +1,4321 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C45-001",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Vesicoureteric reflux is:",
+   "opts": [
+    "Upward flow of urine during micturition",
+    "Downward flow of urine into the urethra",
+    "Bile reflux into the stomach",
+    "Blood flow from the kidney to the bladder"
+   ],
+   "ans": 0,
+   "exp": "Upward flow of urine during micturition (Book p339)"
+  },
+  {
+   "id": "SURG-C45-002",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "A clinical feature of vesicoureteric reflux is:",
+   "opts": [
+    "Recurrent urinary tract infection",
+    "Painless scrotal mass",
+    "Painless jaundice",
+    "Cannonball lung metastases"
+   ],
+   "ans": 0,
+   "exp": "Recurrent urinary tract infection (Book p339)"
+  },
+  {
+   "id": "SURG-C45-003",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Vesicoureteric reflux can cause:",
+   "opts": [
+    "Pyelonephritis",
+    "Peyronie's disease",
+    "Hydrocele",
+    "Penile fracture"
+   ],
+   "ans": 0,
+   "exp": "Pyelonephritis (Book p339)"
+  },
+  {
+   "id": "SURG-C45-004",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "A renal consequence of vesicoureteric reflux is:",
+   "opts": [
+    "Renal scarring",
+    "Renal collar formation",
+    "Cystic degeneration of the epididymis",
+    "A simple renal cyst only"
+   ],
+   "ans": 0,
+   "exp": "Renal scarring (Book p339)"
+  },
+  {
+   "id": "SURG-C45-005",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Long-standing vesicoureteric reflux may lead to:",
+   "opts": [
+    "Decreased renal function",
+    "Increased spermatogenesis",
+    "Biliary obstruction",
+    "A normal renal function in every case"
+   ],
+   "ans": 0,
+   "exp": "Decreased renal function (Book p339)"
+  },
+  {
+   "id": "SURG-C45-006",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "The investigation of choice for vesicoureteric reflux is:",
+   "opts": [
+    "Micturating cystourethrogram",
+    "Retrograde urethrogram only",
+    "HIDA scan",
+    "Plain chest radiography"
+   ],
+   "ans": 0,
+   "exp": "Micturating cystourethrogram (Book p339)"
+  },
+  {
+   "id": "SURG-C45-007",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Grade I vesicoureteric reflux is reflux into a:",
+   "opts": [
+    "Non-dilated ureter",
+    "Severely dilated ureter with loss of papillary impressions",
+    "Bladder diverticulum",
+    "Renal vein"
+   ],
+   "ans": 0,
+   "exp": "Non-dilated ureter (Book p339)"
+  },
+  {
+   "id": "SURG-C45-008",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Grade II vesicoureteric reflux is reflux into the:",
+   "opts": [
+    "Renal pelvis without distension",
+    "Urethra only",
+    "Renal vein",
+    "Scrotum"
+   ],
+   "ans": 0,
+   "exp": "Renal pelvis without distension (Book p339)"
+  },
+  {
+   "id": "SURG-C45-009",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Grade III vesicoureteric reflux causes:",
+   "opts": [
+    "Mild distension",
+    "No reflux at all",
+    "Severe ureteric distension with loss of papillary impressions",
+    "Only a renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Mild distension (Book p339)"
+  },
+  {
+   "id": "SURG-C45-010",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Grade IV vesicoureteric reflux shows:",
+   "opts": [
+    "Blunting of calyces and a tortuous ureter",
+    "A non-dilated ureter",
+    "Only bladder-wall thickening",
+    "A normal collecting system"
+   ],
+   "ans": 0,
+   "exp": "Blunting of calyces and a tortuous ureter (Book p339)"
+  },
+  {
+   "id": "SURG-C45-011",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "Grade V vesicoureteric reflux shows severe ureteric distension with:",
+   "opts": [
+    "Loss of papillary impressions",
+    "A normal ureter",
+    "A simple renal cyst",
+    "A normal bladder neck"
+   ],
+   "ans": 0,
+   "exp": "Loss of papillary impressions (Book p339)"
+  },
+  {
+   "id": "SURG-C45-012",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "The management of grade I–III vesicoureteric reflux is:",
+   "opts": [
+    "Antibiotic prophylaxis",
+    "Immediate nephrectomy",
+    "Only radiotherapy",
+    "Total cystectomy"
+   ],
+   "ans": 0,
+   "exp": "Antibiotic prophylaxis (Book p339)"
+  },
+  {
+   "id": "SURG-C45-013",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "The management of grade IV–V vesicoureteric reflux is:",
+   "opts": [
+    "Antibiotic prophylaxis with or without intervention",
+    "Only reassurance",
+    "Only circumcision",
+    "Only oral analgesics"
+   ],
+   "ans": 0,
+   "exp": "Antibiotic prophylaxis with or without intervention (Book p339)"
+  },
+  {
+   "id": "SURG-C45-014",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "The endoscopic treatment of vesicoureteric reflux listed is:",
+   "opts": [
+    "STING",
+    "Fowler–Stephens orchidopexy",
+    "Whipple procedure",
+    "Lord's plication"
+   ],
+   "ans": 0,
+   "exp": "STING (Book p339)"
+  },
+  {
+   "id": "SURG-C45-015",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "STING stands for:",
+   "opts": [
+    "Subureteric Teflon injection",
+    "Surgical tubular internal nephrostomy graft",
+    "Suprapubic treatment of infected nephritis",
+    "Selective testicular injection"
+   ],
+   "ans": 0,
+   "exp": "Subureteric Teflon injection (Book p339)"
+  },
+  {
+   "id": "SURG-C45-016",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "The alternative endoscopic material/procedure to STING listed is:",
+   "opts": [
+    "Deflux",
+    "BEP",
+    "Cabanas",
+    "Barbagli"
+   ],
+   "ans": 0,
+   "exp": "Deflux (Book p339)"
+  },
+  {
+   "id": "SURG-C45-017",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "HIT in endoscopic reflux treatment stands for:",
+   "opts": [
+    "Hydrodistension implantation technique",
+    "High-intensity tomography",
+    "Hilar internal traction",
+    "Hepatic implantation therapy"
+   ],
+   "ans": 0,
+   "exp": "Hydrodistension implantation technique (Book p339)"
+  },
+  {
+   "id": "SURG-C45-018",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "The open operation for vesicoureteric reflux is:",
+   "opts": [
+    "Reimplantation of the ureters",
+    "Partial nephrectomy in every case",
+    "Dorsal slit surgery",
+    "Hydrocelectomy"
+   ],
+   "ans": 0,
+   "exp": "Reimplantation of the ureters (Book p339)"
+  },
+  {
+   "id": "SURG-C45-019",
+   "sec": "Vesicoureteric Reflux",
+   "page": 339,
+   "q": "The named open ureteric reimplantation technique is:",
+   "opts": [
+    "Politano–Leadbetter technique",
+    "Anderson–Hynes technique",
+    "Nesbit technique",
+    "Grayhack technique"
+   ],
+   "ans": 0,
+   "exp": "Politano–Leadbetter technique (Book p339)"
+  },
+  {
+   "id": "SURG-C45-020",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Zone I of retroperitoneal trauma contains the:",
+   "opts": [
+    "Major vessels, pancreas and aorta/IVC region",
+    "Pelvic structures only",
+    "Kidney and ureter only",
+    "External genitalia only"
+   ],
+   "ans": 0,
+   "exp": "Major vessels, pancreas and aorta/IVC region (Book p340)"
+  },
+  {
+   "id": "SURG-C45-021",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Zone I retroperitoneal trauma has the:",
+   "opts": [
+    "Maximum mortality",
+    "Lowest mortality",
+    "No mortality",
+    "Same mortality as a superficial haematoma"
+   ],
+   "ans": 0,
+   "exp": "Maximum mortality (Book p340)"
+  },
+  {
+   "id": "SURG-C45-022",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Zone II of retroperitoneal trauma contains the:",
+   "opts": [
+    "Kidneys, ureters and renal vessels",
+    "Portal triad only",
+    "Pelvic structures only",
+    "Scrotum and penis"
+   ],
+   "ans": 0,
+   "exp": "Kidneys, ureters and renal vessels (Book p340)"
+  },
+  {
+   "id": "SURG-C45-023",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Zone III of retroperitoneal trauma contains the:",
+   "opts": [
+    "Pelvic structures",
+    "Pancreas only",
+    "Renal hilum only",
+    "Thoracic aorta"
+   ],
+   "ans": 0,
+   "exp": "Pelvic structures (Book p340)"
+  },
+  {
+   "id": "SURG-C45-024",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "The most common zone of retroperitoneal involvement listed is:",
+   "opts": [
+    "Zone III",
+    "Zone I",
+    "Zone II",
+    "The cervical zone"
+   ],
+   "ans": 0,
+   "exp": "Zone III (Book p340)"
+  },
+  {
+   "id": "SURG-C45-025",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "The investigation of choice for a stable patient with renal trauma is:",
+   "opts": [
+    "CECT",
+    "Single-shot IVU only",
+    "FAST",
+    "Plain skull radiography"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p340)"
+  },
+  {
+   "id": "SURG-C45-026",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "The investigation listed for an unstable patient with renal trauma is:",
+   "opts": [
+    "Single-shot intravenous urography",
+    "Routine MRI",
+    "Barium enema",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Single-shot intravenous urography (Book p340)"
+  },
+  {
+   "id": "SURG-C45-027",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "FAST in the evaluation of renal trauma is:",
+   "opts": [
+    "Not useful",
+    "The investigation of choice",
+    "Mandatory before every IVU",
+    "Diagnostic of ureteric injury in every case"
+   ],
+   "ans": 0,
+   "exp": "Not useful (Book p340)"
+  },
+  {
+   "id": "SURG-C45-028",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "The dye used for IVU in renal trauma is:",
+   "opts": [
+    "Urografin",
+    "Barium",
+    "Deflux",
+    "Methylene blue"
+   ],
+   "ans": 0,
+   "exp": "Urografin (Book p340)"
+  },
+  {
+   "id": "SURG-C45-029",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "A non-visualized kidney on IVU after trauma suggests an absent kidney or:",
+   "opts": [
+    "Injury to the renal vessels",
+    "A hydrocele",
+    "A urethral stricture only",
+    "A normal renal artery"
+   ],
+   "ans": 0,
+   "exp": "Injury to the renal vessels (Book p340)"
+  },
+  {
+   "id": "SURG-C45-030",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Retroperitoneal dye accumulation on IVU indicates:",
+   "opts": [
+    "Extravasation related to retroperitoneal injury",
+    "A normal renal collecting system",
+    "A bladder stone",
+    "A patent processus vaginalis"
+   ],
+   "ans": 0,
+   "exp": "Extravasation related to retroperitoneal injury (Book p340)"
+  },
+  {
+   "id": "SURG-C45-031",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Grade I renal injury is:",
+   "opts": [
+    "Subcapsular haematoma",
+    "Kidney avulsion",
+    "Laceration into the collecting system",
+    "A shattered kidney"
+   ],
+   "ans": 0,
+   "exp": "Subcapsular haematoma (Book p340)"
+  },
+  {
+   "id": "SURG-C45-032",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Grade I renal injury may present with:",
+   "opts": [
+    "Microscopic or gross haematuria",
+    "Only jaundice",
+    "Only anuria",
+    "A normal urine examination in every case"
+   ],
+   "ans": 0,
+   "exp": "Microscopic or gross haematuria (Book p340)"
+  },
+  {
+   "id": "SURG-C45-033",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 340,
+   "q": "Grade II renal injury is a laceration:",
+   "opts": [
+    "Less than 1 cm without urinary extravasation",
+    "More than 1 cm into the collecting system",
+    "With avulsion of the hilum",
+    "With a completely shattered kidney"
+   ],
+   "ans": 0,
+   "exp": "Less than 1 cm without urinary extravasation (Book p340)"
+  },
+  {
+   "id": "SURG-C45-034",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Grade III renal injury is a laceration:",
+   "opts": [
+    "More than 1 cm",
+    "Less than 1 mm only",
+    "Into the ureteric orifice",
+    "With total renal avulsion"
+   ],
+   "ans": 0,
+   "exp": "More than 1 cm (Book p341)"
+  },
+  {
+   "id": "SURG-C45-035",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Grade IV renal injury includes laceration into the:",
+   "opts": [
+    "Collecting system",
+    "Scrotal skin",
+    "Portal vein",
+    "Bladder trigone only"
+   ],
+   "ans": 0,
+   "exp": "Collecting system (Book p341)"
+  },
+  {
+   "id": "SURG-C45-036",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Laceration into the collecting system produces a urinary leak called:",
+   "opts": [
+    "Urinoma",
+    "Hydrocele",
+    "Varicocele",
+    "Bilhemia"
+   ],
+   "ans": 0,
+   "exp": "Urinoma (Book p341)"
+  },
+  {
+   "id": "SURG-C45-037",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Grade IV renal injury may involve injury to the:",
+   "opts": [
+    "Renal artery or vein",
+    "Cystic artery only",
+    "External iliac vein only",
+    "Portal triad only"
+   ],
+   "ans": 0,
+   "exp": "Renal artery or vein (Book p341)"
+  },
+  {
+   "id": "SURG-C45-038",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "An arterial blood clot after renal trauma can result from:",
+   "opts": [
+    "Endothelial injury",
+    "A patent processus vaginalis",
+    "A ureterocele",
+    "A simple renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Endothelial injury (Book p341)"
+  },
+  {
+   "id": "SURG-C45-039",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Grade V renal injury is represented by a:",
+   "opts": [
+    "Shattered kidney or avulsion of the hilum",
+    "Subcapsular haematoma only",
+    "Small cortical laceration",
+    "Simple renal contusion"
+   ],
+   "ans": 0,
+   "exp": "Shattered kidney or avulsion of the hilum (Book p341)"
+  },
+  {
+   "id": "SURG-C45-040",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Grade I–III renal injuries are managed:",
+   "opts": [
+    "Conservatively",
+    "By immediate nephrectomy",
+    "By total penectomy",
+    "By radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Conservatively (Book p341)"
+  },
+  {
+   "id": "SURG-C45-041",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "A sterile urinoma after grade IV renal injury is treated with a:",
+   "opts": [
+    "DJ stent",
+    "Pigtail catheter in every case",
+    "Dorsal slit",
+    "Biliary drain"
+   ],
+   "ans": 0,
+   "exp": "DJ stent (Book p341)"
+  },
+  {
+   "id": "SURG-C45-042",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "An infected urinoma after grade IV renal injury is treated with:",
+   "opts": [
+    "Pigtail catheter drainage",
+    "Only observation",
+    "Only oral vitamins",
+    "Immediate bilateral nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Pigtail catheter drainage (Book p341)"
+  },
+  {
+   "id": "SURG-C45-043",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Vascular injury in grade IV renal trauma is managed by:",
+   "opts": [
+    "Exploration of the retroperitoneum and repair",
+    "Only antibiotic prophylaxis",
+    "Circumcision",
+    "Observation for one year"
+   ],
+   "ans": 0,
+   "exp": "Exploration of the retroperitoneum and repair (Book p341)"
+  },
+  {
+   "id": "SURG-C45-044",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "An expanding haematoma is a feature suggesting:",
+   "opts": [
+    "Vascular injury in renal trauma",
+    "A simple hydrocele",
+    "A sterile urine culture",
+    "A low-grade renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Vascular injury in renal trauma (Book p341)"
+  },
+  {
+   "id": "SURG-C45-045",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "A pulsatile leak after renal trauma suggests:",
+   "opts": [
+    "Vascular injury",
+    "A ureterocele",
+    "A bladder diverticulum",
+    "A normal renal artery"
+   ],
+   "ans": 0,
+   "exp": "Vascular injury (Book p341)"
+  },
+  {
+   "id": "SURG-C45-046",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Non-visualization on IVU is a feature suggesting:",
+   "opts": [
+    "Vascular injury in grade IV renal trauma",
+    "Only grade I injury",
+    "An uncomplicated renal cyst",
+    "A normal kidney"
+   ],
+   "ans": 0,
+   "exp": "Vascular injury in grade IV renal trauma (Book p341)"
+  },
+  {
+   "id": "SURG-C45-047",
+   "sec": "Retroperitoneal Trauma and Renal Injury",
+   "page": 341,
+   "q": "Grade V renal injury is treated with:",
+   "opts": [
+    "Partial or total nephrectomy",
+    "Only antibiotic prophylaxis",
+    "Dorsal slit surgery",
+    "Endoscopic STING"
+   ],
+   "ans": 0,
+   "exp": "Partial or total nephrectomy (Book p341)"
+  },
+  {
+   "id": "SURG-C45-048",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "The most common cause of ureteric injury is:",
+   "opts": [
+    "Surgery",
+    "Renal stones in every case",
+    "Blunt scrotal trauma",
+    "Peyronie's disease"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p342)"
+  },
+  {
+   "id": "SURG-C45-049",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "A common operation causing ureteric injury is:",
+   "opts": [
+    "Hysterectomy",
+    "Circumcision",
+    "Hydrocelectomy",
+    "Appendectomy only"
+   ],
+   "ans": 0,
+   "exp": "Hysterectomy (Book p342)"
+  },
+  {
+   "id": "SURG-C45-050",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "Another operation causing ureteric injury is:",
+   "opts": [
+    "Pelvic tumour resection",
+    "Cataract surgery",
+    "Thyroidectomy only",
+    "Dental extraction"
+   ],
+   "ans": 0,
+   "exp": "Pelvic tumour resection (Book p342)"
+  },
+  {
+   "id": "SURG-C45-051",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "One point of ureteric injury during pelvic dissection is the:",
+   "opts": [
+    "Ligation of gonadal vessels",
+    "Ligation of the cystic duct",
+    "Division of the portal vein",
+    "Excision of the foreskin"
+   ],
+   "ans": 0,
+   "exp": "Ligation of gonadal vessels (Book p342)"
+  },
+  {
+   "id": "SURG-C45-052",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "Another point of ureteric injury is:",
+   "opts": [
+    "Ligation of uterine vessels",
+    "Ligation of the renal artery in every case",
+    "Division of the pancreatic duct",
+    "Excision of the scrotal skin"
+   ],
+   "ans": 0,
+   "exp": "Ligation of uterine vessels (Book p342)"
+  },
+  {
+   "id": "SURG-C45-053",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "Dissection of the bladder or vagina is a point at which the:",
+   "opts": [
+    "Ureter may be injured",
+    "Testis always torses",
+    "Gallbladder ruptures",
+    "Renal cortex regenerates"
+   ],
+   "ans": 0,
+   "exp": "Ureter may be injured (Book p342)"
+  },
+  {
+   "id": "SURG-C45-054",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "A partial ureteric injury recognized during surgery is repaired with:",
+   "opts": [
+    "An absorbable suture",
+    "A non-absorbable vascular graft in every case",
+    "Only antibiotics",
+    "Total nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "An absorbable suture (Book p342)"
+  },
+  {
+   "id": "SURG-C45-055",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "A complete ureteric tear without loss of segment is treated by:",
+   "opts": [
+    "Anastomosis over a DJ stent",
+    "Boari flap in every case",
+    "Only observation",
+    "Urethral dilatation"
+   ],
+   "ans": 0,
+   "exp": "Anastomosis over a DJ stent (Book p342)"
+  },
+  {
+   "id": "SURG-C45-056",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "A complete ureteric transection with loss of a segment is treated with:",
+   "opts": [
+    "Boari flap repair or psoas hitch",
+    "Only a Foley catheter",
+    "Hydrocelectomy",
+    "Cystolithotomy"
+   ],
+   "ans": 0,
+   "exp": "Boari flap repair or psoas hitch (Book p342)"
+  },
+  {
+   "id": "SURG-C45-057",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "A delayed presentation of ureteric injury may be:",
+   "opts": [
+    "Urinoma",
+    "A clear hydrocele",
+    "A varicocele only",
+    "Painless penile plaque"
+   ],
+   "ans": 0,
+   "exp": "Urinoma (Book p342)"
+  },
+  {
+   "id": "SURG-C45-058",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "An urinoma after delayed ureteric injury is managed with a pigtail catheter followed by:",
+   "opts": [
+    "DJ stenting",
+    "Orchidectomy",
+    "Radiotherapy",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "DJ stenting (Book p342)"
+  },
+  {
+   "id": "SURG-C45-059",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "Complete ureteric tie-off can cause:",
+   "opts": [
+    "Renal atrophy",
+    "Increased renal function",
+    "A penile tumour",
+    "A scrotal cyst"
+   ],
+   "ans": 0,
+   "exp": "Renal atrophy (Book p342)"
+  },
+  {
+   "id": "SURG-C45-060",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "The most common fistula after ureteric injury is:",
+   "opts": [
+    "Uretero-vaginal fistula",
+    "Uretero-gastric fistula",
+    "Uretero-bronchial fistula",
+    "Uretero-cutaneous fistula in every case"
+   ],
+   "ans": 0,
+   "exp": "Uretero-vaginal fistula (Book p342)"
+  },
+  {
+   "id": "SURG-C45-061",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "A diagnostic investigation for delayed ureteric injury is:",
+   "opts": [
+    "CT urography",
+    "HIDA scan",
+    "Plain chest radiography",
+    "Micturating cystourethrogram only"
+   ],
+   "ans": 0,
+   "exp": "CT urography (Book p342)"
+  },
+  {
+   "id": "SURG-C45-062",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "Another investigation for delayed ureteric injury is:",
+   "opts": [
+    "IVU",
+    "Barium meal",
+    "PET-CT only",
+    "Scrotal ultrasound only"
+   ],
+   "ans": 0,
+   "exp": "IVU (Book p342)"
+  },
+  {
+   "id": "SURG-C45-063",
+   "sec": "Ureteric Injury",
+   "page": 342,
+   "q": "The definitive treatment for a recognized ureteric injury is:",
+   "opts": [
+    "Repair",
+    "Only analgesia",
+    "Only antibiotics",
+    "Routine orchidectomy"
+   ],
+   "ans": 0,
+   "exp": "Repair (Book p342)"
+  },
+  {
+   "id": "SURG-C45-064",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Renal tuberculosis is usually a secondary infection acquired through the:",
+   "opts": [
+    "Haematogenous route",
+    "Ascending bile duct route",
+    "Direct scrotal route",
+    "Portal venous route only"
+   ],
+   "ans": 0,
+   "exp": "Haematogenous route (Book p343)"
+  },
+  {
+   "id": "SURG-C45-065",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "The earliest lesion in renal tuberculosis is a:",
+   "opts": [
+    "Papillary ulcer",
+    "Putty kidney",
+    "Thimble bladder",
+    "Golf-hole ureteric orifice"
+   ],
+   "ans": 0,
+   "exp": "Papillary ulcer (Book p343)"
+  },
+  {
+   "id": "SURG-C45-066",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "The renal tuberculosis lesion that follows papillary ulceration is the:",
+   "opts": [
+    "Ghost calyx",
+    "Cement kidney",
+    "Ureterocele",
+    "Renal collar"
+   ],
+   "ans": 0,
+   "exp": "Ghost calyx (Book p343)"
+  },
+  {
+   "id": "SURG-C45-067",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "A ghost calyx is also described radiologically as a:",
+   "opts": [
+    "Moth-eaten calyx",
+    "Cobra-head calyx",
+    "Flower-vase calyx",
+    "Coffin-lid calyx"
+   ],
+   "ans": 0,
+   "exp": "Moth-eaten calyx (Book p343)"
+  },
+  {
+   "id": "SURG-C45-068",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "A later renal tuberculosis complication is a:",
+   "opts": [
+    "Perinephric abscess",
+    "Simple cortical cyst",
+    "Hydrocele",
+    "Varicocele"
+   ],
+   "ans": 0,
+   "exp": "Perinephric abscess (Book p343)"
+  },
+  {
+   "id": "SURG-C45-069",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Caseous necrosis with pus-filled renal tissue produces:",
+   "opts": [
+    "Putty kidney",
+    "Horseshoe kidney",
+    "Clear-cell kidney",
+    "Cystine kidney"
+   ],
+   "ans": 0,
+   "exp": "Putty kidney (Book p343)"
+  },
+  {
+   "id": "SURG-C45-070",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Calcification of a putty kidney produces:",
+   "opts": [
+    "Cement kidney",
+    "Mulberry kidney",
+    "Drooping-lily kidney",
+    "Keyhole kidney"
+   ],
+   "ans": 0,
+   "exp": "Cement kidney (Book p343)"
+  },
+  {
+   "id": "SURG-C45-071",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Herr's kink is kinking of the:",
+   "opts": [
+    "Ureteropelvic junction",
+    "Ureterovesical junction only",
+    "Renal artery",
+    "Bladder neck"
+   ],
+   "ans": 0,
+   "exp": "Ureteropelvic junction (Book p343)"
+  },
+  {
+   "id": "SURG-C45-072",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Renal tuberculosis can cause a ureteric:",
+   "opts": [
+    "Stricture with shortening of the ureter",
+    "Dilatation with increased length in every case",
+    "Cystic tumour",
+    "Complete absence at birth"
+   ],
+   "ans": 0,
+   "exp": "Stricture with shortening of the ureter (Book p343)"
+  },
+  {
+   "id": "SURG-C45-073",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "The golf-hole ureteric orifice in renal tuberculosis:",
+   "opts": [
+    "Remains open",
+    "Always becomes completely closed",
+    "Is a ureterocele",
+    "Is a normal bladder neck"
+   ],
+   "ans": 0,
+   "exp": "Remains open (Book p343)"
+  },
+  {
+   "id": "SURG-C45-074",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "A thimble bladder in renal tuberculosis has:",
+   "opts": [
+    "Decreased capacity",
+    "Increased capacity",
+    "Normal capacity in every case",
+    "Only a ureteric stone"
+   ],
+   "ans": 0,
+   "exp": "Decreased capacity (Book p343)"
+  },
+  {
+   "id": "SURG-C45-075",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Renal tuberculosis may involve the testis and epididymis causing:",
+   "opts": [
+    "Epididymo-orchitis",
+    "Hydrocele only",
+    "Penile fracture",
+    "Varicocele only"
+   ],
+   "ans": 0,
+   "exp": "Epididymo-orchitis (Book p343)"
+  },
+  {
+   "id": "SURG-C45-076",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "A vas finding in genitourinary tuberculosis is:",
+   "opts": [
+    "Beading of the vas",
+    "Dilatation of the pampiniform plexus only",
+    "Complete absence of the vas in every case",
+    "A ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Beading of the vas (Book p343)"
+  },
+  {
+   "id": "SURG-C45-077",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Genitourinary tuberculosis may cause:",
+   "opts": [
+    "Sinus formation",
+    "A keyhole bladder only",
+    "Biliary fistula",
+    "Pancreatic pseudocyst"
+   ],
+   "ans": 0,
+   "exp": "Sinus formation (Book p343)"
+  },
+  {
+   "id": "SURG-C45-078",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "The prostate in genitourinary tuberculosis may feel:",
+   "opts": [
+    "Boggy",
+    "Rock hard in every case",
+    "Completely absent",
+    "Transilluminant"
+   ],
+   "ans": 0,
+   "exp": "Boggy (Book p343)"
+  },
+  {
+   "id": "SURG-C45-079",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "A cortical abscess in renal tuberculosis may rupture into the:",
+   "opts": [
+    "Perinephric space",
+    "Pleural cavity only",
+    "Gallbladder",
+    "Tunica vaginalis"
+   ],
+   "ans": 0,
+   "exp": "Perinephric space (Book p343)"
+  },
+  {
+   "id": "SURG-C45-080",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "The ureter in renal tuberculosis may appear:",
+   "opts": [
+    "Beaded",
+    "Coffin-lid shaped",
+    "Cobra-headed",
+    "Completely normal in every case"
+   ],
+   "ans": 0,
+   "exp": "Beaded (Book p343)"
+  },
+  {
+   "id": "SURG-C45-081",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Renal tuberculosis may thicken the bladder wall and produce a:",
+   "opts": [
+    "Thimble bladder",
+    "Megacystis",
+    "Keyhole bladder only",
+    "Bladder diverticulum in every case"
+   ],
+   "ans": 0,
+   "exp": "Thimble bladder (Book p343)"
+  },
+  {
+   "id": "SURG-C45-082",
+   "sec": "Renal Tuberculosis",
+   "page": 343,
+   "q": "Renal tuberculosis may also produce a:",
+   "opts": [
+    "Urethral stricture",
+    "Ureteric stone in every case",
+    "Hydrocele",
+    "Peyronie's plaque"
+   ],
+   "ans": 0,
+   "exp": "Urethral stricture (Book p343)"
+  },
+  {
+   "id": "SURG-C45-083",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "Clinical features of renal tuberculosis include:",
+   "opts": [
+    "Haematuria, a mass and weight loss",
+    "Only jaundice",
+    "Only scrotal pain",
+    "Only cough"
+   ],
+   "ans": 0,
+   "exp": "Haematuria, a mass and weight loss (Book p344)"
+  },
+  {
+   "id": "SURG-C45-084",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "The investigation of choice for renal tuberculosis is:",
+   "opts": [
+    "CT urography",
+    "HIDA scan",
+    "Plain X-ray only",
+    "Micturating cystourethrogram only"
+   ],
+   "ans": 0,
+   "exp": "CT urography (Book p344)"
+  },
+  {
+   "id": "SURG-C45-085",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "Urine microscopy in renal tuberculosis shows:",
+   "opts": [
+    "Pus cells",
+    "Only red-cell casts in every case",
+    "Bile pigments",
+    "Spermatozoa only"
+   ],
+   "ans": 0,
+   "exp": "Pus cells (Book p344)"
+  },
+  {
+   "id": "SURG-C45-086",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "Sterile pus cells in urine are called:",
+   "opts": [
+    "Sterile pyuria",
+    "Haematuria",
+    "Chyluria",
+    "Bilhemia"
+   ],
+   "ans": 0,
+   "exp": "Sterile pyuria (Book p344)"
+  },
+  {
+   "id": "SURG-C45-087",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "Urine culture in renal tuberculosis is typically:",
+   "opts": [
+    "Sterile",
+    "Always positive for E. coli",
+    "Always positive for Proteus",
+    "Positive for Candida in every case"
+   ],
+   "ans": 0,
+   "exp": "Sterile (Book p344)"
+  },
+  {
+   "id": "SURG-C45-088",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "For confirmation, the chapter recommends collecting:",
+   "opts": [
+    "Three morning urine samples",
+    "One evening sample only",
+    "A single sputum sample",
+    "Only a blood culture"
+   ],
+   "ans": 0,
+   "exp": "Three morning urine samples (Book p344)"
+  },
+  {
+   "id": "SURG-C45-089",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "The urine sediment in suspected renal tuberculosis is examined with:",
+   "opts": [
+    "Ziehl–Neelsen staining",
+    "Gram stain only",
+    "India ink only",
+    "Prussian blue only"
+   ],
+   "ans": 0,
+   "exp": "Ziehl–Neelsen staining (Book p344)"
+  },
+  {
+   "id": "SURG-C45-090",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "Ziehl–Neelsen staining is used to identify:",
+   "opts": [
+    "Acid-fast bacilli",
+    "Coffin-lid crystals",
+    "Psammoma bodies",
+    "Spermatozoa"
+   ],
+   "ans": 0,
+   "exp": "Acid-fast bacilli (Book p344)"
+  },
+  {
+   "id": "SURG-C45-091",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "The gold standard for renal tuberculosis confirmation is:",
+   "opts": [
+    "Tuberculosis culture",
+    "Urine dipstick",
+    "Plain X-ray",
+    "Serum amylase"
+   ],
+   "ans": 0,
+   "exp": "Tuberculosis culture (Book p344)"
+  },
+  {
+   "id": "SURG-C45-092",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "The main medical treatment of renal tuberculosis is:",
+   "opts": [
+    "Antitubercular therapy",
+    "BEP chemotherapy",
+    "Only a DJ stent",
+    "Only ESWL"
+   ],
+   "ans": 0,
+   "exp": "Antitubercular therapy (Book p344)"
+  },
+  {
+   "id": "SURG-C45-093",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "Antitubercular therapy is given how long before planned intervention?",
+   "opts": [
+    "A few weeks",
+    "Only after a year",
+    "Only after nephrectomy",
+    "Never before intervention"
+   ],
+   "ans": 0,
+   "exp": "A few weeks (Book p344)"
+  },
+  {
+   "id": "SURG-C45-094",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "The exception requiring early drainage before antitubercular therapy is:",
+   "opts": [
+    "Perinephric abscess",
+    "A simple ghost calyx",
+    "A beaded vas",
+    "A stable thimble bladder"
+   ],
+   "ans": 0,
+   "exp": "Perinephric abscess (Book p344)"
+  },
+  {
+   "id": "SURG-C45-095",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "A perinephric abscess in renal tuberculosis is drained with a:",
+   "opts": [
+    "Pigtail catheter",
+    "Foley catheter only",
+    "Biliary drain",
+    "Chest tube in every case"
+   ],
+   "ans": 0,
+   "exp": "Pigtail catheter (Book p344)"
+  },
+  {
+   "id": "SURG-C45-096",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "A golf-hole ureteric orifice is treated with:",
+   "opts": [
+    "Reimplantation of the ureter",
+    "Only antibiotics forever",
+    "Orchidectomy",
+    "Partial penectomy"
+   ],
+   "ans": 0,
+   "exp": "Reimplantation of the ureter (Book p344)"
+  },
+  {
+   "id": "SURG-C45-097",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "A thimble bladder is treated with augmentation cystoplasty using:",
+   "opts": [
+    "Ileum",
+    "Colon only in every case",
+    "Stomach only",
+    "Pericardium"
+   ],
+   "ans": 0,
+   "exp": "Ileum (Book p344)"
+  },
+  {
+   "id": "SURG-C45-098",
+   "sec": "Renal Tuberculosis",
+   "page": 344,
+   "q": "Kinking of the ureter in renal tuberculosis is treated with:",
+   "opts": [
+    "DJ stenting",
+    "Only cystolithotomy",
+    "Radiotherapy",
+    "Hydrocelectomy"
+   ],
+   "ans": 0,
+   "exp": "DJ stenting (Book p344)"
+  },
+  {
+   "id": "SURG-C45-099",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 344,
+   "q": "The most common organism causing pyelonephritis is:",
+   "opts": [
+    "E. coli",
+    "Proteus",
+    "Chlamydia",
+    "Mycobacterium tuberculosis"
+   ],
+   "ans": 0,
+   "exp": "E. coli (Book p344)"
+  },
+  {
+   "id": "SURG-C45-100",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 344,
+   "q": "Pyelonephritis may occur by a haematogenous route or by:",
+   "opts": [
+    "Ascending infection due to vesicoureteric reflux",
+    "Descending biliary infection",
+    "Direct scrotal spread",
+    "A renal tumour"
+   ],
+   "ans": 0,
+   "exp": "Ascending infection due to vesicoureteric reflux (Book p344)"
+  },
+  {
+   "id": "SURG-C45-101",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 344,
+   "q": "Pyelonephritis is more common in:",
+   "opts": [
+    "Females than males",
+    "Males than females",
+    "Only neonates",
+    "Only elderly men"
+   ],
+   "ans": 0,
+   "exp": "Females than males (Book p344)"
+  },
+  {
+   "id": "SURG-C45-102",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 344,
+   "q": "A risk factor for pyelonephritis is:",
+   "opts": [
+    "Pregnancy",
+    "A simple spermatocele",
+    "A healed penile fracture",
+    "A normal renal scan"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy (Book p344)"
+  },
+  {
+   "id": "SURG-C45-103",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 344,
+   "q": "A clinical feature of pyelonephritis is:",
+   "opts": [
+    "Fever",
+    "Painless penile curvature",
+    "Painless jaundice",
+    "A bag-of-worms scrotum"
+   ],
+   "ans": 0,
+   "exp": "Fever (Book p344)"
+  },
+  {
+   "id": "SURG-C45-104",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 344,
+   "q": "The pain of pyelonephritis is typically in the:",
+   "opts": [
+    "Flank close to the renal angle",
+    "Right shoulder",
+    "Scrotum only",
+    "Epigastrium only"
+   ],
+   "ans": 0,
+   "exp": "Flank close to the renal angle (Book p344)"
+  },
+  {
+   "id": "SURG-C45-105",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Urine microscopy in pyelonephritis may show:",
+   "opts": [
+    "White-cell casts",
+    "Coffin-lid crystals only",
+    "Spermatozoa only",
+    "Bile casts"
+   ],
+   "ans": 0,
+   "exp": "White-cell casts (Book p345)"
+  },
+  {
+   "id": "SURG-C45-106",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "The investigation of choice in pyelonephritis listed is:",
+   "opts": [
+    "CECT",
+    "Plain radiography only",
+    "HIDA scan",
+    "Retrograde urethrogram"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p345)"
+  },
+  {
+   "id": "SURG-C45-107",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Treatment of pyelonephritis includes intravenous antibiotics for:",
+   "opts": [
+    "7–10 days",
+    "One dose only",
+    "Six months before diagnosis",
+    "No fixed course"
+   ],
+   "ans": 0,
+   "exp": "7–10 days (Book p345)"
+  },
+  {
+   "id": "SURG-C45-108",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "After initial IV antibiotics for pyelonephritis, treatment is switched to:",
+   "opts": [
+    "Oral antibiotics",
+    "Radiotherapy",
+    "Dactinomycin",
+    "Only analgesics"
+   ],
+   "ans": 0,
+   "exp": "Oral antibiotics (Book p345)"
+  },
+  {
+   "id": "SURG-C45-109",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "If pus is present in pyelonephritis, it should be:",
+   "opts": [
+    "Drained",
+    "Left untreated",
+    "Treated with ESWL",
+    "Treated with circumcision"
+   ],
+   "ans": 0,
+   "exp": "Drained (Book p345)"
+  },
+  {
+   "id": "SURG-C45-110",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Emphysematous pyelonephritis is most commonly caused by:",
+   "opts": [
+    "E. coli",
+    "Proteus only",
+    "Tuberculosis",
+    "Chlamydia"
+   ],
+   "ans": 0,
+   "exp": "E. coli (Book p345)"
+  },
+  {
+   "id": "SURG-C45-111",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Emphysematous pyelonephritis is associated with an immunocompromised state and:",
+   "opts": [
+    "Diabetes mellitus",
+    "A simple renal cyst",
+    "A hydrocele",
+    "A normal pregnancy only"
+   ],
+   "ans": 0,
+   "exp": "Diabetes mellitus (Book p345)"
+  },
+  {
+   "id": "SURG-C45-112",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Emphysematous pyelonephritis presents with fever and:",
+   "opts": [
+    "Flank pain near the renal angle",
+    "Painless jaundice",
+    "A penile ulcer",
+    "A scrotal mass"
+   ],
+   "ans": 0,
+   "exp": "Flank pain near the renal angle (Book p345)"
+  },
+  {
+   "id": "SURG-C45-113",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "The investigation of choice in emphysematous pyelonephritis shows:",
+   "opts": [
+    "Gas around the kidney on CECT",
+    "A keyhole bladder on MCU",
+    "A drooping lily on IVU",
+    "A normal kidney on CT"
+   ],
+   "ans": 0,
+   "exp": "Gas around the kidney on CECT (Book p345)"
+  },
+  {
+   "id": "SURG-C45-114",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Initial treatment of emphysematous pyelonephritis is IV antibiotics and:",
+   "opts": [
+    "Pigtail catheter drainage",
+    "Immediate circumcision",
+    "Only ESWL",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "Pigtail catheter drainage (Book p345)"
+  },
+  {
+   "id": "SURG-C45-115",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "If emphysematous pyelonephritis fails conservative treatment, the operation is:",
+   "opts": [
+    "Nephrectomy",
+    "Hydrocelectomy",
+    "Ureteric reimplantation",
+    "Partial penectomy"
+   ],
+   "ans": 0,
+   "exp": "Nephrectomy (Book p345)"
+  },
+  {
+   "id": "SURG-C45-116",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Xanthogranulomatous pyelonephritis is most commonly caused by:",
+   "opts": [
+    "Proteus more than E. coli",
+    "Chlamydia more than E. coli",
+    "Tuberculosis only",
+    "Candida only"
+   ],
+   "ans": 0,
+   "exp": "Proteus more than E. coli (Book p345)"
+  },
+  {
+   "id": "SURG-C45-117",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Xanthogranulomatous pyelonephritis is seen particularly in:",
+   "opts": [
+    "Middle-aged females",
+    "Young boys only",
+    "Elderly men only",
+    "Neonates only"
+   ],
+   "ans": 0,
+   "exp": "Middle-aged females (Book p345)"
+  },
+  {
+   "id": "SURG-C45-118",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Xanthogranulomatous pyelonephritis is associated with:",
+   "opts": [
+    "Diabetes mellitus",
+    "A simple hydrocele",
+    "Peyronie's disease",
+    "A normal renal scan"
+   ],
+   "ans": 0,
+   "exp": "Diabetes mellitus (Book p345)"
+  },
+  {
+   "id": "SURG-C45-119",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "A clinical presentation of xanthogranulomatous pyelonephritis is:",
+   "opts": [
+    "Flank pain, pyrexia, abdominal mass and calculi",
+    "Painless jaundice only",
+    "Only penile pain",
+    "Only haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Flank pain, pyrexia, abdominal mass and calculi (Book p345)"
+  },
+  {
+   "id": "SURG-C45-120",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "CECT in xanthogranulomatous pyelonephritis shows a:",
+   "opts": [
+    "Non-functioning kidney with low-density mass and staghorn calculi",
+    "Normal kidney with a simple cyst",
+    "Keyhole bladder",
+    "Cobra-head ureter only"
+   ],
+   "ans": 0,
+   "exp": "Non-functioning kidney with low-density mass and staghorn calculi (Book p345)"
+  },
+  {
+   "id": "SURG-C45-121",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "The treatment of xanthogranulomatous pyelonephritis is antibiotics plus:",
+   "opts": [
+    "Subcapsular nephrectomy",
+    "Only pigtail drainage in every case",
+    "Circumcision",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Subcapsular nephrectomy (Book p345)"
+  },
+  {
+   "id": "SURG-C45-122",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "The investigation of choice for renal cyst classification is:",
+   "opts": [
+    "CECT",
+    "MCU",
+    "HIDA scan",
+    "Plain skull X-ray"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p345)"
+  },
+  {
+   "id": "SURG-C45-123",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "The Bosniak classification predicts the risk of:",
+   "opts": [
+    "Cancer",
+    "Ureteric reflux",
+    "Testicular torsion",
+    "Penile fracture"
+   ],
+   "ans": 0,
+   "exp": "Cancer (Book p345)"
+  },
+  {
+   "id": "SURG-C45-124",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class I is a:",
+   "opts": [
+    "Simple cyst with no workup and 0% malignancy",
+    "Clearly malignant cyst with 100% risk",
+    "50% malignant cyst",
+    "Cyst requiring immediate total nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Simple cyst with no workup and 0% malignancy (Book p345)"
+  },
+  {
+   "id": "SURG-C45-125",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class II is:",
+   "opts": [
+    "Minimally complex, with no workup and 0% malignancy",
+    "Indeterminate with 50% malignancy",
+    "Clearly malignant",
+    "A cyst requiring partial nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "Minimally complex, with no workup and 0% malignancy (Book p345)"
+  },
+  {
+   "id": "SURG-C45-126",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class IIF requires:",
+   "opts": [
+    "USG or CT follow-up",
+    "Immediate total nephrectomy",
+    "No follow-up ever",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "USG or CT follow-up (Book p345)"
+  },
+  {
+   "id": "SURG-C45-127",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class IIF has an approximate malignancy risk of:",
+   "opts": [
+    "5%",
+    "0%",
+    "50%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "5% (Book p345)"
+  },
+  {
+   "id": "SURG-C45-128",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class III is:",
+   "opts": [
+    "Indeterminate and treated with partial nephrectomy",
+    "A simple cyst needing no workup",
+    "Clearly malignant requiring total nephrectomy in every case",
+    "A benign hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Indeterminate and treated with partial nephrectomy (Book p345)"
+  },
+  {
+   "id": "SURG-C45-129",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class III has an approximate malignancy risk of:",
+   "opts": [
+    "50%",
+    "0%",
+    "5%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "50% (Book p345)"
+  },
+  {
+   "id": "SURG-C45-130",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class IV is:",
+   "opts": [
+    "Clearly malignant",
+    "A simple cyst",
+    "Minimally complex with no risk",
+    "A benign renal tumour"
+   ],
+   "ans": 0,
+   "exp": "Clearly malignant (Book p345)"
+  },
+  {
+   "id": "SURG-C45-131",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class IV is managed with:",
+   "opts": [
+    "Partial or total nephrectomy",
+    "Only follow-up USG",
+    "Only antibiotics",
+    "Only ureteric stenting"
+   ],
+   "ans": 0,
+   "exp": "Partial or total nephrectomy (Book p345)"
+  },
+  {
+   "id": "SURG-C45-132",
+   "sec": "Pyelonephritis and Bosniak Classification",
+   "page": 345,
+   "q": "Bosniak class IV has an approximate malignancy risk of:",
+   "opts": [
+    "100%",
+    "0%",
+    "5%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "100% (Book p345)"
+  },
+  {
+   "id": "SURG-C45-133",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "An angiomyolipoma is a tumour composed of:",
+   "opts": [
+    "Blood vessels, muscle and fat",
+    "Only epithelial cells",
+    "Only lymphoid tissue",
+    "Only cartilage"
+   ],
+   "ans": 0,
+   "exp": "Blood vessels, muscle and fat (Book p346)"
+  },
+  {
+   "id": "SURG-C45-134",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Angiomyolipoma arises from:",
+   "opts": [
+    "Perivascular epithelioid cells",
+    "Collecting-duct cells only",
+    "Urothelial cells only",
+    "Glomerular podocytes only"
+   ],
+   "ans": 0,
+   "exp": "Perivascular epithelioid cells (Book p346)"
+  },
+  {
+   "id": "SURG-C45-135",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Angiomyolipoma most often occurs in the:",
+   "opts": [
+    "Fifth to sixth decade",
+    "First month of life",
+    "Second to third decade only",
+    "Ninth decade only"
+   ],
+   "ans": 0,
+   "exp": "Fifth to sixth decade (Book p346)"
+  },
+  {
+   "id": "SURG-C45-136",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "The familial syndrome associated with angiomyolipoma is:",
+   "opts": [
+    "Tuberous sclerosis",
+    "Birt–Hogg–Dubé syndrome only",
+    "Peutz–Jeghers syndrome",
+    "Denys–Drash syndrome"
+   ],
+   "ans": 0,
+   "exp": "Tuberous sclerosis (Book p346)"
+  },
+  {
+   "id": "SURG-C45-137",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Tuberous sclerosis commonly presents in the:",
+   "opts": [
+    "Second to third decade",
+    "Fifth to sixth decade only",
+    "Neonatal period only",
+    "Eighth decade"
+   ],
+   "ans": 0,
+   "exp": "Second to third decade (Book p346)"
+  },
+  {
+   "id": "SURG-C45-138",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Tuberous sclerosis may produce:",
+   "opts": [
+    "Multiple bilateral renal lesions",
+    "Only a unilateral ureterocele",
+    "Only a simple renal cyst",
+    "Only a bladder stone"
+   ],
+   "ans": 0,
+   "exp": "Multiple bilateral renal lesions (Book p346)"
+  },
+  {
+   "id": "SURG-C45-139",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "A dermatological lesion of tuberous sclerosis is an:",
+   "opts": [
+    "Ash-leaf macule",
+    "Erythroplasia of Queyrat",
+    "Keratin pearl",
+    "Coffin-lid crystal"
+   ],
+   "ans": 0,
+   "exp": "Ash-leaf macule (Book p346)"
+  },
+  {
+   "id": "SURG-C45-140",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Another dermatological lesion of tuberous sclerosis is a:",
+   "opts": [
+    "Shagreen patch",
+    "Psammoma body",
+    "Butterfly haematoma",
+    "Golf-hole ulcer"
+   ],
+   "ans": 0,
+   "exp": "Shagreen patch (Book p346)"
+  },
+  {
+   "id": "SURG-C45-141",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "A further dermatological lesion of tuberous sclerosis is:",
+   "opts": [
+    "Adenoma sebaceum",
+    "Bowen disease",
+    "A central stellate scar",
+    "A mulberry stone"
+   ],
+   "ans": 0,
+   "exp": "Adenoma sebaceum (Book p346)"
+  },
+  {
+   "id": "SURG-C45-142",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Angiomyolipoma may be:",
+   "opts": [
+    "Asymptomatic",
+    "Always painful",
+    "Always malignant",
+    "Always associated with jaundice"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic (Book p346)"
+  },
+  {
+   "id": "SURG-C45-143",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "A symptomatic angiomyolipoma may present with:",
+   "opts": [
+    "Pain or a lump",
+    "Only painless jaundice",
+    "Only urinary infection",
+    "Only penile curvature"
+   ],
+   "ans": 0,
+   "exp": "Pain or a lump (Book p346)"
+  },
+  {
+   "id": "SURG-C45-144",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Wunderlich syndrome is:",
+   "opts": [
+    "Spontaneous retroperitoneal haemorrhage",
+    "A ureteric reflux grade",
+    "A type of renal cyst",
+    "A posterior urethral valve"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous retroperitoneal haemorrhage (Book p346)"
+  },
+  {
+   "id": "SURG-C45-145",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "The Lenk triad in Wunderlich syndrome includes flank mass, hypotension and:",
+   "opts": [
+    "Absence of haematuria",
+    "Severe jaundice",
+    "A high-riding prostate",
+    "A keyhole defect"
+   ],
+   "ans": 0,
+   "exp": "Absence of haematuria (Book p346)"
+  },
+  {
+   "id": "SURG-C45-146",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "On CECT, angiomyolipoma appears as a low-density lesion because of:",
+   "opts": [
+    "Fat",
+    "Bile",
+    "Urine",
+    "Air only"
+   ],
+   "ans": 0,
+   "exp": "Fat (Book p346)"
+  },
+  {
+   "id": "SURG-C45-147",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Bilateral renal lesions in angiomyolipoma are classified in the chapter as:",
+   "opts": [
+    "Bosniak class III",
+    "Bosniak class I",
+    "Bosniak class IIF only",
+    "Bosniak class IV in every case"
+   ],
+   "ans": 0,
+   "exp": "Bosniak class III (Book p346)"
+  },
+  {
+   "id": "SURG-C45-148",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "An angiomyolipoma smaller than 4 cm is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate total nephrectomy",
+    "Radiotherapy",
+    "Only chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Observation (Book p346)"
+  },
+  {
+   "id": "SURG-C45-149",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "An angiomyolipoma larger than 4 cm and symptomatic is treated with:",
+   "opts": [
+    "Partial nephrectomy or nephron-sparing surgery",
+    "Only observation",
+    "Only antibiotics",
+    "Only ureteric stenting"
+   ],
+   "ans": 0,
+   "exp": "Partial nephrectomy or nephron-sparing surgery (Book p346)"
+  },
+  {
+   "id": "SURG-C45-150",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "A bleeding angiomyolipoma is first treated with:",
+   "opts": [
+    "Angioembolisation",
+    "Immediate circumcision",
+    "Only ESWL",
+    "Only oral analgesia"
+   ],
+   "ans": 0,
+   "exp": "Angioembolisation (Book p346)"
+  },
+  {
+   "id": "SURG-C45-151",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "After embolisation of a bleeding angiomyolipoma, the listed next treatment is:",
+   "opts": [
+    "Partial nephrectomy",
+    "Total penectomy",
+    "No follow-up",
+    "Only a Foley catheter"
+   ],
+   "ans": 0,
+   "exp": "Partial nephrectomy (Book p346)"
+  },
+  {
+   "id": "SURG-C45-152",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "The most common benign renal tumour is:",
+   "opts": [
+    "Oncocytoma",
+    "Angiomyolipoma",
+    "Collecting-duct carcinoma",
+    "Wilms tumour"
+   ],
+   "ans": 0,
+   "exp": "Oncocytoma (Book p346)"
+  },
+  {
+   "id": "SURG-C45-153",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Oncocytoma arises from cells rich in:",
+   "opts": [
+    "Mitochondria",
+    "Lipid droplets only",
+    "Glycogen only",
+    "Cilia only"
+   ],
+   "ans": 0,
+   "exp": "Mitochondria (Book p346)"
+  },
+  {
+   "id": "SURG-C45-154",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 346,
+   "q": "Oncocytoma has:",
+   "opts": [
+    "Eosinophilic cytoplasm",
+    "Clear bile-filled cytoplasm",
+    "Coffin-lid crystals",
+    "Plant-like cells only"
+   ],
+   "ans": 0,
+   "exp": "Eosinophilic cytoplasm (Book p346)"
+  },
+  {
+   "id": "SURG-C45-155",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "Birt–Hogg–Dubé syndrome is associated with a gene on chromosome:",
+   "opts": [
+    "17",
+    "3",
+    "6",
+    "16"
+   ],
+   "ans": 0,
+   "exp": "17 (Book p347)"
+  },
+  {
+   "id": "SURG-C45-156",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "Birt–Hogg–Dubé syndrome is associated with:",
+   "opts": [
+    "Chromophobe RCC and oncocytoma",
+    "Only Wilms tumour",
+    "Only renal agenesis",
+    "Only a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Chromophobe RCC and oncocytoma (Book p347)"
+  },
+  {
+   "id": "SURG-C45-157",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "The dermatological lesions of Birt–Hogg–Dubé syndrome include:",
+   "opts": [
+    "Trichodiscomas and fibrofolliculomas",
+    "Ash-leaf macules only",
+    "Keratin pearls",
+    "Shagreen patches only"
+   ],
+   "ans": 0,
+   "exp": "Trichodiscomas and fibrofolliculomas (Book p347)"
+  },
+  {
+   "id": "SURG-C45-158",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "Birt–Hogg–Dubé-associated renal lesions may be:",
+   "opts": [
+    "Bilateral and multicentric",
+    "Always unilateral and solitary",
+    "Only cystic in one kidney",
+    "Limited to the bladder"
+   ],
+   "ans": 0,
+   "exp": "Bilateral and multicentric (Book p347)"
+  },
+  {
+   "id": "SURG-C45-159",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "The investigation of choice for these benign renal tumours is:",
+   "opts": [
+    "CECT",
+    "MCU",
+    "HIDA scan",
+    "Plain radiography only"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p347)"
+  },
+  {
+   "id": "SURG-C45-160",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "A central stellate scar may be seen in:",
+   "opts": [
+    "Focal nodular hyperplasia of the liver, chromophobe RCC and oncocytoma",
+    "Only a ureterocele",
+    "Only renal tuberculosis",
+    "Only a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Focal nodular hyperplasia of the liver, chromophobe RCC and oncocytoma (Book p347)"
+  },
+  {
+   "id": "SURG-C45-161",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "The Bosniak class associated with the central-stellate-scar lesion in the chapter is:",
+   "opts": [
+    "Bosniak III",
+    "Bosniak I",
+    "Bosniak IIF only",
+    "Bosniak IV in every case"
+   ],
+   "ans": 0,
+   "exp": "Bosniak III (Book p347)"
+  },
+  {
+   "id": "SURG-C45-162",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "page": 347,
+   "q": "The management of this Bosniak III renal lesion is:",
+   "opts": [
+    "Partial nephrectomy, especially if larger than 4 cm",
+    "Only observation regardless of size",
+    "Only antibiotics",
+    "Total penectomy"
+   ],
+   "ans": 0,
+   "exp": "Partial nephrectomy, especially if larger than 4 cm (Book p347)"
+  },
+  {
+   "id": "SURG-C45-163",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "Renal-cell carcinoma is also called:",
+   "opts": [
+    "Grawitz tumour, hypernephroma or internist's tumour",
+    "Wilms tumour only",
+    "Cobb's tumour",
+    "Buschke–Lowenstein tumour"
+   ],
+   "ans": 0,
+   "exp": "Grawitz tumour, hypernephroma or internist's tumour (Book p347)"
+  },
+  {
+   "id": "SURG-C45-164",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "A risk factor for renal-cell carcinoma is:",
+   "opts": [
+    "Diabetes mellitus",
+    "Hypospadias",
+    "A simple hydrocele",
+    "A healed urethral injury"
+   ],
+   "ans": 0,
+   "exp": "Diabetes mellitus (Book p347)"
+  },
+  {
+   "id": "SURG-C45-165",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "Another risk factor for renal-cell carcinoma is:",
+   "opts": [
+    "Hypertension",
+    "Balanitis only",
+    "Ectopic testis",
+    "A normal renal scan"
+   ],
+   "ans": 0,
+   "exp": "Hypertension (Book p347)"
+  },
+  {
+   "id": "SURG-C45-166",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "Tobacco intake is a risk factor for:",
+   "opts": [
+    "Renal-cell carcinoma",
+    "Only posterior urethral valves",
+    "Only hydrocele",
+    "Only ectopic ureter"
+   ],
+   "ans": 0,
+   "exp": "Renal-cell carcinoma (Book p347)"
+  },
+  {
+   "id": "SURG-C45-167",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "Thorotrast exposure can cause renal-cell carcinoma as well as:",
+   "opts": [
+    "Hepatocellular carcinoma and cholangiocarcinoma",
+    "Only seminoma",
+    "Only penile cancer",
+    "Only pyelonephritis"
+   ],
+   "ans": 0,
+   "exp": "Hepatocellular carcinoma and cholangiocarcinoma (Book p347)"
+  },
+  {
+   "id": "SURG-C45-168",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "Increased protein intake is listed as a risk factor for:",
+   "opts": [
+    "Renal-cell carcinoma",
+    "Renal agenesis",
+    "Posterior urethral valves",
+    "A simple renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Renal-cell carcinoma (Book p347)"
+  },
+  {
+   "id": "SURG-C45-169",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "Renal-cell carcinoma may be:",
+   "opts": [
+    "Sporadic or familial",
+    "Only congenital",
+    "Only infectious",
+    "Only traumatic"
+   ],
+   "ans": 0,
+   "exp": "Sporadic or familial (Book p347)"
+  },
+  {
+   "id": "SURG-C45-170",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "The most common type of renal-cell carcinoma is:",
+   "opts": [
+    "Clear-cell RCC",
+    "Papillary RCC",
+    "Chromophobe RCC",
+    "Collecting-duct carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Clear-cell RCC (Book p347)"
+  },
+  {
+   "id": "SURG-C45-171",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 347,
+   "q": "Clear-cell RCC is associated genetically with deletion of:",
+   "opts": [
+    "3p and 9q",
+    "1q only",
+    "17p only",
+    "6p and 16q"
+   ],
+   "ans": 0,
+   "exp": "3p and 9q (Book p347)"
+  },
+  {
+   "id": "SURG-C45-172",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Clear-cell RCC is associated with von Hippel–Lindau syndrome and a gene on:",
+   "opts": [
+    "Chromosome 3p",
+    "Chromosome 6",
+    "Chromosome 11",
+    "Chromosome 17"
+   ],
+   "ans": 0,
+   "exp": "Chromosome 3p (Book p348)"
+  },
+  {
+   "id": "SURG-C45-173",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Clear-cell RCC may be:",
+   "opts": [
+    "Bilateral and multicentric",
+    "Always unilateral and solitary",
+    "Only confined to the bladder",
+    "Always a simple cyst"
+   ],
+   "ans": 0,
+   "exp": "Bilateral and multicentric (Book p348)"
+  },
+  {
+   "id": "SURG-C45-174",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Clear-cell RCC arises from the:",
+   "opts": [
+    "Proximal convoluted tubule",
+    "Collecting duct only",
+    "Distal ureter",
+    "Seminiferous tubule"
+   ],
+   "ans": 0,
+   "exp": "Proximal convoluted tubule (Book p348)"
+  },
+  {
+   "id": "SURG-C45-175",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Papillary RCC may be associated with:",
+   "opts": [
+    "Hereditary papillary RCC syndrome",
+    "Denys–Drash syndrome only",
+    "Fournier's gangrene",
+    "Balanitis xerotica obliterans"
+   ],
+   "ans": 0,
+   "exp": "Hereditary papillary RCC syndrome (Book p348)"
+  },
+  {
+   "id": "SURG-C45-176",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Long-term dialysis is associated with the micropapillary variant of:",
+   "opts": [
+    "Papillary RCC",
+    "Clear-cell RCC",
+    "Chromophobe RCC",
+    "Medullary RCC"
+   ],
+   "ans": 0,
+   "exp": "Papillary RCC (Book p348)"
+  },
+  {
+   "id": "SURG-C45-177",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "The genetic mutation associated with papillary RCC is:",
+   "opts": [
+    "c-MET",
+    "PKHD1",
+    "PRSS1",
+    "STK11"
+   ],
+   "ans": 0,
+   "exp": "c-MET (Book p348)"
+  },
+  {
+   "id": "SURG-C45-178",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Papillary RCC contains:",
+   "opts": [
+    "Psammoma bodies",
+    "Coffin-lid crystals",
+    "Keratin pearls",
+    "Ash-leaf macules"
+   ],
+   "ans": 0,
+   "exp": "Psammoma bodies (Book p348)"
+  },
+  {
+   "id": "SURG-C45-179",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Psammoma bodies represent foci of:",
+   "opts": [
+    "Dystrophic calcification",
+    "Caseous necrosis",
+    "Fat deposition",
+    "Venous thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Dystrophic calcification (Book p348)"
+  },
+  {
+   "id": "SURG-C45-180",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Papillary RCC arises from the:",
+   "opts": [
+    "Proximal convoluted tubule more than distal convoluted tubule",
+    "Collecting duct only",
+    "Renal pelvis only",
+    "Ureteric orifice"
+   ],
+   "ans": 0,
+   "exp": "Proximal convoluted tubule more than distal convoluted tubule (Book p348)"
+  },
+  {
+   "id": "SURG-C45-181",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Chromophobe RCC is associated with loss of multiple chromosomes including:",
+   "opts": [
+    "1, 2, 6, 10 and 13",
+    "3, 4 and 5 only",
+    "11 and 17 only",
+    "X and Y only"
+   ],
+   "ans": 0,
+   "exp": "1, 2, 6, 10 and 13 (Book p348)"
+  },
+  {
+   "id": "SURG-C45-182",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Chromophobe RCC is associated with:",
+   "opts": [
+    "Birt–Hogg–Dubé syndrome",
+    "Peutz–Jeghers syndrome",
+    "Beckwith–Wiedemann syndrome only",
+    "Cystinuria"
+   ],
+   "ans": 0,
+   "exp": "Birt–Hogg–Dubé syndrome (Book p348)"
+  },
+  {
+   "id": "SURG-C45-183",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "The histology of chromophobe RCC shows:",
+   "opts": [
+    "Plant-like cells with raisin-like nuclei",
+    "Clear cells with no nuclei",
+    "Coffin-lid crystals",
+    "Keratin pearls"
+   ],
+   "ans": 0,
+   "exp": "Plant-like cells with raisin-like nuclei (Book p348)"
+  },
+  {
+   "id": "SURG-C45-184",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Chromophobe RCC is positive for:",
+   "opts": [
+    "Cytokeratin",
+    "AFP",
+    "CA 19-9",
+    "PSA"
+   ],
+   "ans": 0,
+   "exp": "Cytokeratin (Book p348)"
+  },
+  {
+   "id": "SURG-C45-185",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Among the RCC types listed, chromophobe RCC has the:",
+   "opts": [
+    "Best prognosis",
+    "Worst prognosis",
+    "Same prognosis as collecting-duct cancer",
+    "Always fatal prognosis"
+   ],
+   "ans": 0,
+   "exp": "Best prognosis (Book p348)"
+  },
+  {
+   "id": "SURG-C45-186",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Collecting-duct Bellini cancer arises from the:",
+   "opts": [
+    "Collecting duct",
+    "Proximal convoluted tubule",
+    "Distal convoluted tubule only",
+    "Renal capsule"
+   ],
+   "ans": 0,
+   "exp": "Collecting duct (Book p348)"
+  },
+  {
+   "id": "SURG-C45-187",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Collecting-duct Bellini cancer has the:",
+   "opts": [
+    "Worst prognosis among the RCCs listed",
+    "Best prognosis",
+    "Same prognosis as oncocytoma",
+    "Benign prognosis"
+   ],
+   "ans": 0,
+   "exp": "Worst prognosis among the RCCs listed (Book p348)"
+  },
+  {
+   "id": "SURG-C45-188",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "The genetics of collecting-duct Bellini cancer include deletion of:",
+   "opts": [
+    "1q and monosomy of multiple chromosomes",
+    "3p only",
+    "17p only",
+    "6q only"
+   ],
+   "ans": 0,
+   "exp": "1q and monosomy of multiple chromosomes (Book p348)"
+  },
+  {
+   "id": "SURG-C45-189",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Medullary RCC is associated with:",
+   "opts": [
+    "Sickle-cell anaemia",
+    "Cystinuria",
+    "Tuberous sclerosis only",
+    "Vesicoureteric reflux"
+   ],
+   "ans": 0,
+   "exp": "Sickle-cell anaemia (Book p348)"
+  },
+  {
+   "id": "SURG-C45-190",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types",
+   "page": 348,
+   "q": "Medullary RCC has a:",
+   "opts": [
+    "Poor prognosis",
+    "Best prognosis",
+    "Benign course",
+    "Prognosis unrelated to histology"
+   ],
+   "ans": 0,
+   "exp": "Poor prognosis (Book p348)"
+  },
+  {
+   "id": "SURG-C45-191",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "The most common symptom of renal-cell carcinoma is:",
+   "opts": [
+    "Haematuria",
+    "Painless jaundice",
+    "Urinary dribbling from birth",
+    "A scrotal swelling"
+   ],
+   "ans": 0,
+   "exp": "Haematuria (Book p349)"
+  },
+  {
+   "id": "SURG-C45-192",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "The classical triad of renal-cell carcinoma consists of haematuria, pain and:",
+   "opts": [
+    "A mass",
+    "Jaundice",
+    "Hydrocele",
+    "Cough"
+   ],
+   "ans": 0,
+   "exp": "A mass (Book p349)"
+  },
+  {
+   "id": "SURG-C45-193",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "The classical triad of renal-cell carcinoma occurs in approximately:",
+   "opts": [
+    "15–20% of patients",
+    "1–2%",
+    "50–60%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "15–20% of patients (Book p349)"
+  },
+  {
+   "id": "SURG-C45-194",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Renal-cell carcinoma can spread along the renal veins as:",
+   "opts": [
+    "Tumour thrombi",
+    "Coffin-lid stones",
+    "Ureteroceles",
+    "Simple cysts"
+   ],
+   "ans": 0,
+   "exp": "Tumour thrombi (Book p349)"
+  },
+  {
+   "id": "SURG-C45-195",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "A left RCC tumour thrombus can block the testicular vein and cause:",
+   "opts": [
+    "A secondary varicocele",
+    "A hydrocele only",
+    "A urethral stricture",
+    "A penile fracture"
+   ],
+   "ans": 0,
+   "exp": "A secondary varicocele (Book p349)"
+  },
+  {
+   "id": "SURG-C45-196",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "The most common site of distant metastasis from renal-cell carcinoma is the:",
+   "opts": [
+    "Lung",
+    "Brain",
+    "Skin",
+    "Spleen"
+   ],
+   "ans": 0,
+   "exp": "Lung (Book p349)"
+  },
+  {
+   "id": "SURG-C45-197",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Cannonball metastases in the lungs may be due to:",
+   "opts": [
+    "Renal-cell carcinoma",
+    "A simple hydrocele",
+    "Ureterocele",
+    "Phimosis"
+   ],
+   "ans": 0,
+   "exp": "Renal-cell carcinoma (Book p349)"
+  },
+  {
+   "id": "SURG-C45-198",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "The most common paraneoplastic laboratory abnormality in renal-cell carcinoma is:",
+   "opts": [
+    "Raised ESR",
+    "Low AFP",
+    "Low CA 19-9",
+    "Raised amylase only"
+   ],
+   "ans": 0,
+   "exp": "Raised ESR (Book p349)"
+  },
+  {
+   "id": "SURG-C45-199",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "A renal-cell-carcinoma endocrine paraneoplastic syndrome is:",
+   "opts": [
+    "Hypercalcaemia due to PTH-related peptide",
+    "Hypocalcaemia due to calcitonin",
+    "Hypoglycaemia due to insulinoma",
+    "Hyperbilirubinaemia due to obstruction only"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcaemia due to PTH-related peptide (Book p349)"
+  },
+  {
+   "id": "SURG-C45-200",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Hypertension may be a paraneoplastic manifestation of:",
+   "opts": [
+    "Renal-cell carcinoma",
+    "A simple hydrocele",
+    "Ureteric injury only",
+    "Hypospadias"
+   ],
+   "ans": 0,
+   "exp": "Renal-cell carcinoma (Book p349)"
+  },
+  {
+   "id": "SURG-C45-201",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Polycythaemia in renal-cell carcinoma is due to release of:",
+   "opts": [
+    "Erythropoietin",
+    "ACTH",
+    "PTH-related peptide only",
+    "CA 19-9"
+   ],
+   "ans": 0,
+   "exp": "Erythropoietin (Book p349)"
+  },
+  {
+   "id": "SURG-C45-202",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Nonmetastatic hepatic dysfunction in renal-cell carcinoma is called:",
+   "opts": [
+    "Stauffer syndrome",
+    "Cushing syndrome",
+    "Wunderlich syndrome",
+    "Nutcracker syndrome"
+   ],
+   "ans": 0,
+   "exp": "Stauffer syndrome (Book p349)"
+  },
+  {
+   "id": "SURG-C45-203",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Stauffer syndrome is mediated by:",
+   "opts": [
+    "Interleukin-6",
+    "Erythropoietin",
+    "AFP",
+    "Cytokeratin"
+   ],
+   "ans": 0,
+   "exp": "Interleukin-6 (Book p349)"
+  },
+  {
+   "id": "SURG-C45-204",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Stauffer syndrome includes raised serum bilirubin and:",
+   "opts": [
+    "Raised liver enzymes",
+    "Low liver enzymes",
+    "Low creatinine only",
+    "Raised urinary calcium only"
+   ],
+   "ans": 0,
+   "exp": "Raised liver enzymes (Book p349)"
+  },
+  {
+   "id": "SURG-C45-205",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "The liver abnormalities of Stauffer syndrome settle after:",
+   "opts": [
+    "Surgery",
+    "Circumcision",
+    "ESWL",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p349)"
+  },
+  {
+   "id": "SURG-C45-206",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Galactorrhoea is listed as a paraneoplastic manifestation of:",
+   "opts": [
+    "Renal-cell carcinoma",
+    "A ureterocele",
+    "A simple renal cyst",
+    "Posterior urethral valves"
+   ],
+   "ans": 0,
+   "exp": "Renal-cell carcinoma (Book p349)"
+  },
+  {
+   "id": "SURG-C45-207",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Cushing syndrome in renal-cell carcinoma is due to release of:",
+   "opts": [
+    "ACTH",
+    "Erythropoietin",
+    "PTH-related peptide",
+    "CA 19-9"
+   ],
+   "ans": 0,
+   "exp": "ACTH (Book p349)"
+  },
+  {
+   "id": "SURG-C45-208",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Renal-cell carcinoma may cause:",
+   "opts": [
+    "Alterations in glucose metabolism",
+    "Only hypothermia",
+    "Only a keyhole bladder",
+    "Only an ectopic ureter"
+   ],
+   "ans": 0,
+   "exp": "Alterations in glucose metabolism (Book p349)"
+  },
+  {
+   "id": "SURG-C45-209",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "A non-endocrine paraneoplastic manifestation of RCC is:",
+   "opts": [
+    "Amyloidosis",
+    "Hyperthyroidism only",
+    "A hydrocele",
+    "Coffin-lid crystalluria"
+   ],
+   "ans": 0,
+   "exp": "Amyloidosis (Book p349)"
+  },
+  {
+   "id": "SURG-C45-210",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Another non-endocrine manifestation of RCC is:",
+   "opts": [
+    "Anaemia",
+    "Polycythaemia only",
+    "Bifid clitoris",
+    "Hypospadias"
+   ],
+   "ans": 0,
+   "exp": "Anaemia (Book p349)"
+  },
+  {
+   "id": "SURG-C45-211",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "A neuromyopathy associated with RCC is:",
+   "opts": [
+    "Lambert–Eaton syndrome",
+    "Myasthenia due to thymoma only",
+    "Bell-clapper deformity",
+    "Cobb's collar"
+   ],
+   "ans": 0,
+   "exp": "Lambert–Eaton syndrome (Book p349)"
+  },
+  {
+   "id": "SURG-C45-212",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "The investigation of choice for RCC is:",
+   "opts": [
+    "CECT",
+    "HIDA scan",
+    "MCU",
+    "Plain radiography only"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p349)"
+  },
+  {
+   "id": "SURG-C45-213",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "Biopsy of an RCC is indicated when:",
+   "opts": [
+    "The diagnosis is unclear or metastasis is present",
+    "Every simple cyst is seen",
+    "A patient has a hydrocele",
+    "Only after nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "The diagnosis is unclear or metastasis is present (Book p349)"
+  },
+  {
+   "id": "SURG-C45-214",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "page": 349,
+   "q": "CT angiography in RCC is performed to see:",
+   "opts": [
+    "Spread along the renal vein",
+    "Only urethral reflux",
+    "Only bladder capacity",
+    "Only a scrotal lesion"
+   ],
+   "ans": 0,
+   "exp": "Spread along the renal vein (Book p349)"
+  },
+  {
+   "id": "SURG-C45-215",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T0 renal-cell carcinoma means:",
+   "opts": [
+    "No evidence of a primary tumour",
+    "A tumour smaller than 4 cm",
+    "Distant metastasis",
+    "Regional nodal disease"
+   ],
+   "ans": 0,
+   "exp": "No evidence of a primary tumour (Book p350)"
+  },
+  {
+   "id": "SURG-C45-216",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T1 RCC is a tumour smaller than 7 cm and:",
+   "opts": [
+    "Confined to the kidney",
+    "Invading the IVC",
+    "Beyond Gerota fascia",
+    "Involving the ipsilateral adrenal gland"
+   ],
+   "ans": 0,
+   "exp": "Confined to the kidney (Book p350)"
+  },
+  {
+   "id": "SURG-C45-217",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T1a RCC is smaller than:",
+   "opts": [
+    "4 cm",
+    "7 cm",
+    "10 cm",
+    "2 cm only"
+   ],
+   "ans": 0,
+   "exp": "4 cm (Book p350)"
+  },
+  {
+   "id": "SURG-C45-218",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T1b RCC is larger than 4 cm but smaller than:",
+   "opts": [
+    "7 cm",
+    "2 cm",
+    "4 cm",
+    "10 cm"
+   ],
+   "ans": 0,
+   "exp": "7 cm (Book p350)"
+  },
+  {
+   "id": "SURG-C45-219",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T2 RCC is larger than 7 cm and:",
+   "opts": [
+    "Confined to the kidney",
+    "Beyond Gerota fascia",
+    "In the supradiaphragmatic IVC",
+    "In the adrenal gland in every case"
+   ],
+   "ans": 0,
+   "exp": "Confined to the kidney (Book p350)"
+  },
+  {
+   "id": "SURG-C45-220",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T2a RCC measures 7 cm to less than:",
+   "opts": [
+    "10 cm",
+    "4 cm",
+    "7 cm",
+    "20 cm"
+   ],
+   "ans": 0,
+   "exp": "10 cm (Book p350)"
+  },
+  {
+   "id": "SURG-C45-221",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T2b RCC measures more than:",
+   "opts": [
+    "10 cm",
+    "4 cm",
+    "7 cm",
+    "1 cm"
+   ],
+   "ans": 0,
+   "exp": "10 cm (Book p350)"
+  },
+  {
+   "id": "SURG-C45-222",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T3 RCC extends into major veins or perinephric tissues but not beyond:",
+   "opts": [
+    "Gerota fascia or the ipsilateral adrenal gland",
+    "The urethra",
+    "The scrotum",
+    "The contralateral kidney in every case"
+   ],
+   "ans": 0,
+   "exp": "Gerota fascia or the ipsilateral adrenal gland (Book p350)"
+  },
+  {
+   "id": "SURG-C45-223",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T3a RCC may extend into renal-vein branches or invade:",
+   "opts": [
+    "Perirenal or renal-sinus fat",
+    "The bladder mucosa only",
+    "The scrotal skin",
+    "The portal vein"
+   ],
+   "ans": 0,
+   "exp": "Perirenal or renal-sinus fat (Book p350)"
+  },
+  {
+   "id": "SURG-C45-224",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T3b RCC extends into the:",
+   "opts": [
+    "Subdiaphragmatic inferior vena cava",
+    "Portal vein",
+    "Superior mesenteric vein",
+    "External iliac vein only"
+   ],
+   "ans": 0,
+   "exp": "Subdiaphragmatic inferior vena cava (Book p350)"
+  },
+  {
+   "id": "SURG-C45-225",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T3c RCC extends into the:",
+   "opts": [
+    "Supradiaphragmatic inferior vena cava",
+    "Renal pelvis only",
+    "Ureteric orifice",
+    "Scrotum"
+   ],
+   "ans": 0,
+   "exp": "Supradiaphragmatic inferior vena cava (Book p350)"
+  },
+  {
+   "id": "SURG-C45-226",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T4 RCC invades beyond the:",
+   "opts": [
+    "Gerota fascia",
+    "Tunica albuginea",
+    "Urogenital diaphragm",
+    "Renal capsule only"
+   ],
+   "ans": 0,
+   "exp": "Gerota fascia (Book p350)"
+  },
+  {
+   "id": "SURG-C45-227",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "T4 RCC may also show contiguous extension into the:",
+   "opts": [
+    "Ipsilateral adrenal gland",
+    "Contralateral testis",
+    "Gallbladder",
+    "Pancreas in every case"
+   ],
+   "ans": 0,
+   "exp": "Ipsilateral adrenal gland (Book p350)"
+  },
+  {
+   "id": "SURG-C45-228",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "N0 RCC means:",
+   "opts": [
+    "No regional lymph-node metastasis",
+    "Distant lung metastasis",
+    "A tumour smaller than 4 cm",
+    "A positive para-aortic node"
+   ],
+   "ans": 0,
+   "exp": "No regional lymph-node metastasis (Book p350)"
+  },
+  {
+   "id": "SURG-C45-229",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "N1 RCC means metastasis in regional:",
+   "opts": [
+    "Para-aortic lymph nodes",
+    "Cervical lymph nodes only",
+    "Inguinal nodes only",
+    "Mesenteric nodes only"
+   ],
+   "ans": 0,
+   "exp": "Para-aortic lymph nodes (Book p350)"
+  },
+  {
+   "id": "SURG-C45-230",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "M0 RCC means:",
+   "opts": [
+    "No distant metastasis",
+    "Distant lung metastasis",
+    "Regional nodal metastasis",
+    "A primary tumour is absent"
+   ],
+   "ans": 0,
+   "exp": "No distant metastasis (Book p350)"
+  },
+  {
+   "id": "SURG-C45-231",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "The most common distant metastatic site in RCC is the:",
+   "opts": [
+    "Lung",
+    "Brain",
+    "Bone",
+    "Skin"
+   ],
+   "ans": 0,
+   "exp": "Lung (Book p350)"
+  },
+  {
+   "id": "SURG-C45-232",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "The mainstay of treatment for RCC is:",
+   "opts": [
+    "Surgery",
+    "Radiotherapy alone",
+    "Chemotherapy alone",
+    "Observation for every stage"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p350)"
+  },
+  {
+   "id": "SURG-C45-233",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "RCC is described as resistant to:",
+   "opts": [
+    "Chemotherapy and radiotherapy",
+    "Surgery",
+    "Immunotherapy only",
+    "Renal transplantation"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy and radiotherapy (Book p350)"
+  },
+  {
+   "id": "SURG-C45-234",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "Partial nephrectomy or nephron-sparing surgery is indicated for:",
+   "opts": [
+    "T1 disease up to 7 cm",
+    "Only T4 disease",
+    "Any metastatic disease only",
+    "Only a simple renal cyst"
+   ],
+   "ans": 0,
+   "exp": "T1 disease up to 7 cm (Book p350)"
+  },
+  {
+   "id": "SURG-C45-235",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "A tumour restricted to the poles is an indication for:",
+   "opts": [
+    "Partial nephrectomy",
+    "Total penectomy",
+    "Only chemotherapy",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Partial nephrectomy (Book p350)"
+  },
+  {
+   "id": "SURG-C45-236",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "Bilateral RCC is an indication for:",
+   "opts": [
+    "Partial nephrectomy or nephron-sparing surgery",
+    "Routine bilateral total nephrectomy",
+    "Only ESWL",
+    "Only radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Partial nephrectomy or nephron-sparing surgery (Book p350)"
+  },
+  {
+   "id": "SURG-C45-237",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "RCC in a solitary functioning kidney is an indication for:",
+   "opts": [
+    "Partial nephrectomy",
+    "Immediate total nephrectomy",
+    "Only observation",
+    "Only ureteric stenting"
+   ],
+   "ans": 0,
+   "exp": "Partial nephrectomy (Book p350)"
+  },
+  {
+   "id": "SURG-C45-238",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "A relative indication for nephron-sparing surgery is RCC when the other kidney has:",
+   "opts": [
+    "Hydronephrosis",
+    "A normal scan",
+    "A simple hydrocele",
+    "Only a urethral stricture"
+   ],
+   "ans": 0,
+   "exp": "Hydronephrosis (Book p350)"
+  },
+  {
+   "id": "SURG-C45-239",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "Another relative indication for nephron-sparing surgery is disease in the other kidney with:",
+   "opts": [
+    "Stones",
+    "Only a spermatocele",
+    "Only a penile plaque",
+    "Only a normal ureter"
+   ],
+   "ans": 0,
+   "exp": "Stones (Book p350)"
+  },
+  {
+   "id": "SURG-C45-240",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "The most important prognostic factor in RCC is:",
+   "opts": [
+    "Pathological stage",
+    "Scrotal skin colour",
+    "Presence of a hydrocele",
+    "Serum amylase"
+   ],
+   "ans": 0,
+   "exp": "Pathological stage (Book p350)"
+  },
+  {
+   "id": "SURG-C45-241",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "The staging system listed for RCC is:",
+   "opts": [
+    "Robson staging",
+    "Jackson staging",
+    "Young staging",
+    "Bosniak staging"
+   ],
+   "ans": 0,
+   "exp": "Robson staging (Book p350)"
+  },
+  {
+   "id": "SURG-C45-242",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 350,
+   "q": "The grading system listed for RCC is:",
+   "opts": [
+    "Fuhrman system",
+    "Cabanas system",
+    "SIOP system",
+    "Weigert–Meyer system"
+   ],
+   "ans": 0,
+   "exp": "Fuhrman system (Book p350)"
+  },
+  {
+   "id": "SURG-C45-243",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Radical nephrectomy is performed when partial nephrectomy is:",
+   "opts": [
+    "Contraindicated",
+    "Always preferred for T1a disease",
+    "Required for every cyst",
+    "Used only for hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Contraindicated (Book p351)"
+  },
+  {
+   "id": "SURG-C45-244",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Radical nephrectomy removes the kidney with:",
+   "opts": [
+    "Gerota's fascia",
+    "Only the renal pelvis",
+    "Only the urethra",
+    "Only the adrenal vein"
+   ],
+   "ans": 0,
+   "exp": "Gerota's fascia (Book p351)"
+  },
+  {
+   "id": "SURG-C45-245",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Radical nephrectomy includes removal of:",
+   "opts": [
+    "Para-aortic lymph nodes",
+    "Only inguinal nodes",
+    "Only cervical nodes",
+    "Only mesenteric nodes"
+   ],
+   "ans": 0,
+   "exp": "Para-aortic lymph nodes (Book p351)"
+  },
+  {
+   "id": "SURG-C45-246",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "The ureter is removed up to the:",
+   "opts": [
+    "Pelvic brim",
+    "External urinary meatus",
+    "Diaphragm",
+    "Scrotum"
+   ],
+   "ans": 0,
+   "exp": "Pelvic brim (Book p351)"
+  },
+  {
+   "id": "SURG-C45-247",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Cryoablation works by:",
+   "opts": [
+    "Rapid freezing and gradual thawing",
+    "Rapid heating only",
+    "Chemical dissolution",
+    "Radiation alone"
+   ],
+   "ans": 0,
+   "exp": "Rapid freezing and gradual thawing (Book p351)"
+  },
+  {
+   "id": "SURG-C45-248",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "The temperature used for cryoablation is approximately:",
+   "opts": [
+    "−20°C",
+    "+20°C",
+    "−2°C",
+    "+100°C"
+   ],
+   "ans": 0,
+   "exp": "−20°C (Book p351)"
+  },
+  {
+   "id": "SURG-C45-249",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Cryoablation is listed for T1a RCC when surgery cannot be performed, such as in an:",
+   "opts": [
+    "Elderly patient",
+    "Infant with a hydrocele",
+    "Young patient with a normal kidney",
+    "Patient with simple cyst only"
+   ],
+   "ans": 0,
+   "exp": "Elderly patient (Book p351)"
+  },
+  {
+   "id": "SURG-C45-250",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Cryoablation may be used as palliative surgery for:",
+   "opts": [
+    "Advanced or metastatic tumours",
+    "Only a benign cyst",
+    "Only hypospadias",
+    "Only ureteric reflux"
+   ],
+   "ans": 0,
+   "exp": "Advanced or metastatic tumours (Book p351)"
+  },
+  {
+   "id": "SURG-C45-251",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Debulking surgery in metastatic RCC is performed to:",
+   "opts": [
+    "Decrease tumour burden",
+    "Increase tumour burden",
+    "Treat a hydrocele",
+    "Create a renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Decrease tumour burden (Book p351)"
+  },
+  {
+   "id": "SURG-C45-252",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "A drug class listed for metastatic RCC is:",
+   "opts": [
+    "mTOR inhibitors",
+    "Only antitubercular drugs",
+    "Only alpha blockers",
+    "Only bile-acid sequestrants"
+   ],
+   "ans": 0,
+   "exp": "mTOR inhibitors (Book p351)"
+  },
+  {
+   "id": "SURG-C45-253",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Sorafenib and sunitinib are:",
+   "opts": [
+    "Tyrosine-kinase inhibitors",
+    "Antitubercular drugs",
+    "Alpha blockers",
+    "Corticosteroids"
+   ],
+   "ans": 0,
+   "exp": "Tyrosine-kinase inhibitors (Book p351)"
+  },
+  {
+   "id": "SURG-C45-254",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Sorafenib and sunitinib are also used in:",
+   "opts": [
+    "Hepatocellular carcinoma and GIST",
+    "Only hydrocele",
+    "Only pyelonephritis",
+    "Only renal agenesis"
+   ],
+   "ans": 0,
+   "exp": "Hepatocellular carcinoma and GIST (Book p351)"
+  },
+  {
+   "id": "SURG-C45-255",
+   "sec": "Renal Cell Carcinoma: Staging and Management",
+   "page": 351,
+   "q": "Another therapy listed for metastatic RCC is:",
+   "opts": [
+    "Interleukin-2",
+    "D-penicillamine",
+    "Cholestyramine",
+    "Urografin"
+   ],
+   "ans": 0,
+   "exp": "Interleukin-2 (Book p351)"
+  },
+  {
+   "id": "SURG-C45-256",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Wilms tumour is the most common:",
+   "opts": [
+    "Paediatric renal tumour",
+    "Adult renal tumour",
+    "Testicular tumour",
+    "Penile tumour"
+   ],
+   "ans": 0,
+   "exp": "Paediatric renal tumour (Book p351)"
+  },
+  {
+   "id": "SURG-C45-257",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Wilms tumour usually occurs at:",
+   "opts": [
+    "2–5 years of age",
+    "Birth only",
+    "12–15 years only",
+    "Adult age only"
+   ],
+   "ans": 0,
+   "exp": "2–5 years of age (Book p351)"
+  },
+  {
+   "id": "SURG-C45-258",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Wilms tumour is the second most common:",
+   "opts": [
+    "Abdominal malignancy in children",
+    "Renal cyst in adults",
+    "Cause of adult hypertension",
+    "Testicular tumour in elderly men"
+   ],
+   "ans": 0,
+   "exp": "Abdominal malignancy in children (Book p351)"
+  },
+  {
+   "id": "SURG-C45-259",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "The most common abdominal malignancy in children listed is:",
+   "opts": [
+    "Neuroblastoma",
+    "Wilms tumour",
+    "RCC",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Neuroblastoma (Book p351)"
+  },
+  {
+   "id": "SURG-C45-260",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "A clinical feature of Wilms tumour is an abdominal:",
+   "opts": [
+    "Mass",
+    "Ulcer",
+    "Cough only",
+    "Scrotal swelling"
+   ],
+   "ans": 0,
+   "exp": "Mass (Book p351)"
+  },
+  {
+   "id": "SURG-C45-261",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Unlike neuroblastoma, a Wilms tumour mass:",
+   "opts": [
+    "Rarely crosses the midline",
+    "Always crosses the midline",
+    "Is always bilateral",
+    "Is always calcified"
+   ],
+   "ans": 0,
+   "exp": "Rarely crosses the midline (Book p351)"
+  },
+  {
+   "id": "SURG-C45-262",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "A presentation of Wilms tumour is:",
+   "opts": [
+    "Haematuria",
+    "Painless jaundice",
+    "Peyronie's curvature",
+    "Only urinary infection"
+   ],
+   "ans": 0,
+   "exp": "Haematuria (Book p351)"
+  },
+  {
+   "id": "SURG-C45-263",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Wilms tumour can spread along the renal veins as:",
+   "opts": [
+    "Tumour thrombi",
+    "Coffin-lid crystals",
+    "Ureteroceles",
+    "Simple cysts"
+   ],
+   "ans": 0,
+   "exp": "Tumour thrombi (Book p351)"
+  },
+  {
+   "id": "SURG-C45-264",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Wilms tumour is described as being:",
+   "opts": [
+    "Resected easily",
+    "Always unresectable",
+    "Radiotherapy resistant in every case",
+    "Only treated by ESWL"
+   ],
+   "ans": 0,
+   "exp": "Resected easily (Book p351)"
+  },
+  {
+   "id": "SURG-C45-265",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "The most common distant metastatic site of Wilms tumour is the:",
+   "opts": [
+    "Lung",
+    "Brain",
+    "Skin",
+    "Gallbladder"
+   ],
+   "ans": 0,
+   "exp": "Lung (Book p351)"
+  },
+  {
+   "id": "SURG-C45-266",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "The familial locus associated with Wilms tumour is on chromosome:",
+   "opts": [
+    "11",
+    "3",
+    "6",
+    "17"
+   ],
+   "ans": 0,
+   "exp": "11 (Book p351)"
+  },
+  {
+   "id": "SURG-C45-267",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Beckwith–Wiedemann syndrome is associated with Wilms tumour, macroglossia and:",
+   "opts": [
+    "Hypoglycaemia",
+    "Hypercalcaemia",
+    "Peyronie's disease",
+    "Coffin-lid stones"
+   ],
+   "ans": 0,
+   "exp": "Hypoglycaemia (Book p351)"
+  },
+  {
+   "id": "SURG-C45-268",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Denys–Drash syndrome is associated with Wilms tumour, genitourinary malformation and:",
+   "opts": [
+    "Nephropathy",
+    "A hydrocele",
+    "Pheochromocytoma only",
+    "Gallstone disease"
+   ],
+   "ans": 0,
+   "exp": "Nephropathy (Book p351)"
+  },
+  {
+   "id": "SURG-C45-269",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "The WAGR syndrome includes Wilms tumour, aniridia, GU malformation and:",
+   "opts": [
+    "Mental retardation",
+    "Hyperthyroidism",
+    "Cystinuria",
+    "Peyronie's disease"
+   ],
+   "ans": 0,
+   "exp": "Mental retardation (Book p351)"
+  },
+  {
+   "id": "SURG-C45-270",
+   "sec": "Wilms Tumour",
+   "page": 351,
+   "q": "Wilms tumour may be:",
+   "opts": [
+    "Bilateral",
+    "Never bilateral",
+    "Only metastatic",
+    "Only a benign cyst"
+   ],
+   "ans": 0,
+   "exp": "Bilateral (Book p351)"
+  },
+  {
+   "id": "SURG-C45-271",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "The investigation of choice for Wilms tumour is:",
+   "opts": [
+    "CECT",
+    "HIDA scan",
+    "MCU",
+    "Retrograde urethrogram"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p352)"
+  },
+  {
+   "id": "SURG-C45-272",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "Peripheral calcification on imaging favours:",
+   "opts": [
+    "Neuroblastoma",
+    "Wilms tumour",
+    "Clear-cell RCC",
+    "A simple renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Neuroblastoma (Book p352)"
+  },
+  {
+   "id": "SURG-C45-273",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "Intratumoral calcification is characteristic of:",
+   "opts": [
+    "Neuroblastoma",
+    "Wilms tumour",
+    "Oncocytoma",
+    "Ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Neuroblastoma (Book p352)"
+  },
+  {
+   "id": "SURG-C45-274",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "Stage V Wilms tumour means:",
+   "opts": [
+    "Bilateral Wilms tumours",
+    "Distant lung metastasis only",
+    "A unilateral T1 tumour",
+    "A non-functioning kidney only"
+   ],
+   "ans": 0,
+   "exp": "Bilateral Wilms tumours (Book p352)"
+  },
+  {
+   "id": "SURG-C45-275",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "Wilms tumour is:",
+   "opts": [
+    "Chemotherapy and radiotherapy sensitive",
+    "Chemotherapy and radiotherapy resistant",
+    "Only treated with ESWL",
+    "Always treated by observation"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy and radiotherapy sensitive (Book p352)"
+  },
+  {
+   "id": "SURG-C45-276",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "The chemotherapy described for Wilms tumour is:",
+   "opts": [
+    "Dactinomycin-based",
+    "BEP-based",
+    "FOLFOX-based",
+    "Only cisplatin-based"
+   ],
+   "ans": 0,
+   "exp": "Dactinomycin-based (Book p352)"
+  },
+  {
+   "id": "SURG-C45-277",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "The surgical principle for Wilms tumour is the same as for:",
+   "opts": [
+    "Renal-cell carcinoma",
+    "Penile cancer",
+    "Posterior urethral valves",
+    "Hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Renal-cell carcinoma (Book p352)"
+  },
+  {
+   "id": "SURG-C45-278",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "The most important prognostic factor in Wilms tumour is:",
+   "opts": [
+    "Histological findings",
+    "The side of the tumour",
+    "Presence of a hydrocele",
+    "The patient's blood group"
+   ],
+   "ans": 0,
+   "exp": "Histological findings (Book p352)"
+  },
+  {
+   "id": "SURG-C45-279",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "An epithelial histological pattern in Wilms tumour is contrasted with a blastemal pattern, in which increased blastemal component indicates:",
+   "opts": [
+    "Poor prognosis",
+    "A better prognosis",
+    "No prognostic significance",
+    "A benign tumour"
+   ],
+   "ans": 0,
+   "exp": "Poor prognosis (Book p352)"
+  },
+  {
+   "id": "SURG-C45-280",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "The National Wilms Tumor Study Group approach is:",
+   "opts": [
+    "Surgery followed by chemotherapy with or without radiotherapy",
+    "Chemotherapy only",
+    "Radiotherapy before any surgery in every case",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "Surgery followed by chemotherapy with or without radiotherapy (Book p352)"
+  },
+  {
+   "id": "SURG-C45-281",
+   "sec": "Wilms Tumour",
+   "page": 352,
+   "q": "The Society of International Pediatric Oncology approach is:",
+   "opts": [
+    "Chemotherapy followed by surgery with or without radiotherapy",
+    "Immediate nephrectomy without chemotherapy",
+    "Only radiotherapy",
+    "Only ESWL"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy followed by surgery with or without radiotherapy (Book p352)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U45-1",
+   "ch": 45,
+   "n": 1,
+   "title": "Vesicoureteric Reflux",
+   "sec": "Vesicoureteric Reflux · p339",
+   "qs": [
+    "SURG-C45-001",
+    "SURG-C45-002",
+    "SURG-C45-003",
+    "SURG-C45-004",
+    "SURG-C45-005",
+    "SURG-C45-006",
+    "SURG-C45-007",
+    "SURG-C45-008",
+    "SURG-C45-009",
+    "SURG-C45-010",
+    "SURG-C45-011",
+    "SURG-C45-012",
+    "SURG-C45-013",
+    "SURG-C45-014",
+    "SURG-C45-015",
+    "SURG-C45-016",
+    "SURG-C45-017",
+    "SURG-C45-018",
+    "SURG-C45-019"
+   ],
+   "guide": "VUR is urine moving upward during micturition, leaving recurrent UTI, pyelonephritis, scars and falling renal function. MCU grades it from I, reflux without dilatation, through V, severe ureteric dilatation with lost papillary impressions; prophylaxis is enough for I–III, while IV–V may need STING/Deflux/HIT or Politano–Leadbetter reimplantation."
+  },
+  {
+   "id": "SURG-U45-2",
+   "ch": 45,
+   "n": 2,
+   "title": "Retroperitoneal Trauma and Renal Injury",
+   "sec": "Retroperitoneal Trauma and Renal Injury · p340",
+   "qs": [
+    "SURG-C45-020",
+    "SURG-C45-021",
+    "SURG-C45-022",
+    "SURG-C45-023",
+    "SURG-C45-024",
+    "SURG-C45-025",
+    "SURG-C45-026",
+    "SURG-C45-027",
+    "SURG-C45-028",
+    "SURG-C45-029",
+    "SURG-C45-030",
+    "SURG-C45-031",
+    "SURG-C45-032",
+    "SURG-C45-033",
+    "SURG-C45-034",
+    "SURG-C45-035",
+    "SURG-C45-036",
+    "SURG-C45-037",
+    "SURG-C45-038",
+    "SURG-C45-039",
+    "SURG-C45-040",
+    "SURG-C45-041",
+    "SURG-C45-042",
+    "SURG-C45-043",
+    "SURG-C45-044",
+    "SURG-C45-045",
+    "SURG-C45-046",
+    "SURG-C45-047"
+   ],
+   "guide": "In retroperitoneal trauma, Zone I carries the major vessels and the highest mortality, Zone II the renal structures, and Zone III the pelvic structures. Stable renal trauma gets CECT, unstable trauma single-shot Urografin IVU because FAST is not useful; grade I–III conservatively, drain or stent grade-IV urinoma according to infection, repair vascular injury and reserve partial/total nephrectomy for shattered grade V kidneys."
+  },
+  {
+   "id": "SURG-U45-3",
+   "ch": 45,
+   "n": 3,
+   "title": "Ureteric Injury",
+   "sec": "Ureteric Injury · p342",
+   "qs": [
+    "SURG-C45-048",
+    "SURG-C45-049",
+    "SURG-C45-050",
+    "SURG-C45-051",
+    "SURG-C45-052",
+    "SURG-C45-053",
+    "SURG-C45-054",
+    "SURG-C45-055",
+    "SURG-C45-056",
+    "SURG-C45-057",
+    "SURG-C45-058",
+    "SURG-C45-059",
+    "SURG-C45-060",
+    "SURG-C45-061",
+    "SURG-C45-062",
+    "SURG-C45-063"
+   ],
+   "guide": "Surgery, particularly hysterectomy and pelvic tumour resection, is the commonest ureteric injury mechanism. Repair partial tears with absorbable suture, complete tears without loss over a DJ stent, and segment loss with Boari flap or psoas hitch; delayed urinoma, renal atrophy and ureterovaginal fistula require CT urography/IVU and repair."
+  },
+  {
+   "id": "SURG-U45-4",
+   "ch": 45,
+   "n": 4,
+   "title": "Renal Tuberculosis",
+   "sec": "Renal Tuberculosis · p343",
+   "qs": [
+    "SURG-C45-064",
+    "SURG-C45-065",
+    "SURG-C45-066",
+    "SURG-C45-067",
+    "SURG-C45-068",
+    "SURG-C45-069",
+    "SURG-C45-070",
+    "SURG-C45-071",
+    "SURG-C45-072",
+    "SURG-C45-073",
+    "SURG-C45-074",
+    "SURG-C45-075",
+    "SURG-C45-076",
+    "SURG-C45-077",
+    "SURG-C45-078",
+    "SURG-C45-079",
+    "SURG-C45-080",
+    "SURG-C45-081",
+    "SURG-C45-082",
+    "SURG-C45-083",
+    "SURG-C45-084",
+    "SURG-C45-085",
+    "SURG-C45-086",
+    "SURG-C45-087",
+    "SURG-C45-088",
+    "SURG-C45-089",
+    "SURG-C45-090",
+    "SURG-C45-091",
+    "SURG-C45-092",
+    "SURG-C45-093",
+    "SURG-C45-094",
+    "SURG-C45-095",
+    "SURG-C45-096",
+    "SURG-C45-097",
+    "SURG-C45-098"
+   ],
+   "guide": "Renal tuberculosis arrives haematogenously and progresses from papillary ulcer and ghost/moth-eaten calyx to perinephric abscess, putty/cement kidney, Herr's kink, ureteric stricture, golf-hole orifice and thimble bladder. Sterile pyuria, three morning samples with Ziehl–Neelsen staining and TB culture establish it; ATT precedes intervention except for early abscess drainage, and each structural complication has its named repair."
+  },
+  {
+   "id": "SURG-U45-5",
+   "ch": 45,
+   "n": 5,
+   "title": "Pyelonephritis and Bosniak Classification",
+   "sec": "Pyelonephritis and Bosniak Classification · p344",
+   "qs": [
+    "SURG-C45-099",
+    "SURG-C45-100",
+    "SURG-C45-101",
+    "SURG-C45-102",
+    "SURG-C45-103",
+    "SURG-C45-104",
+    "SURG-C45-105",
+    "SURG-C45-106",
+    "SURG-C45-107",
+    "SURG-C45-108",
+    "SURG-C45-109",
+    "SURG-C45-110",
+    "SURG-C45-111",
+    "SURG-C45-112",
+    "SURG-C45-113",
+    "SURG-C45-114",
+    "SURG-C45-115",
+    "SURG-C45-116",
+    "SURG-C45-117",
+    "SURG-C45-118",
+    "SURG-C45-119",
+    "SURG-C45-120",
+    "SURG-C45-121",
+    "SURG-C45-122",
+    "SURG-C45-123",
+    "SURG-C45-124",
+    "SURG-C45-125",
+    "SURG-C45-126",
+    "SURG-C45-127",
+    "SURG-C45-128",
+    "SURG-C45-129",
+    "SURG-C45-130",
+    "SURG-C45-131",
+    "SURG-C45-132"
+   ],
+   "guide": "E. coli, ascending reflux and pregnancy frame pyelonephritis; CECT, WBC casts and culture guide IV antibiotics, oral switch and drainage. Recognize emphysematous disease by gas and xanthogranulomatous disease by Proteus, a non-functioning low-density staghorn kidney. Bosniak I/IIF are low risk, III is indeterminate and IV clearly malignant, with the follow-up or nephrectomy plan attached."
+  },
+  {
+   "id": "SURG-U45-6",
+   "ch": 45,
+   "n": 6,
+   "title": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome",
+   "sec": "Benign Renal Tumours and Birt–Hogg–Dubé Syndrome · p346",
+   "qs": [
+    "SURG-C45-133",
+    "SURG-C45-134",
+    "SURG-C45-135",
+    "SURG-C45-136",
+    "SURG-C45-137",
+    "SURG-C45-138",
+    "SURG-C45-139",
+    "SURG-C45-140",
+    "SURG-C45-141",
+    "SURG-C45-142",
+    "SURG-C45-143",
+    "SURG-C45-144",
+    "SURG-C45-145",
+    "SURG-C45-146",
+    "SURG-C45-147",
+    "SURG-C45-148",
+    "SURG-C45-149",
+    "SURG-C45-150",
+    "SURG-C45-151",
+    "SURG-C45-152",
+    "SURG-C45-153",
+    "SURG-C45-154",
+    "SURG-C45-155",
+    "SURG-C45-156",
+    "SURG-C45-157",
+    "SURG-C45-158",
+    "SURG-C45-159",
+    "SURG-C45-160",
+    "SURG-C45-161",
+    "SURG-C45-162"
+   ],
+   "guide": "Angiomyolipoma contains vessels, muscle and fat and links to tuberous sclerosis, bilateral lesions and Wunderlich haemorrhage; observe below 4 cm, preserve nephron above 4 cm when symptomatic, and embolise bleeding lesions before partial nephrectomy. Oncocytoma is the commonest benign renal tumour with eosinophilic mitochondrial cytoplasm; Birt–Hogg–Dubé brings chromosome-17 lesions, chromophobe RCC, oncocytoma, trichodiscomas and fibrofolliculomas."
+  },
+  {
+   "id": "SURG-U45-7",
+   "ch": 45,
+   "n": 7,
+   "title": "Renal Cell Carcinoma: Risk Factors and Types",
+   "sec": "Renal Cell Carcinoma: Risk Factors and Types · p347",
+   "qs": [
+    "SURG-C45-163",
+    "SURG-C45-164",
+    "SURG-C45-165",
+    "SURG-C45-166",
+    "SURG-C45-167",
+    "SURG-C45-168",
+    "SURG-C45-169",
+    "SURG-C45-170",
+    "SURG-C45-171",
+    "SURG-C45-172",
+    "SURG-C45-173",
+    "SURG-C45-174",
+    "SURG-C45-175",
+    "SURG-C45-176",
+    "SURG-C45-177",
+    "SURG-C45-178",
+    "SURG-C45-179",
+    "SURG-C45-180",
+    "SURG-C45-181",
+    "SURG-C45-182",
+    "SURG-C45-183",
+    "SURG-C45-184",
+    "SURG-C45-185",
+    "SURG-C45-186",
+    "SURG-C45-187",
+    "SURG-C45-188",
+    "SURG-C45-189",
+    "SURG-C45-190"
+   ],
+   "guide": "RCC risk is linked to diabetes, hypertension, tobacco, thorotrast and high protein intake. Clear cell is common and VHL/3p-linked; papillary carries c-MET and psammoma bodies; chromophobe has raisin nuclei and the best prognosis; collecting-duct Bellini is worst; medullary RCC links to sickle-cell anaemia. Keep each origin, association and genetic clue paired."
+  },
+  {
+   "id": "SURG-U45-8",
+   "ch": 45,
+   "n": 8,
+   "title": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes",
+   "sec": "Renal Cell Carcinoma: Presentation, Spread and Paraneoplastic Syndromes · p349",
+   "qs": [
+    "SURG-C45-191",
+    "SURG-C45-192",
+    "SURG-C45-193",
+    "SURG-C45-194",
+    "SURG-C45-195",
+    "SURG-C45-196",
+    "SURG-C45-197",
+    "SURG-C45-198",
+    "SURG-C45-199",
+    "SURG-C45-200",
+    "SURG-C45-201",
+    "SURG-C45-202",
+    "SURG-C45-203",
+    "SURG-C45-204",
+    "SURG-C45-205",
+    "SURG-C45-206",
+    "SURG-C45-207",
+    "SURG-C45-208",
+    "SURG-C45-209",
+    "SURG-C45-210",
+    "SURG-C45-211",
+    "SURG-C45-212",
+    "SURG-C45-213",
+    "SURG-C45-214"
+   ],
+   "guide": "RCC most often causes haematuria, while the classical pain–mass–haematuria triad appears in only 15–20%. Venous tumour thrombi, lung cannonballs and left secondary varicocele reveal spread; raised ESR, PTH-related hypercalcaemia, EPO polycythaemia, Stauffer syndrome, Cushing syndrome, galactorrhoea, anaemia, amyloidosis and Lambert–Eaton are the paraneoplastic map. CECT is standard, biopsy is selective and CT angiography maps renal-vein spread."
+  },
+  {
+   "id": "SURG-U45-9",
+   "ch": 45,
+   "n": 9,
+   "title": "Renal Cell Carcinoma: Staging and Management",
+   "sec": "Renal Cell Carcinoma: Staging and Management · p350",
+   "qs": [
+    "SURG-C45-215",
+    "SURG-C45-216",
+    "SURG-C45-217",
+    "SURG-C45-218",
+    "SURG-C45-219",
+    "SURG-C45-220",
+    "SURG-C45-221",
+    "SURG-C45-222",
+    "SURG-C45-223",
+    "SURG-C45-224",
+    "SURG-C45-225",
+    "SURG-C45-226",
+    "SURG-C45-227",
+    "SURG-C45-228",
+    "SURG-C45-229",
+    "SURG-C45-230",
+    "SURG-C45-231",
+    "SURG-C45-232",
+    "SURG-C45-233",
+    "SURG-C45-234",
+    "SURG-C45-235",
+    "SURG-C45-236",
+    "SURG-C45-237",
+    "SURG-C45-238",
+    "SURG-C45-239",
+    "SURG-C45-240",
+    "SURG-C45-241",
+    "SURG-C45-242",
+    "SURG-C45-243",
+    "SURG-C45-244",
+    "SURG-C45-245",
+    "SURG-C45-246",
+    "SURG-C45-247",
+    "SURG-C45-248",
+    "SURG-C45-249",
+    "SURG-C45-250",
+    "SURG-C45-251",
+    "SURG-C45-252",
+    "SURG-C45-253",
+    "SURG-C45-254",
+    "SURG-C45-255"
+   ],
+   "guide": "Use the RCC TNM table exactly: T1 and T2 are size-confined, T3 reaches veins/perinephric tissues without leaving Gerota, T4 crosses Gerota or enters the ipsilateral adrenal; N1 is para-aortic nodal spread and M1 distant disease, usually lung. Surgery is the mainstay because RCC resists chemo and radiation; choose nephron-sparing surgery when possible, radical nephrectomy when necessary, cryoablation for selected T1a or palliation, and targeted/IL-2 strategies for metastases."
+  },
+  {
+   "id": "SURG-U45-10",
+   "ch": 45,
+   "n": 10,
+   "title": "Wilms Tumour",
+   "sec": "Wilms Tumour · p351",
+   "qs": [
+    "SURG-C45-256",
+    "SURG-C45-257",
+    "SURG-C45-258",
+    "SURG-C45-259",
+    "SURG-C45-260",
+    "SURG-C45-261",
+    "SURG-C45-262",
+    "SURG-C45-263",
+    "SURG-C45-264",
+    "SURG-C45-265",
+    "SURG-C45-266",
+    "SURG-C45-267",
+    "SURG-C45-268",
+    "SURG-C45-269",
+    "SURG-C45-270",
+    "SURG-C45-271",
+    "SURG-C45-272",
+    "SURG-C45-273",
+    "SURG-C45-274",
+    "SURG-C45-275",
+    "SURG-C45-276",
+    "SURG-C45-277",
+    "SURG-C45-278",
+    "SURG-C45-279",
+    "SURG-C45-280",
+    "SURG-C45-281"
+   ],
+   "guide": "Wilms tumour is the commonest paediatric renal tumour at 2–5 years, usually a resectable mass that rarely crosses midline, spreads by renal veins and to lung, and links to chromosome 11, Beckwith–Wiedemann, Denys–Drash and WAGR syndromes. CECT stages it, peripheral/intratumoral calcification points toward neuroblastoma, histology determines prognosis, and NWTS starts with surgery whereas SIOP starts with chemotherapy."
+  }
+ ]
+}
