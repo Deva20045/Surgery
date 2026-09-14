@@ -1,0 +1,1731 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C68-001",
+   "sec": "Basal Cell Carcinoma: Features and Risk Factors",
+   "page": 529,
+   "q": "Basal cell carcinoma is also known as:",
+   "opts": [
+    "Rodent ulcer",
+    "Marjolin's ulcer",
+    "Ackerman tumor",
+    "Bowen's disease"
+   ],
+   "ans": 0,
+   "exp": "Rodent ulcer (Book p529)"
+  },
+  {
+   "id": "SURG-C68-002",
+   "sec": "Basal Cell Carcinoma: Features and Risk Factors",
+   "page": 529,
+   "q": "Characteristic behaviour of basal cell carcinoma:",
+   "opts": [
+    "Locally invasive without lymph node or distant metastasis",
+    "Early lymph node spread",
+    "Early haematogenous spread",
+    "Multicentric metastasis"
+   ],
+   "ans": 0,
+   "exp": "Locally invasive without lymph node or distant metastasis (Book p529)"
+  },
+  {
+   "id": "SURG-C68-003",
+   "sec": "Basal Cell Carcinoma: Features and Risk Factors",
+   "page": 529,
+   "q": "M/c site of basal cell carcinoma:",
+   "opts": [
+    "Face, above the line joining the angle of mouth to the ear lobule",
+    "Below the line joining angle of mouth to ear lobule",
+    "Scalp",
+    "Trunk"
+   ],
+   "ans": 0,
+   "exp": "Face, above the line joining the angle of mouth to the ear lobule (Book p529)"
+  },
+  {
+   "id": "SURG-C68-004",
+   "sec": "Basal Cell Carcinoma: Features and Risk Factors",
+   "page": 529,
+   "q": "Population at highest risk for basal cell carcinoma:",
+   "opts": [
+    "White population",
+    "Dark skinned population",
+    "Asian population",
+    "All equally"
+   ],
+   "ans": 0,
+   "exp": "White population (Book p529)"
+  },
+  {
+   "id": "SURG-C68-005",
+   "sec": "Basal Cell Carcinoma: Features and Risk Factors",
+   "page": 529,
+   "q": "Radiation risk factor for basal cell carcinoma:",
+   "opts": [
+    "UV rays",
+    "Gamma rays only",
+    "Microwaves",
+    "Infrared rays"
+   ],
+   "ans": 0,
+   "exp": "UV rays (Book p529)"
+  },
+  {
+   "id": "SURG-C68-006",
+   "sec": "Basal Cell Carcinoma: Features and Risk Factors",
+   "page": 529,
+   "q": "Chromosome involved in Gorlin syndrome:",
+   "opts": [
+    "Chromosome 9",
+    "Chromosome 17",
+    "Chromosome 5",
+    "Chromosome 22"
+   ],
+   "ans": 0,
+   "exp": "Chromosome 9 (Book p529)"
+  },
+  {
+   "id": "SURG-C68-007",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "M/c localized type of basal cell carcinoma:",
+   "opts": [
+    "Nodular",
+    "Nodulocystic",
+    "Pigmented",
+    "Superficial"
+   ],
+   "ans": 0,
+   "exp": "Nodular (Book p529)"
+  },
+  {
+   "id": "SURG-C68-008",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Localized types of BCC include all EXCEPT:",
+   "opts": [
+    "Multifocal",
+    "Nodular",
+    "Nodulocystic",
+    "Pigmented"
+   ],
+   "ans": 0,
+   "exp": "Multifocal (Book p529)"
+  },
+  {
+   "id": "SURG-C68-009",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Generalized types of basal cell carcinoma:",
+   "opts": [
+    "Superficial and multifocal",
+    "Nodular and pigmented",
+    "Morphoeic",
+    "Nodulocystic"
+   ],
+   "ans": 0,
+   "exp": "Superficial and multifocal (Book p529)"
+  },
+  {
+   "id": "SURG-C68-010",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Most aggressive type of basal cell carcinoma:",
+   "opts": [
+    "Infiltrative morphoeic type",
+    "Nodular",
+    "Superficial",
+    "Pigmented"
+   ],
+   "ans": 0,
+   "exp": "Infiltrative morphoeic type (Book p529)"
+  },
+  {
+   "id": "SURG-C68-011",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Classical ulcer of basal cell carcinoma:",
+   "opts": [
+    "Rolled out, pearly white edges",
+    "Everted cauliflower edges",
+    "Undermined edges",
+    "Punched out edges"
+   ],
+   "ans": 0,
+   "exp": "Rolled out, pearly white edges (Book p529)"
+  },
+  {
+   "id": "SURG-C68-012",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Biopsy finding in basal cell carcinoma:",
+   "opts": [
+    "Pallisading pattern",
+    "Keratin pearls",
+    "Swiss cheese pattern",
+    "Melanocytic nests"
+   ],
+   "ans": 0,
+   "exp": "Pallisading pattern (Book p529)"
+  },
+  {
+   "id": "SURG-C68-013",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Standard management of basal cell carcinoma:",
+   "opts": [
+    "Wide local excision with rhomboid/Limberg flap",
+    "Radiotherapy alone",
+    "Cryotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision with rhomboid/Limberg flap (Book p529)"
+  },
+  {
+   "id": "SURG-C68-014",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Flap used for BCC close to the tip of the nose:",
+   "opts": [
+    "Bilobed flap",
+    "Rhomboid flap",
+    "Bipedicled flap",
+    "Free fibular flap"
+   ],
+   "ans": 0,
+   "exp": "Bilobed flap (Book p529)"
+  },
+  {
+   "id": "SURG-C68-015",
+   "sec": "BCC Types, Clinical Features and Management",
+   "page": 529,
+   "q": "Flap used for BCC involving the eyelid region:",
+   "opts": [
+    "Bipedicled flap",
+    "Bilobed flap",
+    "Limberg flap",
+    "PMMC flap"
+   ],
+   "ans": 0,
+   "exp": "Bipedicled flap (Book p529)"
+  },
+  {
+   "id": "SURG-C68-016",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery",
+   "page": 530,
+   "q": "Size defining a high risk basal cell carcinoma:",
+   "opts": [
+    ">2 cm",
+    ">0.5 cm",
+    ">1 cm",
+    ">5 cm"
+   ],
+   "ans": 0,
+   "exp": ">2 cm (Book p530)"
+  },
+  {
+   "id": "SURG-C68-017",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery",
+   "page": 530,
+   "q": "High risk features of BCC include all EXCEPT:",
+   "opts": [
+    "First presentation of a 5 mm lesion on the trunk",
+    "Size >2 cm",
+    "Sites where infiltration can lead to cranial extension",
+    "Recurrent lesions and immunosuppression"
+   ],
+   "ans": 0,
+   "exp": "First presentation of a 5 mm lesion on the trunk (Book p530)"
+  },
+  {
+   "id": "SURG-C68-018",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery",
+   "page": 530,
+   "q": "Moh's micrographic surgery involves:",
+   "opts": [
+    "Layer by layer removal of the lesion with microscopic examination",
+    "En bloc excision with 2 cm margin",
+    "Radiotherapy in fractions",
+    "Cryotherapy in cycles"
+   ],
+   "ans": 0,
+   "exp": "Layer by layer removal of the lesion with microscopic examination (Book p530)"
+  },
+  {
+   "id": "SURG-C68-019",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery",
+   "page": 530,
+   "q": "Moh's micrographic surgery is m/c done for:",
+   "opts": [
+    "Basal cell carcinoma",
+    "Malignant melanoma",
+    "Soft tissue sarcoma",
+    "Squamous cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Basal cell carcinoma (Book p530)"
+  },
+  {
+   "id": "SURG-C68-020",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery",
+   "page": 530,
+   "q": "Indications for Moh's micrographic surgery:",
+   "opts": [
+    "Recurrent cases and lesions close to vital structures or nerves",
+    "Small primary trunk lesions",
+    "Metastatic disease",
+    "Benign naevi"
+   ],
+   "ans": 0,
+   "exp": "Recurrent cases and lesions close to vital structures or nerves (Book p530)"
+  },
+  {
+   "id": "SURG-C68-021",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery",
+   "page": 530,
+   "q": "Advantages of Moh's micrographic surgery:",
+   "opts": [
+    "Less tissue removed and better cosmesis",
+    "Shorter operating time",
+    "No need for anaesthesia",
+    "No recurrence ever"
+   ],
+   "ans": 0,
+   "exp": "Less tissue removed and better cosmesis (Book p530)"
+  },
+  {
+   "id": "SURG-C68-022",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery",
+   "page": 530,
+   "q": "Disadvantage of Moh's micrographic surgery:",
+   "opts": [
+    "Time consuming",
+    "Poor cosmesis",
+    "High recurrence",
+    "Excess tissue loss"
+   ],
+   "ans": 0,
+   "exp": "Time consuming (Book p530)"
+  },
+  {
+   "id": "SURG-C68-023",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "Malignant melanoma is a tumour of:",
+   "opts": [
+    "Melanocytes",
+    "Keratinocytes",
+    "Basal cells",
+    "Fibroblasts"
+   ],
+   "ans": 0,
+   "exp": "Melanocytes (Book p530)"
+  },
+  {
+   "id": "SURG-C68-024",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "Risk factors for malignant melanoma:",
+   "opts": [
+    "UV radiation, white population and familial atypical mole melanoma syndrome",
+    "Betel quid chewing",
+    "EBV infection",
+    "Chronic lymphedema"
+   ],
+   "ans": 0,
+   "exp": "UV radiation, white population and familial atypical mole melanoma syndrome (Book p530)"
+  },
+  {
+   "id": "SURG-C68-025",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "Familial atypical mole melanoma syndrome also increases the risk of:",
+   "opts": [
+    "Pancreatic cancer",
+    "Gastric cancer",
+    "Thyroid cancer",
+    "Renal cancer"
+   ],
+   "ans": 0,
+   "exp": "Pancreatic cancer (Book p530)"
+  },
+  {
+   "id": "SURG-C68-026",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "Sequence of growth phases in malignant melanoma:",
+   "opts": [
+    "Horizontal phase followed by vertical invasion",
+    "Vertical followed by horizontal",
+    "Only vertical",
+    "Only horizontal"
+   ],
+   "ans": 0,
+   "exp": "Horizontal phase followed by vertical invasion (Book p530)"
+  },
+  {
+   "id": "SURG-C68-027",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "M/c type of malignant melanoma:",
+   "opts": [
+    "Superficial spreading",
+    "Nodular",
+    "Acral",
+    "Lentigo maligna"
+   ],
+   "ans": 0,
+   "exp": "Superficial spreading (Book p530)"
+  },
+  {
+   "id": "SURG-C68-028",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "Growth phase of superficial spreading melanoma:",
+   "opts": [
+    "Prolonged horizontal phase",
+    "Rapid vertical phase",
+    "No growth phase",
+    "Only vertical phase"
+   ],
+   "ans": 0,
+   "exp": "Prolonged horizontal phase (Book p530)"
+  },
+  {
+   "id": "SURG-C68-029",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "M/c melanoma arising in a pre-existing mole:",
+   "opts": [
+    "Superficial spreading melanoma",
+    "Nodular melanoma",
+    "Acral melanoma",
+    "Desmoplastic melanoma"
+   ],
+   "ans": 0,
+   "exp": "Superficial spreading melanoma (Book p530)"
+  },
+  {
+   "id": "SURG-C68-030",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "page": 530,
+   "q": "Risk factors for superficial spreading melanoma:",
+   "opts": [
+    "Young individuals and sun exposure",
+    "Elderly patients and dark skin",
+    "Chronic lymphedema",
+    "Radiation in childhood"
+   ],
+   "ans": 0,
+   "exp": "Young individuals and sun exposure (Book p530)"
+  },
+  {
+   "id": "SURG-C68-031",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Lentigo maligna is also known as:",
+   "opts": [
+    "Hutchinson's melanotic freckle",
+    "Hutchinson's sign",
+    "Ackerman tumor",
+    "Bowen's disease"
+   ],
+   "ans": 0,
+   "exp": "Hutchinson's melanotic freckle (Book p531)"
+  },
+  {
+   "id": "SURG-C68-032",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Lentigo maligna is:",
+   "opts": [
+    "An in-situ melanoma seen in elderly patients with the best prognosis",
+    "An invasive melanoma in young patients",
+    "The worst prognosis melanoma",
+    "A melanoma of the palm"
+   ],
+   "ans": 0,
+   "exp": "An in-situ melanoma seen in elderly patients with the best prognosis (Book p531)"
+  },
+  {
+   "id": "SURG-C68-033",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "M/c melanoma in dark skinned individuals:",
+   "opts": [
+    "Acral melanoma",
+    "Superficial spreading melanoma",
+    "Lentigo maligna",
+    "Desmoplastic melanoma"
+   ],
+   "ans": 0,
+   "exp": "Acral melanoma (Book p531)"
+  },
+  {
+   "id": "SURG-C68-034",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Site of acral melanoma:",
+   "opts": [
+    "Palm and sole",
+    "Face",
+    "Trunk",
+    "Scalp"
+   ],
+   "ans": 0,
+   "exp": "Palm and sole (Book p531)"
+  },
+  {
+   "id": "SURG-C68-035",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Growth phase and prognosis of acral melanoma:",
+   "opts": [
+    "Rapid vertical phase with poor prognosis",
+    "Prolonged horizontal phase with good prognosis",
+    "No vertical phase",
+    "Best prognosis"
+   ],
+   "ans": 0,
+   "exp": "Rapid vertical phase with poor prognosis (Book p531)"
+  },
+  {
+   "id": "SURG-C68-036",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Hutchinson's SIGN refers to:",
+   "opts": [
+    "Pigmentation of the nail fold in subungual melanoma",
+    "A melanotic freckle of the face",
+    "Pigmented palm creases",
+    "A halo naevus"
+   ],
+   "ans": 0,
+   "exp": "Pigmentation of the nail fold in subungual melanoma (Book p531)"
+  },
+  {
+   "id": "SURG-C68-037",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Melanoma with the WORST prognosis:",
+   "opts": [
+    "Nodular melanoma",
+    "Lentigo maligna",
+    "Superficial spreading melanoma",
+    "Acral melanoma"
+   ],
+   "ans": 0,
+   "exp": "Nodular melanoma (Book p531)"
+  },
+  {
+   "id": "SURG-C68-038",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Growth phase of nodular melanoma:",
+   "opts": [
+    "Rapid vertical phase",
+    "Prolonged horizontal phase",
+    "In-situ only",
+    "Static"
+   ],
+   "ans": 0,
+   "exp": "Rapid vertical phase (Book p531)"
+  },
+  {
+   "id": "SURG-C68-039",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Amelanotic melanoma is:",
+   "opts": [
+    "A variant that lacks pigment and is detected late",
+    "A heavily pigmented melanoma",
+    "An in-situ melanoma with good prognosis",
+    "A benign naevus"
+   ],
+   "ans": 0,
+   "exp": "A variant that lacks pigment and is detected late (Book p531)"
+  },
+  {
+   "id": "SURG-C68-040",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Site of desmoplastic melanoma:",
+   "opts": [
+    "Head and neck region",
+    "Palm and sole",
+    "Trunk",
+    "Lower limb"
+   ],
+   "ans": 0,
+   "exp": "Head and neck region (Book p531)"
+  },
+  {
+   "id": "SURG-C68-041",
+   "sec": "Types of Malignant Melanoma",
+   "page": 531,
+   "q": "Consequences of perineural invasion in desmoplastic melanoma:",
+   "opts": [
+    "Painful lesion with locoregional recurrence",
+    "Painless lesion with no recurrence",
+    "Early distant metastasis only",
+    "Spontaneous regression"
+   ],
+   "ans": 0,
+   "exp": "Painful lesion with locoregional recurrence (Book p531)"
+  },
+  {
+   "id": "SURG-C68-042",
+   "sec": "ABCDE Changes and Investigations",
+   "page": 531,
+   "q": "'A' in the ABCDE changes of melanoma:",
+   "opts": [
+    "Asymmetry",
+    "Atrophy",
+    "Anaemia",
+    "Adhesion"
+   ],
+   "ans": 0,
+   "exp": "Asymmetry (Book p531)"
+  },
+  {
+   "id": "SURG-C68-043",
+   "sec": "ABCDE Changes and Investigations",
+   "page": 531,
+   "q": "'B' in the ABCDE changes of melanoma:",
+   "opts": [
+    "Irregular border",
+    "Bleeding",
+    "Blackness",
+    "Blistering"
+   ],
+   "ans": 0,
+   "exp": "Irregular border (Book p531)"
+  },
+  {
+   "id": "SURG-C68-044",
+   "sec": "ABCDE Changes and Investigations",
+   "page": 531,
+   "q": "'C' in the ABCDE changes of melanoma:",
+   "opts": [
+    "Colour change",
+    "Consistency",
+    "Crusting",
+    "Contraction"
+   ],
+   "ans": 0,
+   "exp": "Colour change (Book p531)"
+  },
+  {
+   "id": "SURG-C68-045",
+   "sec": "ABCDE Changes and Investigations",
+   "page": 531,
+   "q": "Diameter in the ABCDE changes suggesting malignancy:",
+   "opts": [
+    ">6 mm",
+    ">2 mm",
+    ">10 mm",
+    ">20 mm"
+   ],
+   "ans": 0,
+   "exp": ">6 mm (Book p531)"
+  },
+  {
+   "id": "SURG-C68-046",
+   "sec": "ABCDE Changes and Investigations",
+   "page": 531,
+   "q": "'E' in the ABCDE changes of melanoma:",
+   "opts": [
+    "Evolution",
+    "Erythema",
+    "Erosion",
+    "Elevation only"
+   ],
+   "ans": 0,
+   "exp": "Evolution (Book p531)"
+  },
+  {
+   "id": "SURG-C68-047",
+   "sec": "ABCDE Changes and Investigations",
+   "page": 531,
+   "q": "IHC markers for malignant melanoma:",
+   "opts": [
+    "S-100, Melan-A and HMB 45",
+    "cKit, p63, SMA",
+    "CK7, CK20",
+    "TTF-1, napsin"
+   ],
+   "ans": 0,
+   "exp": "S-100, Melan-A and HMB 45 (Book p531)"
+  },
+  {
+   "id": "SURG-C68-048",
+   "sec": "ABCDE Changes and Investigations",
+   "page": 531,
+   "q": "A brown colour on melanoma IHC indicates:",
+   "opts": [
+    "A positive result",
+    "A negative result",
+    "An inconclusive result",
+    "Artefact"
+   ],
+   "ans": 0,
+   "exp": "A positive result (Book p531)"
+  },
+  {
+   "id": "SURG-C68-049",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Staging of malignant melanoma is based on:",
+   "opts": [
+    "Depth of invasion",
+    "Tumour width",
+    "Pigment content",
+    "Patient age"
+   ],
+   "ans": 0,
+   "exp": "Depth of invasion (Book p532)"
+  },
+  {
+   "id": "SURG-C68-050",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Clarke's classification is based on:",
+   "opts": [
+    "The structure invaded",
+    "The size in mm",
+    "Number of mitoses",
+    "Lymph node status"
+   ],
+   "ans": 0,
+   "exp": "The structure invaded (Book p532)"
+  },
+  {
+   "id": "SURG-C68-051",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Clarke's stage I involves:",
+   "opts": [
+    "Epidermis",
+    "Papillary dermis",
+    "Reticular dermis",
+    "Subcutaneous tissue"
+   ],
+   "ans": 0,
+   "exp": "Epidermis (Book p532)"
+  },
+  {
+   "id": "SURG-C68-052",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Clarke's stage II involves:",
+   "opts": [
+    "Papillary dermis",
+    "Epidermis",
+    "Dermal papillae",
+    "Reticular dermis"
+   ],
+   "ans": 0,
+   "exp": "Papillary dermis (Book p532)"
+  },
+  {
+   "id": "SURG-C68-053",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Clarke's stage III involves:",
+   "opts": [
+    "Dermal papillae",
+    "Papillary dermis",
+    "Reticular dermis",
+    "Subcutaneous tissue"
+   ],
+   "ans": 0,
+   "exp": "Dermal papillae (Book p532)"
+  },
+  {
+   "id": "SURG-C68-054",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Clarke's stage IV involves:",
+   "opts": [
+    "Reticular dermis",
+    "Dermal papillae",
+    "Subcutaneous tissue",
+    "Epidermis"
+   ],
+   "ans": 0,
+   "exp": "Reticular dermis (Book p532)"
+  },
+  {
+   "id": "SURG-C68-055",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Clarke's stage V involves:",
+   "opts": [
+    "Subcutaneous tissue",
+    "Reticular dermis",
+    "Muscle",
+    "Bone"
+   ],
+   "ans": 0,
+   "exp": "Subcutaneous tissue (Book p532)"
+  },
+  {
+   "id": "SURG-C68-056",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Breslow classification is based on:",
+   "opts": [
+    "Size (thickness) of the lesion",
+    "Structure invaded",
+    "Mitotic count",
+    "Ulceration"
+   ],
+   "ans": 0,
+   "exp": "Size (thickness) of the lesion (Book p532)"
+  },
+  {
+   "id": "SURG-C68-057",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Breslow stage I:",
+   "opts": [
+    "≤0.75 mm",
+    "0.76-1.5 mm",
+    "1.5-4 mm",
+    ">4 mm"
+   ],
+   "ans": 0,
+   "exp": "≤0.75 mm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-058",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Breslow stage II:",
+   "opts": [
+    "0.76-1.5 mm",
+    "≤0.75 mm",
+    "1.5-4 mm",
+    ">4 mm"
+   ],
+   "ans": 0,
+   "exp": "0.76-1.5 mm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-059",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Breslow stage III:",
+   "opts": [
+    "1.5 mm - 4 mm",
+    "≤0.75 mm",
+    "0.76-1.5 mm",
+    ">4 mm"
+   ],
+   "ans": 0,
+   "exp": "1.5 mm - 4 mm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-060",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Breslow stage IV:",
+   "opts": [
+    ">4 mm",
+    "1.5-4 mm",
+    "0.76-1.5 mm",
+    "≤0.75 mm"
+   ],
+   "ans": 0,
+   "exp": ">4 mm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-061",
+   "sec": "Staging of Malignant Melanoma",
+   "page": 532,
+   "q": "Routes of spread of malignant melanoma:",
+   "opts": [
+    "Both lymph node and haematogenous",
+    "Lymph node only",
+    "Haematogenous only",
+    "Direct spread only"
+   ],
+   "ans": 0,
+   "exp": "Both lymph node and haematogenous (Book p532)"
+  },
+  {
+   "id": "SURG-C68-062",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "Management of the primary tumour in localised melanoma:",
+   "opts": [
+    "Wide local excision using NCCN margin criteria",
+    "Moh's surgery always",
+    "Radiotherapy",
+    "Cryotherapy"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision using NCCN margin criteria (Book p532)"
+  },
+  {
+   "id": "SURG-C68-063",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "NCCN margin for a melanoma <0.5 mm thick:",
+   "opts": [
+    "0.5 cm",
+    "1 cm",
+    "2 cm",
+    "5 cm"
+   ],
+   "ans": 0,
+   "exp": "0.5 cm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-064",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "NCCN margin for a melanoma 0.5-1 mm thick:",
+   "opts": [
+    "0.5-1 cm",
+    "1-2 cm",
+    "2 cm",
+    "0.2 cm"
+   ],
+   "ans": 0,
+   "exp": "0.5-1 cm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-065",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "NCCN margin for a melanoma 1 mm-2 mm thick:",
+   "opts": [
+    "1-2 cm",
+    "0.5 cm",
+    "2 cm",
+    "5 cm"
+   ],
+   "ans": 0,
+   "exp": "1-2 cm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-066",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "NCCN margin for a melanoma >2 mm thick:",
+   "opts": [
+    "2 cm",
+    "1 cm",
+    "0.5 cm",
+    "5 cm"
+   ],
+   "ans": 0,
+   "exp": "2 cm (Book p532)"
+  },
+  {
+   "id": "SURG-C68-067",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "Management when there is NO gross lymph node involvement:",
+   "opts": [
+    "Sentinel lymph node biopsy",
+    "Lymph node clearance",
+    "Radiotherapy",
+    "No nodal assessment"
+   ],
+   "ans": 0,
+   "exp": "Sentinel lymph node biopsy (Book p532)"
+  },
+  {
+   "id": "SURG-C68-068",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "Management when gross lymph node involvement is present:",
+   "opts": [
+    "Lymph node clearance",
+    "Sentinel lymph node biopsy",
+    "Observation",
+    "Chemotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Lymph node clearance (Book p532)"
+  },
+  {
+   "id": "SURG-C68-069",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "Dabrafenib acts as a:",
+   "opts": [
+    "BRAF inhibitor",
+    "MAPK pathway inhibitor",
+    "Check point inhibitor",
+    "PDL-1 inhibitor"
+   ],
+   "ans": 0,
+   "exp": "BRAF inhibitor (Book p532)"
+  },
+  {
+   "id": "SURG-C68-070",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "Trametinib acts:",
+   "opts": [
+    "Against the MAPK pathway",
+    "As a BRAF inhibitor",
+    "As a check point inhibitor",
+    "As an alkylating agent"
+   ],
+   "ans": 0,
+   "exp": "Against the MAPK pathway (Book p532)"
+  },
+  {
+   "id": "SURG-C68-071",
+   "sec": "Management of Malignant Melanoma",
+   "page": 532,
+   "q": "Ipilimumab is a:",
+   "opts": [
+    "Check point inhibitor",
+    "BRAF inhibitor",
+    "MAPK inhibitor",
+    "Topoisomerase inhibitor"
+   ],
+   "ans": 0,
+   "exp": "Check point inhibitor (Book p532)"
+  },
+  {
+   "id": "SURG-C68-072",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Isolated limb perfusion chemotherapy is used in:",
+   "opts": [
+    "Locally advanced malignant melanoma",
+    "In-situ melanoma",
+    "Basal cell carcinoma",
+    "Desmoid tumor"
+   ],
+   "ans": 0,
+   "exp": "Locally advanced malignant melanoma (Book p533)"
+  },
+  {
+   "id": "SURG-C68-073",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Most important OVERALL prognostic factor in malignant melanoma:",
+   "opts": [
+    "Lymph node status",
+    "Depth of invasion",
+    "Tumour site",
+    "Patient age"
+   ],
+   "ans": 0,
+   "exp": "Lymph node status (Book p533)"
+  },
+  {
+   "id": "SURG-C68-074",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Most important prognostic factor in node negative / early malignant melanoma:",
+   "opts": [
+    "Depth",
+    "Lymph node status",
+    "Ulceration",
+    "Pigmentation"
+   ],
+   "ans": 0,
+   "exp": "Depth (Book p533)"
+  },
+  {
+   "id": "SURG-C68-075",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Precursor lesions of cutaneous squamous cell carcinoma:",
+   "opts": [
+    "Cutaneous horn and keratoacanthoma",
+    "Lentigo maligna and naevus",
+    "Dermatofibroma and lipoma",
+    "Seborrheic keratosis only"
+   ],
+   "ans": 0,
+   "exp": "Cutaneous horn and keratoacanthoma (Book p533)"
+  },
+  {
+   "id": "SURG-C68-076",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "A sebaceous horn consists of:",
+   "opts": [
+    "Solidified keratin, a complication of a sebaceous cyst",
+    "Calcified fat",
+    "Fibrous tissue",
+    "Melanin deposits"
+   ],
+   "ans": 0,
+   "exp": "Solidified keratin, a complication of a sebaceous cyst (Book p533)"
+  },
+  {
+   "id": "SURG-C68-077",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Marjolin's ulcer is seen in:",
+   "opts": [
+    "Long standing varicose ulcers and burn scars",
+    "Acute traumatic wounds",
+    "Diabetic foot ulcers only",
+    "Pressure sores only"
+   ],
+   "ans": 0,
+   "exp": "Long standing varicose ulcers and burn scars (Book p533)"
+  },
+  {
+   "id": "SURG-C68-078",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Edges of a Marjolin's ulcer:",
+   "opts": [
+    "Raised, everted cauliflower edges",
+    "Rolled out pearly edges",
+    "Undermined edges",
+    "Punched out edges"
+   ],
+   "ans": 0,
+   "exp": "Raised, everted cauliflower edges (Book p533)"
+  },
+  {
+   "id": "SURG-C68-079",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Why are lymph nodes rarely involved in Marjolin's ulcer:",
+   "opts": [
+    "Scarring of the lymphatics",
+    "Absence of tumour cells",
+    "Slow growth only",
+    "Immune protection"
+   ],
+   "ans": 0,
+   "exp": "Scarring of the lymphatics (Book p533)"
+  },
+  {
+   "id": "SURG-C68-080",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Investigation for Marjolin's ulcer:",
+   "opts": [
+    "Biopsy",
+    "FNAC",
+    "CT",
+    "USG"
+   ],
+   "ans": 0,
+   "exp": "Biopsy (Book p533)"
+  },
+  {
+   "id": "SURG-C68-081",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "page": 533,
+   "q": "Management of Marjolin's ulcer:",
+   "opts": [
+    "Wide local excision",
+    "Radiotherapy alone",
+    "Skin graft alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision (Book p533)"
+  },
+  {
+   "id": "SURG-C68-082",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "Usual route of spread of soft tissue sarcomas:",
+   "opts": [
+    "Haematogenous",
+    "Lymphatic",
+    "Transcoelomic",
+    "Perineural"
+   ],
+   "ans": 0,
+   "exp": "Haematogenous (Book p533)"
+  },
+  {
+   "id": "SURG-C68-083",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "M/c soft tissue sarcoma overall and in the retroperitoneum:",
+   "opts": [
+    "Liposarcoma",
+    "Rhabdomyosarcoma",
+    "Angiosarcoma",
+    "Synovial sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Liposarcoma (Book p533)"
+  },
+  {
+   "id": "SURG-C68-084",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "M/c soft tissue sarcoma in children:",
+   "opts": [
+    "Rhabdomyosarcoma",
+    "Liposarcoma",
+    "Synovial sarcoma",
+    "Angiosarcoma"
+   ],
+   "ans": 0,
+   "exp": "Rhabdomyosarcoma (Book p533)"
+  },
+  {
+   "id": "SURG-C68-085",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "M/c sites of rhabdomyosarcoma in children:",
+   "opts": [
+    "Genitourinary and head and neck region",
+    "Retroperitoneum and thigh",
+    "Chest wall only",
+    "Bone"
+   ],
+   "ans": 0,
+   "exp": "Genitourinary and head and neck region (Book p533)"
+  },
+  {
+   "id": "SURG-C68-086",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "Viral infection associated with a soft tissue sarcoma:",
+   "opts": [
+    "Kaposi sarcoma",
+    "Liposarcoma",
+    "Synovial sarcoma",
+    "Desmoid tumor"
+   ],
+   "ans": 0,
+   "exp": "Kaposi sarcoma (Book p533)"
+  },
+  {
+   "id": "SURG-C68-087",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "Sarcoma arising in long standing lymphedema:",
+   "opts": [
+    "Stewart-Treves syndrome (angio/lymphangiosarcoma)",
+    "Kaposi sarcoma",
+    "Liposarcoma",
+    "Rhabdomyosarcoma"
+   ],
+   "ans": 0,
+   "exp": "Stewart-Treves syndrome (angio/lymphangiosarcoma) (Book p533)"
+  },
+  {
+   "id": "SURG-C68-088",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "Etiological factors for soft tissue sarcoma include all EXCEPT:",
+   "opts": [
+    "Betel quid chewing",
+    "Radiation exposure",
+    "Chemical exposure",
+    "Immunosuppression"
+   ],
+   "ans": 0,
+   "exp": "Betel quid chewing (Book p533)"
+  },
+  {
+   "id": "SURG-C68-089",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "Syndrome associated with desmoid tumor:",
+   "opts": [
+    "Gardner's syndrome",
+    "Li-Fraumeni syndrome",
+    "Gorlin syndrome",
+    "NF-1"
+   ],
+   "ans": 0,
+   "exp": "Gardner's syndrome (Book p533)"
+  },
+  {
+   "id": "SURG-C68-090",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "Gorlin syndrome is associated with:",
+   "opts": [
+    "Sarcomas plus basal cell carcinoma",
+    "Desmoid tumor",
+    "Retinoblastoma",
+    "Rhabdomyosarcoma only"
+   ],
+   "ans": 0,
+   "exp": "Sarcomas plus basal cell carcinoma (Book p533)"
+  },
+  {
+   "id": "SURG-C68-091",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology",
+   "page": 533,
+   "q": "Syndromes associated with soft tissue sarcoma include all EXCEPT:",
+   "opts": [
+    "Plummer-Vinson syndrome",
+    "Retinoblastoma",
+    "Li-Fraumeni syndrome",
+    "NF-1"
+   ],
+   "ans": 0,
+   "exp": "Plummer-Vinson syndrome (Book p533)"
+  },
+  {
+   "id": "SURG-C68-092",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "Typical presentation of a soft tissue sarcoma:",
+   "opts": [
+    "A painless mass/swelling with rapid increase in size",
+    "A painful ulcer",
+    "A pigmented macule",
+    "A pulsatile mass"
+   ],
+   "ans": 0,
+   "exp": "A painless mass/swelling with rapid increase in size (Book p534)"
+  },
+  {
+   "id": "SURG-C68-093",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "When does a soft tissue sarcoma become painful:",
+   "opts": [
+    "With nerve infiltration",
+    "When small",
+    "Always at onset",
+    "Only after radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "With nerve infiltration (Book p534)"
+  },
+  {
+   "id": "SURG-C68-094",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "M/c site of metastasis from a LIMB soft tissue sarcoma:",
+   "opts": [
+    "Lungs",
+    "Liver",
+    "Bone",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "Lungs (Book p534)"
+  },
+  {
+   "id": "SURG-C68-095",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "M/c site of metastasis from a RETROPERITONEAL soft tissue sarcoma:",
+   "opts": [
+    "Liver",
+    "Lungs",
+    "Bone",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "Liver (Book p534)"
+  },
+  {
+   "id": "SURG-C68-096",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "Lymph node spread in soft tissue sarcomas is:",
+   "opts": [
+    "Uncommon",
+    "The commonest route",
+    "Universal",
+    "Seen in all liposarcomas"
+   ],
+   "ans": 0,
+   "exp": "Uncommon (Book p534)"
+  },
+  {
+   "id": "SURG-C68-097",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "The mnemonic MARCES denotes sarcomas that:",
+   "opts": [
+    "Spread to lymph nodes and require LN clearance",
+    "Never metastasise",
+    "Are radioresistant",
+    "Occur only in children"
+   ],
+   "ans": 0,
+   "exp": "Spread to lymph nodes and require LN clearance (Book p534)"
+  },
+  {
+   "id": "SURG-C68-098",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "Sarcomas spreading to lymph nodes include all EXCEPT:",
+   "opts": [
+    "Liposarcoma",
+    "Malignant fibrous histiocytoma",
+    "Angiosarcoma and rhabdomyosarcoma",
+    "Clear cell, epithelial and synovial sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Liposarcoma (Book p534)"
+  },
+  {
+   "id": "SURG-C68-099",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "Investigation of choice for a soft tissue sarcoma:",
+   "opts": [
+    "Core needle biopsy",
+    "FNAC",
+    "Excision biopsy",
+    "Incisional biopsy of the centre"
+   ],
+   "ans": 0,
+   "exp": "Core needle biopsy (Book p534)"
+  },
+  {
+   "id": "SURG-C68-100",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "page": 534,
+   "q": "Most important prognostic factor in soft tissue sarcoma:",
+   "opts": [
+    "Grade, based on mitotic figures",
+    "Tumour size",
+    "Patient age",
+    "Site"
+   ],
+   "ans": 0,
+   "exp": "Grade, based on mitotic figures (Book p534)"
+  },
+  {
+   "id": "SURG-C68-101",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "page": 534,
+   "q": "Surgical management of soft tissue sarcoma:",
+   "opts": [
+    "Wide local excision / compartmental excision",
+    "Enucleation",
+    "Moh's surgery",
+    "Debulking only"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision / compartmental excision (Book p534)"
+  },
+  {
+   "id": "SURG-C68-102",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "page": 534,
+   "q": "Chemotherapy regimen for soft tissue sarcoma:",
+   "opts": [
+    "Methotrexate plus Adriamycin",
+    "Cisplatin plus 5-FU",
+    "Dabrafenib plus trametinib",
+    "Bleomycin alone"
+   ],
+   "ans": 0,
+   "exp": "Methotrexate plus Adriamycin (Book p534)"
+  },
+  {
+   "id": "SURG-C68-103",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "page": 534,
+   "q": "Role of radiotherapy in soft tissue sarcoma:",
+   "opts": [
+    "Markedly reduces loco-regional recurrence",
+    "Cures distant metastasis",
+    "Replaces surgery",
+    "Has no role"
+   ],
+   "ans": 0,
+   "exp": "Markedly reduces loco-regional recurrence (Book p534)"
+  },
+  {
+   "id": "SURG-C68-104",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "page": 534,
+   "q": "Typical site of a desmoid tumor:",
+   "opts": [
+    "Soft tissue over the anterior abdominal wall, over a scar",
+    "Retroperitoneum only",
+    "Thigh",
+    "Head and neck"
+   ],
+   "ans": 0,
+   "exp": "Soft tissue over the anterior abdominal wall, over a scar (Book p534)"
+  },
+  {
+   "id": "SURG-C68-105",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "page": 534,
+   "q": "Syndromic association of desmoid tumor:",
+   "opts": [
+    "Gardner's syndrome",
+    "Gorlin syndrome",
+    "Li-Fraumeni syndrome",
+    "NF-1"
+   ],
+   "ans": 0,
+   "exp": "Gardner's syndrome (Book p534)"
+  },
+  {
+   "id": "SURG-C68-106",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "page": 534,
+   "q": "Behaviour of a desmoid tumor:",
+   "opts": [
+    "Locally invasive but does not metastasize",
+    "Metastasises early to lung",
+    "Spreads to lymph nodes",
+    "Regresses spontaneously always"
+   ],
+   "ans": 0,
+   "exp": "Locally invasive but does not metastasize (Book p534)"
+  },
+  {
+   "id": "SURG-C68-107",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "page": 534,
+   "q": "Management of a desmoid tumor:",
+   "opts": [
+    "Wide local excision and tamoxifen",
+    "Radiotherapy alone",
+    "Methotrexate alone",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision and tamoxifen (Book p534)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U68-1",
+   "ch": 68,
+   "n": 1,
+   "title": "Basal Cell Carcinoma: Features and Risk Factors",
+   "sec": "Basal Cell Carcinoma: Features and Risk Factors · p529",
+   "qs": [
+    "SURG-C68-001",
+    "SURG-C68-002",
+    "SURG-C68-003",
+    "SURG-C68-004",
+    "SURG-C68-005",
+    "SURG-C68-006"
+   ],
+   "guide": "Basal cell carcinoma — the rodent ulcer — is locally invasive but never metastasises to nodes or distant sites, and favours the face above the line joining the angle of mouth to the ear lobule. Risks: white skin, UV rays and Gorlin syndrome on chromosome 9."
+  },
+  {
+   "id": "SURG-U68-2",
+   "ch": 68,
+   "n": 2,
+   "title": "BCC Types, Clinical Features and Management",
+   "sec": "BCC Types, Clinical Features and Management · p529",
+   "qs": [
+    "SURG-C68-007",
+    "SURG-C68-008",
+    "SURG-C68-009",
+    "SURG-C68-010",
+    "SURG-C68-011",
+    "SURG-C68-012",
+    "SURG-C68-013",
+    "SURG-C68-014",
+    "SURG-C68-015"
+   ],
+   "guide": "BCC types: localized (nodular m/c, nodulocystic, pigmented), generalized (superficial, multifocal) and infiltrative morphoeic, the most aggressive. The ulcer has rolled out pearly white edges and biopsy shows a pallisading pattern. Treat by wide local excision with a rhomboid/Limberg flap, a bilobed flap near the nasal tip and a bipedicled flap at the eyelid."
+  },
+  {
+   "id": "SURG-U68-3",
+   "ch": 68,
+   "n": 3,
+   "title": "High Risk BCC and Moh's Micrographic Surgery",
+   "sec": "High Risk BCC and Moh's Micrographic Surgery · p530",
+   "qs": [
+    "SURG-C68-016",
+    "SURG-C68-017",
+    "SURG-C68-018",
+    "SURG-C68-019",
+    "SURG-C68-020",
+    "SURG-C68-021",
+    "SURG-C68-022"
+   ],
+   "guide": "High risk BCC: >2 cm, sites where infiltration can extend intracranially, recurrent lesions and post-immunosuppression. Moh's micrographic surgery removes the lesion layer by layer with microscopic checks, is done m/c for BCC, and suits recurrent lesions or those near vital structures and nerves — less tissue removed and better cosmesis, but time consuming."
+  },
+  {
+   "id": "SURG-U68-4",
+   "ch": 68,
+   "n": 4,
+   "title": "Malignant Melanoma: Risk Factors and Superficial Spreading Type",
+   "sec": "Malignant Melanoma: Risk Factors and Superficial Spreading Type · p530",
+   "qs": [
+    "SURG-C68-023",
+    "SURG-C68-024",
+    "SURG-C68-025",
+    "SURG-C68-026",
+    "SURG-C68-027",
+    "SURG-C68-028",
+    "SURG-C68-029",
+    "SURG-C68-030"
+   ],
+   "guide": "Malignant melanoma arises from melanocytes, driven by UV radiation, white skin and familial atypical mole melanoma syndrome (which also raises pancreatic cancer risk). Growth is horizontal then vertical. Superficial spreading is the m/c type, with a prolonged horizontal phase, commonest melanoma in a pre-existing mole, in young sun-exposed individuals."
+  },
+  {
+   "id": "SURG-U68-5",
+   "ch": 68,
+   "n": 5,
+   "title": "Types of Malignant Melanoma",
+   "sec": "Types of Malignant Melanoma · p531",
+   "qs": [
+    "SURG-C68-031",
+    "SURG-C68-032",
+    "SURG-C68-033",
+    "SURG-C68-034",
+    "SURG-C68-035",
+    "SURG-C68-036",
+    "SURG-C68-037",
+    "SURG-C68-038",
+    "SURG-C68-039",
+    "SURG-C68-040",
+    "SURG-C68-041"
+   ],
+   "guide": "Lentigo maligna (Hutchinson's melanotic freckle) is an in-situ melanoma of the elderly with the best prognosis. Acral melanoma is commonest in dark skin, on palm and sole, with a rapid vertical phase and poor prognosis — Hutchinson's sign marks subungual melanoma. Nodular melanoma has a rapid vertical phase and the worst prognosis; the amelanotic variant lacks pigment and is found late. Desmoplastic melanoma sits in the head and neck with perineural invasion causing pain and locoregional recurrence."
+  },
+  {
+   "id": "SURG-U68-6",
+   "ch": 68,
+   "n": 6,
+   "title": "ABCDE Changes and Investigations",
+   "sec": "ABCDE Changes and Investigations · p531",
+   "qs": [
+    "SURG-C68-042",
+    "SURG-C68-043",
+    "SURG-C68-044",
+    "SURG-C68-045",
+    "SURG-C68-046",
+    "SURG-C68-047",
+    "SURG-C68-048"
+   ],
+   "guide": "Malignant transformation is flagged by ABCDE: Asymmetry, irregular Border, Colour change, Diameter >6 mm and Evolution. Biopsy plus IHC with S-100, Melan-A and HMB 45 — a brown colour signals positivity."
+  },
+  {
+   "id": "SURG-U68-7",
+   "ch": 68,
+   "n": 7,
+   "title": "Staging of Malignant Melanoma",
+   "sec": "Staging of Malignant Melanoma · p532",
+   "qs": [
+    "SURG-C68-049",
+    "SURG-C68-050",
+    "SURG-C68-051",
+    "SURG-C68-052",
+    "SURG-C68-053",
+    "SURG-C68-054",
+    "SURG-C68-055",
+    "SURG-C68-056",
+    "SURG-C68-057",
+    "SURG-C68-058",
+    "SURG-C68-059",
+    "SURG-C68-060",
+    "SURG-C68-061"
+   ],
+   "guide": "Staging depends on depth. Clarke's uses structure: I epidermis, II papillary dermis, III dermal papillae, IV reticular dermis, V subcutaneous tissue. Breslow uses thickness: I ≤0.75 mm, II 0.76-1.5 mm, III 1.5-4 mm, IV >4 mm. Melanoma spreads both by lymph nodes and haematogenously."
+  },
+  {
+   "id": "SURG-U68-8",
+   "ch": 68,
+   "n": 8,
+   "title": "Management of Malignant Melanoma",
+   "sec": "Management of Malignant Melanoma · p532",
+   "qs": [
+    "SURG-C68-062",
+    "SURG-C68-063",
+    "SURG-C68-064",
+    "SURG-C68-065",
+    "SURG-C68-066",
+    "SURG-C68-067",
+    "SURG-C68-068",
+    "SURG-C68-069",
+    "SURG-C68-070",
+    "SURG-C68-071"
+   ],
+   "guide": "Localised disease: wide local excision by NCCN margins — <0.5 mm → 0.5 cm, 0.5-1 mm → 0.5-1 cm, 1-2 mm → 1-2 cm, >2 mm → 2 cm. Without gross nodes do a sentinel lymph node biopsy; with gross nodes do clearance. Metastatic disease uses dabrafenib (BRAF inhibitor), trametinib (MAPK pathway) and ipilimumab (checkpoint inhibitor)."
+  },
+  {
+   "id": "SURG-U68-9",
+   "ch": 68,
+   "n": 9,
+   "title": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin",
+   "sec": "Melanoma Prognosis and Squamous Cell Carcinoma of Skin · p533",
+   "qs": [
+    "SURG-C68-072",
+    "SURG-C68-073",
+    "SURG-C68-074",
+    "SURG-C68-075",
+    "SURG-C68-076",
+    "SURG-C68-077",
+    "SURG-C68-078",
+    "SURG-C68-079",
+    "SURG-C68-080",
+    "SURG-C68-081"
+   ],
+   "guide": "Isolated limb perfusion chemotherapy treats locally advanced melanoma. Lymph node status is the most important prognostic factor overall, depth in node negative/early disease. Cutaneous SCC follows a cutaneous horn or keratoacanthoma; a sebaceous horn is solidified keratin complicating a sebaceous cyst. Marjolin's ulcer arises in long standing varicose ulcers and burn scars, has raised everted cauliflower edges, rarely involves nodes because lymphatics are scarred, is diagnosed by biopsy and excised widely."
+  },
+  {
+   "id": "SURG-U68-10",
+   "ch": 68,
+   "n": 10,
+   "title": "Soft Tissue Sarcomas: Types and Etiology",
+   "sec": "Soft Tissue Sarcomas: Types and Etiology · p533",
+   "qs": [
+    "SURG-C68-082",
+    "SURG-C68-083",
+    "SURG-C68-084",
+    "SURG-C68-085",
+    "SURG-C68-086",
+    "SURG-C68-087",
+    "SURG-C68-088",
+    "SURG-C68-089",
+    "SURG-C68-090",
+    "SURG-C68-091"
+   ],
+   "guide": "Soft tissue sarcomas spread haematogenously. Liposarcoma is m/c overall and in the retroperitoneum; rhabdomyosarcoma in children, in genitourinary and head and neck sites. Causes: radiation, chemicals, immunosuppression, viral infection (Kaposi sarcoma) and long standing lymphedema (Stewart-Treves angio/lymphangiosarcoma). Syndromes: retinoblastoma, Li-Fraumeni, NF-1, Gardner's (desmoid tumor) and Gorlin (sarcomas plus BCC)."
+  },
+  {
+   "id": "SURG-U68-11",
+   "ch": 68,
+   "n": 11,
+   "title": "Soft Tissue Sarcoma: Features, Spread and Investigations",
+   "sec": "Soft Tissue Sarcoma: Features, Spread and Investigations · p534",
+   "qs": [
+    "SURG-C68-092",
+    "SURG-C68-093",
+    "SURG-C68-094",
+    "SURG-C68-095",
+    "SURG-C68-096",
+    "SURG-C68-097",
+    "SURG-C68-098",
+    "SURG-C68-099",
+    "SURG-C68-100"
+   ],
+   "guide": "A sarcoma is a painless rapidly enlarging mass that becomes painful with nerve infiltration. Haematogenous spread dominates — limb sarcomas to lungs, retroperitoneal to liver — while nodal spread is uncommon except MARCES: Malignant fibrous histiocytoma, Angiosarcoma, Rhabdomyosarcoma, Clear cell, Epithelial and Synovial sarcoma, which need LN clearance. Diagnose by core needle biopsy; grade based on mitotic figures is the most important prognostic factor."
+  },
+  {
+   "id": "SURG-U68-12",
+   "ch": 68,
+   "n": 12,
+   "title": "Management of Soft Tissue Sarcoma and Desmoid Tumor",
+   "sec": "Management of Soft Tissue Sarcoma and Desmoid Tumor · p534",
+   "qs": [
+    "SURG-C68-101",
+    "SURG-C68-102",
+    "SURG-C68-103",
+    "SURG-C68-104",
+    "SURG-C68-105",
+    "SURG-C68-106",
+    "SURG-C68-107"
+   ],
+   "guide": "Treat sarcomas by wide local or compartmental excision, chemotherapy with methotrexate and adriamycin, and radiotherapy to cut loco-regional recurrence. Desmoid tumor is a soft tissue sarcoma of the anterior abdominal wall over a scar, linked to Gardner's syndrome, locally invasive but non-metastasising, managed by wide local excision and tamoxifen."
+  }
+ ]
+}
