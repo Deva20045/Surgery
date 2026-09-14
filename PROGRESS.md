@@ -168,23 +168,23 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch53 Neurosurgery — p399-409 — **DONE (234 qs, 10 units)** 2026-09-14
 - [x] ch54 Basics of Trauma Management — p410-416 — **DONE (145 qs, 7 units)** 2026-09-14
 - [x] ch55 Abdominal Trauma — p417-425 — **DONE (199 qs, 9 units)** 2026-09-14
-- [ ] ch56 Thoracic trauma — p426-434 — Soon
-- [ ] ch57 Head Trauma — p435-443 — Soon
-- [ ] ch58 Thermal Injuries — p444-450 — Soon
-- [ ] ch59 Hernia : Part 1 — p451-459 — Soon
-- [ ] ch60 Hernia : Part 2 — p460-469 — Soon
-- [ ] ch61 Venous Thrombosis — p470-475 — Soon
-- [ ] ch62 Varicose Veins — p476-485 — Soon
-- [ ] ch63 Arterial System : Part 1 — p486-493 — Soon
-- [ ] ch64 Arterial System : Part 2 — p494-502 — Soon
-- [ ] ch65 Lymphatic System — p503-508 — Soon
-- [ ] ch66 Oral cancers — p509-519 — Soon
-- [ ] ch67 Salivary Glands — p520-528 — Soon
-- [ ] ch68 Skin and Soft Tissue Sarcomas — p529-534 — Soon
-- [ ] ch69 Thorax and Mediastinum — p535-543 — Soon
-- [ ] ch70 Common Surgical Swellings — p544-546 — Soon
-- [ ] ch71 Common Ulcers — p547-549 — Soon
-- [ ] ch72 Surgical Instruments — p550-558 — Soon
+- [x] ch56 Thoracic trauma — p426-434 — **DONE (138 qs, 13 units)** 2026-09-14
+- [x] ch57 Head Trauma — p435-443 — **DONE (174 qs, 12 units)** 2026-09-14
+- [x] ch58 Thermal Injuries — p444-450 — **DONE (151 qs, 16 units)** 2026-09-14
+- [x] ch59 Hernia : Part 1 — p451-459 — **DONE (134 qs, 12 units)** 2026-09-14
+- [x] ch60 Hernia : Part 2 — p460-469 — **DONE (137 qs, 12 units)** 2026-09-14
+- [x] ch61 Venous Thrombosis — p470-475 — **DONE (167 qs, 16 units)** 2026-09-14
+- [x] ch62 Varicose Veins — p476-485 — **DONE (209 qs, 22 units)** 2026-09-14
+- [x] ch63 Arterial System : Part 1 — p486-493 — **DONE (165 qs, 18 units)** 2026-09-14
+- [x] ch64 Arterial System : Part 2 — p494-502 — **DONE (169 qs, 18 units)** 2026-09-14
+- [x] ch65 Lymphatic System — p503-508 — **DONE (120 qs, 14 units)** 2026-09-14
+- [x] ch66 Oral cancers — p509-519 — **DONE (182 qs, 20 units)** 2026-09-14
+- [x] ch67 Salivary Glands — p520-528 — **DONE (166 qs, 18 units)** 2026-09-14
+- [x] ch68 Skin and Soft Tissue Sarcomas — p529-534 — **DONE (107 qs, 12 units)** 2026-09-14
+- [x] ch69 Thorax and Mediastinum — p535-543 — **DONE (151 qs, 19 units)** 2026-09-14
+- [x] ch70 Common Surgical Swellings — p544-546 — **DONE (46 qs, 6 units)** 2026-09-14
+- [x] ch71 Common Ulcers — p547-549 — **DONE (41 qs, 4 units)** 2026-09-14
+- [x] ch72 Surgical Instruments — p550-558 — **DONE (99 qs, 16 units)** 2026-09-14
 
 ## Session rule (set 2026-09-13 — KEEP until user changes it)
 - Work chapter-wise in **batches of 3** (ch3-5, ch6-8, …). After each batch, **pop up the
@@ -204,10 +204,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **60/72 chapters live** · Questions: 8039 · Units: 694
-- GitHub HTML: **synced at 60/72** (merged to `main` via PR #24 on 2026-09-14)
-- NEXT: ch61 Venous Thrombosis — p470-475 (v2c p18-23) — **source PDF: `Surgery Vol. 2_part_3.pdf`**
-  (book = pdf + 452; NO shift needed for ch61-62 — the p449 duplicate affects only v2b pdf72)
+- Local HTML: **72/72 chapters live (COMPLETE)** · Questions: 9661 · Units: 877
+- GitHub HTML: **synced at 72/72** (2026-09-14)
+- NEXT: none — all 72 chapters of Marrow Surgery Ed 8 are built and live.
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).

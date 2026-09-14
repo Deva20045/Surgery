@@ -1,0 +1,1651 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C72-001",
+   "sec": "Parts of a Surgical Instrument",
+   "page": 550,
+   "q": "Function of the 2 rings of a surgical instrument:",
+   "opts": [
+    "Gripping",
+    "Cutting",
+    "Locking only",
+    "Suction"
+   ],
+   "ans": 0,
+   "exp": "Gripping (Book p550)"
+  },
+  {
+   "id": "SURG-C72-002",
+   "sec": "Parts of a Surgical Instrument",
+   "page": 550,
+   "q": "Purpose of multiple ratchets on an instrument:",
+   "opts": [
+    "Prevent wear and tear",
+    "Increase weight",
+    "Allow suction",
+    "Sharpen blades"
+   ],
+   "ans": 0,
+   "exp": "Prevent wear and tear (Book p550)"
+  },
+  {
+   "id": "SURG-C72-003",
+   "sec": "Parts of a Surgical Instrument",
+   "page": 550,
+   "q": "Disadvantage of a SCREW joint compared to a box joint:",
+   "opts": [
+    "Increased incidence of thread getting stuck",
+    "It is heavier",
+    "It cannot be sterilised",
+    "It has no ratchets"
+   ],
+   "ans": 0,
+   "exp": "Increased incidence of thread getting stuck (Book p550)"
+  },
+  {
+   "id": "SURG-C72-004",
+   "sec": "Parts of a Surgical Instrument",
+   "page": 550,
+   "q": "Types of instrument blades:",
+   "opts": [
+    "Fenestrated and serrated",
+    "Sharp and blunt only",
+    "Curved and straight only",
+    "Toothed and ringed"
+   ],
+   "ans": 0,
+   "exp": "Fenestrated and serrated (Book p550)"
+  },
+  {
+   "id": "SURG-C72-005",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "Blade design of Rampley's sponge holder:",
+   "opts": [
+    "Fenestrated blade with serrations",
+    "Toothed solid blade",
+    "Plain smooth blade",
+    "Clawed blade"
+   ],
+   "ans": 0,
+   "exp": "Fenestrated blade with serrations (Book p550)"
+  },
+  {
+   "id": "SURG-C72-006",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "Use of Rampley's sponge holder:",
+   "opts": [
+    "Grip sponge for part preparation",
+    "Hold bowel",
+    "Clamp vessels",
+    "Retract skin"
+   ],
+   "ans": 0,
+   "exp": "Grip sponge for part preparation (Book p550)"
+  },
+  {
+   "id": "SURG-C72-007",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "Uses of towel clips include all EXCEPT:",
+   "opts": [
+    "Clamping the aorta",
+    "Hold towels post draping",
+    "Pass and hold suction catheter/cautery",
+    "Hold tongue during tongue resection"
+   ],
+   "ans": 0,
+   "exp": "Clamping the aorta (Book p550)"
+  },
+  {
+   "id": "SURG-C72-008",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "Mayo's towel clip is characterised by:",
+   "opts": [
+    "Hooks at the tips",
+    "Pinch cork effect",
+    "Fenestrated blades",
+    "Longitudinal serrations"
+   ],
+   "ans": 0,
+   "exp": "Hooks at the tips (Book p550)"
+  },
+  {
+   "id": "SURG-C72-009",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "Doyen's towel clip works by:",
+   "opts": [
+    "The pinch cork effect",
+    "Hooks piercing tissue",
+    "A ratchet lock only",
+    "Screw joint"
+   ],
+   "ans": 0,
+   "exp": "The pinch cork effect (Book p550)"
+  },
+  {
+   "id": "SURG-C72-010",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "BP handle stands for:",
+   "opts": [
+    "Brad Parker handle",
+    "Blunt point handle",
+    "Blade positioning handle",
+    "Basic procedure handle"
+   ],
+   "ans": 0,
+   "exp": "Brad Parker handle (Book p550)"
+  },
+  {
+   "id": "SURG-C72-011",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "Use of the BP handle:",
+   "opts": [
+    "To mount blades",
+    "To grip needles",
+    "To retract tissue",
+    "To clamp vessels"
+   ],
+   "ans": 0,
+   "exp": "To mount blades (Book p550)"
+  },
+  {
+   "id": "SURG-C72-012",
+   "sec": "Sponge Holder, Towel Clips and BP Handle",
+   "page": 550,
+   "q": "Holding positions of the BP handle:",
+   "opts": [
+    "Like a paint brush, and the palming grip",
+    "Pencil grip and tripod grip only",
+    "Two handed grip",
+    "Ring grip"
+   ],
+   "ans": 0,
+   "exp": "Like a paint brush, and the palming grip (Book p550)"
+  },
+  {
+   "id": "SURG-C72-013",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "Use of Yankauer's suction cannula:",
+   "opts": [
+    "Suction blood/fumes during surgery",
+    "Irrigation of the peritoneum",
+    "Insufflation of CO2",
+    "Tissue dissection"
+   ],
+   "ans": 0,
+   "exp": "Suction blood/fumes during surgery (Book p551)"
+  },
+  {
+   "id": "SURG-C72-014",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "Types of Yankauer's suction cannula:",
+   "opts": [
+    "Plastic and metallic",
+    "Curved and straight only",
+    "Toothed and plain",
+    "Fenestrated and serrated"
+   ],
+   "ans": 0,
+   "exp": "Plastic and metallic (Book p551)"
+  },
+  {
+   "id": "SURG-C72-015",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "Forceps used to hold tissues are:",
+   "opts": [
+    "Spring loaded",
+    "Ratchet locked",
+    "Screw jointed",
+    "Self retaining"
+   ],
+   "ans": 0,
+   "exp": "Spring loaded (Book p551)"
+  },
+  {
+   "id": "SURG-C72-016",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "Types of forceps:",
+   "opts": [
+    "Plain, toothed, vascular and special",
+    "Straight and curved only",
+    "Sharp and blunt",
+    "Fenestrated and clawed"
+   ],
+   "ans": 0,
+   "exp": "Plain, toothed, vascular and special (Book p551)"
+  },
+  {
+   "id": "SURG-C72-017",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "Plain forceps have:",
+   "opts": [
+    "Transverse serrations without teeth, making them relatively atraumatic",
+    "Teeth for tough structures",
+    "Minute serrations with raised edges",
+    "No serrations at all"
+   ],
+   "ans": 0,
+   "exp": "Transverse serrations without teeth, making them relatively atraumatic (Book p551)"
+  },
+  {
+   "id": "SURG-C72-018",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "Toothed forceps are used for:",
+   "opts": [
+    "Gripping tough structures, but they are traumatic",
+    "Gripping vessels atraumatically",
+    "Holding sponges",
+    "Retracting bowel"
+   ],
+   "ans": 0,
+   "exp": "Gripping tough structures, but they are traumatic (Book p551)"
+  },
+  {
+   "id": "SURG-C72-019",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "DeBakey's vascular forceps have:",
+   "opts": [
+    "Minute serrations with raised edges to grip vascular structures",
+    "Teeth",
+    "Fenestrated blades",
+    "Longitudinal ridges only"
+   ],
+   "ans": 0,
+   "exp": "Minute serrations with raised edges to grip vascular structures (Book p551)"
+  },
+  {
+   "id": "SURG-C72-020",
+   "sec": "Suction Cannula and Forceps",
+   "page": 551,
+   "q": "Russian forceps are characterised by:",
+   "opts": [
+    "Transverse serration with a gap in between",
+    "Teeth at the tip",
+    "Minute serrations with raised edges",
+    "No serrations"
+   ],
+   "ans": 0,
+   "exp": "Transverse serration with a gap in between (Book p551)"
+  },
+  {
+   "id": "SURG-C72-021",
+   "sec": "Needle Holder and Scissors",
+   "page": 551,
+   "q": "Use of a needle holder:",
+   "opts": [
+    "Grip the needle",
+    "Hold sponges",
+    "Clamp bleeders",
+    "Retract skin"
+   ],
+   "ans": 0,
+   "exp": "Grip the needle (Book p551)"
+  },
+  {
+   "id": "SURG-C72-022",
+   "sec": "Needle Holder and Scissors",
+   "page": 551,
+   "q": "Purpose of criss cross serrations on a needle holder:",
+   "opts": [
+    "Prevent needle movement",
+    "Increase grip on tissue",
+    "Cut sutures",
+    "Reduce weight"
+   ],
+   "ans": 0,
+   "exp": "Prevent needle movement (Book p551)"
+  },
+  {
+   "id": "SURG-C72-023",
+   "sec": "Needle Holder and Scissors",
+   "page": 551,
+   "q": "Where should the needle be held in the needle holder:",
+   "opts": [
+    "At the 1/3rd-2/3rd junction from the swaged and pointed end respectively",
+    "At the swaged end",
+    "At the tip",
+    "At the exact midpoint"
+   ],
+   "ans": 0,
+   "exp": "At the 1/3rd-2/3rd junction from the swaged and pointed end respectively (Book p551)"
+  },
+  {
+   "id": "SURG-C72-024",
+   "sec": "Needle Holder and Scissors",
+   "page": 551,
+   "q": "Angle at which the needle should enter the skin:",
+   "opts": [
+    "90°",
+    "45°",
+    "30°",
+    "60°"
+   ],
+   "ans": 0,
+   "exp": "90° (Book p551)"
+  },
+  {
+   "id": "SURG-C72-025",
+   "sec": "Needle Holder and Scissors",
+   "page": 551,
+   "q": "Which forceps grip the needle while suturing:",
+   "opts": [
+    "Toothed forceps",
+    "Plain forceps",
+    "DeBakey's forceps",
+    "Babcock forceps"
+   ],
+   "ans": 0,
+   "exp": "Toothed forceps (Book p551)"
+  },
+  {
+   "id": "SURG-C72-026",
+   "sec": "Needle Holder and Scissors",
+   "page": 551,
+   "q": "Mayo scissors are:",
+   "opts": [
+    "Heavy scissors with a screw joint and blades, used to cut sutures and sheaths",
+    "Light tissue dissecting scissors",
+    "Fine scissors for ophthalmic surgery",
+    "Scissors for vessels only"
+   ],
+   "ans": 0,
+   "exp": "Heavy scissors with a screw joint and blades, used to cut sutures and sheaths (Book p551)"
+  },
+  {
+   "id": "SURG-C72-027",
+   "sec": "Metzenbaum and McIndoe Scissors",
+   "page": 552,
+   "q": "Metzenbaum scissors are also known as:",
+   "opts": [
+    "Tissue dissecting scissors",
+    "Heavy suture scissors",
+    "Bone scissors",
+    "Vascular scissors"
+   ],
+   "ans": 0,
+   "exp": "Tissue dissecting scissors (Book p552)"
+  },
+  {
+   "id": "SURG-C72-028",
+   "sec": "Metzenbaum and McIndoe Scissors",
+   "page": 552,
+   "q": "Metzenbaum scissors compared with Mayo scissors are:",
+   "opts": [
+    "Lighter, and suture cutting with them is avoided",
+    "Heavier, and used to cut sutures",
+    "The same weight",
+    "Used only for bone"
+   ],
+   "ans": 0,
+   "exp": "Lighter, and suture cutting with them is avoided (Book p552)"
+  },
+  {
+   "id": "SURG-C72-029",
+   "sec": "Metzenbaum and McIndoe Scissors",
+   "page": 552,
+   "q": "McIndoe scissors are:",
+   "opts": [
+    "Finer than Metzenbaum, used to cut fine tissues in ophthalmic/ENT surgeries",
+    "Heavier than Mayo's",
+    "Used for cutting sheaths",
+    "Used for bone nibbling"
+   ],
+   "ans": 0,
+   "exp": "Finer than Metzenbaum, used to cut fine tissues in ophthalmic/ENT surgeries (Book p552)"
+  },
+  {
+   "id": "SURG-C72-030",
+   "sec": "Metzenbaum and McIndoe Scissors",
+   "page": 552,
+   "q": "Instruments used in skin suturing:",
+   "opts": [
+    "Needle holder, toothed forceps and scissors",
+    "Sponge holder, towel clip and BP handle",
+    "Babcock, Allis and Kocher forceps",
+    "Retractors and suction cannula"
+   ],
+   "ans": 0,
+   "exp": "Needle holder, toothed forceps and scissors (Book p552)"
+  },
+  {
+   "id": "SURG-C72-031",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Non-self retaining retractors:",
+   "opts": [
+    "Need to be held",
+    "Lock in position themselves",
+    "Attach to the operating table",
+    "Are used only in laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "Need to be held (Book p552)"
+  },
+  {
+   "id": "SURG-C72-032",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Use of skin hooks:",
+   "opts": [
+    "Hold raised flaps in mastectomy, thyroidectomy and parotidectomy",
+    "Retract bowel",
+    "Clamp vessels",
+    "Hold sponges"
+   ],
+   "ans": 0,
+   "exp": "Hold raised flaps in mastectomy, thyroidectomy and parotidectomy (Book p552)"
+  },
+  {
+   "id": "SURG-C72-033",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Types of skin hooks:",
+   "opts": [
+    "Single and double handle hooks",
+    "Sharp and blunt only",
+    "Fenestrated and plain",
+    "Curved and clawed"
+   ],
+   "ans": 0,
+   "exp": "Single and double handle hooks (Book p552)"
+  },
+  {
+   "id": "SURG-C72-034",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Use of the cats paw retractor:",
+   "opts": [
+    "Retract superficial tissue",
+    "Retract the bladder",
+    "Retract bowel",
+    "Retract the lung"
+   ],
+   "ans": 0,
+   "exp": "Retract superficial tissue (Book p552)"
+  },
+  {
+   "id": "SURG-C72-035",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Langenbeck retractor is a:",
+   "opts": [
+    "Right angle retractor used to retract superficial tissue",
+    "Clawed retractor for suturing",
+    "Self retaining retractor",
+    "Bladder retractor"
+   ],
+   "ans": 0,
+   "exp": "Right angle retractor used to retract superficial tissue (Book p552)"
+  },
+  {
+   "id": "SURG-C72-036",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Purpose of fenestration in the Langenbeck retractor:",
+   "opts": [
+    "Makes the instrument lighter",
+    "Improves visualisation of vessels",
+    "Allows suction",
+    "Prevents slipping"
+   ],
+   "ans": 0,
+   "exp": "Makes the instrument lighter (Book p552)"
+  },
+  {
+   "id": "SURG-C72-037",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Broader Langenbeck retractor is used in:",
+   "opts": [
+    "Cholecystectomy",
+    "Thyroidectomy",
+    "Parotidectomy",
+    "Mastectomy"
+   ],
+   "ans": 0,
+   "exp": "Cholecystectomy (Book p552)"
+  },
+  {
+   "id": "SURG-C72-038",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Design of the army navy / Czerney's retractor:",
+   "opts": [
+    "One end at 90°, the other clawed with a gap",
+    "Both ends at 90°",
+    "Both ends clawed",
+    "One end fenestrated, one end solid"
+   ],
+   "ans": 0,
+   "exp": "One end at 90°, the other clawed with a gap (Book p552)"
+  },
+  {
+   "id": "SURG-C72-039",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Use of the army navy / Czerney's retractor:",
+   "opts": [
+    "Suturing tissues while retracted",
+    "Bladder retraction",
+    "Bowel retraction",
+    "Lung retraction"
+   ],
+   "ans": 0,
+   "exp": "Suturing tissues while retracted (Book p552)"
+  },
+  {
+   "id": "SURG-C72-040",
+   "sec": "Non-self Retaining Retractors",
+   "page": 552,
+   "q": "Advantages of the Morris retractor over Langenbeck's:",
+   "opts": [
+    "Broader — prevents slipping away of structures, better grip and lighter",
+    "Narrower and heavier",
+    "Self retaining",
+    "Fenestrated blade for lung expansion"
+   ],
+   "ans": 0,
+   "exp": "Broader — prevents slipping away of structures, better grip and lighter (Book p552)"
+  },
+  {
+   "id": "SURG-C72-041",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Use of Doyen's retractor:",
+   "opts": [
+    "Bladder retraction",
+    "Bowel retraction",
+    "Lung retraction",
+    "Thyroid retraction"
+   ],
+   "ans": 0,
+   "exp": "Bladder retraction (Book p553)"
+  },
+  {
+   "id": "SURG-C72-042",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Advantage of Doyen's retractor:",
+   "opts": [
+    "Increased convexity allows easy retraction",
+    "It is self retaining",
+    "It is fenestrated",
+    "It has claws"
+   ],
+   "ans": 0,
+   "exp": "Increased convexity allows easy retraction (Book p553)"
+  },
+  {
+   "id": "SURG-C72-043",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Common use of the malleable retractor:",
+   "opts": [
+    "Abdominal surgeries for bowel retraction",
+    "Bladder retraction",
+    "Thyroid retraction",
+    "Rib retraction"
+   ],
+   "ans": 0,
+   "exp": "Abdominal surgeries for bowel retraction (Book p553)"
+  },
+  {
+   "id": "SURG-C72-044",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Mastoid retractors are:",
+   "opts": [
+    "Self retaining superficial tissue retractors used in thyroid/parotid surgeries",
+    "Non-self retaining bladder retractors",
+    "Deep abdominal retractors",
+    "Rib spreaders"
+   ],
+   "ans": 0,
+   "exp": "Self retaining superficial tissue retractors used in thyroid/parotid surgeries (Book p553)"
+  },
+  {
+   "id": "SURG-C72-045",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Balfour self retaining retractor is used for:",
+   "opts": [
+    "Deeper abdominal structures",
+    "Superficial neck tissue",
+    "Lung retraction",
+    "Bladder only"
+   ],
+   "ans": 0,
+   "exp": "Deeper abdominal structures (Book p553)"
+  },
+  {
+   "id": "SURG-C72-046",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Parts of the Balfour self retaining retractor:",
+   "opts": [
+    "A bar inserted in the abdomen and adjusted, blades for retraction, and space to attach Doyen's retractor",
+    "A ring attached to the table with multiple retractors",
+    "Two hooks and a lock",
+    "Fenestrated blades only"
+   ],
+   "ans": 0,
+   "exp": "A bar inserted in the abdomen and adjusted, blades for retraction, and space to attach Doyen's retractor (Book p553)"
+  },
+  {
+   "id": "SURG-C72-047",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Bookwalter retractor is used in:",
+   "opts": [
+    "Complex abdominal malignancy surgery",
+    "Thyroid surgery",
+    "Parotid surgery",
+    "Rib resection"
+   ],
+   "ans": 0,
+   "exp": "Complex abdominal malignancy surgery (Book p553)"
+  },
+  {
+   "id": "SURG-C72-048",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors",
+   "page": 553,
+   "q": "Parts of the Bookwalter retractor:",
+   "opts": [
+    "A ring attached to the operating table with space for attachment of multiple retractors",
+    "A bar with blades only",
+    "Two locking arms",
+    "A fenestrated single blade"
+   ],
+   "ans": 0,
+   "exp": "A ring attached to the operating table with space for attachment of multiple retractors (Book p553)"
+  },
+  {
+   "id": "SURG-C72-049",
+   "sec": "Artery Forceps",
+   "page": 553,
+   "q": "Spencer Wells forceps are:",
+   "opts": [
+    "Straight artery forceps used to hold bleeders, available in various sizes",
+    "Curved bowel clamps",
+    "Vascular clamps",
+    "Tissue dissecting scissors"
+   ],
+   "ans": 0,
+   "exp": "Straight artery forceps used to hold bleeders, available in various sizes (Book p553)"
+  },
+  {
+   "id": "SURG-C72-050",
+   "sec": "Artery Forceps",
+   "page": 553,
+   "q": "Advantage of curved artery forceps:",
+   "opts": [
+    "Better visualization",
+    "Stronger grip only",
+    "Lighter weight",
+    "Self retaining"
+   ],
+   "ans": 0,
+   "exp": "Better visualization (Book p553)"
+  },
+  {
+   "id": "SURG-C72-051",
+   "sec": "Artery Forceps",
+   "page": 553,
+   "q": "Smallest artery forceps:",
+   "opts": [
+    "Mosquito forceps",
+    "Spencer Wells forceps",
+    "Kelly's forceps",
+    "Kocher forceps"
+   ],
+   "ans": 0,
+   "exp": "Mosquito forceps (Book p553)"
+  },
+  {
+   "id": "SURG-C72-052",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Kelly's forceps are:",
+   "opts": [
+    "Curved, much bigger forceps with a more gradual curve, used in abdominal surgeries",
+    "Right angle forceps for pedicles",
+    "Small mosquito forceps",
+    "Fenestrated bowel forceps"
+   ],
+   "ans": 0,
+   "exp": "Curved, much bigger forceps with a more gradual curve, used in abdominal surgeries (Book p554)"
+  },
+  {
+   "id": "SURG-C72-053",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Use of right angle forceps:",
+   "opts": [
+    "Tie pedicles",
+    "Hold sponges",
+    "Retract bowel",
+    "Cut sutures"
+   ],
+   "ans": 0,
+   "exp": "Tie pedicles (Book p554)"
+  },
+  {
+   "id": "SURG-C72-054",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Allis forceps have:",
+   "opts": [
+    "Blades with serrations and teeth, making them traumatic",
+    "Fenestrated ends with a gap",
+    "Plain atraumatic blades",
+    "Interlocking teeth that crush"
+   ],
+   "ans": 0,
+   "exp": "Blades with serrations and teeth, making them traumatic (Book p554)"
+  },
+  {
+   "id": "SURG-C72-055",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Use of Allis forceps:",
+   "opts": [
+    "Hold tough structures such as sheath/fascia",
+    "Hold tubular structures",
+    "Hold the cervix",
+    "Clamp vessels"
+   ],
+   "ans": 0,
+   "exp": "Hold tough structures such as sheath/fascia (Book p554)"
+  },
+  {
+   "id": "SURG-C72-056",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Babcock forceps are characterised by:",
+   "opts": [
+    "A gap between two fenestrated ends",
+    "Serrated toothed blades",
+    "Interlocking teeth",
+    "A right angle curve"
+   ],
+   "ans": 0,
+   "exp": "A gap between two fenestrated ends (Book p554)"
+  },
+  {
+   "id": "SURG-C72-057",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Use and advantage of Babcock forceps:",
+   "opts": [
+    "Hold tubular structures (appendix/vas/fallopian tubes) without crushing them",
+    "Crush tough fascia",
+    "Clamp large vessels",
+    "Retract the bladder"
+   ],
+   "ans": 0,
+   "exp": "Hold tubular structures (appendix/vas/fallopian tubes) without crushing them (Book p554)"
+  },
+  {
+   "id": "SURG-C72-058",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Kocher tissue forceps:",
+   "opts": [
+    "Interlock and crush tissue",
+    "Are atraumatic",
+    "Have fenestrated ends",
+    "Are spring loaded"
+   ],
+   "ans": 0,
+   "exp": "Interlock and crush tissue (Book p554)"
+  },
+  {
+   "id": "SURG-C72-059",
+   "sec": "Special Forceps",
+   "page": 554,
+   "q": "Uses of Kocher tissue forceps:",
+   "opts": [
+    "Hold tough structures and hold the cervix during hysterectomy",
+    "Hold the appendix atraumatically",
+    "Suction fumes",
+    "Retract bowel"
+   ],
+   "ans": 0,
+   "exp": "Hold tough structures and hold the cervix during hysterectomy (Book p554)"
+  },
+  {
+   "id": "SURG-C72-060",
+   "sec": "Laparoscopic Instruments and the Veress Needle",
+   "page": 554,
+   "q": "Why are laparoscopic instruments long:",
+   "opts": [
+    "They are operated at depth",
+    "To reduce weight",
+    "For better sterilisation",
+    "To allow suction"
+   ],
+   "ans": 0,
+   "exp": "They are operated at depth (Book p554)"
+  },
+  {
+   "id": "SURG-C72-061",
+   "sec": "Laparoscopic Instruments and the Veress Needle",
+   "page": 554,
+   "q": "Why are laparoscopic instruments insulated:",
+   "opts": [
+    "To prevent current leaking out from cautery",
+    "To improve grip",
+    "To reduce reflection",
+    "To prevent rusting"
+   ],
+   "ans": 0,
+   "exp": "To prevent current leaking out from cautery (Book p554)"
+  },
+  {
+   "id": "SURG-C72-062",
+   "sec": "Laparoscopic Instruments and the Veress Needle",
+   "page": 554,
+   "q": "Veress needle is used for:",
+   "opts": [
+    "The closed method of creating pneumoperitoneum",
+    "The open Hassan method",
+    "Tissue dissection",
+    "Specimen retrieval"
+   ],
+   "ans": 0,
+   "exp": "The closed method of creating pneumoperitoneum (Book p554)"
+  },
+  {
+   "id": "SURG-C72-063",
+   "sec": "Laparoscopic Instruments and the Veress Needle",
+   "page": 554,
+   "q": "Mechanism of the Veress needle:",
+   "opts": [
+    "It is spring loaded — a blunt tip in front that retracts to a bevelled tip on pressing, preventing tissue injury",
+    "A fixed sharp tip",
+    "A blunt tip only",
+    "A bladeless optical tip"
+   ],
+   "ans": 0,
+   "exp": "It is spring loaded — a blunt tip in front that retracts to a bevelled tip on pressing, preventing tissue injury (Book p554)"
+  },
+  {
+   "id": "SURG-C72-064",
+   "sec": "Laparoscopic Instruments and the Veress Needle",
+   "page": 554,
+   "q": "Parts of the Veress needle include:",
+   "opts": [
+    "An outlet/inlet valve and a spring loaded blunt tip",
+    "A ring and ratchets",
+    "Fenestrated blades",
+    "Criss cross serrations"
+   ],
+   "ans": 0,
+   "exp": "An outlet/inlet valve and a spring loaded blunt tip (Book p554)"
+  },
+  {
+   "id": "SURG-C72-065",
+   "sec": "Laparoscopic Ports and Dissector",
+   "page": 555,
+   "q": "Which laparoscopic port is inserted blindly:",
+   "opts": [
+    "The 1st port",
+    "The 2nd port",
+    "The last port",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "The 1st port (Book p555)"
+  },
+  {
+   "id": "SURG-C72-066",
+   "sec": "Laparoscopic Ports and Dissector",
+   "page": 555,
+   "q": "Types of laparoscopic trocar:",
+   "opts": [
+    "Sharp, blunt (Hassan's trocar) and bladeless (Optiport)",
+    "Only sharp and curved",
+    "Only metallic and plastic",
+    "Only fenestrated"
+   ],
+   "ans": 0,
+   "exp": "Sharp, blunt (Hassan's trocar) and bladeless (Optiport) (Book p555)"
+  },
+  {
+   "id": "SURG-C72-067",
+   "sec": "Laparoscopic Ports and Dissector",
+   "page": 555,
+   "q": "Blunt laparoscopic trocar is known as:",
+   "opts": [
+    "Hassan's trocar",
+    "Optiport",
+    "Veress trocar",
+    "Maryland trocar"
+   ],
+   "ans": 0,
+   "exp": "Hassan's trocar (Book p555)"
+  },
+  {
+   "id": "SURG-C72-068",
+   "sec": "Laparoscopic Ports and Dissector",
+   "page": 555,
+   "q": "Advantage of the bladeless Optiport:",
+   "opts": [
+    "Better visualization",
+    "Faster insertion only",
+    "Cheaper",
+    "Reusable"
+   ],
+   "ans": 0,
+   "exp": "Better visualization (Book p555)"
+  },
+  {
+   "id": "SURG-C72-069",
+   "sec": "Laparoscopic Ports and Dissector",
+   "page": 555,
+   "q": "Maryland's dissector is:",
+   "opts": [
+    "Curved with serrations like an artery forceps — the workhorse of laparoscopic surgery",
+    "A straight grasper without serrations",
+    "A suction device",
+    "A port"
+   ],
+   "ans": 0,
+   "exp": "Curved with serrations like an artery forceps — the workhorse of laparoscopic surgery (Book p555)"
+  },
+  {
+   "id": "SURG-C72-070",
+   "sec": "Thoracotomy Instruments",
+   "page": 555,
+   "q": "Periosteal elevator is also called:",
+   "opts": [
+    "Farabeuf's periosteal elevator",
+    "Doyen's raspatory",
+    "Allison retractor",
+    "Bone nibbler"
+   ],
+   "ans": 0,
+   "exp": "Farabeuf's periosteal elevator (Book p555)"
+  },
+  {
+   "id": "SURG-C72-071",
+   "sec": "Thoracotomy Instruments",
+   "page": 555,
+   "q": "Use of the periosteal elevator:",
+   "opts": [
+    "Raise periosteum over the rib",
+    "Cut the rib",
+    "Nibble sharp bone edges",
+    "Retract the lung"
+   ],
+   "ans": 0,
+   "exp": "Raise periosteum over the rib (Book p555)"
+  },
+  {
+   "id": "SURG-C72-072",
+   "sec": "Thoracotomy Instruments",
+   "page": 555,
+   "q": "Doyen's rib raspatory is used to:",
+   "opts": [
+    "Resect periosteum and muscles, with one instrument for each side",
+    "Cut through the rib",
+    "Retract the lung",
+    "Elevate periosteum only"
+   ],
+   "ans": 0,
+   "exp": "Resect periosteum and muscles, with one instrument for each side (Book p555)"
+  },
+  {
+   "id": "SURG-C72-073",
+   "sec": "Thoracotomy Instruments",
+   "page": 555,
+   "q": "Correct position of the rib raspatory:",
+   "opts": [
+    "Handle lateral, convexity upwards, tip downwards",
+    "Handle medial, convexity downwards",
+    "Handle lateral, tip upwards",
+    "Convexity downwards, tip upwards"
+   ],
+   "ans": 0,
+   "exp": "Handle lateral, convexity upwards, tip downwards (Book p555)"
+  },
+  {
+   "id": "SURG-C72-074",
+   "sec": "Thoracotomy Instruments",
+   "page": 555,
+   "q": "Why does a rib cutter have a blunt lower edge:",
+   "opts": [
+    "To prevent pleural injury",
+    "To make it lighter",
+    "To increase cutting force",
+    "To grip the rib"
+   ],
+   "ans": 0,
+   "exp": "To prevent pleural injury (Book p555)"
+  },
+  {
+   "id": "SURG-C72-075",
+   "sec": "Thoracotomy Instruments",
+   "page": 555,
+   "q": "Difference between a rib cutter and a bone cutter:",
+   "opts": [
+    "A bone cutter has sharp edges, while the rib cutter has a blunt lower edge",
+    "Both have blunt edges",
+    "Both have sharp edges",
+    "The rib cutter is sharper"
+   ],
+   "ans": 0,
+   "exp": "A bone cutter has sharp edges, while the rib cutter has a blunt lower edge (Book p555)"
+  },
+  {
+   "id": "SURG-C72-076",
+   "sec": "Thoracotomy Instruments",
+   "page": 555,
+   "q": "Use of the bone nibbler:",
+   "opts": [
+    "Nibble off sharp edges after cutting bone",
+    "Cut the rib",
+    "Raise periosteum",
+    "Retract the lung"
+   ],
+   "ans": 0,
+   "exp": "Nibble off sharp edges after cutting bone (Book p555)"
+  },
+  {
+   "id": "SURG-C72-077",
+   "sec": "Lung and Thyroid Retractors",
+   "page": 556,
+   "q": "Why is the blade of the lung (Allison) retractor fenestrated:",
+   "opts": [
+    "It allows lung expansion on retraction",
+    "It makes it lighter only",
+    "It allows suction",
+    "It prevents slipping"
+   ],
+   "ans": 0,
+   "exp": "It allows lung expansion on retraction (Book p556)"
+  },
+  {
+   "id": "SURG-C72-078",
+   "sec": "Lung and Thyroid Retractors",
+   "page": 556,
+   "q": "Use of lung forceps:",
+   "opts": [
+    "Resection of small tissues such as hamartomas/nodules",
+    "Retraction of the lung",
+    "Clamping the aorta",
+    "Rib cutting"
+   ],
+   "ans": 0,
+   "exp": "Resection of small tissues such as hamartomas/nodules (Book p556)"
+  },
+  {
+   "id": "SURG-C72-079",
+   "sec": "Lung and Thyroid Retractors",
+   "page": 556,
+   "q": "Purpose of the triangular end of lung forceps:",
+   "opts": [
+    "Provides a bloodless field",
+    "Increases grip on the rib",
+    "Allows suction",
+    "Prevents current leakage"
+   ],
+   "ans": 0,
+   "exp": "Provides a bloodless field (Book p556)"
+  },
+  {
+   "id": "SURG-C72-080",
+   "sec": "Lung and Thyroid Retractors",
+   "page": 556,
+   "q": "Joll's thyroid retractor is:",
+   "opts": [
+    "Obsolete, with 2 retractors on either side to retract the thyroid",
+    "The current standard for thyroidectomy",
+    "A single bladed retractor",
+    "A bladder retractor"
+   ],
+   "ans": 0,
+   "exp": "Obsolete, with 2 retractors on either side to retract the thyroid (Book p556)"
+  },
+  {
+   "id": "SURG-C72-081",
+   "sec": "Vascular Surgical Instruments",
+   "page": 556,
+   "q": "Bulldog clamp is:",
+   "opts": [
+    "A self retaining clamp with a pinch cork effect and serrations",
+    "A curved clamp used over a pedicle",
+    "A J hook",
+    "A crushing bowel clamp"
+   ],
+   "ans": 0,
+   "exp": "A self retaining clamp with a pinch cork effect and serrations (Book p556)"
+  },
+  {
+   "id": "SURG-C72-082",
+   "sec": "Vascular Surgical Instruments",
+   "page": 556,
+   "q": "Advantage of the bulldog clamp:",
+   "opts": [
+    "Clamps temporarily without crushing structures",
+    "Crushes tissue for haemostasis",
+    "Provides suction",
+    "Cuts vessels"
+   ],
+   "ans": 0,
+   "exp": "Clamps temporarily without crushing structures (Book p556)"
+  },
+  {
+   "id": "SURG-C72-083",
+   "sec": "Vascular Surgical Instruments",
+   "page": 556,
+   "q": "Satinsky vascular clamp is:",
+   "opts": [
+    "A curved clamp with serrations used over a pedicle, giving better visualization",
+    "A self retaining pinch cork clamp",
+    "A straight artery forceps",
+    "A bowel crushing clamp"
+   ],
+   "ans": 0,
+   "exp": "A curved clamp with serrations used over a pedicle, giving better visualization (Book p556)"
+  },
+  {
+   "id": "SURG-C72-084",
+   "sec": "Vascular Surgical Instruments",
+   "page": 556,
+   "q": "Aneurysm needle is:",
+   "opts": [
+    "A J hook with an opening at the end, used for ligation of an aneurysm",
+    "A straight needle for suturing vessels",
+    "A curved clamp",
+    "A bladeless trocar"
+   ],
+   "ans": 0,
+   "exp": "A J hook with an opening at the end, used for ligation of an aneurysm (Book p556)"
+  },
+  {
+   "id": "SURG-C72-085",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Ovum forceps have:",
+   "opts": [
+    "2 convex ends with fenestrations",
+    "2 ends without lock",
+    "Interlocking teeth",
+    "A J hook"
+   ],
+   "ans": 0,
+   "exp": "2 convex ends with fenestrations (Book p557)"
+  },
+  {
+   "id": "SURG-C72-086",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Use of ovum forceps:",
+   "opts": [
+    "Remove retained placental/fetal tissue",
+    "Pick up gauze pieces",
+    "Remove bladder stones",
+    "Bring down CBD stones"
+   ],
+   "ans": 0,
+   "exp": "Remove retained placental/fetal tissue (Book p557)"
+  },
+  {
+   "id": "SURG-C72-087",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Cheatle's forceps have:",
+   "opts": [
+    "2 ends without a lock",
+    "2 convex fenestrated ends",
+    "Interlocking teeth",
+    "Longitudinal serrations"
+   ],
+   "ans": 0,
+   "exp": "2 ends without a lock (Book p557)"
+  },
+  {
+   "id": "SURG-C72-088",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Use of Cheatle's forceps:",
+   "opts": [
+    "Pick up gauze pieces",
+    "Remove retained placenta",
+    "Clamp bowel",
+    "Hold the cervix"
+   ],
+   "ans": 0,
+   "exp": "Pick up gauze pieces (Book p557)"
+  },
+  {
+   "id": "SURG-C72-089",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Design of cystolithotomy forceps:",
+   "opts": [
+    "One complete ring for the thumb and one open part for the other 4 fingers",
+    "Two complete rings",
+    "No rings at all",
+    "A single handle"
+   ],
+   "ans": 0,
+   "exp": "One complete ring for the thumb and one open part for the other 4 fingers (Book p557)"
+  },
+  {
+   "id": "SURG-C72-090",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Why do cystolithotomy forceps have NO lock:",
+   "opts": [
+    "To prevent crushing of the stone",
+    "To reduce weight",
+    "To allow suction",
+    "To improve visualisation"
+   ],
+   "ans": 0,
+   "exp": "To prevent crushing of the stone (Book p557)"
+  },
+  {
+   "id": "SURG-C72-091",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Purpose of studs at the end of cystolithotomy forceps:",
+   "opts": [
+    "Better grip",
+    "Crushing the stone",
+    "Preventing tissue injury",
+    "Locking the instrument"
+   ],
+   "ans": 0,
+   "exp": "Better grip (Book p557)"
+  },
+  {
+   "id": "SURG-C72-092",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "page": 557,
+   "q": "Pyelolithotomy forceps are:",
+   "opts": [
+    "Obsolete, with varied angulations for better calyceal access and transverse serrations without a lock",
+    "Currently the standard instrument with a locking ratchet",
+    "Used for CBD stones",
+    "Used for bladder stones only"
+   ],
+   "ans": 0,
+   "exp": "Obsolete, with varied angulations for better calyceal access and transverse serrations without a lock (Book p557)"
+  },
+  {
+   "id": "SURG-C72-093",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps",
+   "page": 557,
+   "q": "Non crushing bowel clamp:",
+   "opts": [
+    "Doyen's intestinal clamp",
+    "Payr's crushing clamp",
+    "Kocher forceps",
+    "Satinsky clamp"
+   ],
+   "ans": 0,
+   "exp": "Doyen's intestinal clamp (Book p557)"
+  },
+  {
+   "id": "SURG-C72-094",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps",
+   "page": 557,
+   "q": "Purpose of longitudinal serrations on Doyen's intestinal clamp:",
+   "opts": [
+    "Prevent tissue crushing",
+    "Increase crushing force",
+    "Cut the bowel",
+    "Allow suction"
+   ],
+   "ans": 0,
+   "exp": "Prevent tissue crushing (Book p557)"
+  },
+  {
+   "id": "SURG-C72-095",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps",
+   "page": 557,
+   "q": "Functional purpose of a non crushing bowel clamp:",
+   "opts": [
+    "Prevent spillage of fecal matter",
+    "Divide the bowel",
+    "Ligate mesenteric vessels",
+    "Retract the bowel"
+   ],
+   "ans": 0,
+   "exp": "Prevent spillage of fecal matter (Book p557)"
+  },
+  {
+   "id": "SURG-C72-096",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps",
+   "page": 557,
+   "q": "Payr's crushing clamp is used to:",
+   "opts": [
+    "Remove portions of bowel",
+    "Prevent faecal spillage without crushing",
+    "Clamp vessels",
+    "Hold the cervix"
+   ],
+   "ans": 0,
+   "exp": "Remove portions of bowel (Book p557)"
+  },
+  {
+   "id": "SURG-C72-097",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps",
+   "page": 557,
+   "q": "Choledocholithotomy forceps are also called:",
+   "opts": [
+    "Desjardin's forceps",
+    "Doyen's forceps",
+    "Payr's clamp",
+    "Babcock forceps"
+   ],
+   "ans": 0,
+   "exp": "Desjardin's forceps (Book p557)"
+  },
+  {
+   "id": "SURG-C72-098",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps",
+   "page": 557,
+   "q": "Use of Desjardin's forceps:",
+   "opts": [
+    "Bring down CBD stones",
+    "Remove bladder stones",
+    "Remove renal calyceal stones",
+    "Remove retained placenta"
+   ],
+   "ans": 0,
+   "exp": "Bring down CBD stones (Book p557)"
+  },
+  {
+   "id": "SURG-C72-099",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps",
+   "page": 557,
+   "q": "Serrations on Desjardin's forceps:",
+   "opts": [
+    "None — they have no serrations",
+    "Longitudinal serrations",
+    "Criss cross serrations",
+    "Transverse serrations with a gap"
+   ],
+   "ans": 0,
+   "exp": "None — they have no serrations (Book p557)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U72-1",
+   "ch": 72,
+   "n": 1,
+   "title": "Parts of a Surgical Instrument",
+   "sec": "Parts of a Surgical Instrument · p550",
+   "qs": [
+    "SURG-C72-001",
+    "SURG-C72-002",
+    "SURG-C72-003",
+    "SURG-C72-004"
+   ],
+   "guide": "Every instrument has 2 rings for gripping, multiple ratchets that prevent wear and tear, a joint — box or screw, the screw joint more often catching thread — and blades that are fenestrated or serrated."
+  },
+  {
+   "id": "SURG-U72-2",
+   "ch": 72,
+   "n": 2,
+   "title": "Sponge Holder, Towel Clips and BP Handle",
+   "sec": "Sponge Holder, Towel Clips and BP Handle · p550",
+   "qs": [
+    "SURG-C72-005",
+    "SURG-C72-006",
+    "SURG-C72-007",
+    "SURG-C72-008",
+    "SURG-C72-009",
+    "SURG-C72-010",
+    "SURG-C72-011",
+    "SURG-C72-012"
+   ],
+   "guide": "Rampley's sponge holder has a fenestrated serrated blade to grip sponges for part preparation. Towel clips hold towels after draping, pass and hold the suction catheter or cautery, and hold the tongue during tongue resection — Mayo's has hooks, Doyen's works by the pinch cork effect. The BP (Brad Parker) handle mounts blades and is held like a paint brush or in a palming grip."
+  },
+  {
+   "id": "SURG-U72-3",
+   "ch": 72,
+   "n": 3,
+   "title": "Suction Cannula and Forceps",
+   "sec": "Suction Cannula and Forceps · p551",
+   "qs": [
+    "SURG-C72-013",
+    "SURG-C72-014",
+    "SURG-C72-015",
+    "SURG-C72-016",
+    "SURG-C72-017",
+    "SURG-C72-018",
+    "SURG-C72-019",
+    "SURG-C72-020"
+   ],
+   "guide": "Yankauer's suction cannula (plastic or metallic) suctions blood and fumes. Spring loaded forceps hold tissue: plain with transverse serrations and no teeth are relatively atraumatic; toothed grip tough structures but are traumatic; DeBakey's vascular forceps have minute serrations with raised edges for vessels; Russian forceps show transverse serration with a gap in between."
+  },
+  {
+   "id": "SURG-U72-4",
+   "ch": 72,
+   "n": 4,
+   "title": "Needle Holder and Scissors",
+   "sec": "Needle Holder and Scissors · p551",
+   "qs": [
+    "SURG-C72-021",
+    "SURG-C72-022",
+    "SURG-C72-023",
+    "SURG-C72-024",
+    "SURG-C72-025",
+    "SURG-C72-026"
+   ],
+   "guide": "The needle holder grips the needle with criss cross serrations that stop it moving; hold the needle at the 1/3rd-2/3rd junction from the swaged and pointed ends, enter skin at 90°, and grip the needle with toothed forceps while suturing. Mayo scissors are heavy with a screw joint, for cutting sutures and sheaths."
+  },
+  {
+   "id": "SURG-U72-5",
+   "ch": 72,
+   "n": 5,
+   "title": "Metzenbaum and McIndoe Scissors",
+   "sec": "Metzenbaum and McIndoe Scissors · p552",
+   "qs": [
+    "SURG-C72-027",
+    "SURG-C72-028",
+    "SURG-C72-029",
+    "SURG-C72-030"
+   ],
+   "guide": "Metzenbaum scissors are lighter tissue dissecting scissors and should not cut sutures; McIndoe scissors are finer still, for fine tissues in ophthalmic and ENT surgery. Skin suturing needs a needle holder, toothed forceps and scissors."
+  },
+  {
+   "id": "SURG-U72-6",
+   "ch": 72,
+   "n": 6,
+   "title": "Non-self Retaining Retractors",
+   "sec": "Non-self Retaining Retractors · p552",
+   "qs": [
+    "SURG-C72-031",
+    "SURG-C72-032",
+    "SURG-C72-033",
+    "SURG-C72-034",
+    "SURG-C72-035",
+    "SURG-C72-036",
+    "SURG-C72-037",
+    "SURG-C72-038",
+    "SURG-C72-039",
+    "SURG-C72-040"
+   ],
+   "guide": "Non-self retaining retractors must be held. Skin hooks (single or double handled) hold raised flaps in mastectomy, thyroidectomy and parotidectomy. The cats paw and the fenestrated right angle Langenbeck retract superficial tissue — a broader Langenbeck serves cholecystectomy. The army navy/Czerney's retractor has one 90° end and one clawed end with a gap for suturing while retracted, and the Morris retractor is broader than Langenbeck's, preventing slipping with better grip and less weight."
+  },
+  {
+   "id": "SURG-U72-7",
+   "ch": 72,
+   "n": 7,
+   "title": "Doyen's, Malleable and Self-retaining Retractors",
+   "sec": "Doyen's, Malleable and Self-retaining Retractors · p553",
+   "qs": [
+    "SURG-C72-041",
+    "SURG-C72-042",
+    "SURG-C72-043",
+    "SURG-C72-044",
+    "SURG-C72-045",
+    "SURG-C72-046",
+    "SURG-C72-047",
+    "SURG-C72-048"
+   ],
+   "guide": "Doyen's retractor retracts the bladder, its increased convexity easing retraction, while the malleable retractor retracts bowel in abdominal surgery. Self-retaining: mastoid retractors lock to retract superficial tissue in thyroid and parotid surgery; Balfour reaches deeper abdominal structures with a bar, blades and space to attach Doyen's; Bookwalter attaches a ring to the operating table with space for multiple retractors in complex abdominal malignancy surgery."
+  },
+  {
+   "id": "SURG-U72-8",
+   "ch": 72,
+   "n": 8,
+   "title": "Artery Forceps",
+   "sec": "Artery Forceps · p553",
+   "qs": [
+    "SURG-C72-049",
+    "SURG-C72-050",
+    "SURG-C72-051"
+   ],
+   "guide": "Spencer Wells are straight artery forceps of various sizes for holding bleeders; curved artery forceps give better visualization; the mosquito forceps is the smallest artery forceps."
+  },
+  {
+   "id": "SURG-U72-9",
+   "ch": 72,
+   "n": 9,
+   "title": "Special Forceps",
+   "sec": "Special Forceps · p554",
+   "qs": [
+    "SURG-C72-052",
+    "SURG-C72-053",
+    "SURG-C72-054",
+    "SURG-C72-055",
+    "SURG-C72-056",
+    "SURG-C72-057",
+    "SURG-C72-058",
+    "SURG-C72-059"
+   ],
+   "guide": "Special forceps: Kelly's are big curved forceps with a gradual curve for abdominal surgery; right angle forceps tie pedicles; Allis, with serrations and teeth, traumatically holds tough sheath and fascia; Babcock, with a gap between two fenestrated ends, holds tubular structures — appendix, vas, fallopian tubes — without crushing; Kocher interlocks and crushes, holding tough structures and the cervix during hysterectomy."
+  },
+  {
+   "id": "SURG-U72-10",
+   "ch": 72,
+   "n": 10,
+   "title": "Laparoscopic Instruments and the Veress Needle",
+   "sec": "Laparoscopic Instruments and the Veress Needle · p554",
+   "qs": [
+    "SURG-C72-060",
+    "SURG-C72-061",
+    "SURG-C72-062",
+    "SURG-C72-063",
+    "SURG-C72-064"
+   ],
+   "guide": "Laparoscopic instruments are long because they work at depth, and insulated to stop cautery current leaking. The Veress needle makes pneumoperitoneum by the closed method; it is spring loaded with an outlet/inlet valve and a blunt tip in front that gives way to a bevelled tip on pressing, preventing tissue injury."
+  },
+  {
+   "id": "SURG-U72-11",
+   "ch": 72,
+   "n": 11,
+   "title": "Laparoscopic Ports and Dissector",
+   "sec": "Laparoscopic Ports and Dissector · p555",
+   "qs": [
+    "SURG-C72-065",
+    "SURG-C72-066",
+    "SURG-C72-067",
+    "SURG-C72-068",
+    "SURG-C72-069"
+   ],
+   "guide": "The 1st laparoscopic port goes in blindly. Trocars are sharp, blunt (Hassan's) or bladeless (Optiport, giving better visualization). Maryland's dissector — curved with artery-forceps-like serrations — is the workhorse of laparoscopic surgery."
+  },
+  {
+   "id": "SURG-U72-12",
+   "ch": 72,
+   "n": 12,
+   "title": "Thoracotomy Instruments",
+   "sec": "Thoracotomy Instruments · p555",
+   "qs": [
+    "SURG-C72-070",
+    "SURG-C72-071",
+    "SURG-C72-072",
+    "SURG-C72-073",
+    "SURG-C72-074",
+    "SURG-C72-075",
+    "SURG-C72-076"
+   ],
+   "guide": "Thoracotomy set: Farabeuf's periosteal elevator raises periosteum over the rib; Doyen's rib raspatory, one for each side, resects periosteum and muscles held with handle lateral, convexity upwards and tip downwards; the rib cutter has a blunt lower edge to spare the pleura (unlike the sharp bone cutter); the bone nibbler smooths sharp edges after cutting."
+  },
+  {
+   "id": "SURG-U72-13",
+   "ch": 72,
+   "n": 13,
+   "title": "Lung and Thyroid Retractors",
+   "sec": "Lung and Thyroid Retractors · p556",
+   "qs": [
+    "SURG-C72-077",
+    "SURG-C72-078",
+    "SURG-C72-079",
+    "SURG-C72-080"
+   ],
+   "guide": "The Allison lung retractor's fenestrated blade lets the lung expand while retracted. Lung forceps resect small tissues such as hamartomas and nodules, their triangular end giving a bloodless field. Joll's thyroid retractor, now obsolete, uses 2 retractors on either side."
+  },
+  {
+   "id": "SURG-U72-14",
+   "ch": 72,
+   "n": 14,
+   "title": "Vascular Surgical Instruments",
+   "sec": "Vascular Surgical Instruments · p556",
+   "qs": [
+    "SURG-C72-081",
+    "SURG-C72-082",
+    "SURG-C72-083",
+    "SURG-C72-084"
+   ],
+   "guide": "Vascular instruments: the bulldog clamp is self retaining with a pinch cork effect and serrations, clamping temporarily without crushing; the Satinsky clamp is curved with serrations for use over a pedicle with better visualization; the aneurysm needle is a J hook with an opening at the end for ligating an aneurysm."
+  },
+  {
+   "id": "SURG-U72-15",
+   "ch": 72,
+   "n": 15,
+   "title": "Other Instruments: Ovum, Cheatle's and Stone Forceps",
+   "sec": "Other Instruments: Ovum, Cheatle's and Stone Forceps · p557",
+   "qs": [
+    "SURG-C72-085",
+    "SURG-C72-086",
+    "SURG-C72-087",
+    "SURG-C72-088",
+    "SURG-C72-089",
+    "SURG-C72-090",
+    "SURG-C72-091",
+    "SURG-C72-092"
+   ],
+   "guide": "Ovum forceps have 2 convex fenestrated ends to remove retained placental or fetal tissue; Cheatle's forceps have 2 ends without a lock to pick up gauze. Cystolithotomy forceps have one complete ring for the thumb and an open part for the other four fingers, no lock so the stone is not crushed, and studs for grip. Pyelolithotomy forceps are obsolete, with varied angulations for calyceal access and transverse serrations without a lock."
+  },
+  {
+   "id": "SURG-U72-16",
+   "ch": 72,
+   "n": 16,
+   "title": "Bowel Clamps and Choledocholithotomy Forceps",
+   "sec": "Bowel Clamps and Choledocholithotomy Forceps · p557",
+   "qs": [
+    "SURG-C72-093",
+    "SURG-C72-094",
+    "SURG-C72-095",
+    "SURG-C72-096",
+    "SURG-C72-097",
+    "SURG-C72-098",
+    "SURG-C72-099"
+   ],
+   "guide": "Doyen's intestinal clamp is the non crushing bowel clamp, its longitudinal serrations preventing tissue crushing and stopping faecal spillage, while Payr's crushing clamp removes portions of bowel. Choledocholithotomy (Desjardin's) forceps, which have no serrations, bring down CBD stones."
+  }
+ ]
+}
