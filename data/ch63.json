@@ -1,0 +1,2661 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C63-001",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "M/c cause of acute arterial occlusion:",
+   "opts": [
+    "Embolus",
+    "Thrombus",
+    "Trauma",
+    "Vasospasm"
+   ],
+   "ans": 0,
+   "exp": "Embolus (Book p486)"
+  },
+  {
+   "id": "SURG-C63-002",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "M/c source of the embolus in acute arterial occlusion:",
+   "opts": [
+    "Heart",
+    "Aorta",
+    "Lower limb veins",
+    "Carotid artery"
+   ],
+   "ans": 0,
+   "exp": "Heart (Book p486)"
+  },
+  {
+   "id": "SURG-C63-003",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Cardiac risk factors for acute arterial occlusion:",
+   "opts": [
+    "H/o coronary artery disease and atrial fibrillation",
+    "H/o valve replacement only",
+    "H/o pericarditis",
+    "H/o myocarditis"
+   ],
+   "ans": 0,
+   "exp": "H/o coronary artery disease and atrial fibrillation (Book p486)"
+  },
+  {
+   "id": "SURG-C63-004",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Clinical features of acute arterial occlusion are remembered as:",
+   "opts": [
+    "6 P's",
+    "4 P's",
+    "5 P's",
+    "3 P's"
+   ],
+   "ans": 0,
+   "exp": "6 P's (Book p486)"
+  },
+  {
+   "id": "SURG-C63-005",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Which are LATE signs among the 6 P's:",
+   "opts": [
+    "Paresis and pulselessness",
+    "Pain and pallor",
+    "Paresthesia and poikilothermia",
+    "Pain and pulselessness"
+   ],
+   "ans": 0,
+   "exp": "Paresis and pulselessness (Book p486)"
+  },
+  {
+   "id": "SURG-C63-006",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "'Poikilothermia' in the 6 P's refers to:",
+   "opts": [
+    "Cold limbs",
+    "Fever",
+    "Fluctuating BP",
+    "Sweating"
+   ],
+   "ans": 0,
+   "exp": "Cold limbs (Book p486)"
+  },
+  {
+   "id": "SURG-C63-007",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Earliest of the 6 P's to appear:",
+   "opts": [
+    "Pain",
+    "Paresis",
+    "Pulselessness",
+    "Paralysis"
+   ],
+   "ans": 0,
+   "exp": "Pain (Book p486)"
+  },
+  {
+   "id": "SURG-C63-008",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "IOC for acute arterial occlusion:",
+   "opts": [
+    "Duplex scan (colour doppler + B mode USG)",
+    "CT angiography",
+    "MRI",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "Duplex scan (colour doppler + B mode USG) (Book p486)"
+  },
+  {
+   "id": "SURG-C63-009",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Time window defining 'early presentation' in acute arterial occlusion:",
+   "opts": [
+    "Within 6-8 hours",
+    "Within 24 hours",
+    "Within 48 hours",
+    "Within 1 hour"
+   ],
+   "ans": 0,
+   "exp": "Within 6-8 hours (Book p486)"
+  },
+  {
+   "id": "SURG-C63-010",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Options for a patient presenting early with acute arterial occlusion:",
+   "opts": [
+    "Thrombolysis or embolectomy",
+    "Amputation",
+    "Observation",
+    "Compression bandaging"
+   ],
+   "ans": 0,
+   "exp": "Thrombolysis or embolectomy (Book p486)"
+  },
+  {
+   "id": "SURG-C63-011",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Contraindication to thrombolysis:",
+   "opts": [
+    "Bleeding disorder",
+    "Atrial fibrillation",
+    "Diabetes",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Bleeding disorder (Book p486)"
+  },
+  {
+   "id": "SURG-C63-012",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Embolectomy is performed using:",
+   "opts": [
+    "Fogarty's balloon",
+    "Dormia basket",
+    "Greenfield filter",
+    "Amplatzer device"
+   ],
+   "ans": 0,
+   "exp": "Fogarty's balloon (Book p486)"
+  },
+  {
+   "id": "SURG-C63-013",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Management if the patient presents LATE with gangrene:",
+   "opts": [
+    "Amputation",
+    "Thrombolysis",
+    "Embolectomy",
+    "Angioplasty"
+   ],
+   "ans": 0,
+   "exp": "Amputation (Book p486)"
+  },
+  {
+   "id": "SURG-C63-014",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "Angiographic appearance of an embolic occlusion:",
+   "opts": [
+    "Sudden cut off with no collaterals",
+    "Gradual tapering with collaterals",
+    "Corkscrew collaterals",
+    "Aneurysmal dilatation"
+   ],
+   "ans": 0,
+   "exp": "Sudden cut off with no collaterals (Book p486)"
+  },
+  {
+   "id": "SURG-C63-015",
+   "sec": "Acute Arterial Occlusion",
+   "page": 486,
+   "q": "In Fogarty's balloon embolectomy, the balloon is:",
+   "opts": [
+    "Dilated beyond the block and withdrawn",
+    "Left in situ permanently",
+    "Inflated proximal to the block only",
+    "Used to inject sclerosant"
+   ],
+   "ans": 0,
+   "exp": "Dilated beyond the block and withdrawn (Book p486)"
+  },
+  {
+   "id": "SURG-C63-016",
+   "sec": "Reperfusion Injury",
+   "page": 486,
+   "q": "Metabolism occurring initially due to the arterial block:",
+   "opts": [
+    "Anaerobic metabolism",
+    "Aerobic metabolism",
+    "Ketogenesis",
+    "Gluconeogenesis"
+   ],
+   "ans": 0,
+   "exp": "Anaerobic metabolism (Book p486)"
+  },
+  {
+   "id": "SURG-C63-017",
+   "sec": "Reperfusion Injury",
+   "page": 486,
+   "q": "Reperfusion injury follows:",
+   "opts": [
+    "Thrombolysis / embolectomy restoring blood flow",
+    "Amputation",
+    "Compression therapy",
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Thrombolysis / embolectomy restoring blood flow (Book p486)"
+  },
+  {
+   "id": "SURG-C63-018",
+   "sec": "Reperfusion Injury",
+   "page": 486,
+   "q": "Mechanism of reperfusion injury:",
+   "opts": [
+    "Restoration of blood flow → generation of free radicals → free radical injury",
+    "Continued ischemia",
+    "Bacterial infection",
+    "Immune complex deposition"
+   ],
+   "ans": 0,
+   "exp": "Restoration of blood flow → generation of free radicals → free radical injury (Book p486)"
+  },
+  {
+   "id": "SURG-C63-019",
+   "sec": "Compartment Syndrome",
+   "page": 487,
+   "q": "Compartment syndrome after reperfusion is due to:",
+   "opts": [
+    "Swelling of muscle",
+    "Bleeding into the joint",
+    "Nerve transection",
+    "Bone fracture"
+   ],
+   "ans": 0,
+   "exp": "Swelling of muscle (Book p487)"
+  },
+  {
+   "id": "SURG-C63-020",
+   "sec": "Compartment Syndrome",
+   "page": 487,
+   "q": "Compartment pressure defining compartment syndrome:",
+   "opts": [
+    ">30 mmHg",
+    ">10 mmHg",
+    ">60 mmHg",
+    ">100 mmHg"
+   ],
+   "ans": 0,
+   "exp": ">30 mmHg (Book p487)"
+  },
+  {
+   "id": "SURG-C63-021",
+   "sec": "Compartment Syndrome",
+   "page": 487,
+   "q": "Clinical features of compartment syndrome:",
+   "opts": [
+    "Pain / pain on passive flexion",
+    "Painless swelling",
+    "Fever with chills",
+    "Absent sensation only"
+   ],
+   "ans": 0,
+   "exp": "Pain / pain on passive flexion (Book p487)"
+  },
+  {
+   "id": "SURG-C63-022",
+   "sec": "Compartment Syndrome",
+   "page": 487,
+   "q": "Management of compartment syndrome:",
+   "opts": [
+    "Fasciotomy",
+    "Amputation",
+    "Anticoagulation",
+    "Compression bandage"
+   ],
+   "ans": 0,
+   "exp": "Fasciotomy (Book p487)"
+  },
+  {
+   "id": "SURG-C63-023",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "Chronic arterial occlusion is secondary to:",
+   "opts": [
+    "Thrombus",
+    "Embolus",
+    "Vasospasm",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "Thrombus (Book p487)"
+  },
+  {
+   "id": "SURG-C63-024",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "Distal run off means:",
+   "opts": [
+    "Structures distal to the block survive due to collaterals",
+    "Blood runs off into veins",
+    "Distal tissue dies immediately",
+    "Blood shunts into lymphatics"
+   ],
+   "ans": 0,
+   "exp": "Structures distal to the block survive due to collaterals (Book p487)"
+  },
+  {
+   "id": "SURG-C63-025",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "Mechanism of chronic arterial occlusion shown in the diagram:",
+   "opts": [
+    "Gradual extension of thrombus with collateral formation",
+    "Sudden embolic cut off",
+    "Arterial rupture",
+    "Vasospasm"
+   ],
+   "ans": 0,
+   "exp": "Gradual extension of thrombus with collateral formation (Book p487)"
+  },
+  {
+   "id": "SURG-C63-026",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "Intermittent claudication is:",
+   "opts": [
+    "Cramping pain felt after walking a certain distance",
+    "Pain at rest relieved by walking",
+    "Pain on first step",
+    "Pain relieved by bending forwards"
+   ],
+   "ans": 0,
+   "exp": "Cramping pain felt after walking a certain distance (Book p487)"
+  },
+  {
+   "id": "SURG-C63-027",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "Distance after which claudication pain appears is called:",
+   "opts": [
+    "Claudication distance",
+    "Ischemic distance",
+    "Perfusion distance",
+    "Rest distance"
+   ],
+   "ans": 0,
+   "exp": "Claudication distance (Book p487)"
+  },
+  {
+   "id": "SURG-C63-028",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "As the disease progresses, claudication distance:",
+   "opts": [
+    "Decreases",
+    "Increases",
+    "Remains constant",
+    "Becomes infinite"
+   ],
+   "ans": 0,
+   "exp": "Decreases (Book p487)"
+  },
+  {
+   "id": "SURG-C63-029",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "Reason pain occurs on walking in chronic arterial occlusion:",
+   "opts": [
+    "Increased demand for blood is not met due to arterial blockage",
+    "Venous congestion",
+    "Nerve compression",
+    "Muscle inflammation"
+   ],
+   "ans": 0,
+   "exp": "Increased demand for blood is not met due to arterial blockage (Book p487)"
+  },
+  {
+   "id": "SURG-C63-030",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "Rest pain in chronic arterial occlusion is relieved by:",
+   "opts": [
+    "Hanging the leg down from the bed at night",
+    "Elevating the leg",
+    "Walking",
+    "Applying ice"
+   ],
+   "ans": 0,
+   "exp": "Hanging the leg down from the bed at night (Book p487)"
+  },
+  {
+   "id": "SURG-C63-031",
+   "sec": "Chronic Arterial Occlusion and Claudication",
+   "page": 487,
+   "q": "End-stage feature of chronic arterial occlusion:",
+   "opts": [
+    "Gangrene",
+    "Varicose veins",
+    "Lymphedema",
+    "Cellulitis"
+   ],
+   "ans": 0,
+   "exp": "Gangrene (Book p487)"
+  },
+  {
+   "id": "SURG-C63-032",
+   "sec": "Differential Diagnosis of Claudication",
+   "page": 487,
+   "q": "In intermittent claudication, pain is usually in a muscle group:",
+   "opts": [
+    "One muscle group lower than the block",
+    "At the level of the block",
+    "One group above the block",
+    "Diffuse in the whole limb"
+   ],
+   "ans": 0,
+   "exp": "One muscle group lower than the block (Book p487)"
+  },
+  {
+   "id": "SURG-C63-033",
+   "sec": "Differential Diagnosis of Claudication",
+   "page": 487,
+   "q": "Natural progression of intermittent claudication:",
+   "opts": [
+    "Progresses to rest pain",
+    "Resolves spontaneously",
+    "Progresses to varicose veins",
+    "Progresses to DVT"
+   ],
+   "ans": 0,
+   "exp": "Progresses to rest pain (Book p487)"
+  },
+  {
+   "id": "SURG-C63-034",
+   "sec": "Differential Diagnosis of Claudication",
+   "page": 487,
+   "q": "Characteristic pain pattern of osteoarthritis:",
+   "opts": [
+    "Maximum pain on the first step",
+    "Pain after a fixed walking distance",
+    "Pain relieved by bending forwards",
+    "Pain only at night"
+   ],
+   "ans": 0,
+   "exp": "Maximum pain on the first step (Book p487)"
+  },
+  {
+   "id": "SURG-C63-035",
+   "sec": "Differential Diagnosis of Claudication",
+   "page": 487,
+   "q": "Site of pain in osteoarthritis:",
+   "opts": [
+    "Pain in the affected joint",
+    "Pain in the calf muscle",
+    "Pain in the buttock",
+    "Pain in the sole"
+   ],
+   "ans": 0,
+   "exp": "Pain in the affected joint (Book p487)"
+  },
+  {
+   "id": "SURG-C63-036",
+   "sec": "Differential Diagnosis of Claudication",
+   "page": 487,
+   "q": "Neurogenic claudication is caused by:",
+   "opts": [
+    "Lumbar canal stenosis",
+    "Aortoiliac block",
+    "Femoral artery stenosis",
+    "Osteoarthritis of knee"
+   ],
+   "ans": 0,
+   "exp": "Lumbar canal stenosis (Book p487)"
+  },
+  {
+   "id": "SURG-C63-037",
+   "sec": "Differential Diagnosis of Claudication",
+   "page": 487,
+   "q": "Pain in neurogenic claudication:",
+   "opts": [
+    "Varies with posture and is relieved when the patient bends forwards",
+    "Is fixed regardless of posture",
+    "Is relieved by standing erect",
+    "Occurs only at rest"
+   ],
+   "ans": 0,
+   "exp": "Varies with posture and is relieved when the patient bends forwards (Book p487)"
+  },
+  {
+   "id": "SURG-C63-038",
+   "sec": "Boyd's Classification",
+   "page": 488,
+   "q": "Boyd's class 1:",
+   "opts": [
+    "Pain on walking but pain decreases as patient continues to walk",
+    "Pain on walking, continues to walk despite pain",
+    "Pain forces patient to stop",
+    "Pain at rest"
+   ],
+   "ans": 0,
+   "exp": "Pain on walking but pain decreases as patient continues to walk (Book p488)"
+  },
+  {
+   "id": "SURG-C63-039",
+   "sec": "Boyd's Classification",
+   "page": 488,
+   "q": "Reason pain decreases in Boyd's class 1:",
+   "opts": [
+    "Washout of substance P",
+    "Formation of collaterals",
+    "Vasospasm relief",
+    "Endorphin release only"
+   ],
+   "ans": 0,
+   "exp": "Washout of substance P (Book p488)"
+  },
+  {
+   "id": "SURG-C63-040",
+   "sec": "Boyd's Classification",
+   "page": 488,
+   "q": "Boyd's class 2:",
+   "opts": [
+    "Pain on walking, continues to walk despite pain",
+    "Pain decreases as walking continues",
+    "Pain forces patient to stop",
+    "Pain at rest"
+   ],
+   "ans": 0,
+   "exp": "Pain on walking, continues to walk despite pain (Book p488)"
+  },
+  {
+   "id": "SURG-C63-041",
+   "sec": "Boyd's Classification",
+   "page": 488,
+   "q": "Boyd's class 3:",
+   "opts": [
+    "Pain forces the patient to stop",
+    "Pain decreases on walking",
+    "Patient continues despite pain",
+    "Pain at rest"
+   ],
+   "ans": 0,
+   "exp": "Pain forces the patient to stop (Book p488)"
+  },
+  {
+   "id": "SURG-C63-042",
+   "sec": "Boyd's Classification",
+   "page": 488,
+   "q": "Boyd's class 4:",
+   "opts": [
+    "Pain at rest",
+    "Pain on walking only",
+    "Pain relieved by walking",
+    "No pain"
+   ],
+   "ans": 0,
+   "exp": "Pain at rest (Book p488)"
+  },
+  {
+   "id": "SURG-C63-043",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Earliest claudication site in aortoiliac obstruction:",
+   "opts": [
+    "Buttocks",
+    "Calves",
+    "Thighs",
+    "Feet"
+   ],
+   "ans": 0,
+   "exp": "Buttocks (Book p488)"
+  },
+  {
+   "id": "SURG-C63-044",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Pulses in aortoiliac obstruction:",
+   "opts": [
+    "Femoral and distal pulses absent in both limbs",
+    "Unilaterally absent femoral pulse",
+    "Only ankle pulses absent",
+    "All pulses palpable"
+   ],
+   "ans": 0,
+   "exp": "Femoral and distal pulses absent in both limbs (Book p488)"
+  },
+  {
+   "id": "SURG-C63-045",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Bruit in aortoiliac obstruction is heard over the:",
+   "opts": [
+    "Aortoiliac region",
+    "Popliteal fossa",
+    "Femoral triangle only",
+    "Carotid"
+   ],
+   "ans": 0,
+   "exp": "Aortoiliac region (Book p488)"
+  },
+  {
+   "id": "SURG-C63-046",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Impotence with aortoiliac obstruction is known as:",
+   "opts": [
+    "Leriche syndrome",
+    "Buerger's disease",
+    "Subclavian steal syndrome",
+    "May-Thurner syndrome"
+   ],
+   "ans": 0,
+   "exp": "Leriche syndrome (Book p488)"
+  },
+  {
+   "id": "SURG-C63-047",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Claudication pattern in iliac obstruction:",
+   "opts": [
+    "Unilateral claudication in the thigh and calf and sometimes the buttock",
+    "Bilateral buttock claudication",
+    "Claudication in calf and foot only",
+    "No claudication"
+   ],
+   "ans": 0,
+   "exp": "Unilateral claudication in the thigh and calf and sometimes the buttock (Book p488)"
+  },
+  {
+   "id": "SURG-C63-048",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Pulse finding in iliac obstruction:",
+   "opts": [
+    "Unilateral absence of femoral and distal pulses",
+    "Bilateral absence of femoral pulses",
+    "All pulses present",
+    "Only ankle pulses absent"
+   ],
+   "ans": 0,
+   "exp": "Unilateral absence of femoral and distal pulses (Book p488)"
+  },
+  {
+   "id": "SURG-C63-049",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Claudication in femoropopliteal obstruction:",
+   "opts": [
+    "Unilateral claudication in the calf",
+    "Bilateral buttock claudication",
+    "Claudication in foot only",
+    "Thigh and buttock claudication"
+   ],
+   "ans": 0,
+   "exp": "Unilateral claudication in the calf (Book p488)"
+  },
+  {
+   "id": "SURG-C63-050",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Pulse findings in femoropopliteal obstruction:",
+   "opts": [
+    "Femoral pulse palpable with absent unilateral distal pulses",
+    "Femoral pulse absent bilaterally",
+    "All pulses absent",
+    "All pulses present"
+   ],
+   "ans": 0,
+   "exp": "Femoral pulse palpable with absent unilateral distal pulses (Book p488)"
+  },
+  {
+   "id": "SURG-C63-051",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Pulse findings in distal obstruction:",
+   "opts": [
+    "Femoral and popliteal pulses palpable, ankle pulses absent",
+    "Femoral pulse absent",
+    "Popliteal pulse absent",
+    "All pulses absent"
+   ],
+   "ans": 0,
+   "exp": "Femoral and popliteal pulses palpable, ankle pulses absent (Book p488)"
+  },
+  {
+   "id": "SURG-C63-052",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Claudication in distal obstruction:",
+   "opts": [
+    "Claudication in calf and foot",
+    "Claudication in buttocks",
+    "Claudication in thigh only",
+    "No claudication"
+   ],
+   "ans": 0,
+   "exp": "Claudication in calf and foot (Book p488)"
+  },
+  {
+   "id": "SURG-C63-053",
+   "sec": "Symptoms According to Site of Arterial Disease",
+   "page": 488,
+   "q": "Bruit over the iliac region suggests:",
+   "opts": [
+    "Iliac obstruction",
+    "Distal obstruction",
+    "Femoropopliteal obstruction",
+    "Carotid stenosis"
+   ],
+   "ans": 0,
+   "exp": "Iliac obstruction (Book p488)"
+  },
+  {
+   "id": "SURG-C63-054",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "Type of ulcer complicating chronic arterial occlusion:",
+   "opts": [
+    "Punched out ulcer",
+    "Sloping ulcer",
+    "Everted ulcer",
+    "Undermined ulcer"
+   ],
+   "ans": 0,
+   "exp": "Punched out ulcer (Book p488)"
+  },
+  {
+   "id": "SURG-C63-055",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "Features of an arterial ulcer include all EXCEPT:",
+   "opts": [
+    "Dilated superficial veins",
+    "Loss of pulsation",
+    "Loss of muscle mass",
+    "Shiny skin/loss of hair"
+   ],
+   "ans": 0,
+   "exp": "Dilated superficial veins (Book p488)"
+  },
+  {
+   "id": "SURG-C63-056",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "Sensations in an arterial ulcer:",
+   "opts": [
+    "Intact",
+    "Absent",
+    "Decreased",
+    "Hyperesthetic"
+   ],
+   "ans": 0,
+   "exp": "Intact (Book p488)"
+  },
+  {
+   "id": "SURG-C63-057",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "Skin changes over an arterial ulcer:",
+   "opts": [
+    "Shiny skin with loss of hair",
+    "Hyperpigmented thick skin",
+    "Excess hair growth",
+    "Woody induration"
+   ],
+   "ans": 0,
+   "exp": "Shiny skin with loss of hair (Book p488)"
+  },
+  {
+   "id": "SURG-C63-058",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "IOC for chronic arterial occlusion:",
+   "opts": [
+    "Duplex scan",
+    "ABPI",
+    "DSA",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Duplex scan (Book p488)"
+  },
+  {
+   "id": "SURG-C63-059",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "ABPI is calculated as:",
+   "opts": [
+    "Maximum SBP at ankle / maximum SBP at brachial artery",
+    "Maximum SBP at brachial / maximum SBP at ankle",
+    "Diastolic ankle / systolic brachial",
+    "Mean arterial ankle / brachial"
+   ],
+   "ans": 0,
+   "exp": "Maximum SBP at ankle / maximum SBP at brachial artery (Book p488)"
+  },
+  {
+   "id": "SURG-C63-060",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "Normal ABPI:",
+   "opts": [
+    "0.9 - 1.4",
+    "0.4 - 0.9",
+    "1.4 - 2.0",
+    "<0.4"
+   ],
+   "ans": 0,
+   "exp": "0.9 - 1.4 (Book p488)"
+  },
+  {
+   "id": "SURG-C63-061",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "ABPI < 0.9 indicates:",
+   "opts": [
+    "Intermittent claudication",
+    "Normal limb",
+    "Calcified vessels",
+    "Venous disease"
+   ],
+   "ans": 0,
+   "exp": "Intermittent claudication (Book p488)"
+  },
+  {
+   "id": "SURG-C63-062",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "ABPI < 0.4 indicates:",
+   "opts": [
+    "CTLI (chronic limb threatening ischemia)",
+    "Normal",
+    "Intermittent claudication",
+    "Diabetes"
+   ],
+   "ans": 0,
+   "exp": "CTLI (chronic limb threatening ischemia) (Book p488)"
+  },
+  {
+   "id": "SURG-C63-063",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "Features of CTLI:",
+   "opts": [
+    "Ischemic rest pain +/- ulceration/gangrene",
+    "Claudication only",
+    "Asymptomatic",
+    "Painless swelling"
+   ],
+   "ans": 0,
+   "exp": "Ischemic rest pain +/- ulceration/gangrene (Book p488)"
+  },
+  {
+   "id": "SURG-C63-064",
+   "sec": "Arterial Ulcer and ABPI",
+   "page": 488,
+   "q": "CTLI requires:",
+   "opts": [
+    "Urgent revascularization",
+    "Observation",
+    "Compression stockings",
+    "Elevation only"
+   ],
+   "ans": 0,
+   "exp": "Urgent revascularization (Book p488)"
+  },
+  {
+   "id": "SURG-C63-065",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "A fall in ABPI of more than how much after exercise indicates arterial disease:",
+   "opts": [
+    ">20%",
+    ">5%",
+    ">50%",
+    ">80%"
+   ],
+   "ans": 0,
+   "exp": ">20% (Book p489)"
+  },
+  {
+   "id": "SURG-C63-066",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "Patients with ABPI < 0.5 compared with those >0.5 are:",
+   "opts": [
+    "Twice more likely to deteriorate",
+    "Equally likely to deteriorate",
+    "Less likely to deteriorate",
+    "Never deteriorate"
+   ],
+   "ans": 0,
+   "exp": "Twice more likely to deteriorate (Book p489)"
+  },
+  {
+   "id": "SURG-C63-067",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "A gradually decreasing ABPI is a sign of:",
+   "opts": [
+    "Imminent limb loss",
+    "Recovery",
+    "Venous disease",
+    "Improved collaterals"
+   ],
+   "ans": 0,
+   "exp": "Imminent limb loss (Book p489)"
+  },
+  {
+   "id": "SURG-C63-068",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "Every 0.1 fall in ABPI increases risk of cardiac mortality by:",
+   "opts": [
+    "10%",
+    "1%",
+    "25%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "10% (Book p489)"
+  },
+  {
+   "id": "SURG-C63-069",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "ABPI > 1.4 is seen in all EXCEPT:",
+   "opts": [
+    "Buerger's disease",
+    "Diabetes mellitus",
+    "Calcified vessels",
+    "Chronic renal failure"
+   ],
+   "ans": 0,
+   "exp": "Buerger's disease (Book p489)"
+  },
+  {
+   "id": "SURG-C63-070",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "Principle behind the toe brachial pressure index (TBI):",
+   "opts": [
+    "Digital arteries are more resistant to sclerosis",
+    "Toe arteries are larger",
+    "Toe pressure equals brachial pressure",
+    "Digital arteries calcify first"
+   ],
+   "ans": 0,
+   "exp": "Digital arteries are more resistant to sclerosis (Book p489)"
+  },
+  {
+   "id": "SURG-C63-071",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "TBI + ABPI together are reliable for:",
+   "opts": [
+    "Large vessel occlusions in diabetic patients",
+    "Venous reflux",
+    "Lymphatic obstruction",
+    "Carotid disease"
+   ],
+   "ans": 0,
+   "exp": "Large vessel occlusions in diabetic patients (Book p489)"
+  },
+  {
+   "id": "SURG-C63-072",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "TBI < 0.6 indicates:",
+   "opts": [
+    "Significant arterial lesion",
+    "Normal perfusion",
+    "Venous disease",
+    "Calcified vessels"
+   ],
+   "ans": 0,
+   "exp": "Significant arterial lesion (Book p489)"
+  },
+  {
+   "id": "SURG-C63-073",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "DSA provides:",
+   "opts": [
+    "Dynamic arterial flow information",
+    "Static venous anatomy",
+    "Tissue perfusion maps",
+    "Bone detail"
+   ],
+   "ans": 0,
+   "exp": "Dynamic arterial flow information (Book p489)"
+  },
+  {
+   "id": "SURG-C63-074",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "Potential complications of DSA include all EXCEPT:",
+   "opts": [
+    "Gangrene of bowel",
+    "Bleeding",
+    "Thrombosis",
+    "Renal dysfunction"
+   ],
+   "ans": 0,
+   "exp": "Gangrene of bowel (Book p489)"
+  },
+  {
+   "id": "SURG-C63-075",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "Vascular complications of DSA:",
+   "opts": [
+    "Aneurysm and dissection",
+    "Osteomyelitis",
+    "Cellulitis",
+    "Neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Aneurysm and dissection (Book p489)"
+  },
+  {
+   "id": "SURG-C63-076",
+   "sec": "ABPI Interpretation, TBI and DSA",
+   "page": 489,
+   "q": "Only indication for DSA:",
+   "opts": [
+    "When intervention is planned",
+    "Routine screening",
+    "Follow up of claudication",
+    "Diagnosis of varicose veins"
+   ],
+   "ans": 0,
+   "exp": "When intervention is planned (Book p489)"
+  },
+  {
+   "id": "SURG-C63-077",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Two major causes of chronic arterial occlusion:",
+   "opts": [
+    "Buerger's disease and atherosclerosis",
+    "Raynaud's and Leriche",
+    "Embolism and trauma",
+    "Vasospasm and compression"
+   ],
+   "ans": 0,
+   "exp": "Buerger's disease and atherosclerosis (Book p489)"
+  },
+  {
+   "id": "SURG-C63-078",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Buerger's disease is also known as:",
+   "opts": [
+    "Thromboangitis obliterans",
+    "Takayasu arteritis",
+    "Giant cell arteritis",
+    "Polyarteritis nodosa"
+   ],
+   "ans": 0,
+   "exp": "Thromboangitis obliterans (Book p489)"
+  },
+  {
+   "id": "SURG-C63-079",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Gender distribution of Buerger's disease:",
+   "opts": [
+    "M >> F",
+    "F >> M",
+    "M = F",
+    "Only females"
+   ],
+   "ans": 0,
+   "exp": "M >> F (Book p489)"
+  },
+  {
+   "id": "SURG-C63-080",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Gender distribution of atherosclerosis:",
+   "opts": [
+    "M = F",
+    "M >> F",
+    "F >> M",
+    "Only males"
+   ],
+   "ans": 0,
+   "exp": "M = F (Book p489)"
+  },
+  {
+   "id": "SURG-C63-081",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Age of presentation of Buerger's disease:",
+   "opts": [
+    "3rd - 4th decade",
+    "1st decade",
+    "5th decade",
+    "7th decade"
+   ],
+   "ans": 0,
+   "exp": "3rd - 4th decade (Book p489)"
+  },
+  {
+   "id": "SURG-C63-082",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Age of presentation of atherosclerosis:",
+   "opts": [
+    "5th decade",
+    "2nd decade",
+    "3rd decade",
+    "8th decade"
+   ],
+   "ans": 0,
+   "exp": "5th decade (Book p489)"
+  },
+  {
+   "id": "SURG-C63-083",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Sole risk factor for Buerger's disease:",
+   "opts": [
+    "Smoking",
+    "Dyslipidemia",
+    "Type A personality",
+    "Alcohol"
+   ],
+   "ans": 0,
+   "exp": "Smoking (Book p489)"
+  },
+  {
+   "id": "SURG-C63-084",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Risk factors for atherosclerosis:",
+   "opts": [
+    "Stress, smoking, alcohol, type A personality, dyslipidemia",
+    "Smoking only",
+    "Cold exposure",
+    "Vibrating tools"
+   ],
+   "ans": 0,
+   "exp": "Stress, smoking, alcohol, type A personality, dyslipidemia (Book p489)"
+  },
+  {
+   "id": "SURG-C63-085",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Limb involvement in both Buerger's disease and atherosclerosis:",
+   "opts": [
+    "LL > UL",
+    "UL > LL",
+    "UL only",
+    "Equal"
+   ],
+   "ans": 0,
+   "exp": "LL > UL (Book p489)"
+  },
+  {
+   "id": "SURG-C63-086",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Structures involved in Buerger's disease:",
+   "opts": [
+    "Arteries (thrombosis), veins (thrombophlebitis) and nerves (neuropathy)",
+    "Arteries only",
+    "Veins only",
+    "Nerves only"
+   ],
+   "ans": 0,
+   "exp": "Arteries (thrombosis), veins (thrombophlebitis) and nerves (neuropathy) (Book p489)"
+  },
+  {
+   "id": "SURG-C63-087",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Investigation that may be used for diagnosis in Buerger's disease:",
+   "opts": [
+    "Muscle biopsy +/-",
+    "Bone scan",
+    "Nerve conduction only",
+    "Echocardiography"
+   ],
+   "ans": 0,
+   "exp": "Muscle biopsy +/- (Book p489)"
+  },
+  {
+   "id": "SURG-C63-088",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Structures involved in atherosclerosis:",
+   "opts": [
+    "Arteries",
+    "Arteries, veins and nerves",
+    "Veins only",
+    "Lymphatics"
+   ],
+   "ans": 0,
+   "exp": "Arteries (Book p489)"
+  },
+  {
+   "id": "SURG-C63-089",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Direction of spread in Buerger's disease:",
+   "opts": [
+    "Distal to proximal",
+    "Proximal to distal",
+    "Random",
+    "Bilateral simultaneous"
+   ],
+   "ans": 0,
+   "exp": "Distal to proximal (Book p489)"
+  },
+  {
+   "id": "SURG-C63-090",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Direction of spread in atherosclerosis:",
+   "opts": [
+    "Proximal to distal",
+    "Distal to proximal",
+    "Random",
+    "Centrifugal"
+   ],
+   "ans": 0,
+   "exp": "Proximal to distal (Book p489)"
+  },
+  {
+   "id": "SURG-C63-091",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Vessels involved in Buerger's disease:",
+   "opts": [
+    "Small to medium",
+    "Medium to large",
+    "Large only",
+    "Capillaries only"
+   ],
+   "ans": 0,
+   "exp": "Small to medium (Book p489)"
+  },
+  {
+   "id": "SURG-C63-092",
+   "sec": "Buerger's Disease versus Atherosclerosis",
+   "page": 489,
+   "q": "Vessels involved in atherosclerosis:",
+   "opts": [
+    "Medium to large",
+    "Small to medium",
+    "Capillaries",
+    "Venules"
+   ],
+   "ans": 0,
+   "exp": "Medium to large (Book p489)"
+  },
+  {
+   "id": "SURG-C63-093",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "Most important step in the management of Buerger's disease:",
+   "opts": [
+    "Cessation of smoking",
+    "Lumbar sympathectomy",
+    "Angioplasty",
+    "Grafting"
+   ],
+   "ans": 0,
+   "exp": "Cessation of smoking (Book p490)"
+  },
+  {
+   "id": "SURG-C63-094",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "Mechanism of pentoxyphylline in Buerger's disease:",
+   "opts": [
+    "↓ viscosity",
+    "↑ viscosity",
+    "Vasoconstriction",
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "↓ viscosity (Book p490)"
+  },
+  {
+   "id": "SURG-C63-095",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "Type of amputation preferred in Buerger's disease:",
+   "opts": [
+    "Conservative amputations",
+    "Above knee amputation always",
+    "Hip disarticulation",
+    "Hemipelvectomy"
+   ],
+   "ans": 0,
+   "exp": "Conservative amputations (Book p490)"
+  },
+  {
+   "id": "SURG-C63-096",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "Lumbar sympathectomy in Buerger's disease is done to:",
+   "opts": [
+    "↓ rest pain",
+    "↑ claudication distance",
+    "Cure the disease",
+    "Dissolve the thrombus"
+   ],
+   "ans": 0,
+   "exp": "↓ rest pain (Book p490)"
+  },
+  {
+   "id": "SURG-C63-097",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "In bilateral lumbar sympathectomy, which ganglion is preserved on one side:",
+   "opts": [
+    "L1 ganglion",
+    "L2 ganglion",
+    "L3 ganglion",
+    "L5 ganglion"
+   ],
+   "ans": 0,
+   "exp": "L1 ganglion (Book p490)"
+  },
+  {
+   "id": "SURG-C63-098",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "L1 ganglion is preserved on one side to prevent:",
+   "opts": [
+    "Impotence",
+    "Incontinence",
+    "Paralysis",
+    "Gangrene"
+   ],
+   "ans": 0,
+   "exp": "Impotence (Book p490)"
+  },
+  {
+   "id": "SURG-C63-099",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "Contralateral effect of lumbar sympathectomy:",
+   "opts": [
+    "Intermittent claudication — cutaneous vasodilation precipitates rest pain",
+    "Improved claudication distance",
+    "Complete cure",
+    "Hyperhidrosis only"
+   ],
+   "ans": 0,
+   "exp": "Intermittent claudication — cutaneous vasodilation precipitates rest pain (Book p490)"
+  },
+  {
+   "id": "SURG-C63-100",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "Reason angioplasty/grafting has no role in Buerger's disease:",
+   "opts": [
+    "Absent distal target vessels and narrow vessels",
+    "Patients are too young",
+    "Vessels are too large",
+    "High bleeding risk"
+   ],
+   "ans": 0,
+   "exp": "Absent distal target vessels and narrow vessels (Book p490)"
+  },
+  {
+   "id": "SURG-C63-101",
+   "sec": "Management of Buerger's Disease",
+   "page": 490,
+   "q": "Angiographic hallmark of Buerger's disease:",
+   "opts": [
+    "Corkscrew collaterals",
+    "Sudden cut off with no collaterals",
+    "String of beads",
+    "Aneurysmal dilatation"
+   ],
+   "ans": 0,
+   "exp": "Corkscrew collaterals (Book p490)"
+  },
+  {
+   "id": "SURG-C63-102",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "First step in management of atherosclerotic occlusion:",
+   "opts": [
+    "Endovascular stenting (angioplasty)",
+    "Bypass graft",
+    "Amputation",
+    "Sympathectomy"
+   ],
+   "ans": 0,
+   "exp": "Endovascular stenting (angioplasty) (Book p490)"
+  },
+  {
+   "id": "SURG-C63-103",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "If angioplasty fails or is contraindicated, next step:",
+   "opts": [
+    "Bypass graft",
+    "Amputation",
+    "Observation",
+    "Sympathectomy"
+   ],
+   "ans": 0,
+   "exp": "Bypass graft (Book p490)"
+  },
+  {
+   "id": "SURG-C63-104",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Duration for which the balloon is inflated in angioplasty:",
+   "opts": [
+    "30 seconds and then deflated",
+    "3 seconds",
+    "5 minutes",
+    "30 minutes"
+   ],
+   "ans": 0,
+   "exp": "30 seconds and then deflated (Book p490)"
+  },
+  {
+   "id": "SURG-C63-105",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Angioplasty is more successful for:",
+   "opts": [
+    "Above knee > below knee vessels",
+    "Below knee > above knee vessels",
+    "Digital vessels",
+    "Aorta only"
+   ],
+   "ans": 0,
+   "exp": "Above knee > below knee vessels (Book p490)"
+  },
+  {
+   "id": "SURG-C63-106",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Complications of angioplasty include all EXCEPT:",
+   "opts": [
+    "Impotence",
+    "Failure",
+    "Hematoma",
+    "Thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Impotence (Book p490)"
+  },
+  {
+   "id": "SURG-C63-107",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Indication for an aorto-bifemoral graft:",
+   "opts": [
+    "Leriche syndrome (block at aortic bifurcation)",
+    "Iliac block alone",
+    "Femoral block alone",
+    "Distal calf block"
+   ],
+   "ans": 0,
+   "exp": "Leriche syndrome (block at aortic bifurcation) (Book p490)"
+  },
+  {
+   "id": "SURG-C63-108",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Best material for an aorto-bifemoral graft:",
+   "opts": [
+    "Dacron",
+    "PTFE",
+    "Reversed saphenous vein",
+    "Silicone"
+   ],
+   "ans": 0,
+   "exp": "Dacron (Book p490)"
+  },
+  {
+   "id": "SURG-C63-109",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Graft used for an iliac block:",
+   "opts": [
+    "Aorto-femoral grafting",
+    "Ilio-popliteal grafting",
+    "Aorto-bifemoral grafting",
+    "Femoro-tibial grafting"
+   ],
+   "ans": 0,
+   "exp": "Aorto-femoral grafting (Book p490)"
+  },
+  {
+   "id": "SURG-C63-110",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Graft used for a femoral block:",
+   "opts": [
+    "Ilio-popliteal grafting",
+    "Aorto-femoral grafting",
+    "Aorto-bifemoral grafting",
+    "Carotid bypass"
+   ],
+   "ans": 0,
+   "exp": "Ilio-popliteal grafting (Book p490)"
+  },
+  {
+   "id": "SURG-C63-111",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Best NATURAL material for an infra-inguinal graft:",
+   "opts": [
+    "Reversed saphenous vein graft",
+    "Dacron",
+    "PTFE",
+    "Bovine pericardium"
+   ],
+   "ans": 0,
+   "exp": "Reversed saphenous vein graft (Book p490)"
+  },
+  {
+   "id": "SURG-C63-112",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "page": 490,
+   "q": "Best SYNTHETIC material for an infra-inguinal graft:",
+   "opts": [
+    "PTFE graft",
+    "Dacron",
+    "Silicone",
+    "Nylon"
+   ],
+   "ans": 0,
+   "exp": "PTFE graft (Book p490)"
+  },
+  {
+   "id": "SURG-C63-113",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Definition of gangrene:",
+   "opts": [
+    "Macroscopic and microscopic death of tissue",
+    "Microscopic death only",
+    "Reversible ischemia",
+    "Inflammation of tissue"
+   ],
+   "ans": 0,
+   "exp": "Macroscopic and microscopic death of tissue (Book p491)"
+  },
+  {
+   "id": "SURG-C63-114",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Pathophysiology of dry gangrene:",
+   "opts": [
+    "Tissue desiccation due to gradual slowing of blood",
+    "Venous blockade with super added infection",
+    "Arterial embolism only",
+    "Direct trauma"
+   ],
+   "ans": 0,
+   "exp": "Tissue desiccation due to gradual slowing of blood (Book p491)"
+  },
+  {
+   "id": "SURG-C63-115",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Pathophysiology of wet gangrene:",
+   "opts": [
+    "Venous blockade / super added infection",
+    "Tissue desiccation",
+    "Gradual slowing of arterial blood",
+    "Vasospasm"
+   ],
+   "ans": 0,
+   "exp": "Venous blockade / super added infection (Book p491)"
+  },
+  {
+   "id": "SURG-C63-116",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Line of demarcation in dry gangrene:",
+   "opts": [
+    "Good",
+    "Poor",
+    "Absent",
+    "Always proximal"
+   ],
+   "ans": 0,
+   "exp": "Good (Book p491)"
+  },
+  {
+   "id": "SURG-C63-117",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "If bone is involved in dry gangrene, the result is a:",
+   "opts": [
+    "Conical stump",
+    "Flat stump",
+    "Bulbous stump",
+    "Skew stump"
+   ],
+   "ans": 0,
+   "exp": "Conical stump (Book p491)"
+  },
+  {
+   "id": "SURG-C63-118",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Line of demarcation in wet gangrene:",
+   "opts": [
+    "Poor",
+    "Good",
+    "Excellent",
+    "Sharp"
+   ],
+   "ans": 0,
+   "exp": "Poor (Book p491)"
+  },
+  {
+   "id": "SURG-C63-119",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Why the line of demarcation is more proximal in wet gangrene:",
+   "opts": [
+    "Infection spreads to neighbouring tissues",
+    "Blood supply improves distally",
+    "Tissue desiccates",
+    "Nerve supply intact"
+   ],
+   "ans": 0,
+   "exp": "Infection spreads to neighbouring tissues (Book p491)"
+  },
+  {
+   "id": "SURG-C63-120",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Line of demarcation is the:",
+   "opts": [
+    "Junction between living and dead tissue",
+    "Edge of the ulcer",
+    "Site of amputation only",
+    "Site of infection"
+   ],
+   "ans": 0,
+   "exp": "Junction between living and dead tissue (Book p491)"
+  },
+  {
+   "id": "SURG-C63-121",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Line of demarcation is lined by:",
+   "opts": [
+    "Granulation tissue",
+    "Fibrous scar",
+    "Necrotic slough",
+    "Epithelium"
+   ],
+   "ans": 0,
+   "exp": "Granulation tissue (Book p491)"
+  },
+  {
+   "id": "SURG-C63-122",
+   "sec": "Gangrene",
+   "page": 491,
+   "q": "Sensory finding at the line of demarcation:",
+   "opts": [
+    "Hyperaesthesia present",
+    "Complete anaesthesia",
+    "Normal sensation",
+    "Paraesthesia only"
+   ],
+   "ans": 0,
+   "exp": "Hyperaesthesia present (Book p491)"
+  },
+  {
+   "id": "SURG-C63-123",
+   "sec": "Amputation: Indications and Levels",
+   "page": 491,
+   "q": "Mnemonic for indications of amputation:",
+   "opts": [
+    "Dead, deadly, damn nuisance",
+    "Pain, pallor, paralysis",
+    "Hot, red, swollen",
+    "Stasis, injury, coagulability"
+   ],
+   "ans": 0,
+   "exp": "Dead, deadly, damn nuisance (Book p491)"
+  },
+  {
+   "id": "SURG-C63-124",
+   "sec": "Amputation: Indications and Levels",
+   "page": 491,
+   "q": "Gangrene falls under which category of amputation indication:",
+   "opts": [
+    "Dead",
+    "Deadly",
+    "Damn nuisance",
+    "Elective"
+   ],
+   "ans": 0,
+   "exp": "Dead (Book p491)"
+  },
+  {
+   "id": "SURG-C63-125",
+   "sec": "Amputation: Indications and Levels",
+   "page": 491,
+   "q": "Gas gangrene and soft tissue sarcoma fall under:",
+   "opts": [
+    "Deadly",
+    "Dead",
+    "Damn nuisance",
+    "Cosmetic"
+   ],
+   "ans": 0,
+   "exp": "Deadly (Book p491)"
+  },
+  {
+   "id": "SURG-C63-126",
+   "sec": "Amputation: Indications and Levels",
+   "page": 491,
+   "q": "Contractures fall under which amputation indication:",
+   "opts": [
+    "Damn nuisance",
+    "Dead",
+    "Deadly",
+    "Emergency"
+   ],
+   "ans": 0,
+   "exp": "Damn nuisance (Book p491)"
+  },
+  {
+   "id": "SURG-C63-127",
+   "sec": "Amputation: Indications and Levels",
+   "page": 491,
+   "q": "Local digit amputation is typically done in:",
+   "opts": [
+    "Diabetic patients",
+    "Trauma patients only",
+    "Sarcoma patients",
+    "Burns patients"
+   ],
+   "ans": 0,
+   "exp": "Diabetic patients (Book p491)"
+  },
+  {
+   "id": "SURG-C63-128",
+   "sec": "Amputation: Indications and Levels",
+   "page": 491,
+   "q": "Ray excision is indicated when there is:",
+   "opts": [
+    "MTP joint involvement",
+    "Only skin involvement",
+    "Only nail involvement",
+    "Knee involvement"
+   ],
+   "ans": 0,
+   "exp": "MTP joint involvement (Book p491)"
+  },
+  {
+   "id": "SURG-C63-129",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Transmetatarsal amputation is done when:",
+   "opts": [
+    "Several toes are affected",
+    "Only one toe is affected",
+    "The knee is involved",
+    "The thigh is involved"
+   ],
+   "ans": 0,
+   "exp": "Several toes are affected (Book p492)"
+  },
+  {
+   "id": "SURG-C63-130",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Amputation giving the best chance of walking:",
+   "opts": [
+    "Below knee amputation (preserves knee)",
+    "Above knee amputation",
+    "Hip disarticulation",
+    "Transmetatarsal amputation"
+   ],
+   "ans": 0,
+   "exp": "Below knee amputation (preserves knee) (Book p492)"
+  },
+  {
+   "id": "SURG-C63-131",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Advantage of above knee amputation:",
+   "opts": [
+    "Heals well",
+    "Best chance of walking",
+    "Preserves the knee",
+    "No phantom limb"
+   ],
+   "ans": 0,
+   "exp": "Heals well (Book p492)"
+  },
+  {
+   "id": "SURG-C63-132",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Minimum stump length in below knee amputation:",
+   "opts": [
+    "Not less than 8 cm below knee (10-12 cm)",
+    "Not less than 2 cm",
+    "Not less than 20 cm",
+    "Not less than 30 cm"
+   ],
+   "ans": 0,
+   "exp": "Not less than 8 cm below knee (10-12 cm) (Book p492)"
+  },
+  {
+   "id": "SURG-C63-133",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "M/c preferred flap in below knee amputation:",
+   "opts": [
+    "Long posterior flap",
+    "Skew flap",
+    "Anterior flap",
+    "Medial flap"
+   ],
+   "ans": 0,
+   "exp": "Long posterior flap (Book p492)"
+  },
+  {
+   "id": "SURG-C63-134",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Anterior mark for the long posterior flap:",
+   "opts": [
+    "10 cm below the tibial tuberosity",
+    "5 cm above the tibial tuberosity",
+    "At the ankle",
+    "At the knee joint line"
+   ],
+   "ans": 0,
+   "exp": "10 cm below the tibial tuberosity (Book p492)"
+  },
+  {
+   "id": "SURG-C63-135",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Alternative flap to the long posterior flap:",
+   "opts": [
+    "Skew flap",
+    "Rotation flap",
+    "Free flap",
+    "V-Y flap"
+   ],
+   "ans": 0,
+   "exp": "Skew flap (Book p492)"
+  },
+  {
+   "id": "SURG-C63-136",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Minimum stump length in above knee amputation:",
+   "opts": [
+    "Not less than 20 cm",
+    "Not less than 8 cm",
+    "Not less than 10 cm",
+    "Not less than 30 cm"
+   ],
+   "ans": 0,
+   "exp": "Not less than 20 cm (Book p492)"
+  },
+  {
+   "id": "SURG-C63-137",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Early complications of amputation:",
+   "opts": [
+    "Hemorrhage, infection, flap necrosis and DVT",
+    "Pain and phantom limb",
+    "Contracture and arthritis",
+    "Osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "Hemorrhage, infection, flap necrosis and DVT (Book p492)"
+  },
+  {
+   "id": "SURG-C63-138",
+   "sec": "Amputation Levels, Stump and Complications",
+   "page": 492,
+   "q": "Late complications of amputation:",
+   "opts": [
+    "Pain and phantom limb",
+    "Hemorrhage and infection",
+    "Flap necrosis",
+    "DVT"
+   ],
+   "ans": 0,
+   "exp": "Pain and phantom limb (Book p492)"
+  },
+  {
+   "id": "SURG-C63-139",
+   "sec": "Raynaud's Phenomenon",
+   "page": 492,
+   "q": "Raynaud's phenomenon is:",
+   "opts": [
+    "Episodic vasospasm of digital vessels",
+    "Fixed occlusion of large arteries",
+    "Venous thrombosis of digits",
+    "Lymphatic obstruction"
+   ],
+   "ans": 0,
+   "exp": "Episodic vasospasm of digital vessels (Book p492)"
+  },
+  {
+   "id": "SURG-C63-140",
+   "sec": "Raynaud's Phenomenon",
+   "page": 492,
+   "q": "1st phase of Raynaud's phenomenon:",
+   "opts": [
+    "Arterial + venous spasm — hands white",
+    "Artery relaxes + venous spasm — hands blue",
+    "Arterial and venous relaxation — hands red",
+    "Only venous spasm"
+   ],
+   "ans": 0,
+   "exp": "Arterial + venous spasm — hands white (Book p492)"
+  },
+  {
+   "id": "SURG-C63-141",
+   "sec": "Raynaud's Phenomenon",
+   "page": 492,
+   "q": "2nd phase of Raynaud's phenomenon:",
+   "opts": [
+    "Artery relaxes + venous spasm — hand blue and painful",
+    "Arterial and venous spasm — white hand",
+    "Complete relaxation — red hand",
+    "No colour change"
+   ],
+   "ans": 0,
+   "exp": "Artery relaxes + venous spasm — hand blue and painful (Book p492)"
+  },
+  {
+   "id": "SURG-C63-142",
+   "sec": "Raynaud's Phenomenon",
+   "page": 492,
+   "q": "3rd phase of Raynaud's phenomenon:",
+   "opts": [
+    "Arterial + venous relaxation — hands red",
+    "Arterial and venous spasm — white",
+    "Artery relaxes with venous spasm — blue",
+    "Hands remain white"
+   ],
+   "ans": 0,
+   "exp": "Arterial + venous relaxation — hands red (Book p492)"
+  },
+  {
+   "id": "SURG-C63-143",
+   "sec": "Raynaud's Phenomenon",
+   "page": 492,
+   "q": "Painful phase of Raynaud's phenomenon:",
+   "opts": [
+    "2nd phase (blue hand)",
+    "1st phase (white hand)",
+    "3rd phase (red hand)",
+    "All phases equally"
+   ],
+   "ans": 0,
+   "exp": "2nd phase (blue hand) (Book p492)"
+  },
+  {
+   "id": "SURG-C63-144",
+   "sec": "Raynaud's Phenomenon",
+   "page": 492,
+   "q": "Colour sequence in Raynaud's phenomenon:",
+   "opts": [
+    "White → blue → red",
+    "Red → white → blue",
+    "Blue → red → white",
+    "White → red → blue"
+   ],
+   "ans": 0,
+   "exp": "White → blue → red (Book p492)"
+  },
+  {
+   "id": "SURG-C63-145",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "Prevalence of primary Raynaud's compared with secondary:",
+   "opts": [
+    "Primary is common, secondary is rare",
+    "Primary is rare, secondary is common",
+    "Both equally common",
+    "Both very rare"
+   ],
+   "ans": 0,
+   "exp": "Primary is common, secondary is rare (Book p493)"
+  },
+  {
+   "id": "SURG-C63-146",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "Association with autoimmune rheumatic disease (AIRD):",
+   "opts": [
+    "Absent in primary, present in secondary",
+    "Present in primary, absent in secondary",
+    "Present in both",
+    "Absent in both"
+   ],
+   "ans": 0,
+   "exp": "Absent in primary, present in secondary (Book p493)"
+  },
+  {
+   "id": "SURG-C63-147",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "ANA association in Raynaud's:",
+   "opts": [
+    "No in primary, generally yes in secondary",
+    "Yes in primary, no in secondary",
+    "Yes in both",
+    "No in both"
+   ],
+   "ans": 0,
+   "exp": "No in primary, generally yes in secondary (Book p493)"
+  },
+  {
+   "id": "SURG-C63-148",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "Microangiopathy on periungueal capillaroscopy (PUC):",
+   "opts": [
+    "Absent in primary, generally present in secondary",
+    "Present in primary only",
+    "Present in both",
+    "Absent in both"
+   ],
+   "ans": 0,
+   "exp": "Absent in primary, generally present in secondary (Book p493)"
+  },
+  {
+   "id": "SURG-C63-149",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "Family history of Raynaud's phenomenon:",
+   "opts": [
+    "Present in primary, occasionally absent/no in secondary",
+    "Absent in primary, present in secondary",
+    "Present in both",
+    "Absent in both"
+   ],
+   "ans": 0,
+   "exp": "Present in primary, occasionally absent/no in secondary (Book p493)"
+  },
+  {
+   "id": "SURG-C63-150",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "Pharmacological treatment need:",
+   "opts": [
+    "Occasionally in primary, frequently in secondary",
+    "Frequently in primary, occasionally in secondary",
+    "Never in either",
+    "Always in both"
+   ],
+   "ans": 0,
+   "exp": "Occasionally in primary, frequently in secondary (Book p493)"
+  },
+  {
+   "id": "SURG-C63-151",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "Complications in primary versus secondary Raynaud's:",
+   "opts": [
+    "Rare in primary, present in secondary",
+    "Common in primary, rare in secondary",
+    "Equal in both",
+    "Absent in both"
+   ],
+   "ans": 0,
+   "exp": "Rare in primary, present in secondary (Book p493)"
+  },
+  {
+   "id": "SURG-C63-152",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "AIRD stands for:",
+   "opts": [
+    "Autoimmune rheumatic disease",
+    "Arterial ischemic reperfusion disease",
+    "Acute inflammatory rheumatic disorder",
+    "Autoimmune Raynaud's induced disease"
+   ],
+   "ans": 0,
+   "exp": "Autoimmune rheumatic disease (Book p493)"
+  },
+  {
+   "id": "SURG-C63-153",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "PUC stands for:",
+   "opts": [
+    "Periungueal capillaroscopy",
+    "Peripheral ulcer classification",
+    "Pulmonary ultrasound capillary",
+    "Primary ulcer criteria"
+   ],
+   "ans": 0,
+   "exp": "Periungueal capillaroscopy (Book p493)"
+  },
+  {
+   "id": "SURG-C63-154",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "Primary Raynaud's is precipitated by:",
+   "opts": [
+    "Cold, vibrating tools and heavy machinery",
+    "Heat and exercise",
+    "Infection",
+    "Drugs only"
+   ],
+   "ans": 0,
+   "exp": "Cold, vibrating tools and heavy machinery (Book p493)"
+  },
+  {
+   "id": "SURG-C63-155",
+   "sec": "Primary versus Secondary Raynaud's",
+   "page": 493,
+   "q": "DOC for Raynaud's phenomenon:",
+   "opts": [
+    "Calcium channel blockers (CCBs)",
+    "Beta blockers",
+    "ACE inhibitors",
+    "Diuretics"
+   ],
+   "ans": 0,
+   "exp": "Calcium channel blockers (CCBs) (Book p493)"
+  },
+  {
+   "id": "SURG-C63-156",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Acrocyanosis is seen in:",
+   "opts": [
+    "Females",
+    "Males",
+    "Children only",
+    "Elderly males"
+   ],
+   "ans": 0,
+   "exp": "Females (Book p493)"
+  },
+  {
+   "id": "SURG-C63-157",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Pain in acrocyanosis:",
+   "opts": [
+    "Painless",
+    "Severely painful",
+    "Burning pain",
+    "Colicky pain"
+   ],
+   "ans": 0,
+   "exp": "Painless (Book p493)"
+  },
+  {
+   "id": "SURG-C63-158",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Acrocyanosis is distinguished from Raynaud's because it is:",
+   "opts": [
+    "Not episodic",
+    "Episodic",
+    "Triphasic",
+    "Always painful"
+   ],
+   "ans": 0,
+   "exp": "Not episodic (Book p493)"
+  },
+  {
+   "id": "SURG-C63-159",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Sequence in acrocyanosis:",
+   "opts": [
+    "Mottled cyanosis followed by paraesthesia",
+    "White then blue then red",
+    "Pallor followed by gangrene",
+    "Redness followed by ulceration"
+   ],
+   "ans": 0,
+   "exp": "Mottled cyanosis followed by paraesthesia (Book p493)"
+  },
+  {
+   "id": "SURG-C63-160",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Subclavian steal syndrome is stenosis in the:",
+   "opts": [
+    "First part of the subclavian artery",
+    "Second part of the subclavian artery",
+    "Third part of the subclavian artery",
+    "Brachiocephalic artery"
+   ],
+   "ans": 0,
+   "exp": "First part of the subclavian artery (Book p493)"
+  },
+  {
+   "id": "SURG-C63-161",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Etiology of subclavian steal syndrome:",
+   "opts": [
+    "Thrombus and thoracic outlet obstruction",
+    "Embolus from the heart only",
+    "Venous thrombosis",
+    "Lymphatic obstruction"
+   ],
+   "ans": 0,
+   "exp": "Thrombus and thoracic outlet obstruction (Book p493)"
+  },
+  {
+   "id": "SURG-C63-162",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Pathophysiology of subclavian steal syndrome during exercise:",
+   "opts": [
+    "Retrograde blood flow from basilar/vertebral artery",
+    "Antegrade increased flow to the brain",
+    "Venous congestion of the arm",
+    "Arterial rupture"
+   ],
+   "ans": 0,
+   "exp": "Retrograde blood flow from basilar/vertebral artery (Book p493)"
+  },
+  {
+   "id": "SURG-C63-163",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Consequence of retrograde vertebral flow in subclavian steal syndrome:",
+   "opts": [
+    "↓ perfusion of brain → syncopal attacks",
+    "↑ perfusion of brain",
+    "Arm gangrene",
+    "Stroke in all patients"
+   ],
+   "ans": 0,
+   "exp": "↓ perfusion of brain → syncopal attacks (Book p493)"
+  },
+  {
+   "id": "SURG-C63-164",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Management of subclavian steal syndrome:",
+   "opts": [
+    "Angioplasty",
+    "Amputation",
+    "Sympathectomy",
+    "Anticoagulation alone"
+   ],
+   "ans": 0,
+   "exp": "Angioplasty (Book p493)"
+  },
+  {
+   "id": "SURG-C63-165",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome",
+   "page": 493,
+   "q": "Symptom that classically precipitates subclavian steal syndrome:",
+   "opts": [
+    "Exercise of the arm",
+    "Rest",
+    "Sleep",
+    "Eating"
+   ],
+   "ans": 0,
+   "exp": "Exercise of the arm (Book p493)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U63-1",
+   "ch": 63,
+   "n": 1,
+   "title": "Acute Arterial Occlusion",
+   "sec": "Acute Arterial Occlusion · p486",
+   "qs": [
+    "SURG-C63-001",
+    "SURG-C63-002",
+    "SURG-C63-003",
+    "SURG-C63-004",
+    "SURG-C63-005",
+    "SURG-C63-006",
+    "SURG-C63-007",
+    "SURG-C63-008",
+    "SURG-C63-009",
+    "SURG-C63-010",
+    "SURG-C63-011",
+    "SURG-C63-012",
+    "SURG-C63-013",
+    "SURG-C63-014",
+    "SURG-C63-015"
+   ],
+   "guide": "Acute arterial occlusion is embolic, and the heart — especially in CAD and atrial fibrillation — is the m/c source. Remember the 6 P's: pain, pallor, paresis, pulselessness, paresthesia and poikilothermia, with paresis and pulselessness arriving late. Duplex scan is the IOC; within 6-8 hours choose thrombolysis (contraindicated in bleeding disorders) or Fogarty balloon embolectomy, while late gangrene means amputation. Angiography shows a sudden cut off with no collaterals."
+  },
+  {
+   "id": "SURG-U63-2",
+   "ch": 63,
+   "n": 2,
+   "title": "Reperfusion Injury",
+   "sec": "Reperfusion Injury · p486",
+   "qs": [
+    "SURG-C63-016",
+    "SURG-C63-017",
+    "SURG-C63-018"
+   ],
+   "guide": "The blocked limb first runs anaerobic; once thrombolysis or embolectomy restores flow, free radicals are generated and injure the very tissue you saved — reperfusion injury."
+  },
+  {
+   "id": "SURG-U63-3",
+   "ch": 63,
+   "n": 3,
+   "title": "Compartment Syndrome",
+   "sec": "Compartment Syndrome · p487",
+   "qs": [
+    "SURG-C63-019",
+    "SURG-C63-020",
+    "SURG-C63-021",
+    "SURG-C63-022"
+   ],
+   "guide": "Muscle swells after reperfusion, and pressure above 30 mmHg is compartment syndrome: pain, especially on passive flexion. The answer is fasciotomy."
+  },
+  {
+   "id": "SURG-U63-4",
+   "ch": 63,
+   "n": 4,
+   "title": "Chronic Arterial Occlusion and Claudication",
+   "sec": "Chronic Arterial Occlusion and Claudication · p487",
+   "qs": [
+    "SURG-C63-023",
+    "SURG-C63-024",
+    "SURG-C63-025",
+    "SURG-C63-026",
+    "SURG-C63-027",
+    "SURG-C63-028",
+    "SURG-C63-029",
+    "SURG-C63-030",
+    "SURG-C63-031"
+   ],
+   "guide": "Chronic occlusion is thrombotic and slow, so collaterals keep distal structures alive (distal run off). Intermittent claudication is cramping pain after a fixed claudication distance which shortens as disease progresses, because exercise demand outstrips a blocked artery. Rest pain relieved by hanging the leg out of bed, then gangrene, complete the story."
+  },
+  {
+   "id": "SURG-U63-5",
+   "ch": 63,
+   "n": 5,
+   "title": "Differential Diagnosis of Claudication",
+   "sec": "Differential Diagnosis of Claudication · p487",
+   "qs": [
+    "SURG-C63-032",
+    "SURG-C63-033",
+    "SURG-C63-034",
+    "SURG-C63-035",
+    "SURG-C63-036",
+    "SURG-C63-037"
+   ],
+   "guide": "Distinguish three limps: intermittent claudication (cramping after a set distance, one muscle group below the block, progresses to rest pain), osteoarthritis (maximum pain on the FIRST step, in the affected joint) and neurogenic claudication of lumbar canal stenosis (posture dependent, relieved by bending forwards)."
+  },
+  {
+   "id": "SURG-U63-6",
+   "ch": 63,
+   "n": 6,
+   "title": "Boyd's Classification",
+   "sec": "Boyd's Classification · p488",
+   "qs": [
+    "SURG-C63-038",
+    "SURG-C63-039",
+    "SURG-C63-040",
+    "SURG-C63-041",
+    "SURG-C63-042"
+   ],
+   "guide": "Boyd grades claudication by behaviour: class 1 pain eases as the patient walks on (substance P washout), class 2 pain persists but the patient continues, class 3 pain forces a stop, class 4 pain at rest."
+  },
+  {
+   "id": "SURG-U63-7",
+   "ch": 63,
+   "n": 7,
+   "title": "Symptoms According to Site of Arterial Disease",
+   "sec": "Symptoms According to Site of Arterial Disease · p488",
+   "qs": [
+    "SURG-C63-043",
+    "SURG-C63-044",
+    "SURG-C63-045",
+    "SURG-C63-046",
+    "SURG-C63-047",
+    "SURG-C63-048",
+    "SURG-C63-049",
+    "SURG-C63-050",
+    "SURG-C63-051",
+    "SURG-C63-052",
+    "SURG-C63-053"
+   ],
+   "guide": "Site dictates symptoms. Aortoiliac: earliest buttock claudication with thigh/calf pain, bilateral loss of femoral and distal pulses, aortoiliac bruit and impotence — Leriche syndrome. Iliac: unilateral thigh/calf (sometimes buttock) claudication, iliac bruit, unilateral pulse loss. Femoropopliteal: unilateral calf claudication with a palpable femoral but absent distal pulses. Distal: femoral and popliteal pulses present, ankle pulses gone, calf and foot claudication."
+  },
+  {
+   "id": "SURG-U63-8",
+   "ch": 63,
+   "n": 8,
+   "title": "Arterial Ulcer and ABPI",
+   "sec": "Arterial Ulcer and ABPI · p488",
+   "qs": [
+    "SURG-C63-054",
+    "SURG-C63-055",
+    "SURG-C63-056",
+    "SURG-C63-057",
+    "SURG-C63-058",
+    "SURG-C63-059",
+    "SURG-C63-060",
+    "SURG-C63-061",
+    "SURG-C63-062",
+    "SURG-C63-063",
+    "SURG-C63-064"
+   ],
+   "guide": "The arterial ulcer is punched out with loss of pulsation and muscle mass, shiny hairless skin — but sensations are intact. Duplex is the IOC; ABPI (max ankle SBP ÷ max brachial SBP) reads 0.9-1.4 normal, <0.9 claudication and <0.4 chronic limb threatening ischemia with rest pain ± ulceration demanding urgent revascularization."
+  },
+  {
+   "id": "SURG-U63-9",
+   "ch": 63,
+   "n": 9,
+   "title": "ABPI Interpretation, TBI and DSA",
+   "sec": "ABPI Interpretation, TBI and DSA · p489",
+   "qs": [
+    "SURG-C63-065",
+    "SURG-C63-066",
+    "SURG-C63-067",
+    "SURG-C63-068",
+    "SURG-C63-069",
+    "SURG-C63-070",
+    "SURG-C63-071",
+    "SURG-C63-072",
+    "SURG-C63-073",
+    "SURG-C63-074",
+    "SURG-C63-075",
+    "SURG-C63-076"
+   ],
+   "guide": "ABPI subtleties: a >20% fall after exercise means arterial disease, <0.5 doubles the chance of deterioration, a steadily falling index warns of imminent limb loss, and every 0.1 drop adds 10% cardiac mortality — while >1.4 means falsely stiff vessels in diabetes, calcification or chronic renal failure. Digital arteries resist sclerosis, so TBI (significant if <0.6) plus ABPI is reliable in diabetics. DSA gives dynamic flow but risks bleeding, thrombosis, aneurysm, dissection and renal dysfunction, so it is done only when intervention is planned."
+  },
+  {
+   "id": "SURG-U63-10",
+   "ch": 63,
+   "n": 10,
+   "title": "Buerger's Disease versus Atherosclerosis",
+   "sec": "Buerger's Disease versus Atherosclerosis · p489",
+   "qs": [
+    "SURG-C63-077",
+    "SURG-C63-078",
+    "SURG-C63-079",
+    "SURG-C63-080",
+    "SURG-C63-081",
+    "SURG-C63-082",
+    "SURG-C63-083",
+    "SURG-C63-084",
+    "SURG-C63-085",
+    "SURG-C63-086",
+    "SURG-C63-087",
+    "SURG-C63-088",
+    "SURG-C63-089",
+    "SURG-C63-090",
+    "SURG-C63-091",
+    "SURG-C63-092"
+   ],
+   "guide": "Buerger's (thromboangitis obliterans) versus atherosclerosis: M>>F vs M=F; 3rd-4th decade vs 5th; smoking alone vs stress/smoking/alcohol/type A/dyslipidemia; both LL>UL; Buerger's hits arteries (thrombosis), veins (thrombophlebitis) and nerves (neuropathy) while atherosclerosis hits arteries alone; Buerger's spreads distal→proximal through small-to-medium vessels, atherosclerosis proximal→distal through medium-to-large ones."
+  },
+  {
+   "id": "SURG-U63-11",
+   "ch": 63,
+   "n": 11,
+   "title": "Management of Buerger's Disease",
+   "sec": "Management of Buerger's Disease · p490",
+   "qs": [
+    "SURG-C63-093",
+    "SURG-C63-094",
+    "SURG-C63-095",
+    "SURG-C63-096",
+    "SURG-C63-097",
+    "SURG-C63-098",
+    "SURG-C63-099",
+    "SURG-C63-100",
+    "SURG-C63-101"
+   ],
+   "guide": "Stop the cigarettes — that is the treatment of Buerger's disease. Add pentoxyphylline to cut viscosity, conservative amputations and lumbar sympathectomy for rest pain, preserving the L1 ganglion on one side in bilateral cases to avoid impotence and remembering that contralateral cutaneous vasodilation can precipitate rest pain. Angioplasty and grafting fail because the distal target vessels are absent or too narrow; angiography shows corkscrew collaterals."
+  },
+  {
+   "id": "SURG-U63-12",
+   "ch": 63,
+   "n": 12,
+   "title": "Management of Atherosclerosis: Angioplasty and Grafting",
+   "sec": "Management of Atherosclerosis: Angioplasty and Grafting · p490",
+   "qs": [
+    "SURG-C63-102",
+    "SURG-C63-103",
+    "SURG-C63-104",
+    "SURG-C63-105",
+    "SURG-C63-106",
+    "SURG-C63-107",
+    "SURG-C63-108",
+    "SURG-C63-109",
+    "SURG-C63-110",
+    "SURG-C63-111",
+    "SURG-C63-112"
+   ],
+   "guide": "For atherosclerosis, endovascular stenting comes first (balloon inflated 30 seconds, better above the knee than below, risking failure, hematoma, bleeding and thrombosis), with bypass grafting when it fails or is contraindicated. Leriche syndrome needs an aorto-bifemoral Dacron graft; infra-inguinal disease takes aorto-femoral grafting for an iliac block or ilio-popliteal for a femoral block, with a reversed saphenous vein the best natural and PTFE the best synthetic conduit."
+  },
+  {
+   "id": "SURG-U63-13",
+   "ch": 63,
+   "n": 13,
+   "title": "Gangrene",
+   "sec": "Gangrene · p491",
+   "qs": [
+    "SURG-C63-113",
+    "SURG-C63-114",
+    "SURG-C63-115",
+    "SURG-C63-116",
+    "SURG-C63-117",
+    "SURG-C63-118",
+    "SURG-C63-119",
+    "SURG-C63-120",
+    "SURG-C63-121",
+    "SURG-C63-122"
+   ],
+   "guide": "Gangrene is macroscopic and microscopic tissue death. Dry gangrene desiccates as flow slows, giving a good line of demarcation and a conical stump when bone is involved; wet gangrene follows venous blockade or superadded infection, so the line of demarcation is poor and creeps proximally. That line — living meets dead — is lined by granulation tissue and is hyperaesthetic."
+  },
+  {
+   "id": "SURG-U63-14",
+   "ch": 63,
+   "n": 14,
+   "title": "Amputation: Indications and Levels",
+   "sec": "Amputation: Indications and Levels · p491",
+   "qs": [
+    "SURG-C63-123",
+    "SURG-C63-124",
+    "SURG-C63-125",
+    "SURG-C63-126",
+    "SURG-C63-127",
+    "SURG-C63-128"
+   ],
+   "guide": "Indications for amputation follow 'dead, deadly, damn nuisance': gangrene (dead), gas gangrene and soft tissue sarcoma (deadly) and contractures (damn nuisance). Diabetic feet get local digit amputation, but MTP joint involvement calls for ray excision."
+  },
+  {
+   "id": "SURG-U63-15",
+   "ch": 63,
+   "n": 15,
+   "title": "Amputation Levels, Stump and Complications",
+   "sec": "Amputation Levels, Stump and Complications · p492",
+   "qs": [
+    "SURG-C63-129",
+    "SURG-C63-130",
+    "SURG-C63-131",
+    "SURG-C63-132",
+    "SURG-C63-133",
+    "SURG-C63-134",
+    "SURG-C63-135",
+    "SURG-C63-136",
+    "SURG-C63-137",
+    "SURG-C63-138"
+   ],
+   "guide": "Choose the level: transmetatarsal for several affected toes, below knee for the best chance of walking (it preserves the knee), above knee when healing matters most. A below knee stump must be at least 8 cm (ideally 10-12 cm), usually a long posterior flap marked 10 cm below the tibial tuberosity, or a skew flap; an above knee stump at least 20 cm. Early complications are hemorrhage, infection, flap necrosis and DVT; late ones are pain and phantom limb."
+  },
+  {
+   "id": "SURG-U63-16",
+   "ch": 63,
+   "n": 16,
+   "title": "Raynaud's Phenomenon",
+   "sec": "Raynaud's Phenomenon · p492",
+   "qs": [
+    "SURG-C63-139",
+    "SURG-C63-140",
+    "SURG-C63-141",
+    "SURG-C63-142",
+    "SURG-C63-143",
+    "SURG-C63-144"
+   ],
+   "guide": "Raynaud's is episodic vasospasm of the digital vessels in three phases: arterial plus venous spasm turns the hand WHITE, then the artery relaxes while the vein stays in spasm making it BLUE and painful, then everything relaxes and the hand goes RED."
+  },
+  {
+   "id": "SURG-U63-17",
+   "ch": 63,
+   "n": 17,
+   "title": "Primary versus Secondary Raynaud's",
+   "sec": "Primary versus Secondary Raynaud's · p493",
+   "qs": [
+    "SURG-C63-145",
+    "SURG-C63-146",
+    "SURG-C63-147",
+    "SURG-C63-148",
+    "SURG-C63-149",
+    "SURG-C63-150",
+    "SURG-C63-151",
+    "SURG-C63-152",
+    "SURG-C63-153",
+    "SURG-C63-154",
+    "SURG-C63-155"
+   ],
+   "guide": "Primary Raynaud's is common, has no AIRD, no ANA, no PUC microangiopathy, a positive family history, rarely needs drugs and rarely complicates. Secondary Raynaud's inverts every one of those. Cold, vibrating tools and heavy machinery precipitate attacks; calcium channel blockers are the DOC."
+  },
+  {
+   "id": "SURG-U63-18",
+   "ch": 63,
+   "n": 18,
+   "title": "Acrocyanosis and Subclavian Steal Syndrome",
+   "sec": "Acrocyanosis and Subclavian Steal Syndrome · p493",
+   "qs": [
+    "SURG-C63-156",
+    "SURG-C63-157",
+    "SURG-C63-158",
+    "SURG-C63-159",
+    "SURG-C63-160",
+    "SURG-C63-161",
+    "SURG-C63-162",
+    "SURG-C63-163",
+    "SURG-C63-164",
+    "SURG-C63-165"
+   ],
+   "guide": "Acrocyanosis is the differential — female, painless, NOT episodic, with mottled cyanosis followed by paraesthesia. Subclavian steal syndrome is stenosis of the first part of the subclavian artery (thrombus or thoracic outlet obstruction): on arm exercise, blood flows retrogradely down the vertebral from the basilar, starving the brain and causing syncopal attacks. Treat with angioplasty."
+  }
+ ]
+}
