@@ -1,0 +1,1876 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C27-001",
+   "sec": "Types of Bowel Obstruction",
+   "page": 184,
+   "q": "Bowel obstruction is broadly classified into:",
+   "opts": [
+    "Dynamic and adynamic obstruction",
+    "Acute and chronic only",
+    "Simple and complicated only",
+    "High and low only"
+   ],
+   "ans": 0,
+   "exp": "Types of bowel obstruction: dynamic (mechanical) and adynamic. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-002",
+   "sec": "Types of Bowel Obstruction",
+   "page": 184,
+   "q": "Dynamic bowel obstruction is associated with:",
+   "opts": [
+    "Mechanical obstruction and increased bowel contractions",
+    "No mechanical obstruction",
+    "Absent bowel contractions",
+    "A silent abdomen"
+   ],
+   "ans": 0,
+   "exp": "Dynamic: mechanical obstruction (+); bowel contraction (+). (Book p184)"
+  },
+  {
+   "id": "SURG-C27-003",
+   "sec": "Types of Bowel Obstruction",
+   "page": 184,
+   "q": "Hyperdynamic bowel sounds are heard in __________ obstruction.",
+   "opts": [
+    "Dynamic",
+    "Adynamic",
+    "Paralytic ileus",
+    "Both types"
+   ],
+   "ans": 0,
+   "exp": "Dynamic: hyperdynamic sounds (+). (Book p184)"
+  },
+  {
+   "id": "SURG-C27-004",
+   "sec": "Types of Bowel Obstruction",
+   "page": 184,
+   "q": "Adynamic obstruction is characterised by:",
+   "opts": [
+    "No mechanical obstruction and a silent abdomen",
+    "Mechanical obstruction with hyperdynamic sounds",
+    "Increased bowel contractions",
+    "Visible peristalsis"
+   ],
+   "ans": 0,
+   "exp": "Adynamic: no mechanical obstruction; bowel contraction (-); no hyperdynamic sounds; silent abdomen (+). (Book p184)"
+  },
+  {
+   "id": "SURG-C27-005",
+   "sec": "Types of Bowel Obstruction",
+   "page": 184,
+   "q": "Dynamic obstruction, if untreated, may progress to:",
+   "opts": [
+    "Perforation/strangulation",
+    "Spontaneous resolution always",
+    "Adynamic obstruction",
+    "Malabsorption"
+   ],
+   "ans": 0,
+   "exp": "Dynamic obstruction → perforation/strangulation. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-006",
+   "sec": "Clinical Features of Bowel Obstruction",
+   "page": 184,
+   "q": "Clinical features common to both types of bowel obstruction include all EXCEPT:",
+   "opts": [
+    "Haematuria",
+    "Abdominal pain",
+    "Distension",
+    "Non-passage of flatus and faeces"
+   ],
+   "ans": 0,
+   "exp": "Common to both types: abdominal pain; distension; obstruction (non-passage of flatus + faeces). (Book p184)"
+  },
+  {
+   "id": "SURG-C27-007",
+   "sec": "Clinical Features of Bowel Obstruction",
+   "page": 184,
+   "q": "Distension in bowel obstruction is most commonly due to:",
+   "opts": [
+    "Swallowed air",
+    "Secretion of fluid",
+    "Bacterial fermentation",
+    "Ascites"
+   ],
+   "ans": 0,
+   "exp": "Distension (m/c d/t swallowed air). (Book p184)"
+  },
+  {
+   "id": "SURG-C27-008",
+   "sec": "Clinical Features of Bowel Obstruction",
+   "page": 184,
+   "q": "Obstruction is defined clinically as:",
+   "opts": [
+    "Non-passage of flatus and faeces",
+    "Non-passage of urine",
+    "Vomiting alone",
+    "Abdominal pain alone"
+   ],
+   "ans": 0,
+   "exp": "Obstruction: non-passage of flatus + faeces. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-009",
+   "sec": "Clinical Features of Bowel Obstruction",
+   "page": 184,
+   "q": "The order of appearance of symptoms in bowel obstruction:",
+   "opts": [
+    "Varies with the site of obstruction",
+    "Is always the same",
+    "Always begins with distension",
+    "Always begins with obstipation"
+   ],
+   "ans": 0,
+   "exp": "Order of appearance varies with the site of obstruction. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-010",
+   "sec": "Clinical Features of Bowel Obstruction",
+   "page": 184,
+   "q": "An obstruction in the lower GI tract presents first with:",
+   "opts": [
+    "Distension and obstipation",
+    "Vomiting",
+    "Haematemesis",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "Obstruction in lower GI tract → presents with distension/obstipation first. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-011",
+   "sec": "Investigations in Bowel Obstruction",
+   "page": 184,
+   "q": "The initial investigation in suspected bowel obstruction is:",
+   "opts": [
+    "X-ray abdomen",
+    "CECT abdomen",
+    "USG abdomen",
+    "MRI abdomen"
+   ],
+   "ans": 0,
+   "exp": "Initial investigation: X-ray abdomen. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-012",
+   "sec": "Investigations in Bowel Obstruction",
+   "page": 184,
+   "q": "After the X-ray, the investigation of choice in adults with suspected bowel obstruction is:",
+   "opts": [
+    "CECT abdomen",
+    "USG abdomen",
+    "Barium meal",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Adults: CECT abdomen. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-013",
+   "sec": "Investigations in Bowel Obstruction",
+   "page": 184,
+   "q": "After the X-ray, the investigation of choice in children with suspected bowel obstruction is:",
+   "opts": [
+    "USG abdomen",
+    "CECT abdomen",
+    "Barium enema",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Children: USG abdomen. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-014",
+   "sec": "Investigations in Bowel Obstruction",
+   "page": 184,
+   "q": "On an erect X-ray abdomen, the finding suggestive of obstruction is:",
+   "opts": [
+    ">3 air-fluid levels",
+    "A single air-fluid level",
+    "Free gas under the diaphragm",
+    "Calcification"
+   ],
+   "ans": 0,
+   "exp": "Erect X-ray: >3 air-fluid levels s/o obstruction. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-015",
+   "sec": "Investigations in Bowel Obstruction",
+   "page": 184,
+   "q": "A supine X-ray abdomen in bowel obstruction is used to:",
+   "opts": [
+    "Note the site of obstruction",
+    "Detect free gas",
+    "Assess liver size",
+    "Look for renal stones"
+   ],
+   "ans": 0,
+   "exp": "Supine X-ray: used to note the site of obstruction. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-016",
+   "sec": "Investigations in Bowel Obstruction",
+   "page": 184,
+   "q": "On a supine X-ray, the bowel proximal to the obstruction is __________ and the bowel distal to it is __________.",
+   "opts": [
+    "Dilated; collapsed",
+    "Collapsed; dilated",
+    "Dilated; dilated",
+    "Collapsed; collapsed"
+   ],
+   "ans": 0,
+   "exp": "Supine X-ray: proximal dilated, distal collapsed. (Book p184)"
+  },
+  {
+   "id": "SURG-C27-017",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "page": 185,
+   "q": "On an X-ray abdomen, the jejunum is characterised by:",
+   "opts": [
+    "Complete valvulae conniventes giving a feathery appearance",
+    "Incomplete valvulae conniventes",
+    "Peripheral arrangement",
+    "Incomplete haustrations"
+   ],
+   "ans": 0,
+   "exp": "Jejunum: complete valvulae conniventes - feathery appearance. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-018",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "page": 185,
+   "q": "The ileum shows __________ valvulae conniventes.",
+   "opts": [
+    "Incomplete",
+    "Complete",
+    "No",
+    "Prominent and complete"
+   ],
+   "ans": 0,
+   "exp": "Complete volvulae in the jejunum; incomplete volvulae in the ileum. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-019",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "page": 185,
+   "q": "On an X-ray abdomen, the large bowel is:",
+   "opts": [
+    "Peripherally arranged with incomplete haustrations",
+    "Centrally placed with complete valvulae",
+    "Centrally placed with haustrations",
+    "Always collapsed"
+   ],
+   "ans": 0,
+   "exp": "Large bowel: peripherally arranged; incomplete haustrations. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-020",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "page": 185,
+   "q": "The critical diameter of the small intestine is:",
+   "opts": [
+    "3 cm",
+    "6 cm",
+    "9 cm",
+    "12 cm"
+   ],
+   "ans": 0,
+   "exp": "Critical diameters: small intestine - 3 cm. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-021",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "page": 185,
+   "q": "The critical diameter of the large intestine is:",
+   "opts": [
+    "6 cm",
+    "3 cm",
+    "9 cm",
+    "12 cm"
+   ],
+   "ans": 0,
+   "exp": "Critical diameters: large intestine - 6 cm. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-022",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "page": 185,
+   "q": "The critical diameter of the caecum is:",
+   "opts": [
+    "9 cm",
+    "3 cm",
+    "6 cm",
+    "15 cm"
+   ],
+   "ans": 0,
+   "exp": "Critical diameters: caecum - 9 cm (impending perforation). (Book p185)"
+  },
+  {
+   "id": "SURG-C27-023",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "page": 185,
+   "q": "A caecal diameter beyond the critical value indicates:",
+   "opts": [
+    "Impending perforation",
+    "Impending obstruction",
+    "A normal variant",
+    "Impending intussusception"
+   ],
+   "ans": 0,
+   "exp": "Caecum 9 cm: impending perforation. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-024",
+   "sec": "Management of Bowel Obstruction",
+   "page": 185,
+   "q": "Initial conservative management of bowel obstruction includes all EXCEPT:",
+   "opts": [
+    "Immediate laparotomy",
+    "Nil per oral",
+    "IV fluids (Ringer's lactate)",
+    "Ryle's tube/NG tube decompression"
+   ],
+   "ans": 0,
+   "exp": "Initial conservative mx: nil per oral; IV fluids (Ringer's lactate); Ryle's tube/NG tube decompression; IV antibiotics; IV painkillers. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-025",
+   "sec": "Management of Bowel Obstruction",
+   "page": 185,
+   "q": "The IV fluid used in the initial management of bowel obstruction is:",
+   "opts": [
+    "Ringer's lactate",
+    "Dextrose 5%",
+    "Normal saline with potassium",
+    "Dextrose saline"
+   ],
+   "ans": 0,
+   "exp": "IV fluids: Ringer's lactate. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-026",
+   "sec": "Management of Bowel Obstruction",
+   "page": 185,
+   "q": "The Ryle's tube/NG tube is used in bowel obstruction for:",
+   "opts": [
+    "Decompression",
+    "Feeding",
+    "Lavage only",
+    "Drug administration"
+   ],
+   "ans": 0,
+   "exp": "Ryle tube/NG tube → decompression. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-027",
+   "sec": "Management of Bowel Obstruction",
+   "page": 185,
+   "q": "Intravenous antibiotics in bowel obstruction should cover:",
+   "opts": [
+    "Aerobes, anaerobes and gram negative organisms",
+    "Gram positives only",
+    "Fungi only",
+    "Anaerobes only"
+   ],
+   "ans": 0,
+   "exp": "IV antibiotics: aerobic, anaerobic and gram negative cover. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-028",
+   "sec": "Management of Bowel Obstruction",
+   "page": 185,
+   "q": "On imaging, if the caecum is visualized and is collapsed, the obstruction is:",
+   "opts": [
+    "Small intestinal",
+    "Large intestinal",
+    "Gastric",
+    "Oesophageal"
+   ],
+   "ans": 0,
+   "exp": "Caecum visualized first: collapsed → small intestinal obstruction. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-029",
+   "sec": "Management of Bowel Obstruction",
+   "page": 185,
+   "q": "On imaging, if the caecum is visualized and is distended, the obstruction is:",
+   "opts": [
+    "Large intestinal",
+    "Small intestinal",
+    "Gastric",
+    "Oesophageal"
+   ],
+   "ans": 0,
+   "exp": "Caecum visualized first: distended → large intestinal obstruction. (Book p185)"
+  },
+  {
+   "id": "SURG-C27-030",
+   "sec": "Management of Bowel Obstruction",
+   "page": 185,
+   "q": "At surgery, if the bowel is found to be non-viable the treatment is:",
+   "opts": [
+    "Resection and anastomosis (+/- stoma)",
+    "Retain the bowel",
+    "Biopsy and closure",
+    "Bypass only"
+   ],
+   "ans": 0,
+   "exp": "Check for viability: viable - retain; non-viable - resection and anastomosis (± stoma). (Book p185)"
+  },
+  {
+   "id": "SURG-C27-031",
+   "sec": "Viable v/s Non-viable Bowel",
+   "page": 186,
+   "q": "A viable bowel loop with a dark colour:",
+   "opts": [
+    "Becomes lighter on handling",
+    "Remains dark",
+    "Turns black",
+    "Becomes green"
+   ],
+   "ans": 0,
+   "exp": "Viable bowel: dark colour → becomes lighter. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-032",
+   "sec": "Viable v/s Non-viable Bowel",
+   "page": 186,
+   "q": "In non-viable bowel, the dark colour:",
+   "opts": [
+    "Remains dark",
+    "Becomes lighter",
+    "Turns pink",
+    "Disappears"
+   ],
+   "ans": 0,
+   "exp": "Non-viable bowel: dark colour remains. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-033",
+   "sec": "Viable v/s Non-viable Bowel",
+   "page": 186,
+   "q": "Visible mesenteric artery pulsations indicate:",
+   "opts": [
+    "Viable bowel",
+    "Non-viable bowel",
+    "Strangulated bowel",
+    "Perforation"
+   ],
+   "ans": 0,
+   "exp": "Viable: visible mesenteric artery pulsations; non-viable: pulsations (-). (Book p186)"
+  },
+  {
+   "id": "SURG-C27-034",
+   "sec": "Viable v/s Non-viable Bowel",
+   "page": 186,
+   "q": "The general appearance of viable bowel is:",
+   "opts": [
+    "Shiny and firm",
+    "Dull and lustreless",
+    "Flabby and thin",
+    "Friabile"
+   ],
+   "ans": 0,
+   "exp": "Viable: shiny; firm. Non-viable: dull and lustreless; flabby, thin and friable. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-035",
+   "sec": "Viable v/s Non-viable Bowel",
+   "page": 186,
+   "q": "Peristalsis may be observed in:",
+   "opts": [
+    "Viable bowel",
+    "Non-viable bowel",
+    "Gangrenous bowel",
+    "Strangulated bowel"
+   ],
+   "ans": 0,
+   "exp": "Viable: peristalsis (may be observed); non-viable: no peristalsis. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-036",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "Duodenal atresia is:",
+   "opts": [
+    "One of the m/c causes of bowel obstruction in neonates",
+    "A cause of obstruction in adults",
+    "Due to malrotation",
+    "Due to volvulus"
+   ],
+   "ans": 0,
+   "exp": "Duodenal atresia: one of the m/c causes of bowel obstruction in neonates. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-037",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "Duodenal atresia is due to:",
+   "opts": [
+    "Non-canalisation of the duodenum",
+    "Failure of rotation",
+    "Persistence of the vitelline duct",
+    "Annular pancreas"
+   ],
+   "ans": 0,
+   "exp": "Duodenal atresia: d/t non-canalisation of duodenum. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-038",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "Duodenal atresia is most commonly associated with:",
+   "opts": [
+    "Down's syndrome",
+    "Turner's syndrome",
+    "Edward's syndrome",
+    "Klinefelter's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Duodenal atresia: m/c in Down's syndrome (mothers → polyhydramnios). (Book p186)"
+  },
+  {
+   "id": "SURG-C27-039",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "The mother of a fetus with duodenal atresia often has:",
+   "opts": [
+    "Polyhydramnios",
+    "Oligohydramnios",
+    "Pre-eclampsia",
+    "Gestational diabetes"
+   ],
+   "ans": 0,
+   "exp": "Mothers → polyhydramnios. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-040",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "The m/c type of duodenal atresia is:",
+   "opts": [
+    "Type I",
+    "Type II",
+    "Type III",
+    "Type IV"
+   ],
+   "ans": 0,
+   "exp": "Three types of duodenal atresia: type I m/c. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-041",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "The vomiting in duodenal atresia is present:",
+   "opts": [
+    "Since birth and is bilious",
+    "After a few weeks and is non-bilious",
+    "Only after feeds are stopped",
+    "Only on lying down"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: vomiting since birth; bilious vomiting. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-042",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "The treatment of duodenal atresia is:",
+   "opts": [
+    "Diamond duodeno-duodenostomy",
+    "Ramstedt's pyloromyotomy",
+    "Duodenojejunostomy",
+    "Gastrojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Mx: diamond duodeno-duodenostomy. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-043",
+   "sec": "Duodenal Atresia",
+   "page": 186,
+   "q": "The double bubble sign is also seen in:",
+   "opts": [
+    "Annular pancreas",
+    "Malrotation",
+    "Hirschsprung's disease",
+    "Meconium ileus"
+   ],
+   "ans": 0,
+   "exp": "Note: double bubble sign also seen in annular pancreas. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-044",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "page": 186,
+   "q": "In congenital hypertrophic pyloric stenosis the child is:",
+   "opts": [
+    "Normal at birth with vomiting after a few weeks",
+    "Symptomatic from birth",
+    "Born with bile stained vomiting",
+    "Born with abdominal distension"
+   ],
+   "ans": 0,
+   "exp": "CHPS: normal at birth; non-bilious projectile vomiting after a few weeks. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-045",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "page": 186,
+   "q": "The vomiting of congenital hypertrophic pyloric stenosis is:",
+   "opts": [
+    "Non-bilious and projectile",
+    "Bilious and projectile",
+    "Bilious and non-projectile",
+    "Effortless"
+   ],
+   "ans": 0,
+   "exp": "CHPS: non-bilious, projectile vomiting after a few weeks. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-046",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "page": 186,
+   "q": "Congenital hypertrophic pyloric stenosis classically affects the:",
+   "opts": [
+    "First born male child",
+    "First born female child",
+    "Preterm female child",
+    "Adolescent"
+   ],
+   "ans": 0,
+   "exp": "CHPS: first born male child. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-047",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "page": 186,
+   "q": "The investigation of choice in congenital hypertrophic pyloric stenosis is:",
+   "opts": [
+    "USG abdomen",
+    "X-ray abdomen",
+    "CECT abdomen",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "CHPS - IOC: USG abdomen. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-048",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "page": 186,
+   "q": "The investigation of choice in duodenal atresia is:",
+   "opts": [
+    "X-ray abdomen (double bubble sign)",
+    "USG abdomen",
+    "CECT abdomen",
+    "Contrast enema"
+   ],
+   "ans": 0,
+   "exp": "Duodenal atresia - IOC: X-ray (double bubble). (Book p186)"
+  },
+  {
+   "id": "SURG-C27-049",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "page": 186,
+   "q": "The treatment of congenital hypertrophic pyloric stenosis is:",
+   "opts": [
+    "Ramstedt's pyloromyotomy",
+    "Diamond duodeno-duodenostomy",
+    "Pyloroplasty",
+    "Antrectomy"
+   ],
+   "ans": 0,
+   "exp": "Mx of CHPS: Ramstedt pyloromyotomy. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-050",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "page": 186,
+   "q": "The single bubble sign on X-ray is seen in:",
+   "opts": [
+    "Congenital hypertrophic pyloric stenosis",
+    "Duodenal atresia",
+    "Jejunal atresia",
+    "Annular pancreas"
+   ],
+   "ans": 0,
+   "exp": "Note: single-bubble sign seen in CHPS. (Book p186)"
+  },
+  {
+   "id": "SURG-C27-051",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "page": 187,
+   "q": "Jejunal atresia presents with:",
+   "opts": [
+    "Bilious vomiting",
+    "Non-bilious projectile vomiting",
+    "Haematemesis",
+    "Chronic diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Jejunal atresia - clinical features: bilious vomiting. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-052",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "page": 187,
+   "q": "The radiological sign seen in jejunal atresia is the:",
+   "opts": [
+    "Triple-bubble sign",
+    "Double-bubble sign",
+    "Single-bubble sign",
+    "Coffee bean sign"
+   ],
+   "ans": 0,
+   "exp": "Jejunal atresia: triple-bubble sign. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-053",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "page": 187,
+   "q": "Type I intestinal atresia is:",
+   "opts": [
+    "A mucosal web or diaphragm",
+    "An atretic cord with intact mesentery",
+    "Blind ends with a V-shaped mesenteric gap",
+    "Multiple atresias"
+   ],
+   "ans": 0,
+   "exp": "Type I: mucosal web or diaphragm. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-054",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "page": 187,
+   "q": "Type II intestinal atresia is:",
+   "opts": [
+    "An atretic cord with an intact mesentery",
+    "A mucosal web",
+    "Multiple atresias",
+    "A large mesenteric gap"
+   ],
+   "ans": 0,
+   "exp": "Type II: atretic cord; intact mesentery. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-055",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "page": 187,
+   "q": "Type IIIa intestinal atresia consists of:",
+   "opts": [
+    "Blind ends of bowel with a V-shaped mesenteric gap",
+    "A large mesenteric gap with an apple peel deformity",
+    "Multiple atresias",
+    "A mucosal web"
+   ],
+   "ans": 0,
+   "exp": "Type IIIa: blind ends of bowel; V-shaped mesenteric gap. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-056",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "page": 187,
+   "q": "The apple peel or Christmas tree deformity is seen in:",
+   "opts": [
+    "Type IIIb intestinal atresia",
+    "Type I atresia",
+    "Type II atresia",
+    "Type IV atresia"
+   ],
+   "ans": 0,
+   "exp": "Type IIIb: large mesenteric gap - apple peel or Christmas tree deformity. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-057",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "page": 187,
+   "q": "Multiple atresias with a string of sausage appearance is:",
+   "opts": [
+    "Type IV intestinal atresia",
+    "Type IIIa atresia",
+    "Type II atresia",
+    "Type I atresia"
+   ],
+   "ans": 0,
+   "exp": "Type IV: multiple atresia or string of sausage appearance. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-058",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "Intussusception is:",
+   "opts": [
+    "Telescoping of one bowel loop into another",
+    "Twisting of the bowel around its vessels",
+    "A congenital web in the bowel",
+    "An outpouching of the bowel wall"
+   ],
+   "ans": 0,
+   "exp": "Intussusception: telescoping of one bowel loop into the other. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-059",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "The intussuscipiens is the:",
+   "opts": [
+    "Receiving portion of bowel",
+    "Telescoping portion of bowel",
+    "Lead point",
+    "Meckel's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Intussuscipiens: receiving portion; intussusceptum: telescoping portion. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-060",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "The intussusceptum is the:",
+   "opts": [
+    "Telescoping portion of bowel",
+    "Receiving portion of bowel",
+    "Meckel's diverticulum",
+    "Pathological lead point"
+   ],
+   "ans": 0,
+   "exp": "Intussusceptum: telescoping portion. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-061",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "The part of the intussusception that is most prone to ischemia is the:",
+   "opts": [
+    "Head",
+    "Neck",
+    "Tail",
+    "Apex of the intussuscipiens"
+   ],
+   "ans": 0,
+   "exp": "Head: m/c site of ischemia; neck: narrowest part. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-062",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "The narrowest part of an intussusception is the:",
+   "opts": [
+    "Neck",
+    "Head",
+    "Tail",
+    "Base"
+   ],
+   "ans": 0,
+   "exp": "Neck: narrowest part. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-063",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "Primary intussusception occurs in:",
+   "opts": [
+    "Children and is associated with hypertrophy of Peyer's patches",
+    "Adults with a polyp",
+    "Adults with cancer",
+    "Patients with Meckel's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Primary: children; hypertrophy of Peyer's patches. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-064",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "The m/c type of primary intussusception is:",
+   "opts": [
+    "Ileocolic (ileum → colon)",
+    "Colo-colic",
+    "Ileo-ileal",
+    "Jejuno-jejunal"
+   ],
+   "ans": 0,
+   "exp": "Primary: ileocolic (ileum → colon). (Book p187)"
+  },
+  {
+   "id": "SURG-C27-065",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "Secondary intussusception is due to:",
+   "opts": [
+    "A pathological lead point",
+    "Hypertrophy of Peyer's patches",
+    "Viral infection",
+    "Congenital bands"
+   ],
+   "ans": 0,
+   "exp": "Secondary: 2° to a pathological lead point. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-066",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "The m/c pathological lead point for secondary intussusception is a:",
+   "opts": [
+    "Polyp",
+    "Cancer",
+    "Meckel's diverticulum",
+    "Duplication cyst"
+   ],
+   "ans": 0,
+   "exp": "Pathological lead point: polyp (m/c); cancer; Meckel's diverticulum. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-067",
+   "sec": "Intussusception: Definition and Types",
+   "page": 187,
+   "q": "Colo-colic intussusception is:",
+   "opts": [
+    "Colon → colon",
+    "Ileum → colon",
+    "Jejunum → ileum",
+    "Ileum → ileum"
+   ],
+   "ans": 0,
+   "exp": "Colo-colic: colon → colon. (Book p187)"
+  },
+  {
+   "id": "SURG-C27-068",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "In children with intussusception, pain typically causes:",
+   "opts": [
+    "Drawing up of the legs",
+    "Extension of the legs",
+    "Back arching",
+    "Neck stiffness"
+   ],
+   "ans": 0,
+   "exp": "In children: drawing up of legs d/t pain. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-069",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "Red currant jelly stools consist of:",
+   "opts": [
+    "Blood and mucus without fecal matter",
+    "Pure blood",
+    "Mucus only",
+    "Altered blood with stool"
+   ],
+   "ans": 0,
+   "exp": "Red currant jelly stools: blood + mucus (no fecal matter). (Book p188)"
+  },
+  {
+   "id": "SURG-C27-070",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "Sign of Dance in intussusception refers to:",
+   "opts": [
+    "A sausage-shaped mass in the right lumbar region with an empty right iliac fossa",
+    "A mass in the left iliac fossa",
+    "Visible peristalsis",
+    "A tympanic swelling over the caecum"
+   ],
+   "ans": 0,
+   "exp": "Sign of Dance: sausage-shaped mass in right lumbar region with empty RIF. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-071",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "The investigation of choice for intussusception in children is:",
+   "opts": [
+    "USG abdomen",
+    "CECT abdomen",
+    "X-ray abdomen",
+    "Barium meal follow through"
+   ],
+   "ans": 0,
+   "exp": "USG abdomen: IOC in children. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-072",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "The target/donut sign on ultrasound in intussusception represents:",
+   "opts": [
+    "One bowel loop seen inside another",
+    "The mesenteric vessels inside the bowel",
+    "A collection of fluid",
+    "An enlarged lymph node"
+   ],
+   "ans": 0,
+   "exp": "Target/donut sign: one bowel loop seen inside another. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-073",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "The pseudokidney sign on ultrasound in intussusception is due to:",
+   "opts": [
+    "Mesenteric vessels seen inside the bowel",
+    "One loop inside another",
+    "A thickened bowel wall",
+    "Free fluid in the abdomen"
+   ],
+   "ans": 0,
+   "exp": "Pseudokidney sign: mesenteric vessels seen inside the bowel. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-074",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "A contrast enema in intussusception is:",
+   "opts": [
+    "Both diagnostic and therapeutic",
+    "Diagnostic only",
+    "Therapeutic only",
+    "Contraindicated in all cases"
+   ],
+   "ans": 0,
+   "exp": "Contrast enema: both diagnostic and therapeutic. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-075",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "The sign of intussusception seen on a contrast enema is the:",
+   "opts": [
+    "Claw/pincer sign",
+    "Target sign",
+    "Pseudokidney sign",
+    "Coffee bean sign"
+   ],
+   "ans": 0,
+   "exp": "Contrast enema: claw/pincer sign. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-076",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "Contraindications to a contrast enema in intussusception include all EXCEPT:",
+   "opts": [
+    "A first episode without complications",
+    "Recurrent intussusception",
+    "A pathological lead point",
+    "Strangulation or perforation"
+   ],
+   "ans": 0,
+   "exp": "Contraindications: recurrent intussusception; pathological lead point; strangulation; perforation. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-077",
+   "sec": "Intussusception: Clinical Features and Investigations",
+   "page": 188,
+   "q": "The investigation of choice for intussusception in adults is:",
+   "opts": [
+    "CECT abdomen",
+    "USG abdomen",
+    "X-ray abdomen",
+    "Contrast enema"
+   ],
+   "ans": 0,
+   "exp": "CECT abdomen: IOC in adults. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-078",
+   "sec": "Management of Intussusception",
+   "page": 188,
+   "q": "During surgery for intussusception, reduction is done by:",
+   "opts": [
+    "Pushing, never pulling",
+    "Pulling, never pushing",
+    "Both pushing and pulling",
+    "Resection without reduction"
+   ],
+   "ans": 0,
+   "exp": "Reduction of intussusception: always pushed, not pulled. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-079",
+   "sec": "Management of Intussusception",
+   "page": 188,
+   "q": "Resection and anastomosis is required in intussusception when there is:",
+   "opts": [
+    "Perforation, strangulation or a pathological lead point",
+    "A first episode in a child",
+    "Red currant jelly stools",
+    "A positive Donut sign"
+   ],
+   "ans": 0,
+   "exp": "If perforation/strangulation/pathological lead point (+): resection and anastomosis. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-080",
+   "sec": "Sigmoid Volvulus",
+   "page": 188,
+   "q": "Volvulus is:",
+   "opts": [
+    "Twisting of a bowel loop around its vessels",
+    "Telescoping of one loop into another",
+    "A congenital web",
+    "An adhesion band"
+   ],
+   "ans": 0,
+   "exp": "Volvulus: twisting of a bowel loop around its vessels. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-081",
+   "sec": "Sigmoid Volvulus",
+   "page": 188,
+   "q": "Predisposing factors for sigmoid volvulus include all EXCEPT:",
+   "opts": [
+    "A short broad mesentery",
+    "A long and narrow mesentery",
+    "A redundant (long) sigmoid",
+    "A loaded constipated sigmoid"
+   ],
+   "ans": 0,
+   "exp": "Predisposing factors: long and narrow mesentery; redundant sigmoid (↑ length); loaded sigmoid (constipated). (Book p188)"
+  },
+  {
+   "id": "SURG-C27-082",
+   "sec": "Sigmoid Volvulus",
+   "page": 188,
+   "q": "Sigmoid volvulus is more common in:",
+   "opts": [
+    "Patients on anti-psychotic medications and institutionalized patients",
+    "Young athletes",
+    "Pregnant women",
+    "Children under five"
+   ],
+   "ans": 0,
+   "exp": "Predisposing factors: patient on anti-psychotic medications; institutionalized patients. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-083",
+   "sec": "Sigmoid Volvulus",
+   "page": 188,
+   "q": "Sigmoid volvulus is an example of:",
+   "opts": [
+    "Closed loop obstruction",
+    "Open loop obstruction",
+    "Partial obstruction",
+    "Functional obstruction"
+   ],
+   "ans": 0,
+   "exp": "Sigmoid volvulus: closed loop obstruction. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-084",
+   "sec": "Sigmoid Volvulus",
+   "page": 188,
+   "q": "In sigmoid volvulus the most prominent feature is:",
+   "opts": [
+    "Distension",
+    "Vomiting",
+    "Diarrhoea",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: distension is prominent. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-085",
+   "sec": "Sigmoid Volvulus",
+   "page": 188,
+   "q": "A closed loop obstruction carries:",
+   "opts": [
+    "High chances of strangulation",
+    "No risk of strangulation",
+    "A low risk of perforation",
+    "A good prognosis"
+   ],
+   "ans": 0,
+   "exp": "Closed loop obstruction → high chances of strangulation. (Book p188)"
+  },
+  {
+   "id": "SURG-C27-086",
+   "sec": "Sigmoid Volvulus",
+   "page": 189,
+   "q": "The coffee bean sign on X-ray is seen in:",
+   "opts": [
+    "Sigmoid volvulus",
+    "Caecal volvulus",
+    "Intussusception",
+    "Duodenal atresia"
+   ],
+   "ans": 0,
+   "exp": "Coffee bean sign: seen in sigmoid volvulus. (Book p189)"
+  },
+  {
+   "id": "SURG-C27-087",
+   "sec": "Sigmoid Volvulus",
+   "page": 189,
+   "q": "In sigmoid volvulus, the apex of the distended loop points to the:",
+   "opts": [
+    "Right shoulder",
+    "Left shoulder tip",
+    "Pelvis",
+    "Right iliac fossa"
+   ],
+   "ans": 0,
+   "exp": "Sigmoid volvulus: apex → (R) shoulder. (Book p189)"
+  },
+  {
+   "id": "SURG-C27-088",
+   "sec": "Sigmoid Volvulus",
+   "page": 189,
+   "q": "In caecal volvulus, the apex of the distended loop points to the:",
+   "opts": [
+    "Left shoulder tip",
+    "Right shoulder",
+    "Pelvis",
+    "Left iliac fossa"
+   ],
+   "ans": 0,
+   "exp": "In caecal volvulus: apex → (L) shoulder tip; small intestine distended. (Book p189)"
+  },
+  {
+   "id": "SURG-C27-089",
+   "sec": "Sigmoid Volvulus",
+   "page": 189,
+   "q": "The investigation of choice in sigmoid volvulus is:",
+   "opts": [
+    "CECT abdomen",
+    "X-ray abdomen",
+    "USG abdomen",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "CECT abdomen: IOC in sigmoid volvulus. (Book p189)"
+  },
+  {
+   "id": "SURG-C27-090",
+   "sec": "Sigmoid Volvulus",
+   "page": 189,
+   "q": "The bird's beak or ace of spades appearance in sigmoid volvulus is seen on:",
+   "opts": [
+    "Contrast enema",
+    "X-ray abdomen erect",
+    "CECT abdomen",
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "Contrast enema: bird's beak/ace of spades appearance. (Book p189)"
+  },
+  {
+   "id": "SURG-C27-091",
+   "sec": "Management of Sigmoid Volvulus and Hartmann's Procedure",
+   "page": 189,
+   "q": "A patient with sigmoid volvulus without signs of peritonitis is managed by:",
+   "opts": [
+    "Decompression followed by definitive surgery",
+    "Emergency laparotomy",
+    "Hartmann's procedure",
+    "Conservative management only"
+   ],
+   "ans": 0,
+   "exp": "No c/f of peritonitis → decompression → definitive Sx (sigmoidopexy/sigmoidectomy). (Book p189)"
+  },
+  {
+   "id": "SURG-C27-092",
+   "sec": "Management of Sigmoid Volvulus and Hartmann's Procedure",
+   "page": 189,
+   "q": "Definitive surgery for sigmoid volvulus after decompression is:",
+   "opts": [
+    "Sigmoidopexy or sigmoidectomy",
+    "Right hemicolectomy",
+    "Hartmann's procedure",
+    "Total colectomy"
+   ],
+   "ans": 0,
+   "exp": "Definitive Sx: sigmoidopexy (derotate clockwise) / sigmoidectomy (cut excess sigmoid). (Book p189)"
+  },
+  {
+   "id": "SURG-C27-093",
+   "sec": "Management of Sigmoid Volvulus and Hartmann's Procedure",
+   "page": 189,
+   "q": "During sigmoidopexy for sigmoid volvulus, the loop is de-rotated:",
+   "opts": [
+    "Clockwise",
+    "Anti-clockwise",
+    "Upwards",
+    "Downwards"
+   ],
+   "ans": 0,
+   "exp": "Sigmoidopexy: derotate clockwise. (Book p189)"
+  },
+  {
+   "id": "SURG-C27-094",
+   "sec": "Management of Sigmoid Volvulus and Hartmann's Procedure",
+   "page": 189,
+   "q": "A patient with sigmoid volvulus who has peritonitis, sepsis or perforation needs:",
+   "opts": [
+    "Emergency laparotomy",
+    "Endoscopic decompression",
+    "A contrast enema",
+    "Conservative management"
+   ],
+   "ans": 0,
+   "exp": "Peritonitis/sepsis/perforation (+) → emergency laparotomy. (Book p189)"
+  },
+  {
+   "id": "SURG-C27-095",
+   "sec": "Management of Sigmoid Volvulus and Hartmann's Procedure",
+   "page": 189,
+   "q": "Hartmann's procedure consists of:",
+   "opts": [
+    "Resection of the segment with creation of a stoma (colostomy)",
+    "Resection with primary anastomosis",
+    "A defunctioning ileostomy only",
+    "A total colectomy"
+   ],
+   "ans": 0,
+   "exp": "Hartmann's procedure: creation of stoma (colostomy). (Book p189)"
+  },
+  {
+   "id": "SURG-C27-096",
+   "sec": "Management of Sigmoid Volvulus and Hartmann's Procedure",
+   "page": 189,
+   "q": "After a Hartmann's procedure, re-anastomosis is done:",
+   "opts": [
+    "After 6-8 weeks, once the patient has healed",
+    "After 6 months",
+    "After 1 year",
+    "Within 48 hours"
+   ],
+   "ans": 0,
+   "exp": "Re-anastomosis: 6-8 weeks (once healed). (Book p189)"
+  },
+  {
+   "id": "SURG-C27-097",
+   "sec": "Caecal Volvulus",
+   "page": 190,
+   "q": "Predisposing factors for caecal volvulus include:",
+   "opts": [
+    "A mobile caecum and caecal bascule",
+    "A long narrow mesentery",
+    "A loaded sigmoid",
+    "Anti-psychotic medication"
+   ],
+   "ans": 0,
+   "exp": "Predisposing factors: mobile caecum; caecal bascule (type of mobile caecum). (Book p190)"
+  },
+  {
+   "id": "SURG-C27-098",
+   "sec": "Caecal Volvulus",
+   "page": 190,
+   "q": "Caecal bascule is:",
+   "opts": [
+    "A type of mobile caecum",
+    "A type of sigmoid volvulus",
+    "A congenital atresia",
+    "An intussusception"
+   ],
+   "ans": 0,
+   "exp": "Caecal bascule: a type of mobile caecum. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-099",
+   "sec": "Caecal Volvulus",
+   "page": 190,
+   "q": "The caecum in caecal volvulus rotates:",
+   "opts": [
+    "Clockwise",
+    "Anti-clockwise",
+    "Upwards only",
+    "Not at all"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: clockwise rotation of caecum. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-100",
+   "sec": "Caecal Volvulus",
+   "page": 190,
+   "q": "The initial investigation in caecal volvulus is:",
+   "opts": [
+    "X-ray abdomen (erect and supine)",
+    "CECT abdomen",
+    "USG abdomen",
+    "Contrast enema"
+   ],
+   "ans": 0,
+   "exp": "X-ray abdomen (erect and supine): initial investigation. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-101",
+   "sec": "Caecal Volvulus",
+   "page": 190,
+   "q": "The investigation of choice in caecal volvulus is:",
+   "opts": [
+    "CECT abdomen",
+    "X-ray abdomen",
+    "USG abdomen",
+    "Barium enema"
+   ],
+   "ans": 0,
+   "exp": "CECT abdomen: IOC in caecal volvulus. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-102",
+   "sec": "Caecal Volvulus",
+   "page": 190,
+   "q": "A patient with caecal volvulus without peritonitis is treated by:",
+   "opts": [
+    "Caecopexy (de-rotation anti-clockwise)",
+    "Emergency right hemicolectomy",
+    "Hartmann's procedure",
+    "Conservative management alone"
+   ],
+   "ans": 0,
+   "exp": "No peritonitis → caecopexy (derotate anti-clockwise). (Book p190)"
+  },
+  {
+   "id": "SURG-C27-103",
+   "sec": "Caecal Volvulus",
+   "page": 190,
+   "q": "A patient with caecal volvulus with peritonitis is treated by:",
+   "opts": [
+    "Right hemicolectomy after laparotomy",
+    "Caecopexy",
+    "Decompression",
+    "Sigmoidectomy"
+   ],
+   "ans": 0,
+   "exp": "Peritonitis → laparotomy → (R) hemicolectomy. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-104",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "Causes of intestinal strictures include all EXCEPT:",
+   "opts": [
+    "Diverticulosis",
+    "Cancer",
+    "Post radiotherapy",
+    "TB and Crohn's disease"
+   ],
+   "ans": 0,
+   "exp": "Causes: cancer; post radiotherapy; TB; Crohn's. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-105",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "Subacute intestinal obstruction presents with:",
+   "opts": [
+    "Intermittent symptoms until complete obstruction eventually develops",
+    "Sudden complete obstruction",
+    "No symptoms at all",
+    "Only bleeding"
+   ],
+   "ans": 0,
+   "exp": "Subacute obstruction: intermittent symptoms → until complete obstruction eventually. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-106",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "The initial investigation in a patient with an intestinal stricture is:",
+   "opts": [
+    "X-ray abdomen (erect and supine)",
+    "CECT abdomen",
+    "USG abdomen",
+    "Colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "X-ray abdomen (erect & supine): initial investigation. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-107",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "The investigation of choice for intestinal strictures in adults is:",
+   "opts": [
+    "CECT abdomen",
+    "USG abdomen",
+    "X-ray abdomen",
+    "MRI enterography"
+   ],
+   "ans": 0,
+   "exp": "CECT abdomen: IOC in adults. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-108",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "The investigation of choice for intestinal strictures in children is:",
+   "opts": [
+    "USG abdomen",
+    "CECT abdomen",
+    "X-ray abdomen",
+    "Barium follow through"
+   ],
+   "ans": 0,
+   "exp": "USG abdomen: IOC in children. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-109",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "Multiple strictures lying close to each other are treated by:",
+   "opts": [
+    "Resection and anastomosis",
+    "Stricturoplasty",
+    "Dilatation alone",
+    "Bypass"
+   ],
+   "ans": 0,
+   "exp": "If multiple strictures close to each other → resection + anastomosis. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-110",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "Strictures that are far apart from each other are treated by:",
+   "opts": [
+    "Stricturoplasty",
+    "Resection and anastomosis",
+    "Total colectomy",
+    "Dilatation"
+   ],
+   "ans": 0,
+   "exp": "If strictures are far apart → stricturoplasty (2 types). (Book p190)"
+  },
+  {
+   "id": "SURG-C27-111",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "The Heineke-Mikulicz stricturoplasty is a:",
+   "opts": [
+    "Longitudinal stricturoplasty sutured transversely",
+    "Side to side anastomosis",
+    "Segmental resection",
+    "End to end anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Heineke-Mikulicz stricturoplasty: longitudinal stricturoplasty, suture transversely. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-112",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "Finney's stricturoplasty is a:",
+   "opts": [
+    "Side to side anastomosis",
+    "Longitudinal stricturoplasty sutured transversely",
+    "End to end anastomosis",
+    "Segmental resection"
+   ],
+   "ans": 0,
+   "exp": "Finney's stricturoplasty: side to side anastomosis. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-113",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "Tuberculous ulcers in the intestine are __________ and give rise to __________.",
+   "opts": [
+    "Transverse; strictures",
+    "Longitudinal; perforation",
+    "Longitudinal; strictures",
+    "Transverse; perforation"
+   ],
+   "ans": 0,
+   "exp": "Note: TB ulcers are transverse and give rise to strictures. (Book p190)"
+  },
+  {
+   "id": "SURG-C27-114",
+   "sec": "Intestinal Strictures",
+   "page": 190,
+   "q": "Typhoid ulcers in the intestine are __________ and give rise to __________.",
+   "opts": [
+    "Longitudinal; perforation",
+    "Transverse; strictures",
+    "Transverse; perforation",
+    "Longitudinal; strictures"
+   ],
+   "ans": 0,
+   "exp": "Note: typhoid ulcers are longitudinal and give rise to perforation. (Book p190)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U27-1",
+   "ch": 27,
+   "n": 1,
+   "title": "Types of Bowel Obstruction",
+   "sec": "Types of Bowel Obstruction · p184",
+   "qs": [
+    "SURG-C27-001",
+    "SURG-C27-002",
+    "SURG-C27-003",
+    "SURG-C27-004",
+    "SURG-C27-005"
+   ],
+   "guide": "Split obstruction in two at the bedside: dynamic means a mechanical block with the bowel fighting it - contractions and hyperdynamic sounds, and if it goes on, strangulation or perforation. Adynamic means no mechanical block at all, no contractions and a silent abdomen."
+  },
+  {
+   "id": "SURG-U27-2",
+   "ch": 27,
+   "n": 2,
+   "title": "Clinical Features of Bowel Obstruction",
+   "sec": "Clinical Features of Bowel Obstruction · p184",
+   "qs": [
+    "SURG-C27-006",
+    "SURG-C27-007",
+    "SURG-C27-008",
+    "SURG-C27-009",
+    "SURG-C27-010"
+   ],
+   "guide": "Pain, distension and absolute constipation are common to both types. The distension is mostly swallowed air, the order in which symptoms appear tells you how low the block is, and a lower obstruction declares itself with distension and obstipation first."
+  },
+  {
+   "id": "SURG-U27-3",
+   "ch": 27,
+   "n": 3,
+   "title": "Investigations in Bowel Obstruction",
+   "sec": "Investigations in Bowel Obstruction · p184",
+   "qs": [
+    "SURG-C27-011",
+    "SURG-C27-012",
+    "SURG-C27-013",
+    "SURG-C27-014",
+    "SURG-C27-015",
+    "SURG-C27-016"
+   ],
+   "guide": "Start with a plain X-ray - erect for the tell-tale more-than-three air-fluid levels, supine to locate the level by finding where the bowel changes from proximally dilated to distally collapsed. After that, adults go to CECT and children to ultrasound."
+  },
+  {
+   "id": "SURG-U27-4",
+   "ch": 27,
+   "n": 4,
+   "title": "Small v/s Large Bowel on X-ray and Critical Diameters",
+   "sec": "Small v/s Large Bowel on X-ray and Critical Diameters · p185",
+   "qs": [
+    "SURG-C27-017",
+    "SURG-C27-018",
+    "SURG-C27-019",
+    "SURG-C27-020",
+    "SURG-C27-021",
+    "SURG-C27-022",
+    "SURG-C27-023"
+   ],
+   "guide": "On the film the jejunum shows complete valvulae conniventes and a feathery pattern, the ileum incomplete ones, and the large bowel sits peripherally with incomplete haustrations. Critical diameters are the numbers to remember: 3 cm for small bowel, 6 cm for large bowel and 9 cm for the caecum, beyond which perforation is imminent."
+  },
+  {
+   "id": "SURG-U27-5",
+   "ch": 27,
+   "n": 5,
+   "title": "Management of Bowel Obstruction",
+   "sec": "Management of Bowel Obstruction · p185",
+   "qs": [
+    "SURG-C27-024",
+    "SURG-C27-025",
+    "SURG-C27-026",
+    "SURG-C27-027",
+    "SURG-C27-028",
+    "SURG-C27-029",
+    "SURG-C27-030"
+   ],
+   "guide": "Conservative treatment first: nil by mouth, Ringer's lactate, an NG or Ryle's tube for decompression, antibiotics covering aerobes, anaerobes and gram negatives, and analgesia. Then look at the caecum - collapsed means small bowel obstruction, distended means large bowel - and at surgery decide whether the bowel can be kept or has to go."
+  },
+  {
+   "id": "SURG-U27-6",
+   "ch": 27,
+   "n": 6,
+   "title": "Viable v/s Non-viable Bowel",
+   "sec": "Viable v/s Non-viable Bowel · p186",
+   "qs": [
+    "SURG-C27-031",
+    "SURG-C27-032",
+    "SURG-C27-033",
+    "SURG-C27-034",
+    "SURG-C27-035"
+   ],
+   "guide": "Viability is a judgement at the table: viable bowel lightens in colour, shows mesenteric pulsations, looks shiny and firm and may be seen to peristalse. Dead bowel stays dark, has no pulsations, looks dull and flabby and lies still."
+  },
+  {
+   "id": "SURG-U27-7",
+   "ch": 27,
+   "n": 7,
+   "title": "Duodenal Atresia",
+   "sec": "Duodenal Atresia · p186",
+   "qs": [
+    "SURG-C27-036",
+    "SURG-C27-037",
+    "SURG-C27-038",
+    "SURG-C27-039",
+    "SURG-C27-040",
+    "SURG-C27-041",
+    "SURG-C27-042",
+    "SURG-C27-043"
+   ],
+   "guide": "Duodenal atresia - one of the commonest neonatal obstructions - comes from failure of recanalisation, is the classic partner of Down's syndrome and of polyhydramnios in the mother, is usually type I, and gives bilious vomiting from day one. The operation is a diamond duodeno-duodenostomy, and remember that the double bubble is shared with annular pancreas."
+  },
+  {
+   "id": "SURG-U27-8",
+   "ch": 27,
+   "n": 8,
+   "title": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis",
+   "sec": "Duodenal Atresia v/s Congenital Hypertrophic Pyloric Stenosis · p186",
+   "qs": [
+    "SURG-C27-044",
+    "SURG-C27-045",
+    "SURG-C27-046",
+    "SURG-C27-047",
+    "SURG-C27-048",
+    "SURG-C27-049",
+    "SURG-C27-050"
+   ],
+   "guide": "Set it against pyloric stenosis: the atresia child vomits bile from birth and needs an X-ray, while the child with congenital hypertrophic pyloric stenosis is normal at birth, is a first born boy, starts projectile non-bilious vomiting a few weeks later and is diagnosed on ultrasound and cured by Ramstedt's pyloromyotomy. Single bubble is CHPS, double bubble is atresia."
+  },
+  {
+   "id": "SURG-U27-9",
+   "ch": 27,
+   "n": 9,
+   "title": "Jejunal Atresia and the Types of Intestinal Atresia",
+   "sec": "Jejunal Atresia and the Types of Intestinal Atresia · p187",
+   "qs": [
+    "SURG-C27-051",
+    "SURG-C27-052",
+    "SURG-C27-053",
+    "SURG-C27-054",
+    "SURG-C27-055",
+    "SURG-C27-056",
+    "SURG-C27-057"
+   ],
+   "guide": "Jejunal atresia also gives bilious vomiting, but with a triple bubble. Learn the Grosfeld typing: a mucosal web (I), an atretic cord with intact mesentery (II), blind ends with a V-shaped gap (IIIa), the apple peel or Christmas tree deformity of a large mesenteric gap (IIIb) and multiple atresias like a string of sausages (IV)."
+  },
+  {
+   "id": "SURG-U27-10",
+   "ch": 27,
+   "n": 10,
+   "title": "Intussusception: Definition and Types",
+   "sec": "Intussusception: Definition and Types · p187",
+   "qs": [
+    "SURG-C27-058",
+    "SURG-C27-059",
+    "SURG-C27-060",
+    "SURG-C27-061",
+    "SURG-C27-062",
+    "SURG-C27-063",
+    "SURG-C27-064",
+    "SURG-C27-065",
+    "SURG-C27-066",
+    "SURG-C27-067"
+   ],
+   "guide": "One loop telescopes into another: the intussuscipiens receives, the intussusceptum travels, the head is where ischemia strikes first and the neck is the narrowest part. Primary disease belongs to children with hypertrophic Peyer's patches and is usually ileocolic; secondary disease follows a lead point - most often a polyp - and is often colo-colic."
+  },
+  {
+   "id": "SURG-U27-11",
+   "ch": 27,
+   "n": 11,
+   "title": "Intussusception: Clinical Features and Investigations",
+   "sec": "Intussusception: Clinical Features and Investigations · p188",
+   "qs": [
+    "SURG-C27-068",
+    "SURG-C27-069",
+    "SURG-C27-070",
+    "SURG-C27-071",
+    "SURG-C27-072",
+    "SURG-C27-073",
+    "SURG-C27-074",
+    "SURG-C27-075",
+    "SURG-C27-076",
+    "SURG-C27-077"
+   ],
+   "guide": "The child draws up the legs with colicky pain, passes red currant jelly stools of blood and mucus without faeces, and the abdomen shows Dance's sign - a sausage mass in the right lumbar region with an empty right iliac fossa. Ultrasound is the investigation of choice in children and shows the target or donut sign and the pseudokidney; a contrast enema both diagnoses and treats and shows the claw or pincer, but is forbidden when there is recurrence, a lead point, strangulation or perforation. Adults go straight to CECT."
+  },
+  {
+   "id": "SURG-U27-12",
+   "ch": 27,
+   "n": 12,
+   "title": "Management of Intussusception",
+   "sec": "Management of Intussusception · p188",
+   "qs": [
+    "SURG-C27-078",
+    "SURG-C27-079"
+   ],
+   "guide": "Reduce by pushing, never pulling, and reserve resection and anastomosis for perforation, strangulation or a pathological lead point."
+  },
+  {
+   "id": "SURG-U27-13",
+   "ch": 27,
+   "n": 13,
+   "title": "Sigmoid Volvulus",
+   "sec": "Sigmoid Volvulus · p188",
+   "qs": [
+    "SURG-C27-080",
+    "SURG-C27-081",
+    "SURG-C27-082",
+    "SURG-C27-083",
+    "SURG-C27-084",
+    "SURG-C27-085",
+    "SURG-C27-086",
+    "SURG-C27-087",
+    "SURG-C27-088",
+    "SURG-C27-089",
+    "SURG-C27-090"
+   ],
+   "guide": "Volvulus is a loop twisting around its own vessels. The sigmoid variety comes from a long narrow mesentery, a redundant loaded sigmoid and, classically, from antipsychotic drugs and institutional care; it is a closed loop with striking distension, obstipation and a high chance of strangulation. The coffee bean points to the right shoulder, the contrast enema shows a bird's beak or ace of spades, and CECT is the investigation of choice. In caecal volvulus the apex swings to the left shoulder tip and the small bowel is distended."
+  },
+  {
+   "id": "SURG-U27-14",
+   "ch": 27,
+   "n": 14,
+   "title": "Management of Sigmoid Volvulus and Hartmann's Procedure",
+   "sec": "Management of Sigmoid Volvulus and Hartmann's Procedure · p189",
+   "qs": [
+    "SURG-C27-091",
+    "SURG-C27-092",
+    "SURG-C27-093",
+    "SURG-C27-094",
+    "SURG-C27-095",
+    "SURG-C27-096"
+   ],
+   "guide": "Without peritonitis, decompress and then do the definitive operation - sigmoidopexy after clockwise de-rotation, or sigmoidectomy to remove the excess. With peritonitis, sepsis or perforation it is an emergency laparotomy and a Hartmann's: resect, bring out a colostomy and come back to re-anastomose 6-8 weeks later."
+  },
+  {
+   "id": "SURG-U27-15",
+   "ch": 27,
+   "n": 15,
+   "title": "Caecal Volvulus",
+   "sec": "Caecal Volvulus · p190",
+   "qs": [
+    "SURG-C27-097",
+    "SURG-C27-098",
+    "SURG-C27-099",
+    "SURG-C27-100",
+    "SURG-C27-101",
+    "SURG-C27-102",
+    "SURG-C27-103"
+   ],
+   "guide": "Caecal volvulus needs a mobile caecum - often a caecal bascule - and twists clockwise. Film first, CECT to confirm; caecopexy with anti-clockwise de-rotation when the abdomen is quiet, and a right hemicolectomy once peritonitis declares itself."
+  },
+  {
+   "id": "SURG-U27-16",
+   "ch": 27,
+   "n": 16,
+   "title": "Intestinal Strictures",
+   "sec": "Intestinal Strictures · p190",
+   "qs": [
+    "SURG-C27-104",
+    "SURG-C27-105",
+    "SURG-C27-106",
+    "SURG-C27-107",
+    "SURG-C27-108",
+    "SURG-C27-109",
+    "SURG-C27-110",
+    "SURG-C27-111",
+    "SURG-C27-112",
+    "SURG-C27-113",
+    "SURG-C27-114"
+   ],
+   "guide": "Strictures come from cancer, radiotherapy, tuberculosis and Crohn's, and announce themselves as intermittent subacute obstruction that eventually becomes complete. Film first, then CECT in adults or ultrasound in children. Multiple strictures close together are resected and anastomosed; those far apart are dealt with by stricturoplasty - Heineke-Mikulicz when you open longitudinally and close transversely, Finney when you fashion a side to side anastomosis. Finally, remember the ulcer geometry: tuberculous ulcers are transverse and stenose, typhoid ulcers are longitudinal and perforate."
+  }
+ ]
+}
