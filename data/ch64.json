@@ -1,0 +1,2721 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C64-001",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "Definition of an aneurysm:",
+   "opts": [
+    "Dilatation of a vessel",
+    "Narrowing of a vessel",
+    "Occlusion of a vessel",
+    "Inflammation of a vessel"
+   ],
+   "ans": 0,
+   "exp": "Dilatation of a vessel (Book p494)"
+  },
+  {
+   "id": "SURG-C64-002",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "M/c type of aneurysm:",
+   "opts": [
+    "Fusiform",
+    "Saccular",
+    "Dissecting",
+    "False"
+   ],
+   "ans": 0,
+   "exp": "Fusiform (Book p494)"
+  },
+  {
+   "id": "SURG-C64-003",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "M/c vessel involved by aneurysm:",
+   "opts": [
+    "Circle of Willis",
+    "Abdominal aorta",
+    "Popliteal artery",
+    "Splenic artery"
+   ],
+   "ans": 0,
+   "exp": "Circle of Willis (Book p494)"
+  },
+  {
+   "id": "SURG-C64-004",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "M/c EXTRACRANIAL vessel involved by aneurysm:",
+   "opts": [
+    "Infra renal abdominal aorta",
+    "Circle of Willis",
+    "Popliteal artery",
+    "Splenic artery"
+   ],
+   "ans": 0,
+   "exp": "Infra renal abdominal aorta (Book p494)"
+  },
+  {
+   "id": "SURG-C64-005",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "M/c PERIPHERAL vessel aneurysm:",
+   "opts": [
+    "Popliteal artery",
+    "Femoral artery",
+    "Carotid artery",
+    "Radial artery"
+   ],
+   "ans": 0,
+   "exp": "Popliteal artery (Book p494)"
+  },
+  {
+   "id": "SURG-C64-006",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "M/c VISCERAL vessel aneurysm:",
+   "opts": [
+    "Splenic",
+    "Hepatic",
+    "Renal",
+    "Superior mesenteric"
+   ],
+   "ans": 0,
+   "exp": "Splenic (Book p494)"
+  },
+  {
+   "id": "SURG-C64-007",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "M/c site of a mycotic aneurysm:",
+   "opts": [
+    "Aorta",
+    "Popliteal artery",
+    "Splenic artery",
+    "Circle of Willis"
+   ],
+   "ans": 0,
+   "exp": "Aorta (Book p494)"
+  },
+  {
+   "id": "SURG-C64-008",
+   "sec": "Aneurysm: Definition and M/C Sites",
+   "page": 494,
+   "q": "M/c cause of a mycotic aneurysm:",
+   "opts": [
+    "S. aureus",
+    "E. coli",
+    "Salmonella typhi",
+    "Streptococcus viridans"
+   ],
+   "ans": 0,
+   "exp": "S. aureus (Book p494)"
+  },
+  {
+   "id": "SURG-C64-009",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "M/c site of abdominal aortic aneurysm:",
+   "opts": [
+    "Infra renal abdominal aorta",
+    "Supra renal aorta",
+    "Aortic arch",
+    "Descending thoracic aorta"
+   ],
+   "ans": 0,
+   "exp": "Infra renal abdominal aorta (Book p494)"
+  },
+  {
+   "id": "SURG-C64-010",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Major risk factor for abdominal aortic aneurysm:",
+   "opts": [
+    "Atherosclerosis",
+    "Trauma",
+    "Infection",
+    "Vasculitis"
+   ],
+   "ans": 0,
+   "exp": "Atherosclerosis (Book p494)"
+  },
+  {
+   "id": "SURG-C64-011",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Screening protocol for AAA in the UK:",
+   "opts": [
+    "USG from 65 years",
+    "CT from 50 years",
+    "MRI from 40 years",
+    "X-ray from 70 years"
+   ],
+   "ans": 0,
+   "exp": "USG from 65 years (Book p494)"
+  },
+  {
+   "id": "SURG-C64-012",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Critical diameter of an abdominal aortic aneurysm:",
+   "opts": [
+    "5.5 cm",
+    "4 cm",
+    "6 cm",
+    "7 cm"
+   ],
+   "ans": 0,
+   "exp": "5.5 cm (Book p494)"
+  },
+  {
+   "id": "SURG-C64-013",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Critical diameters in females are:",
+   "opts": [
+    "Less by 0.5 cm",
+    "Greater by 0.5 cm",
+    "The same",
+    "Less by 2 cm"
+   ],
+   "ans": 0,
+   "exp": "Less by 0.5 cm (Book p494)"
+  },
+  {
+   "id": "SURG-C64-014",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Critical diameter for an ASCENDING thoracic aortic aneurysm:",
+   "opts": [
+    "5.5 cm or 0.5 cm increase in size per year",
+    "6 cm",
+    "4.5 cm",
+    "7 cm"
+   ],
+   "ans": 0,
+   "exp": "5.5 cm or 0.5 cm increase in size per year (Book p494)"
+  },
+  {
+   "id": "SURG-C64-015",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Critical diameter for a DESCENDING thoracic aortic aneurysm:",
+   "opts": [
+    "6 cm",
+    "5.5 cm",
+    "4.5 cm",
+    "7 cm"
+   ],
+   "ans": 0,
+   "exp": "6 cm (Book p494)"
+  },
+  {
+   "id": "SURG-C64-016",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Critical diameter for thoracic aortic aneurysm in Marfan patients:",
+   "opts": [
+    "4.5-5 cm",
+    "5.5 cm",
+    "6 cm",
+    "7 cm"
+   ],
+   "ans": 0,
+   "exp": "4.5-5 cm (Book p494)"
+  },
+  {
+   "id": "SURG-C64-017",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "page": 494,
+   "q": "Significance of exceeding the critical diameter:",
+   "opts": [
+    "Increased chance of rupture",
+    "Spontaneous resolution",
+    "Reduced mortality",
+    "No clinical consequence"
+   ],
+   "ans": 0,
+   "exp": "Increased chance of rupture (Book p494)"
+  },
+  {
+   "id": "SURG-C64-018",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "Most abdominal aortic aneurysms are:",
+   "opts": [
+    "Asymptomatic",
+    "Always painful",
+    "Always ruptured at presentation",
+    "Always pulsatile and tender"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic (Book p494)"
+  },
+  {
+   "id": "SURG-C64-019",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "Classic examination finding in AAA:",
+   "opts": [
+    "Pulsatile mass",
+    "Non-pulsatile mass",
+    "Fluctuant swelling",
+    "Hard fixed mass"
+   ],
+   "ans": 0,
+   "exp": "Pulsatile mass (Book p494)"
+  },
+  {
+   "id": "SURG-C64-020",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "Blue toe syndrome is:",
+   "opts": [
+    "Gangrene due to emboli blocking toe vessels",
+    "Cyanosis due to venous congestion",
+    "Frostbite of toes",
+    "Raynaud's phenomenon"
+   ],
+   "ans": 0,
+   "exp": "Gangrene due to emboli blocking toe vessels (Book p494)"
+  },
+  {
+   "id": "SURG-C64-021",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "M/c site of rupture of an abdominal aortic aneurysm:",
+   "opts": [
+    "Left retroperitoneum",
+    "Right retroperitoneum",
+    "Peritoneal cavity",
+    "Duodenum"
+   ],
+   "ans": 0,
+   "exp": "Left retroperitoneum (Book p494)"
+  },
+  {
+   "id": "SURG-C64-022",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "Presentation of a ruptured abdominal aortic aneurysm:",
+   "opts": [
+    "Shock",
+    "Chronic anaemia",
+    "Painless swelling",
+    "Fever"
+   ],
+   "ans": 0,
+   "exp": "Shock (Book p494)"
+  },
+  {
+   "id": "SURG-C64-023",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "Mortality of a ruptured abdominal aortic aneurysm:",
+   "opts": [
+    "50%",
+    "2-3%",
+    "10%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "50% (Book p494)"
+  },
+  {
+   "id": "SURG-C64-024",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "Screening investigation for AAA:",
+   "opts": [
+    "USG",
+    "CT angiography",
+    "MRI",
+    "DSA"
+   ],
+   "ans": 0,
+   "exp": "USG (Book p494)"
+  },
+  {
+   "id": "SURG-C64-025",
+   "sec": "AAA: Clinical Features, Rupture and Investigations",
+   "page": 494,
+   "q": "IOC for abdominal aortic aneurysm:",
+   "opts": [
+    "CT angiography",
+    "USG",
+    "MRI",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p494)"
+  },
+  {
+   "id": "SURG-C64-026",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "Conservative management of AAA is indicated when:",
+   "opts": [
+    "<5.5 cm and asymptomatic",
+    "≥5.5 cm",
+    "Symptomatic",
+    "Ruptured"
+   ],
+   "ans": 0,
+   "exp": "<5.5 cm and asymptomatic (Book p495)"
+  },
+  {
+   "id": "SURG-C64-027",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "Intervention for AAA is indicated when:",
+   "opts": [
+    "≥5.5 cm or symptomatic",
+    "<5.5 cm and asymptomatic",
+    "<4 cm",
+    "Always"
+   ],
+   "ans": 0,
+   "exp": "≥5.5 cm or symptomatic (Book p495)"
+  },
+  {
+   "id": "SURG-C64-028",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "Two interventional options for AAA:",
+   "opts": [
+    "Open graft surgery and EVAR",
+    "Thrombolysis and embolectomy",
+    "Sympathectomy and stenting",
+    "Amputation and grafting"
+   ],
+   "ans": 0,
+   "exp": "Open graft surgery and EVAR (Book p495)"
+  },
+  {
+   "id": "SURG-C64-029",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "1st line per NICE guidelines for AAA:",
+   "opts": [
+    "Open surgical repair",
+    "EVAR",
+    "Conservative management",
+    "Thrombolysis"
+   ],
+   "ans": 0,
+   "exp": "Open surgical repair (Book p495)"
+  },
+  {
+   "id": "SURG-C64-030",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "Per NICE guidelines, EVAR is used for:",
+   "opts": [
+    "High risk / hostile abdomen",
+    "All patients",
+    "Young patients only",
+    "Ruptured aneurysms only"
+   ],
+   "ans": 0,
+   "exp": "High risk / hostile abdomen (Book p495)"
+  },
+  {
+   "id": "SURG-C64-031",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "Per the European Society for Vascular Surgery, 1st line in young patients:",
+   "opts": [
+    "EVAR",
+    "Open surgical repair",
+    "Conservative management",
+    "Sympathectomy"
+   ],
+   "ans": 0,
+   "exp": "EVAR (Book p495)"
+  },
+  {
+   "id": "SURG-C64-032",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "EVAR stands for:",
+   "opts": [
+    "Endovascular aneurysm repair",
+    "Endoluminal vascular arterial reconstruction",
+    "External vascular aneurysm repair",
+    "Endoscopic vein ablation repair"
+   ],
+   "ans": 0,
+   "exp": "Endovascular aneurysm repair (Book p495)"
+  },
+  {
+   "id": "SURG-C64-033",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "In EVAR, the stent graft is:",
+   "opts": [
+    "Placed in the aorta",
+    "Placed in the femoral vein",
+    "Placed in the IVC",
+    "Placed extraluminally"
+   ],
+   "ans": 0,
+   "exp": "Placed in the aorta (Book p495)"
+  },
+  {
+   "id": "SURG-C64-034",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "Follow-up requirement after EVAR:",
+   "opts": [
+    "Life long follow-up",
+    "6 weeks follow-up",
+    "No follow-up",
+    "1 year follow-up"
+   ],
+   "ans": 0,
+   "exp": "Life long follow-up (Book p495)"
+  },
+  {
+   "id": "SURG-C64-035",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "Contraindications to EVAR:",
+   "opts": [
+    "Difficult access and increased angulation of iliac vessels",
+    "Young age",
+    "Small aneurysm",
+    "Hostile abdomen"
+   ],
+   "ans": 0,
+   "exp": "Difficult access and increased angulation of iliac vessels (Book p495)"
+  },
+  {
+   "id": "SURG-C64-036",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "The EVAR graft's body is fixed in the:",
+   "opts": [
+    "Aorta",
+    "Iliac vessels",
+    "Femoral arteries",
+    "Renal arteries"
+   ],
+   "ans": 0,
+   "exp": "Aorta (Book p495)"
+  },
+  {
+   "id": "SURG-C64-037",
+   "sec": "AAA Management, Guidelines and EVAR",
+   "page": 495,
+   "q": "The EVAR graft's limbs are fixed in the:",
+   "opts": [
+    "Iliac vessels",
+    "Aorta",
+    "Renal arteries",
+    "Femoral veins"
+   ],
+   "ans": 0,
+   "exp": "Iliac vessels (Book p495)"
+  },
+  {
+   "id": "SURG-C64-038",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Main complication of EVAR:",
+   "opts": [
+    "Endoleaks",
+    "Aortic dissection",
+    "Renal calculi",
+    "Colonic perforation"
+   ],
+   "ans": 0,
+   "exp": "Endoleaks (Book p495)"
+  },
+  {
+   "id": "SURG-C64-039",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Type I endoleak is due to:",
+   "opts": [
+    "Improper seal",
+    "Retrograde leak from lumbar vessels",
+    "Direct leak from graft",
+    "Porous graft"
+   ],
+   "ans": 0,
+   "exp": "Improper seal (Book p495)"
+  },
+  {
+   "id": "SURG-C64-040",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Type I endoleak is m/c after:",
+   "opts": [
+    "Thoracic aortic aneurysm repair",
+    "Abdominal aortic aneurysm repair",
+    "Popliteal aneurysm repair",
+    "Carotid repair"
+   ],
+   "ans": 0,
+   "exp": "Thoracic aortic aneurysm repair (Book p495)"
+  },
+  {
+   "id": "SURG-C64-041",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Type II endoleak is due to:",
+   "opts": [
+    "Retrograde leak from lumbar vessels",
+    "Improper seal",
+    "Porous graft",
+    "Endotension"
+   ],
+   "ans": 0,
+   "exp": "Retrograde leak from lumbar vessels (Book p495)"
+  },
+  {
+   "id": "SURG-C64-042",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Type II endoleak is m/c in:",
+   "opts": [
+    "Abdominal aortic aneurysm",
+    "Thoracic aortic aneurysm",
+    "Popliteal aneurysm",
+    "Femoral aneurysm"
+   ],
+   "ans": 0,
+   "exp": "Abdominal aortic aneurysm (Book p495)"
+  },
+  {
+   "id": "SURG-C64-043",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Type III endoleak is due to:",
+   "opts": [
+    "Direct leak from the graft",
+    "Improper seal",
+    "Lumbar retrograde flow",
+    "Endotension"
+   ],
+   "ans": 0,
+   "exp": "Direct leak from the graft (Book p495)"
+  },
+  {
+   "id": "SURG-C64-044",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Type IV endoleak is due to:",
+   "opts": [
+    "Porous graft",
+    "Improper seal",
+    "Direct graft leak",
+    "Endotension"
+   ],
+   "ans": 0,
+   "exp": "Porous graft (Book p495)"
+  },
+  {
+   "id": "SURG-C64-045",
+   "sec": "Endoleaks",
+   "page": 495,
+   "q": "Type V endoleak is due to:",
+   "opts": [
+    "Endotension",
+    "Porous graft",
+    "Improper seal",
+    "Lumbar collaterals"
+   ],
+   "ans": 0,
+   "exp": "Endotension (Book p495)"
+  },
+  {
+   "id": "SURG-C64-046",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers",
+   "page": 496,
+   "q": "Graft material used in open aneurysm surgery:",
+   "opts": [
+    "Dacron / PTFE",
+    "Autologous skin",
+    "Silicone",
+    "Bovine bone"
+   ],
+   "ans": 0,
+   "exp": "Dacron / PTFE (Book p496)"
+  },
+  {
+   "id": "SURG-C64-047",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers",
+   "page": 496,
+   "q": "Mattox maneuver is:",
+   "opts": [
+    "Left medial visceral rotation — left colon mobilized medially",
+    "Right medial visceral rotation",
+    "Duodenal mobilization",
+    "Splenic flexure resection"
+   ],
+   "ans": 0,
+   "exp": "Left medial visceral rotation — left colon mobilized medially (Book p496)"
+  },
+  {
+   "id": "SURG-C64-048",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers",
+   "page": 496,
+   "q": "Structure exposed by the Mattox maneuver:",
+   "opts": [
+    "Aorta",
+    "IVC",
+    "Duodenum",
+    "Pancreas"
+   ],
+   "ans": 0,
+   "exp": "Aorta (Book p496)"
+  },
+  {
+   "id": "SURG-C64-049",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers",
+   "page": 496,
+   "q": "Cattell-Braasch maneuver is:",
+   "opts": [
+    "Right medial visceral rotation — ascending colon mobilized medially",
+    "Left medial visceral rotation",
+    "Kocherisation",
+    "Pringle maneuver"
+   ],
+   "ans": 0,
+   "exp": "Right medial visceral rotation — ascending colon mobilized medially (Book p496)"
+  },
+  {
+   "id": "SURG-C64-050",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers",
+   "page": 496,
+   "q": "Structure exposed by the Cattell-Braasch maneuver:",
+   "opts": [
+    "IVC",
+    "Aorta",
+    "Spleen",
+    "Left kidney"
+   ],
+   "ans": 0,
+   "exp": "IVC (Book p496)"
+  },
+  {
+   "id": "SURG-C64-051",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers",
+   "page": 496,
+   "q": "Indication for the Cattell-Braasch maneuver:",
+   "opts": [
+    "RCC with metastasis to IVC",
+    "AAA repair",
+    "Splenectomy",
+    "Left nephrectomy"
+   ],
+   "ans": 0,
+   "exp": "RCC with metastasis to IVC (Book p496)"
+  },
+  {
+   "id": "SURG-C64-052",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers",
+   "page": 496,
+   "q": "Kocherisation refers to:",
+   "opts": [
+    "Mobilization of the duodenum",
+    "Mobilization of the left colon",
+    "Mobilization of the spleen",
+    "Mobilization of the aorta"
+   ],
+   "ans": 0,
+   "exp": "Mobilization of the duodenum (Book p496)"
+  },
+  {
+   "id": "SURG-C64-053",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "M/c cause of death after aneurysm surgery:",
+   "opts": [
+    "Cardiovascular complications",
+    "Renal failure",
+    "Colonic ischaemia",
+    "Paraparesis"
+   ],
+   "ans": 0,
+   "exp": "Cardiovascular complications (Book p496)"
+  },
+  {
+   "id": "SURG-C64-054",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Aorto-duodenal fistula is a rare cause of:",
+   "opts": [
+    "Upper GI bleed",
+    "Lower GI bleed",
+    "Haematuria",
+    "Haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Upper GI bleed (Book p496)"
+  },
+  {
+   "id": "SURG-C64-055",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "IOC for aorto-duodenal fistula:",
+   "opts": [
+    "CT angiography",
+    "Upper GI endoscopy",
+    "USG",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p496)"
+  },
+  {
+   "id": "SURG-C64-056",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Colonic ischaemia after aneurysm surgery is m/c on the:",
+   "opts": [
+    "Left side of colon",
+    "Right side of colon",
+    "Transverse colon only",
+    "Caecum"
+   ],
+   "ans": 0,
+   "exp": "Left side of colon (Book p496)"
+  },
+  {
+   "id": "SURG-C64-057",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Reason for left-sided colonic ischaemia after aneurysm surgery:",
+   "opts": [
+    "Splenic flexure is a watershed area",
+    "Right colic artery is ligated",
+    "Caecum has poor supply",
+    "Rectum is devascularized"
+   ],
+   "ans": 0,
+   "exp": "Splenic flexure is a watershed area (Book p496)"
+  },
+  {
+   "id": "SURG-C64-058",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Presentation of colonic ischaemia after aneurysm surgery:",
+   "opts": [
+    "Bloody diarrhoea",
+    "Constipation",
+    "Haematemesis",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "Bloody diarrhoea (Book p496)"
+  },
+  {
+   "id": "SURG-C64-059",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Paraparesis after aneurysm surgery is due to injury to the:",
+   "opts": [
+    "Artery of Adamkiewicz",
+    "Artery of Drummond",
+    "Marginal artery of Riolan",
+    "Inferior mesenteric artery"
+   ],
+   "ans": 0,
+   "exp": "Artery of Adamkiewicz (Book p496)"
+  },
+  {
+   "id": "SURG-C64-060",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Artery of Adamkiewicz supplies the:",
+   "opts": [
+    "Anterior spinal artery",
+    "Posterior spinal artery",
+    "Vertebral artery",
+    "Renal artery"
+   ],
+   "ans": 0,
+   "exp": "Anterior spinal artery (Book p496)"
+  },
+  {
+   "id": "SURG-C64-061",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Mortality of ELECTIVE aneurysm surgery:",
+   "opts": [
+    "2-3%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "2-3% (Book p496)"
+  },
+  {
+   "id": "SURG-C64-062",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Mortality of surgery for a RUPTURED aneurysm:",
+   "opts": [
+    "50%",
+    "2-3%",
+    "10%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "50% (Book p496)"
+  },
+  {
+   "id": "SURG-C64-063",
+   "sec": "Complications of Aneurysm Surgery",
+   "page": 496,
+   "q": "Renal complication after aneurysm surgery:",
+   "opts": [
+    "Renal failure",
+    "Renal calculi",
+    "Renal cyst",
+    "Hydronephrosis"
+   ],
+   "ans": 0,
+   "exp": "Renal failure (Book p496)"
+  },
+  {
+   "id": "SURG-C64-064",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Classification used for thoraco-abdominal aortic aneurysms:",
+   "opts": [
+    "Crawford classification",
+    "DeBakey classification",
+    "Stanford classification",
+    "CEAP classification"
+   ],
+   "ans": 0,
+   "exp": "Crawford classification (Book p497)"
+  },
+  {
+   "id": "SURG-C64-065",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Crawford type I extends:",
+   "opts": [
+    "Left subclavian to renal artery",
+    "Left subclavian to aortic bifurcation",
+    "Mid descending aorta to aortic bifurcation",
+    "Upper abdominal aorta to infra-renal aorta"
+   ],
+   "ans": 0,
+   "exp": "Left subclavian to renal artery (Book p497)"
+  },
+  {
+   "id": "SURG-C64-066",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Most extensive Crawford type:",
+   "opts": [
+    "Type 2 — left subclavian to aortic bifurcation",
+    "Type 1",
+    "Type 3",
+    "Type 4"
+   ],
+   "ans": 0,
+   "exp": "Type 2 — left subclavian to aortic bifurcation (Book p497)"
+  },
+  {
+   "id": "SURG-C64-067",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Crawford type 3 extends:",
+   "opts": [
+    "Mid descending aorta to aortic bifurcation",
+    "Left subclavian to renal artery",
+    "Left subclavian to aortic bifurcation",
+    "Upper abdominal to infra-renal aorta"
+   ],
+   "ans": 0,
+   "exp": "Mid descending aorta to aortic bifurcation (Book p497)"
+  },
+  {
+   "id": "SURG-C64-068",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Crawford type 4 extends:",
+   "opts": [
+    "Upper abdominal aorta to infra-renal aorta",
+    "Left subclavian to renal artery",
+    "Mid descending aorta to bifurcation",
+    "Left subclavian to bifurcation"
+   ],
+   "ans": 0,
+   "exp": "Upper abdominal aorta to infra-renal aorta (Book p497)"
+  },
+  {
+   "id": "SURG-C64-069",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Causes of thoraco-abdominal aortic aneurysm:",
+   "opts": [
+    "Secondary to atherosclerosis and Marfan's syndrome",
+    "Trauma and infection only",
+    "Vasculitis only",
+    "Congenital only"
+   ],
+   "ans": 0,
+   "exp": "Secondary to atherosclerosis and Marfan's syndrome (Book p497)"
+  },
+  {
+   "id": "SURG-C64-070",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Ortner's syndrome in thoraco-abdominal aneurysm is:",
+   "opts": [
+    "Hoarseness due to pressure over the left recurrent laryngeal nerve",
+    "Dysphagia due to oesophageal pressure",
+    "Dyspnea due to tracheal pressure",
+    "Stridor from tracheal collapse"
+   ],
+   "ans": 0,
+   "exp": "Hoarseness due to pressure over the left recurrent laryngeal nerve (Book p497)"
+  },
+  {
+   "id": "SURG-C64-071",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Pressure symptoms of a thoraco-abdominal aneurysm:",
+   "opts": [
+    "Hoarseness, dysphagia and dyspnea",
+    "Haematuria and flank pain",
+    "Jaundice and pruritus",
+    "Claudication and rest pain"
+   ],
+   "ans": 0,
+   "exp": "Hoarseness, dysphagia and dyspnea (Book p497)"
+  },
+  {
+   "id": "SURG-C64-072",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Screening investigation for thoraco-abdominal aortic aneurysm:",
+   "opts": [
+    "USG",
+    "CT angiography",
+    "MRI",
+    "DSA"
+   ],
+   "ans": 0,
+   "exp": "USG (Book p497)"
+  },
+  {
+   "id": "SURG-C64-073",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "IOC for thoraco-abdominal aortic aneurysm:",
+   "opts": [
+    "CT angiography",
+    "USG",
+    "CXR",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p497)"
+  },
+  {
+   "id": "SURG-C64-074",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "page": 497,
+   "q": "Management of a symptomatic thoraco-abdominal aneurysm ≥5.5 cm:",
+   "opts": [
+    "Graft repair",
+    "Conservative management",
+    "Sympathectomy",
+    "Thrombolysis"
+   ],
+   "ans": 0,
+   "exp": "Graft repair (Book p497)"
+  },
+  {
+   "id": "SURG-C64-075",
+   "sec": "Aortic Dissection: Pathology and Risk Factors",
+   "page": 497,
+   "q": "Pathogenesis of aortic dissection:",
+   "opts": [
+    "Tear in the tunica intima creating a false lumen with blood flowing between intima and media",
+    "Rupture of the adventitia",
+    "Thrombosis of the vasa vasorum",
+    "Aneurysmal dilatation of the whole wall"
+   ],
+   "ans": 0,
+   "exp": "Tear in the tunica intima creating a false lumen with blood flowing between intima and media (Book p497)"
+  },
+  {
+   "id": "SURG-C64-076",
+   "sec": "Aortic Dissection: Pathology and Risk Factors",
+   "page": 497,
+   "q": "Blood in an aortic dissection flows between:",
+   "opts": [
+    "Tunica intima and media",
+    "Media and adventitia",
+    "Adventitia and pleura",
+    "Intima and lumen"
+   ],
+   "ans": 0,
+   "exp": "Tunica intima and media (Book p497)"
+  },
+  {
+   "id": "SURG-C64-077",
+   "sec": "Aortic Dissection: Pathology and Risk Factors",
+   "page": 497,
+   "q": "M/c site of aortic dissection:",
+   "opts": [
+    "Lateral wall of ascending thoracic aorta",
+    "Descending thoracic aorta",
+    "Abdominal aorta",
+    "Aortic arch"
+   ],
+   "ans": 0,
+   "exp": "Lateral wall of ascending thoracic aorta (Book p497)"
+  },
+  {
+   "id": "SURG-C64-078",
+   "sec": "Aortic Dissection: Pathology and Risk Factors",
+   "page": 497,
+   "q": "Aortic dissection is a complication of aneurysm triggered by:",
+   "opts": [
+    "Hypertension",
+    "Hypotension",
+    "Anaemia",
+    "Hypothermia"
+   ],
+   "ans": 0,
+   "exp": "Hypertension (Book p497)"
+  },
+  {
+   "id": "SURG-C64-079",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "M/c symptom of aortic dissection:",
+   "opts": [
+    "Chest pain with radiation to back",
+    "Abdominal pain",
+    "Headache",
+    "Haematuria"
+   ],
+   "ans": 0,
+   "exp": "Chest pain with radiation to back (Book p498)"
+  },
+  {
+   "id": "SURG-C64-080",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "Gender predilection of aortic dissection:",
+   "opts": [
+    "Male > female",
+    "Female > male",
+    "Equal",
+    "Only females"
+   ],
+   "ans": 0,
+   "exp": "Male > female (Book p498)"
+  },
+  {
+   "id": "SURG-C64-081",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "Age of presentation of aortic dissection:",
+   "opts": [
+    "5th decade",
+    "2nd decade",
+    "3rd decade",
+    "8th decade"
+   ],
+   "ans": 0,
+   "exp": "5th decade (Book p498)"
+  },
+  {
+   "id": "SURG-C64-082",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "Characteristic BP finding in aortic dissection:",
+   "opts": [
+    "Difference in BP between the 2 upper limbs and between upper and lower limb",
+    "Equal BP in all limbs",
+    "Absent BP in all limbs",
+    "Hypertension in the lower limb only"
+   ],
+   "ans": 0,
+   "exp": "Difference in BP between the 2 upper limbs and between upper and lower limb (Book p498)"
+  },
+  {
+   "id": "SURG-C64-083",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "Complications of aortic dissection:",
+   "opts": [
+    "Hypotension and coronary insufficiency",
+    "Hypertension and polycythemia",
+    "Renal calculi",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Hypotension and coronary insufficiency (Book p498)"
+  },
+  {
+   "id": "SURG-C64-084",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "1st investigation in suspected aortic dissection:",
+   "opts": [
+    "CXR",
+    "CT angiography",
+    "TEE",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "CXR (Book p498)"
+  },
+  {
+   "id": "SURG-C64-085",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "CXR findings in aortic dissection:",
+   "opts": [
+    "Widening of mediastinum and depression of the left main bronchus",
+    "Elevation of the left main bronchus",
+    "Pleural calcification",
+    "Cavitating lesion"
+   ],
+   "ans": 0,
+   "exp": "Widening of mediastinum and depression of the left main bronchus (Book p498)"
+  },
+  {
+   "id": "SURG-C64-086",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "IOC for a STABLE patient with aortic dissection:",
+   "opts": [
+    "CT angiography",
+    "Transesophageal echocardiogram",
+    "CXR",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p498)"
+  },
+  {
+   "id": "SURG-C64-087",
+   "sec": "Aortic Dissection: Clinical Features and Investigations",
+   "page": 498,
+   "q": "IOC for an UNSTABLE patient with aortic dissection:",
+   "opts": [
+    "Transesophageal echocardiogram",
+    "CT angiography",
+    "CXR",
+    "DSA"
+   ],
+   "ans": 0,
+   "exp": "Transesophageal echocardiogram (Book p498)"
+  },
+  {
+   "id": "SURG-C64-088",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "DeBakey type I dissection involves:",
+   "opts": [
+    "Ascending + descending aorta",
+    "Only ascending aorta",
+    "Only descending aorta",
+    "Only the arch"
+   ],
+   "ans": 0,
+   "exp": "Ascending + descending aorta (Book p498)"
+  },
+  {
+   "id": "SURG-C64-089",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "M/c DeBakey type of aortic dissection:",
+   "opts": [
+    "Type I",
+    "Type II",
+    "Type III",
+    "All equal"
+   ],
+   "ans": 0,
+   "exp": "Type I (Book p498)"
+  },
+  {
+   "id": "SURG-C64-090",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "DeBakey type II dissection involves:",
+   "opts": [
+    "Only ascending aorta",
+    "Only descending aorta",
+    "Ascending and descending aorta",
+    "Abdominal aorta"
+   ],
+   "ans": 0,
+   "exp": "Only ascending aorta (Book p498)"
+  },
+  {
+   "id": "SURG-C64-091",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "DeBakey type III dissection involves:",
+   "opts": [
+    "Only descending aorta",
+    "Only ascending aorta",
+    "Ascending and descending",
+    "Aortic arch only"
+   ],
+   "ans": 0,
+   "exp": "Only descending aorta (Book p498)"
+  },
+  {
+   "id": "SURG-C64-092",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "Stanford type A corresponds to:",
+   "opts": [
+    "DeBakey types I and II",
+    "DeBakey type III only",
+    "DeBakey type II only",
+    "All DeBakey types"
+   ],
+   "ans": 0,
+   "exp": "DeBakey types I and II (Book p498)"
+  },
+  {
+   "id": "SURG-C64-093",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "Stanford type B corresponds to:",
+   "opts": [
+    "DeBakey type III",
+    "DeBakey type I",
+    "DeBakey type II",
+    "DeBakey types I and II"
+   ],
+   "ans": 0,
+   "exp": "DeBakey type III (Book p498)"
+  },
+  {
+   "id": "SURG-C64-094",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "1st step in the management of aortic dissection:",
+   "opts": [
+    "Short acting beta blocker (esmolol) / nicardipine",
+    "Immediate thoracotomy",
+    "Thrombolysis",
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Short acting beta blocker (esmolol) / nicardipine (Book p498)"
+  },
+  {
+   "id": "SURG-C64-095",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "Purpose of beta blockers in aortic dissection:",
+   "opts": [
+    "To facilitate permissive hypotension (SBP at lower limit of normal)",
+    "To raise the blood pressure",
+    "To increase heart rate",
+    "To dissolve the clot"
+   ],
+   "ans": 0,
+   "exp": "To facilitate permissive hypotension (SBP at lower limit of normal) (Book p498)"
+  },
+  {
+   "id": "SURG-C64-096",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "Management of DeBakey type I and II dissection:",
+   "opts": [
+    "Thoracotomy + graft repair or EVAR",
+    "Conservative management only",
+    "Observation",
+    "Anticoagulation only"
+   ],
+   "ans": 0,
+   "exp": "Thoracotomy + graft repair or EVAR (Book p498)"
+  },
+  {
+   "id": "SURG-C64-097",
+   "sec": "Aortic Dissection: Classification and Management",
+   "page": 498,
+   "q": "Management of DeBakey type III dissection:",
+   "opts": [
+    "Conservative management + follow up, surgery if it progresses",
+    "Immediate thoracotomy in all",
+    "EVAR in all",
+    "Amputation"
+   ],
+   "ans": 0,
+   "exp": "Conservative management + follow up, surgery if it progresses (Book p498)"
+  },
+  {
+   "id": "SURG-C64-098",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Popliteal aneurysm is the:",
+   "opts": [
+    "M/c peripheral vessel aneurysm",
+    "M/c visceral aneurysm",
+    "M/c mycotic aneurysm",
+    "Rarest aneurysm"
+   ],
+   "ans": 0,
+   "exp": "M/c peripheral vessel aneurysm (Book p499)"
+  },
+  {
+   "id": "SURG-C64-099",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Proportion of popliteal aneurysms that are bilateral:",
+   "opts": [
+    "50%",
+    "10%",
+    "25%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "50% (Book p499)"
+  },
+  {
+   "id": "SURG-C64-100",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Clinical features of popliteal aneurysm:",
+   "opts": [
+    "Swelling behind the knee, loss of contour, pain and emboli",
+    "Claudication in the buttock",
+    "Hoarseness of voice",
+    "Haematuria"
+   ],
+   "ans": 0,
+   "exp": "Swelling behind the knee, loss of contour, pain and emboli (Book p499)"
+  },
+  {
+   "id": "SURG-C64-101",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "IOC for popliteal aneurysm:",
+   "opts": [
+    "Duplex / CT angiography",
+    "CXR",
+    "MRI",
+    "Plain X-ray knee"
+   ],
+   "ans": 0,
+   "exp": "Duplex / CT angiography (Book p499)"
+  },
+  {
+   "id": "SURG-C64-102",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Management threshold for an ASYMPTOMATIC popliteal aneurysm:",
+   "opts": [
+    ">2 cm — graft repair/EVAR",
+    ">5.5 cm",
+    ">10 cm",
+    "Never operated"
+   ],
+   "ans": 0,
+   "exp": ">2 cm — graft repair/EVAR (Book p499)"
+  },
+  {
+   "id": "SURG-C64-103",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Management of a symptomatic popliteal aneurysm:",
+   "opts": [
+    "Graft repair / EVAR",
+    "Observation",
+    "Compression",
+    "Amputation"
+   ],
+   "ans": 0,
+   "exp": "Graft repair / EVAR (Book p499)"
+  },
+  {
+   "id": "SURG-C64-104",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Cause of femoral artery aneurysm:",
+   "opts": [
+    "Puncture during blood draws / stenting procedures",
+    "Atherosclerosis only",
+    "Infection only",
+    "Congenital"
+   ],
+   "ans": 0,
+   "exp": "Puncture during blood draws / stenting procedures (Book p499)"
+  },
+  {
+   "id": "SURG-C64-105",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Management of a femoral artery aneurysm <3 cm:",
+   "opts": [
+    "Thrombin injection under USG guidance",
+    "Surgical repair",
+    "Observation",
+    "EVAR"
+   ],
+   "ans": 0,
+   "exp": "Thrombin injection under USG guidance (Book p499)"
+  },
+  {
+   "id": "SURG-C64-106",
+   "sec": "Popliteal and Femoral Artery Aneurysms",
+   "page": 499,
+   "q": "Management of a femoral artery aneurysm >3 cm:",
+   "opts": [
+    "Surgical repair",
+    "Thrombin injection",
+    "Observation",
+    "Compression"
+   ],
+   "ans": 0,
+   "exp": "Surgical repair (Book p499)"
+  },
+  {
+   "id": "SURG-C64-107",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "M/c site of carotid artery aneurysm:",
+   "opts": [
+    "Aortic bifurcation",
+    "Carotid siphon",
+    "Internal carotid at the skull base",
+    "External carotid"
+   ],
+   "ans": 0,
+   "exp": "The book records aortic bifurcation as the m/c site in this section (Book p499)"
+  },
+  {
+   "id": "SURG-C64-108",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "M/c cause of carotid artery aneurysm:",
+   "opts": [
+    "Atherosclerosis",
+    "Trauma",
+    "Infection",
+    "Marfan's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Atherosclerosis (Book p499)"
+  },
+  {
+   "id": "SURG-C64-109",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "M/c presentation of carotid artery disease:",
+   "opts": [
+    "Transient ischemic attack (TIA)",
+    "Hoarseness",
+    "Dysphagia",
+    "Headache"
+   ],
+   "ans": 0,
+   "exp": "Transient ischemic attack (TIA) (Book p499)"
+  },
+  {
+   "id": "SURG-C64-110",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "IOC for carotid artery aneurysm:",
+   "opts": [
+    "Duplex scan",
+    "CT angiography",
+    "MRI",
+    "DSA"
+   ],
+   "ans": 0,
+   "exp": "Duplex scan (Book p499)"
+  },
+  {
+   "id": "SURG-C64-111",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "Degree of stenosis required for carotid endarterectomy:",
+   "opts": [
+    "≥70%",
+    "≥30%",
+    "≥50%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "≥70% (Book p499)"
+  },
+  {
+   "id": "SURG-C64-112",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "Ocular indication for carotid endarterectomy:",
+   "opts": [
+    "Ipsilateral amaurosis fugax / monocular blindness",
+    "Contralateral amaurosis fugax",
+    "Bilateral cataract",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Ipsilateral amaurosis fugax / monocular blindness (Book p499)"
+  },
+  {
+   "id": "SURG-C64-113",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "Facial indication for carotid endarterectomy:",
+   "opts": [
+    "Contralateral facial paralysis",
+    "Ipsilateral facial paralysis",
+    "Bilateral facial numbness",
+    "Trigeminal neuralgia"
+   ],
+   "ans": 0,
+   "exp": "Contralateral facial paralysis (Book p499)"
+  },
+  {
+   "id": "SURG-C64-114",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy",
+   "page": 499,
+   "q": "Other neurological indications for carotid endarterectomy:",
+   "opts": [
+    "Arm/leg paralysis, hemianopia and dysphasia",
+    "Vertigo alone",
+    "Tinnitus",
+    "Anosmia"
+   ],
+   "ans": 0,
+   "exp": "Arm/leg paralysis, hemianopia and dysphasia (Book p499)"
+  },
+  {
+   "id": "SURG-C64-115",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Thoracic outlet syndrome is compression of:",
+   "opts": [
+    "Subclavian vessels and brachial plexus in the thoracic outlet",
+    "Axillary nerve only",
+    "Carotid artery and vagus",
+    "Vertebral artery"
+   ],
+   "ans": 0,
+   "exp": "Subclavian vessels and brachial plexus in the thoracic outlet (Book p500)"
+  },
+  {
+   "id": "SURG-C64-116",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Risk factors for thoracic outlet syndrome:",
+   "opts": [
+    "Cervical rib, weak musculature and trauma",
+    "Diabetes and obesity",
+    "Smoking alone",
+    "Hypertension"
+   ],
+   "ans": 0,
+   "exp": "Cervical rib, weak musculature and trauma (Book p500)"
+  },
+  {
+   "id": "SURG-C64-117",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Subclavian artery thrombus in thoracic outlet syndrome causes:",
+   "opts": [
+    "Emboli and unilateral claudication",
+    "Bilateral swelling",
+    "Hoarseness",
+    "Dysphagia"
+   ],
+   "ans": 0,
+   "exp": "Emboli and unilateral claudication (Book p500)"
+  },
+  {
+   "id": "SURG-C64-118",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Subclavian/axillary vein thrombosis in thoracic outlet syndrome causes:",
+   "opts": [
+    "Swelling of the upper limb",
+    "Pallor of the limb",
+    "Claudication",
+    "Gangrene of fingers"
+   ],
+   "ans": 0,
+   "exp": "Swelling of the upper limb (Book p500)"
+  },
+  {
+   "id": "SURG-C64-119",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Subclavian/axillary vein thrombosis is also known as:",
+   "opts": [
+    "Paget-Schroetter syndrome",
+    "Leriche syndrome",
+    "Ortner's syndrome",
+    "May-Thurner syndrome"
+   ],
+   "ans": 0,
+   "exp": "Paget-Schroetter syndrome (Book p500)"
+  },
+  {
+   "id": "SURG-C64-120",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "M/c nerve involved in brachial plexus compression in thoracic outlet syndrome:",
+   "opts": [
+    "Ulnar nerve",
+    "Median nerve",
+    "Radial nerve",
+    "Musculocutaneous nerve"
+   ],
+   "ans": 0,
+   "exp": "Ulnar nerve (Book p500)"
+  },
+  {
+   "id": "SURG-C64-121",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "ADSON test maneuver:",
+   "opts": [
+    "Arm abducted 30° and maximally extended, neck extended, head turned towards the ipsilateral shoulder, deep inhalation",
+    "Arms in surrender position with hands opening and closing",
+    "Wrists dorsiflexed with arms at 90°",
+    "Head tilted ear to shoulder"
+   ],
+   "ans": 0,
+   "exp": "Arm abducted 30° and maximally extended, neck extended, head turned towards the ipsilateral shoulder, deep inhalation (Book p500)"
+  },
+  {
+   "id": "SURG-C64-122",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Positive result of the ADSON test:",
+   "opts": [
+    "Decrease or absence of ipsilateral radial pulse",
+    "Increase in radial pulse",
+    "Contralateral pain",
+    "Loss of vision"
+   ],
+   "ans": 0,
+   "exp": "Decrease or absence of ipsilateral radial pulse (Book p500)"
+  },
+  {
+   "id": "SURG-C64-123",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "EAST (elevated arm stress test) is also called:",
+   "opts": [
+    "ROOS test",
+    "ELVEY test",
+    "ADSON test",
+    "Allen's test"
+   ],
+   "ans": 0,
+   "exp": "ROOS test (Book p500)"
+  },
+  {
+   "id": "SURG-C64-124",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "EAST/ROOS maneuver:",
+   "opts": [
+    "Arms in surrender position, shoulders abducted 90° in external rotation, elbows flexed 90°, hand opened and closed for 3 min",
+    "Deep inhalation with head turned",
+    "Ear to shoulder tilt",
+    "Wrist dorsiflexion only"
+   ],
+   "ans": 0,
+   "exp": "Arms in surrender position, shoulders abducted 90° in external rotation, elbows flexed 90°, hand opened and closed for 3 min (Book p500)"
+  },
+  {
+   "id": "SURG-C64-125",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Positive result of the EAST/ROOS test:",
+   "opts": [
+    "Precipitates pain, paresthesias, heaviness or weakness",
+    "Loss of radial pulse only",
+    "Contralateral symptoms only",
+    "Loss of vision"
+   ],
+   "ans": 0,
+   "exp": "Precipitates pain, paresthesias, heaviness or weakness (Book p500)"
+  },
+  {
+   "id": "SURG-C64-126",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "ULTT is also called:",
+   "opts": [
+    "ELVEY test",
+    "ROOS test",
+    "ADSON test",
+    "Branham test"
+   ],
+   "ans": 0,
+   "exp": "ELVEY test (Book p500)"
+  },
+  {
+   "id": "SURG-C64-127",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "ULTT position 1:",
+   "opts": [
+    "Arms abducted to 90° with elbows flexed",
+    "Active dorsiflexion of both wrists",
+    "Head tilted ear to shoulder",
+    "Arms in surrender position"
+   ],
+   "ans": 0,
+   "exp": "Arms abducted to 90° with elbows flexed (Book p500)"
+  },
+  {
+   "id": "SURG-C64-128",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "ULTT position 2:",
+   "opts": [
+    "Active dorsiflexion of both wrists",
+    "Arms abducted with elbows flexed",
+    "Head tilted ear to shoulder",
+    "Deep inhalation"
+   ],
+   "ans": 0,
+   "exp": "Active dorsiflexion of both wrists (Book p500)"
+  },
+  {
+   "id": "SURG-C64-129",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "ULTT position 3:",
+   "opts": [
+    "Head is tilted ear to shoulder, in both directions",
+    "Arms abducted to 90°",
+    "Wrist dorsiflexion",
+    "Deep inspiration"
+   ],
+   "ans": 0,
+   "exp": "Head is tilted ear to shoulder, in both directions (Book p500)"
+  },
+  {
+   "id": "SURG-C64-130",
+   "sec": "Thoracic Outlet Syndrome",
+   "page": 500,
+   "q": "Interpretation of the ULTT:",
+   "opts": [
+    "Positions 1 and 2 elicit ipsilateral symptoms, position 3 elicits contralateral symptoms",
+    "All positions elicit ipsilateral symptoms",
+    "All positions elicit contralateral symptoms",
+    "Only position 1 is diagnostic"
+   ],
+   "ans": 0,
+   "exp": "Positions 1 and 2 elicit ipsilateral symptoms, position 3 elicits contralateral symptoms (Book p500)"
+  },
+  {
+   "id": "SURG-C64-131",
+   "sec": "Thoracic Outlet Syndrome: Investigations and Management",
+   "page": 501,
+   "q": "IOC for thoracic outlet syndrome:",
+   "opts": [
+    "CT angiography",
+    "Duplex scan",
+    "MRI",
+    "CXR"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p501)"
+  },
+  {
+   "id": "SURG-C64-132",
+   "sec": "Thoracic Outlet Syndrome: Investigations and Management",
+   "page": 501,
+   "q": "CXR in thoracic outlet syndrome is done to look for:",
+   "opts": [
+    "Cervical rib",
+    "Pleural effusion",
+    "Mediastinal widening",
+    "Pneumothorax"
+   ],
+   "ans": 0,
+   "exp": "Cervical rib (Book p501)"
+  },
+  {
+   "id": "SURG-C64-133",
+   "sec": "Thoracic Outlet Syndrome: Investigations and Management",
+   "page": 501,
+   "q": "Management of a cervical rib in thoracic outlet syndrome:",
+   "opts": [
+    "Excision",
+    "Observation",
+    "Radiotherapy",
+    "Stenting"
+   ],
+   "ans": 0,
+   "exp": "Excision (Book p501)"
+  },
+  {
+   "id": "SURG-C64-134",
+   "sec": "Thoracic Outlet Syndrome: Investigations and Management",
+   "page": 501,
+   "q": "Excision of the cervical rib and physiotherapy are done to:",
+   "opts": [
+    "Relieve neurological symptoms",
+    "Relieve venous congestion only",
+    "Improve arterial flow only",
+    "Prevent recurrence of embolism"
+   ],
+   "ans": 0,
+   "exp": "Relieve neurological symptoms (Book p501)"
+  },
+  {
+   "id": "SURG-C64-135",
+   "sec": "Thoracic Outlet Syndrome: Investigations and Management",
+   "page": 501,
+   "q": "Management of an arterial block in thoracic outlet syndrome:",
+   "opts": [
+    "Stenting",
+    "Anticoagulation",
+    "Physiotherapy",
+    "Excision of rib alone"
+   ],
+   "ans": 0,
+   "exp": "Stenting (Book p501)"
+  },
+  {
+   "id": "SURG-C64-136",
+   "sec": "Thoracic Outlet Syndrome: Investigations and Management",
+   "page": 501,
+   "q": "Management of a venous block in thoracic outlet syndrome:",
+   "opts": [
+    "Anticoagulation",
+    "Stenting",
+    "Physiotherapy",
+    "Excision"
+   ],
+   "ans": 0,
+   "exp": "Anticoagulation (Book p501)"
+  },
+  {
+   "id": "SURG-C64-137",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Cirsoid aneurysm occurs in the region of the:",
+   "opts": [
+    "Superficial temporal vessels",
+    "Popliteal vessels",
+    "Femoral vessels",
+    "Splenic vessels"
+   ],
+   "ans": 0,
+   "exp": "Superficial temporal vessels (Book p501)"
+  },
+  {
+   "id": "SURG-C64-138",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Clinical feature of cirsoid aneurysm:",
+   "opts": [
+    "Pulsatile swelling",
+    "Non-pulsatile hard mass",
+    "Ulcer",
+    "Cold pale limb"
+   ],
+   "ans": 0,
+   "exp": "Pulsatile swelling (Book p501)"
+  },
+  {
+   "id": "SURG-C64-139",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Management of a symptomatic cirsoid aneurysm:",
+   "opts": [
+    "Surgery",
+    "Observation",
+    "Compression",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p501)"
+  },
+  {
+   "id": "SURG-C64-140",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "A-V fistula is:",
+   "opts": [
+    "Abnormal communication between arteries and veins",
+    "Communication between two veins",
+    "Communication between two arteries",
+    "Blocked lymphatic channel"
+   ],
+   "ans": 0,
+   "exp": "Abnormal communication between arteries and veins (Book p501)"
+  },
+  {
+   "id": "SURG-C64-141",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "M/c cause of A-V fistulae:",
+   "opts": [
+    "Iatrogenic (Cimino fistula)",
+    "Traumatic",
+    "Congenital",
+    "Infective"
+   ],
+   "ans": 0,
+   "exp": "Iatrogenic (Cimino fistula) (Book p501)"
+  },
+  {
+   "id": "SURG-C64-142",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Cimino fistula is a:",
+   "opts": [
+    "Radiocephalic fistula",
+    "Brachiobasilic fistula",
+    "Femoral-saphenous fistula",
+    "Carotid-jugular fistula"
+   ],
+   "ans": 0,
+   "exp": "Radiocephalic fistula (Book p501)"
+  },
+  {
+   "id": "SURG-C64-143",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Cimino fistula is used for:",
+   "opts": [
+    "Renal dialysis",
+    "Chemotherapy",
+    "Blood transfusion",
+    "Parenteral nutrition"
+   ],
+   "ans": 0,
+   "exp": "Renal dialysis (Book p501)"
+  },
+  {
+   "id": "SURG-C64-144",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Test done prior to creation of a Cimino fistula:",
+   "opts": [
+    "Modified Allen's test",
+    "ADSON test",
+    "Perthes test",
+    "Trendelenburg test"
+   ],
+   "ans": 0,
+   "exp": "Modified Allen's test (Book p501)"
+  },
+  {
+   "id": "SURG-C64-145",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Modified Allen's test assesses:",
+   "opts": [
+    "Radio-ulnar patency",
+    "Venous reflux",
+    "Arterial pressure",
+    "Nerve conduction"
+   ],
+   "ans": 0,
+   "exp": "Radio-ulnar patency (Book p501)"
+  },
+  {
+   "id": "SURG-C64-146",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Modified Allen's POSITIVE result:",
+   "opts": [
+    "Ulnar artery released and patent — palm reperfuses",
+    "Hand remains pale",
+    "Radial artery released and patent",
+    "No colour change on release"
+   ],
+   "ans": 0,
+   "exp": "Ulnar artery released and patent — palm reperfuses (Book p501)"
+  },
+  {
+   "id": "SURG-C64-147",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Modified Allen's NEGATIVE result:",
+   "opts": [
+    "Ulnar artery released and not patent — hand remains pale",
+    "Palm reperfuses quickly",
+    "Radial artery occluded only",
+    "Pulse increases"
+   ],
+   "ans": 0,
+   "exp": "Ulnar artery released and not patent — hand remains pale (Book p501)"
+  },
+  {
+   "id": "SURG-C64-148",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae",
+   "page": 501,
+   "q": "Congenital causes of A-V fistulae:",
+   "opts": [
+    "Parkes-Weber syndrome and Sturge-Weber syndrome",
+    "Klippel-Trenaunay and Marfan syndrome",
+    "Turner and Down syndrome",
+    "Behcet's and Takayasu"
+   ],
+   "ans": 0,
+   "exp": "Parkes-Weber syndrome and Sturge-Weber syndrome (Book p501)"
+  },
+  {
+   "id": "SURG-C64-149",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "Clinical feature of an A-V fistula:",
+   "opts": [
+    "Pulsatile swelling",
+    "Non-pulsatile cold mass",
+    "Ulcerated plaque",
+    "Depigmented patch"
+   ],
+   "ans": 0,
+   "exp": "Pulsatile swelling (Book p502)"
+  },
+  {
+   "id": "SURG-C64-150",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "Congenital A-V fistulae lead to:",
+   "opts": [
+    "High output cardiac failure (hyperdynamic state) and hypertrophy of limb",
+    "Low output cardiac failure",
+    "Limb atrophy",
+    "Pulmonary fibrosis"
+   ],
+   "ans": 0,
+   "exp": "High output cardiac failure (hyperdynamic state) and hypertrophy of limb (Book p502)"
+  },
+  {
+   "id": "SURG-C64-151",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "Sign elicited by pressing the feeding vessel of an A-V fistula:",
+   "opts": [
+    "Nicoladoni / Branham sign",
+    "Homan's sign",
+    "Moses sign",
+    "Tillaux sign"
+   ],
+   "ans": 0,
+   "exp": "Nicoladoni / Branham sign (Book p502)"
+  },
+  {
+   "id": "SURG-C64-152",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "On pressing the feeding vessel, the size of the fistula:",
+   "opts": [
+    "Decreases",
+    "Increases",
+    "Stays the same",
+    "Becomes pulsatile"
+   ],
+   "ans": 0,
+   "exp": "Decreases (Book p502)"
+  },
+  {
+   "id": "SURG-C64-153",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "On pressing the feeding vessel, the pulse rate:",
+   "opts": [
+    "Decreases",
+    "Increases",
+    "Stays the same",
+    "Becomes irregular"
+   ],
+   "ans": 0,
+   "exp": "Decreases (Book p502)"
+  },
+  {
+   "id": "SURG-C64-154",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "On pressing the feeding vessel, the systolic BP:",
+   "opts": [
+    "Increases markedly",
+    "Decreases",
+    "Stays the same",
+    "Becomes unrecordable"
+   ],
+   "ans": 0,
+   "exp": "Increases markedly (Book p502)"
+  },
+  {
+   "id": "SURG-C64-155",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "On pressing the feeding vessel, the bruit:",
+   "opts": [
+    "Decreases",
+    "Increases",
+    "Stays the same",
+    "Becomes continuous"
+   ],
+   "ans": 0,
+   "exp": "Decreases (Book p502)"
+  },
+  {
+   "id": "SURG-C64-156",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "IOC for imaging an A-V fistula:",
+   "opts": [
+    "MR angiography / DSA",
+    "USG",
+    "CXR",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "MR angiography / DSA (Book p502)"
+  },
+  {
+   "id": "SURG-C64-157",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "First-line management of an A-V fistula:",
+   "opts": [
+    "Embolisation",
+    "Surgical excision",
+    "Observation",
+    "Compression"
+   ],
+   "ans": 0,
+   "exp": "Embolisation (Book p502)"
+  },
+  {
+   "id": "SURG-C64-158",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "Embolisation is contraindicated in A-V fistula patients who are:",
+   "opts": [
+    "Infected / IV drug abusers",
+    "Elderly",
+    "Diabetic",
+    "Hypertensive"
+   ],
+   "ans": 0,
+   "exp": "Infected / IV drug abusers (Book p502)"
+  },
+  {
+   "id": "SURG-C64-159",
+   "sec": "A-V Fistulae: Features, Signs and Management",
+   "page": 502,
+   "q": "Management when embolisation is contraindicated:",
+   "opts": [
+    "Surgical excision",
+    "Observation",
+    "Radiotherapy",
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Surgical excision (Book p502)"
+  },
+  {
+   "id": "SURG-C64-160",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "Left main disease indication for CABG:",
+   "opts": [
+    "Greater than 50%",
+    "Greater than 20%",
+    "Greater than 70%",
+    "Greater than 90%"
+   ],
+   "ans": 0,
+   "exp": "Greater than 50% (Book p502)"
+  },
+  {
+   "id": "SURG-C64-161",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "Three-vessel coronary artery disease indication for CABG:",
+   "opts": [
+    "Greater than 70% with or without proximal LAD involvement",
+    "Greater than 30%",
+    "Greater than 50%",
+    "Only with LAD involvement"
+   ],
+   "ans": 0,
+   "exp": "Greater than 70% with or without proximal LAD involvement (Book p502)"
+  },
+  {
+   "id": "SURG-C64-162",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "Two-vessel disease indication for CABG:",
+   "opts": [
+    "LAD plus one other major artery",
+    "Any two arteries except LAD",
+    "Right coronary plus circumflex only",
+    "Any single artery"
+   ],
+   "ans": 0,
+   "exp": "LAD plus one other major artery (Book p502)"
+  },
+  {
+   "id": "SURG-C64-163",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "CABG is indicated for one or more stenoses >70% in a patient with:",
+   "opts": [
+    "Significant anginal symptoms despite maximal medical therapy",
+    "No symptoms",
+    "Normal stress test",
+    "Well-controlled angina"
+   ],
+   "ans": 0,
+   "exp": "Significant anginal symptoms despite maximal medical therapy (Book p502)"
+  },
+  {
+   "id": "SURG-C64-164",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "One vessel disease >70% is an indication for CABG in:",
+   "opts": [
+    "A survivor of sudden cardiac death with ischemia-related ventricular tachycardia",
+    "Any asymptomatic patient",
+    "A patient with atrial fibrillation",
+    "A patient with heart failure alone"
+   ],
+   "ans": 0,
+   "exp": "A survivor of sudden cardiac death with ischemia-related ventricular tachycardia (Book p502)"
+  },
+  {
+   "id": "SURG-C64-165",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "M/c graft used in CABG:",
+   "opts": [
+    "Reversed great saphenous vein",
+    "LIMA",
+    "RIMA",
+    "Radial artery"
+   ],
+   "ans": 0,
+   "exp": "Reversed great saphenous vein (Book p502)"
+  },
+  {
+   "id": "SURG-C64-166",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "M/c complication of reversed great saphenous vein harvesting:",
+   "opts": [
+    "Saphenous nerve injury",
+    "Sural nerve injury",
+    "Femoral vein injury",
+    "Deep vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Saphenous nerve injury (Book p502)"
+  },
+  {
+   "id": "SURG-C64-167",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "LIMA-LAD refers to:",
+   "opts": [
+    "Left internal mammary artery used for the left anterior descending artery",
+    "Left iliac mammary artery to LAD",
+    "Left internal mammary to left circumflex",
+    "Radial artery to LAD"
+   ],
+   "ans": 0,
+   "exp": "Left internal mammary artery used for the left anterior descending artery (Book p502)"
+  },
+  {
+   "id": "SURG-C64-168",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "RIMA stands for:",
+   "opts": [
+    "Right internal mammary artery",
+    "Right iliac mammary artery",
+    "Right intercostal mammary artery",
+    "Right internal maxillary artery"
+   ],
+   "ans": 0,
+   "exp": "Right internal mammary artery (Book p502)"
+  },
+  {
+   "id": "SURG-C64-169",
+   "sec": "Coronary Artery Bypass Grafting (CABG)",
+   "page": 502,
+   "q": "Arterial graft option in CABG besides the mammary arteries:",
+   "opts": [
+    "Radial artery",
+    "Ulnar artery",
+    "Brachial artery",
+    "Popliteal artery"
+   ],
+   "ans": 0,
+   "exp": "Radial artery (Book p502)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U64-1",
+   "ch": 64,
+   "n": 1,
+   "title": "Aneurysm: Definition and M/C Sites",
+   "sec": "Aneurysm: Definition and M/C Sites · p494",
+   "qs": [
+    "SURG-C64-001",
+    "SURG-C64-002",
+    "SURG-C64-003",
+    "SURG-C64-004",
+    "SURG-C64-005",
+    "SURG-C64-006",
+    "SURG-C64-007",
+    "SURG-C64-008"
+   ],
+   "guide": "An aneurysm is a dilated vessel — usually fusiform. Memorise the m/c list: circle of Willis overall, infra-renal abdominal aorta extracranially, popliteal for peripheral, splenic for visceral, and the aorta for mycotic aneurysms (S. aureus)."
+  },
+  {
+   "id": "SURG-U64-2",
+   "ch": 64,
+   "n": 2,
+   "title": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter",
+   "sec": "Abdominal Aortic Aneurysm: Site, Screening and Critical Diameter · p494",
+   "qs": [
+    "SURG-C64-009",
+    "SURG-C64-010",
+    "SURG-C64-011",
+    "SURG-C64-012",
+    "SURG-C64-013",
+    "SURG-C64-014",
+    "SURG-C64-015",
+    "SURG-C64-016",
+    "SURG-C64-017"
+   ],
+   "guide": "AAA is atherosclerotic and sits in the infra-renal aorta; the UK screens with USG from age 65. Critical diameters — 5.5 cm abdominal, 5.5 cm (or growth 0.5 cm/year) ascending thoracic, 6 cm descending thoracic, 4.5-5 cm in Marfan patients — are 0.5 cm less in women, and crossing them means rupture risk."
+  },
+  {
+   "id": "SURG-U64-3",
+   "ch": 64,
+   "n": 3,
+   "title": "AAA: Clinical Features, Rupture and Investigations",
+   "sec": "AAA: Clinical Features, Rupture and Investigations · p494",
+   "qs": [
+    "SURG-C64-018",
+    "SURG-C64-019",
+    "SURG-C64-020",
+    "SURG-C64-021",
+    "SURG-C64-022",
+    "SURG-C64-023",
+    "SURG-C64-024",
+    "SURG-C64-025"
+   ],
+   "guide": "Most AAAs are silent until they announce themselves with abdominal pain, a pulsatile mass, or blue toe syndrome from toe-vessel emboli. Rupture usually goes into the LEFT retroperitoneum, presents in shock and carries 50% mortality. Screen with USG, confirm with CT angiography."
+  },
+  {
+   "id": "SURG-U64-4",
+   "ch": 64,
+   "n": 4,
+   "title": "AAA Management, Guidelines and EVAR",
+   "sec": "AAA Management, Guidelines and EVAR · p495",
+   "qs": [
+    "SURG-C64-026",
+    "SURG-C64-027",
+    "SURG-C64-028",
+    "SURG-C64-029",
+    "SURG-C64-030",
+    "SURG-C64-031",
+    "SURG-C64-032",
+    "SURG-C64-033",
+    "SURG-C64-034",
+    "SURG-C64-035",
+    "SURG-C64-036",
+    "SURG-C64-037"
+   ],
+   "guide": "Treat conservatively below 5.5 cm when asymptomatic; intervene at 5.5 cm or with symptoms. NICE puts open surgical repair first, keeping EVAR for high-risk patients or a hostile abdomen, while the European Society favours EVAR in the young. The EVAR stent graft anchors its body in the aorta and limbs in the iliacs, needs lifelong follow-up, and is contraindicated by difficult access or steeply angulated iliac vessels."
+  },
+  {
+   "id": "SURG-U64-5",
+   "ch": 64,
+   "n": 5,
+   "title": "Endoleaks",
+   "sec": "Endoleaks · p495",
+   "qs": [
+    "SURG-C64-038",
+    "SURG-C64-039",
+    "SURG-C64-040",
+    "SURG-C64-041",
+    "SURG-C64-042",
+    "SURG-C64-043",
+    "SURG-C64-044",
+    "SURG-C64-045"
+   ],
+   "guide": "Endoleaks are EVAR's signature complication: type I improper seal (m/c after thoracic repair), type II retrograde lumbar flow (m/c in AAA), type III direct graft leak, type IV porous graft, type V endotension."
+  },
+  {
+   "id": "SURG-U64-6",
+   "ch": 64,
+   "n": 6,
+   "title": "Open Graft Surgery and Abdominal Maneuvers",
+   "sec": "Open Graft Surgery and Abdominal Maneuvers · p496",
+   "qs": [
+    "SURG-C64-046",
+    "SURG-C64-047",
+    "SURG-C64-048",
+    "SURG-C64-049",
+    "SURG-C64-050",
+    "SURG-C64-051",
+    "SURG-C64-052"
+   ],
+   "guide": "Open repair uses a Dacron or PTFE graft. To reach the aorta, do a Mattox left medial visceral rotation; to reach the IVC — as in RCC with IVC metastasis — do a Cattell-Braasch right medial visceral rotation; Kocherisation mobilises the duodenum."
+  },
+  {
+   "id": "SURG-U64-7",
+   "ch": 64,
+   "n": 7,
+   "title": "Complications of Aneurysm Surgery",
+   "sec": "Complications of Aneurysm Surgery · p496",
+   "qs": [
+    "SURG-C64-053",
+    "SURG-C64-054",
+    "SURG-C64-055",
+    "SURG-C64-056",
+    "SURG-C64-057",
+    "SURG-C64-058",
+    "SURG-C64-059",
+    "SURG-C64-060",
+    "SURG-C64-061",
+    "SURG-C64-062",
+    "SURG-C64-063"
+   ],
+   "guide": "Cardiovascular complications are the m/c cause of death after aneurysm surgery. Watch for renal failure, aorto-duodenal fistula causing upper GI bleed (CT angiography is IOC), left-sided colonic ischaemia from the splenic flexure watershed presenting as bloody diarrhoea, and paraparesis from injury to the artery of Adamkiewicz feeding the anterior spinal artery. Mortality: 2-3% elective, 50% ruptured."
+  },
+  {
+   "id": "SURG-U64-8",
+   "ch": 64,
+   "n": 8,
+   "title": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification)",
+   "sec": "Thoraco-abdominal Aortic Aneurysms (Crawford Classification) · p497",
+   "qs": [
+    "SURG-C64-064",
+    "SURG-C64-065",
+    "SURG-C64-066",
+    "SURG-C64-067",
+    "SURG-C64-068",
+    "SURG-C64-069",
+    "SURG-C64-070",
+    "SURG-C64-071",
+    "SURG-C64-072",
+    "SURG-C64-073",
+    "SURG-C64-074"
+   ],
+   "guide": "Crawford types the thoraco-abdominal aneurysm: I left subclavian to renal artery, II (most extensive) left subclavian to aortic bifurcation, III mid descending aorta to bifurcation, IV upper abdominal to infra-renal aorta. Causes are atherosclerosis and Marfan's; pressure gives Ortner's syndrome (hoarseness from left recurrent laryngeal nerve), dysphagia and dyspnea. Screen with USG, IOC CT angiography, and graft repair when symptomatic or ≥5.5 cm."
+  },
+  {
+   "id": "SURG-U64-9",
+   "ch": 64,
+   "n": 9,
+   "title": "Aortic Dissection: Pathology and Risk Factors",
+   "sec": "Aortic Dissection: Pathology and Risk Factors · p497",
+   "qs": [
+    "SURG-C64-075",
+    "SURG-C64-076",
+    "SURG-C64-077",
+    "SURG-C64-078"
+   ],
+   "guide": "Dissection begins as an intimal tear creating a false lumen between intima and media, classically on the lateral wall of the ascending thoracic aorta — an aneurysm complication triggered by hypertension."
+  },
+  {
+   "id": "SURG-U64-10",
+   "ch": 64,
+   "n": 10,
+   "title": "Aortic Dissection: Clinical Features and Investigations",
+   "sec": "Aortic Dissection: Clinical Features and Investigations · p498",
+   "qs": [
+    "SURG-C64-079",
+    "SURG-C64-080",
+    "SURG-C64-081",
+    "SURG-C64-082",
+    "SURG-C64-083",
+    "SURG-C64-084",
+    "SURG-C64-085",
+    "SURG-C64-086",
+    "SURG-C64-087"
+   ],
+   "guide": "Chest pain radiating to the back in a fifth-decade male, with unequal BP between the two arms or between arm and leg, is dissection until proved otherwise; hypotension and coronary insufficiency follow. CXR comes first (widened mediastinum, depressed left main bronchus), then CT angiography if stable or transesophageal echo if unstable."
+  },
+  {
+   "id": "SURG-U64-11",
+   "ch": 64,
+   "n": 11,
+   "title": "Aortic Dissection: Classification and Management",
+   "sec": "Aortic Dissection: Classification and Management · p498",
+   "qs": [
+    "SURG-C64-088",
+    "SURG-C64-089",
+    "SURG-C64-090",
+    "SURG-C64-091",
+    "SURG-C64-092",
+    "SURG-C64-093",
+    "SURG-C64-094",
+    "SURG-C64-095",
+    "SURG-C64-096",
+    "SURG-C64-097"
+   ],
+   "guide": "DeBakey I (m/c) takes ascending plus descending, II only ascending, III only descending; Stanford A covers DeBakey I and II, Stanford B is III. Start with a short-acting beta blocker (esmolol) or nicardipine for permissive hypotension, then thoracotomy with graft repair or EVAR for types I and II, and conservative follow-up for type III with surgery only if it progresses."
+  },
+  {
+   "id": "SURG-U64-12",
+   "ch": 64,
+   "n": 12,
+   "title": "Popliteal and Femoral Artery Aneurysms",
+   "sec": "Popliteal and Femoral Artery Aneurysms · p499",
+   "qs": [
+    "SURG-C64-098",
+    "SURG-C64-099",
+    "SURG-C64-100",
+    "SURG-C64-101",
+    "SURG-C64-102",
+    "SURG-C64-103",
+    "SURG-C64-104",
+    "SURG-C64-105",
+    "SURG-C64-106"
+   ],
+   "guide": "Popliteal aneurysm is the m/c peripheral aneurysm and is bilateral in half of patients — swelling behind the knee, loss of contour, pain and emboli, imaged by duplex or CT angiography, repaired by graft or EVAR when symptomatic or >2 cm. Femoral aneurysms follow arterial puncture: thrombin injection under USG guidance below 3 cm, surgery above."
+  },
+  {
+   "id": "SURG-U64-13",
+   "ch": 64,
+   "n": 13,
+   "title": "Carotid Artery Aneurysm and Endarterectomy",
+   "sec": "Carotid Artery Aneurysm and Endarterectomy · p499",
+   "qs": [
+    "SURG-C64-107",
+    "SURG-C64-108",
+    "SURG-C64-109",
+    "SURG-C64-110",
+    "SURG-C64-111",
+    "SURG-C64-112",
+    "SURG-C64-113",
+    "SURG-C64-114"
+   ],
+   "guide": "Carotid aneurysm is atherosclerotic and usually presents as a TIA; duplex is the IOC. Carotid endarterectomy needs ≥70% stenosis plus ipsilateral amaurosis fugax or monocular blindness, contralateral facial paralysis, arm/leg paralysis, hemianopia or dysphasia."
+  },
+  {
+   "id": "SURG-U64-14",
+   "ch": 64,
+   "n": 14,
+   "title": "Thoracic Outlet Syndrome",
+   "sec": "Thoracic Outlet Syndrome · p500",
+   "qs": [
+    "SURG-C64-115",
+    "SURG-C64-116",
+    "SURG-C64-117",
+    "SURG-C64-118",
+    "SURG-C64-119",
+    "SURG-C64-120",
+    "SURG-C64-121",
+    "SURG-C64-122",
+    "SURG-C64-123",
+    "SURG-C64-124",
+    "SURG-C64-125",
+    "SURG-C64-126",
+    "SURG-C64-127",
+    "SURG-C64-128",
+    "SURG-C64-129",
+    "SURG-C64-130"
+   ],
+   "guide": "Thoracic outlet syndrome compresses subclavian vessels and brachial plexus — cervical rib, weak musculature or trauma. Arterial thrombus throws emboli and causes unilateral claudication; subclavian/axillary vein thrombosis (Paget-Schroetter) swells the arm; plexus compression hits the ulnar nerve most. Three tests: ADSON (arm abducted 30°, neck extended, head turned, deep breath → loss of ipsilateral radial pulse), EAST/ROOS (surrender position, open-close hand 3 min → pain, paresthesia, heaviness) and ULTT/ELVEY (positions 1 and 2 ipsilateral, position 3 contralateral)."
+  },
+  {
+   "id": "SURG-U64-15",
+   "ch": 64,
+   "n": 15,
+   "title": "Thoracic Outlet Syndrome: Investigations and Management",
+   "sec": "Thoracic Outlet Syndrome: Investigations and Management · p501",
+   "qs": [
+    "SURG-C64-131",
+    "SURG-C64-132",
+    "SURG-C64-133",
+    "SURG-C64-134",
+    "SURG-C64-135",
+    "SURG-C64-136"
+   ],
+   "guide": "CT angiography is the IOC and CXR hunts the cervical rib. Excise the rib and add physiotherapy for neurological symptoms, stent an arterial block, anticoagulate a venous one."
+  },
+  {
+   "id": "SURG-U64-16",
+   "ch": 64,
+   "n": 16,
+   "title": "Cirsoid Aneurysm and A-V Fistulae",
+   "sec": "Cirsoid Aneurysm and A-V Fistulae · p501",
+   "qs": [
+    "SURG-C64-137",
+    "SURG-C64-138",
+    "SURG-C64-139",
+    "SURG-C64-140",
+    "SURG-C64-141",
+    "SURG-C64-142",
+    "SURG-C64-143",
+    "SURG-C64-144",
+    "SURG-C64-145",
+    "SURG-C64-146",
+    "SURG-C64-147",
+    "SURG-C64-148"
+   ],
+   "guide": "Cirsoid aneurysm is a pulsatile swelling over the superficial temporal vessels, excised if symptomatic. A-V fistulae are abnormal artery-vein communications — most often iatrogenic Cimino radiocephalic fistulae for dialysis, preceded by a modified Allen's test for radio-ulnar patency (positive = palm reperfuses on ulnar release, negative = hand stays pale) — with traumatic and congenital (Parkes-Weber, Sturge-Weber) causes too."
+  },
+  {
+   "id": "SURG-U64-17",
+   "ch": 64,
+   "n": 17,
+   "title": "A-V Fistulae: Features, Signs and Management",
+   "sec": "A-V Fistulae: Features, Signs and Management · p502",
+   "qs": [
+    "SURG-C64-149",
+    "SURG-C64-150",
+    "SURG-C64-151",
+    "SURG-C64-152",
+    "SURG-C64-153",
+    "SURG-C64-154",
+    "SURG-C64-155",
+    "SURG-C64-156",
+    "SURG-C64-157",
+    "SURG-C64-158",
+    "SURG-C64-159"
+   ],
+   "guide": "An A-V fistula is a pulsatile swelling; congenital ones cause high output cardiac failure and limb hypertrophy. Press the feeding vessel for the Nicoladoni/Branham sign: fistula size down, pulse rate down, systolic BP sharply up, bruit down. Image with MR angiography or DSA, and embolise — unless the patient is infected or an IV drug abuser, in which case excise surgically."
+  },
+  {
+   "id": "SURG-U64-18",
+   "ch": 64,
+   "n": 18,
+   "title": "Coronary Artery Bypass Grafting (CABG)",
+   "sec": "Coronary Artery Bypass Grafting (CABG) · p502",
+   "qs": [
+    "SURG-C64-160",
+    "SURG-C64-161",
+    "SURG-C64-162",
+    "SURG-C64-163",
+    "SURG-C64-164",
+    "SURG-C64-165",
+    "SURG-C64-166",
+    "SURG-C64-167",
+    "SURG-C64-168",
+    "SURG-C64-169"
+   ],
+   "guide": "CABG indications: left main >50%; three-vessel disease >70% with or without proximal LAD; two-vessel disease involving LAD plus another major artery; stenosis >70% with angina despite maximal medical therapy; and one-vessel disease >70% in a sudden cardiac death survivor with ischemia-related VT. Grafts: reversed great saphenous vein (m/c, complicated by saphenous nerve injury), LIMA to LAD, RIMA and the radial artery."
+  }
+ ]
+}

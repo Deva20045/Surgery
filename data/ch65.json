@@ -1,0 +1,1946 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C65-001",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "Development of the lymphatic system begins at:",
+   "opts": [
+    "6-7 weeks of gestation",
+    "2-3 weeks of gestation",
+    "10-12 weeks of gestation",
+    "20 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "6-7 weeks of gestation (Book p503)"
+  },
+  {
+   "id": "SURG-C65-002",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "Number of cystic spaces from which lymphatics develop:",
+   "opts": [
+    "4",
+    "2",
+    "6",
+    "8"
+   ],
+   "ans": 0,
+   "exp": "4 (Book p503)"
+  },
+  {
+   "id": "SURG-C65-003",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "Sites of the 4 cystic spaces:",
+   "opts": [
+    "One on each side of the neck (jugular) and groin (inguinal lymph sacs)",
+    "Two in the thorax and two in the abdomen",
+    "All four in the neck",
+    "All four in the pelvis"
+   ],
+   "ans": 0,
+   "exp": "One on each side of the neck (jugular) and groin (inguinal lymph sacs) (Book p503)"
+  },
+  {
+   "id": "SURG-C65-004",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "Lower limb and abdominal lymphatics drain via:",
+   "opts": [
+    "Cisterna chyli into the thoracic duct",
+    "Right lymphatic duct",
+    "Jugular trunk",
+    "Subclavian trunk directly"
+   ],
+   "ans": 0,
+   "exp": "Cisterna chyli into the thoracic duct (Book p503)"
+  },
+  {
+   "id": "SURG-C65-005",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "The thoracic duct opens into the:",
+   "opts": [
+    "Left IJV at its confluence with the subclavian vein",
+    "Right IJV",
+    "Right subclavian vein",
+    "Superior vena cava directly"
+   ],
+   "ans": 0,
+   "exp": "Left IJV at its confluence with the subclavian vein (Book p503)"
+  },
+  {
+   "id": "SURG-C65-006",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "Node involved by GI/GU cancer via the thoracic duct:",
+   "opts": [
+    "Left supraclavicular LN (Virchow's LN)",
+    "Right supraclavicular LN",
+    "Axillary LN",
+    "Inguinal LN"
+   ],
+   "ans": 0,
+   "exp": "Left supraclavicular LN (Virchow's LN) (Book p503)"
+  },
+  {
+   "id": "SURG-C65-007",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "Virchow's node is the:",
+   "opts": [
+    "Left supraclavicular lymph node",
+    "Right supraclavicular node",
+    "Left axillary node",
+    "Left inguinal node"
+   ],
+   "ans": 0,
+   "exp": "Left supraclavicular lymph node (Book p503)"
+  },
+  {
+   "id": "SURG-C65-008",
+   "sec": "Embryology and Development of Lymphatics",
+   "page": 503,
+   "q": "Head, neck and arm lymphatics drain into the:",
+   "opts": [
+    "Right IJV",
+    "Left IJV",
+    "Cisterna chyli",
+    "Thoracic duct"
+   ],
+   "ans": 0,
+   "exp": "Right IJV (Book p503)"
+  },
+  {
+   "id": "SURG-C65-009",
+   "sec": "Anatomy and Mechanism of Lymph Flow",
+   "page": 503,
+   "q": "Initial lymphatics are:",
+   "opts": [
+    "Endothelised capillaries",
+    "Muscular arterioles",
+    "Fibrous cords",
+    "Venous sinusoids"
+   ],
+   "ans": 0,
+   "exp": "Endothelised capillaries (Book p503)"
+  },
+  {
+   "id": "SURG-C65-010",
+   "sec": "Anatomy and Mechanism of Lymph Flow",
+   "page": 503,
+   "q": "Initial lymphatics drain into:",
+   "opts": [
+    "Terminal lymphatics and then lymph trunks",
+    "Veins directly",
+    "Arterioles",
+    "Lymph nodes only"
+   ],
+   "ans": 0,
+   "exp": "Terminal lymphatics and then lymph trunks (Book p503)"
+  },
+  {
+   "id": "SURG-C65-011",
+   "sec": "Anatomy and Mechanism of Lymph Flow",
+   "page": 503,
+   "q": "Type of valves in terminal lymphatics:",
+   "opts": [
+    "Bicuspid valves",
+    "Tricuspid valves",
+    "Semilunar valves",
+    "No valves"
+   ],
+   "ans": 0,
+   "exp": "Bicuspid valves (Book p503)"
+  },
+  {
+   "id": "SURG-C65-012",
+   "sec": "Anatomy and Mechanism of Lymph Flow",
+   "page": 503,
+   "q": "Segments of lymphatics partitioned by valves are called:",
+   "opts": [
+    "Lymphangions",
+    "Lymphangiomas",
+    "Lymphatic lacunae",
+    "Lacteals"
+   ],
+   "ans": 0,
+   "exp": "Lymphangions (Book p503)"
+  },
+  {
+   "id": "SURG-C65-013",
+   "sec": "Anatomy and Mechanism of Lymph Flow",
+   "page": 503,
+   "q": "Property of lymphangions:",
+   "opts": [
+    "Contractile — help movement of lymph",
+    "Passive and non-contractile",
+    "Secretory",
+    "Absorptive only"
+   ],
+   "ans": 0,
+   "exp": "Contractile — help movement of lymph (Book p503)"
+  },
+  {
+   "id": "SURG-C65-014",
+   "sec": "Anatomy and Mechanism of Lymph Flow",
+   "page": 503,
+   "q": "Mechanisms of lymph flow include all EXCEPT:",
+   "opts": [
+    "Arterial systolic pressure pumping lymph",
+    "Muscular contraction pushing lymphatics",
+    "Sequential contraction and relaxation of lymphangions",
+    "Valves preventing reflux"
+   ],
+   "ans": 0,
+   "exp": "Arterial systolic pressure pumping lymph (Book p503)"
+  },
+  {
+   "id": "SURG-C65-015",
+   "sec": "Anatomy and Mechanism of Lymph Flow",
+   "page": 503,
+   "q": "Function of lymphatic valves:",
+   "opts": [
+    "Prevent reflux",
+    "Increase capacitance",
+    "Generate contraction",
+    "Filter antigens"
+   ],
+   "ans": 0,
+   "exp": "Prevent reflux (Book p503)"
+  },
+  {
+   "id": "SURG-C65-016",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Cystic hygroma is composed of:",
+   "opts": [
+    "Sequestered lymphatic tissue",
+    "Sequestered arterial tissue",
+    "Fatty tissue",
+    "Neural tissue"
+   ],
+   "ans": 0,
+   "exp": "Sequestered lymphatic tissue (Book p503)"
+  },
+  {
+   "id": "SURG-C65-017",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "M/c site of cystic hygroma:",
+   "opts": [
+    "Neck — posterior triangle",
+    "Anterior triangle of neck",
+    "Axilla",
+    "Inguinal region"
+   ],
+   "ans": 0,
+   "exp": "Neck — posterior triangle (Book p503)"
+  },
+  {
+   "id": "SURG-C65-018",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Other sites of cystic hygroma:",
+   "opts": [
+    "Axillary and inguinal regions",
+    "Thorax and abdomen only",
+    "Scalp only",
+    "Retroperitoneum only"
+   ],
+   "ans": 0,
+   "exp": "Axillary and inguinal regions (Book p503)"
+  },
+  {
+   "id": "SURG-C65-019",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Consistency of a cystic hygroma:",
+   "opts": [
+    "Partially compressible (vascular) swelling",
+    "Hard and fixed",
+    "Bony hard",
+    "Rubbery and non-compressible"
+   ],
+   "ans": 0,
+   "exp": "Partially compressible (vascular) swelling (Book p503)"
+  },
+  {
+   "id": "SURG-C65-020",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Cystic hygroma is fluctuant due to:",
+   "opts": [
+    "Liquid lymph",
+    "Blood within",
+    "Pus",
+    "Air"
+   ],
+   "ans": 0,
+   "exp": "Liquid lymph (Book p503)"
+  },
+  {
+   "id": "SURG-C65-021",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Transillumination in cystic hygroma:",
+   "opts": [
+    "Brilliantly transilluminant",
+    "Non-transilluminant",
+    "Partially opaque",
+    "Variable"
+   ],
+   "ans": 0,
+   "exp": "Brilliantly transilluminant (Book p503)"
+  },
+  {
+   "id": "SURG-C65-022",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Other brilliantly transilluminant swellings include all EXCEPT:",
+   "opts": [
+    "Lipoma",
+    "Ranula (oral cavity)",
+    "Hydrocele",
+    "Epididymal cyst"
+   ],
+   "ans": 0,
+   "exp": "Lipoma (Book p503)"
+  },
+  {
+   "id": "SURG-C65-023",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "On pre-natal USG, cystic hygroma is a:",
+   "opts": [
+    "Soft marker for chromosomal abnormalities",
+    "Definitive sign of trisomy 21",
+    "Normal variant",
+    "Sign of fetal demise"
+   ],
+   "ans": 0,
+   "exp": "Soft marker for chromosomal abnormalities (Book p503)"
+  },
+  {
+   "id": "SURG-C65-024",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Obstetric presentation of a large cystic hygroma:",
+   "opts": [
+    "Obstructed labor",
+    "Preterm labor only",
+    "Placenta praevia",
+    "Oligohydramnios"
+   ],
+   "ans": 0,
+   "exp": "Obstructed labor (Book p503)"
+  },
+  {
+   "id": "SURG-C65-025",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "Neonatal presentation of a large cystic hygroma:",
+   "opts": [
+    "Respiratory distress",
+    "Jaundice",
+    "Seizures",
+    "Hypoglycaemia"
+   ],
+   "ans": 0,
+   "exp": "Respiratory distress (Book p503)"
+  },
+  {
+   "id": "SURG-C65-026",
+   "sec": "Cystic Hygroma",
+   "page": 503,
+   "q": "A cystic hygroma may also present as being:",
+   "opts": [
+    "Infected",
+    "Calcified",
+    "Malignant",
+    "Pulsatile"
+   ],
+   "ans": 0,
+   "exp": "Infected (Book p503)"
+  },
+  {
+   "id": "SURG-C65-027",
+   "sec": "Cystic Hygroma: Management",
+   "page": 504,
+   "q": "IOC for cystic hygroma:",
+   "opts": [
+    "FNAC",
+    "Excision biopsy",
+    "CT scan",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p504)"
+  },
+  {
+   "id": "SURG-C65-028",
+   "sec": "Cystic Hygroma: Management",
+   "page": 504,
+   "q": "Definitive treatment of cystic hygroma:",
+   "opts": [
+    "Surgery",
+    "Radiotherapy",
+    "Chemotherapy",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p504)"
+  },
+  {
+   "id": "SURG-C65-029",
+   "sec": "Cystic Hygroma: Management",
+   "page": 504,
+   "q": "Management of a LARGE cystic hygroma:",
+   "opts": [
+    "Sclerotherapy to reduce size, then surgery",
+    "Immediate radical excision",
+    "Radiotherapy first",
+    "Aspiration alone"
+   ],
+   "ans": 0,
+   "exp": "Sclerotherapy to reduce size, then surgery (Book p504)"
+  },
+  {
+   "id": "SURG-C65-030",
+   "sec": "Cystic Hygroma: Management",
+   "page": 504,
+   "q": "Nerve at risk during resection of a cystic hygroma:",
+   "opts": [
+    "Spinal accessory nerve",
+    "Hypoglossal nerve",
+    "Vagus nerve",
+    "Phrenic nerve"
+   ],
+   "ans": 0,
+   "exp": "Spinal accessory nerve (Book p504)"
+  },
+  {
+   "id": "SURG-C65-031",
+   "sec": "Acute Lymphangitis",
+   "page": 504,
+   "q": "Acute lymphangitis is:",
+   "opts": [
+    "Acute infection of lymphatics",
+    "Chronic fibrosis of lymphatics",
+    "Malignancy of lymphatics",
+    "Thrombosis of lymph nodes"
+   ],
+   "ans": 0,
+   "exp": "Acute infection of lymphatics (Book p504)"
+  },
+  {
+   "id": "SURG-C65-032",
+   "sec": "Acute Lymphangitis",
+   "page": 504,
+   "q": "Causative organisms of acute lymphangitis:",
+   "opts": [
+    "Streptococcus / Staphylococcus",
+    "E. coli",
+    "Wuchereria bancrofti",
+    "Mycobacterium tuberculosis"
+   ],
+   "ans": 0,
+   "exp": "Streptococcus / Staphylococcus (Book p504)"
+  },
+  {
+   "id": "SURG-C65-033",
+   "sec": "Acute Lymphangitis",
+   "page": 504,
+   "q": "Characteristic clinical sign of acute lymphangitis:",
+   "opts": [
+    "Reddish streak",
+    "Blue discoloration",
+    "Depigmented patch",
+    "Hard nodule"
+   ],
+   "ans": 0,
+   "exp": "Reddish streak (Book p504)"
+  },
+  {
+   "id": "SURG-C65-034",
+   "sec": "Acute Lymphangitis",
+   "page": 504,
+   "q": "Diagnosis of acute lymphangitis is:",
+   "opts": [
+    "Clinical",
+    "Radiological",
+    "Histological",
+    "Serological"
+   ],
+   "ans": 0,
+   "exp": "Clinical (Book p504)"
+  },
+  {
+   "id": "SURG-C65-035",
+   "sec": "Acute Lymphangitis",
+   "page": 504,
+   "q": "Treatment of acute lymphangitis:",
+   "opts": [
+    "Antibiotics, limb elevation and pain control; drain if pus present",
+    "Amputation",
+    "Sclerotherapy",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics, limb elevation and pain control; drain if pus present (Book p504)"
+  },
+  {
+   "id": "SURG-C65-036",
+   "sec": "Acute Lymphangitis",
+   "page": 504,
+   "q": "Management if pus is present in acute lymphangitis:",
+   "opts": [
+    "Drain",
+    "Antibiotics alone",
+    "Observe",
+    "Compression only"
+   ],
+   "ans": 0,
+   "exp": "Drain (Book p504)"
+  },
+  {
+   "id": "SURG-C65-037",
+   "sec": "Lymphedema: Definition and Types",
+   "page": 504,
+   "q": "Lymphedema is:",
+   "opts": [
+    "Excessive interstitial fluid (ISF)",
+    "Excess intravascular fluid",
+    "Excess intracellular fluid",
+    "Excess pleural fluid"
+   ],
+   "ans": 0,
+   "exp": "Excessive interstitial fluid (ISF) (Book p504)"
+  },
+  {
+   "id": "SURG-C65-038",
+   "sec": "Lymphedema: Definition and Types",
+   "page": 504,
+   "q": "Pathology of lymphedema:",
+   "opts": [
+    "Inability of the lymphatic system to clear the ISF compartment",
+    "Excess lymph production alone",
+    "Venous obstruction alone",
+    "Arterial insufficiency"
+   ],
+   "ans": 0,
+   "exp": "Inability of the lymphatic system to clear the ISF compartment (Book p504)"
+  },
+  {
+   "id": "SURG-C65-039",
+   "sec": "Lymphedema: Definition and Types",
+   "page": 504,
+   "q": "Primary lymphedema is due to:",
+   "opts": [
+    "Defective lymphatics/valves causing a clearing defect",
+    "Increased ISF production",
+    "Post-surgical damage",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Defective lymphatics/valves causing a clearing defect (Book p504)"
+  },
+  {
+   "id": "SURG-C65-040",
+   "sec": "Lymphedema: Definition and Types",
+   "page": 504,
+   "q": "Secondary lymphedema is due to:",
+   "opts": [
+    "↑ ISF production and damage to lymphatics",
+    "Defective valves from birth",
+    "Genetic mutation only",
+    "Arterial disease"
+   ],
+   "ans": 0,
+   "exp": "↑ ISF production and damage to lymphatics (Book p504)"
+  },
+  {
+   "id": "SURG-C65-041",
+   "sec": "Lymphedema: Definition and Types",
+   "page": 504,
+   "q": "Which type of lymphedema is commoner:",
+   "opts": [
+    "Secondary",
+    "Primary",
+    "Both equal",
+    "Neither occurs"
+   ],
+   "ans": 0,
+   "exp": "Secondary (Book p504)"
+  },
+  {
+   "id": "SURG-C65-042",
+   "sec": "Lymphedema: Definition and Types",
+   "page": 504,
+   "q": "Secondary lymphedema follows inflammation that is:",
+   "opts": [
+    "Secondary to post surgery and infection",
+    "Secondary to arterial thrombosis",
+    "Secondary to venous reflux",
+    "Congenital"
+   ],
+   "ans": 0,
+   "exp": "Secondary to post surgery and infection (Book p504)"
+  },
+  {
+   "id": "SURG-C65-043",
+   "sec": "Lymphedema: Definition and Types",
+   "page": 504,
+   "q": "Clinical features of lymphedema:",
+   "opts": [
+    "Pain (dull or sharp), swelling of limb, and skin changes when chronic",
+    "Claudication and rest pain",
+    "Fever with rigors",
+    "Pulsatile swelling"
+   ],
+   "ans": 0,
+   "exp": "Pain (dull or sharp), swelling of limb, and skin changes when chronic (Book p504)"
+  },
+  {
+   "id": "SURG-C65-044",
+   "sec": "Brunner's Classification of Lymphedema",
+   "page": 505,
+   "q": "Brunner grade 0 is:",
+   "opts": [
+    "Subclinical (latent)",
+    "Pitting edema",
+    "Non-pitting edema",
+    "Irreversible skin changes"
+   ],
+   "ans": 0,
+   "exp": "Subclinical (latent) (Book p505)"
+  },
+  {
+   "id": "SURG-C65-045",
+   "sec": "Brunner's Classification of Lymphedema",
+   "page": 505,
+   "q": "Brunner grade 0 shows:",
+   "opts": [
+    "Excess interstitial fluid and histological abnormalities but no clinically apparent lymphedema",
+    "Pitting edema on pressure",
+    "Non-pitting edema",
+    "Fibrosis and papillae"
+   ],
+   "ans": 0,
+   "exp": "Excess interstitial fluid and histological abnormalities but no clinically apparent lymphedema (Book p505)"
+  },
+  {
+   "id": "SURG-C65-046",
+   "sec": "Brunner's Classification of Lymphedema",
+   "page": 505,
+   "q": "Brunner grade I is:",
+   "opts": [
+    "Pitting edema",
+    "Subclinical",
+    "Non-pitting edema",
+    "Irreversible skin changes"
+   ],
+   "ans": 0,
+   "exp": "Pitting edema (Book p505)"
+  },
+  {
+   "id": "SURG-C65-047",
+   "sec": "Brunner's Classification of Lymphedema",
+   "page": 505,
+   "q": "Behaviour of Brunner grade I edema:",
+   "opts": [
+    "Pits on pressure and largely or completely disappears on elevation and bed rest",
+    "Does not pit and does not reduce",
+    "Associated with fibrosis",
+    "Not clinically apparent"
+   ],
+   "ans": 0,
+   "exp": "Pits on pressure and largely or completely disappears on elevation and bed rest (Book p505)"
+  },
+  {
+   "id": "SURG-C65-048",
+   "sec": "Brunner's Classification of Lymphedema",
+   "page": 505,
+   "q": "Brunner grade II is:",
+   "opts": [
+    "Non-pitting edema",
+    "Pitting edema",
+    "Subclinical",
+    "Fibrosis with papillae"
+   ],
+   "ans": 0,
+   "exp": "Non-pitting edema (Book p505)"
+  },
+  {
+   "id": "SURG-C65-049",
+   "sec": "Brunner's Classification of Lymphedema",
+   "page": 505,
+   "q": "Brunner grade II edema:",
+   "opts": [
+    "Does not pit and does not significantly reduce upon elevation; seen in long standing cases",
+    "Pits and disappears on elevation",
+    "Is subclinical",
+    "Always has papillae"
+   ],
+   "ans": 0,
+   "exp": "Does not pit and does not significantly reduce upon elevation; seen in long standing cases (Book p505)"
+  },
+  {
+   "id": "SURG-C65-050",
+   "sec": "Brunner's Classification of Lymphedema",
+   "page": 505,
+   "q": "Brunner grade III is characterised by:",
+   "opts": [
+    "Irreversible skin changes — fibrosis and papillae",
+    "Pitting edema",
+    "Non-pitting edema without skin change",
+    "No clinical findings"
+   ],
+   "ans": 0,
+   "exp": "Irreversible skin changes — fibrosis and papillae (Book p505)"
+  },
+  {
+   "id": "SURG-C65-051",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Complications of lymphedema:",
+   "opts": [
+    "Infection, skin changes and cancer (Stewart-Treves syndrome)",
+    "Claudication and gangrene",
+    "Deep vein thrombosis",
+    "Aneurysm formation"
+   ],
+   "ans": 0,
+   "exp": "Infection, skin changes and cancer (Stewart-Treves syndrome) (Book p505)"
+  },
+  {
+   "id": "SURG-C65-052",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Malignant complication of lymphedema:",
+   "opts": [
+    "Stewart-Treves syndrome",
+    "Marjolin's ulcer",
+    "Kaposi sarcoma",
+    "Melanoma"
+   ],
+   "ans": 0,
+   "exp": "Stewart-Treves syndrome (Book p505)"
+  },
+  {
+   "id": "SURG-C65-053",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Chronic skin changes of lymphedema include:",
+   "opts": [
+    "Loss of ankle contour, squaring of toes and thickened skin over the dorsum",
+    "Shiny hairless skin with absent pulses",
+    "Punched out ulcers",
+    "Depigmented patches"
+   ],
+   "ans": 0,
+   "exp": "Loss of ankle contour, squaring of toes and thickened skin over the dorsum (Book p505)"
+  },
+  {
+   "id": "SURG-C65-054",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Buffalo hump in lymphedema refers to:",
+   "opts": [
+    "Swelling over the dorsum of the foot",
+    "Swelling of the neck",
+    "Fat pad on the back",
+    "Calf swelling"
+   ],
+   "ans": 0,
+   "exp": "Swelling over the dorsum of the foot (Book p505)"
+  },
+  {
+   "id": "SURG-C65-055",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Thickened skin over the dorsum that cannot be pinched is:",
+   "opts": [
+    "Stemmer sign",
+    "Homan's sign",
+    "Branham sign",
+    "Moses sign"
+   ],
+   "ans": 0,
+   "exp": "Stemmer sign (Book p505)"
+  },
+  {
+   "id": "SURG-C65-056",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Stewart-Treves syndrome develops in lymphedema that is:",
+   "opts": [
+    "Long standing (8-10 years) and untreated",
+    "Acute (<1 month)",
+    "Well treated",
+    "Subclinical"
+   ],
+   "ans": 0,
+   "exp": "Long standing (8-10 years) and untreated (Book p505)"
+  },
+  {
+   "id": "SURG-C65-057",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Malignancy in Stewart-Treves syndrome:",
+   "opts": [
+    "Angiosarcoma",
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Angiosarcoma (Book p505)"
+  },
+  {
+   "id": "SURG-C65-058",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Classical setting of Stewart-Treves syndrome:",
+   "opts": [
+    "Lymphedema post mastectomy",
+    "Post appendicectomy",
+    "Post cholecystectomy",
+    "Post thyroidectomy"
+   ],
+   "ans": 0,
+   "exp": "Lymphedema post mastectomy (Book p505)"
+  },
+  {
+   "id": "SURG-C65-059",
+   "sec": "Complications and Chronic Skin Changes",
+   "page": 505,
+   "q": "Appearance of Stewart-Treves lesions:",
+   "opts": [
+    "Bluish/reddish nodules",
+    "White plaques",
+    "Punched out ulcers",
+    "Depigmented macules"
+   ],
+   "ans": 0,
+   "exp": "Bluish/reddish nodules (Book p505)"
+  },
+  {
+   "id": "SURG-C65-060",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Presentation of Stewart-Treves syndrome:",
+   "opts": [
+    "Bluish/reddish nodules in a lymphedematous limb",
+    "Painless ulcer on the sole",
+    "Pulsatile swelling",
+    "Cold pale limb"
+   ],
+   "ans": 0,
+   "exp": "Bluish/reddish nodules in a lymphedematous limb (Book p506)"
+  },
+  {
+   "id": "SURG-C65-061",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Investigation of choice for Stewart-Treves syndrome:",
+   "opts": [
+    "Biopsy",
+    "FNAC",
+    "CT scan",
+    "Lymphangiography"
+   ],
+   "ans": 0,
+   "exp": "Biopsy (Book p506)"
+  },
+  {
+   "id": "SURG-C65-062",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Management of Stewart-Treves syndrome:",
+   "opts": [
+    "Aggressive surgery (± amputation)",
+    "Observation",
+    "Compression stockings",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Aggressive surgery (± amputation) (Book p506)"
+  },
+  {
+   "id": "SURG-C65-063",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Gold standard for quantification of lymphedema:",
+   "opts": [
+    "Water plethysmography",
+    "Limb volume measurement",
+    "Lymphangiography",
+    "CT scan"
+   ],
+   "ans": 0,
+   "exp": "Water plethysmography (Book p506)"
+  },
+  {
+   "id": "SURG-C65-064",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Water plethysmography measures:",
+   "opts": [
+    "Amount of water displaced on limb immersion",
+    "Lymph flow rate",
+    "Interstitial pressure",
+    "Skin thickness"
+   ],
+   "ans": 0,
+   "exp": "Amount of water displaced on limb immersion (Book p506)"
+  },
+  {
+   "id": "SURG-C65-065",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Water plethysmography — mild lymphedema:",
+   "opts": [
+    "<20%",
+    "20-40%",
+    ">40%",
+    ">60%"
+   ],
+   "ans": 0,
+   "exp": "<20% (Book p506)"
+  },
+  {
+   "id": "SURG-C65-066",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Water plethysmography — moderate lymphedema:",
+   "opts": [
+    "20-40%",
+    "<20%",
+    ">40%",
+    ">60%"
+   ],
+   "ans": 0,
+   "exp": "20-40% (Book p506)"
+  },
+  {
+   "id": "SURG-C65-067",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Water plethysmography — severe lymphedema:",
+   "opts": [
+    ">40%",
+    "<20%",
+    "20-40%",
+    "10-20%"
+   ],
+   "ans": 0,
+   "exp": ">40% (Book p506)"
+  },
+  {
+   "id": "SURG-C65-068",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Crude method of quantifying lymphedema:",
+   "opts": [
+    "Limb volume measurement",
+    "Water plethysmography",
+    "Lymphangiography",
+    "CT"
+   ],
+   "ans": 0,
+   "exp": "Limb volume measurement (Book p506)"
+  },
+  {
+   "id": "SURG-C65-069",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "In lymphangiography, dye is injected into lymphatics through the:",
+   "opts": [
+    "Web space",
+    "Antecubital vein",
+    "Femoral artery",
+    "Skin of the thigh"
+   ],
+   "ans": 0,
+   "exp": "Web space (Book p506)"
+  },
+  {
+   "id": "SURG-C65-070",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Dye used in lymphangiography:",
+   "opts": [
+    "Indigo cyanine green (ICG)",
+    "Methylene blue",
+    "Iodine contrast",
+    "Patent blue V"
+   ],
+   "ans": 0,
+   "exp": "Indigo cyanine green (ICG) (Book p506)"
+  },
+  {
+   "id": "SURG-C65-071",
+   "sec": "Stewart-Treves Syndrome and Investigations",
+   "page": 506,
+   "q": "Single axial CT finding in lymphedema:",
+   "opts": [
+    "Reticular honeycomb pattern",
+    "Ground glass opacity",
+    "Tree in bud pattern",
+    "Target sign"
+   ],
+   "ans": 0,
+   "exp": "Reticular honeycomb pattern (Book p506)"
+  },
+  {
+   "id": "SURG-C65-072",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Age of onset of lymphedema congenita:",
+   "opts": [
+    "0-2 years",
+    "2-35 years",
+    ">35 years",
+    "At puberty"
+   ],
+   "ans": 0,
+   "exp": "0-2 years (Book p506)"
+  },
+  {
+   "id": "SURG-C65-073",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Sex distribution in lymphedema congenita:",
+   "opts": [
+    "M > F",
+    "F > M",
+    "Equal",
+    "Only females"
+   ],
+   "ans": 0,
+   "exp": "M > F (Book p506)"
+  },
+  {
+   "id": "SURG-C65-074",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Extent of involvement in lymphedema congenita:",
+   "opts": [
+    "Can involve multiple limbs, face and genitalia",
+    "Unilateral till the knee only",
+    "Only one arm",
+    "Only the face"
+   ],
+   "ans": 0,
+   "exp": "Can involve multiple limbs, face and genitalia (Book p506)"
+  },
+  {
+   "id": "SURG-C65-075",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Familial form of lymphedema congenita:",
+   "opts": [
+    "Nonne-Milroy syndrome",
+    "Meig's disease",
+    "Stewart-Treves syndrome",
+    "Klippel-Trenaunay syndrome"
+   ],
+   "ans": 0,
+   "exp": "Nonne-Milroy syndrome (Book p506)"
+  },
+  {
+   "id": "SURG-C65-076",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "M/c type of primary lymphedema:",
+   "opts": [
+    "Lymphedema praecox",
+    "Lymphedema congenita",
+    "Lymphedema tarda",
+    "All equal"
+   ],
+   "ans": 0,
+   "exp": "Lymphedema praecox (Book p506)"
+  },
+  {
+   "id": "SURG-C65-077",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Age range of lymphedema praecox:",
+   "opts": [
+    "2-35 years, peak at puberty",
+    "0-2 years",
+    ">35 years",
+    "50-70 years"
+   ],
+   "ans": 0,
+   "exp": "2-35 years, peak at puberty (Book p506)"
+  },
+  {
+   "id": "SURG-C65-078",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Sex distribution in lymphedema praecox:",
+   "opts": [
+    "F > M",
+    "M > F",
+    "Equal",
+    "Only males"
+   ],
+   "ans": 0,
+   "exp": "F > M (Book p506)"
+  },
+  {
+   "id": "SURG-C65-079",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Extent of involvement in lymphedema praecox:",
+   "opts": [
+    "Usually unilateral till the knee",
+    "Multiple limbs, face and genitalia",
+    "Bilateral above the knee",
+    "Upper limbs only"
+   ],
+   "ans": 0,
+   "exp": "Usually unilateral till the knee (Book p506)"
+  },
+  {
+   "id": "SURG-C65-080",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Familial form of lymphedema praecox:",
+   "opts": [
+    "Meig's disease",
+    "Nonne-Milroy syndrome",
+    "Parkes-Weber syndrome",
+    "Sturge-Weber syndrome"
+   ],
+   "ans": 0,
+   "exp": "Meig's disease (Book p506)"
+  },
+  {
+   "id": "SURG-C65-081",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Age of onset of lymphedema tarda:",
+   "opts": [
+    ">35 years",
+    "0-2 years",
+    "2-35 years",
+    "At puberty"
+   ],
+   "ans": 0,
+   "exp": ">35 years (Book p506)"
+  },
+  {
+   "id": "SURG-C65-082",
+   "sec": "Primary Lymphedema",
+   "page": 506,
+   "q": "Frequency of lymphedema tarda:",
+   "opts": [
+    "Rare",
+    "M/c primary lymphedema",
+    "Most frequent in children",
+    "Universal after 35"
+   ],
+   "ans": 0,
+   "exp": "Rare (Book p506)"
+  },
+  {
+   "id": "SURG-C65-083",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "page": 506,
+   "q": "M/c cause of UPPER limb secondary lymphedema:",
+   "opts": [
+    "Post mastectomy lymphedema",
+    "Filariasis",
+    "Trauma",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Post mastectomy lymphedema (Book p506)"
+  },
+  {
+   "id": "SURG-C65-084",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "page": 506,
+   "q": "M/c cause of LOWER limb secondary lymphedema:",
+   "opts": [
+    "Filariasis",
+    "Post mastectomy",
+    "Trauma",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Filariasis (Book p506)"
+  },
+  {
+   "id": "SURG-C65-085",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "page": 506,
+   "q": "M/c cause of secondary lymphedema overall:",
+   "opts": [
+    "Filariasis",
+    "Post mastectomy",
+    "Surgery",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Filariasis (Book p506)"
+  },
+  {
+   "id": "SURG-C65-086",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "page": 506,
+   "q": "Incidence of post mastectomy lymphedema:",
+   "opts": [
+    "2-10%",
+    "20-30%",
+    "40-50%",
+    "<1%"
+   ],
+   "ans": 0,
+   "exp": "2-10% (Book p506)"
+  },
+  {
+   "id": "SURG-C65-087",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "page": 506,
+   "q": "Procedure that DECREASES the incidence of post mastectomy lymphedema:",
+   "opts": [
+    "Sentinel lymph node biopsy",
+    "Axillary lymph node clearance",
+    "Radiotherapy to axilla",
+    "Resection of nodes above the axillary vein"
+   ],
+   "ans": 0,
+   "exp": "Sentinel lymph node biopsy (Book p506)"
+  },
+  {
+   "id": "SURG-C65-088",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "page": 506,
+   "q": "Factors that INCREASE post mastectomy lymphedema include all EXCEPT:",
+   "opts": [
+    "Sentinel lymph node biopsy",
+    "LN removal",
+    "Radiotherapy to axilla",
+    "LN above axillary vein resected"
+   ],
+   "ans": 0,
+   "exp": "Sentinel lymph node biopsy (Book p506)"
+  },
+  {
+   "id": "SURG-C65-089",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "page": 506,
+   "q": "Time of onset of post mastectomy lymphedema:",
+   "opts": [
+    "Weeks to months after surgery",
+    "Immediately in the recovery room",
+    "10 years after surgery",
+    "Only before surgery"
+   ],
+   "ans": 0,
+   "exp": "Weeks to months after surgery (Book p506)"
+  },
+  {
+   "id": "SURG-C65-090",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Elephantiasis is secondary to filariasis due to:",
+   "opts": [
+    "Wuchereria bancrofti",
+    "Brugia timori only",
+    "Onchocerca volvulus",
+    "Loa loa"
+   ],
+   "ans": 0,
+   "exp": "Wuchereria bancrofti (Book p507)"
+  },
+  {
+   "id": "SURG-C65-091",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Effect of filariasis on lymphatics:",
+   "opts": [
+    "Destroys lymphatics irreversibly",
+    "Causes reversible dilatation",
+    "Causes valve incompetence only",
+    "Causes lymphatic hyperplasia"
+   ],
+   "ans": 0,
+   "exp": "Destroys lymphatics irreversibly (Book p507)"
+  },
+  {
+   "id": "SURG-C65-092",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Microfilariae come into the peripheral blood:",
+   "opts": [
+    "During the night",
+    "During the day",
+    "Only after meals",
+    "Only during fever"
+   ],
+   "ans": 0,
+   "exp": "During the night (Book p507)"
+  },
+  {
+   "id": "SURG-C65-093",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Treatment of filariasis:",
+   "opts": [
+    "DEC (diethylcarbamazine)",
+    "Albendazole alone",
+    "Ivermectin alone",
+    "Praziquantel"
+   ],
+   "ans": 0,
+   "exp": "DEC (diethylcarbamazine) (Book p507)"
+  },
+  {
+   "id": "SURG-C65-094",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Lymphangioma is a:",
+   "opts": [
+    "Chronic skin change of lymphedema",
+    "Malignant tumour",
+    "Congenital arterial malformation",
+    "Venous malformation"
+   ],
+   "ans": 0,
+   "exp": "Chronic skin change of lymphedema (Book p507)"
+  },
+  {
+   "id": "SURG-C65-095",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Pathology of lymphangioma:",
+   "opts": [
+    "Lymphatic channels thrombose and fibrose forming nodules",
+    "Lymphatic channels dilate without thrombosis",
+    "Arterial channels fibrose",
+    "Fat necrosis"
+   ],
+   "ans": 0,
+   "exp": "Lymphatic channels thrombose and fibrose forming nodules (Book p507)"
+  },
+  {
+   "id": "SURG-C65-096",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Lymphangioma circumscriptum:",
+   "opts": [
+    "Nodules <5 cm",
+    "Nodules >5 cm",
+    "Reticular arrangement",
+    "Diffuse plaques"
+   ],
+   "ans": 0,
+   "exp": "Nodules <5 cm (Book p507)"
+  },
+  {
+   "id": "SURG-C65-097",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Lymphangioma diffusum:",
+   "opts": [
+    "Nodules >5 cm",
+    "Nodules <5 cm",
+    "Reticular arrangement",
+    "Solitary nodule"
+   ],
+   "ans": 0,
+   "exp": "Nodules >5 cm (Book p507)"
+  },
+  {
+   "id": "SURG-C65-098",
+   "sec": "Elephantiasis and Lymphangioma",
+   "page": 507,
+   "q": "Lymphangioma ab igne:",
+   "opts": [
+    "Reticular arrangement",
+    "Nodules <5 cm",
+    "Nodules >5 cm",
+    "Single plaque"
+   ],
+   "ans": 0,
+   "exp": "Reticular arrangement (Book p507)"
+  },
+  {
+   "id": "SURG-C65-099",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "Importance of skin care in lymphedema:",
+   "opts": [
+    "Dry skin is more prone to infection",
+    "Moist skin causes ulceration",
+    "Skin care prevents malignancy",
+    "Skin care reduces limb volume"
+   ],
+   "ans": 0,
+   "exp": "Dry skin is more prone to infection (Book p507)"
+  },
+  {
+   "id": "SURG-C65-100",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "Therapy used to control swelling in lymphedema:",
+   "opts": [
+    "Decongestive lymphedema therapy",
+    "Sclerotherapy",
+    "Thrombolysis",
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Decongestive lymphedema therapy (Book p507)"
+  },
+  {
+   "id": "SURG-C65-101",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "First phase of decongestive lymphedema therapy is:",
+   "opts": [
+    "Short, intensive, supervised therapy",
+    "Lifelong self care",
+    "Surgical",
+    "Pharmacological"
+   ],
+   "ans": 0,
+   "exp": "Short, intensive, supervised therapy (Book p507)"
+  },
+  {
+   "id": "SURG-C65-102",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "MLD stands for:",
+   "opts": [
+    "Manual lymphatic drainage",
+    "Multi-layer drainage",
+    "Mechanical lymph diversion",
+    "Micro-lymphatic dilatation"
+   ],
+   "ans": 0,
+   "exp": "Manual lymphatic drainage (Book p507)"
+  },
+  {
+   "id": "SURG-C65-103",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "Manual lymphatic drainage includes:",
+   "opts": [
+    "Massages, pneumatic stockings and limb elevation",
+    "Antibiotics and analgesics",
+    "Sclerotherapy",
+    "Laser ablation"
+   ],
+   "ans": 0,
+   "exp": "Massages, pneumatic stockings and limb elevation (Book p507)"
+  },
+  {
+   "id": "SURG-C65-104",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "MLLB stands for:",
+   "opts": [
+    "Multi-layer lymphedema bandaging",
+    "Multi-level lymph node biopsy",
+    "Manual limb lymph bandaging",
+    "Micro lymphatic bypass"
+   ],
+   "ans": 0,
+   "exp": "Multi-layer lymphedema bandaging (Book p507)"
+  },
+  {
+   "id": "SURG-C65-105",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "Before applying MLLB, one must rule out:",
+   "opts": [
+    "Arterial/venous disease using ABPI",
+    "Diabetes using HbA1c",
+    "Infection using culture",
+    "Malignancy using biopsy"
+   ],
+   "ans": 0,
+   "exp": "Arterial/venous disease using ABPI (Book p507)"
+  },
+  {
+   "id": "SURG-C65-106",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "Second phase of decongestive lymphedema therapy:",
+   "opts": [
+    "Maintenance phase — self care regimen",
+    "Intensive supervised therapy",
+    "Surgical resection",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Maintenance phase — self care regimen (Book p507)"
+  },
+  {
+   "id": "SURG-C65-107",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "Type of exercise recommended in lymphedema:",
+   "opts": [
+    "Slow rhythmic isotonic movement such as swimming",
+    "Isometric exercises",
+    "Heavy weight lifting",
+    "Complete rest"
+   ],
+   "ans": 0,
+   "exp": "Slow rhythmic isotonic movement such as swimming (Book p507)"
+  },
+  {
+   "id": "SURG-C65-108",
+   "sec": "Conservative Management of Lymphedema",
+   "page": 507,
+   "q": "Type of exercise to be AVOIDED in lymphedema:",
+   "opts": [
+    "Isometric exercises",
+    "Swimming",
+    "Slow rhythmic isotonic movement",
+    "Walking"
+   ],
+   "ans": 0,
+   "exp": "Isometric exercises (Book p507)"
+  },
+  {
+   "id": "SURG-C65-109",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Two broad categories of surgery for lymphedema:",
+   "opts": [
+    "Reconstructive and resective",
+    "Ablative and endovascular",
+    "Open and laparoscopic",
+    "Palliative and curative"
+   ],
+   "ans": 0,
+   "exp": "Reconstructive and resective (Book p508)"
+  },
+  {
+   "id": "SURG-C65-110",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Reconstructive surgery for lymphedema:",
+   "opts": [
+    "Lymphovenous anastomosis (Neubulowitz surgery)",
+    "Charles procedure",
+    "Homans procedure",
+    "Thompson's reduction"
+   ],
+   "ans": 0,
+   "exp": "Lymphovenous anastomosis (Neubulowitz surgery) (Book p508)"
+  },
+  {
+   "id": "SURG-C65-111",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Lymphovenous anastomosis is performed as:",
+   "opts": [
+    "Microsurgery",
+    "Open laparotomy",
+    "Endoscopic surgery",
+    "Percutaneous procedure"
+   ],
+   "ans": 0,
+   "exp": "Microsurgery (Book p508)"
+  },
+  {
+   "id": "SURG-C65-112",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Resective surgery is indicated in:",
+   "opts": [
+    "Advanced cases unresponsive to medical management",
+    "Early subclinical disease",
+    "Grade 0 lymphedema",
+    "All patients at diagnosis"
+   ],
+   "ans": 0,
+   "exp": "Advanced cases unresponsive to medical management (Book p508)"
+  },
+  {
+   "id": "SURG-C65-113",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Homans procedure involves:",
+   "opts": [
+    "Wedge resection of skin + subcutaneous tissue",
+    "Removal of all tissue till fascia",
+    "Burying a dermal flap",
+    "Lymphovenous anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Wedge resection of skin + subcutaneous tissue (Book p508)"
+  },
+  {
+   "id": "SURG-C65-114",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "M/c complication of the Homans procedure:",
+   "opts": [
+    "Skin necrosis",
+    "Pilonidal sinus",
+    "Worst cosmetic outcome",
+    "Nerve injury"
+   ],
+   "ans": 0,
+   "exp": "Skin necrosis (Book p508)"
+  },
+  {
+   "id": "SURG-C65-115",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Thompson's reduction involves:",
+   "opts": [
+    "Raising a flap, clearing out subcutaneous tissue and burying the skin before closure",
+    "Wedge resection of skin",
+    "Removing all tissue till fascia with STSG",
+    "Microsurgical anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Raising a flap, clearing out subcutaneous tissue and burying the skin before closure (Book p508)"
+  },
+  {
+   "id": "SURG-C65-116",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "M/c complication of Thompson's reduction:",
+   "opts": [
+    "Pilonidal sinus",
+    "Skin necrosis",
+    "Worst cosmetic outcome",
+    "Graft rejection"
+   ],
+   "ans": 0,
+   "exp": "Pilonidal sinus (Book p508)"
+  },
+  {
+   "id": "SURG-C65-117",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Charles procedure involves:",
+   "opts": [
+    "Removal of all tissue till the fascia followed by split thickness skin grafting",
+    "Wedge resection only",
+    "Burying a dermal flap",
+    "Lymphovenous anastomosis"
+   ],
+   "ans": 0,
+   "exp": "Removal of all tissue till the fascia followed by split thickness skin grafting (Book p508)"
+  },
+  {
+   "id": "SURG-C65-118",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "M/c complication of the Charles procedure:",
+   "opts": [
+    "Worst cosmetic outcome",
+    "Pilonidal sinus",
+    "Skin necrosis",
+    "Recurrence of tumour"
+   ],
+   "ans": 0,
+   "exp": "Worst cosmetic outcome (Book p508)"
+  },
+  {
+   "id": "SURG-C65-119",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "STSG in the Charles procedure stands for:",
+   "opts": [
+    "Split thickness skin grafting",
+    "Subcutaneous tissue skin graft",
+    "Skin tension suture graft",
+    "Superficial tissue skin grafting"
+   ],
+   "ans": 0,
+   "exp": "Split thickness skin grafting (Book p508)"
+  },
+  {
+   "id": "SURG-C65-120",
+   "sec": "Surgical Management of Lymphedema",
+   "page": 508,
+   "q": "Layers illustrated in the lymphedema resection diagrams from superficial to deep:",
+   "opts": [
+    "Skin, subcutaneous fat, deep fascia, bone",
+    "Bone, deep fascia, fat, skin",
+    "Skin, muscle, bone",
+    "Fascia, skin, fat, bone"
+   ],
+   "ans": 0,
+   "exp": "Skin, subcutaneous fat, deep fascia, bone (Book p508)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U65-1",
+   "ch": 65,
+   "n": 1,
+   "title": "Embryology and Development of Lymphatics",
+   "sec": "Embryology and Development of Lymphatics · p503",
+   "qs": [
+    "SURG-C65-001",
+    "SURG-C65-002",
+    "SURG-C65-003",
+    "SURG-C65-004",
+    "SURG-C65-005",
+    "SURG-C65-006",
+    "SURG-C65-007",
+    "SURG-C65-008"
+   ],
+   "guide": "Lymphatics sprout at 6-7 weeks from four cystic spaces — jugular sacs in each side of the neck and inguinal sacs in each groin. Lower limb and abdominal lymph climbs the cisterna chyli into the thoracic duct, which empties into the LEFT IJV at its confluence with the subclavian vein — which is exactly why GI/GU cancers seed Virchow's left supraclavicular node — while head, neck and arm lymph drains to the right IJV."
+  },
+  {
+   "id": "SURG-U65-2",
+   "ch": 65,
+   "n": 2,
+   "title": "Anatomy and Mechanism of Lymph Flow",
+   "sec": "Anatomy and Mechanism of Lymph Flow · p503",
+   "qs": [
+    "SURG-C65-009",
+    "SURG-C65-010",
+    "SURG-C65-011",
+    "SURG-C65-012",
+    "SURG-C65-013",
+    "SURG-C65-014",
+    "SURG-C65-015"
+   ],
+   "guide": "Endothelised initial lymphatics feed terminal lymphatics with bicuspid valves, then lymph trunks. Valves carve the vessel into contractile lymphangions; lymph moves by muscular contraction, sequential lymphangion contraction-relaxation, and valves that forbid reflux."
+  },
+  {
+   "id": "SURG-U65-3",
+   "ch": 65,
+   "n": 3,
+   "title": "Cystic Hygroma",
+   "sec": "Cystic Hygroma · p503",
+   "qs": [
+    "SURG-C65-016",
+    "SURG-C65-017",
+    "SURG-C65-018",
+    "SURG-C65-019",
+    "SURG-C65-020",
+    "SURG-C65-021",
+    "SURG-C65-022",
+    "SURG-C65-023",
+    "SURG-C65-024",
+    "SURG-C65-025",
+    "SURG-C65-026"
+   ],
+   "guide": "Cystic hygroma is sequestered lymphatic tissue, m/c in the posterior triangle of the neck (also axilla and groin). It is partially compressible, fluctuant from liquid lymph and BRILLIANTLY transilluminant — as are ranula, hydrocele and epididymal cyst. Antenatally it is a soft marker for chromosomal abnormalities; later it causes obstructed labor, respiratory distress or infection."
+  },
+  {
+   "id": "SURG-U65-4",
+   "ch": 65,
+   "n": 4,
+   "title": "Cystic Hygroma: Management",
+   "sec": "Cystic Hygroma: Management · p504",
+   "qs": [
+    "SURG-C65-027",
+    "SURG-C65-028",
+    "SURG-C65-029",
+    "SURG-C65-030"
+   ],
+   "guide": "FNAC is the IOC and surgery is the treatment; a large hygroma is first shrunk by sclerotherapy. The spinal accessory nerve is the one to protect during resection."
+  },
+  {
+   "id": "SURG-U65-5",
+   "ch": 65,
+   "n": 5,
+   "title": "Acute Lymphangitis",
+   "sec": "Acute Lymphangitis · p504",
+   "qs": [
+    "SURG-C65-031",
+    "SURG-C65-032",
+    "SURG-C65-033",
+    "SURG-C65-034",
+    "SURG-C65-035",
+    "SURG-C65-036"
+   ],
+   "guide": "Acute lymphangitis is streptococcal or staphylococcal infection of lymphatics, recognised clinically by pain and a reddish streak. Give antibiotics, elevate the limb, control pain, and drain if there is pus."
+  },
+  {
+   "id": "SURG-U65-6",
+   "ch": 65,
+   "n": 6,
+   "title": "Lymphedema: Definition and Types",
+   "sec": "Lymphedema: Definition and Types · p504",
+   "qs": [
+    "SURG-C65-037",
+    "SURG-C65-038",
+    "SURG-C65-039",
+    "SURG-C65-040",
+    "SURG-C65-041",
+    "SURG-C65-042",
+    "SURG-C65-043"
+   ],
+   "guide": "Lymphedema is excess interstitial fluid because the lymphatics cannot clear the ISF compartment. Primary lymphedema has defective lymphatics or valves (a clearing defect); secondary — the commoner form — combines increased ISF production with damaged lymphatics after surgery or infection. Patients get dull or sharp pain, limb swelling, and skin changes when chronic."
+  },
+  {
+   "id": "SURG-U65-7",
+   "ch": 65,
+   "n": 7,
+   "title": "Brunner's Classification of Lymphedema",
+   "sec": "Brunner's Classification of Lymphedema · p505",
+   "qs": [
+    "SURG-C65-044",
+    "SURG-C65-045",
+    "SURG-C65-046",
+    "SURG-C65-047",
+    "SURG-C65-048",
+    "SURG-C65-049",
+    "SURG-C65-050"
+   ],
+   "guide": "Brunner grades lymphedema: 0 subclinical/latent (excess ISF and histological change but nothing clinically apparent), I pitting edema that disappears with elevation and bed rest, II non-pitting edema that resists elevation in long standing cases, III edema with irreversible fibrosis and papillae."
+  },
+  {
+   "id": "SURG-U65-8",
+   "ch": 65,
+   "n": 8,
+   "title": "Complications and Chronic Skin Changes",
+   "sec": "Complications and Chronic Skin Changes · p505",
+   "qs": [
+    "SURG-C65-051",
+    "SURG-C65-052",
+    "SURG-C65-053",
+    "SURG-C65-054",
+    "SURG-C65-055",
+    "SURG-C65-056",
+    "SURG-C65-057",
+    "SURG-C65-058",
+    "SURG-C65-059"
+   ],
+   "guide": "Lymphedema complicates with infection, skin changes and cancer. The chronic limb loses its ankle contour, squares its toes and thickens its dorsal skin so it cannot be pinched — Stemmer sign — with a buffalo hump over the foot. Eight to ten years of untreated lymphedema, classically post-mastectomy, can turn into angiosarcoma: Stewart-Treves syndrome, with bluish-reddish nodules."
+  },
+  {
+   "id": "SURG-U65-9",
+   "ch": 65,
+   "n": 9,
+   "title": "Stewart-Treves Syndrome and Investigations",
+   "sec": "Stewart-Treves Syndrome and Investigations · p506",
+   "qs": [
+    "SURG-C65-060",
+    "SURG-C65-061",
+    "SURG-C65-062",
+    "SURG-C65-063",
+    "SURG-C65-064",
+    "SURG-C65-065",
+    "SURG-C65-066",
+    "SURG-C65-067",
+    "SURG-C65-068",
+    "SURG-C65-069",
+    "SURG-C65-070",
+    "SURG-C65-071"
+   ],
+   "guide": "Stewart-Treves nodules are biopsied and treated with aggressive surgery, sometimes amputation. Quantify lymphedema with water plethysmography, the gold standard, measuring water displaced on immersion: <20% mild, 20-40% moderate, >40% severe. Limb volume measurement is the crude alternative, lymphangiography injects indigo cyanine green through the web space, and single axial CT shows a reticular honeycomb pattern."
+  },
+  {
+   "id": "SURG-U65-10",
+   "ch": 65,
+   "n": 10,
+   "title": "Primary Lymphedema",
+   "sec": "Primary Lymphedema · p506",
+   "qs": [
+    "SURG-C65-072",
+    "SURG-C65-073",
+    "SURG-C65-074",
+    "SURG-C65-075",
+    "SURG-C65-076",
+    "SURG-C65-077",
+    "SURG-C65-078",
+    "SURG-C65-079",
+    "SURG-C65-080",
+    "SURG-C65-081",
+    "SURG-C65-082"
+   ],
+   "guide": "Primary lymphedema splits by age: congenita 0-2 years, M>F, may take multiple limbs, face and genitalia, familial as Nonne-Milroy syndrome; praecox 2-35 years peaking at puberty, F>M, usually unilateral till the knee, familial as Meig's disease and the m/c primary form; tarda, rare, after 35 years."
+  },
+  {
+   "id": "SURG-U65-11",
+   "ch": 65,
+   "n": 11,
+   "title": "Secondary Lymphedema and Post Mastectomy Lymphedema",
+   "sec": "Secondary Lymphedema and Post Mastectomy Lymphedema · p506",
+   "qs": [
+    "SURG-C65-083",
+    "SURG-C65-084",
+    "SURG-C65-085",
+    "SURG-C65-086",
+    "SURG-C65-087",
+    "SURG-C65-088",
+    "SURG-C65-089"
+   ],
+   "guide": "Secondary lymphedema: post mastectomy in the upper limb, filariasis in the lower limb and overall. Post mastectomy lymphedema affects 2-10%, falls with sentinel lymph node biopsy and rises with node removal, axillary radiotherapy and resection of nodes above the axillary vein — appearing weeks to months after surgery."
+  },
+  {
+   "id": "SURG-U65-12",
+   "ch": 65,
+   "n": 12,
+   "title": "Elephantiasis and Lymphangioma",
+   "sec": "Elephantiasis and Lymphangioma · p507",
+   "qs": [
+    "SURG-C65-090",
+    "SURG-C65-091",
+    "SURG-C65-092",
+    "SURG-C65-093",
+    "SURG-C65-094",
+    "SURG-C65-095",
+    "SURG-C65-096",
+    "SURG-C65-097",
+    "SURG-C65-098"
+   ],
+   "guide": "Elephantiasis follows Wuchereria bancrofti filariasis, which destroys lymphatics irreversibly; microfilariae surface in peripheral blood at night and DEC is the treatment. Lymphangioma is a chronic skin change in which lymphatic channels thrombose and fibrose into nodules: circumscriptum <5 cm, diffusum >5 cm, ab igne in a reticular arrangement."
+  },
+  {
+   "id": "SURG-U65-13",
+   "ch": 65,
+   "n": 13,
+   "title": "Conservative Management of Lymphedema",
+   "sec": "Conservative Management of Lymphedema · p507",
+   "qs": [
+    "SURG-C65-099",
+    "SURG-C65-100",
+    "SURG-C65-101",
+    "SURG-C65-102",
+    "SURG-C65-103",
+    "SURG-C65-104",
+    "SURG-C65-105",
+    "SURG-C65-106",
+    "SURG-C65-107",
+    "SURG-C65-108"
+   ],
+   "guide": "Conservative care means pain relief, skin care (dry skin invites infection) and decongestive lymphedema therapy — a short intensive supervised first phase of manual lymphatic drainage (massage, pneumatic stockings, limb elevation) and multi-layer lymphedema bandaging after ABPI excludes arterial or venous disease, then a maintenance self-care phase. Exercise should be slow rhythmic isotonic movement such as swimming; avoid isometric work."
+  },
+  {
+   "id": "SURG-U65-14",
+   "ch": 65,
+   "n": 14,
+   "title": "Surgical Management of Lymphedema",
+   "sec": "Surgical Management of Lymphedema · p508",
+   "qs": [
+    "SURG-C65-109",
+    "SURG-C65-110",
+    "SURG-C65-111",
+    "SURG-C65-112",
+    "SURG-C65-113",
+    "SURG-C65-114",
+    "SURG-C65-115",
+    "SURG-C65-116",
+    "SURG-C65-117",
+    "SURG-C65-118",
+    "SURG-C65-119",
+    "SURG-C65-120"
+   ],
+   "guide": "Surgery is reconstructive — microsurgical lymphovenous anastomosis (Neubulowitz) — or resective for advanced disease unresponsive to medical care. Homans wedge-resects skin and subcutaneous tissue (m/c complication skin necrosis); Thompson's reduction raises a flap, clears subcutaneous tissue and buries the skin (m/c complication pilonidal sinus); Charles removes everything down to fascia and covers with split thickness skin graft, giving the worst cosmetic outcome."
+  }
+ ]
+}

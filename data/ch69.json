@@ -1,0 +1,2461 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C69-001",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "Lobes of the RIGHT lung:",
+   "opts": [
+    "Upper, middle and lower lobe",
+    "Upper and lower lobe only",
+    "Upper and middle lobe only",
+    "Four lobes"
+   ],
+   "ans": 0,
+   "exp": "Upper, middle and lower lobe (Book p535)"
+  },
+  {
+   "id": "SURG-C69-002",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "Lobes of the LEFT lung:",
+   "opts": [
+    "Upper and lower lobe",
+    "Upper, middle and lower lobe",
+    "Lower lobe only",
+    "Four lobes"
+   ],
+   "ans": 0,
+   "exp": "Upper and lower lobe (Book p535)"
+  },
+  {
+   "id": "SURG-C69-003",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "Why is aspiration and foreign body lodgement commoner on the right:",
+   "opts": [
+    "The right mainstem bronchus is shorter and straighter",
+    "The right bronchus is longer and curved",
+    "The left bronchus is wider",
+    "The carina deviates left"
+   ],
+   "ans": 0,
+   "exp": "The right mainstem bronchus is shorter and straighter (Book p535)"
+  },
+  {
+   "id": "SURG-C69-004",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "M/c sites of aspiration abscess formation:",
+   "opts": [
+    "Posterior upper lobe and superior lower lobe",
+    "Anterior upper lobe and lingula",
+    "Middle lobe only",
+    "Left lower lobe only"
+   ],
+   "ans": 0,
+   "exp": "Posterior upper lobe and superior lower lobe (Book p535)"
+  },
+  {
+   "id": "SURG-C69-005",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "Clinical features of bronchial foreign body:",
+   "opts": [
+    "Wheezing, stridor and collapse with complete block",
+    "Haemoptysis and clubbing",
+    "Pleuritic pain with hyper-resonance",
+    "Fever with pus"
+   ],
+   "ans": 0,
+   "exp": "Wheezing, stridor and collapse with complete block (Book p535)"
+  },
+  {
+   "id": "SURG-C69-006",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "Diagnosis and management of a bronchial foreign body:",
+   "opts": [
+    "X-ray for diagnosis and bronchoscopic removal",
+    "CT and thoracotomy",
+    "MRI and observation",
+    "USG and antibiotics"
+   ],
+   "ans": 0,
+   "exp": "X-ray for diagnosis and bronchoscopic removal (Book p535)"
+  },
+  {
+   "id": "SURG-C69-007",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "Thoracoscore is:",
+   "opts": [
+    "A prognostic score of mortality post lung resection using 9 criteria",
+    "A staging system for lung cancer",
+    "A score for pneumothorax size",
+    "A pain score"
+   ],
+   "ans": 0,
+   "exp": "A prognostic score of mortality post lung resection using 9 criteria (Book p535)"
+  },
+  {
+   "id": "SURG-C69-008",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "Number of criteria in the Thoracoscore:",
+   "opts": [
+    "9",
+    "5",
+    "7",
+    "12"
+   ],
+   "ans": 0,
+   "exp": "9 (Book p535)"
+  },
+  {
+   "id": "SURG-C69-009",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "page": 535,
+   "q": "FEV1 and DLCO (diffusion capacity) are used for:",
+   "opts": [
+    "Prediction of dyspnoea post lung surgery",
+    "Predicting mortality only",
+    "Staging lung cancer",
+    "Diagnosing empyema"
+   ],
+   "ans": 0,
+   "exp": "Prediction of dyspnoea post lung surgery (Book p535)"
+  },
+  {
+   "id": "SURG-C69-010",
+   "sec": "Spontaneous Pneumothorax: Types",
+   "page": 535,
+   "q": "Pneumothorax means:",
+   "opts": [
+    "Air in the pleural space",
+    "Pus in the pleural space",
+    "Blood in the pleural space",
+    "Fluid in the pericardium"
+   ],
+   "ans": 0,
+   "exp": "Air in the pleural space (Book p535)"
+  },
+  {
+   "id": "SURG-C69-011",
+   "sec": "Spontaneous Pneumothorax: Types",
+   "page": 535,
+   "q": "Demographics of primary spontaneous pneumothorax:",
+   "opts": [
+    "Young, tall people, males > females, usually with a family history",
+    "Elderly females with lung disease",
+    "Children under 5",
+    "Obese middle aged women"
+   ],
+   "ans": 0,
+   "exp": "Young, tall people, males > females, usually with a family history (Book p535)"
+  },
+  {
+   "id": "SURG-C69-012",
+   "sec": "Spontaneous Pneumothorax: Types",
+   "page": 535,
+   "q": "Source of air leak in primary spontaneous pneumothorax:",
+   "opts": [
+    "Leak from blebs, usually in the upper lobe",
+    "Leak from a lower lobe cavity",
+    "Oesophageal perforation",
+    "Tracheal tear"
+   ],
+   "ans": 0,
+   "exp": "Leak from blebs, usually in the upper lobe (Book p535)"
+  },
+  {
+   "id": "SURG-C69-013",
+   "sec": "Spontaneous Pneumothorax: Types",
+   "page": 535,
+   "q": "Lung function and tolerance in primary spontaneous pneumothorax:",
+   "opts": [
+    "Normal lung function with better pneumothorax tolerance",
+    "Poor lung function with poor tolerance",
+    "Normal function but poor tolerance",
+    "Always requires ventilation"
+   ],
+   "ans": 0,
+   "exp": "Normal lung function with better pneumothorax tolerance (Book p535)"
+  },
+  {
+   "id": "SURG-C69-014",
+   "sec": "Spontaneous Pneumothorax: Types",
+   "page": 535,
+   "q": "Secondary spontaneous pneumothorax occurs due to:",
+   "opts": [
+    "Underlying lung disease such as TB, tumors and emphysema",
+    "Blebs in healthy lung",
+    "Tall stature",
+    "Family history alone"
+   ],
+   "ans": 0,
+   "exp": "Underlying lung disease such as TB, tumors and emphysema (Book p535)"
+  },
+  {
+   "id": "SURG-C69-015",
+   "sec": "Spontaneous Pneumothorax: Types",
+   "page": 535,
+   "q": "Patients affected by secondary spontaneous pneumothorax:",
+   "opts": [
+    "Older patients with less pneumothorax tolerance than primary",
+    "Young tall males with good tolerance",
+    "Children",
+    "Pregnant women only"
+   ],
+   "ans": 0,
+   "exp": "Older patients with less pneumothorax tolerance than primary (Book p535)"
+  },
+  {
+   "id": "SURG-C69-016",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Pain of spontaneous pneumothorax:",
+   "opts": [
+    "Sharp pleuritic pain",
+    "Dull aching central chest pain",
+    "Burning epigastric pain",
+    "Radiating back pain"
+   ],
+   "ans": 0,
+   "exp": "Sharp pleuritic pain (Book p536)"
+  },
+  {
+   "id": "SURG-C69-017",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Percussion note in pneumothorax:",
+   "opts": [
+    "Hyper-resonant",
+    "Dull",
+    "Stony dull",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Hyper-resonant (Book p536)"
+  },
+  {
+   "id": "SURG-C69-018",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Auscultation finding in pneumothorax:",
+   "opts": [
+    "Absent breath sounds",
+    "Bronchial breathing",
+    "Crepitations",
+    "Pleural rub only"
+   ],
+   "ans": 0,
+   "exp": "Absent breath sounds (Book p536)"
+  },
+  {
+   "id": "SURG-C69-019",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Diagnostic investigation for pneumothorax:",
+   "opts": [
+    "Chest X-ray",
+    "MRI",
+    "PET-CT",
+    "Bronchoscopy"
+   ],
+   "ans": 0,
+   "exp": "Chest X-ray (Book p536)"
+  },
+  {
+   "id": "SURG-C69-020",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Immediate step if pneumothorax is bilateral or the patient is haemodynamically unstable:",
+   "opts": [
+    "Proceed to chest drain",
+    "Observe for 24 hours",
+    "Aspirate only",
+    "Discharge with review"
+   ],
+   "ans": 0,
+   "exp": "Proceed to chest drain (Book p536)"
+  },
+  {
+   "id": "SURG-C69-021",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Features favouring a SECONDARY pneumothorax in the algorithm:",
+   "opts": [
+    "Age >50 with significant smoking history, or evidence of underlying lung disease",
+    "Young tall male with normal X-ray",
+    "Family history alone",
+    "Female sex"
+   ],
+   "ans": 0,
+   "exp": "Age >50 with significant smoking history, or evidence of underlying lung disease (Book p536)"
+  },
+  {
+   "id": "SURG-C69-022",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Management of a PRIMARY pneumothorax that is <2 cm and not breathless:",
+   "opts": [
+    "Consider discharge with OPD review in 2-4 weeks",
+    "Aspirate",
+    "Chest drain",
+    "Admit for 24 hours oxygen"
+   ],
+   "ans": 0,
+   "exp": "Consider discharge with OPD review in 2-4 weeks (Book p536)"
+  },
+  {
+   "id": "SURG-C69-023",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Management of a PRIMARY pneumothorax >2 cm and/or breathless:",
+   "opts": [
+    "Aspirate, and if that fails place a chest drain 8-14 Fr",
+    "Discharge with review",
+    "Immediate thoracotomy",
+    "Observation alone"
+   ],
+   "ans": 0,
+   "exp": "Aspirate, and if that fails place a chest drain 8-14 Fr (Book p536)"
+  },
+  {
+   "id": "SURG-C69-024",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Management of a SECONDARY pneumothorax >2 cm and/or breathless:",
+   "opts": [
+    "Chest drain 8-14 Fr",
+    "Discharge review",
+    "Aspirate only",
+    "Observe 24 hours"
+   ],
+   "ans": 0,
+   "exp": "Chest drain 8-14 Fr (Book p536)"
+  },
+  {
+   "id": "SURG-C69-025",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Management of a SECONDARY pneumothorax measuring 1-2 cm:",
+   "opts": [
+    "Aspirate",
+    "Discharge",
+    "Chest drain always",
+    "Thoracotomy"
+   ],
+   "ans": 0,
+   "exp": "Aspirate (Book p536)"
+  },
+  {
+   "id": "SURG-C69-026",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Management of a SECONDARY pneumothorax <1 cm:",
+   "opts": [
+    "Admit, high flow oxygen and observe for 24 hours",
+    "Discharge with review",
+    "Aspirate",
+    "Chest drain"
+   ],
+   "ans": 0,
+   "exp": "Admit, high flow oxygen and observe for 24 hours (Book p536)"
+  },
+  {
+   "id": "SURG-C69-027",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm",
+   "page": 536,
+   "q": "Size of chest drain used in pneumothorax:",
+   "opts": [
+    "8-14 Fr",
+    "20-24 Fr",
+    "28-32 Fr",
+    "36 Fr"
+   ],
+   "ans": 0,
+   "exp": "8-14 Fr (Book p536)"
+  },
+  {
+   "id": "SURG-C69-028",
+   "sec": "Indications for Surgery in Pneumothorax",
+   "page": 536,
+   "q": "Indications for surgical intervention in pneumothorax include all EXCEPT:",
+   "opts": [
+    "A first primary ipsilateral pneumothorax that resolves with aspiration",
+    "Secondary ipsilateral pneumothorax",
+    "First contralateral pneumothorax",
+    "Bilateral spontaneous pneumothorax"
+   ],
+   "ans": 0,
+   "exp": "A first primary ipsilateral pneumothorax that resolves with aspiration (Book p536)"
+  },
+  {
+   "id": "SURG-C69-029",
+   "sec": "Indications for Surgery in Pneumothorax",
+   "page": 536,
+   "q": "Failure of which treatment mandates surgery in pneumothorax:",
+   "opts": [
+    "Pneumothorax failing to settle despite chest drainage",
+    "Failure of oxygen therapy alone",
+    "Failure of antibiotics",
+    "Failure of analgesia"
+   ],
+   "ans": 0,
+   "exp": "Pneumothorax failing to settle despite chest drainage (Book p536)"
+  },
+  {
+   "id": "SURG-C69-030",
+   "sec": "Indications for Surgery in Pneumothorax",
+   "page": 536,
+   "q": "Professions in which spontaneous pneumothorax warrants surgery:",
+   "opts": [
+    "Pilots and divers",
+    "Teachers and clerks",
+    "Drivers",
+    "Farmers"
+   ],
+   "ans": 0,
+   "exp": "Pilots and divers (Book p536)"
+  },
+  {
+   "id": "SURG-C69-031",
+   "sec": "Indications for Surgery in Pneumothorax",
+   "page": 536,
+   "q": "Pregnancy in a patient with spontaneous pneumothorax is:",
+   "opts": [
+    "An indication for surgical intervention",
+    "A contraindication to any treatment",
+    "Irrelevant",
+    "An indication for observation only"
+   ],
+   "ans": 0,
+   "exp": "An indication for surgical intervention (Book p536)"
+  },
+  {
+   "id": "SURG-C69-032",
+   "sec": "Interventions for Pneumothorax",
+   "page": 537,
+   "q": "Agents used for pleurodesis:",
+   "opts": [
+    "TALC / tetracycline",
+    "Bleomycin and cisplatin",
+    "Adrenaline",
+    "Heparin"
+   ],
+   "ans": 0,
+   "exp": "TALC / tetracycline (Book p537)"
+  },
+  {
+   "id": "SURG-C69-033",
+   "sec": "Interventions for Pneumothorax",
+   "page": 537,
+   "q": "VATS stands for:",
+   "opts": [
+    "Video assisted thoracoscopic surgery",
+    "Ventilated assisted thoracic support",
+    "Vascular assisted thoracic surgery",
+    "Venous access thoracic system"
+   ],
+   "ans": 0,
+   "exp": "Video assisted thoracoscopic surgery (Book p537)"
+  },
+  {
+   "id": "SURG-C69-034",
+   "sec": "Interventions for Pneumothorax",
+   "page": 537,
+   "q": "How is working space created in VATS:",
+   "opts": [
+    "By collapsing one lung via a double lumen endotracheal tube",
+    "By CO2 insufflation only",
+    "By rib resection",
+    "By diaphragm paralysis"
+   ],
+   "ans": 0,
+   "exp": "By collapsing one lung via a double lumen endotracheal tube (Book p537)"
+  },
+  {
+   "id": "SURG-C69-035",
+   "sec": "Empyema: Definition and Causes",
+   "page": 537,
+   "q": "Empyema is:",
+   "opts": [
+    "Accumulation of pus in the pleural space",
+    "Air in the pleural space",
+    "Blood in the pleural space",
+    "Pus in the pericardium"
+   ],
+   "ans": 0,
+   "exp": "Accumulation of pus in the pleural space (Book p537)"
+  },
+  {
+   "id": "SURG-C69-036",
+   "sec": "Empyema: Definition and Causes",
+   "page": 537,
+   "q": "Pulmonary infective causes of empyema include all EXCEPT:",
+   "opts": [
+    "Pulmonary embolism",
+    "Unresolved pneumonia and bronchiectasis",
+    "Tuberculosis and fungal infections",
+    "Lung abscess"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary embolism (Book p537)"
+  },
+  {
+   "id": "SURG-C69-037",
+   "sec": "Empyema: Definition and Causes",
+   "page": 537,
+   "q": "Iatrogenic cause of empyema:",
+   "opts": [
+    "Aspiration of a pleural effusion of any etiology",
+    "Bronchoscopy",
+    "Spirometry",
+    "Oxygen therapy"
+   ],
+   "ans": 0,
+   "exp": "Aspiration of a pleural effusion of any etiology (Book p537)"
+  },
+  {
+   "id": "SURG-C69-038",
+   "sec": "Empyema: Definition and Causes",
+   "page": 537,
+   "q": "Traumatic causes of empyema:",
+   "opts": [
+    "Penetrating injury, surgery and esophageal perforation",
+    "Blunt abdominal injury",
+    "Rib fracture alone",
+    "Head injury"
+   ],
+   "ans": 0,
+   "exp": "Penetrating injury, surgery and esophageal perforation (Book p537)"
+  },
+  {
+   "id": "SURG-C69-039",
+   "sec": "Empyema: Definition and Causes",
+   "page": 537,
+   "q": "Extrapulmonary source of empyema:",
+   "opts": [
+    "Subphrenic abscess",
+    "Brain abscess",
+    "Perianal abscess",
+    "Renal abscess"
+   ],
+   "ans": 0,
+   "exp": "Subphrenic abscess (Book p537)"
+  },
+  {
+   "id": "SURG-C69-040",
+   "sec": "Empyema: Definition and Causes",
+   "page": 537,
+   "q": "Bone infection causing empyema:",
+   "opts": [
+    "Osteomyelitis of ribs or vertebrae",
+    "Osteomyelitis of the femur",
+    "Skull osteomyelitis",
+    "Mandibular osteomyelitis"
+   ],
+   "ans": 0,
+   "exp": "Osteomyelitis of ribs or vertebrae (Book p537)"
+  },
+  {
+   "id": "SURG-C69-041",
+   "sec": "Phases of Empyema",
+   "page": 537,
+   "q": "Findings in the EXUDATIVE phase of empyema:",
+   "opts": [
+    "Fever and pus with a collection on one side on CXR/CT",
+    "Thickened pus and pleura",
+    "Thickened pleural entrapment of lung",
+    "No collection"
+   ],
+   "ans": 0,
+   "exp": "Fever and pus with a collection on one side on CXR/CT (Book p537)"
+  },
+  {
+   "id": "SURG-C69-042",
+   "sec": "Phases of Empyema",
+   "page": 537,
+   "q": "M/c organism causing empyema:",
+   "opts": [
+    "Staphylococcus aureus",
+    "Gram negative bacteria",
+    "Mycobacterium tuberculosis",
+    "Candida"
+   ],
+   "ans": 0,
+   "exp": "Staphylococcus aureus (Book p537)"
+  },
+  {
+   "id": "SURG-C69-043",
+   "sec": "Phases of Empyema",
+   "page": 537,
+   "q": "Management of the exudative phase of empyema:",
+   "opts": [
+    "Aspiration plus antibiotics",
+    "Chest tube insertion",
+    "Decortication",
+    "Pneumonectomy"
+   ],
+   "ans": 0,
+   "exp": "Aspiration plus antibiotics (Book p537)"
+  },
+  {
+   "id": "SURG-C69-044",
+   "sec": "Phases of Empyema",
+   "page": 537,
+   "q": "Findings in the FIBRINOPURULENT phase of empyema:",
+   "opts": [
+    "Thickening of pus and pleura",
+    "Fever with thin pus",
+    "Thickened pleural entrapment of lung",
+    "Normal pleura"
+   ],
+   "ans": 0,
+   "exp": "Thickening of pus and pleura (Book p537)"
+  },
+  {
+   "id": "SURG-C69-045",
+   "sec": "Phases of Empyema",
+   "page": 537,
+   "q": "Management of the fibrinopurulent phase of empyema:",
+   "opts": [
+    "Chest tube insertion, since aspiration is difficult",
+    "Aspiration alone",
+    "Decortication",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "Chest tube insertion, since aspiration is difficult (Book p537)"
+  },
+  {
+   "id": "SURG-C69-046",
+   "sec": "Phases of Empyema",
+   "page": 537,
+   "q": "Findings in the ORGANIZED phase of empyema:",
+   "opts": [
+    "Thickened pleural entrapment of the lung",
+    "Thin free-flowing pus",
+    "Fever with clear fluid",
+    "Air in the pleural space"
+   ],
+   "ans": 0,
+   "exp": "Thickened pleural entrapment of the lung (Book p537)"
+  },
+  {
+   "id": "SURG-C69-047",
+   "sec": "Phases of Empyema",
+   "page": 537,
+   "q": "Management of the organized phase of empyema:",
+   "opts": [
+    "Stripping of the pleura / VATS plus decortication",
+    "Aspiration",
+    "Chest tube alone",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "Stripping of the pleura / VATS plus decortication (Book p537)"
+  },
+  {
+   "id": "SURG-C69-048",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Risk factors for lung cancer:",
+   "opts": [
+    "Smoking, pollution and asbestos exposure",
+    "Betel quid and alcohol",
+    "HPV infection",
+    "Chronic lymphedema"
+   ],
+   "ans": 0,
+   "exp": "Smoking, pollution and asbestos exposure (Book p538)"
+  },
+  {
+   "id": "SURG-C69-049",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Percentage of lung cancer patients amenable to surgical resection:",
+   "opts": [
+    "15-20%",
+    "50%",
+    "70%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "15-20% (Book p538)"
+  },
+  {
+   "id": "SURG-C69-050",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Modality that has revolutionised treatment of lung cancer:",
+   "opts": [
+    "Immunotherapy",
+    "Radiotherapy",
+    "Surgery",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Immunotherapy (Book p538)"
+  },
+  {
+   "id": "SURG-C69-051",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Small cell (oat cell) lung cancer has:",
+   "opts": [
+    "The strongest association with smoking",
+    "No association with smoking",
+    "An association with non-smokers",
+    "An association with asbestos only"
+   ],
+   "ans": 0,
+   "exp": "The strongest association with smoking (Book p538)"
+  },
+  {
+   "id": "SURG-C69-052",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Prognosis and chemosensitivity of small cell lung cancer:",
+   "opts": [
+    "Poor prognosis but highly sensitive to chemotherapy",
+    "Good prognosis, chemoresistant",
+    "Good prognosis, chemosensitive",
+    "Poor prognosis, chemoresistant"
+   ],
+   "ans": 0,
+   "exp": "Poor prognosis but highly sensitive to chemotherapy (Book p538)"
+  },
+  {
+   "id": "SURG-C69-053",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Which lung cancer has the maximum number of paraneoplastic syndromes:",
+   "opts": [
+    "Small cell lung cancer",
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Large cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Small cell lung cancer (Book p538)"
+  },
+  {
+   "id": "SURG-C69-054",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Hormone causing Cushing's disease in small cell lung cancer:",
+   "opts": [
+    "Adrenocorticotropic hormone",
+    "Antidiuretic hormone",
+    "Growth hormone-related peptide",
+    "Anti-VGCC antibody"
+   ],
+   "ans": 0,
+   "exp": "Adrenocorticotropic hormone (Book p538)"
+  },
+  {
+   "id": "SURG-C69-055",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Hormone responsible for SIADH in lung cancer:",
+   "opts": [
+    "Antidiuretic hormone",
+    "ACTH",
+    "Growth hormone-related peptide",
+    "PTHrP"
+   ],
+   "ans": 0,
+   "exp": "Antidiuretic hormone (Book p538)"
+  },
+  {
+   "id": "SURG-C69-056",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Mediator of acromegaly as a paraneoplastic syndrome:",
+   "opts": [
+    "Growth hormone-related peptide",
+    "ACTH",
+    "ADH",
+    "Anti-VGCC"
+   ],
+   "ans": 0,
+   "exp": "Growth hormone-related peptide (Book p538)"
+  },
+  {
+   "id": "SURG-C69-057",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Antibody responsible for Lambert-Eaton syndrome:",
+   "opts": [
+    "Anti-VGCC (voltage gated calcium channel)",
+    "Anti-AChR",
+    "Anti-ADH",
+    "Anti-Hu only"
+   ],
+   "ans": 0,
+   "exp": "Anti-VGCC (voltage gated calcium channel) (Book p538)"
+  },
+  {
+   "id": "SURG-C69-058",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "Azzopardi effect refers to:",
+   "opts": [
+    "Deposition of DNA around blood vessels producing blue/purple staining",
+    "Keratin pearls around vessels",
+    "Lepidic spread",
+    "Nuclear moulding alone"
+   ],
+   "ans": 0,
+   "exp": "Deposition of DNA around blood vessels producing blue/purple staining (Book p538)"
+  },
+  {
+   "id": "SURG-C69-059",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "page": 538,
+   "q": "IHC markers of small cell lung cancer:",
+   "opts": [
+    "Chromogranin and NCAM",
+    "CK7 and p63",
+    "TTF-1 and napsin A only",
+    "S-100 and HMB 45"
+   ],
+   "ans": 0,
+   "exp": "Chromogranin and NCAM (Book p538)"
+  },
+  {
+   "id": "SURG-C69-060",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "SVC syndrome is:",
+   "opts": [
+    "An oncological emergency",
+    "A chronic benign condition",
+    "A paraneoplastic syndrome",
+    "A post-operative complication only"
+   ],
+   "ans": 0,
+   "exp": "An oncological emergency (Book p539)"
+  },
+  {
+   "id": "SURG-C69-061",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Clinical features of SVC syndrome:",
+   "opts": [
+    "Facial and cerebral edema ± seizures",
+    "Ptosis and miosis",
+    "Hypotension and bradycardia",
+    "Haemoptysis alone"
+   ],
+   "ans": 0,
+   "exp": "Facial and cerebral edema ± seizures (Book p539)"
+  },
+  {
+   "id": "SURG-C69-062",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Diagnostic investigation for SVC syndrome:",
+   "opts": [
+    "CECT",
+    "Chest X-ray",
+    "MRI brain",
+    "Echocardiography"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p539)"
+  },
+  {
+   "id": "SURG-C69-063",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Management of SVC syndrome:",
+   "opts": [
+    "Radiotherapy to shrink the tumour plus steroids to lower intracranial pressure",
+    "Surgery alone",
+    "Chemotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Radiotherapy to shrink the tumour plus steroids to lower intracranial pressure (Book p539)"
+  },
+  {
+   "id": "SURG-C69-064",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Location of squamous cell carcinoma of the lung:",
+   "opts": [
+    "Centrally placed",
+    "Peripherally placed",
+    "Apex only",
+    "Diffuse"
+   ],
+   "ans": 0,
+   "exp": "Centrally placed (Book p539)"
+  },
+  {
+   "id": "SURG-C69-065",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "M/c lung cancer in SMOKERS:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Small cell carcinoma",
+    "Large cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (Book p539)"
+  },
+  {
+   "id": "SURG-C69-066",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Pancoast tumor pressing the thoracic inlet presents with:",
+   "opts": [
+    "Dyspnoea / stridor",
+    "Ptosis and miosis",
+    "Cushing's syndrome",
+    "SIADH"
+   ],
+   "ans": 0,
+   "exp": "Dyspnoea / stridor (Book p539)"
+  },
+  {
+   "id": "SURG-C69-067",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Pancoast tumor pressing the sympathetic chain causes:",
+   "opts": [
+    "Horner's syndrome",
+    "Lambert-Eaton syndrome",
+    "SVC syndrome",
+    "Acromegaly"
+   ],
+   "ans": 0,
+   "exp": "Horner's syndrome (Book p539)"
+  },
+  {
+   "id": "SURG-C69-068",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Components of Horner's syndrome:",
+   "opts": [
+    "Ptosis, miosis, enophthalmos and anhydrosis",
+    "Ptosis, mydriasis, exophthalmos, hyperhidrosis",
+    "Facial edema and seizures",
+    "Wheeze and stridor"
+   ],
+   "ans": 0,
+   "exp": "Ptosis, miosis, enophthalmos and anhydrosis (Book p539)"
+  },
+  {
+   "id": "SURG-C69-069",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "page": 539,
+   "q": "Management of Pancoast tumor:",
+   "opts": [
+    "Radiotherapy plus immunotherapy",
+    "Pneumonectomy alone",
+    "Observation",
+    "Steroids alone"
+   ],
+   "ans": 0,
+   "exp": "Radiotherapy plus immunotherapy (Book p539)"
+  },
+  {
+   "id": "SURG-C69-070",
+   "sec": "Adenocarcinoma of the Lung",
+   "page": 539,
+   "q": "M/c lung cancer OVERALL:",
+   "opts": [
+    "Adenocarcinoma",
+    "Squamous cell carcinoma",
+    "Small cell carcinoma",
+    "Large cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma (Book p539)"
+  },
+  {
+   "id": "SURG-C69-071",
+   "sec": "Adenocarcinoma of the Lung",
+   "page": 539,
+   "q": "Sex predilection of lung adenocarcinoma:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Equal",
+    "Only males"
+   ],
+   "ans": 0,
+   "exp": "Females > males (Book p539)"
+  },
+  {
+   "id": "SURG-C69-072",
+   "sec": "Adenocarcinoma of the Lung",
+   "page": 539,
+   "q": "Location and growth of lung adenocarcinoma:",
+   "opts": [
+    "Peripherally placed and slow growing",
+    "Centrally placed and fast growing",
+    "Peripheral and fast growing",
+    "Central and slow growing"
+   ],
+   "ans": 0,
+   "exp": "Peripherally placed and slow growing (Book p539)"
+  },
+  {
+   "id": "SURG-C69-073",
+   "sec": "Adenocarcinoma of the Lung",
+   "page": 539,
+   "q": "Adenocarcinoma of lung typically develops in:",
+   "opts": [
+    "Pre-existing lung cavities due to TB/bronchiectasis",
+    "Normal upper lobe blebs",
+    "Pleural space",
+    "Mediastinum"
+   ],
+   "ans": 0,
+   "exp": "Pre-existing lung cavities due to TB/bronchiectasis (Book p539)"
+  },
+  {
+   "id": "SURG-C69-074",
+   "sec": "Adenocarcinoma of the Lung",
+   "page": 539,
+   "q": "Metastatic behaviour of lung adenocarcinoma:",
+   "opts": [
+    "Early metastasis",
+    "Late metastasis",
+    "Never metastasises",
+    "Only local spread"
+   ],
+   "ans": 0,
+   "exp": "Early metastasis (Book p539)"
+  },
+  {
+   "id": "SURG-C69-075",
+   "sec": "Adenocarcinoma of the Lung",
+   "page": 539,
+   "q": "IHC marker of lung adenocarcinoma:",
+   "opts": [
+    "NAPSIN A",
+    "Chromogranin",
+    "p63",
+    "HMB 45"
+   ],
+   "ans": 0,
+   "exp": "NAPSIN A (Book p539)"
+  },
+  {
+   "id": "SURG-C69-076",
+   "sec": "Adenocarcinoma of the Lung",
+   "page": 539,
+   "q": "Mutations associated with lung adenocarcinoma:",
+   "opts": [
+    "ALK and RAS",
+    "L-myc",
+    "p53 only",
+    "BRAF only"
+   ],
+   "ans": 0,
+   "exp": "ALK and RAS (Book p539)"
+  },
+  {
+   "id": "SURG-C69-077",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "page": 540,
+   "q": "Bronchoalveolar carcinoma is also called:",
+   "opts": [
+    "Adenocarcinoma in-situ",
+    "Large cell carcinoma",
+    "Oat cell carcinoma",
+    "Pancoast tumor"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma in-situ (Book p540)"
+  },
+  {
+   "id": "SURG-C69-078",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "page": 540,
+   "q": "Features of bronchoalveolar carcinoma:",
+   "opts": [
+    "In-situ cancer, multifocal, usually resectable with good prognosis",
+    "Invasive with poor prognosis",
+    "Unifocal and unresectable",
+    "Metastatic at presentation"
+   ],
+   "ans": 0,
+   "exp": "In-situ cancer, multifocal, usually resectable with good prognosis (Book p540)"
+  },
+  {
+   "id": "SURG-C69-079",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "page": 540,
+   "q": "Pattern of spread of bronchoalveolar carcinoma:",
+   "opts": [
+    "Along the broncho-alveolar lining — lepidic pattern",
+    "Haematogenous only",
+    "Lymphatic only",
+    "Transpleural"
+   ],
+   "ans": 0,
+   "exp": "Along the broncho-alveolar lining — lepidic pattern (Book p540)"
+  },
+  {
+   "id": "SURG-C69-080",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "page": 540,
+   "q": "M/c symptom of lung cancer:",
+   "opts": [
+    "Cough",
+    "Hemoptysis",
+    "Pain",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "Cough (Book p540)"
+  },
+  {
+   "id": "SURG-C69-081",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "page": 540,
+   "q": "Symptoms of lung cancer include all EXCEPT:",
+   "opts": [
+    "Polyuria",
+    "Cough and hemoptysis",
+    "Pain",
+    "Weight loss"
+   ],
+   "ans": 0,
+   "exp": "Polyuria (Book p540)"
+  },
+  {
+   "id": "SURG-C69-082",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "page": 540,
+   "q": "M/c SYMPTOMATIC site of metastasis in lung cancer:",
+   "opts": [
+    "Brain",
+    "Adrenal gland",
+    "Bones",
+    "Liver"
+   ],
+   "ans": 0,
+   "exp": "Brain (Book p540)"
+  },
+  {
+   "id": "SURG-C69-083",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "page": 540,
+   "q": "Very common but ASYMPTOMATIC site of metastasis in lung cancer:",
+   "opts": [
+    "Adrenal gland",
+    "Brain",
+    "Bones",
+    "Skin"
+   ],
+   "ans": 0,
+   "exp": "Adrenal gland (Book p540)"
+  },
+  {
+   "id": "SURG-C69-084",
+   "sec": "Work-up of Lung Cancer",
+   "page": 540,
+   "q": "Initial investigation in suspected lung cancer:",
+   "opts": [
+    "Chest X-ray",
+    "HRCT",
+    "PET-CT",
+    "Bronchoscopy"
+   ],
+   "ans": 0,
+   "exp": "Chest X-ray (Book p540)"
+  },
+  {
+   "id": "SURG-C69-085",
+   "sec": "Work-up of Lung Cancer",
+   "page": 540,
+   "q": "IOC to assess the extent of a lung tumor:",
+   "opts": [
+    "HRCT (high resolution CT)",
+    "Chest X-ray",
+    "PET-CT",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "HRCT (high resolution CT) (Book p540)"
+  },
+  {
+   "id": "SURG-C69-086",
+   "sec": "Work-up of Lung Cancer",
+   "page": 540,
+   "q": "Investigation that determines the TYPE of lung tumor:",
+   "opts": [
+    "Biopsy",
+    "HRCT",
+    "Chest X-ray",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "Biopsy (Book p540)"
+  },
+  {
+   "id": "SURG-C69-087",
+   "sec": "Work-up of Lung Cancer",
+   "page": 540,
+   "q": "Two purposes of mediastinoscopy:",
+   "opts": [
+    "To check operability and to take a biopsy",
+    "To drain effusion and ventilate",
+    "To stage distant metastasis",
+    "To perform pleurodesis"
+   ],
+   "ans": 0,
+   "exp": "To check operability and to take a biopsy (Book p540)"
+  },
+  {
+   "id": "SURG-C69-088",
+   "sec": "Work-up of Lung Cancer",
+   "page": 540,
+   "q": "EBUS FNAC stands for:",
+   "opts": [
+    "Endobronchial ultrasound guided FNAC",
+    "Extra bronchial ultrasound FNAC",
+    "Endoscopic barium ultrasound",
+    "Endobronchial biopsy under sedation"
+   ],
+   "ans": 0,
+   "exp": "Endobronchial ultrasound guided FNAC (Book p540)"
+  },
+  {
+   "id": "SURG-C69-089",
+   "sec": "Work-up of Lung Cancer",
+   "page": 540,
+   "q": "IOC for STAGING lung cancer:",
+   "opts": [
+    "PET-CT",
+    "HRCT",
+    "Chest X-ray",
+    "Mediastinoscopy"
+   ],
+   "ans": 0,
+   "exp": "PET-CT (Book p540)"
+  },
+  {
+   "id": "SURG-C69-090",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T1 lung cancer:",
+   "opts": [
+    "≤3 cm surrounded by lung/visceral pleura, not involving the main bronchus",
+    "3-5 cm tumour",
+    "Involvement of the carina",
+    "Any size with nodal spread"
+   ],
+   "ans": 0,
+   "exp": "≤3 cm surrounded by lung/visceral pleura, not involving the main bronchus (Book p541)"
+  },
+  {
+   "id": "SURG-C69-091",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T1a(mi) denotes:",
+   "opts": [
+    "Minimally invasive carcinoma",
+    "Tumour ≤1 cm",
+    "Tumour >1 to ≤2 cm",
+    "Tumour >2 to ≤3 cm"
+   ],
+   "ans": 0,
+   "exp": "Minimally invasive carcinoma (Book p541)"
+  },
+  {
+   "id": "SURG-C69-092",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T1a lung cancer:",
+   "opts": [
+    "≤1 cm",
+    ">1 to ≤2 cm",
+    ">2 to ≤3 cm",
+    ">3 to ≤4 cm"
+   ],
+   "ans": 0,
+   "exp": "≤1 cm (Book p541)"
+  },
+  {
+   "id": "SURG-C69-093",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T1b lung cancer:",
+   "opts": [
+    ">1 to ≤2 cm",
+    "≤1 cm",
+    ">2 to ≤3 cm",
+    ">4 to ≤5 cm"
+   ],
+   "ans": 0,
+   "exp": ">1 to ≤2 cm (Book p541)"
+  },
+  {
+   "id": "SURG-C69-094",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T1c lung cancer:",
+   "opts": [
+    ">2 to ≤3 cm",
+    ">1 to ≤2 cm",
+    ">3 to ≤4 cm",
+    "≤1 cm"
+   ],
+   "ans": 0,
+   "exp": ">2 to ≤3 cm (Book p541)"
+  },
+  {
+   "id": "SURG-C69-095",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T2 lung cancer:",
+   "opts": [
+    ">3 to ≤5 cm, or main bronchus involvement without carina, or visceral pleural invasion, or atelectasis/post obstructive pneumonitis extending to hilum",
+    "≤3 cm not involving main bronchus",
+    "Carinal involvement",
+    "Any size with distant metastasis"
+   ],
+   "ans": 0,
+   "exp": ">3 to ≤5 cm, or main bronchus involvement without carina, or visceral pleural invasion, or atelectasis/post obstructive pneumonitis extending to hilum (Book p541)"
+  },
+  {
+   "id": "SURG-C69-096",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T2a lung cancer:",
+   "opts": [
+    ">3 to ≤4 cm",
+    ">4 to ≤5 cm",
+    ">2 to ≤3 cm",
+    "≤1 cm"
+   ],
+   "ans": 0,
+   "exp": ">3 to ≤4 cm (Book p541)"
+  },
+  {
+   "id": "SURG-C69-097",
+   "sec": "Staging of Lung Cancer",
+   "page": 541,
+   "q": "T2b lung cancer:",
+   "opts": [
+    ">4 to ≤5 cm",
+    ">3 to ≤4 cm",
+    ">2 to ≤3 cm",
+    ">5 cm"
+   ],
+   "ans": 0,
+   "exp": ">4 to ≤5 cm (Book p541)"
+  },
+  {
+   "id": "SURG-C69-098",
+   "sec": "Management of Lung Cancer",
+   "page": 541,
+   "q": "Stages of lung cancer suitable for surgery:",
+   "opts": [
+    "T1-T2 and T3 with N0/N1 disease",
+    "Any T with N3",
+    "Metastatic disease",
+    "Only T1 N0"
+   ],
+   "ans": 0,
+   "exp": "T1-T2 and T3 with N0/N1 disease (Book p541)"
+  },
+  {
+   "id": "SURG-C69-099",
+   "sec": "Management of Lung Cancer",
+   "page": 541,
+   "q": "Surgical options in lung cancer:",
+   "opts": [
+    "Lobectomy, pneumonectomy and sleeve resection",
+    "Decortication and pleurodesis",
+    "VATS biopsy only",
+    "Mediastinoscopy"
+   ],
+   "ans": 0,
+   "exp": "Lobectomy, pneumonectomy and sleeve resection (Book p541)"
+  },
+  {
+   "id": "SURG-C69-100",
+   "sec": "Management of Lung Cancer",
+   "page": 541,
+   "q": "Standard approach for lung resection:",
+   "opts": [
+    "Posterolateral thoracotomy",
+    "Median sternotomy",
+    "Anterior mini-thoracotomy",
+    "Subcostal incision"
+   ],
+   "ans": 0,
+   "exp": "Posterolateral thoracotomy (Book p541)"
+  },
+  {
+   "id": "SURG-C69-101",
+   "sec": "Management of Lung Cancer",
+   "page": 541,
+   "q": "Complications of lung resection include all EXCEPT:",
+   "opts": [
+    "Frey's syndrome",
+    "Bleeding and respiratory infection",
+    "Persistent air leak",
+    "Bronchopleural fistula"
+   ],
+   "ans": 0,
+   "exp": "Frey's syndrome (Book p541)"
+  },
+  {
+   "id": "SURG-C69-102",
+   "sec": "Management of Lung Cancer",
+   "page": 541,
+   "q": "Lung cancer subtype that is highly radiosensitive:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Large cell carcinoma",
+    "Bronchoalveolar carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (Book p541)"
+  },
+  {
+   "id": "SURG-C69-103",
+   "sec": "Management of Lung Cancer",
+   "page": 541,
+   "q": "Role of chemo/immunotherapy in lung cancer:",
+   "opts": [
+    "Latest modality for all carcinomas, useful in advanced cancer",
+    "Only for T1 disease",
+    "Replaces surgery in early disease",
+    "Only palliative in SCC"
+   ],
+   "ans": 0,
+   "exp": "Latest modality for all carcinomas, useful in advanced cancer (Book p541)"
+  },
+  {
+   "id": "SURG-C69-104",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Incidence by sex in lung adenocarcinoma versus the others:",
+   "opts": [
+    "Adenocarcinoma F > M, while SCC, small cell and large cell are M > F",
+    "All are F > M",
+    "All are M > F",
+    "Adenocarcinoma M > F"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma F > M, while SCC, small cell and large cell are M > F (Book p541)"
+  },
+  {
+   "id": "SURG-C69-105",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Location of small cell carcinoma:",
+   "opts": [
+    "Central",
+    "Peripheral",
+    "Apical",
+    "Pleural"
+   ],
+   "ans": 0,
+   "exp": "Central (Book p541)"
+  },
+  {
+   "id": "SURG-C69-106",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Location of large cell carcinoma:",
+   "opts": [
+    "Peripheral",
+    "Central",
+    "Apical",
+    "Hilar"
+   ],
+   "ans": 0,
+   "exp": "Peripheral (Book p541)"
+  },
+  {
+   "id": "SURG-C69-107",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Smoking association of adenocarcinoma:",
+   "opts": [
+    "Non smokers",
+    "Strongest association with smoking",
+    "Smoking association",
+    "Both smokers and non smokers equally"
+   ],
+   "ans": 0,
+   "exp": "Non smokers (Book p541)"
+  },
+  {
+   "id": "SURG-C69-108",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Smoking association of large cell carcinoma:",
+   "opts": [
+    "Both smokers and non smokers",
+    "Non smokers only",
+    "Strongest association with smoking",
+    "No association"
+   ],
+   "ans": 0,
+   "exp": "Both smokers and non smokers (Book p541)"
+  },
+  {
+   "id": "SURG-C69-109",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Paraneoplastic syndrome of squamous cell carcinoma of lung:",
+   "opts": [
+    "Hypercalcemia",
+    "SIADH",
+    "Migratory thrombophlebitis",
+    "Gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "Hypercalcemia (Book p541)"
+  },
+  {
+   "id": "SURG-C69-110",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Paraneoplastic syndrome of lung adenocarcinoma:",
+   "opts": [
+    "Migratory thrombophlebitis",
+    "Hypercalcemia",
+    "Cushing's syndrome",
+    "Gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "Migratory thrombophlebitis (Book p541)"
+  },
+  {
+   "id": "SURG-C69-111",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Paraneoplastic syndromes of small cell carcinoma:",
+   "opts": [
+    "Cushing's syndrome and SIADH",
+    "Hypercalcemia",
+    "Migratory thrombophlebitis",
+    "Gynecomastia"
+   ],
+   "ans": 0,
+   "exp": "Cushing's syndrome and SIADH (Book p541)"
+  },
+  {
+   "id": "SURG-C69-112",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Paraneoplastic syndrome of large cell carcinoma:",
+   "opts": [
+    "Gynecomastia",
+    "Hypercalcemia",
+    "SIADH",
+    "Migratory thrombophlebitis"
+   ],
+   "ans": 0,
+   "exp": "Gynecomastia (Book p541)"
+  },
+  {
+   "id": "SURG-C69-113",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Pathogenesis (gene) of squamous cell carcinoma of lung:",
+   "opts": [
+    "P53",
+    "K ras, EGFR, ALK",
+    "L-myc",
+    "BRAF"
+   ],
+   "ans": 0,
+   "exp": "P53 (Book p541)"
+  },
+  {
+   "id": "SURG-C69-114",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Pathogenesis (genes) of lung adenocarcinoma:",
+   "opts": [
+    "K ras, EGFR, ALK",
+    "P53",
+    "L-myc",
+    "RB"
+   ],
+   "ans": 0,
+   "exp": "K ras, EGFR, ALK (Book p541)"
+  },
+  {
+   "id": "SURG-C69-115",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Pathogenesis (gene) of small cell carcinoma:",
+   "opts": [
+    "L-myc",
+    "P53",
+    "EGFR",
+    "ALK"
+   ],
+   "ans": 0,
+   "exp": "L-myc (Book p541)"
+  },
+  {
+   "id": "SURG-C69-116",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Precursor lesion of squamous cell carcinoma of lung:",
+   "opts": [
+    "Carcinoma in situ (CIS)",
+    "Atypical adenomatous hyperplasia",
+    "DIPNEH",
+    "Hamartoma"
+   ],
+   "ans": 0,
+   "exp": "Carcinoma in situ (CIS) (Book p541)"
+  },
+  {
+   "id": "SURG-C69-117",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Precursor lesions of lung adenocarcinoma:",
+   "opts": [
+    "Adenocarcinoma in situ and atypical adenomatous hyperplasia (AAH)",
+    "Carcinoma in situ",
+    "DIPNEH",
+    "Blebs"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma in situ and atypical adenomatous hyperplasia (AAH) (Book p541)"
+  },
+  {
+   "id": "SURG-C69-118",
+   "sec": "Summary Comparison of Lung Cancers",
+   "page": 541,
+   "q": "Precursor lesion of small cell carcinoma:",
+   "opts": [
+    "DIPNEH — diffuse idiopathic pulmonary neuroendocrine hyperplasia",
+    "Carcinoma in situ",
+    "AAH",
+    "Hamartoma"
+   ],
+   "ans": 0,
+   "exp": "DIPNEH — diffuse idiopathic pulmonary neuroendocrine hyperplasia (Book p541)"
+  },
+  {
+   "id": "SURG-C69-119",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "H&E findings in squamous cell carcinoma of the lung:",
+   "opts": [
+    "Keratin pearls and desmosomes",
+    "Glands lined by pleomorphic cells",
+    "Salt and pepper chromatin with nuclear moulding",
+    "Large pleomorphic cells"
+   ],
+   "ans": 0,
+   "exp": "Keratin pearls and desmosomes (Book p542)"
+  },
+  {
+   "id": "SURG-C69-120",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "H&E findings in lung adenocarcinoma:",
+   "opts": [
+    "Glands lined by pleomorphic cells",
+    "Keratin pearls and desmosomes",
+    "Nuclear moulding and Azzopardi effect",
+    "Large pleomorphic cells"
+   ],
+   "ans": 0,
+   "exp": "Glands lined by pleomorphic cells (Book p542)"
+  },
+  {
+   "id": "SURG-C69-121",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "H&E findings in small cell carcinoma:",
+   "opts": [
+    "Small cells with salt & pepper chromatin, nuclear moulding and Azzopardi effect",
+    "Keratin pearls",
+    "Glandular pattern",
+    "Large pleomorphic cells"
+   ],
+   "ans": 0,
+   "exp": "Small cells with salt & pepper chromatin, nuclear moulding and Azzopardi effect (Book p542)"
+  },
+  {
+   "id": "SURG-C69-122",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "H&E findings in large cell carcinoma:",
+   "opts": [
+    "Large pleomorphic cells",
+    "Keratin pearls",
+    "Salt and pepper chromatin",
+    "Glandular structures"
+   ],
+   "ans": 0,
+   "exp": "Large pleomorphic cells (Book p542)"
+  },
+  {
+   "id": "SURG-C69-123",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "IHC of squamous cell carcinoma of the lung:",
+   "opts": [
+    "CK, P63, P40",
+    "TTF-1, NAPSIN A",
+    "NSE, chromogranin, synaptophysin",
+    "S-100, HMB45"
+   ],
+   "ans": 0,
+   "exp": "CK, P63, P40 (Book p542)"
+  },
+  {
+   "id": "SURG-C69-124",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "IHC of lung adenocarcinoma:",
+   "opts": [
+    "TTF-1 and NAPSIN A",
+    "CK, P63, P40",
+    "NSE, chromogranin, synaptophysin",
+    "cKit"
+   ],
+   "ans": 0,
+   "exp": "TTF-1 and NAPSIN A (Book p542)"
+  },
+  {
+   "id": "SURG-C69-125",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "IHC of small cell carcinoma:",
+   "opts": [
+    "NSE, chromogranin and synaptophysin",
+    "CK, P63, P40",
+    "TTF-1 and NAPSIN A",
+    "SMA and p63"
+   ],
+   "ans": 0,
+   "exp": "NSE, chromogranin and synaptophysin (Book p542)"
+  },
+  {
+   "id": "SURG-C69-126",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "M/c benign lung tumor:",
+   "opts": [
+    "Hamartoma",
+    "Chondroma",
+    "Lipoma",
+    "Fibroma"
+   ],
+   "ans": 0,
+   "exp": "Hamartoma (Book p542)"
+  },
+  {
+   "id": "SURG-C69-127",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "Clinical features of a hamartoma:",
+   "opts": [
+    "Usually asymptomatic, may cause cough and hemoptysis",
+    "Always symptomatic with weight loss",
+    "Presents with SVC syndrome",
+    "Causes Horner's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Usually asymptomatic, may cause cough and hemoptysis (Book p542)"
+  },
+  {
+   "id": "SURG-C69-128",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "Chest X-ray appearance of a hamartoma:",
+   "opts": [
+    "Coin shaped lesion",
+    "Cavitating mass",
+    "Pleural effusion",
+    "Reticular shadowing"
+   ],
+   "ans": 0,
+   "exp": "Coin shaped lesion (Book p542)"
+  },
+  {
+   "id": "SURG-C69-129",
+   "sec": "Histology, IHC and Benign Lung Tumors",
+   "page": 542,
+   "q": "Confirmatory investigation and management of a hamartoma:",
+   "opts": [
+    "CT is confirmatory; VATS guided excision",
+    "X-ray alone; radiotherapy",
+    "MRI; chemotherapy",
+    "PET-CT; observation"
+   ],
+   "ans": 0,
+   "exp": "CT is confirmatory; VATS guided excision (Book p542)"
+  },
+  {
+   "id": "SURG-C69-130",
+   "sec": "Mediastinal Tumors by Compartment",
+   "page": 542,
+   "q": "Tumors of the SUPERIOR mediastinum:",
+   "opts": [
+    "Lymphoma, thyroid and parathyroid",
+    "Thymoma, teratoma and lymphoma",
+    "Neurogenic tumors",
+    "Pericardial cyst"
+   ],
+   "ans": 0,
+   "exp": "Lymphoma, thyroid and parathyroid (Book p542)"
+  },
+  {
+   "id": "SURG-C69-131",
+   "sec": "Mediastinal Tumors by Compartment",
+   "page": 542,
+   "q": "The 3 T's of the anterior mediastinum:",
+   "opts": [
+    "Thymoma, teratoma and terrible lymphoma",
+    "Thyroid, teratoma, thymoma",
+    "Thymoma, thyroid, tuberculosis",
+    "Teratoma, thymoma, tumour of nerve"
+   ],
+   "ans": 0,
+   "exp": "Thymoma, teratoma and terrible lymphoma (Book p542)"
+  },
+  {
+   "id": "SURG-C69-132",
+   "sec": "Mediastinal Tumors by Compartment",
+   "page": 542,
+   "q": "M/c mediastinal tumor:",
+   "opts": [
+    "Thymoma",
+    "Teratoma",
+    "Lymphoma",
+    "Neurogenic tumor"
+   ],
+   "ans": 0,
+   "exp": "Thymoma (Book p542)"
+  },
+  {
+   "id": "SURG-C69-133",
+   "sec": "Mediastinal Tumors by Compartment",
+   "page": 542,
+   "q": "Contents of the MIDDLE mediastinum in terms of tumors:",
+   "opts": [
+    "Cystic lesions (m/c pericardial cyst), lymphoma and mesenchymal tumors",
+    "Thymoma and teratoma",
+    "Neurogenic tumors",
+    "Thyroid and parathyroid"
+   ],
+   "ans": 0,
+   "exp": "Cystic lesions (m/c pericardial cyst), lymphoma and mesenchymal tumors (Book p542)"
+  },
+  {
+   "id": "SURG-C69-134",
+   "sec": "Mediastinal Tumors by Compartment",
+   "page": 542,
+   "q": "M/c cystic lesion of the middle mediastinum:",
+   "opts": [
+    "Pericardial cyst",
+    "Bronchogenic cyst",
+    "Thymic cyst",
+    "Enteric cyst"
+   ],
+   "ans": 0,
+   "exp": "Pericardial cyst (Book p542)"
+  },
+  {
+   "id": "SURG-C69-135",
+   "sec": "Mediastinal Tumors by Compartment",
+   "page": 542,
+   "q": "M/c tumor of the POSTERIOR mediastinum:",
+   "opts": [
+    "Neurogenic tumor",
+    "Thymoma",
+    "Teratoma",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic tumor (Book p542)"
+  },
+  {
+   "id": "SURG-C69-136",
+   "sec": "Mediastinal Tumors by Compartment",
+   "page": 542,
+   "q": "M/c mediastinal tumor in CHILDREN:",
+   "opts": [
+    "Neurogenic tumor",
+    "Thymoma",
+    "Teratoma",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic tumor (Book p542)"
+  },
+  {
+   "id": "SURG-C69-137",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Site of thymoma:",
+   "opts": [
+    "Anterior mediastinum",
+    "Posterior mediastinum",
+    "Middle mediastinum",
+    "Superior mediastinum"
+   ],
+   "ans": 0,
+   "exp": "Anterior mediastinum (Book p543)"
+  },
+  {
+   "id": "SURG-C69-138",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Behaviour of thymoma:",
+   "opts": [
+    "Usually benign",
+    "Usually malignant",
+    "Always metastatic",
+    "Always in-situ"
+   ],
+   "ans": 0,
+   "exp": "Usually benign (Book p543)"
+  },
+  {
+   "id": "SURG-C69-139",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Condition associated with thymoma:",
+   "opts": [
+    "Myasthenia gravis",
+    "Lambert-Eaton syndrome",
+    "Cushing's syndrome",
+    "SIADH"
+   ],
+   "ans": 0,
+   "exp": "Myasthenia gravis (Book p543)"
+  },
+  {
+   "id": "SURG-C69-140",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Management of a SMALL thymoma:",
+   "opts": [
+    "Transcervical excision",
+    "VATS/thoracotomy",
+    "Radiotherapy",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Transcervical excision (Book p543)"
+  },
+  {
+   "id": "SURG-C69-141",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Management of a LARGE thymoma:",
+   "opts": [
+    "VATS / thoracotomy",
+    "Transcervical excision",
+    "Chemotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "VATS / thoracotomy (Book p543)"
+  },
+  {
+   "id": "SURG-C69-142",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Masaoka stage I thymoma:",
+   "opts": [
+    "Macroscopically completely encapsulated with no microscopic capsular invasion",
+    "Microscopic invasion into the capsule",
+    "Invasion into neighbouring organs",
+    "Pleural dissemination"
+   ],
+   "ans": 0,
+   "exp": "Macroscopically completely encapsulated with no microscopic capsular invasion (Book p543)"
+  },
+  {
+   "id": "SURG-C69-143",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Masaoka stage II thymoma:",
+   "opts": [
+    "Macroscopic invasion into surrounding fatty tissue or mediastinal pleura with microscopic capsular invasion",
+    "Completely encapsulated",
+    "Invasion into great vessels",
+    "Haematogenous metastasis"
+   ],
+   "ans": 0,
+   "exp": "Macroscopic invasion into surrounding fatty tissue or mediastinal pleura with microscopic capsular invasion (Book p543)"
+  },
+  {
+   "id": "SURG-C69-144",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Masaoka stage III thymoma:",
+   "opts": [
+    "Macroscopic invasion into neighboring organs — pericardium, great vessels, lungs",
+    "Invasion into mediastinal fat only",
+    "Pleural dissemination",
+    "Lymphogenous metastasis"
+   ],
+   "ans": 0,
+   "exp": "Macroscopic invasion into neighboring organs — pericardium, great vessels, lungs (Book p543)"
+  },
+  {
+   "id": "SURG-C69-145",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Masaoka stage IVA thymoma:",
+   "opts": [
+    "Pleural or pericardial dissemination",
+    "Lymphogenous or haematogenous metastasis",
+    "Invasion into fatty tissue",
+    "Complete encapsulation"
+   ],
+   "ans": 0,
+   "exp": "Pleural or pericardial dissemination (Book p543)"
+  },
+  {
+   "id": "SURG-C69-146",
+   "sec": "Thymoma and Masaoka Staging",
+   "page": 543,
+   "q": "Masaoka stage IVB thymoma:",
+   "opts": [
+    "Lymphogenous or hematogenous metastasis",
+    "Pleural dissemination",
+    "Pericardial dissemination",
+    "Capsular invasion only"
+   ],
+   "ans": 0,
+   "exp": "Lymphogenous or hematogenous metastasis (Book p543)"
+  },
+  {
+   "id": "SURG-C69-147",
+   "sec": "Mediastinal Germ Cell Tumors",
+   "page": 543,
+   "q": "M/c EXTRA GONADAL site of germ cell tumors:",
+   "opts": [
+    "Anterior mediastinum",
+    "Posterior mediastinum",
+    "Retroperitoneum",
+    "Pineal gland"
+   ],
+   "ans": 0,
+   "exp": "Anterior mediastinum (Book p543)"
+  },
+  {
+   "id": "SURG-C69-148",
+   "sec": "Mediastinal Germ Cell Tumors",
+   "page": 543,
+   "q": "Sex predilection of mediastinal germ cell tumors:",
+   "opts": [
+    "Males > females",
+    "Females > males",
+    "Equal",
+    "Only females"
+   ],
+   "ans": 0,
+   "exp": "Males > females (Book p543)"
+  },
+  {
+   "id": "SURG-C69-149",
+   "sec": "Mediastinal Germ Cell Tumors",
+   "page": 543,
+   "q": "A BENIGN mediastinal germ cell tumor is usually a:",
+   "opts": [
+    "Teratoma",
+    "Seminoma",
+    "Yolk sac tumour",
+    "Choriocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "Teratoma (Book p543)"
+  },
+  {
+   "id": "SURG-C69-150",
+   "sec": "Mediastinal Germ Cell Tumors",
+   "page": 543,
+   "q": "Tumor markers raised in malignant mediastinal germ cell tumors:",
+   "opts": [
+    "αFP, LDH and β-hCG",
+    "CEA and CA 19-9",
+    "Chromogranin and NSE",
+    "CA-125"
+   ],
+   "ans": 0,
+   "exp": "αFP, LDH and β-hCG (Book p543)"
+  },
+  {
+   "id": "SURG-C69-151",
+   "sec": "Mediastinal Germ Cell Tumors",
+   "page": 543,
+   "q": "Management of a mediastinal germ cell tumor:",
+   "opts": [
+    "Excision, followed by chemotherapy if malignant",
+    "Radiotherapy alone",
+    "Observation",
+    "Chemotherapy without excision"
+   ],
+   "ans": 0,
+   "exp": "Excision, followed by chemotherapy if malignant (Book p543)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U69-1",
+   "ch": 69,
+   "n": 1,
+   "title": "Surgical Anatomy of the Lungs and Thoracoscore",
+   "sec": "Surgical Anatomy of the Lungs and Thoracoscore · p535",
+   "qs": [
+    "SURG-C69-001",
+    "SURG-C69-002",
+    "SURG-C69-003",
+    "SURG-C69-004",
+    "SURG-C69-005",
+    "SURG-C69-006",
+    "SURG-C69-007",
+    "SURG-C69-008",
+    "SURG-C69-009"
+   ],
+   "guide": "The right lung has three lobes, the left two. The right mainstem bronchus is shorter and straighter, so aspiration and foreign bodies land right — abscesses form m/c in the posterior upper lobe and superior lower lobe, while foreign bodies wheeze, cause stridor or collapse and are removed bronchoscopically after X-ray. Thoracoscore uses 9 criteria to predict mortality after lung resection, while FEV1 and DLCO predict post-operative dyspnoea."
+  },
+  {
+   "id": "SURG-U69-2",
+   "ch": 69,
+   "n": 2,
+   "title": "Spontaneous Pneumothorax: Types",
+   "sec": "Spontaneous Pneumothorax: Types · p535",
+   "qs": [
+    "SURG-C69-010",
+    "SURG-C69-011",
+    "SURG-C69-012",
+    "SURG-C69-013",
+    "SURG-C69-014",
+    "SURG-C69-015"
+   ],
+   "guide": "Primary spontaneous pneumothorax hits young, tall males, often with a family history, leaking from upper lobe blebs with normal lung function and good tolerance. Secondary pneumothorax follows TB, tumors or emphysema in older patients, who tolerate it far worse."
+  },
+  {
+   "id": "SURG-U69-3",
+   "ch": 69,
+   "n": 3,
+   "title": "Pneumothorax: Clinical Features and Management Algorithm",
+   "sec": "Pneumothorax: Clinical Features and Management Algorithm · p536",
+   "qs": [
+    "SURG-C69-016",
+    "SURG-C69-017",
+    "SURG-C69-018",
+    "SURG-C69-019",
+    "SURG-C69-020",
+    "SURG-C69-021",
+    "SURG-C69-022",
+    "SURG-C69-023",
+    "SURG-C69-024",
+    "SURG-C69-025",
+    "SURG-C69-026",
+    "SURG-C69-027"
+   ],
+   "guide": "Sharp pleuritic pain with a hyper-resonant note and absent breath sounds, diagnosed on chest X-ray. Bilateral or unstable → chest drain immediately. Age >50 with heavy smoking or evidence of lung disease means secondary. Primary: <2 cm and not breathless → discharge with OPD review in 2-4 weeks; >2 cm or breathless → aspirate, then an 8-14 Fr chest drain. Secondary: >2 cm or breathless → chest drain; 1-2 cm → aspirate; <1 cm → admit, high flow oxygen, observe 24 hours."
+  },
+  {
+   "id": "SURG-U69-4",
+   "ch": 69,
+   "n": 4,
+   "title": "Indications for Surgery in Pneumothorax",
+   "sec": "Indications for Surgery in Pneumothorax · p536",
+   "qs": [
+    "SURG-C69-028",
+    "SURG-C69-029",
+    "SURG-C69-030",
+    "SURG-C69-031"
+   ],
+   "guide": "Operate for a secondary ipsilateral pneumothorax, a first contralateral pneumothorax, bilateral spontaneous pneumothorax, failure to settle despite chest drainage, spontaneous haemothorax or at-risk professions such as pilots and divers, and in pregnancy."
+  },
+  {
+   "id": "SURG-U69-5",
+   "ch": 69,
+   "n": 5,
+   "title": "Interventions for Pneumothorax",
+   "sec": "Interventions for Pneumothorax · p537",
+   "qs": [
+    "SURG-C69-032",
+    "SURG-C69-033",
+    "SURG-C69-034"
+   ],
+   "guide": "Interventions: pleurodesis with TALC or tetracycline, stripping the pleura by VATS — space made by collapsing one lung through a double lumen endotracheal tube — and ICD."
+  },
+  {
+   "id": "SURG-U69-6",
+   "ch": 69,
+   "n": 6,
+   "title": "Empyema: Definition and Causes",
+   "sec": "Empyema: Definition and Causes · p537",
+   "qs": [
+    "SURG-C69-035",
+    "SURG-C69-036",
+    "SURG-C69-037",
+    "SURG-C69-038",
+    "SURG-C69-039",
+    "SURG-C69-040"
+   ],
+   "guide": "Empyema is pus in the pleural space, arising from pulmonary infection (unresolved pneumonia, bronchiectasis, TB, fungi, lung abscess), aspiration of an effusion of any cause, trauma (penetrating injury, surgery, oesophageal perforation), extrapulmonary subphrenic abscess, or osteomyelitis of ribs and vertebrae."
+  },
+  {
+   "id": "SURG-U69-7",
+   "ch": 69,
+   "n": 7,
+   "title": "Phases of Empyema",
+   "sec": "Phases of Empyema · p537",
+   "qs": [
+    "SURG-C69-041",
+    "SURG-C69-042",
+    "SURG-C69-043",
+    "SURG-C69-044",
+    "SURG-C69-045",
+    "SURG-C69-046",
+    "SURG-C69-047"
+   ],
+   "guide": "Three phases: exudative — fever and pus, a one-sided collection on CXR/CT, m/c Staph. aureus, treated by aspiration and antibiotics; fibrinopurulent — thickened pus and pleura needing a chest tube because aspiration fails; organized — thickened pleura entrapping the lung, needing pleural stripping/VATS with decortication."
+  },
+  {
+   "id": "SURG-U69-8",
+   "ch": 69,
+   "n": 8,
+   "title": "Lung Cancer: Risk Factors and Small Cell Lung Cancer",
+   "sec": "Lung Cancer: Risk Factors and Small Cell Lung Cancer · p538",
+   "qs": [
+    "SURG-C69-048",
+    "SURG-C69-049",
+    "SURG-C69-050",
+    "SURG-C69-051",
+    "SURG-C69-052",
+    "SURG-C69-053",
+    "SURG-C69-054",
+    "SURG-C69-055",
+    "SURG-C69-056",
+    "SURG-C69-057",
+    "SURG-C69-058",
+    "SURG-C69-059"
+   ],
+   "guide": "Lung cancer follows smoking, pollution and asbestos; only 15-20% are resectable and immunotherapy has revolutionised treatment. Small cell (oat cell) carcinoma has the strongest smoking link, affects males more, carries a poor prognosis but is highly chemosensitive and produces the most paraneoplastic syndromes — Cushing's (ACTH), SIADH (ADH), acromegaly (GH-related peptide) and Lambert-Eaton (anti-VGCC). Pathology shows the Azzopardi effect with salt and pepper appearance; IHC is chromogranin and NCAM."
+  },
+  {
+   "id": "SURG-U69-9",
+   "ch": 69,
+   "n": 9,
+   "title": "SVC Syndrome and Squamous Cell Carcinoma of the Lung",
+   "sec": "SVC Syndrome and Squamous Cell Carcinoma of the Lung · p539",
+   "qs": [
+    "SURG-C69-060",
+    "SURG-C69-061",
+    "SURG-C69-062",
+    "SURG-C69-063",
+    "SURG-C69-064",
+    "SURG-C69-065",
+    "SURG-C69-066",
+    "SURG-C69-067",
+    "SURG-C69-068",
+    "SURG-C69-069"
+   ],
+   "guide": "SVC syndrome is an oncological emergency with facial and cerebral edema ± seizures, diagnosed on CECT and treated with radiotherapy to shrink the tumour plus steroids. Squamous cell carcinoma sits centrally, is the m/c lung cancer in smokers, and can form a Pancoast tumor pressing the thoracic inlet (dyspnoea, stridor) or the sympathetic chain (Horner's: ptosis, miosis, enophthalmos, anhydrosis) — treated with radiotherapy plus immunotherapy."
+  },
+  {
+   "id": "SURG-U69-10",
+   "ch": 69,
+   "n": 10,
+   "title": "Adenocarcinoma of the Lung",
+   "sec": "Adenocarcinoma of the Lung · p539",
+   "qs": [
+    "SURG-C69-070",
+    "SURG-C69-071",
+    "SURG-C69-072",
+    "SURG-C69-073",
+    "SURG-C69-074",
+    "SURG-C69-075",
+    "SURG-C69-076"
+   ],
+   "guide": "Adenocarcinoma is the m/c lung cancer overall, commoner in females, peripheral and slow growing, developing in pre-existing cavities from TB or bronchiectasis, metastasising early, marked by NAPSIN A and ALK/RAS mutations."
+  },
+  {
+   "id": "SURG-U69-11",
+   "ch": 69,
+   "n": 11,
+   "title": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer",
+   "sec": "Bronchoalveolar Carcinoma and Clinical Features of Lung Cancer · p540",
+   "qs": [
+    "SURG-C69-077",
+    "SURG-C69-078",
+    "SURG-C69-079",
+    "SURG-C69-080",
+    "SURG-C69-081",
+    "SURG-C69-082",
+    "SURG-C69-083"
+   ],
+   "guide": "Bronchoalveolar carcinoma (adenocarcinoma in-situ) is multifocal, usually resectable with good prognosis, spreading along the broncho-alveolar lining in a lepidic pattern. Cough is the m/c symptom, with hemoptysis, pain and weight loss; brain is the m/c symptomatic metastasis while adrenal involvement is very common but asymptomatic."
+  },
+  {
+   "id": "SURG-U69-12",
+   "ch": 69,
+   "n": 12,
+   "title": "Work-up of Lung Cancer",
+   "sec": "Work-up of Lung Cancer · p540",
+   "qs": [
+    "SURG-C69-084",
+    "SURG-C69-085",
+    "SURG-C69-086",
+    "SURG-C69-087",
+    "SURG-C69-088",
+    "SURG-C69-089"
+   ],
+   "guide": "Work-up: CXR first, HRCT as IOC for extent, biopsy for type (CT guided, mediastinoscopy — which also checks operability — or EBUS FNAC), and PET-CT as the staging IOC."
+  },
+  {
+   "id": "SURG-U69-13",
+   "ch": 69,
+   "n": 13,
+   "title": "Staging of Lung Cancer",
+   "sec": "Staging of Lung Cancer · p541",
+   "qs": [
+    "SURG-C69-090",
+    "SURG-C69-091",
+    "SURG-C69-092",
+    "SURG-C69-093",
+    "SURG-C69-094",
+    "SURG-C69-095",
+    "SURG-C69-096",
+    "SURG-C69-097"
+   ],
+   "guide": "T1 is ≤3 cm surrounded by lung/visceral pleura without main bronchus involvement: T1a(mi) minimally invasive, T1a ≤1 cm, T1b >1-2 cm, T1c >2-3 cm. T2 is >3 to ≤5 cm, or main bronchus involvement sparing the carina, or visceral pleural invasion, or atelectasis/post obstructive pneumonitis reaching the hilum — T2a >3-4 cm, T2b >4-5 cm."
+  },
+  {
+   "id": "SURG-U69-14",
+   "ch": 69,
+   "n": 14,
+   "title": "Management of Lung Cancer",
+   "sec": "Management of Lung Cancer · p541",
+   "qs": [
+    "SURG-C69-098",
+    "SURG-C69-099",
+    "SURG-C69-100",
+    "SURG-C69-101",
+    "SURG-C69-102",
+    "SURG-C69-103"
+   ],
+   "guide": "Surgery suits T1-T2 and T3 with N0/N1: lobectomy, pneumonectomy or sleeve resection through a posterolateral thoracotomy, risking bleeding, respiratory infection, persistent air leak and bronchopleural fistula. Squamous cell carcinoma is highly radiosensitive, and chemo/immunotherapy is the latest modality for all carcinomas, especially advanced disease."
+  },
+  {
+   "id": "SURG-U69-15",
+   "ch": 69,
+   "n": 15,
+   "title": "Summary Comparison of Lung Cancers",
+   "sec": "Summary Comparison of Lung Cancers · p541",
+   "qs": [
+    "SURG-C69-104",
+    "SURG-C69-105",
+    "SURG-C69-106",
+    "SURG-C69-107",
+    "SURG-C69-108",
+    "SURG-C69-109",
+    "SURG-C69-110",
+    "SURG-C69-111",
+    "SURG-C69-112",
+    "SURG-C69-113",
+    "SURG-C69-114",
+    "SURG-C69-115",
+    "SURG-C69-116",
+    "SURG-C69-117",
+    "SURG-C69-118"
+   ],
+   "guide": "Summary: SCC — M>F, central, smoking, hypercalcemia, P53, CIS precursor. Adenocarcinoma — F>M, peripheral, non smokers, migratory thrombophlebitis, K ras/EGFR/ALK, AIS and AAH precursors. Small cell — M>F, central, strongest smoking link, Cushing's and SIADH, L-myc, DIPNEH precursor. Large cell — M>F, peripheral, both smokers and non smokers, gynecomastia."
+  },
+  {
+   "id": "SURG-U69-16",
+   "ch": 69,
+   "n": 16,
+   "title": "Histology, IHC and Benign Lung Tumors",
+   "sec": "Histology, IHC and Benign Lung Tumors · p542",
+   "qs": [
+    "SURG-C69-119",
+    "SURG-C69-120",
+    "SURG-C69-121",
+    "SURG-C69-122",
+    "SURG-C69-123",
+    "SURG-C69-124",
+    "SURG-C69-125",
+    "SURG-C69-126",
+    "SURG-C69-127",
+    "SURG-C69-128",
+    "SURG-C69-129"
+   ],
+   "guide": "Histology: SCC keratin pearls and desmosomes (CK, P63, P40); adenocarcinoma glands lined by pleomorphic cells (TTF-1, NAPSIN A); small cell salt & pepper chromatin, nuclear moulding, Azzopardi effect (NSE, chromogranin, synaptophysin); large cell large pleomorphic cells. Hamartoma is the m/c benign lung tumour — usually asymptomatic, sometimes cough or hemoptysis, a coin shaped lesion on CXR confirmed by CT and excised under VATS."
+  },
+  {
+   "id": "SURG-U69-17",
+   "ch": 69,
+   "n": 17,
+   "title": "Mediastinal Tumors by Compartment",
+   "sec": "Mediastinal Tumors by Compartment · p542",
+   "qs": [
+    "SURG-C69-130",
+    "SURG-C69-131",
+    "SURG-C69-132",
+    "SURG-C69-133",
+    "SURG-C69-134",
+    "SURG-C69-135",
+    "SURG-C69-136"
+   ],
+   "guide": "Mediastinal tumors by compartment: superior — lymphoma, thyroid, parathyroid; anterior — the 3 T's, thymoma (m/c mediastinal tumour), teratoma and terrible lymphoma; middle — cystic lesions, m/c pericardial cyst, plus lymphoma and mesenchymal tumors; posterior — neurogenic tumors, the m/c mediastinal tumour in children, and cystic lesions."
+  },
+  {
+   "id": "SURG-U69-18",
+   "ch": 69,
+   "n": 18,
+   "title": "Thymoma and Masaoka Staging",
+   "sec": "Thymoma and Masaoka Staging · p543",
+   "qs": [
+    "SURG-C69-137",
+    "SURG-C69-138",
+    "SURG-C69-139",
+    "SURG-C69-140",
+    "SURG-C69-141",
+    "SURG-C69-142",
+    "SURG-C69-143",
+    "SURG-C69-144",
+    "SURG-C69-145",
+    "SURG-C69-146"
+   ],
+   "guide": "Thymoma is the m/c mediastinal tumour overall, sits anteriorly, is usually benign and associates with myasthenia gravis; small lesions go transcervically, large ones by VATS or thoracotomy. Masaoka staging: I encapsulated without microscopic capsular invasion; II macroscopic invasion into mediastinal fat or pleura with microscopic capsular invasion; III invasion into pericardium, great vessels or lungs; IVA pleural or pericardial dissemination; IVB lymphogenous or haematogenous metastasis."
+  },
+  {
+   "id": "SURG-U69-19",
+   "ch": 69,
+   "n": 19,
+   "title": "Mediastinal Germ Cell Tumors",
+   "sec": "Mediastinal Germ Cell Tumors · p543",
+   "qs": [
+    "SURG-C69-147",
+    "SURG-C69-148",
+    "SURG-C69-149",
+    "SURG-C69-150",
+    "SURG-C69-151"
+   ],
+   "guide": "The anterior mediastinum is the m/c extragonadal site for germ cell tumors, commoner in males; benign ones are teratomas while malignant ones raise αFP, LDH and β-hCG. Excise, and add chemotherapy if malignant."
+  }
+ ]
+}

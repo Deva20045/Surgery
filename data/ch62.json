@@ -1,0 +1,3361 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C62-001",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins",
+   "page": 476,
+   "q": "Percentage of lower limb blood carried by the superficial venous system:",
+   "opts": [
+    "20%",
+    "50%",
+    "80%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "20% (Book p476)"
+  },
+  {
+   "id": "SURG-C62-002",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins",
+   "page": 476,
+   "q": "Percentage of lower limb blood carried by the deep venous system:",
+   "opts": [
+    "80%",
+    "20%",
+    "50%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "80% (Book p476)"
+  },
+  {
+   "id": "SURG-C62-003",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins",
+   "page": 476,
+   "q": "Function of venous valves:",
+   "opts": [
+    "Ensure unidirectional flow",
+    "Increase venous pressure",
+    "Allow bidirectional flow",
+    "Pump blood actively"
+   ],
+   "ans": 0,
+   "exp": "Ensure unidirectional flow (Book p476)"
+  },
+  {
+   "id": "SURG-C62-004",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins",
+   "page": 476,
+   "q": "Perforators are veins that:",
+   "opts": [
+    "Connect the superficial to the deep venous system",
+    "Connect two arteries",
+    "Connect lymphatics",
+    "Drain the skin only"
+   ],
+   "ans": 0,
+   "exp": "Connect the superficial to the deep venous system (Book p476)"
+  },
+  {
+   "id": "SURG-C62-005",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins",
+   "page": 476,
+   "q": "Direction of normal venous flow in the limb:",
+   "opts": [
+    "Unidirectional — superficial to deep, distally to proximally",
+    "Deep to superficial",
+    "Bidirectional",
+    "Random"
+   ],
+   "ans": 0,
+   "exp": "Unidirectional — superficial to deep, distally to proximally (Book p476)"
+  },
+  {
+   "id": "SURG-C62-006",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins",
+   "page": 476,
+   "q": "Deep veins labelled from above downwards in the diagram:",
+   "opts": [
+    "Common femoral, superficial femoral, popliteal, then paired tibial/peroneal veins",
+    "Popliteal, common femoral, peroneal",
+    "Great saphenous, short saphenous, popliteal",
+    "Iliac, obturator, pudendal"
+   ],
+   "ans": 0,
+   "exp": "Common femoral, superficial femoral, popliteal, then paired tibial/peroneal veins (Book p476)"
+  },
+  {
+   "id": "SURG-C62-007",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins",
+   "page": 476,
+   "q": "Anterior tibial, posterior tibial and peroneal veins are:",
+   "opts": [
+    "Paired",
+    "Single",
+    "Triple",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Paired (Book p476)"
+  },
+  {
+   "id": "SURG-C62-008",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "Great saphenous vein arises from:",
+   "opts": [
+    "Medial end of dorsal venous arch",
+    "Lateral end of dorsal venous arch",
+    "Plantar venous arch only",
+    "Popliteal vein"
+   ],
+   "ans": 0,
+   "exp": "Medial end of dorsal venous arch (Book p476)"
+  },
+  {
+   "id": "SURG-C62-009",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "GSV passes at the knee along the:",
+   "opts": [
+    "Medial aspect of knee",
+    "Lateral aspect of knee",
+    "Posterior aspect of knee",
+    "Anterior midline"
+   ],
+   "ans": 0,
+   "exp": "Medial aspect of knee (Book p476)"
+  },
+  {
+   "id": "SURG-C62-010",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "GSV at the ankle lies:",
+   "opts": [
+    "Just anterior to medial malleolus",
+    "Posterior to medial malleolus",
+    "Anterior to lateral malleolus",
+    "Over the tendo achilles"
+   ],
+   "ans": 0,
+   "exp": "Just anterior to medial malleolus (Book p476)"
+  },
+  {
+   "id": "SURG-C62-011",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "Site just anterior to the medial malleolus is the classic site of:",
+   "opts": [
+    "Venous cut down",
+    "Arterial puncture",
+    "Nerve block",
+    "Skin grafting"
+   ],
+   "ans": 0,
+   "exp": "Venous cut down (Book p476)"
+  },
+  {
+   "id": "SURG-C62-012",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "GSV finally drains at the:",
+   "opts": [
+    "Sapheno-femoral junction (SFJ)",
+    "Sapheno-popliteal junction",
+    "Popliteal vein",
+    "Profunda femoris"
+   ],
+   "ans": 0,
+   "exp": "Sapheno-femoral junction (SFJ) (Book p476)"
+  },
+  {
+   "id": "SURG-C62-013",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "Surface marking of the SFJ:",
+   "opts": [
+    "4 cm below and lateral to the pubic tubercle",
+    "4 cm above and medial to pubic tubercle",
+    "2 cm below the inguinal ligament midpoint",
+    "At the femoral head"
+   ],
+   "ans": 0,
+   "exp": "4 cm below and lateral to the pubic tubercle (Book p476)"
+  },
+  {
+   "id": "SURG-C62-014",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "Below the knee, GSV is closely associated with the:",
+   "opts": [
+    "Saphenous nerve",
+    "Sural nerve",
+    "Common peroneal nerve",
+    "Tibial nerve"
+   ],
+   "ans": 0,
+   "exp": "Saphenous nerve (Book p476)"
+  },
+  {
+   "id": "SURG-C62-015",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "Nerve that may be injured while raising the GSV:",
+   "opts": [
+    "Saphenous nerve",
+    "Sural nerve",
+    "Femoral nerve",
+    "Obturator nerve"
+   ],
+   "ans": 0,
+   "exp": "Saphenous nerve (Book p476)"
+  },
+  {
+   "id": "SURG-C62-016",
+   "sec": "Great Saphenous Vein (GSV)",
+   "page": 476,
+   "q": "GSV can be used as a graft in:",
+   "opts": [
+    "Coronary artery bypass grafting (CABG)",
+    "Skin grafting",
+    "Nerve grafting",
+    "Bone grafting"
+   ],
+   "ans": 0,
+   "exp": "Coronary artery bypass grafting (CABG) (Book p476)"
+  },
+  {
+   "id": "SURG-C62-017",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Tributaries of the GSV labelled in the diagram include:",
+   "opts": [
+    "Posteromedial thigh tributary and anterior (accessory) saphenous vein",
+    "Sural and peroneal veins",
+    "Profunda femoris branches",
+    "Perforating arteries"
+   ],
+   "ans": 0,
+   "exp": "Posteromedial thigh tributary and anterior (accessory) saphenous vein (Book p477)"
+  },
+  {
+   "id": "SURG-C62-018",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Vein labelled in the leg as a GSV tributary:",
+   "opts": [
+    "Anterior tributary of leg",
+    "Small saphenous vein",
+    "Giacomini vein",
+    "Popliteal vein"
+   ],
+   "ans": 0,
+   "exp": "Anterior tributary of leg (Book p477)"
+  },
+  {
+   "id": "SURG-C62-019",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Short saphenous vein (SSV) arises from:",
+   "opts": [
+    "Lateral end of dorsal venous arch",
+    "Medial end of dorsal venous arch",
+    "Plantar arch",
+    "Popliteal vein"
+   ],
+   "ans": 0,
+   "exp": "Lateral end of dorsal venous arch (Book p477)"
+  },
+  {
+   "id": "SURG-C62-020",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Course of the short saphenous vein:",
+   "opts": [
+    "Goes posteriorly",
+    "Goes medially",
+    "Goes anteriorly",
+    "Goes laterally around the knee"
+   ],
+   "ans": 0,
+   "exp": "Goes posteriorly (Book p477)"
+  },
+  {
+   "id": "SURG-C62-021",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Short saphenous vein drains into the:",
+   "opts": [
+    "Sapheno-popliteal junction (SPJ)",
+    "Sapheno-femoral junction",
+    "Femoral vein",
+    "Anterior tibial vein"
+   ],
+   "ans": 0,
+   "exp": "Sapheno-popliteal junction (SPJ) (Book p477)"
+  },
+  {
+   "id": "SURG-C62-022",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Why must the SPJ be radiologically marked before surgery:",
+   "opts": [
+    "Its location is variable",
+    "It is very deep",
+    "It is calcified",
+    "It is absent in most patients"
+   ],
+   "ans": 0,
+   "exp": "Its location is variable (Book p477)"
+  },
+  {
+   "id": "SURG-C62-023",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Nerve closely associated with the SSV all along its course:",
+   "opts": [
+    "Sural nerve",
+    "Saphenous nerve",
+    "Tibial nerve",
+    "Femoral nerve"
+   ],
+   "ans": 0,
+   "exp": "Sural nerve (Book p477)"
+  },
+  {
+   "id": "SURG-C62-024",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Because of sural nerve proximity, SSV surgery avoids:",
+   "opts": [
+    "Stripping",
+    "Ligation",
+    "Marking",
+    "Anaesthesia"
+   ],
+   "ans": 0,
+   "exp": "Stripping (Book p477)"
+  },
+  {
+   "id": "SURG-C62-025",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Giacomini vein is the:",
+   "opts": [
+    "Cranial extension of the small saphenous vein connecting with the GSV",
+    "Perforator at the ankle",
+    "Tributary of the femoral vein",
+    "Deep calf vein"
+   ],
+   "ans": 0,
+   "exp": "Cranial extension of the small saphenous vein connecting with the GSV (Book p477)"
+  },
+  {
+   "id": "SURG-C62-026",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "page": 477,
+   "q": "Clinical significance of the Giacomini vein:",
+   "opts": [
+    "Cause of recurrence following surgery",
+    "Cause of DVT",
+    "Site of ulceration",
+    "Site of venous cut down"
+   ],
+   "ans": 0,
+   "exp": "Cause of recurrence following surgery (Book p477)"
+  },
+  {
+   "id": "SURG-C62-027",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Perforators connect:",
+   "opts": [
+    "The superficial to the deep venous system",
+    "Artery to vein",
+    "Two deep veins",
+    "Lymphatic to vein"
+   ],
+   "ans": 0,
+   "exp": "The superficial to the deep venous system (Book p477)"
+  },
+  {
+   "id": "SURG-C62-028",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Total number of perforators in the lower limb:",
+   "opts": [
+    "100-150",
+    "10-15",
+    "50-60",
+    "300-400"
+   ],
+   "ans": 0,
+   "exp": "100-150 (Book p477)"
+  },
+  {
+   "id": "SURG-C62-029",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Thigh perforator is called:",
+   "opts": [
+    "Hunterian perforator",
+    "Dodd's perforator",
+    "Boyd's perforator",
+    "Cockett's perforator"
+   ],
+   "ans": 0,
+   "exp": "Hunterian perforator (Book p477)"
+  },
+  {
+   "id": "SURG-C62-030",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Perforator above the knee:",
+   "opts": [
+    "Dodd's perforator",
+    "Boyd's perforator",
+    "Hunterian perforator",
+    "May/Kuster's perforator"
+   ],
+   "ans": 0,
+   "exp": "Dodd's perforator (Book p477)"
+  },
+  {
+   "id": "SURG-C62-031",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Perforator below the knee:",
+   "opts": [
+    "Boyd's perforator",
+    "Dodd's perforator",
+    "Cockett's perforator",
+    "Hunterian perforator"
+   ],
+   "ans": 0,
+   "exp": "Boyd's perforator (Book p477)"
+  },
+  {
+   "id": "SURG-C62-032",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Perforators above the medial malleolus:",
+   "opts": [
+    "Cockett's perforators",
+    "Boyd's perforator",
+    "Dodd's perforator",
+    "May/Kuster's perforator"
+   ],
+   "ans": 0,
+   "exp": "Cockett's perforators (Book p477)"
+  },
+  {
+   "id": "SURG-C62-033",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Number and level of Cockett's perforators:",
+   "opts": [
+    "Three — 5, 10 and 15 cm above the medial malleolus",
+    "Two — 5 and 10 cm",
+    "Four — 2, 4, 6 and 8 cm",
+    "One — at 10 cm"
+   ],
+   "ans": 0,
+   "exp": "Three — 5, 10 and 15 cm above the medial malleolus (Book p477)"
+  },
+  {
+   "id": "SURG-C62-034",
+   "sec": "Perforators",
+   "page": 477,
+   "q": "Perforator at the heel:",
+   "opts": [
+    "May/Kuster's perforator",
+    "Cockett's perforator",
+    "Boyd's perforator",
+    "Hunterian perforator"
+   ],
+   "ans": 0,
+   "exp": "May/Kuster's perforator (Book p477)"
+  },
+  {
+   "id": "SURG-C62-035",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "Definition of varicose veins:",
+   "opts": [
+    "Dilated and tortuous veins with defective valves",
+    "Narrowed veins with normal valves",
+    "Thrombosed deep veins",
+    "Dilated arteries"
+   ],
+   "ans": 0,
+   "exp": "Dilated and tortuous veins with defective valves (Book p478)"
+  },
+  {
+   "id": "SURG-C62-036",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "Cause of PRIMARY varicose veins:",
+   "opts": [
+    "Defective valves",
+    "Deep vein thrombosis",
+    "Tumors",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "Defective valves (Book p478)"
+  },
+  {
+   "id": "SURG-C62-037",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "M/c type of varicose veins:",
+   "opts": [
+    "Secondary",
+    "Primary",
+    "Congenital",
+    "Traumatic"
+   ],
+   "ans": 0,
+   "exp": "Secondary (Book p478)"
+  },
+  {
+   "id": "SURG-C62-038",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "Causes of SECONDARY varicose veins:",
+   "opts": [
+    "Deep vein thrombosis and tumors",
+    "Defective valves alone",
+    "Arterial disease",
+    "Lymphatic obstruction"
+   ],
+   "ans": 0,
+   "exp": "Deep vein thrombosis and tumors (Book p478)"
+  },
+  {
+   "id": "SURG-C62-039",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "Occupational risk factor for varicose veins:",
+   "opts": [
+    "Prolonged standing",
+    "Prolonged sitting with legs up",
+    "Swimming",
+    "Cycling"
+   ],
+   "ans": 0,
+   "exp": "Prolonged standing (Book p478)"
+  },
+  {
+   "id": "SURG-C62-040",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "Sex predilection of varicose veins:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Equal",
+    "Only males"
+   ],
+   "ans": 0,
+   "exp": "Females > males (Book p478)"
+  },
+  {
+   "id": "SURG-C62-041",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "Genetic risk factor for varicose veins:",
+   "opts": [
+    "Family history",
+    "Blood group O",
+    "HLA-B27",
+    "Male gender"
+   ],
+   "ans": 0,
+   "exp": "Family history (Book p478)"
+  },
+  {
+   "id": "SURG-C62-042",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors",
+   "page": 478,
+   "q": "Physiological state increasing risk of varicose veins:",
+   "opts": [
+    "Pregnancy",
+    "Menopause",
+    "Puberty in males",
+    "Lactation only"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy (Book p478)"
+  },
+  {
+   "id": "SURG-C62-043",
+   "sec": "Pathophysiology of Varicose Veins",
+   "page": 478,
+   "q": "In normal physiology, blood in the limb veins is returned:",
+   "opts": [
+    "Against gravity",
+    "With gravity",
+    "By arterial pulsation only",
+    "By lymphatics"
+   ],
+   "ans": 0,
+   "exp": "Against gravity (Book p478)"
+  },
+  {
+   "id": "SURG-C62-044",
+   "sec": "Pathophysiology of Varicose Veins",
+   "page": 478,
+   "q": "Effect of inspiration on venous return:",
+   "opts": [
+    "↓ intra thoracic pressure",
+    "↑ intra thoracic pressure",
+    "No change",
+    "↓ venous return"
+   ],
+   "ans": 0,
+   "exp": "↓ intra thoracic pressure (Book p478)"
+  },
+  {
+   "id": "SURG-C62-045",
+   "sec": "Pathophysiology of Varicose Veins",
+   "page": 478,
+   "q": "Role of surrounding muscle in venous return:",
+   "opts": [
+    "Compression of surrounding muscle ↑ flow",
+    "Muscle compression ↓ flow",
+    "Muscles have no role",
+    "Muscles occlude deep veins"
+   ],
+   "ans": 0,
+   "exp": "Compression of surrounding muscle ↑ flow (Book p478)"
+  },
+  {
+   "id": "SURG-C62-046",
+   "sec": "Pathophysiology of Varicose Veins",
+   "page": 478,
+   "q": "Normal effect of exercise on pressure in superficial veins:",
+   "opts": [
+    "↓ pressure in superficial veins",
+    "↑ pressure in superficial veins",
+    "No change",
+    "Pressure becomes zero"
+   ],
+   "ans": 0,
+   "exp": "↓ pressure in superficial veins (Book p478)"
+  },
+  {
+   "id": "SURG-C62-047",
+   "sec": "Pathophysiology of Varicose Veins",
+   "page": 478,
+   "q": "Most acceptable theory of varicose vein pathology:",
+   "opts": [
+    "Ambulatory venous hypertension — pressure in superficial veins ↑ on exercise",
+    "Arterial hypertension theory",
+    "Lymphatic overload theory",
+    "Infective theory"
+   ],
+   "ans": 0,
+   "exp": "Ambulatory venous hypertension — pressure in superficial veins ↑ on exercise (Book p478)"
+  },
+  {
+   "id": "SURG-C62-048",
+   "sec": "Clinical Features and Vein Calibre",
+   "page": 478,
+   "q": "Common presentations of varicose veins:",
+   "opts": [
+    "Dilated veins, dull aching pain and pigmentation",
+    "Claudication and rest pain",
+    "Fever and rigors",
+    "Sudden pulseless limb"
+   ],
+   "ans": 0,
+   "exp": "Dilated veins, dull aching pain and pigmentation (Book p478)"
+  },
+  {
+   "id": "SURG-C62-049",
+   "sec": "Clinical Features and Vein Calibre",
+   "page": 478,
+   "q": "Diameter defining a varicose vein:",
+   "opts": [
+    ">3 mm",
+    "1-3 mm",
+    "≤1 mm",
+    ">10 mm"
+   ],
+   "ans": 0,
+   "exp": ">3 mm (Book p478)"
+  },
+  {
+   "id": "SURG-C62-050",
+   "sec": "Clinical Features and Vein Calibre",
+   "page": 478,
+   "q": "Diameter of a reticular vein:",
+   "opts": [
+    "1-3 mm",
+    ">3 mm",
+    "≤1 mm",
+    ">5 mm"
+   ],
+   "ans": 0,
+   "exp": "1-3 mm (Book p478)"
+  },
+  {
+   "id": "SURG-C62-051",
+   "sec": "Clinical Features and Vein Calibre",
+   "page": 478,
+   "q": "Diameter of dermal flares / thread veins:",
+   "opts": [
+    "≤1 mm",
+    "1-3 mm",
+    ">3 mm",
+    ">5 mm"
+   ],
+   "ans": 0,
+   "exp": "≤1 mm (Book p478)"
+  },
+  {
+   "id": "SURG-C62-052",
+   "sec": "Clinical Features and Vein Calibre",
+   "page": 478,
+   "q": "Type of pain in varicose veins:",
+   "opts": [
+    "Dull, aching pain",
+    "Sharp lancinating pain",
+    "Colicky pain",
+    "Burning rest pain"
+   ],
+   "ans": 0,
+   "exp": "Dull, aching pain (Book p478)"
+  },
+  {
+   "id": "SURG-C62-053",
+   "sec": "Clinical Features and Vein Calibre",
+   "page": 478,
+   "q": "Pigmentation in varicose veins is due to:",
+   "opts": [
+    "Hemosiderin deposition",
+    "Melanin excess",
+    "Bilirubin deposition",
+    "Carotene deposition"
+   ],
+   "ans": 0,
+   "exp": "Hemosiderin deposition (Book p478)"
+  },
+  {
+   "id": "SURG-C62-054",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Corona phlebectasia is also called:",
+   "opts": [
+    "Malleolar flare",
+    "Gaiter flare",
+    "Champagne sign",
+    "Mickey mouse sign"
+   ],
+   "ans": 0,
+   "exp": "Malleolar flare (Book p479)"
+  },
+  {
+   "id": "SURG-C62-055",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Corona phlebectasia appearance:",
+   "opts": [
+    "Fan shaped pattern of telangiectasia (<1 mm)",
+    "Single dilated vein >3 mm",
+    "Depigmented patch",
+    "Ulcer with sloping edge"
+   ],
+   "ans": 0,
+   "exp": "Fan shaped pattern of telangiectasia (<1 mm) (Book p479)"
+  },
+  {
+   "id": "SURG-C62-056",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Multiple veins in corona phlebectasia indicate:",
+   "opts": [
+    "Early sign of advanced venous disease",
+    "Normal finding",
+    "Arterial disease",
+    "Lymphatic disease"
+   ],
+   "ans": 0,
+   "exp": "Early sign of advanced venous disease (Book p479)"
+  },
+  {
+   "id": "SURG-C62-057",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Atrophic blanche is:",
+   "opts": [
+    "Depigmented area surrounded by dilated veins",
+    "Pigmented patch with ulcer",
+    "Fan of telangiectasia",
+    "Woody induration of the calf"
+   ],
+   "ans": 0,
+   "exp": "Depigmented area surrounded by dilated veins (Book p479)"
+  },
+  {
+   "id": "SURG-C62-058",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Atrophic blanche is a sign of:",
+   "opts": [
+    "Advanced venous disease",
+    "Early venous disease",
+    "Arterial insufficiency",
+    "Diabetic neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Advanced venous disease (Book p479)"
+  },
+  {
+   "id": "SURG-C62-059",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Lipodermatosclerosis consists of:",
+   "opts": [
+    "Contracture of tendo achilles + obliteration of fat + fibrosis",
+    "Ulceration + infection + gangrene",
+    "Telangiectasia + pigmentation only",
+    "Oedema + erythema alone"
+   ],
+   "ans": 0,
+   "exp": "Contracture of tendo achilles + obliteration of fat + fibrosis (Book p479)"
+  },
+  {
+   "id": "SURG-C62-060",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Appearance produced by lipodermatosclerosis:",
+   "opts": [
+    "Inverted champagne bottle appearance",
+    "Bag of worms appearance",
+    "Orange peel appearance",
+    "Cauliflower appearance"
+   ],
+   "ans": 0,
+   "exp": "Inverted champagne bottle appearance (Book p479)"
+  },
+  {
+   "id": "SURG-C62-061",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Palpatory feel of lipodermatosclerosis:",
+   "opts": [
+    "Woody feel",
+    "Boggy feel",
+    "Fluctuant feel",
+    "Crepitus"
+   ],
+   "ans": 0,
+   "exp": "Woody feel (Book p479)"
+  },
+  {
+   "id": "SURG-C62-062",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Venous ulceration commonly occurs over the:",
+   "opts": [
+    "Medial malleolus — Gaiter's area",
+    "Lateral malleolus in all cases",
+    "Dorsum of foot",
+    "Great toe"
+   ],
+   "ans": 0,
+   "exp": "Medial malleolus — Gaiter's area (Book p479)"
+  },
+  {
+   "id": "SURG-C62-063",
+   "sec": "Other Clinical Findings of Chronic Venous Disease",
+   "page": 479,
+   "q": "Reticular veins seen clinically are:",
+   "opts": [
+    "Veins of 1-3 mm diameter",
+    "Veins >3 mm",
+    "Veins ≤1 mm",
+    "Deep veins"
+   ],
+   "ans": 0,
+   "exp": "Veins of 1-3 mm diameter (Book p479)"
+  },
+  {
+   "id": "SURG-C62-064",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP stands for:",
+   "opts": [
+    "Clinical, etiological, anatomical, pathophysiological classification",
+    "Chronic edema and phlebitis",
+    "Compression, elevation, ablation, prophylaxis",
+    "Clinical evaluation of arterial pathology"
+   ],
+   "ans": 0,
+   "exp": "Clinical, etiological, anatomical, pathophysiological classification (Book p480)"
+  },
+  {
+   "id": "SURG-C62-065",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C0:",
+   "opts": [
+    "No visible/palpable veins",
+    "Telangiectasias",
+    "Varicose veins",
+    "Edema"
+   ],
+   "ans": 0,
+   "exp": "No visible/palpable veins (Book p480)"
+  },
+  {
+   "id": "SURG-C62-066",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C1:",
+   "opts": [
+    "Telangiectasias / reticular veins",
+    "No visible veins",
+    "Varicose veins",
+    "Healed ulcer"
+   ],
+   "ans": 0,
+   "exp": "Telangiectasias / reticular veins (Book p480)"
+  },
+  {
+   "id": "SURG-C62-067",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C2:",
+   "opts": [
+    "Varicose veins",
+    "Reticular veins",
+    "Edema",
+    "Active ulcer"
+   ],
+   "ans": 0,
+   "exp": "Varicose veins (Book p480)"
+  },
+  {
+   "id": "SURG-C62-068",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C2r:",
+   "opts": [
+    "Recurrent varicose veins",
+    "Reticular veins",
+    "Recurrent ulcer",
+    "Edema"
+   ],
+   "ans": 0,
+   "exp": "Recurrent varicose veins (Book p480)"
+  },
+  {
+   "id": "SURG-C62-069",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C3:",
+   "opts": [
+    "Edema",
+    "Varicose veins",
+    "Pigmentation",
+    "Healed ulcer"
+   ],
+   "ans": 0,
+   "exp": "Edema (Book p480)"
+  },
+  {
+   "id": "SURG-C62-070",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C4:",
+   "opts": [
+    "Skin/subcutaneous tissue changes secondary to venous disease",
+    "Edema",
+    "Healed ulcer",
+    "Active ulcer"
+   ],
+   "ans": 0,
+   "exp": "Skin/subcutaneous tissue changes secondary to venous disease (Book p480)"
+  },
+  {
+   "id": "SURG-C62-071",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C4a:",
+   "opts": [
+    "Pigmentation / eczema",
+    "Lipodermatosclerosis",
+    "Corona phlebectasia",
+    "Healed ulcer"
+   ],
+   "ans": 0,
+   "exp": "Pigmentation / eczema (Book p480)"
+  },
+  {
+   "id": "SURG-C62-072",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C4b:",
+   "opts": [
+    "Lipodermatosclerosis / atrophic blanche",
+    "Pigmentation/eczema",
+    "Corona phlebectasia",
+    "Active ulcer"
+   ],
+   "ans": 0,
+   "exp": "Lipodermatosclerosis / atrophic blanche (Book p480)"
+  },
+  {
+   "id": "SURG-C62-073",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C4c:",
+   "opts": [
+    "Corona phlebectasia",
+    "Pigmentation",
+    "Lipodermatosclerosis",
+    "Healed ulcer"
+   ],
+   "ans": 0,
+   "exp": "Corona phlebectasia (Book p480)"
+  },
+  {
+   "id": "SURG-C62-074",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C5:",
+   "opts": [
+    "Healed ulcer",
+    "Active venous ulcer",
+    "Recurrent active ulcer",
+    "Edema"
+   ],
+   "ans": 0,
+   "exp": "Healed ulcer (Book p480)"
+  },
+  {
+   "id": "SURG-C62-075",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C6:",
+   "opts": [
+    "Active venous ulcer",
+    "Healed ulcer",
+    "Recurrent active venous ulcer",
+    "Pigmentation"
+   ],
+   "ans": 0,
+   "exp": "Active venous ulcer (Book p480)"
+  },
+  {
+   "id": "SURG-C62-076",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "CEAP class C6r:",
+   "opts": [
+    "Recurrent active venous ulcer",
+    "Healed ulcer",
+    "Active venous ulcer",
+    "Varicose veins"
+   ],
+   "ans": 0,
+   "exp": "Recurrent active venous ulcer (Book p480)"
+  },
+  {
+   "id": "SURG-C62-077",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "In case of multiple findings in CEAP:",
+   "opts": [
+    "Highest grade is considered",
+    "Lowest grade is considered",
+    "Average is taken",
+    "Each is reported separately only"
+   ],
+   "ans": 0,
+   "exp": "Highest grade is considered (Book p480)"
+  },
+  {
+   "id": "SURG-C62-078",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Etiological class Ec:",
+   "opts": [
+    "Congenital",
+    "Primary",
+    "Secondary",
+    "No venous etiology identified"
+   ],
+   "ans": 0,
+   "exp": "Congenital (Book p480)"
+  },
+  {
+   "id": "SURG-C62-079",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Etiological class Ep:",
+   "opts": [
+    "Primary",
+    "Congenital",
+    "Secondary",
+    "None identified"
+   ],
+   "ans": 0,
+   "exp": "Primary (Book p480)"
+  },
+  {
+   "id": "SURG-C62-080",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Etiological class Es:",
+   "opts": [
+    "Secondary (post-thrombotic)",
+    "Primary",
+    "Congenital",
+    "None identified"
+   ],
+   "ans": 0,
+   "exp": "Secondary (post-thrombotic) (Book p480)"
+  },
+  {
+   "id": "SURG-C62-081",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Etiological class En:",
+   "opts": [
+    "No venous etiology identified",
+    "Congenital",
+    "Primary",
+    "Secondary"
+   ],
+   "ans": 0,
+   "exp": "No venous etiology identified (Book p480)"
+  },
+  {
+   "id": "SURG-C62-082",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Anatomical class As:",
+   "opts": [
+    "Superficial veins",
+    "Perforator vein",
+    "Deep vein",
+    "No venous location identified"
+   ],
+   "ans": 0,
+   "exp": "Superficial veins (Book p480)"
+  },
+  {
+   "id": "SURG-C62-083",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Anatomical class Ap:",
+   "opts": [
+    "Perforator vein",
+    "Superficial veins",
+    "Deep vein",
+    "None identified"
+   ],
+   "ans": 0,
+   "exp": "Perforator vein (Book p480)"
+  },
+  {
+   "id": "SURG-C62-084",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Anatomical class Ad:",
+   "opts": [
+    "Deep vein",
+    "Superficial vein",
+    "Perforator",
+    "None identified"
+   ],
+   "ans": 0,
+   "exp": "Deep vein (Book p480)"
+  },
+  {
+   "id": "SURG-C62-085",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Anatomical class An:",
+   "opts": [
+    "No venous location identified",
+    "Deep vein",
+    "Perforator",
+    "Superficial vein"
+   ],
+   "ans": 0,
+   "exp": "No venous location identified (Book p480)"
+  },
+  {
+   "id": "SURG-C62-086",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Pathophysiological class Pr:",
+   "opts": [
+    "Reflux",
+    "Obstruction",
+    "Reflux and obstruction",
+    "No venous pathology"
+   ],
+   "ans": 0,
+   "exp": "Reflux (Book p480)"
+  },
+  {
+   "id": "SURG-C62-087",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Pathophysiological class Po:",
+   "opts": [
+    "Obstruction",
+    "Reflux",
+    "Reflux and obstruction",
+    "None identified"
+   ],
+   "ans": 0,
+   "exp": "Obstruction (Book p480)"
+  },
+  {
+   "id": "SURG-C62-088",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Pathophysiological class Pr/o:",
+   "opts": [
+    "Reflux and obstruction",
+    "Reflux only",
+    "Obstruction only",
+    "None identified"
+   ],
+   "ans": 0,
+   "exp": "Reflux and obstruction (Book p480)"
+  },
+  {
+   "id": "SURG-C62-089",
+   "sec": "CEAP Classification",
+   "page": 480,
+   "q": "Pathophysiological class Pn:",
+   "opts": [
+    "No venous pathology identified",
+    "Reflux",
+    "Obstruction",
+    "Both"
+   ],
+   "ans": 0,
+   "exp": "No venous pathology identified (Book p480)"
+  },
+  {
+   "id": "SURG-C62-090",
+   "sec": "Clinical Tests: Overview",
+   "page": 480,
+   "q": "Tests used for SFJ incompetence:",
+   "opts": [
+    "Trendelenburg test, Morrisey's cough impulse, Schwartz test",
+    "Modified Perthes test only",
+    "Fegan's method only",
+    "Allen's test"
+   ],
+   "ans": 0,
+   "exp": "Trendelenburg test, Morrisey's cough impulse, Schwartz test (Book p480)"
+  },
+  {
+   "id": "SURG-C62-091",
+   "sec": "Clinical Tests: Overview",
+   "page": 480,
+   "q": "Tests used for perforator incompetence:",
+   "opts": [
+    "Trendelenburg test, multiple tourniquet test, Fegan's method",
+    "Modified Perthes test",
+    "Schwartz test",
+    "Morrisey's cough impulse"
+   ],
+   "ans": 0,
+   "exp": "Trendelenburg test, multiple tourniquet test, Fegan's method (Book p480)"
+  },
+  {
+   "id": "SURG-C62-092",
+   "sec": "Clinical Tests: Overview",
+   "page": 480,
+   "q": "Test used to detect DVT before varicose vein surgery:",
+   "opts": [
+    "Modified Perthes test",
+    "Schwartz test",
+    "Fegan's method",
+    "Morrisey's cough impulse"
+   ],
+   "ans": 0,
+   "exp": "Modified Perthes test (Book p480)"
+  },
+  {
+   "id": "SURG-C62-093",
+   "sec": "Clinical Tests: Overview",
+   "page": 480,
+   "q": "Test appearing in BOTH the SFJ and perforator incompetence lists:",
+   "opts": [
+    "Trendelenburg test",
+    "Schwartz test",
+    "Fegan's method",
+    "Modified Perthes test"
+   ],
+   "ans": 0,
+   "exp": "Trendelenburg test (Book p480)"
+  },
+  {
+   "id": "SURG-C62-094",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "In the Trendelenburg test, gradual filling from below indicates:",
+   "opts": [
+    "Incompetent perforators",
+    "Incompetent SFJ",
+    "DVT",
+    "Normal veins"
+   ],
+   "ans": 0,
+   "exp": "Incompetent perforators (Book p481)"
+  },
+  {
+   "id": "SURG-C62-095",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "In the Trendelenburg test, rapid filling from above indicates:",
+   "opts": [
+    "Incompetent SFJ",
+    "Incompetent perforators",
+    "DVT",
+    "Arterial insufficiency"
+   ],
+   "ans": 0,
+   "exp": "Incompetent SFJ (Book p481)"
+  },
+  {
+   "id": "SURG-C62-096",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "Fegan's method involves:",
+   "opts": [
+    "Feeling along the vein and marking blowouts",
+    "Tying multiple tourniquets",
+    "Asking the patient to cough",
+    "Walking with tourniquet"
+   ],
+   "ans": 0,
+   "exp": "Feeling along the vein and marking blowouts (Book p481)"
+  },
+  {
+   "id": "SURG-C62-097",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "Blowouts marked in Fegan's method represent:",
+   "opts": [
+    "Sites of incompetent perforators",
+    "Sites of DVT",
+    "Sites of arterial stenosis",
+    "Sites of ulceration"
+   ],
+   "ans": 0,
+   "exp": "Sites of incompetent perforators (Book p481)"
+  },
+  {
+   "id": "SURG-C62-098",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "Morrisey's cough impulse test: a cough impulse felt at the SFJ means:",
+   "opts": [
+    "Incompetence of SFJ",
+    "Perforator incompetence",
+    "DVT",
+    "Normal SFJ"
+   ],
+   "ans": 0,
+   "exp": "Incompetence of SFJ (Book p481)"
+  },
+  {
+   "id": "SURG-C62-099",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "Levels at which tourniquets are tied in the multiple tourniquet test:",
+   "opts": [
+    "Above ankle, below knee, above knee and below SFJ",
+    "Only above the ankle",
+    "Only below the SFJ",
+    "Mid-thigh and groin only"
+   ],
+   "ans": 0,
+   "exp": "Above ankle, below knee, above knee and below SFJ (Book p481)"
+  },
+  {
+   "id": "SURG-C62-100",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "Multiple tourniquet test is used to:",
+   "opts": [
+    "Localize the sites of incompetent perforators",
+    "Rule out DVT",
+    "Assess arterial supply",
+    "Detect SFJ incompetence only"
+   ],
+   "ans": 0,
+   "exp": "Localize the sites of incompetent perforators (Book p481)"
+  },
+  {
+   "id": "SURG-C62-101",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "Purpose of the modified Perthes test:",
+   "opts": [
+    "To rule out DVT (surgery is not done if deep veins are blocked)",
+    "To confirm SFJ incompetence",
+    "To locate perforators",
+    "To measure reflux time"
+   ],
+   "ans": 0,
+   "exp": "To rule out DVT (surgery is not done if deep veins are blocked) (Book p481)"
+  },
+  {
+   "id": "SURG-C62-102",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "Modified Perthes test technique:",
+   "opts": [
+    "Tie tourniquet below SFJ and ask the patient to walk",
+    "Tie tourniquet at ankle and elevate limb",
+    "Ask patient to cough",
+    "Palpate along the vein"
+   ],
+   "ans": 0,
+   "exp": "Tie tourniquet below SFJ and ask the patient to walk (Book p481)"
+  },
+  {
+   "id": "SURG-C62-103",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "In the modified Perthes test, increased pain and swelling on walking means:",
+   "opts": [
+    "DVT positive",
+    "DVT negative",
+    "SFJ incompetence",
+    "Perforator incompetence"
+   ],
+   "ans": 0,
+   "exp": "DVT positive (Book p481)"
+  },
+  {
+   "id": "SURG-C62-104",
+   "sec": "Individual Clinical Tests",
+   "page": 481,
+   "q": "In the modified Perthes test, decreased pain and swelling means:",
+   "opts": [
+    "DVT negative",
+    "DVT positive",
+    "Perforator incompetence",
+    "Inconclusive"
+   ],
+   "ans": 0,
+   "exp": "DVT negative (Book p481)"
+  },
+  {
+   "id": "SURG-C62-105",
+   "sec": "Investigation: Doppler / Duplex Scan",
+   "page": 481,
+   "q": "IOC for varicose veins:",
+   "opts": [
+    "Doppler / duplex scan",
+    "MRI venography",
+    "CT venography",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "Doppler / duplex scan (Book p481)"
+  },
+  {
+   "id": "SURG-C62-106",
+   "sec": "Investigation: Doppler / Duplex Scan",
+   "page": 481,
+   "q": "Doppler assesses all of the following EXCEPT:",
+   "opts": [
+    "Bone density",
+    "Flow +/-",
+    "Direction of flow",
+    "Reflux"
+   ],
+   "ans": 0,
+   "exp": "Bone density (Book p481)"
+  },
+  {
+   "id": "SURG-C62-107",
+   "sec": "Investigation: Doppler / Duplex Scan",
+   "page": 481,
+   "q": "On colour Doppler, red colour indicates flow:",
+   "opts": [
+    "Away from the heart",
+    "Towards the heart",
+    "No flow",
+    "Turbulent flow"
+   ],
+   "ans": 0,
+   "exp": "Away from the heart (Book p481)"
+  },
+  {
+   "id": "SURG-C62-108",
+   "sec": "Investigation: Doppler / Duplex Scan",
+   "page": 481,
+   "q": "On colour Doppler, blue colour indicates flow:",
+   "opts": [
+    "Towards the heart",
+    "Away from the heart",
+    "Absent flow",
+    "Arterial flow"
+   ],
+   "ans": 0,
+   "exp": "Towards the heart (Book p481)"
+  },
+  {
+   "id": "SURG-C62-109",
+   "sec": "Investigation: Doppler / Duplex Scan",
+   "page": 481,
+   "q": "Definition of superficial vein reflux on Doppler:",
+   "opts": [
+    "Retrograde flow lasting ≥0.5 sec",
+    "Retrograde flow lasting ≥5 sec",
+    "Any retrograde flow",
+    "Forward flow >1 sec"
+   ],
+   "ans": 0,
+   "exp": "Retrograde flow lasting ≥0.5 sec (Book p481)"
+  },
+  {
+   "id": "SURG-C62-110",
+   "sec": "Investigation: Doppler / Duplex Scan",
+   "page": 481,
+   "q": "Mickey mouse sign on ultrasound is formed by:",
+   "opts": [
+    "CFA, GSV and femoral vein",
+    "Popliteal artery, vein and SSV",
+    "Three perforators",
+    "Two saphenous veins and a nerve"
+   ],
+   "ans": 0,
+   "exp": "CFA, GSV and femoral vein (Book p481)"
+  },
+  {
+   "id": "SURG-C62-111",
+   "sec": "Adjunctive Management",
+   "page": 481,
+   "q": "Class of compression garments used in varicose veins:",
+   "opts": [
+    "Class III compression garments (25-35 mmHg)",
+    "Class I (10-15 mmHg)",
+    "Class II (15-20 mmHg)",
+    "Class IV (>60 mmHg)"
+   ],
+   "ans": 0,
+   "exp": "Class III compression garments (25-35 mmHg) (Book p481)"
+  },
+  {
+   "id": "SURG-C62-112",
+   "sec": "Adjunctive Management",
+   "page": 481,
+   "q": "Pressure delivered by class III compression garments:",
+   "opts": [
+    "25-35 mmHg",
+    "10-15 mmHg",
+    "15-20 mmHg",
+    "40-50 mmHg"
+   ],
+   "ans": 0,
+   "exp": "25-35 mmHg (Book p481)"
+  },
+  {
+   "id": "SURG-C62-113",
+   "sec": "Adjunctive Management",
+   "page": 481,
+   "q": "Main disadvantage of compression garments:",
+   "opts": [
+    "Low compliance",
+    "High cost",
+    "Skin cancer risk",
+    "Causes DVT"
+   ],
+   "ans": 0,
+   "exp": "Low compliance (Book p481)"
+  },
+  {
+   "id": "SURG-C62-114",
+   "sec": "Adjunctive Management",
+   "page": 481,
+   "q": "In co-existing arterial disease (↓ABPI), compression garments should be used with:",
+   "opts": [
+    "Reduced pressure",
+    "Increased pressure",
+    "Same pressure",
+    "Double layers"
+   ],
+   "ans": 0,
+   "exp": "Reduced pressure (Book p481)"
+  },
+  {
+   "id": "SURG-C62-115",
+   "sec": "Adjunctive Management",
+   "page": 481,
+   "q": "Horse chestnut seed extract is:",
+   "opts": [
+    "Safe and efficacious in treating chronic venous hypertension",
+    "Contraindicated in venous disease",
+    "Used only for arterial ulcers",
+    "A sclerosant"
+   ],
+   "ans": 0,
+   "exp": "Safe and efficacious in treating chronic venous hypertension (Book p481)"
+  },
+  {
+   "id": "SURG-C62-116",
+   "sec": "Adjunctive Management",
+   "page": 481,
+   "q": "Effect of horse chestnut seed extract:",
+   "opts": [
+    "Improves symptoms and ↓ leg volume",
+    "Increases leg volume",
+    "Causes thrombosis",
+    "Dissolves clot"
+   ],
+   "ans": 0,
+   "exp": "Improves symptoms and ↓ leg volume (Book p481)"
+  },
+  {
+   "id": "SURG-C62-117",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Traditional procedure for GSV + SFJ incompetence:",
+   "opts": [
+    "Trendelenburg procedure (flush ligation of SFJ)",
+    "Dodd and Cockett procedure",
+    "SEPS",
+    "Foam sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Trendelenburg procedure (flush ligation of SFJ) (Book p482)"
+  },
+  {
+   "id": "SURG-C62-118",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Traditional procedure for SSV + SPJ incompetence:",
+   "opts": [
+    "Flush ligation of SPJ with SPJ marked before surgery and no stripping",
+    "Trendelenburg procedure",
+    "SEPS",
+    "Endovenous glue"
+   ],
+   "ans": 0,
+   "exp": "Flush ligation of SPJ with SPJ marked before surgery and no stripping (Book p482)"
+  },
+  {
+   "id": "SURG-C62-119",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Reason stripping is avoided in SSV surgery:",
+   "opts": [
+    "Sural nerve injury",
+    "Saphenous nerve injury",
+    "Femoral vein injury",
+    "Poor cosmesis"
+   ],
+   "ans": 0,
+   "exp": "Sural nerve injury (Book p482)"
+  },
+  {
+   "id": "SURG-C62-120",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Traditional procedures for perforator incompetence:",
+   "opts": [
+    "Dodd & Cockett procedure and SEPS",
+    "Trendelenburg procedure and stripping",
+    "EVLT and RFA",
+    "Sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Dodd & Cockett procedure and SEPS (Book p482)"
+  },
+  {
+   "id": "SURG-C62-121",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Dodd & Cockett procedure involves:",
+   "opts": [
+    "Multiple sub-fascial ligation",
+    "Flush ligation of SFJ",
+    "Laser ablation",
+    "Glue injection"
+   ],
+   "ans": 0,
+   "exp": "Multiple sub-fascial ligation (Book p482)"
+  },
+  {
+   "id": "SURG-C62-122",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Treatment of choice (latest procedures) for varicose veins:",
+   "opts": [
+    "Endovenous laser ablation therapy (EVLT) and radiofrequency ablation (RFA)",
+    "Trendelenburg procedure",
+    "Dodd & Cockett procedure",
+    "Compression stockings"
+   ],
+   "ans": 0,
+   "exp": "Endovenous laser ablation therapy (EVLT) and radiofrequency ablation (RFA) (Book p482)"
+  },
+  {
+   "id": "SURG-C62-123",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Flush ligation means ligation:",
+   "opts": [
+    "As close to the SFJ as possible",
+    "At the knee",
+    "At the ankle",
+    "At mid-thigh"
+   ],
+   "ans": 0,
+   "exp": "As close to the SFJ as possible (Book p482)"
+  },
+  {
+   "id": "SURG-C62-124",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Flush ligation prevents stump dilatation, which would otherwise cause:",
+   "opts": [
+    "Saphena varix",
+    "Femoral hernia",
+    "DVT",
+    "Lymphocele"
+   ],
+   "ans": 0,
+   "exp": "Saphena varix (Book p482)"
+  },
+  {
+   "id": "SURG-C62-125",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Tributaries are ligated during Trendelenburg procedure in order to:",
+   "opts": [
+    "↓ recurrence",
+    "↑ venous return",
+    "Prevent bleeding only",
+    "Shorten operating time"
+   ],
+   "ans": 0,
+   "exp": "↓ recurrence (Book p482)"
+  },
+  {
+   "id": "SURG-C62-126",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "First tributary ligated in the Trendelenburg procedure list:",
+   "opts": [
+    "Superficial external pudendal",
+    "Superficial epigastric vein",
+    "Deep external pudendal",
+    "Superficial circumflex iliac vein"
+   ],
+   "ans": 0,
+   "exp": "Superficial external pudendal (Book p482)"
+  },
+  {
+   "id": "SURG-C62-127",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Medial tributaries ligated at the SFJ:",
+   "opts": [
+    "Superficial and deep external pudendal veins",
+    "Superficial epigastric and circumflex iliac",
+    "Accessory anterior saphenous and posterior medial thigh vein",
+    "Giacomini vein"
+   ],
+   "ans": 0,
+   "exp": "Superficial and deep external pudendal veins (Book p482)"
+  },
+  {
+   "id": "SURG-C62-128",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Distal tributaries ligated at the SFJ:",
+   "opts": [
+    "Accessory anterior saphenous vein and posterior medial thigh vein",
+    "Superficial external pudendal and deep external pudendal",
+    "Superficial epigastric and circumflex iliac",
+    "Sural veins"
+   ],
+   "ans": 0,
+   "exp": "Accessory anterior saphenous vein and posterior medial thigh vein (Book p482)"
+  },
+  {
+   "id": "SURG-C62-129",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Lateral tributaries ligated at the SFJ:",
+   "opts": [
+    "Superficial epigastric vein and superficial circumflex iliac vein",
+    "External pudendal veins",
+    "Accessory anterior saphenous vein",
+    "Giacomini vein"
+   ],
+   "ans": 0,
+   "exp": "Superficial epigastric vein and superficial circumflex iliac vein (Book p482)"
+  },
+  {
+   "id": "SURG-C62-130",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Total number of tributaries listed for ligation in the Trendelenburg procedure:",
+   "opts": [
+    "6",
+    "3",
+    "4",
+    "8"
+   ],
+   "ans": 0,
+   "exp": "6 (Book p482)"
+  },
+  {
+   "id": "SURG-C62-131",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Venous stripping is:",
+   "opts": [
+    "An additional procedure",
+    "The mainstay procedure",
+    "Always contraindicated",
+    "Done only in SSV surgery"
+   ],
+   "ans": 0,
+   "exp": "An additional procedure (Book p482)"
+  },
+  {
+   "id": "SURG-C62-132",
+   "sec": "Surgical Management: Traditional Procedures",
+   "page": 482,
+   "q": "Venous stripping is done only till the knee in order to:",
+   "opts": [
+    "Prevent saphenous nerve injury",
+    "Prevent sural nerve injury",
+    "Prevent femoral vein injury",
+    "Save operating time"
+   ],
+   "ans": 0,
+   "exp": "Prevent saphenous nerve injury (Book p482)"
+  },
+  {
+   "id": "SURG-C62-133",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Wavelength of the laser used in EVLT:",
+   "opts": [
+    "1470 nm",
+    "810 nm",
+    "532 nm",
+    "2100 nm"
+   ],
+   "ans": 0,
+   "exp": "1470 nm (Book p483)"
+  },
+  {
+   "id": "SURG-C62-134",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Heat generated by the EVLT laser:",
+   "opts": [
+    "60 J/cm",
+    "6 J/cm",
+    "600 J/cm",
+    "20 J/cm"
+   ],
+   "ans": 0,
+   "exp": "60 J/cm (Book p483)"
+  },
+  {
+   "id": "SURG-C62-135",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Two types of lasers used in EVLT:",
+   "opts": [
+    "Forward firing and lateral firing",
+    "Pulsed and continuous only",
+    "Red and blue",
+    "Cold and hot"
+   ],
+   "ans": 0,
+   "exp": "Forward firing and lateral firing (Book p483)"
+  },
+  {
+   "id": "SURG-C62-136",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Disadvantage of EVLT:",
+   "opts": [
+    "Continuous pull-back required",
+    "Requires general anaesthesia always",
+    "Causes DVT always",
+    "High recurrence"
+   ],
+   "ans": 0,
+   "exp": "Continuous pull-back required (Book p483)"
+  },
+  {
+   "id": "SURG-C62-137",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "EVLT catheter can be inserted into:",
+   "opts": [
+    "Any vein — GSV/SSV/perforators",
+    "Only the GSV",
+    "Only deep veins",
+    "Only arteries"
+   ],
+   "ans": 0,
+   "exp": "Any vein — GSV/SSV/perforators (Book p483)"
+  },
+  {
+   "id": "SURG-C62-138",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Steps of the EVLT procedure:",
+   "opts": [
+    "Catheter insertion into vein → vein heats and collapses → catheter withdrawal closing vein",
+    "Glue injection → compression → ligation",
+    "Ligation → stripping → suturing",
+    "Sclerosant → foam → aspiration"
+   ],
+   "ans": 0,
+   "exp": "Catheter insertion into vein → vein heats and collapses → catheter withdrawal closing vein (Book p483)"
+  },
+  {
+   "id": "SURG-C62-139",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Temperature and cycle used in radiofrequency ablation:",
+   "opts": [
+    "120°C for a 20 second cycle",
+    "60°C for 60 seconds",
+    "200°C for 5 seconds",
+    "37°C for 20 minutes"
+   ],
+   "ans": 0,
+   "exp": "120°C for a 20 second cycle (Book p483)"
+  },
+  {
+   "id": "SURG-C62-140",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Advantages of RFA over EVLT:",
+   "opts": [
+    "Shorter learning curve and continuous pullback not required",
+    "Cheaper equipment only",
+    "No anaesthesia needed",
+    "No recurrence"
+   ],
+   "ans": 0,
+   "exp": "Shorter learning curve and continuous pullback not required (Book p483)"
+  },
+  {
+   "id": "SURG-C62-141",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Dodd and Cockett procedure involves ligation of the incompetent perforator at the:",
+   "opts": [
+    "Sub-fascial level",
+    "Supra-fascial level",
+    "Intradermal level",
+    "Deep vein level"
+   ],
+   "ans": 0,
+   "exp": "Sub-fascial level (Book p483)"
+  },
+  {
+   "id": "SURG-C62-142",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "SEPS stands for:",
+   "opts": [
+    "Sub-fascial endoscopic perforator surgery",
+    "Superficial endovenous perforator sclerotherapy",
+    "Saphenous endoscopic partial stripping",
+    "Subcutaneous endovenous plication surgery"
+   ],
+   "ans": 0,
+   "exp": "Sub-fascial endoscopic perforator surgery (Book p483)"
+  },
+  {
+   "id": "SURG-C62-143",
+   "sec": "EVLT, RFA and Perforator Surgery",
+   "page": 483,
+   "q": "Advantage of SEPS:",
+   "opts": [
+    "Multiple perforator ligation with a single incision",
+    "No anaesthesia required",
+    "Done percutaneously without incision",
+    "Treats the SFJ"
+   ],
+   "ans": 0,
+   "exp": "Multiple perforator ligation with a single incision (Book p483)"
+  },
+  {
+   "id": "SURG-C62-144",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Agent used in endovenous glue therapy:",
+   "opts": [
+    "Cyanoacrylate glue",
+    "Fibrin glue",
+    "Sodium tetradecyl sulphate",
+    "Polidocanol"
+   ],
+   "ans": 0,
+   "exp": "Cyanoacrylate glue (Book p483)"
+  },
+  {
+   "id": "SURG-C62-145",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Mechanism of endovenous glue therapy:",
+   "opts": [
+    "Collapses the dilated vein",
+    "Dissolves the clot",
+    "Strips the vein",
+    "Cools the vein"
+   ],
+   "ans": 0,
+   "exp": "Collapses the dilated vein (Book p483)"
+  },
+  {
+   "id": "SURG-C62-146",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Trivex is:",
+   "opts": [
+    "Transilluminated powered phlebectomy",
+    "Triple vein excision",
+    "Transvenous endoscopy",
+    "Thermal vein expansion"
+   ],
+   "ans": 0,
+   "exp": "Transilluminated powered phlebectomy (Book p483)"
+  },
+  {
+   "id": "SURG-C62-147",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "In Trivex, light is used sub-cutaneously to:",
+   "opts": [
+    "Illuminate and identify the varicose vein",
+    "Ablate the vein by heat",
+    "Sterilise the field",
+    "Measure reflux"
+   ],
+   "ans": 0,
+   "exp": "Illuminate and identify the varicose vein (Book p483)"
+  },
+  {
+   "id": "SURG-C62-148",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Current status of Trivex:",
+   "opts": [
+    "Not done anymore",
+    "Treatment of choice",
+    "First-line for perforators",
+    "Used only in pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Not done anymore (Book p483)"
+  },
+  {
+   "id": "SURG-C62-149",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Foam sclerotherapy is also known as:",
+   "opts": [
+    "Tessari technique",
+    "Trivex technique",
+    "Dodd technique",
+    "Fegan technique"
+   ],
+   "ans": 0,
+   "exp": "Tessari technique (Book p483)"
+  },
+  {
+   "id": "SURG-C62-150",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Sclerosant-to-air ratio in foam sclerotherapy:",
+   "opts": [
+    "1 : 3 (or 4)",
+    "3 : 1",
+    "1 : 1",
+    "1 : 10"
+   ],
+   "ans": 0,
+   "exp": "1 : 3 (or 4) (Book p483)"
+  },
+  {
+   "id": "SURG-C62-151",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "M/c sclerosant used:",
+   "opts": [
+    "Sodium tetradecyl sulphate",
+    "Polidocanol",
+    "Ethanolamine oleate",
+    "Sodium morrhuate"
+   ],
+   "ans": 0,
+   "exp": "Sodium tetradecyl sulphate (Book p483)"
+  },
+  {
+   "id": "SURG-C62-152",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Sclerosants used in foam sclerotherapy include all EXCEPT:",
+   "opts": [
+    "Cyanoacrylate",
+    "Sodium tetradecyl sulphate",
+    "Polidocanol",
+    "Sodium morrhuate"
+   ],
+   "ans": 0,
+   "exp": "Cyanoacrylate (Book p483)"
+  },
+  {
+   "id": "SURG-C62-153",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Vein size limit for foam sclerotherapy injection:",
+   "opts": [
+    "<3 mm only",
+    ">3 mm only",
+    "Any size",
+    ">5 mm"
+   ],
+   "ans": 0,
+   "exp": "<3 mm only (Book p483)"
+  },
+  {
+   "id": "SURG-C62-154",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Veins treated by foam sclerotherapy:",
+   "opts": [
+    "Reticular veins and thread veins",
+    "Deep veins",
+    "Perforators only",
+    "Arteries"
+   ],
+   "ans": 0,
+   "exp": "Reticular veins and thread veins (Book p483)"
+  },
+  {
+   "id": "SURG-C62-155",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "page": 483,
+   "q": "Mechanism of foam sclerotherapy:",
+   "opts": [
+    "Generates an inflammatory response which collapses the dilated vein",
+    "Freezes the vein",
+    "Mechanically strips the vein",
+    "Blocks the artery"
+   ],
+   "ans": 0,
+   "exp": "Generates an inflammatory response which collapses the dilated vein (Book p483)"
+  },
+  {
+   "id": "SURG-C62-156",
+   "sec": "Complications of Varicose Vein Surgery",
+   "page": 484,
+   "q": "Wound infection after varicose vein surgery is:",
+   "opts": [
+    "No longer the m/c complication — reduced by antibiotics",
+    "Still the m/c complication",
+    "Never seen",
+    "Treated with amputation"
+   ],
+   "ans": 0,
+   "exp": "No longer the m/c complication — reduced by antibiotics (Book p484)"
+  },
+  {
+   "id": "SURG-C62-157",
+   "sec": "Complications of Varicose Vein Surgery",
+   "page": 484,
+   "q": "M/c complication of varicose vein surgery:",
+   "opts": [
+    "Injury to nerves",
+    "Wound infection",
+    "Bleeding",
+    "Bruising"
+   ],
+   "ans": 0,
+   "exp": "Injury to nerves (Book p484)"
+  },
+  {
+   "id": "SURG-C62-158",
+   "sec": "Complications of Varicose Vein Surgery",
+   "page": 484,
+   "q": "Recurrence after varicose vein surgery is more common with:",
+   "opts": [
+    "SSV > GSV, as SPJ location is variable",
+    "GSV > SSV",
+    "Perforator surgery only",
+    "Equal in both"
+   ],
+   "ans": 0,
+   "exp": "SSV > GSV, as SPJ location is variable (Book p484)"
+  },
+  {
+   "id": "SURG-C62-159",
+   "sec": "Complications of Varicose Vein Surgery",
+   "page": 484,
+   "q": "Nerve injured in GSV surgery and its incidence:",
+   "opts": [
+    "Saphenous nerve (7%)",
+    "Sural nerve (7%)",
+    "Common peroneal nerve (7%)",
+    "Femoral nerve (7%)"
+   ],
+   "ans": 0,
+   "exp": "Saphenous nerve (7%) (Book p484)"
+  },
+  {
+   "id": "SURG-C62-160",
+   "sec": "Complications of Varicose Vein Surgery",
+   "page": 484,
+   "q": "Nerve injured in SSV surgery in 20% of cases:",
+   "opts": [
+    "Sural nerve",
+    "Saphenous nerve",
+    "Common peroneal nerve",
+    "Tibial nerve"
+   ],
+   "ans": 0,
+   "exp": "Sural nerve (Book p484)"
+  },
+  {
+   "id": "SURG-C62-161",
+   "sec": "Complications of Varicose Vein Surgery",
+   "page": 484,
+   "q": "Incidence of common peroneal nerve injury in SSV surgery:",
+   "opts": [
+    "4%",
+    "7%",
+    "20%",
+    "40%"
+   ],
+   "ans": 0,
+   "exp": "4% (Book p484)"
+  },
+  {
+   "id": "SURG-C62-162",
+   "sec": "Complications of Varicose Vein Surgery",
+   "page": 484,
+   "q": "Vascular complications of varicose vein surgery include:",
+   "opts": [
+    "Bleeding and injury to vessels",
+    "Pulmonary fibrosis",
+    "Renal failure",
+    "Liver injury"
+   ],
+   "ans": 0,
+   "exp": "Bleeding and injury to vessels (Book p484)"
+  },
+  {
+   "id": "SURG-C62-163",
+   "sec": "Complications of Varicose Veins",
+   "page": 484,
+   "q": "Bleeding from varicose veins is reduced by:",
+   "opts": [
+    "Limb elevation",
+    "Limb dependency",
+    "Hot fomentation",
+    "Massage"
+   ],
+   "ans": 0,
+   "exp": "Limb elevation (Book p484)"
+  },
+  {
+   "id": "SURG-C62-164",
+   "sec": "Complications of Varicose Veins",
+   "page": 484,
+   "q": "Calcification of veins presents as:",
+   "opts": [
+    "Hard nodule",
+    "Soft fluctuant swelling",
+    "Pulsatile mass",
+    "Depigmented patch"
+   ],
+   "ans": 0,
+   "exp": "Hard nodule (Book p484)"
+  },
+  {
+   "id": "SURG-C62-165",
+   "sec": "Complications of Varicose Veins",
+   "page": 484,
+   "q": "Complications of varicose veins include all EXCEPT:",
+   "opts": [
+    "Intermittent claudication",
+    "Superficial thrombophlebitis",
+    "Pigmentation",
+    "Ulceration"
+   ],
+   "ans": 0,
+   "exp": "Intermittent claudication (Book p484)"
+  },
+  {
+   "id": "SURG-C62-166",
+   "sec": "Complications of Varicose Veins",
+   "page": 484,
+   "q": "Malignant complication of long-standing varicose ulcer:",
+   "opts": [
+    "Marjolin's ulcer",
+    "Basal cell carcinoma",
+    "Melanoma",
+    "Kaposi sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Marjolin's ulcer (Book p484)"
+  },
+  {
+   "id": "SURG-C62-167",
+   "sec": "Complications of Varicose Veins",
+   "page": 484,
+   "q": "Skin sign of chronic venous disease listed among complications:",
+   "opts": [
+    "Lipodermatosclerosis",
+    "Hypertrichosis",
+    "Vitiligo",
+    "Acanthosis nigricans"
+   ],
+   "ans": 0,
+   "exp": "Lipodermatosclerosis (Book p484)"
+  },
+  {
+   "id": "SURG-C62-168",
+   "sec": "Varicose / Venous Ulcer",
+   "page": 484,
+   "q": "M/c site of a venous ulcer:",
+   "opts": [
+    "Gaiter area — above the medial malleolus",
+    "Above the lateral malleolus",
+    "Dorsum of foot",
+    "Sole of foot"
+   ],
+   "ans": 0,
+   "exp": "Gaiter area — above the medial malleolus (Book p484)"
+  },
+  {
+   "id": "SURG-C62-169",
+   "sec": "Varicose / Venous Ulcer",
+   "page": 484,
+   "q": "Venous ulcer above the LATERAL malleolus indicates:",
+   "opts": [
+    "SSV involvement",
+    "GSV involvement",
+    "Perforator involvement only",
+    "Deep vein involvement"
+   ],
+   "ans": 0,
+   "exp": "SSV involvement (Book p484)"
+  },
+  {
+   "id": "SURG-C62-170",
+   "sec": "Varicose / Venous Ulcer",
+   "page": 484,
+   "q": "Depth of a venous ulcer:",
+   "opts": [
+    "Shallow",
+    "Deep and punched out",
+    "Undermined",
+    "Penetrating to bone"
+   ],
+   "ans": 0,
+   "exp": "Shallow (Book p484)"
+  },
+  {
+   "id": "SURG-C62-171",
+   "sec": "Varicose / Venous Ulcer",
+   "page": 484,
+   "q": "Edges of a venous ulcer:",
+   "opts": [
+    "Sloping edges",
+    "Punched out edges",
+    "Everted edges",
+    "Undermined edges"
+   ],
+   "ans": 0,
+   "exp": "Sloping edges (Book p484)"
+  },
+  {
+   "id": "SURG-C62-172",
+   "sec": "Varicose / Venous Ulcer",
+   "page": 484,
+   "q": "Granulation tissue in a venous ulcer:",
+   "opts": [
+    "Pale granulation tissue",
+    "Healthy red granulation",
+    "Absent floor",
+    "Necrotic slough only"
+   ],
+   "ans": 0,
+   "exp": "Pale granulation tissue (Book p484)"
+  },
+  {
+   "id": "SURG-C62-173",
+   "sec": "Varicose / Venous Ulcer",
+   "page": 484,
+   "q": "Margins of a venous ulcer are:",
+   "opts": [
+    "Pigmented",
+    "Depigmented",
+    "Everted",
+    "Rolled out"
+   ],
+   "ans": 0,
+   "exp": "Pigmented (Book p484)"
+  },
+  {
+   "id": "SURG-C62-174",
+   "sec": "Varicose / Venous Ulcer",
+   "page": 484,
+   "q": "Natural history of a venous ulcer:",
+   "opts": [
+    "Non-healing",
+    "Heals within a week",
+    "Self-limiting",
+    "Heals with pigmentation only"
+   ],
+   "ans": 0,
+   "exp": "Non-healing (Book p484)"
+  },
+  {
+   "id": "SURG-C62-175",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Site of a venous ulcer:",
+   "opts": [
+    "Gaiter area",
+    "Dorsum/lateral side",
+    "Sole/base of great toe",
+    "Heel"
+   ],
+   "ans": 0,
+   "exp": "Gaiter area (Book p485)"
+  },
+  {
+   "id": "SURG-C62-176",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Site of an arterial ulcer:",
+   "opts": [
+    "Dorsum / lateral side",
+    "Gaiter area",
+    "Sole/base of great toe",
+    "Medial malleolus"
+   ],
+   "ans": 0,
+   "exp": "Dorsum / lateral side (Book p485)"
+  },
+  {
+   "id": "SURG-C62-177",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Site of a trophic ulcer:",
+   "opts": [
+    "Sole / base of great toe",
+    "Gaiter area",
+    "Dorsum of foot",
+    "Lateral malleolus"
+   ],
+   "ans": 0,
+   "exp": "Sole / base of great toe (Book p485)"
+  },
+  {
+   "id": "SURG-C62-178",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Site of a diabetic ulcer:",
+   "opts": [
+    "Sole / base of great toe",
+    "Gaiter area",
+    "Dorsum/lateral side",
+    "Popliteal fossa"
+   ],
+   "ans": 0,
+   "exp": "Sole / base of great toe (Book p485)"
+  },
+  {
+   "id": "SURG-C62-179",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Arterial pulsations in a venous ulcer:",
+   "opts": [
+    "Normal",
+    "Absent",
+    "Bounding",
+    "Collapsing"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p485)"
+  },
+  {
+   "id": "SURG-C62-180",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Arterial pulsations in an arterial ulcer:",
+   "opts": [
+    "Absent pulsations",
+    "Normal",
+    "Bounding",
+    "Exaggerated"
+   ],
+   "ans": 0,
+   "exp": "Absent pulsations (Book p485)"
+  },
+  {
+   "id": "SURG-C62-181",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Arterial pulsations in a trophic ulcer:",
+   "opts": [
+    "Normal pulsations",
+    "Absent",
+    "Bounding",
+    "Variable"
+   ],
+   "ans": 0,
+   "exp": "Normal pulsations (Book p485)"
+  },
+  {
+   "id": "SURG-C62-182",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Arterial pulsations in a diabetic ulcer:",
+   "opts": [
+    "May be absent",
+    "Always normal",
+    "Always bounding",
+    "Always present"
+   ],
+   "ans": 0,
+   "exp": "May be absent (Book p485)"
+  },
+  {
+   "id": "SURG-C62-183",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Dilated veins are present in which ulcer type:",
+   "opts": [
+    "Venous ulcer",
+    "Arterial ulcer",
+    "Trophic ulcer",
+    "Diabetic ulcer"
+   ],
+   "ans": 0,
+   "exp": "Venous ulcer (Book p485)"
+  },
+  {
+   "id": "SURG-C62-184",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Sensations in a venous ulcer:",
+   "opts": [
+    "Normal",
+    "Decreased",
+    "Absent",
+    "Hyperesthetic"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p485)"
+  },
+  {
+   "id": "SURG-C62-185",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Arterial ulcers are characteristically:",
+   "opts": [
+    "Painful",
+    "Painless",
+    "Itchy",
+    "Numb"
+   ],
+   "ans": 0,
+   "exp": "Painful (Book p485)"
+  },
+  {
+   "id": "SURG-C62-186",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Sensations in trophic and diabetic ulcers:",
+   "opts": [
+    "Decreased sensations",
+    "Normal sensations",
+    "Increased sensations",
+    "Normal but painful"
+   ],
+   "ans": 0,
+   "exp": "Decreased sensations (Book p485)"
+  },
+  {
+   "id": "SURG-C62-187",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Margins of a venous ulcer:",
+   "opts": [
+    "Sloping",
+    "Punched out",
+    "Everted",
+    "Undermined"
+   ],
+   "ans": 0,
+   "exp": "Sloping (Book p485)"
+  },
+  {
+   "id": "SURG-C62-188",
+   "sec": "Types of Lower Limb Ulcers",
+   "page": 485,
+   "q": "Margins of arterial, trophic and diabetic ulcers:",
+   "opts": [
+    "Punched out",
+    "Sloping",
+    "Everted",
+    "Rolled"
+   ],
+   "ans": 0,
+   "exp": "Punched out (Book p485)"
+  },
+  {
+   "id": "SURG-C62-189",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Regime used for management of venous ulcers:",
+   "opts": [
+    "Bisgaard regime",
+    "Bier's regime",
+    "Buerger's regime",
+    "Bassini regime"
+   ],
+   "ans": 0,
+   "exp": "Bisgaard regime (Book p485)"
+  },
+  {
+   "id": "SURG-C62-190",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "First component of the Bisgaard regime:",
+   "opts": [
+    "Education",
+    "Surgery",
+    "Pentoxyphylline",
+    "Amputation"
+   ],
+   "ans": 0,
+   "exp": "Education (Book p485)"
+  },
+  {
+   "id": "SURG-C62-191",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Elevation of the limb in the Bisgaard regime:",
+   "opts": [
+    "↓ symptoms",
+    "↑ symptoms",
+    "Has no effect",
+    "Causes ulcer enlargement"
+   ],
+   "ans": 0,
+   "exp": "↓ symptoms (Book p485)"
+  },
+  {
+   "id": "SURG-C62-192",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Grade of elastic compression stockings used in the Bisgaard regime:",
+   "opts": [
+    "Grade III",
+    "Grade I",
+    "Grade II",
+    "Grade IV"
+   ],
+   "ans": 0,
+   "exp": "Grade III (Book p485)"
+  },
+  {
+   "id": "SURG-C62-193",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Dressing used in the Bisgaard regime:",
+   "opts": [
+    "4 layer compression bandage",
+    "Single layer gauze",
+    "Wet to dry dressing",
+    "Alginate only"
+   ],
+   "ans": 0,
+   "exp": "4 layer compression bandage (Book p485)"
+  },
+  {
+   "id": "SURG-C62-194",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Mainstay of venous ulcer management:",
+   "opts": [
+    "Surgery",
+    "Antibiotics",
+    "Compression alone",
+    "Pentoxyphylline"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p485)"
+  },
+  {
+   "id": "SURG-C62-195",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Only drug approved for venous ulcers:",
+   "opts": [
+    "Pentoxyphylline",
+    "Aspirin",
+    "Warfarin",
+    "Heparin"
+   ],
+   "ans": 0,
+   "exp": "Pentoxyphylline (Book p485)"
+  },
+  {
+   "id": "SURG-C62-196",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Mechanism of pentoxyphylline:",
+   "opts": [
+    "↑ microvascular perfusion",
+    "Dissolves clot",
+    "Reduces INR",
+    "Antibiotic action"
+   ],
+   "ans": 0,
+   "exp": "↑ microvascular perfusion (Book p485)"
+  },
+  {
+   "id": "SURG-C62-197",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Marjolin's ulcer arises from:",
+   "opts": [
+    "Long-standing venous ulcers / burns undergoing malignant transformation",
+    "Acute wounds",
+    "Arterial ulcers only",
+    "Diabetic neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Long-standing venous ulcers / burns undergoing malignant transformation (Book p485)"
+  },
+  {
+   "id": "SURG-C62-198",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "M/c histology of Marjolin's ulcer:",
+   "opts": [
+    "Squamous cell carcinoma (SCC)",
+    "Basal cell carcinoma",
+    "Melanoma",
+    "Adenocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (SCC) (Book p485)"
+  },
+  {
+   "id": "SURG-C62-199",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Edges of Marjolin's ulcer:",
+   "opts": [
+    "Raised and everted (cauliflower-like)",
+    "Sloping",
+    "Punched out",
+    "Undermined"
+   ],
+   "ans": 0,
+   "exp": "Raised and everted (cauliflower-like) (Book p485)"
+  },
+  {
+   "id": "SURG-C62-200",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Management of Marjolin's ulcer:",
+   "opts": [
+    "Wide local excision, no radiotherapy",
+    "Radiotherapy alone",
+    "Chemotherapy alone",
+    "Compression bandaging"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision, no radiotherapy (Book p485)"
+  },
+  {
+   "id": "SURG-C62-201",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "page": 485,
+   "q": "Radiotherapy is avoided in Marjolin's ulcer because of:",
+   "opts": [
+    "Increased recurrence noted",
+    "Skin toxicity only",
+    "Cost",
+    "Lack of equipment"
+   ],
+   "ans": 0,
+   "exp": "Increased recurrence noted (Book p485)"
+  },
+  {
+   "id": "SURG-C62-202",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Klippel-Trenaunay syndrome is a:",
+   "opts": [
+    "Mesodermal abnormality, non-familial syndrome",
+    "Ectodermal familial syndrome",
+    "Endodermal syndrome",
+    "Autosomal dominant disorder"
+   ],
+   "ans": 0,
+   "exp": "Mesodermal abnormality, non-familial syndrome (Book p485)"
+  },
+  {
+   "id": "SURG-C62-203",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Pathophysiology of Klippel-Trenaunay syndrome:",
+   "opts": [
+    "Vestigeal deep veins → blood shunted to superficial system → varicose veins",
+    "Arterial fistulae → high output failure",
+    "Lymphatic aplasia → lymphedema",
+    "Valve destruction by thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Vestigeal deep veins → blood shunted to superficial system → varicose veins (Book p485)"
+  },
+  {
+   "id": "SURG-C62-204",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Clinical features of Klippel-Trenaunay syndrome:",
+   "opts": [
+    "Absent deep veins, cutaneous naevus, soft tissue and bone hypertrophy",
+    "Multiple A-V fistulae with cardiac failure",
+    "Absent superficial veins",
+    "Skin depigmentation"
+   ],
+   "ans": 0,
+   "exp": "Absent deep veins, cutaneous naevus, soft tissue and bone hypertrophy (Book p485)"
+  },
+  {
+   "id": "SURG-C62-205",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Management of Klippel-Trenaunay syndrome:",
+   "opts": [
+    "No surgery",
+    "Trendelenburg procedure",
+    "EVLT",
+    "Stripping of GSV"
+   ],
+   "ans": 0,
+   "exp": "No surgery (Book p485)"
+  },
+  {
+   "id": "SURG-C62-206",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Reason surgery is avoided in Klippel-Trenaunay syndrome:",
+   "opts": [
+    "Deep veins are absent — superficial veins are the only drainage",
+    "Bleeding risk is too high",
+    "Patients are too young",
+    "Recurrence is certain"
+   ],
+   "ans": 0,
+   "exp": "Deep veins are absent — superficial veins are the only drainage (Book p485)"
+  },
+  {
+   "id": "SURG-C62-207",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Feature of Parkes-Weber syndrome:",
+   "opts": [
+    "Multiple A-V fistulae → high output cardiac failure",
+    "Absent deep veins",
+    "Vestigeal superficial veins",
+    "Lymphatic hypoplasia"
+   ],
+   "ans": 0,
+   "exp": "Multiple A-V fistulae → high output cardiac failure (Book p485)"
+  },
+  {
+   "id": "SURG-C62-208",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Parkes-Weber syndrome is a differential for:",
+   "opts": [
+    "Klippel-Trenaunay syndrome",
+    "Marjolin's ulcer",
+    "Paget-Schroetter disease",
+    "May-Thurner syndrome"
+   ],
+   "ans": 0,
+   "exp": "Klippel-Trenaunay syndrome (Book p485)"
+  },
+  {
+   "id": "SURG-C62-209",
+   "sec": "Associated Syndromes",
+   "page": 485,
+   "q": "Shared feature of Klippel-Trenaunay and Parkes-Weber syndromes:",
+   "opts": [
+    "Limb hypertrophy",
+    "A-V fistulae",
+    "Absent deep veins",
+    "Cardiac failure"
+   ],
+   "ans": 0,
+   "exp": "Limb hypertrophy (Book p485)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U62-1",
+   "ch": 62,
+   "n": 1,
+   "title": "Surgical Anatomy: Venous System and Deep Veins",
+   "sec": "Surgical Anatomy: Venous System and Deep Veins · p476",
+   "qs": [
+    "SURG-C62-001",
+    "SURG-C62-002",
+    "SURG-C62-003",
+    "SURG-C62-004",
+    "SURG-C62-005",
+    "SURG-C62-006",
+    "SURG-C62-007"
+   ],
+   "guide": "The limb drains through two systems joined by perforators: superficial (20%) and deep (80%), with valves enforcing one-way flow. The deep column runs common femoral → superficial femoral → popliteal → paired anterior tibial, posterior tibial and peroneal veins."
+  },
+  {
+   "id": "SURG-U62-2",
+   "ch": 62,
+   "n": 2,
+   "title": "Great Saphenous Vein (GSV)",
+   "sec": "Great Saphenous Vein (GSV) · p476",
+   "qs": [
+    "SURG-C62-008",
+    "SURG-C62-009",
+    "SURG-C62-010",
+    "SURG-C62-011",
+    "SURG-C62-012",
+    "SURG-C62-013",
+    "SURG-C62-014",
+    "SURG-C62-015",
+    "SURG-C62-016"
+   ],
+   "guide": "The great saphenous vein starts at the MEDIAL end of the dorsal venous arch, runs just anterior to the medial malleolus (classic venous cut-down site), passes the medial knee and ends at the sapheno-femoral junction 4 cm below and lateral to the pubic tubercle. Below the knee it hugs the saphenous nerve — injured when the vein is harvested for CABG."
+  },
+  {
+   "id": "SURG-U62-3",
+   "ch": 62,
+   "n": 3,
+   "title": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein",
+   "sec": "GSV Tributaries, Short Saphenous Vein and Giacomini Vein · p477",
+   "qs": [
+    "SURG-C62-017",
+    "SURG-C62-018",
+    "SURG-C62-019",
+    "SURG-C62-020",
+    "SURG-C62-021",
+    "SURG-C62-022",
+    "SURG-C62-023",
+    "SURG-C62-024",
+    "SURG-C62-025",
+    "SURG-C62-026"
+   ],
+   "guide": "GSV tributaries include the posteromedial thigh tributary, the anterior (accessory) saphenous vein and the anterior tributary of the leg. The short saphenous vein rises from the LATERAL dorsal arch, runs posteriorly and ends at the variable sapheno-popliteal junction — radiologically marked before surgery, never stripped because the sural nerve travels with it. The Giacomini vein, the cranial extension of the SSV connecting to the GSV, is a classic cause of post-operative recurrence."
+  },
+  {
+   "id": "SURG-U62-4",
+   "ch": 62,
+   "n": 4,
+   "title": "Perforators",
+   "sec": "Perforators · p477",
+   "qs": [
+    "SURG-C62-027",
+    "SURG-C62-028",
+    "SURG-C62-029",
+    "SURG-C62-030",
+    "SURG-C62-031",
+    "SURG-C62-032",
+    "SURG-C62-033",
+    "SURG-C62-034"
+   ],
+   "guide": "100-150 perforators link superficial to deep. Learn them head to toe: Hunterian in the thigh, Dodd's above the knee, Boyd's below the knee, three Cockett's perforators 5, 10 and 15 cm above the medial malleolus, and May/Kuster's at the heel."
+  },
+  {
+   "id": "SURG-U62-5",
+   "ch": 62,
+   "n": 5,
+   "title": "Varicose Veins: Definition, Types and Risk Factors",
+   "sec": "Varicose Veins: Definition, Types and Risk Factors · p478",
+   "qs": [
+    "SURG-C62-035",
+    "SURG-C62-036",
+    "SURG-C62-037",
+    "SURG-C62-038",
+    "SURG-C62-039",
+    "SURG-C62-040",
+    "SURG-C62-041",
+    "SURG-C62-042"
+   ],
+   "guide": "Varicose veins are dilated tortuous veins with defective valves — primary from valve failure, secondary (m/c) from DVT or tumours. Prolonged standing, female sex, family history and pregnancy stack the odds."
+  },
+  {
+   "id": "SURG-U62-6",
+   "ch": 62,
+   "n": 6,
+   "title": "Pathophysiology of Varicose Veins",
+   "sec": "Pathophysiology of Varicose Veins · p478",
+   "qs": [
+    "SURG-C62-043",
+    "SURG-C62-044",
+    "SURG-C62-045",
+    "SURG-C62-046",
+    "SURG-C62-047"
+   ],
+   "guide": "Normally blood climbs against gravity helped by falling intra-thoracic pressure on inspiration, muscle compression and a FALL in superficial vein pressure with exercise. When exercise instead RAISES superficial pressure, ambulatory venous hypertension — the most acceptable theory — produces varicosities."
+  },
+  {
+   "id": "SURG-U62-7",
+   "ch": 62,
+   "n": 7,
+   "title": "Clinical Features and Vein Calibre",
+   "sec": "Clinical Features and Vein Calibre · p478",
+   "qs": [
+    "SURG-C62-048",
+    "SURG-C62-049",
+    "SURG-C62-050",
+    "SURG-C62-051",
+    "SURG-C62-052",
+    "SURG-C62-053"
+   ],
+   "guide": "Patients present with dilated veins, dull aching pain and hemosiderin pigmentation. Calibre defines the label: varicose vein >3 mm, reticular vein 1-3 mm, dermal flares/thread veins ≤1 mm."
+  },
+  {
+   "id": "SURG-U62-8",
+   "ch": 62,
+   "n": 8,
+   "title": "Other Clinical Findings of Chronic Venous Disease",
+   "sec": "Other Clinical Findings of Chronic Venous Disease · p479",
+   "qs": [
+    "SURG-C62-054",
+    "SURG-C62-055",
+    "SURG-C62-056",
+    "SURG-C62-057",
+    "SURG-C62-058",
+    "SURG-C62-059",
+    "SURG-C62-060",
+    "SURG-C62-061",
+    "SURG-C62-062",
+    "SURG-C62-063"
+   ],
+   "guide": "Advanced venous disease announces itself in the skin: corona phlebectasia (malleolar flare — fan of <1 mm telangiectasia, an early sign), atrophic blanche (depigmented area ringed by dilated veins), lipodermatosclerosis (tendo achilles contracture + fat obliteration + fibrosis giving an inverted champagne bottle leg with a woody feel), and ulceration over the medial malleolus in Gaiter's area."
+  },
+  {
+   "id": "SURG-U62-9",
+   "ch": 62,
+   "n": 9,
+   "title": "CEAP Classification",
+   "sec": "CEAP Classification · p480",
+   "qs": [
+    "SURG-C62-064",
+    "SURG-C62-065",
+    "SURG-C62-066",
+    "SURG-C62-067",
+    "SURG-C62-068",
+    "SURG-C62-069",
+    "SURG-C62-070",
+    "SURG-C62-071",
+    "SURG-C62-072",
+    "SURG-C62-073",
+    "SURG-C62-074",
+    "SURG-C62-075",
+    "SURG-C62-076",
+    "SURG-C62-077",
+    "SURG-C62-078",
+    "SURG-C62-079",
+    "SURG-C62-080",
+    "SURG-C62-081",
+    "SURG-C62-082",
+    "SURG-C62-083",
+    "SURG-C62-084",
+    "SURG-C62-085",
+    "SURG-C62-086",
+    "SURG-C62-087",
+    "SURG-C62-088",
+    "SURG-C62-089"
+   ],
+   "guide": "CEAP: C0 no veins, C1 telangiectasia/reticular, C2 varicose (C2r recurrent), C3 edema, C4 skin changes (a pigmentation/eczema, b lipodermatosclerosis/atrophic blanche, c corona phlebectasia), C5 healed ulcer, C6 active ulcer (C6r recurrent) — always record the highest grade. E = congenital/primary/secondary(post-thrombotic)/none; A = superficial/perforator/deep/none; P = reflux/obstruction/both/none."
+  },
+  {
+   "id": "SURG-U62-10",
+   "ch": 62,
+   "n": 10,
+   "title": "Clinical Tests: Overview",
+   "sec": "Clinical Tests: Overview · p480",
+   "qs": [
+    "SURG-C62-090",
+    "SURG-C62-091",
+    "SURG-C62-092",
+    "SURG-C62-093"
+   ],
+   "guide": "Sort the bedside tests by what they hunt: SFJ incompetence (Trendelenburg, Morrisey's cough impulse, Schwartz), perforator incompetence (Trendelenburg, multiple tourniquet, Fegan's) and DVT (modified Perthes). Trendelenburg straddles the first two lists."
+  },
+  {
+   "id": "SURG-U62-11",
+   "ch": 62,
+   "n": 11,
+   "title": "Individual Clinical Tests",
+   "sec": "Individual Clinical Tests · p481",
+   "qs": [
+    "SURG-C62-094",
+    "SURG-C62-095",
+    "SURG-C62-096",
+    "SURG-C62-097",
+    "SURG-C62-098",
+    "SURG-C62-099",
+    "SURG-C62-100",
+    "SURG-C62-101",
+    "SURG-C62-102",
+    "SURG-C62-103",
+    "SURG-C62-104"
+   ],
+   "guide": "Trendelenburg: gradual filling from below = incompetent perforators; rapid filling from above = incompetent SFJ. Fegan's marks blowouts, Morrisey's cough impulse at the SFJ confirms SFJ incompetence, and multiple tourniquets (above ankle, below knee, above knee, below SFJ) localise perforators. Modified Perthes rules out DVT — walk with a tourniquet below the SFJ and see whether pain and swelling rise (DVT +) or fall (DVT −)."
+  },
+  {
+   "id": "SURG-U62-12",
+   "ch": 62,
+   "n": 12,
+   "title": "Investigation: Doppler / Duplex Scan",
+   "sec": "Investigation: Doppler / Duplex Scan · p481",
+   "qs": [
+    "SURG-C62-105",
+    "SURG-C62-106",
+    "SURG-C62-107",
+    "SURG-C62-108",
+    "SURG-C62-109",
+    "SURG-C62-110"
+   ],
+   "guide": "Doppler/duplex is the IOC: it shows flow, direction (red away from heart, blue towards) and reflux, defined as retrograde superficial flow lasting ≥0.5 sec. The CFA, GSV and femoral vein together make the Mickey mouse sign."
+  },
+  {
+   "id": "SURG-U62-13",
+   "ch": 62,
+   "n": 13,
+   "title": "Adjunctive Management",
+   "sec": "Adjunctive Management · p481",
+   "qs": [
+    "SURG-C62-111",
+    "SURG-C62-112",
+    "SURG-C62-113",
+    "SURG-C62-114",
+    "SURG-C62-115",
+    "SURG-C62-116"
+   ],
+   "guide": "Adjunctive care means class III compression garments (25-35 mmHg) — limited by poor compliance, and pressure must be reduced if ABPI is low from arterial disease. Horse chestnut seed extract is safe and efficacious in chronic venous hypertension, improving symptoms and reducing leg volume."
+  },
+  {
+   "id": "SURG-U62-14",
+   "ch": 62,
+   "n": 14,
+   "title": "Surgical Management: Traditional Procedures",
+   "sec": "Surgical Management: Traditional Procedures · p482",
+   "qs": [
+    "SURG-C62-117",
+    "SURG-C62-118",
+    "SURG-C62-119",
+    "SURG-C62-120",
+    "SURG-C62-121",
+    "SURG-C62-122",
+    "SURG-C62-123",
+    "SURG-C62-124",
+    "SURG-C62-125",
+    "SURG-C62-126",
+    "SURG-C62-127",
+    "SURG-C62-128",
+    "SURG-C62-129",
+    "SURG-C62-130",
+    "SURG-C62-131",
+    "SURG-C62-132"
+   ],
+   "guide": "Traditional surgery is tailored: Trendelenburg flush ligation for GSV+SFJ, flush ligation of the pre-marked SPJ without stripping for SSV, and Dodd & Cockett or SEPS for perforators — while EVLT and RFA are now the treatment of choice. Flush ligation as close to the SFJ as possible prevents a stump saphena varix, and six tributaries are ligated to cut recurrence: superficial and deep external pudendal (medial), accessory anterior saphenous and posterior medial thigh (distal), superficial epigastric and superficial circumflex iliac (lateral). Stripping is additional and stops at the knee to spare the saphenous nerve."
+  },
+  {
+   "id": "SURG-U62-15",
+   "ch": 62,
+   "n": 15,
+   "title": "EVLT, RFA and Perforator Surgery",
+   "sec": "EVLT, RFA and Perforator Surgery · p483",
+   "qs": [
+    "SURG-C62-133",
+    "SURG-C62-134",
+    "SURG-C62-135",
+    "SURG-C62-136",
+    "SURG-C62-137",
+    "SURG-C62-138",
+    "SURG-C62-139",
+    "SURG-C62-140",
+    "SURG-C62-141",
+    "SURG-C62-142",
+    "SURG-C62-143"
+   ],
+   "guide": "EVLT uses a 1470 nm laser generating 60 J/cm through forward or lateral firing fibres — the catheter heats and collapses the vein, but continuous pull-back is needed. RFA delivers 120°C in 20 second cycles with a shorter learning curve and no continuous pullback. For perforators, Dodd & Cockett does open sub-fascial ligation while SEPS ligates multiple perforators through a single incision."
+  },
+  {
+   "id": "SURG-U62-16",
+   "ch": 62,
+   "n": 16,
+   "title": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy",
+   "sec": "Newer Modalities: Glue, Trivex and Foam Sclerotherapy · p483",
+   "qs": [
+    "SURG-C62-144",
+    "SURG-C62-145",
+    "SURG-C62-146",
+    "SURG-C62-147",
+    "SURG-C62-148",
+    "SURG-C62-149",
+    "SURG-C62-150",
+    "SURG-C62-151",
+    "SURG-C62-152",
+    "SURG-C62-153",
+    "SURG-C62-154",
+    "SURG-C62-155"
+   ],
+   "guide": "Newer options: endovenous cyanoacrylate glue collapses the vein; Trivex (transilluminated powered phlebectomy) is no longer done; and foam sclerotherapy — the Tessari technique, sclerosant-to-air 1:3 or 1:4 — injects reticular and thread veins <3 mm. Sodium tetradecyl sulphate is the m/c sclerosant, with polidocanol, ethanolamine oleate and sodium morrhuate as alternatives, all working by inflammatory collapse of the vein."
+  },
+  {
+   "id": "SURG-U62-17",
+   "ch": 62,
+   "n": 17,
+   "title": "Complications of Varicose Vein Surgery",
+   "sec": "Complications of Varicose Vein Surgery · p484",
+   "qs": [
+    "SURG-C62-156",
+    "SURG-C62-157",
+    "SURG-C62-158",
+    "SURG-C62-159",
+    "SURG-C62-160",
+    "SURG-C62-161",
+    "SURG-C62-162"
+   ],
+   "guide": "Nerve injury is now the m/c complication of varicose vein surgery — saphenous nerve in 7% of GSV cases, sural nerve in 20% and common peroneal in 4% of SSV cases. Wound infection has fallen with antibiotics; bruising, bleeding, vessel injury and recurrence (SSV > GSV, because the SPJ wanders) complete the list."
+  },
+  {
+   "id": "SURG-U62-18",
+   "ch": 62,
+   "n": 18,
+   "title": "Complications of Varicose Veins",
+   "sec": "Complications of Varicose Veins · p484",
+   "qs": [
+    "SURG-C62-163",
+    "SURG-C62-164",
+    "SURG-C62-165",
+    "SURG-C62-166",
+    "SURG-C62-167"
+   ],
+   "guide": "Varicose veins complicate into bleeding (controlled by limb elevation), calcification with a hard nodule, superficial thrombophlebitis, pigmentation, lipodermatosclerosis, ulceration and, eventually, Marjolin's ulcer."
+  },
+  {
+   "id": "SURG-U62-19",
+   "ch": 62,
+   "n": 19,
+   "title": "Varicose / Venous Ulcer",
+   "sec": "Varicose / Venous Ulcer · p484",
+   "qs": [
+    "SURG-C62-168",
+    "SURG-C62-169",
+    "SURG-C62-170",
+    "SURG-C62-171",
+    "SURG-C62-172",
+    "SURG-C62-173",
+    "SURG-C62-174"
+   ],
+   "guide": "The venous ulcer sits in the gaiter area above the medial malleolus — or above the lateral malleolus when the SSV is involved. It is shallow with sloping edges, pale granulation tissue, pigmented margins, and it does not heal."
+  },
+  {
+   "id": "SURG-U62-20",
+   "ch": 62,
+   "n": 20,
+   "title": "Types of Lower Limb Ulcers",
+   "sec": "Types of Lower Limb Ulcers · p485",
+   "qs": [
+    "SURG-C62-175",
+    "SURG-C62-176",
+    "SURG-C62-177",
+    "SURG-C62-178",
+    "SURG-C62-179",
+    "SURG-C62-180",
+    "SURG-C62-181",
+    "SURG-C62-182",
+    "SURG-C62-183",
+    "SURG-C62-184",
+    "SURG-C62-185",
+    "SURG-C62-186",
+    "SURG-C62-187",
+    "SURG-C62-188"
+   ],
+   "guide": "Learn the four-column ulcer table: venous (gaiter area, normal pulsations, dilated veins, normal sensation, sloping margin); arterial (dorsum/lateral side, absent pulsations, painful, punched out); trophic (sole/base of great toe, normal pulsations, ↓sensation, punched out); diabetic (sole/base of great toe, pulsations may be absent, ↓sensation, punched out)."
+  },
+  {
+   "id": "SURG-U62-21",
+   "ch": 62,
+   "n": 21,
+   "title": "Management of Venous Ulcers and Marjolin's Ulcer",
+   "sec": "Management of Venous Ulcers and Marjolin's Ulcer · p485",
+   "qs": [
+    "SURG-C62-189",
+    "SURG-C62-190",
+    "SURG-C62-191",
+    "SURG-C62-192",
+    "SURG-C62-193",
+    "SURG-C62-194",
+    "SURG-C62-195",
+    "SURG-C62-196",
+    "SURG-C62-197",
+    "SURG-C62-198",
+    "SURG-C62-199",
+    "SURG-C62-200",
+    "SURG-C62-201"
+   ],
+   "guide": "The Bisgaard regime: education, elevation, grade III elastic compression stockings, a 4-layer compression bandage, with surgery as the mainstay and pentoxyphylline the only approved drug (it raises microvascular perfusion). A long-standing ulcer or burn scar that turns cauliflower-like with raised everted edges is Marjolin's ulcer — usually SCC, treated by wide local excision, no radiotherapy because recurrence rises."
+  },
+  {
+   "id": "SURG-U62-22",
+   "ch": 62,
+   "n": 22,
+   "title": "Associated Syndromes",
+   "sec": "Associated Syndromes · p485",
+   "qs": [
+    "SURG-C62-202",
+    "SURG-C62-203",
+    "SURG-C62-204",
+    "SURG-C62-205",
+    "SURG-C62-206",
+    "SURG-C62-207",
+    "SURG-C62-208",
+    "SURG-C62-209"
+   ],
+   "guide": "Klippel-Trenaunay: a non-familial mesodermal abnormality with vestigeal deep veins shunting blood into the superficial system — absent deep veins, cutaneous naevus, soft tissue and bone hypertrophy, and absolutely no surgery. Parkes-Weber is its differential, driven by multiple A-V fistulae causing high output cardiac failure, also with limb hypertrophy."
+  }
+ ]
+}
