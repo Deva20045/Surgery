@@ -1,0 +1,2021 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C34-001",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "The functional anatomy of the liver was described by:",
+   "opts": [
+    "Couinaud",
+    "Brisbane",
+    "Calot",
+    "Ganz"
+   ],
+   "ans": 0,
+   "exp": "Functional anatomy of the liver is described by Couinaud. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-002",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "The liver is divided into how many functional segments?",
+   "opts": [
+    "8",
+    "4",
+    "5",
+    "6"
+   ],
+   "ans": 0,
+   "exp": "The liver is divided into 8 functional segments. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-003",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "The bare area of the liver is most commonly involved in:",
+   "opts": [
+    "Amoebic liver abscess",
+    "Pyogenic liver abscess",
+    "Hydatid cyst",
+    "Hepatocellular carcinoma"
+   ],
+   "ans": 0,
+   "exp": "The bare area of the liver is the m/c site involved in amoebic liver abscess. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-004",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "The gallbladder fossa is formed by segments:",
+   "opts": [
+    "4B and 5",
+    "2 and 3",
+    "6 and 7",
+    "1 and 8"
+   ],
+   "ans": 0,
+   "exp": "GB fossa: segments 4B and 5. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-005",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "Because the gallbladder fossa is formed by segments 4B and 5, gallbladder cancer is resected by:",
+   "opts": [
+    "Radical cholecystectomy including those segments",
+    "Simple cholecystectomy alone",
+    "Left hepatectomy",
+    "Right trisectorectomy"
+   ],
+   "ans": 0,
+   "exp": "The page notes the GB fossa segments can be involved in GB cancer and are therefore resected in a radical cholecystectomy. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-006",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "Functional classification of the liver is based on:",
+   "opts": [
+    "The portal vein more than the hepatic vein",
+    "The hepatic vein more than the portal vein",
+    "The bile ducts alone",
+    "The hepatic artery alone"
+   ],
+   "ans": 0,
+   "exp": "Functional classification is based on the portal vein rather than the hepatic vein. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-007",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "How many sectors does the liver have?",
+   "opts": [
+    "4",
+    "2",
+    "3",
+    "8"
+   ],
+   "ans": 0,
+   "exp": "There are 4 sectors: right posterior, right anterior, left medial and left lateral. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-008",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "Which of the following is NOT one of the four sectors of the liver?",
+   "opts": [
+    "Right medial",
+    "Right posterior",
+    "Right anterior",
+    "Left lateral"
+   ],
+   "ans": 0,
+   "exp": "The four sectors are right posterior, right anterior, left medial and left lateral. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-009",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "The three major fissures of the liver are related to the:",
+   "opts": [
+    "Hepatic veins — right, left and middle",
+    "Portal veins — right, left and main",
+    "Bile ducts",
+    "Sectoral branches of the hepatic artery"
+   ],
+   "ans": 0,
+   "exp": "Major fissures: 3 fissures related to the right hepatic vein, left hepatic vein and middle hepatic vein. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-010",
+   "sec": "Functional Anatomy of the Liver",
+   "page": 245,
+   "q": "The three minor fissures of the liver are related to all of the following EXCEPT the:",
+   "opts": [
+    "Middle hepatic vein",
+    "Right portal vein",
+    "Left portal vein",
+    "Fissure of Ganz"
+   ],
+   "ans": 0,
+   "exp": "Minor fissures: 3 fissures — right portal vein, left portal vein and the fissure of Ganz. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-011",
+   "sec": "Segment I: The Caudate Lobe",
+   "page": 245,
+   "q": "Segment I of the liver is the:",
+   "opts": [
+    "Caudate lobe",
+    "Quadrate lobe",
+    "Left lateral section",
+    "Right posterior section"
+   ],
+   "ans": 0,
+   "exp": "Segment I is the caudate lobe. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-012",
+   "sec": "Segment I: The Caudate Lobe",
+   "page": 245,
+   "q": "The caudate lobe lies:",
+   "opts": [
+    "Posteriorly, to the left of the IVC",
+    "Anteriorly, to the right of the IVC",
+    "Inferior to the gallbladder fossa",
+    "Within the left lobe above the falciform ligament"
+   ],
+   "ans": 0,
+   "exp": "The caudate lobe lies posteriorly, to the left of the IVC. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-013",
+   "sec": "Segment I: The Caudate Lobe",
+   "page": 245,
+   "q": "The caudate lobe is called an independent segment because it drains bile into:",
+   "opts": [
+    "Both the left and the right lobes",
+    "Only the left duct system",
+    "Only the right duct system",
+    "The cystic duct"
+   ],
+   "ans": 0,
+   "exp": "Segment I drains bile into both left and right lobe ducts — one reason it is called an independent segment. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-014",
+   "sec": "Segment I: The Caudate Lobe",
+   "page": 245,
+   "q": "The blood supply of the caudate lobe comes from:",
+   "opts": [
+    "Both the left and the right lobes",
+    "Only the right portal vein",
+    "Only the left portal vein",
+    "The hepatic artery alone"
+   ],
+   "ans": 0,
+   "exp": "Segment I receives blood from both the left and the right lobes. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-015",
+   "sec": "Segment I: The Caudate Lobe",
+   "page": 245,
+   "q": "The caudate lobe drains directly into the:",
+   "opts": [
+    "IVC",
+    "Portal vein",
+    "Hepatic vein confluence via the middle hepatic vein",
+    "Azygos vein"
+   ],
+   "ans": 0,
+   "exp": "It has direct venous drainage into the IVC. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-016",
+   "sec": "Segment I: The Caudate Lobe",
+   "page": 245,
+   "q": "Segment I undergoes compensatory hypertrophy in:",
+   "opts": [
+    "Budd-Chiari syndrome",
+    "Portal vein thrombosis",
+    "Cirrhosis",
+    "Cardiac failure"
+   ],
+   "ans": 0,
+   "exp": "Because it drains directly into the IVC, segment I hypertrophies in Budd-Chiari syndrome. (Book p245)"
+  },
+  {
+   "id": "SURG-C34-017",
+   "sec": "Brisbane Classification of Liver Resection",
+   "page": 246,
+   "q": "According to the Brisbane classification, a left hepatectomy removes segments:",
+   "opts": [
+    "4A, 4B, 2 and 3",
+    "5, 6, 7 and 8",
+    "2 and 3 only",
+    "4A and 4B only"
+   ],
+   "ans": 0,
+   "exp": "Left hepatectomy: segments 4A, 4B, 2 and 3. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-018",
+   "sec": "Brisbane Classification of Liver Resection",
+   "page": 246,
+   "q": "A right hepatectomy removes segments:",
+   "opts": [
+    "5, 6, 7 and 8",
+    "4A, 4B, 2 and 3",
+    "1 and 4A",
+    "2, 3 and 4B"
+   ],
+   "ans": 0,
+   "exp": "Right hepatectomy: segments 5, 6, 7 and 8. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-019",
+   "sec": "Brisbane Classification of Liver Resection",
+   "page": 246,
+   "q": "A left trisectorectomy removes:",
+   "opts": [
+    "Segments 4A, 4B, 2 and 3 plus 5 and 8",
+    "Segments 5, 6, 7 and 8 plus 4A and 4B",
+    "Segments 2 and 3 only",
+    "Segments 6 and 7 only"
+   ],
+   "ans": 0,
+   "exp": "Left trisectorectomy: 4A, 4B, 2, 3 + 5, 8. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-020",
+   "sec": "Brisbane Classification of Liver Resection",
+   "page": 246,
+   "q": "A right trisectorectomy removes:",
+   "opts": [
+    "Segments 5, 6, 7 and 8 plus 4A and 4B",
+    "Segments 4A, 4B, 2 and 3 plus 5 and 8",
+    "Segments 5 and 8 only",
+    "Segments 1, 6 and 7"
+   ],
+   "ans": 0,
+   "exp": "Right trisectorectomy: 5, 6, 7, 8 + 4A, 4B. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-021",
+   "sec": "Brisbane Classification of Liver Resection",
+   "page": 246,
+   "q": "The old name for a left trisectorectomy is:",
+   "opts": [
+    "Extended left hepatectomy",
+    "Extended right hepatectomy",
+    "Left lateral sectionectomy",
+    "Central hepatectomy"
+   ],
+   "ans": 0,
+   "exp": "Left trisectorectomy was formerly called an extended left hepatectomy. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-022",
+   "sec": "Brisbane Classification of Liver Resection",
+   "page": 246,
+   "q": "The old name for a right trisectorectomy is:",
+   "opts": [
+    "Extended right hepatectomy",
+    "Extended left hepatectomy",
+    "Right posterior sectionectomy",
+    "Hemihepatectomy"
+   ],
+   "ans": 0,
+   "exp": "Right trisectorectomy was formerly called an extended right hepatectomy. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-023",
+   "sec": "Blood Supply and the Liver Pedicle",
+   "page": 246,
+   "q": "The liver has a dual blood supply: portal vein contributes about:",
+   "opts": [
+    "80%",
+    "20%",
+    "50%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "Dual blood supply: portal vein 80% and hepatic artery 20%. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-024",
+   "sec": "Blood Supply and the Liver Pedicle",
+   "page": 246,
+   "q": "The hepatic artery contributes approximately what fraction of hepatic blood flow?",
+   "opts": [
+    "20%",
+    "80%",
+    "50%",
+    "35%"
+   ],
+   "ans": 0,
+   "exp": "Portal vein 80% + hepatic artery 20%. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-025",
+   "sec": "Blood Supply and the Liver Pedicle",
+   "page": 246,
+   "q": "Which hepatic artery is described as larger and supplying the majority of the liver?",
+   "opts": [
+    "Right hepatic artery",
+    "Left hepatic artery",
+    "Middle hepatic artery",
+    "Common hepatic artery"
+   ],
+   "ans": 0,
+   "exp": "Right hepatic artery: larger, supplies the majority of the liver. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-026",
+   "sec": "Blood Supply and the Liver Pedicle",
+   "page": 246,
+   "q": "In the 'Mickey mouse sign' of the liver pedicle, the portal vein lies:",
+   "opts": [
+    "Posteriorly",
+    "Anteriorly",
+    "To the left",
+    "To the right"
+   ],
+   "ans": 0,
+   "exp": "Mickey mouse sign: portal vein posteriorly, CBD to the right (dextra) and hepatic artery to the left. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-027",
+   "sec": "Blood Supply and the Liver Pedicle",
+   "page": 246,
+   "q": "In the Mickey mouse sign, the CBD lies to the __________ and the hepatic artery to the __________.",
+   "opts": [
+    "Right; left",
+    "Left; right",
+    "Right; middle",
+    "Left; middle"
+   ],
+   "ans": 0,
+   "exp": "CBD (dextra = right), hepatic artery (left), portal vein (posteriorly). (Book p246)"
+  },
+  {
+   "id": "SURG-C34-028",
+   "sec": "Functions of the Liver and Their Assessment",
+   "page": 246,
+   "q": "All of the following are listed as normal liver functions EXCEPT:",
+   "opts": [
+    "Production of erythropoietin",
+    "Maintaining core body temperature",
+    "pH balance and correction of acidosis",
+    "Synthesis of clotting factors"
+   ],
+   "ans": 0,
+   "exp": "The listed functions are: maintaining core body temperature, pH balance and correction of acidosis, synthesis of clotting factors, glucose metabolism, bilirubin formation from Hb degradation, drug and hormone metabolism/excretion and removal of endotoxins and foreign antigens. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-029",
+   "sec": "Functions of the Liver and Their Assessment",
+   "page": 246,
+   "q": "Which liver function is listed as number 3 and, when it fails, produces a bleeding tendency?",
+   "opts": [
+    "Synthesis of clotting factors",
+    "Glucose metabolism",
+    "Bilirubin formation from Hb degradation",
+    "Removal of endotoxins"
+   ],
+   "ans": 0,
+   "exp": "Function 3 is synthesis of clotting factors — its failure in liver dysfunction causes bleeding. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-030",
+   "sec": "Functions of the Liver and Their Assessment",
+   "page": 246,
+   "q": "Bilirubin is formed from:",
+   "opts": [
+    "Haemoglobin degradation",
+    "Bile acid breakdown",
+    "Cholesterol metabolism",
+    "Amino acid catabolism"
+   ],
+   "ans": 0,
+   "exp": "Bilirubin formation from Hb degradation is listed as a normal liver function. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-031",
+   "sec": "Functions of the Liver and Their Assessment",
+   "page": 246,
+   "q": "Failure of the liver to remove endotoxins and foreign antigens is one of the mechanisms behind:",
+   "opts": [
+    "Encephalopathy in liver dysfunction",
+    "Jaundice",
+    "Ascites",
+    "Portal hypertension"
+   ],
+   "ans": 0,
+   "exp": "The page links liver dysfunction with encephalopathy. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-032",
+   "sec": "Functions of the Liver and Their Assessment",
+   "page": 246,
+   "q": "Liver function tests listed in this chapter include:",
+   "opts": [
+    "Liver enzymes and clotting factor tests",
+    "Only serum bilirubin",
+    "Only serum albumin",
+    "Only prothrombin time"
+   ],
+   "ans": 0,
+   "exp": "Liver function tests (LFT): liver enzymes and clotting factor tests. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-033",
+   "sec": "Functions of the Liver and Their Assessment",
+   "page": 246,
+   "q": "The investigation of choice that differentiates HCC from metastasis is:",
+   "opts": [
+    "Triple phase CT",
+    "USG abdomen",
+    "Plain CT abdomen",
+    "MRCP"
+   ],
+   "ans": 0,
+   "exp": "Triple phase CT is the IOC and is specifically said to differentiate between HCC and metastases. (Book p246)"
+  },
+  {
+   "id": "SURG-C34-034",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "Each clinical/laboratory criterion in the Child-Turcotte-Pugh score is allotted points from:",
+   "opts": [
+    "1 to 3",
+    "1 to 4",
+    "0 to 2",
+    "1 to 5"
+   ],
+   "ans": 0,
+   "exp": "The scoring columns are 1, 2 and 3 points for each criterion. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-035",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "In the Child-Turcotte-Pugh score, severe encephalopathy (grades 3 or 4) scores:",
+   "opts": [
+    "3 points",
+    "1 point",
+    "2 points",
+    "4 points"
+   ],
+   "ans": 0,
+   "exp": "Encephalopathy: none = 1, mild to moderate (grades I or II) = 2, severe (grades 3 or 4) = 3. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-036",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "Diuretic refractory ascites in the Child-Turcotte-Pugh score is graded as:",
+   "opts": [
+    "Severe (3 points)",
+    "Mild to moderate (2 points)",
+    "None (1 point)",
+    "Not scored"
+   ],
+   "ans": 0,
+   "exp": "Ascites: none = 1, mild to moderate/diuretic responsive = 2, severe/diuretic refractory = 3. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-037",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "In the Child-Turcotte-Pugh score, a bilirubin of 2-3 mg/dL scores:",
+   "opts": [
+    "2 points",
+    "1 point",
+    "3 points",
+    "0 points"
+   ],
+   "ans": 0,
+   "exp": "Bilirubin (mg/dL): <2 = 1, 2-3 = 2, >3 = 3. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-038",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "An albumin of 2.8-3.5 g/dL scores how many points in the Child-Turcotte-Pugh score?",
+   "opts": [
+    "2",
+    "1",
+    "3",
+    "0"
+   ],
+   "ans": 0,
+   "exp": "Albumin (g/dL): >3.5 = 1, 2.8-3.5 = 2, <2.8 = 3. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-039",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "In the Child-Turcotte-Pugh score the prothrombin time columns are:",
+   "opts": [
+    "<4 s, 4-6 s and >6 s",
+    "<2 s, 2-4 s and >4 s",
+    "<10 s, 10-14 s and >14 s",
+    "<6 s, 6-10 s and >10 s"
+   ],
+   "ans": 0,
+   "exp": "Prothrombin time (s): <4 = 1, 4-6 = 2, >6 = 3 (or the INR equivalent: <1.7, 1.7-2.3, >2.3). (Book p247)"
+  },
+  {
+   "id": "SURG-C34-040",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "The INR values used in the Child-Turcotte-Pugh score are:",
+   "opts": [
+    "<1.7, 1.7-2.3 and >2.3",
+    "<1.0, 1.0-1.5 and >1.5",
+    "<2.0, 2.0-3.0 and >3.0",
+    "<1.5, 1.5-2.5 and >2.5"
+   ],
+   "ans": 0,
+   "exp": "International normalised ratio (INR): <1.7 = 1, 1.7-2.3 = 2, >2.3 = 3. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-041",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "Child-Turcotte-Pugh class A corresponds to a total score of:",
+   "opts": [
+    "5-6",
+    "7-9",
+    "10-15",
+    "1-3"
+   ],
+   "ans": 0,
+   "exp": "Class A: 5-6 (least severe). (Book p247)"
+  },
+  {
+   "id": "SURG-C34-042",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "Child-Turcotte-Pugh class B corresponds to a total score of:",
+   "opts": [
+    "7-9",
+    "5-6",
+    "10-15",
+    "3-5"
+   ],
+   "ans": 0,
+   "exp": "Class B: 7-9 (moderately severe). (Book p247)"
+  },
+  {
+   "id": "SURG-C34-043",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "Child-Turcotte-Pugh class C corresponds to a total score of:",
+   "opts": [
+    "10-15",
+    "5-6",
+    "7-9",
+    "16-20"
+   ],
+   "ans": 0,
+   "exp": "Class C: 10-15 (most severe). (Book p247)"
+  },
+  {
+   "id": "SURG-C34-044",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "The surgical mortality quoted for Child-Pugh class A is:",
+   "opts": [
+    "10%",
+    "30%",
+    "70%",
+    "5%"
+   ],
+   "ans": 0,
+   "exp": "Correlates with surgical mortality: class A 10%. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-045",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "The surgical mortality quoted for Child-Pugh class C is:",
+   "opts": [
+    "70%",
+    "10%",
+    "30%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Class C carries about 70% surgical mortality. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-046",
+   "sec": "Child-Turcotte-Pugh Score",
+   "page": 247,
+   "q": "A cirrhotic patient with bilirubin 4 mg/dL, albumin 2.5 g/dL, INR 2.6, moderate ascites and grade II encephalopathy falls into Child class:",
+   "opts": [
+    "C",
+    "A",
+    "B",
+    "Cannot be scored without a biopsy"
+   ],
+   "ans": 0,
+   "exp": "Bilirubin >3 (3), albumin <2.8 (3), INR >2.3 (3), moderate ascites (2) and grade I-II encephalopathy (2) = 13 points, i.e. class C (10-15). (Book p247)"
+  },
+  {
+   "id": "SURG-C34-047",
+   "sec": "MELD and PELD Scores",
+   "page": 247,
+   "q": "The MELD score uses which three parameters?",
+   "opts": [
+    "Serum bilirubin, INR and creatinine",
+    "Albumin, bilirubin and INR",
+    "Bilirubin, albumin and sodium",
+    "Creatinine, sodium and INR"
+   ],
+   "ans": 0,
+   "exp": "Parameters involved in MELD: S. bilirubin, INR and creatinine. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-048",
+   "sec": "MELD and PELD Scores",
+   "page": 247,
+   "q": "With a MELD score of 20 or less, mortality rises by:",
+   "opts": [
+    "1% per score",
+    "2% per score",
+    "5% per score",
+    "10% per score"
+   ],
+   "ans": 0,
+   "exp": "Score ≤20: mortality ↑ 1% per score. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-049",
+   "sec": "MELD and PELD Scores",
+   "page": 247,
+   "q": "With a MELD score above 20, mortality rises by:",
+   "opts": [
+    "2% per score after 20",
+    "1% per score",
+    "5% per score",
+    "10% per score"
+   ],
+   "ans": 0,
+   "exp": "Score >20: mortality ↑ 2% per score after 20. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-050",
+   "sec": "MELD and PELD Scores",
+   "page": 247,
+   "q": "Which of the following is NOT a parameter of the PELD score?",
+   "opts": [
+    "Creatinine",
+    "Albumin",
+    "Total bilirubin",
+    "Growth failure"
+   ],
+   "ans": 0,
+   "exp": "PELD parameters: albumin, total bilirubin, INR, growth failure and age (<1 year). (Book p247)"
+  },
+  {
+   "id": "SURG-C34-051",
+   "sec": "MELD and PELD Scores",
+   "page": 247,
+   "q": "The age criterion used in the PELD score is:",
+   "opts": [
+    "Less than 1 year",
+    "Less than 5 years",
+    "Less than 12 years",
+    "More than 60 years"
+   ],
+   "ans": 0,
+   "exp": "Age (<1 yr) is one of the five PELD parameters — PELD is the paediatric score. (Book p247)"
+  },
+  {
+   "id": "SURG-C34-052",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The organism causing an amoebic liver abscess is:",
+   "opts": [
+    "Entamoeba histolytica",
+    "Echinococcus granulosus",
+    "Staphylococcus aureus",
+    "Klebsiella pneumoniae"
+   ],
+   "ans": 0,
+   "exp": "Amoebic liver abscess is caused by Entamoeba histolytica. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-053",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "Amoebic liver abscess reaches the liver by which route?",
+   "opts": [
+    "Portal vein",
+    "Ascending cholangitis",
+    "Hepatic artery",
+    "Direct extension from the colon"
+   ],
+   "ans": 0,
+   "exp": "Route of spread for amoebic abscess: the portal vein (which has laminar flow to the right side). (Book p248)"
+  },
+  {
+   "id": "SURG-C34-054",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The laminar portal flow to the right side explains why amoebic abscesses are most common in the:",
+   "opts": [
+    "Right lobe",
+    "Left lobe",
+    "Caudate lobe",
+    "Quadrate lobe"
+   ],
+   "ans": 0,
+   "exp": "Because portal flow preferentially streams to the right side, the right lobe (bare area, segment 7) is most often involved. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-055",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The most common route of spread for a pyogenic liver abscess is:",
+   "opts": [
+    "Ascending cholangitis",
+    "Portal vein",
+    "Hepatic artery",
+    "Direct spread from a perforated ulcer"
+   ],
+   "ans": 0,
+   "exp": "Pyogenic abscess: ascending cholangitis. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-056",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The commonest organism overall in a pyogenic liver abscess is:",
+   "opts": [
+    "E. coli",
+    "Staphylococcus aureus",
+    "Klebsiella",
+    "Bacteroides"
+   ],
+   "ans": 0,
+   "exp": "Pyogenic abscess: polymicrobial (40%), m/c overall E. coli. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-057",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The commonest organism causing pyogenic liver abscess in Asia is:",
+   "opts": [
+    "Klebsiella",
+    "E. coli",
+    "Staphylococcus aureus",
+    "Enterococcus"
+   ],
+   "ans": 0,
+   "exp": "m/c in Asia: Klebsiella. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-058",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "A child with chronic granulomatous disease and a liver abscess is most likely to grow:",
+   "opts": [
+    "Staphylococcus aureus",
+    "E. coli",
+    "Klebsiella",
+    "Streptococcus viridans"
+   ],
+   "ans": 0,
+   "exp": "m/c in children with CGD: S. aureus. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-059",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "Pyogenic liver abscess pus is typically:",
+   "opts": [
+    "Polymicrobial in about 40% of cases",
+    "Always sterile",
+    "Always fungal",
+    "Always a single organism"
+   ],
+   "ans": 0,
+   "exp": "Polymicrobial (40%) is quoted for pyogenic liver abscess. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-060",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "CGD in the liver abscess table expands to:",
+   "opts": [
+    "Chronic granulomatous disease",
+    "Common bile duct disease",
+    "Cystic gallbladder disease",
+    "Chronic gastric distension"
+   ],
+   "ans": 0,
+   "exp": "CGD: Chronic granulomatous disease. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-061",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "Amoebic liver abscesses are usually:",
+   "opts": [
+    "Solitary",
+    "Multiple",
+    "Bilobar and diffuse",
+    "Confined to the left lobe"
+   ],
+   "ans": 0,
+   "exp": "Number: usually solitary in amoebic disease; solitary or multiple in pyogenic disease. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-062",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The most common laboratory abnormality in amoebic liver abscess is:",
+   "opts": [
+    "Raised PT/INR",
+    "Raised ALP",
+    "Raised serum amylase",
+    "Raised serum calcium"
+   ],
+   "ans": 0,
+   "exp": "Labs in amoebic abscess: ↑ PT/INR (m/c) and serology positive for Entamoeba. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-063",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "A raised ALP in a pyogenic liver abscess is attributed to:",
+   "opts": [
+    "Ascending cholangitis",
+    "Bone metastasis",
+    "Hepatocellular necrosis",
+    "Haemolysis"
+   ],
+   "ans": 0,
+   "exp": "Pyogenic abscess labs: ↑ ALP (due to cholangitis), ↑ PT/INR and ↑ S. bilirubin. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-064",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The diagnosis of an amoebic liver abscess is supported by:",
+   "opts": [
+    "Positive serology for Entamoeba",
+    "Stool culture",
+    "Blood culture",
+    "Sputum microscopy"
+   ],
+   "ans": 0,
+   "exp": "Serology positive for Entamoeba is listed under the labs for amoebic abscess. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-065",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "Flask-shaped ulcers in the gut are associated with:",
+   "opts": [
+    "Amoebic liver abscess",
+    "Pyogenic liver abscess",
+    "Hydatid disease",
+    "Amoebic colitis only, never with liver abscess"
+   ],
+   "ans": 0,
+   "exp": "Ulcers in the gut (flask-shaped) appear in the amoebic column. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-066",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "Compared with an amoebic abscess, a patient with a pyogenic liver abscess is:",
+   "opts": [
+    "More sick with more jaundice",
+    "Less sick with less jaundice",
+    "Asymptomatic",
+    "Only febrile at night"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: amoebic — pain and fever; pyogenic — more sick, ↑ jaundice. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-067",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "The pus of an amoebic liver abscess is classically described as:",
+   "opts": [
+    "Anchovy sauce pus",
+    "Thick cream-coloured pus",
+    "Green bile-stained pus",
+    "Caseous material"
+   ],
+   "ans": 0,
+   "exp": "Amoebic pus is anchovy-sauce pus, in contrast to the neutrophil-rich pus of a pyogenic abscess. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-068",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "Epidemiologically both amoebic and pyogenic liver abscess are:",
+   "opts": [
+    "More common in males",
+    "More common in females",
+    "Equal in both sexes",
+    "Seen only in children"
+   ],
+   "ans": 0,
+   "exp": "Epidemiology: males > females for both; pyogenic abscess is also associated with immunocompromise. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-069",
+   "sec": "Liver Abscess: Types and Clinical Features",
+   "page": 248,
+   "q": "Immunocompromised state is listed as a predisposition for:",
+   "opts": [
+    "Pyogenic liver abscess",
+    "Amoebic liver abscess",
+    "Hydatid cyst",
+    "Hepatic adenoma"
+   ],
+   "ans": 0,
+   "exp": "Immunocompromised is listed in the pyogenic column. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-070",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 248,
+   "q": "The investigation of choice for a liver abscess is:",
+   "opts": [
+    "CECT abdomen",
+    "Plain X-ray abdomen",
+    "MRCP",
+    "Liver scan"
+   ],
+   "ans": 0,
+   "exp": "IOC: CECT abdomen. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-071",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 248,
+   "q": "On imaging, a liver abscess appears as:",
+   "opts": [
+    "An abscess cavity with hypoechoic liquefied pus",
+    "A solid hyperechoic mass",
+    "A calcified cyst",
+    "A multiloculated cystic lesion with daughter cysts"
+   ],
+   "ans": 0,
+   "exp": "Abscess cavity with hypoechoic liquefied pus. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-072",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 248,
+   "q": "Radiological resolution of the abscess cavity after treatment takes:",
+   "opts": [
+    "Months",
+    "48 hours",
+    "1 week",
+    "Never — it persists for life"
+   ],
+   "ans": 0,
+   "exp": "Radiological resolution of the cavity takes months (post-Rx), so imaging is not used to judge early response. (Book p248)"
+  },
+  {
+   "id": "SURG-C34-073",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "The drug used for an amoebic liver abscess in this chapter is:",
+   "opts": [
+    "Metronidazole (double strength 800 mg TID)",
+    "Chloroquine alone",
+    "Albendazole",
+    "Ciprofloxacin"
+   ],
+   "ans": 0,
+   "exp": "A. Amoebic liver abscess: metronidazole (double strength: 800 mg TID). (Book p249)"
+  },
+  {
+   "id": "SURG-C34-074",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "Response to metronidazole is judged after:",
+   "opts": [
+    "4-5 days",
+    "24 hours",
+    "2 weeks",
+    "6 weeks"
+   ],
+   "ans": 0,
+   "exp": "After 4-5 days the fever and pain should settle. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-075",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "The total duration of metronidazole therapy recommended here is:",
+   "opts": [
+    "2-3 weeks",
+    "4-5 days",
+    "10 days",
+    "6 months"
+   ],
+   "ans": 0,
+   "exp": "After the initial 4-5 days and a fall in fever and pain, treatment is continued for 2-3 weeks. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-076",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "After completion of the course of metronidazole, the patient should receive:",
+   "opts": [
+    "A luminal amoebicide — diloxanide furoate for 10 days",
+    "No further treatment",
+    "Albendazole for 10 days",
+    "A repeat course of metronidazole"
+   ],
+   "ans": 0,
+   "exp": "After completion of the course, a luminal amoebicide (diloxanide furoate × 10 days) is given. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-077",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "If an amoebic abscess does not respond to metronidazole, the next step is:",
+   "opts": [
+    "Aspiration of pus under USG/CT guidance",
+    "Immediate laparotomy",
+    "Change to albendazole",
+    "Add steroids"
+   ],
+   "ans": 0,
+   "exp": "Not responding → aspiration of pus (USG/CT guided). (Book p249)"
+  },
+  {
+   "id": "SURG-C34-078",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "Which of the following is NOT listed as an indication for aspirating an amoebic liver abscess?",
+   "opts": [
+    "A cavity smaller than 2 cm",
+    "Cavity larger than 5 cm",
+    "Pregnancy",
+    "Impending rupture"
+   ],
+   "ans": 0,
+   "exp": "Other indications listed: abscess cavity >5 cm, pregnant patient, impending rupture and a left lobe abscess (which can rupture into the pericardium). (Book p249)"
+  },
+  {
+   "id": "SURG-C34-079",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "A left lobe amoebic liver abscess is aspirated early because it can rupture into the:",
+   "opts": [
+    "Pericardium",
+    "Splenic vein",
+    "Stomach",
+    "Pleural cavity only on the right"
+   ],
+   "ans": 0,
+   "exp": "Left lobe liver abscess can rupture into the pericardium. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-080",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "page": 249,
+   "q": "A pigtail catheter is used for:",
+   "opts": [
+    "Aspiration of pus anywhere in the abdominal cavity under USG/CT guidance",
+    "Draining bile from the gallbladder",
+    "Feeding jejunostomy",
+    "Measuring portal pressure"
+   ],
+   "ans": 0,
+   "exp": "Pigtail catheter: aspiration of pus anywhere in the abdominal cavity under USG/CT guidance. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-081",
+   "sec": "Pyogenic Liver Abscess and Complications of Amoebic Abscess",
+   "page": 249,
+   "q": "First-line treatment of a pyogenic liver abscess is:",
+   "opts": [
+    "Broad spectrum IV antibiotics",
+    "Immediate surgery",
+    "Metronidazole alone",
+    "Albendazole"
+   ],
+   "ans": 0,
+   "exp": "B. Pyogenic liver abscess: IV antibiotics, broad spectrum. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-082",
+   "sec": "Pyogenic Liver Abscess and Complications of Amoebic Abscess",
+   "page": 249,
+   "q": "The threshold for aspiration in a pyogenic liver abscess should be:",
+   "opts": [
+    "Low — aspirate quickly with a pigtail catheter if the patient is not responding",
+    "Very high — never aspirate",
+    "Same as for an amoebic abscess (wait 2-3 weeks)",
+    "Aspiration is contraindicated"
+   ],
+   "ans": 0,
+   "exp": "Low threshold for aspiration: if the patient is not responding, aspirate quickly with a pigtail catheter. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-083",
+   "sec": "Pyogenic Liver Abscess and Complications of Amoebic Abscess",
+   "page": 249,
+   "q": "The most common site of rupture of an amoebic liver abscess is the:",
+   "opts": [
+    "Sub-diaphragmatic space",
+    "Pleural cavity",
+    "Peritoneal cavity",
+    "Pericardial cavity"
+   ],
+   "ans": 0,
+   "exp": "Rupture: sub-diaphragmatic space (m/c), then pleural, peritoneal and pericardial cavities. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-084",
+   "sec": "Pyogenic Liver Abscess and Complications of Amoebic Abscess",
+   "page": 249,
+   "q": "Which of the following is NOT listed as a rupture site of an amoebic liver abscess?",
+   "opts": [
+    "Splenic parenchyma",
+    "Sub-diaphragmatic space",
+    "Pleural cavity",
+    "Pericardial cavity"
+   ],
+   "ans": 0,
+   "exp": "The listed sites are sub-diaphragmatic (m/c), pleural, peritoneal and pericardial. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-085",
+   "sec": "Pyogenic Liver Abscess and Complications of Amoebic Abscess",
+   "page": 249,
+   "q": "Secondary infection is listed as a complication of:",
+   "opts": [
+    "Amoebic liver abscess",
+    "Hydatid cyst only",
+    "Pyogenic liver abscess only",
+    "Hepatic adenoma"
+   ],
+   "ans": 0,
+   "exp": "Complications of amoebic liver abscess: rupture (into four sites) and secondary infection. (Book p249)"
+  },
+  {
+   "id": "SURG-C34-086",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "The organism causing hydatid disease of the liver is:",
+   "opts": [
+    "Echinococcus granulosus",
+    "Entamoeba histolytica",
+    "Clonorchis sinensis",
+    "Schistosoma mansoni"
+   ],
+   "ans": 0,
+   "exp": "Organism: Echinococcus granulosus (E. multilocularis causes malignant hydatid). (Book p250)"
+  },
+  {
+   "id": "SURG-C34-087",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "Echinococcus multilocularis is described as causing:",
+   "opts": [
+    "Malignant hydatid",
+    "Calcified hydatid",
+    "Pulmonary hydatid",
+    "Recurrent hydatid"
+   ],
+   "ans": 0,
+   "exp": "E. multilocularis is labelled as malignant hydatid. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-088",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "The definitive host of Echinococcus granulosus is the:",
+   "opts": [
+    "Dog",
+    "Sheep",
+    "Man",
+    "Cow"
+   ],
+   "ans": 0,
+   "exp": "Definitive host: dog. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-089",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "The intermediate host of Echinococcus granulosus is the:",
+   "opts": [
+    "Sheep",
+    "Dog",
+    "Man",
+    "Pig"
+   ],
+   "ans": 0,
+   "exp": "Intermediate host: sheep. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-090",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "Man is the:",
+   "opts": [
+    "Accidental intermediate host",
+    "Definitive host",
+    "Normal intermediate host",
+    "Reservoir host"
+   ],
+   "ans": 0,
+   "exp": "Accidental intermediate host: man (male = female). (Book p250)"
+  },
+  {
+   "id": "SURG-C34-091",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "The gross appearance of a hydatid cyst is:",
+   "opts": [
+    "A pearly white cyst",
+    "A haemorrhagic mass",
+    "A bile-stained cavity",
+    "A calcified nodule"
+   ],
+   "ans": 0,
+   "exp": "Gross anatomy: pearly white cyst. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-092",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "The most common organ affected by hydatid disease is the:",
+   "opts": [
+    "Liver",
+    "Lung",
+    "Spleen",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "Organs affected: liver (m/c), lungs (2nd m/c), kidneys and spleen. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-093",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "The second most common organ affected by hydatid disease is the:",
+   "opts": [
+    "Lung",
+    "Liver",
+    "Brain",
+    "Bone"
+   ],
+   "ans": 0,
+   "exp": "Lungs are the second most common site after the liver. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-094",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "Most patients with hydatid disease of the liver are:",
+   "opts": [
+    "Asymptomatic",
+    "Jaundiced",
+    "Febrile",
+    "In hepatic failure"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: asymptomatic (majority), right hypochondrial pain, hepatomegaly. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-095",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "The outermost layer of a hydatid cyst, formed by the host, is the:",
+   "opts": [
+    "Pericyst",
+    "Ectocyst",
+    "Endocyst",
+    "Germinal layer"
+   ],
+   "ans": 0,
+   "exp": "Pericyst is the host reaction — the page notes it is not a true layer of the parasite. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-096",
+   "sec": "Hydatid Disease: Epidemiology and Pathology",
+   "page": 250,
+   "q": "From outside inwards the layers of a hydatid cyst are:",
+   "opts": [
+    "Pericyst → ectocyst → endocyst → hydatid fluid",
+    "Endocyst → ectocyst → pericyst → hydatid fluid",
+    "Ectocyst → pericyst → endocyst → hydatid fluid",
+    "Pericyst → endocyst → ectocyst → hydatid fluid"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels pericyst (host reaction), ectocyst, endocyst and hydatid fluid from outside in. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-097",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 250,
+   "q": "The classification of hydatid cysts used here is based on:",
+   "opts": [
+    "CECT",
+    "Ultrasound",
+    "MRI",
+    "Serology"
+   ],
+   "ans": 0,
+   "exp": "Classification: based on CECT. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-098",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 250,
+   "q": "The two classification systems quoted are:",
+   "opts": [
+    "WHO-IWG 2001 and Gharbi 1981",
+    "WHO 2010 and Gharbi 1991",
+    "Couinaud and Brisbane",
+    "Child and MELD"
+   ],
+   "ans": 0,
+   "exp": "The table headings are WHO IWG 2001 and Gharbi 1981. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-099",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 250,
+   "q": "A CE1 (Gharbi type I) cyst is described as:",
+   "opts": [
+    "A unilocular cyst with a double line sign",
+    "A multiseptate honeycomb cyst",
+    "A cyst with detached membranes",
+    "A solid calcified cyst"
+   ],
+   "ans": 0,
+   "exp": "CE1 / Type I: unilocular cyst with a double line sign, and it is an active cyst. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-100",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 250,
+   "q": "A CE2 (Gharbi type II) cyst is:",
+   "opts": [
+    "A multiseptate honeycomb cyst",
+    "A unilocular cyst",
+    "A cyst with a water-lily sign",
+    "A calcified cyst"
+   ],
+   "ans": 0,
+   "exp": "CE2 / Type II: multiseptate, honeycomb cyst — active. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-101",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 250,
+   "q": "The water-lily sign is seen in which cyst type?",
+   "opts": [
+    "CE3a",
+    "CE1",
+    "CE2",
+    "CE4"
+   ],
+   "ans": 0,
+   "exp": "Water-lily sign: CE3a. (Book p250)"
+  },
+  {
+   "id": "SURG-C34-102",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 251,
+   "q": "A CE3a cyst shows:",
+   "opts": [
+    "Detached membranes within the cyst",
+    "Daughter cysts in a solid matrix",
+    "A purely calcified wall",
+    "Septations without fluid"
+   ],
+   "ans": 0,
+   "exp": "CE3a / Type III: cyst with detached membranes — the water-lily sign; a transitional stage. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-103",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 251,
+   "q": "A CE3b cyst shows:",
+   "opts": [
+    "A daughter cyst within a solid matrix",
+    "Detached membranes",
+    "Complete calcification",
+    "A unilocular anechoic cavity"
+   ],
+   "ans": 0,
+   "exp": "CE3b / Type III: cyst with daughter cyst in a solid matrix — transitional. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-104",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 251,
+   "q": "A CE4 cyst is:",
+   "opts": [
+    "A heterogenous cyst with no daughter cysts and is inactive",
+    "An actively growing unilocular cyst",
+    "A calcified solid cyst",
+    "A cyst with a water-lily sign"
+   ],
+   "ans": 0,
+   "exp": "CE4 / Type IV: heterogenous cyst with no daughter cysts — inactive. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-105",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 251,
+   "q": "A CE5 cyst is:",
+   "opts": [
+    "A solid/calcified inactive cyst",
+    "A unilocular active cyst",
+    "A multiseptate active cyst",
+    "A cyst with detached membranes"
+   ],
+   "ans": 0,
+   "exp": "CE5 / Type V: solid/calcified cyst — inactive. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-106",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 251,
+   "q": "Which cyst stages are described as being on the verge of dying and needing no treatment?",
+   "opts": [
+    "CE4 and CE5",
+    "CE1 and CE2",
+    "CE2 and CE3a",
+    "CE3a and CE3b"
+   ],
+   "ans": 0,
+   "exp": "Note: CE4 and CE5 do not require treatment — they are on the verge of dying. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-107",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 251,
+   "q": "Which of the following hydatid cyst stages is ACTIVE?",
+   "opts": [
+    "CE2",
+    "CE3a",
+    "CE4",
+    "CE5"
+   ],
+   "ans": 0,
+   "exp": "CE1 and CE2 are active; CE3a and CE3b are transitional; CE4 and CE5 are inactive. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-108",
+   "sec": "Classification of Hydatid Cysts",
+   "page": 251,
+   "q": "Which hydatid stage is transitional?",
+   "opts": [
+    "CE3b",
+    "CE1",
+    "CE2",
+    "CE5"
+   ],
+   "ans": 0,
+   "exp": "CE3a and CE3b are the transitional stages. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-109",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "The first-line drug before any intervention for hydatid disease is:",
+   "opts": [
+    "Albendazole",
+    "Metronidazole",
+    "Praziquantel only",
+    "Mebendazole only"
+   ],
+   "ans": 0,
+   "exp": "1st line: albendazole, given for a minimum of 7-10 days before intervention. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-110",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "Albendazole should be started at least how long before an intervention?",
+   "opts": [
+    "7-10 days",
+    "24 hours",
+    "6 weeks",
+    "3 months"
+   ],
+   "ans": 0,
+   "exp": "Albendazole: minimum 7-10 days before intervention. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-111",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "PAIR expands to:",
+   "opts": [
+    "Percutaneous aspiration, injection and re-aspiration",
+    "Percutaneous aspiration, infusion and resection",
+    "Partial aspiration, injection and revision",
+    "Percutaneous ablation, injection and re-aspiration"
+   ],
+   "ans": 0,
+   "exp": "PAIR: percutaneous aspiration, injection and re-aspiration. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-112",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "PAIR is described as the:",
+   "opts": [
+    "First-line intervention",
+    "Last resort after surgery",
+    "Treatment of choice for CE5 cysts",
+    "Only diagnostic tool"
+   ],
+   "ans": 0,
+   "exp": "PAIR is stated to be the 1st line intervention. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-113",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "The first step of PAIR is:",
+   "opts": [
+    "Percutaneous aspiration of fluid under image guidance",
+    "Injection of a scolicidal agent",
+    "Re-aspiration",
+    "Placement of a pigtail catheter"
+   ],
+   "ans": 0,
+   "exp": "Step 1: percutaneous aspiration of fluid under image guidance. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-114",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "The most commonly used scolicidal agent is:",
+   "opts": [
+    "Hypertonic saline",
+    "Ethanol",
+    "Cetrimide",
+    "Mebendazole solution"
+   ],
+   "ans": 0,
+   "exp": "Hypertonic saline is listed as the m/c scolicidal agent. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-115",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "Which of the following is NOT listed as a scolicidal agent?",
+   "opts": [
+    "Formalin",
+    "Absolute alcohol",
+    "Cetrimide solution",
+    "Mebendazole solution"
+   ],
+   "ans": 0,
+   "exp": "Scolicidal agents listed: hypertonic saline (m/c), ethanol, absolute alcohol, cetrimide solution and mebendazole solution. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-116",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "Formalin is not used as a scolicidal agent because it causes:",
+   "opts": [
+    "Chemical cholangitis",
+    "Anaphylaxis",
+    "Renal failure",
+    "Cyst rupture"
+   ],
+   "ans": 0,
+   "exp": "Note: formalin is not a scolicidal agent because it causes chemical cholangitis. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-117",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "The danger of leaking hydatid fluid into the circulation is:",
+   "opts": [
+    "Anaphylaxis",
+    "Cholangitis",
+    "Pulmonary embolism",
+    "Disseminated calcification"
+   ],
+   "ans": 0,
+   "exp": "Hydatid fluid can cause anaphylaxis if it leaks into the circulation. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-118",
+   "sec": "PAIR: Management of Hydatid Cyst",
+   "page": 251,
+   "q": "The final step of the PAIR procedure is:",
+   "opts": [
+    "Re-aspiration",
+    "Injection of hypertonic saline",
+    "Instillation of formalin",
+    "Laparotomy"
+   ],
+   "ans": 0,
+   "exp": "Step 3 of PAIR is re-aspiration. (Book p251)"
+  },
+  {
+   "id": "SURG-C34-119",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "page": 252,
+   "q": "All of the following are contraindications to PAIR EXCEPT:",
+   "opts": [
+    "A large CE1 unilocular cyst",
+    "A dead/calcified cyst",
+    "A deep seated cyst",
+    "Impending rupture"
+   ],
+   "ans": 0,
+   "exp": "Contraindications: dead/calcified cyst, deep seated cyst, impending rupture, multi-septate cyst and extrahepatic cysts. A unilocular CE1 cyst is the ideal indication. (Book p252)"
+  },
+  {
+   "id": "SURG-C34-120",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "page": 252,
+   "q": "A multi-septate hydatid cyst:",
+   "opts": [
+    "Is a contraindication to PAIR, although it can be tried if there are multiple uniloculated cysts",
+    "Is the best indication for PAIR",
+    "Always needs formalin instillation",
+    "Never requires albendazole"
+   ],
+   "ans": 0,
+   "exp": "Multi-septate cyst is listed as a contraindication, with the note that PAIR can be tried if there are multiple uniloculated cysts. (Book p252)"
+  },
+  {
+   "id": "SURG-C34-121",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "page": 252,
+   "q": "If bile is aspirated during PAIR, the correct action is to:",
+   "opts": [
+    "Abandon PAIR",
+    "Continue and inject hypertonic saline",
+    "Inject formalin",
+    "Convert immediately to a hepatectomy"
+   ],
+   "ans": 0,
+   "exp": "Cysto-biliary communication: if bile is aspirated, abandon PAIR because the scolicidal agent would cause chemical cholangitis. (Book p252)"
+  },
+  {
+   "id": "SURG-C34-122",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "page": 252,
+   "q": "Surgery for hydatid disease is indicated when:",
+   "opts": [
+    "PAIR is contraindicated",
+    "The cyst is CE1",
+    "The patient is asymptomatic with a CE4 cyst",
+    "Serology is negative"
+   ],
+   "ans": 0,
+   "exp": "Surgery is done when PAIR is contraindicated. (Book p252)"
+  },
+  {
+   "id": "SURG-C34-123",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "page": 252,
+   "q": "Which of the following is a surgical option for hydatid disease?",
+   "opts": [
+    "Cystopericystectomy",
+    "PAIR",
+    "Radiofrequency ablation",
+    "TACE"
+   ],
+   "ans": 0,
+   "exp": "Surgical options listed: cystopericystectomy and liver resection (if multiple cysts in one segment). (Book p252)"
+  },
+  {
+   "id": "SURG-C34-124",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "page": 252,
+   "q": "Multiple hydatid cysts confined to one segment are best treated by:",
+   "opts": [
+    "Liver resection",
+    "PAIR",
+    "Capitonnage alone",
+    "Albendazole alone"
+   ],
+   "ans": 0,
+   "exp": "Liver resection is the option when there are multiple cysts in one segment. (Book p252)"
+  },
+  {
+   "id": "SURG-C34-125",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "page": 252,
+   "q": "Capitonnage means:",
+   "opts": [
+    "Spiral closure of the cyst cavity after removal of the cyst",
+    "Excision of the pericyst",
+    "Marsupialisation of the cyst",
+    "Injection of a scolicidal agent into the cavity"
+   ],
+   "ans": 0,
+   "exp": "Capitonnage: spiral closure of the cyst cavity after removal of the cyst. (Book p252)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U34-1",
+   "ch": 34,
+   "n": 1,
+   "title": "Functional Anatomy of the Liver",
+   "sec": "Functional Anatomy of the Liver · p245",
+   "qs": [
+    "SURG-C34-001",
+    "SURG-C34-002",
+    "SURG-C34-003",
+    "SURG-C34-004",
+    "SURG-C34-005",
+    "SURG-C34-006",
+    "SURG-C34-007",
+    "SURG-C34-008",
+    "SURG-C34-009",
+    "SURG-C34-010"
+   ],
+   "guide": "Couinaud gave the surgeon a map, not a description: eight functional segments drawn around the portal vein, with three hepatic veins in the major fissures and the portal branches in the minor ones. Learn the map, because every resection in this chapter is named from it."
+  },
+  {
+   "id": "SURG-U34-2",
+   "ch": 34,
+   "n": 2,
+   "title": "Segment I: The Caudate Lobe",
+   "sec": "Segment I: The Caudate Lobe · p245",
+   "qs": [
+    "SURG-C34-011",
+    "SURG-C34-012",
+    "SURG-C34-013",
+    "SURG-C34-014",
+    "SURG-C34-015",
+    "SURG-C34-016"
+   ],
+   "guide": "Segment I is the liver's free agent. The caudate lobe sits behind, to the left of the IVC, takes blood and drains bile from both sides and empties straight into the IVC — which is exactly why it hypertrophies when the hepatic veins thrombose in Budd-Chiari."
+  },
+  {
+   "id": "SURG-U34-3",
+   "ch": 34,
+   "n": 3,
+   "title": "Brisbane Classification of Liver Resection",
+   "sec": "Brisbane Classification of Liver Resection · p246",
+   "qs": [
+    "SURG-C34-017",
+    "SURG-C34-018",
+    "SURG-C34-019",
+    "SURG-C34-020",
+    "SURG-C34-021",
+    "SURG-C34-022"
+   ],
+   "guide": "Brisbane turned anatomy into a vocabulary: left hepatectomy is 2, 3, 4A, 4B; right is 5, 6, 7, 8; and each trisectorectomy adds the opposite central segments. Say the numbers and the operation names follow."
+  },
+  {
+   "id": "SURG-U34-4",
+   "ch": 34,
+   "n": 4,
+   "title": "Blood Supply and the Liver Pedicle",
+   "sec": "Blood Supply and the Liver Pedicle · p246",
+   "qs": [
+    "SURG-C34-023",
+    "SURG-C34-024",
+    "SURG-C34-025",
+    "SURG-C34-026",
+    "SURG-C34-027"
+   ],
+   "guide": "Two vessels feed the liver, the portal vein giving 80% and the hepatic artery 20%, and the right hepatic artery is the larger of the two arteries. At the hilum they line up with the bile duct as the Mickey mouse sign — the landmark that keeps a resection out of trouble."
+  },
+  {
+   "id": "SURG-U34-5",
+   "ch": 34,
+   "n": 5,
+   "title": "Functions of the Liver and Their Assessment",
+   "sec": "Functions of the Liver and Their Assessment · p246",
+   "qs": [
+    "SURG-C34-028",
+    "SURG-C34-029",
+    "SURG-C34-030",
+    "SURG-C34-031",
+    "SURG-C34-032",
+    "SURG-C34-033"
+   ],
+   "guide": "The liver does far more than make bile: temperature, acid-base, clotting factors, glucose, bilirubin, drug and hormone clearance and endotoxin removal. When it fails, encephalopathy follows; when you need a picture, triple phase CT separates HCC from metastases."
+  },
+  {
+   "id": "SURG-U34-6",
+   "ch": 34,
+   "n": 6,
+   "title": "Child-Turcotte-Pugh Score",
+   "sec": "Child-Turcotte-Pugh Score · p247",
+   "qs": [
+    "SURG-C34-034",
+    "SURG-C34-035",
+    "SURG-C34-036",
+    "SURG-C34-037",
+    "SURG-C34-038",
+    "SURG-C34-039",
+    "SURG-C34-040",
+    "SURG-C34-041",
+    "SURG-C34-042",
+    "SURG-C34-043",
+    "SURG-C34-044",
+    "SURG-C34-045",
+    "SURG-C34-046"
+   ],
+   "guide": "Child-Turcotte-Pugh is five everyday variables scored 1 to 3 — encephalopathy, ascites, bilirubin, albumin and PT/INR. Add them: A is 5-6, B is 7-9, C is 10-15, and surgical mortality climbs 10%, 30%, 70% across those classes."
+  },
+  {
+   "id": "SURG-U34-7",
+   "ch": 34,
+   "n": 7,
+   "title": "MELD and PELD Scores",
+   "sec": "MELD and PELD Scores · p247",
+   "qs": [
+    "SURG-C34-047",
+    "SURG-C34-048",
+    "SURG-C34-049",
+    "SURG-C34-050",
+    "SURG-C34-051"
+   ],
+   "guide": "MELD replaced guesswork with three numbers — bilirubin, INR and creatinine — and each point above a score of 20 costs roughly 2% mortality. PELD is the same idea for infants, adding albumin, growth failure and age under one year."
+  },
+  {
+   "id": "SURG-U34-8",
+   "ch": 34,
+   "n": 8,
+   "title": "Liver Abscess: Types and Clinical Features",
+   "sec": "Liver Abscess: Types and Clinical Features · p248",
+   "qs": [
+    "SURG-C34-052",
+    "SURG-C34-053",
+    "SURG-C34-054",
+    "SURG-C34-055",
+    "SURG-C34-056",
+    "SURG-C34-057",
+    "SURG-C34-058",
+    "SURG-C34-059",
+    "SURG-C34-060",
+    "SURG-C34-061",
+    "SURG-C34-062",
+    "SURG-C34-063",
+    "SURG-C34-064",
+    "SURG-C34-065",
+    "SURG-C34-066",
+    "SURG-C34-067",
+    "SURG-C34-068",
+    "SURG-C34-069"
+   ],
+   "guide": "Every column of the abscess table earns its place: amoebic means Entamoeba, portal spread, right lobe, solitary, anchovy-sauce pus and a modestly ill patient; pyogenic means biliary spread, polymicrobial or Klebsiella in Asia, neutrophil-rich pus and a sicker, jaundiced patient."
+  },
+  {
+   "id": "SURG-U34-9",
+   "ch": 34,
+   "n": 9,
+   "title": "Diagnosis and Treatment of Amoebic Liver Abscess",
+   "sec": "Diagnosis and Treatment of Amoebic Liver Abscess · p248",
+   "qs": [
+    "SURG-C34-070",
+    "SURG-C34-071",
+    "SURG-C34-072",
+    "SURG-C34-073",
+    "SURG-C34-074",
+    "SURG-C34-075",
+    "SURG-C34-076",
+    "SURG-C34-077",
+    "SURG-C34-078",
+    "SURG-C34-079",
+    "SURG-C34-080"
+   ],
+   "guide": "Metronidazole at double strength for 4-5 days tells you whether the abscess will settle; complete 2-3 weeks and then clear the gut lumen with diloxanide furoate. Aspirate when the cavity is over 5 cm, when the patient is pregnant, when rupture threatens or when the abscess sits in the left lobe over the pericardium."
+  },
+  {
+   "id": "SURG-U34-10",
+   "ch": 34,
+   "n": 10,
+   "title": "Pyogenic Liver Abscess and Complications of Amoebic Abscess",
+   "sec": "Pyogenic Liver Abscess and Complications of Amoebic Abscess · p249",
+   "qs": [
+    "SURG-C34-081",
+    "SURG-C34-082",
+    "SURG-C34-083",
+    "SURG-C34-084",
+    "SURG-C34-085"
+   ],
+   "guide": "Pyogenic abscesses are different creatures: broad-spectrum IV antibiotics first, and a low threshold to drain with a pigtail if the patient is not improving. Know the four directions an amoebic abscess can rupture, with the sub-diaphragmatic space leading the list."
+  },
+  {
+   "id": "SURG-U34-11",
+   "ch": 34,
+   "n": 11,
+   "title": "Hydatid Disease: Epidemiology and Pathology",
+   "sec": "Hydatid Disease: Epidemiology and Pathology · p250",
+   "qs": [
+    "SURG-C34-086",
+    "SURG-C34-087",
+    "SURG-C34-088",
+    "SURG-C34-089",
+    "SURG-C34-090",
+    "SURG-C34-091",
+    "SURG-C34-092",
+    "SURG-C34-093",
+    "SURG-C34-094",
+    "SURG-C34-095",
+    "SURG-C34-096"
+   ],
+   "guide": "Hydatid disease is a dog-sheep cycle that man stumbles into, and the liver is the organ it favours. The cyst is pearly white, the host wraps it in a pericyst, and most patients feel nothing at all until it presses or complicates."
+  },
+  {
+   "id": "SURG-U34-12",
+   "ch": 34,
+   "n": 12,
+   "title": "Classification of Hydatid Cysts",
+   "sec": "Classification of Hydatid Cysts · p250",
+   "qs": [
+    "SURG-C34-097",
+    "SURG-C34-098",
+    "SURG-C34-099",
+    "SURG-C34-100",
+    "SURG-C34-101",
+    "SURG-C34-102",
+    "SURG-C34-103",
+    "SURG-C34-104",
+    "SURG-C34-105",
+    "SURG-C34-106",
+    "SURG-C34-107",
+    "SURG-C34-108"
+   ],
+   "guide": "The CECT classification turns a cyst into a stage and a stage into a decision: CE1 and CE2 are active, CE3 with its water-lily sign and daughter cysts is transitional, and CE4/CE5 are dying or dead — the last two need no treatment at all."
+  },
+  {
+   "id": "SURG-U34-13",
+   "ch": 34,
+   "n": 13,
+   "title": "PAIR: Management of Hydatid Cyst",
+   "sec": "PAIR: Management of Hydatid Cyst · p251",
+   "qs": [
+    "SURG-C34-109",
+    "SURG-C34-110",
+    "SURG-C34-111",
+    "SURG-C34-112",
+    "SURG-C34-113",
+    "SURG-C34-114",
+    "SURG-C34-115",
+    "SURG-C34-116",
+    "SURG-C34-117",
+    "SURG-C34-118"
+   ],
+   "guide": "PAIR — aspirate, inject, re-aspirate — is the first-line intervention after albendazole cover. Hypertonic saline is the commonest scolicide, formalin is forbidden because it causes chemical cholangitis, and leaking hydatid fluid can kill by anaphylaxis."
+  },
+  {
+   "id": "SURG-U34-14",
+   "ch": 34,
+   "n": 14,
+   "title": "Contraindications to PAIR and Surgery for Hydatid Disease",
+   "sec": "Contraindications to PAIR and Surgery for Hydatid Disease · p252",
+   "qs": [
+    "SURG-C34-119",
+    "SURG-C34-120",
+    "SURG-C34-121",
+    "SURG-C34-122",
+    "SURG-C34-123",
+    "SURG-C34-124",
+    "SURG-C34-125"
+   ],
+   "guide": "Know when NOT to puncture: dead, deep, multi-septate, extrahepatic or about to rupture — and if bile comes back, stop, because a scolicide in the biliary tree causes chemical cholangitis. Those cysts go to theatre for cystopericystectomy, resection or capitonnage."
+  }
+ ]
+}

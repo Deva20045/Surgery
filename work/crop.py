@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from render import pdf_for  # noqa: E402
 
 PAGES_DIR = "work/pages"
-BOX_DIR = "work/ocr/box"
+BOX_DIR = "work/text/box"
 
 
 def load(book):
