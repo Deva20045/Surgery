@@ -1,0 +1,2676 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C67-001",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Embryological origin of the parotid gland:",
+   "opts": [
+    "Ectodermal",
+    "Endodermal",
+    "Mesodermal",
+    "Neural crest"
+   ],
+   "ans": 0,
+   "exp": "Ectodermal (Book p520)"
+  },
+  {
+   "id": "SURG-C67-002",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Embryological origin of the submandibular and sublingual glands:",
+   "opts": [
+    "Endodermal",
+    "Ectodermal",
+    "Mesodermal",
+    "Neural crest"
+   ],
+   "ans": 0,
+   "exp": "Endodermal (Book p520)"
+  },
+  {
+   "id": "SURG-C67-003",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Duct of the parotid gland:",
+   "opts": [
+    "Stenson's duct",
+    "Wharton's duct",
+    "Bartholin's duct",
+    "Rivinus duct"
+   ],
+   "ans": 0,
+   "exp": "Stenson's duct (Book p520)"
+  },
+  {
+   "id": "SURG-C67-004",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Stenson's duct opens:",
+   "opts": [
+    "Opposite the crown of the upper 2nd molar",
+    "On either side of the frenulum",
+    "Into the floor of mouth posteriorly",
+    "Behind the 3rd molar"
+   ],
+   "ans": 0,
+   "exp": "Opposite the crown of the upper 2nd molar (Book p520)"
+  },
+  {
+   "id": "SURG-C67-005",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Duct of the submandibular gland:",
+   "opts": [
+    "Wharton's duct",
+    "Stenson's duct",
+    "Rivinus duct",
+    "Parotid duct"
+   ],
+   "ans": 0,
+   "exp": "Wharton's duct (Book p520)"
+  },
+  {
+   "id": "SURG-C67-006",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Wharton's duct opens:",
+   "opts": [
+    "On either side of the frenulum",
+    "Opposite the upper 2nd molar",
+    "Into the tonsillar fossa",
+    "Behind the 3rd molar"
+   ],
+   "ans": 0,
+   "exp": "On either side of the frenulum (Book p520)"
+  },
+  {
+   "id": "SURG-C67-007",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Plane dividing the parotid into superficial and deep lobes:",
+   "opts": [
+    "Fasciovenous plane",
+    "Fascio-arterial plane",
+    "Buccopharyngeal fascia",
+    "Stylomandibular ligament"
+   ],
+   "ans": 0,
+   "exp": "Fasciovenous plane (Book p520)"
+  },
+  {
+   "id": "SURG-C67-008",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Structures forming the fasciovenous plane of the parotid:",
+   "opts": [
+    "Facial nerve, retromandibular vein and external carotid artery",
+    "Facial nerve, internal jugular vein and internal carotid artery",
+    "Auriculotemporal nerve, facial vein and facial artery",
+    "Hypoglossal nerve, retromandibular vein and ECA"
+   ],
+   "ans": 0,
+   "exp": "Facial nerve, retromandibular vein and external carotid artery (Book p520)"
+  },
+  {
+   "id": "SURG-C67-009",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Proportion of parotid gland formed by the superficial lobe:",
+   "opts": [
+    "80%",
+    "20%",
+    "50%",
+    "95%"
+   ],
+   "ans": 0,
+   "exp": "80% (Book p520)"
+  },
+  {
+   "id": "SURG-C67-010",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Proportion of parotid gland formed by the deep lobe:",
+   "opts": [
+    "20%",
+    "80%",
+    "50%",
+    "5%"
+   ],
+   "ans": 0,
+   "exp": "20% (Book p520)"
+  },
+  {
+   "id": "SURG-C67-011",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Incidence of an accessory parotid gland:",
+   "opts": [
+    "21-61%",
+    "1-5%",
+    "5-10%",
+    "80-90%"
+   ],
+   "ans": 0,
+   "exp": "21-61% (Book p520)"
+  },
+  {
+   "id": "SURG-C67-012",
+   "sec": "Anatomy of the Salivary Glands",
+   "page": 520,
+   "q": "Complications if an accessory parotid gland is not removed during parotidectomy:",
+   "opts": [
+    "Sialocele and fistula formation",
+    "Frey's syndrome and facial palsy",
+    "Haemorrhage and infection",
+    "Recurrence of cancer only"
+   ],
+   "ans": 0,
+   "exp": "Sialocele and fistula formation (Book p520)"
+  },
+  {
+   "id": "SURG-C67-013",
+   "sec": "Imaging Investigations of Salivary Glands",
+   "page": 520,
+   "q": "CECT of the salivary gland is used to:",
+   "opts": [
+    "Differentiate inflammatory lesions from neoplasms",
+    "Detect stones",
+    "Differentiate benign from malignant",
+    "Guide FNAC"
+   ],
+   "ans": 0,
+   "exp": "Differentiate inflammatory lesions from neoplasms (Book p520)"
+  },
+  {
+   "id": "SURG-C67-014",
+   "sec": "Imaging Investigations of Salivary Glands",
+   "page": 520,
+   "q": "Best CT modality for salivary gland stones:",
+   "opts": [
+    "NCCT",
+    "CECT",
+    "MRI",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "NCCT (Book p520)"
+  },
+  {
+   "id": "SURG-C67-015",
+   "sec": "Imaging Investigations of Salivary Glands",
+   "page": 520,
+   "q": "Imaging used to differentiate benign from malignant salivary tumours:",
+   "opts": [
+    "MRI",
+    "NCCT",
+    "CECT",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p520)"
+  },
+  {
+   "id": "SURG-C67-016",
+   "sec": "Imaging Investigations of Salivary Glands",
+   "page": 520,
+   "q": "IOC among imaging modalities for salivary glands, also used to guide FNAC:",
+   "opts": [
+    "High resolution USG",
+    "MRI",
+    "NCCT",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "High resolution USG (Book p520)"
+  },
+  {
+   "id": "SURG-C67-017",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "The Milan system is used for:",
+   "opts": [
+    "FNAC of salivary gland lesions",
+    "Histopathological grading",
+    "Radiological staging",
+    "Surgical classification"
+   ],
+   "ans": 0,
+   "exp": "FNAC of salivary gland lesions (Book p521)"
+  },
+  {
+   "id": "SURG-C67-018",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Risk of malignancy in Milan category I (non-diagnostic):",
+   "opts": [
+    "25%",
+    "10%",
+    "20%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "25% (Book p521)"
+  },
+  {
+   "id": "SURG-C67-019",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Management of Milan category I:",
+   "opts": [
+    "Clinical and radiological correlation / repeat FNAC under imaging guidance",
+    "Immediate surgery",
+    "Radiotherapy",
+    "No follow up"
+   ],
+   "ans": 0,
+   "exp": "Clinical and radiological correlation / repeat FNAC under imaging guidance (Book p521)"
+  },
+  {
+   "id": "SURG-C67-020",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Risk of malignancy in Milan category II (non-neoplastic):",
+   "opts": [
+    "10%",
+    "25%",
+    "20%",
+    "35%"
+   ],
+   "ans": 0,
+   "exp": "10% (Book p521)"
+  },
+  {
+   "id": "SURG-C67-021",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Management of Milan category II:",
+   "opts": [
+    "Clinical follow-up and radiological correlation",
+    "Surgery",
+    "Repeat FNAC always",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Clinical follow-up and radiological correlation (Book p521)"
+  },
+  {
+   "id": "SURG-C67-022",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "AUS in the Milan system stands for:",
+   "opts": [
+    "Atypia of undetermined significance",
+    "Adenoma of uncertain source",
+    "Atypical uncharacterised swelling",
+    "Acinar undifferentiated sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Atypia of undetermined significance (Book p521)"
+  },
+  {
+   "id": "SURG-C67-023",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Risk of malignancy in Milan category III (AUS):",
+   "opts": [
+    "20%",
+    "10%",
+    "25%",
+    "35%"
+   ],
+   "ans": 0,
+   "exp": "20% (Book p521)"
+  },
+  {
+   "id": "SURG-C67-024",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Management of Milan category III (AUS):",
+   "opts": [
+    "Repeat FNAC or surgery",
+    "Clinical follow-up only",
+    "Radiotherapy",
+    "No action"
+   ],
+   "ans": 0,
+   "exp": "Repeat FNAC or surgery (Book p521)"
+  },
+  {
+   "id": "SURG-C67-025",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Risk of malignancy in Milan category IVA (benign neoplasm):",
+   "opts": [
+    "<5%",
+    "20%",
+    "35%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "<5% (Book p521)"
+  },
+  {
+   "id": "SURG-C67-026",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "SUMP in the Milan system stands for:",
+   "opts": [
+    "Salivary gland neoplasm of uncertain malignant potential",
+    "Suspicious undetermined malignant pathology",
+    "Salivary undifferentiated malignant process",
+    "Sialadenitis of uncertain metaplastic potential"
+   ],
+   "ans": 0,
+   "exp": "Salivary gland neoplasm of uncertain malignant potential (Book p521)"
+  },
+  {
+   "id": "SURG-C67-027",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Risk of malignancy in Milan category IVB (SUMP):",
+   "opts": [
+    "35%",
+    "<5%",
+    "20%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "35% (Book p521)"
+  },
+  {
+   "id": "SURG-C67-028",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Management of Milan category IVB (SUMP):",
+   "opts": [
+    "Conservative surgery",
+    "Clinical follow-up alone",
+    "Radical surgery",
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Conservative surgery (Book p521)"
+  },
+  {
+   "id": "SURG-C67-029",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Risk of malignancy in Milan category V (suspicious for malignancy):",
+   "opts": [
+    "60%",
+    "35%",
+    "20%",
+    ">90%"
+   ],
+   "ans": 0,
+   "exp": "60% (Book p521)"
+  },
+  {
+   "id": "SURG-C67-030",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Risk of malignancy in Milan category VI (malignant):",
+   "opts": [
+    ">90%",
+    "60%",
+    "35%",
+    "25%"
+   ],
+   "ans": 0,
+   "exp": ">90% (Book p521)"
+  },
+  {
+   "id": "SURG-C67-031",
+   "sec": "Milan System for Salivary Gland Cytopathology",
+   "page": 521,
+   "q": "Management of Milan category VI:",
+   "opts": [
+    "Surgery, extent depending on type and grade of malignancy",
+    "Repeat FNAC",
+    "Clinical follow-up",
+    "Conservative surgery only"
+   ],
+   "ans": 0,
+   "exp": "Surgery, extent depending on type and grade of malignancy (Book p521)"
+  },
+  {
+   "id": "SURG-C67-032",
+   "sec": "Stafne Bone Cyst and Ranula",
+   "page": 521,
+   "q": "Stafne bone cyst is a cyst in the:",
+   "opts": [
+    "Mandible",
+    "Maxilla",
+    "Sublingual gland",
+    "Parotid gland"
+   ],
+   "ans": 0,
+   "exp": "Mandible (Book p521)"
+  },
+  {
+   "id": "SURG-C67-033",
+   "sec": "Stafne Bone Cyst and Ranula",
+   "page": 521,
+   "q": "Stafne bone cyst is the m/c site for:",
+   "opts": [
+    "Ectopic salivary tissue",
+    "Ectopic thyroid tissue",
+    "Ectopic pancreas",
+    "Ectopic parathyroid"
+   ],
+   "ans": 0,
+   "exp": "Ectopic salivary tissue (Book p521)"
+  },
+  {
+   "id": "SURG-C67-034",
+   "sec": "Stafne Bone Cyst and Ranula",
+   "page": 521,
+   "q": "Literal translation of 'ranula':",
+   "opts": [
+    "Frog's belly",
+    "Little swelling",
+    "Water sac",
+    "Frog's eye"
+   ],
+   "ans": 0,
+   "exp": "Frog's belly (Book p521)"
+  },
+  {
+   "id": "SURG-C67-035",
+   "sec": "Stafne Bone Cyst and Ranula",
+   "page": 521,
+   "q": "A ranula is a:",
+   "opts": [
+    "Mucus extravasation cyst involving the sublingual gland",
+    "Mucus retention cyst of the parotid",
+    "Lymphatic malformation",
+    "Dermoid cyst"
+   ],
+   "ans": 0,
+   "exp": "Mucus extravasation cyst involving the sublingual gland (Book p521)"
+  },
+  {
+   "id": "SURG-C67-036",
+   "sec": "Stafne Bone Cyst and Ranula",
+   "page": 521,
+   "q": "Clinical features of a ranula:",
+   "opts": [
+    "Fluctuant swelling in the floor of mouth, brilliantly transilluminant",
+    "Bony hard swelling in the mandible",
+    "Pulsatile neck swelling",
+    "Non-transilluminant parotid swelling"
+   ],
+   "ans": 0,
+   "exp": "Fluctuant swelling in the floor of mouth, brilliantly transilluminant (Book p521)"
+  },
+  {
+   "id": "SURG-C67-037",
+   "sec": "Stafne Bone Cyst and Ranula",
+   "page": 521,
+   "q": "Diagnosis of a ranula:",
+   "opts": [
+    "Based on clinical findings ± FNAC",
+    "Mandatory CT",
+    "Mandatory biopsy",
+    "Sialography only"
+   ],
+   "ans": 0,
+   "exp": "Based on clinical findings ± FNAC (Book p521)"
+  },
+  {
+   "id": "SURG-C67-038",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "Management of a ranula:",
+   "opts": [
+    "Excision of the ranula along with the sublingual gland",
+    "Incision and drainage",
+    "Marsupialization",
+    "Aspiration alone"
+   ],
+   "ans": 0,
+   "exp": "Excision of the ranula along with the sublingual gland (Book p522)"
+  },
+  {
+   "id": "SURG-C67-039",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "M/c structure injured during ranula excision:",
+   "opts": [
+    "Submandibular duct",
+    "Lingual nerve",
+    "Hypoglossal nerve",
+    "Facial artery"
+   ],
+   "ans": 0,
+   "exp": "Submandibular duct (Book p522)"
+  },
+  {
+   "id": "SURG-C67-040",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "M/c nerve injured during ranula excision:",
+   "opts": [
+    "Lingual nerve",
+    "Hypoglossal nerve",
+    "Facial nerve",
+    "Glossopharyngeal nerve"
+   ],
+   "ans": 0,
+   "exp": "Lingual nerve (Book p522)"
+  },
+  {
+   "id": "SURG-C67-041",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "Why are incision & drainage and marsupialization avoided in ranula:",
+   "opts": [
+    "High recurrence rate",
+    "High bleeding risk",
+    "Risk of malignancy",
+    "Poor cosmesis"
+   ],
+   "ans": 0,
+   "exp": "High recurrence rate (Book p522)"
+  },
+  {
+   "id": "SURG-C67-042",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "Brilliantly transilluminant swellings include all EXCEPT:",
+   "opts": [
+    "Lipoma",
+    "Hydrocele",
+    "Cystic hygroma",
+    "Ranula"
+   ],
+   "ans": 0,
+   "exp": "Lipoma (Book p522)"
+  },
+  {
+   "id": "SURG-C67-043",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "Brilliantly transilluminant swelling of the scrotum/epididymis:",
+   "opts": [
+    "Hydrocele and epididymal cyst",
+    "Varicocele",
+    "Testicular tumour",
+    "Hernia"
+   ],
+   "ans": 0,
+   "exp": "Hydrocele and epididymal cyst (Book p522)"
+  },
+  {
+   "id": "SURG-C67-044",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "A plunging ranula is a:",
+   "opts": [
+    "Mucus RETENTION cyst involving the sublingual and submandibular glands",
+    "Mucus extravasation cyst of the sublingual gland alone",
+    "Lymphatic malformation of the neck",
+    "Branchial cyst"
+   ],
+   "ans": 0,
+   "exp": "Mucus RETENTION cyst involving the sublingual and submandibular glands (Book p522)"
+  },
+  {
+   "id": "SURG-C67-045",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "Clinical features of a plunging ranula:",
+   "opts": [
+    "Intra oral plus neck swelling",
+    "Intra oral swelling only",
+    "Neck swelling only",
+    "Parotid swelling"
+   ],
+   "ans": 0,
+   "exp": "Intra oral plus neck swelling (Book p522)"
+  },
+  {
+   "id": "SURG-C67-046",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "Investigation for a plunging ranula:",
+   "opts": [
+    "CT/MRI ± FNAC",
+    "Sialography only",
+    "Plain X-ray",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "CT/MRI ± FNAC (Book p522)"
+  },
+  {
+   "id": "SURG-C67-047",
+   "sec": "Management of Ranula and Plunging Ranula",
+   "page": 522,
+   "q": "Management of a plunging ranula:",
+   "opts": [
+    "Excision of the intra oral swelling and sublingual gland plus aspiration of the neck swelling",
+    "Excision of the neck swelling alone",
+    "Marsupialization",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Excision of the intra oral swelling and sublingual gland plus aspiration of the neck swelling (Book p522)"
+  },
+  {
+   "id": "SURG-C67-048",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Natural history of a mucus retention cyst of minor salivary glands:",
+   "opts": [
+    "M/c resolves spontaneously",
+    "Always turns malignant",
+    "Always needs excision",
+    "Always recurs"
+   ],
+   "ans": 0,
+   "exp": "M/c resolves spontaneously (Book p522)"
+  },
+  {
+   "id": "SURG-C67-049",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Management of a mucus retention cyst that does not reduce:",
+   "opts": [
+    "Simple excision",
+    "Radiotherapy",
+    "Marsupialization",
+    "Sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Simple excision (Book p522)"
+  },
+  {
+   "id": "SURG-C67-050",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "M/c site of acute necrotising sialometaplasia:",
+   "opts": [
+    "Palate (affecting minor salivary glands)",
+    "Buccal mucosa",
+    "Floor of mouth",
+    "Parotid gland"
+   ],
+   "ans": 0,
+   "exp": "Palate (affecting minor salivary glands) (Book p522)"
+  },
+  {
+   "id": "SURG-C67-051",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Appearance of acute necrotising sialometaplasia:",
+   "opts": [
+    "Swelling with a central crater and rolled out margins",
+    "Flat white patch",
+    "Red velvety patch",
+    "Bony hard swelling"
+   ],
+   "ans": 0,
+   "exp": "Swelling with a central crater and rolled out margins (Book p522)"
+  },
+  {
+   "id": "SURG-C67-052",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Purpose of biopsy in acute necrotising sialometaplasia:",
+   "opts": [
+    "To rule out cancer",
+    "To confirm infection",
+    "To grade dysplasia",
+    "To plan radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "To rule out cancer (Book p522)"
+  },
+  {
+   "id": "SURG-C67-053",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Natural course of acute necrotising sialometaplasia:",
+   "opts": [
+    "Heals in a few weeks",
+    "Progresses to cancer",
+    "Needs wide excision",
+    "Persists lifelong"
+   ],
+   "ans": 0,
+   "exp": "Heals in a few weeks (Book p522)"
+  },
+  {
+   "id": "SURG-C67-054",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Risk factor for parotid abscess:",
+   "opts": [
+    "Immunocompromised state (diabetics)",
+    "Young age",
+    "Female sex",
+    "Smoking"
+   ],
+   "ans": 0,
+   "exp": "Immunocompromised state (diabetics) (Book p522)"
+  },
+  {
+   "id": "SURG-C67-055",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Cause of excruciating pain in parotid abscess:",
+   "opts": [
+    "Stretch of the capsule",
+    "Nerve infiltration",
+    "Duct obstruction",
+    "Bone erosion"
+   ],
+   "ans": 0,
+   "exp": "Stretch of the capsule (Book p522)"
+  },
+  {
+   "id": "SURG-C67-056",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Fluctuation in parotid abscess is a:",
+   "opts": [
+    "Late sign",
+    "Early sign",
+    "Never present",
+    "Diagnostic first sign"
+   ],
+   "ans": 0,
+   "exp": "Late sign (Book p522)"
+  },
+  {
+   "id": "SURG-C67-057",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "page": 522,
+   "q": "Diagnosis of parotid abscess:",
+   "opts": [
+    "Clinical diagnosis / USG",
+    "Mandatory CT",
+    "FNAC",
+    "Sialography"
+   ],
+   "ans": 0,
+   "exp": "Clinical diagnosis / USG (Book p522)"
+  },
+  {
+   "id": "SURG-C67-058",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Management of a parotid abscess:",
+   "opts": [
+    "Incision and drainage using Hilton's method",
+    "Wide local excision",
+    "Total parotidectomy",
+    "Antibiotics alone always"
+   ],
+   "ans": 0,
+   "exp": "Incision and drainage using Hilton's method (Book p523)"
+  },
+  {
+   "id": "SURG-C67-059",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "In Hilton's method the forceps are opened:",
+   "opts": [
+    "Parallel to the vital structures (facial nerve) while breaking loculi",
+    "Perpendicular to the facial nerve",
+    "Only after nerve division",
+    "Randomly"
+   ],
+   "ans": 0,
+   "exp": "Parallel to the vital structures (facial nerve) while breaking loculi (Book p523)"
+  },
+  {
+   "id": "SURG-C67-060",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Incision used for draining a parotid abscess:",
+   "opts": [
+    "Transverse facial incision",
+    "Vertical midline incision",
+    "Lazy S incision",
+    "Hockey stick incision"
+   ],
+   "ans": 0,
+   "exp": "Transverse facial incision (Book p523)"
+  },
+  {
+   "id": "SURG-C67-061",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Age group of recurrent parotitis in childhood:",
+   "opts": [
+    "3-6 years",
+    "0-1 year",
+    "10-15 years",
+    "16-20 years"
+   ],
+   "ans": 0,
+   "exp": "3-6 years (Book p523)"
+  },
+  {
+   "id": "SURG-C67-062",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Clinical features of recurrent parotitis in childhood:",
+   "opts": [
+    "Rapid swelling of one or both glands, aggravated by chewing and eating",
+    "Painless slow swelling",
+    "Only unilateral fixed swelling",
+    "Swelling unrelated to food"
+   ],
+   "ans": 0,
+   "exp": "Rapid swelling of one or both glands, aggravated by chewing and eating (Book p523)"
+  },
+  {
+   "id": "SURG-C67-063",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Typical course of recurrent parotitis in childhood:",
+   "opts": [
+    "Symptoms for 1 week → quiescent period → recurrence",
+    "Continuous symptoms lifelong",
+    "Single episode only",
+    "Progression to abscess always"
+   ],
+   "ans": 0,
+   "exp": "Symptoms for 1 week → quiescent period → recurrence (Book p523)"
+  },
+  {
+   "id": "SURG-C67-064",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Investigation of choice in recurrent parotitis of childhood:",
+   "opts": [
+    "USG",
+    "MRI",
+    "Sialography",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "USG (Book p523)"
+  },
+  {
+   "id": "SURG-C67-065",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Snowstorm appearance on USG refers to:",
+   "opts": [
+    "Multiple hypo and hyper echoic areas",
+    "A single anechoic cyst",
+    "Uniform hyperechoic gland",
+    "Calcified duct"
+   ],
+   "ans": 0,
+   "exp": "Multiple hypo and hyper echoic areas (Book p523)"
+  },
+  {
+   "id": "SURG-C67-066",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "page": 523,
+   "q": "Treatment of recurrent parotitis in childhood:",
+   "opts": [
+    "Long course of antibiotics plus endoscopic washouts",
+    "Superficial parotidectomy",
+    "Radiotherapy",
+    "Duct ligation"
+   ],
+   "ans": 0,
+   "exp": "Long course of antibiotics plus endoscopic washouts (Book p523)"
+  },
+  {
+   "id": "SURG-C67-067",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Sialolithiasis means:",
+   "opts": [
+    "Stones in the salivary glands",
+    "Inflammation of the salivary glands",
+    "Tumour of the salivary glands",
+    "Fistula of the duct"
+   ],
+   "ans": 0,
+   "exp": "Stones in the salivary glands (Book p523)"
+  },
+  {
+   "id": "SURG-C67-068",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "M/c salivary gland involved by stones:",
+   "opts": [
+    "Submandibular gland",
+    "Parotid gland",
+    "Sublingual gland",
+    "Minor salivary glands"
+   ],
+   "ans": 0,
+   "exp": "Submandibular gland (Book p523)"
+  },
+  {
+   "id": "SURG-C67-069",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Reasons submandibular stones are commoner:",
+   "opts": [
+    "Antigravity drainage and more viscous secretions",
+    "Shorter duct and watery secretions",
+    "Ectodermal origin",
+    "Higher blood supply"
+   ],
+   "ans": 0,
+   "exp": "Antigravity drainage and more viscous secretions (Book p523)"
+  },
+  {
+   "id": "SURG-C67-070",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "M/c composition of salivary stones:",
+   "opts": [
+    "Calcium phosphate — Ca3(PO4)2",
+    "Calcium oxalate",
+    "Uric acid",
+    "Cystine"
+   ],
+   "ans": 0,
+   "exp": "Calcium phosphate — Ca3(PO4)2 (Book p523)"
+  },
+  {
+   "id": "SURG-C67-071",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Classical presentation of sialolithiasis:",
+   "opts": [
+    "Post prandial painful neck swelling",
+    "Painless slow growing swelling",
+    "Fever with rash",
+    "Nocturnal swelling"
+   ],
+   "ans": 0,
+   "exp": "Post prandial painful neck swelling (Book p523)"
+  },
+  {
+   "id": "SURG-C67-072",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "IOC for sialolithiasis:",
+   "opts": [
+    "NCCT",
+    "CECT",
+    "MRI",
+    "USG"
+   ],
+   "ans": 0,
+   "exp": "NCCT (Book p523)"
+  },
+  {
+   "id": "SURG-C67-073",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Percentage of salivary stones that are radio opaque:",
+   "opts": [
+    "80%",
+    "20%",
+    "50%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "80% (Book p523)"
+  },
+  {
+   "id": "SURG-C67-074",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "First line treatment of sialolithiasis:",
+   "opts": [
+    "Endoscopic management",
+    "Duct slitting",
+    "ESWL",
+    "Gland excision"
+   ],
+   "ans": 0,
+   "exp": "Endoscopic management (Book p523)"
+  },
+  {
+   "id": "SURG-C67-075",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Stones amenable to endoscopic management:",
+   "opts": [
+    "<5 mm distal stones and intraparenchymal 5-7 mm stones",
+    ">10 mm distal stones",
+    "All stones regardless of size",
+    "Only non-visualised stones"
+   ],
+   "ans": 0,
+   "exp": "<5 mm distal stones and intraparenchymal 5-7 mm stones (Book p523)"
+  },
+  {
+   "id": "SURG-C67-076",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Management if endoscopy fails or the distal stone is >5 mm:",
+   "opts": [
+    "Duct slitting",
+    "ESWL",
+    "Gland excision",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Duct slitting (Book p523)"
+  },
+  {
+   "id": "SURG-C67-077",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Management of a non-palpable and non-visualized stone:",
+   "opts": [
+    "ESWL",
+    "Duct slitting",
+    "Endoscopy",
+    "Gland excision"
+   ],
+   "ans": 0,
+   "exp": "ESWL (Book p523)"
+  },
+  {
+   "id": "SURG-C67-078",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "Excision of the gland in sialolithiasis is:",
+   "opts": [
+    "The last resort",
+    "The first line",
+    "Never done",
+    "Routine"
+   ],
+   "ans": 0,
+   "exp": "The last resort (Book p523)"
+  },
+  {
+   "id": "SURG-C67-079",
+   "sec": "Sialolithiasis",
+   "page": 523,
+   "q": "NCCT is the IOC in all of the following EXCEPT:",
+   "opts": [
+    "Salivary gland tumour",
+    "Salivary stone",
+    "Renal stone",
+    "Head injury"
+   ],
+   "ans": 0,
+   "exp": "Salivary gland tumour (Book p523)"
+  },
+  {
+   "id": "SURG-C67-080",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Rule regarding gland size and tumour behaviour:",
+   "opts": [
+    "Larger glands m/c benign tumors, smaller glands m/c malignant tumors",
+    "Larger glands m/c malignant",
+    "All glands equally malignant",
+    "Only minor glands get benign tumours"
+   ],
+   "ans": 0,
+   "exp": "Larger glands m/c benign tumors, smaller glands m/c malignant tumors (Book p524)"
+  },
+  {
+   "id": "SURG-C67-081",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Percentage of parotid tumours that are benign:",
+   "opts": [
+    "90%",
+    "50%",
+    "20%",
+    "10%"
+   ],
+   "ans": 0,
+   "exp": "90% (Book p524)"
+  },
+  {
+   "id": "SURG-C67-082",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Percentage of submandibular gland tumours that are malignant:",
+   "opts": [
+    "50%",
+    "10%",
+    "80%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "50% (Book p524)"
+  },
+  {
+   "id": "SURG-C67-083",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Percentage of sublingual gland tumours that are malignant:",
+   "opts": [
+    "80%",
+    "10%",
+    "50%",
+    "20%"
+   ],
+   "ans": 0,
+   "exp": "80% (Book p524)"
+  },
+  {
+   "id": "SURG-C67-084",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Percentage of minor salivary gland tumours that are malignant:",
+   "opts": [
+    "90%",
+    "10%",
+    "50%",
+    "80%"
+   ],
+   "ans": 0,
+   "exp": "90% (Book p524)"
+  },
+  {
+   "id": "SURG-C67-085",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Classical clinical sign of a parotid tumour:",
+   "opts": [
+    "Swelling on the side of the face that lifts the ear lobule",
+    "Swelling depressing the ear lobule",
+    "Midline neck swelling",
+    "Swelling moving with deglutition"
+   ],
+   "ans": 0,
+   "exp": "Swelling on the side of the face that lifts the ear lobule (Book p524)"
+  },
+  {
+   "id": "SURG-C67-086",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "M/c lobe involved in parotid tumours:",
+   "opts": [
+    "Superficial lobe",
+    "Deep lobe",
+    "Accessory lobe",
+    "Both equally"
+   ],
+   "ans": 0,
+   "exp": "Superficial lobe (Book p524)"
+  },
+  {
+   "id": "SURG-C67-087",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Cause of pain in parotid tumour:",
+   "opts": [
+    "Stretching of the capsule/fascia",
+    "Duct obstruction",
+    "Bone erosion",
+    "Venous congestion"
+   ],
+   "ans": 0,
+   "exp": "Stretching of the capsule/fascia (Book p524)"
+  },
+  {
+   "id": "SURG-C67-088",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "Sign of deep lobe parotid enlargement:",
+   "opts": [
+    "Tonsillar fossa pushed medially",
+    "Ear lobule depressed",
+    "Trismus only",
+    "Tongue deviation"
+   ],
+   "ans": 0,
+   "exp": "Tonsillar fossa pushed medially (Book p524)"
+  },
+  {
+   "id": "SURG-C67-089",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "IOC for a parotid tumour:",
+   "opts": [
+    "FNAC",
+    "CT",
+    "MRI",
+    "Biopsy"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p524)"
+  },
+  {
+   "id": "SURG-C67-090",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "M/c parotid tumour overall (benign):",
+   "opts": [
+    "Pleomorphic adenoma",
+    "Warthin's tumor",
+    "Hemangioma",
+    "Mucoepidermoid carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Pleomorphic adenoma (Book p524)"
+  },
+  {
+   "id": "SURG-C67-091",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "M/c parotid tumour in children:",
+   "opts": [
+    "Hemangioma",
+    "Pleomorphic adenoma",
+    "Warthin's tumor",
+    "Adenoid cystic carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Hemangioma (Book p524)"
+  },
+  {
+   "id": "SURG-C67-092",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "page": 524,
+   "q": "M/c malignant parotid tumour:",
+   "opts": [
+    "Mucoepidermoid carcinoma",
+    "Adenoid cystic carcinoma",
+    "Acinic cell carcinoma",
+    "Squamous cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Mucoepidermoid carcinoma (Book p524)"
+  },
+  {
+   "id": "SURG-C67-093",
+   "sec": "Pleomorphic Adenoma",
+   "page": 524,
+   "q": "M/c tumour of the parotid gland:",
+   "opts": [
+    "Pleomorphic adenoma",
+    "Warthin's tumor",
+    "Mucoepidermoid carcinoma",
+    "Adenoid cystic carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Pleomorphic adenoma (Book p524)"
+  },
+  {
+   "id": "SURG-C67-094",
+   "sec": "Pleomorphic Adenoma",
+   "page": 524,
+   "q": "Demographics of pleomorphic adenoma:",
+   "opts": [
+    "M/c in females, 5th decade (range 3rd-6th decade)",
+    "M/c in males, 6th decade",
+    "M/c in children",
+    "M/c in males, 2nd decade"
+   ],
+   "ans": 0,
+   "exp": "M/c in females, 5th decade (range 3rd-6th decade) (Book p524)"
+  },
+  {
+   "id": "SURG-C67-095",
+   "sec": "Pleomorphic Adenoma",
+   "page": 524,
+   "q": "Clinical features of pleomorphic adenoma:",
+   "opts": [
+    "Slow growing parotid swelling commonly involving the superficial lobe",
+    "Rapidly growing painful swelling",
+    "Bilateral deep lobe swelling",
+    "Ulcerated swelling with nodes"
+   ],
+   "ans": 0,
+   "exp": "Slow growing parotid swelling commonly involving the superficial lobe (Book p524)"
+  },
+  {
+   "id": "SURG-C67-096",
+   "sec": "Pleomorphic Adenoma",
+   "page": 524,
+   "q": "IOC for pleomorphic adenoma:",
+   "opts": [
+    "FNAC",
+    "CT",
+    "MRI",
+    "Excision biopsy"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p524)"
+  },
+  {
+   "id": "SURG-C67-097",
+   "sec": "Pleomorphic Adenoma",
+   "page": 524,
+   "q": "HPE of pleomorphic adenoma:",
+   "opts": [
+    "Epithelial/myoepithelial component in a myxoid background — a triphasic tumour",
+    "Two layers of oncocytic cells with lymphoid stroma",
+    "Swiss cheese pattern",
+    "Mucous and epidermoid cells"
+   ],
+   "ans": 0,
+   "exp": "Epithelial/myoepithelial component in a myxoid background — a triphasic tumour (Book p524)"
+  },
+  {
+   "id": "SURG-C67-098",
+   "sec": "Pleomorphic Adenoma",
+   "page": 524,
+   "q": "IHC pattern of pleomorphic adenoma:",
+   "opts": [
+    "CK7 strong and diffuse",
+    "cKit positive ductal cells only",
+    "CD34 positive",
+    "Chromogranin positive"
+   ],
+   "ans": 0,
+   "exp": "CK7 strong and diffuse (Book p524)"
+  },
+  {
+   "id": "SURG-C67-099",
+   "sec": "Pleomorphic Adenoma",
+   "page": 524,
+   "q": "Markers expressed by myoepithelial cells in pleomorphic adenoma:",
+   "opts": [
+    "p63, S-100, SOX10, SMA",
+    "cKit, CEA, CA-125",
+    "CD20, CD3",
+    "TTF-1, napsin"
+   ],
+   "ans": 0,
+   "exp": "p63, S-100, SOX10, SMA (Book p524)"
+  },
+  {
+   "id": "SURG-C67-100",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "page": 525,
+   "q": "Management of pleomorphic adenoma:",
+   "opts": [
+    "Superficial parotidectomy",
+    "Enucleation",
+    "Radiotherapy",
+    "Total radical parotidectomy"
+   ],
+   "ans": 0,
+   "exp": "Superficial parotidectomy (Book p525)"
+  },
+  {
+   "id": "SURG-C67-101",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "page": 525,
+   "q": "Cause of high recurrence in pleomorphic adenoma:",
+   "opts": [
+    "Finger like projections left behind if not removed",
+    "Lymphatic spread",
+    "Multicentric origin in both glands",
+    "Haematogenous spread"
+   ],
+   "ans": 0,
+   "exp": "Finger like projections left behind if not removed (Book p525)"
+  },
+  {
+   "id": "SURG-C67-102",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "page": 525,
+   "q": "Mixed malignant tumor is also called:",
+   "opts": [
+    "Carcinoma ex-pleomorphic adenoma",
+    "Warthin's tumor",
+    "Adenoid cystic carcinoma",
+    "Acinic cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Carcinoma ex-pleomorphic adenoma (Book p525)"
+  },
+  {
+   "id": "SURG-C67-103",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "page": 525,
+   "q": "Carcinoma ex-pleomorphic adenoma arises from:",
+   "opts": [
+    "Malignant transformation in a long standing pleomorphic adenoma",
+    "A Warthin's tumour",
+    "De novo in minor glands",
+    "A ranula"
+   ],
+   "ans": 0,
+   "exp": "Malignant transformation in a long standing pleomorphic adenoma (Book p525)"
+  },
+  {
+   "id": "SURG-C67-104",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "page": 525,
+   "q": "Features suggesting malignancy in a parotid swelling include all EXCEPT:",
+   "opts": [
+    "Slow painless growth over years",
+    "Rapid increase in size",
+    "Facial nerve involvement",
+    "Ulceration and lymph node involvement"
+   ],
+   "ans": 0,
+   "exp": "Slow painless growth over years (Book p525)"
+  },
+  {
+   "id": "SURG-C67-105",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "page": 525,
+   "q": "IOC for carcinoma ex-pleomorphic adenoma:",
+   "opts": [
+    "FNAC",
+    "CT",
+    "MRI",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p525)"
+  },
+  {
+   "id": "SURG-C67-106",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "page": 525,
+   "q": "Management of carcinoma ex-pleomorphic adenoma:",
+   "opts": [
+    "Surgery followed by radiotherapy",
+    "Radiotherapy alone",
+    "Chemotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Surgery followed by radiotherapy (Book p525)"
+  },
+  {
+   "id": "SURG-C67-107",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Warthin's tumor is also known as:",
+   "opts": [
+    "Adenoma lymphomatosum",
+    "Ackerman tumor",
+    "Ameloblastoma",
+    "Oncocytoma"
+   ],
+   "ans": 0,
+   "exp": "Adenoma lymphomatosum (Book p525)"
+  },
+  {
+   "id": "SURG-C67-108",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Warthin's tumor is the:",
+   "opts": [
+    "2nd m/c parotid tumor",
+    "M/c parotid tumor",
+    "M/c malignant parotid tumor",
+    "M/c childhood tumor"
+   ],
+   "ans": 0,
+   "exp": "2nd m/c parotid tumor (Book p525)"
+  },
+  {
+   "id": "SURG-C67-109",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Strong aetiological associations of Warthin's tumor:",
+   "opts": [
+    "Smoking and radiation exposure",
+    "Betel quid and alcohol",
+    "HPV infection",
+    "Diabetes"
+   ],
+   "ans": 0,
+   "exp": "Smoking and radiation exposure (Book p525)"
+  },
+  {
+   "id": "SURG-C67-110",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Demographics of Warthin's tumor:",
+   "opts": [
+    "M/c in males, 6th decade",
+    "M/c in females, 5th decade",
+    "M/c in children",
+    "M/c in females, 2nd decade"
+   ],
+   "ans": 0,
+   "exp": "M/c in males, 6th decade (Book p525)"
+  },
+  {
+   "id": "SURG-C67-111",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Site of Warthin's tumor:",
+   "opts": [
+    "Exclusively seen in the parotid",
+    "Exclusively submandibular",
+    "M/c sublingual",
+    "Minor salivary glands"
+   ],
+   "ans": 0,
+   "exp": "Exclusively seen in the parotid (Book p525)"
+  },
+  {
+   "id": "SURG-C67-112",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Percentage of Warthin's tumors that are bilateral:",
+   "opts": [
+    "10%",
+    "50%",
+    "1%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "10% (Book p525)"
+  },
+  {
+   "id": "SURG-C67-113",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Warthin's tumor typically presents as a:",
+   "opts": [
+    "Painful parotid swelling",
+    "Painless hard swelling",
+    "Ulcerated swelling",
+    "Pulsatile swelling"
+   ],
+   "ans": 0,
+   "exp": "Painful parotid swelling (Book p525)"
+  },
+  {
+   "id": "SURG-C67-114",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Malignant transformation in Warthin's tumor is:",
+   "opts": [
+    "Rare",
+    "Very common",
+    "Universal",
+    "Seen in 50%"
+   ],
+   "ans": 0,
+   "exp": "Rare (Book p525)"
+  },
+  {
+   "id": "SURG-C67-115",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "HPE of Warthin's tumor:",
+   "opts": [
+    "Two layers of eosinophilic cells rich in mitochondria with lymphocytic infiltration",
+    "Swiss cheese pattern",
+    "Myxoid background with myoepithelial cells",
+    "Mucous, epidermoid and intermediate cells"
+   ],
+   "ans": 0,
+   "exp": "Two layers of eosinophilic cells rich in mitochondria with lymphocytic infiltration (Book p525)"
+  },
+  {
+   "id": "SURG-C67-116",
+   "sec": "Warthin's Tumor",
+   "page": 525,
+   "q": "Management of Warthin's tumor:",
+   "opts": [
+    "Superficial parotidectomy",
+    "Enucleation",
+    "Radiotherapy",
+    "Total radical parotidectomy"
+   ],
+   "ans": 0,
+   "exp": "Superficial parotidectomy (Book p525)"
+  },
+  {
+   "id": "SURG-C67-117",
+   "sec": "Mucoepidermoid Carcinoma",
+   "page": 525,
+   "q": "M/c salivary gland malignancy in children and young adults:",
+   "opts": [
+    "Mucoepidermoid carcinoma",
+    "Adenoid cystic carcinoma",
+    "Acinic cell carcinoma",
+    "Pleomorphic adenoma"
+   ],
+   "ans": 0,
+   "exp": "Mucoepidermoid carcinoma (Book p525)"
+  },
+  {
+   "id": "SURG-C67-118",
+   "sec": "Mucoepidermoid Carcinoma",
+   "page": 525,
+   "q": "Peak incidence of mucoepidermoid carcinoma:",
+   "opts": [
+    "2nd decade",
+    "5th decade",
+    "6th decade",
+    "8th decade"
+   ],
+   "ans": 0,
+   "exp": "2nd decade (Book p525)"
+  },
+  {
+   "id": "SURG-C67-119",
+   "sec": "Mucoepidermoid Carcinoma",
+   "page": 525,
+   "q": "Risk factor for mucoepidermoid carcinoma:",
+   "opts": [
+    "Radiation/chemotherapy during childhood",
+    "Smoking",
+    "Betel quid",
+    "HPV infection"
+   ],
+   "ans": 0,
+   "exp": "Radiation/chemotherapy during childhood (Book p525)"
+  },
+  {
+   "id": "SURG-C67-120",
+   "sec": "Mucoepidermoid Carcinoma: Features and Management",
+   "page": 526,
+   "q": "Clinical features of mucoepidermoid carcinoma:",
+   "opts": [
+    "Fast growing parotid swelling with possible facial nerve involvement",
+    "Slow painless swelling",
+    "Bilateral swelling",
+    "Swelling in childhood only"
+   ],
+   "ans": 0,
+   "exp": "Fast growing parotid swelling with possible facial nerve involvement (Book p526)"
+  },
+  {
+   "id": "SURG-C67-121",
+   "sec": "Mucoepidermoid Carcinoma: Features and Management",
+   "page": 526,
+   "q": "IOC for mucoepidermoid carcinoma:",
+   "opts": [
+    "FNAC",
+    "CT",
+    "MRI",
+    "Open biopsy"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p526)"
+  },
+  {
+   "id": "SURG-C67-122",
+   "sec": "Mucoepidermoid Carcinoma: Features and Management",
+   "page": 526,
+   "q": "Management of LOW grade mucoepidermoid carcinoma:",
+   "opts": [
+    "Parotidectomy",
+    "Surgery plus radiotherapy",
+    "Radiotherapy alone",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Parotidectomy (Book p526)"
+  },
+  {
+   "id": "SURG-C67-123",
+   "sec": "Mucoepidermoid Carcinoma: Features and Management",
+   "page": 526,
+   "q": "Management of intermediate/high grade mucoepidermoid carcinoma with infiltrative margins:",
+   "opts": [
+    "Surgery plus radiotherapy",
+    "Parotidectomy alone",
+    "Radiotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Surgery plus radiotherapy (Book p526)"
+  },
+  {
+   "id": "SURG-C67-124",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "Adenoid cystic carcinoma is the:",
+   "opts": [
+    "2nd m/c malignant parotid tumor",
+    "M/c malignant parotid tumor",
+    "M/c benign parotid tumor",
+    "M/c childhood tumor"
+   ],
+   "ans": 0,
+   "exp": "2nd m/c malignant parotid tumor (Book p526)"
+  },
+  {
+   "id": "SURG-C67-125",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "Cause of pain in adenoid cystic carcinoma:",
+   "opts": [
+    "Perineural invasion",
+    "Capsular stretch",
+    "Duct obstruction",
+    "Bone erosion"
+   ],
+   "ans": 0,
+   "exp": "Perineural invasion (Book p526)"
+  },
+  {
+   "id": "SURG-C67-126",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "HPE finding in adenoid cystic carcinoma:",
+   "opts": [
+    "Swiss cheese pattern",
+    "Triphasic myxoid pattern",
+    "Two layers of oncocytes",
+    "Keratin pearls"
+   ],
+   "ans": 0,
+   "exp": "Swiss cheese pattern (Book p526)"
+  },
+  {
+   "id": "SURG-C67-127",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "IHC of ductal cells in adenoid cystic carcinoma:",
+   "opts": [
+    "cKit positive",
+    "p63 positive",
+    "SMA positive",
+    "S-100 positive"
+   ],
+   "ans": 0,
+   "exp": "cKit positive (Book p526)"
+  },
+  {
+   "id": "SURG-C67-128",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "IHC of myoepithelial cells in adenoid cystic carcinoma:",
+   "opts": [
+    "p63 and SMA",
+    "cKit and CEA",
+    "CD34 and CD31",
+    "TTF-1"
+   ],
+   "ans": 0,
+   "exp": "p63 and SMA (Book p526)"
+  },
+  {
+   "id": "SURG-C67-129",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "Management of adenoid cystic carcinoma:",
+   "opts": [
+    "Surgery plus radiotherapy",
+    "Surgery alone",
+    "Radiotherapy alone",
+    "Chemotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Surgery plus radiotherapy (Book p526)"
+  },
+  {
+   "id": "SURG-C67-130",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "Resection margin for malignant salivary gland tumours:",
+   "opts": [
+    "0.5 cm",
+    "1 cm",
+    "2 cm",
+    "5 cm"
+   ],
+   "ans": 0,
+   "exp": "0.5 cm (Book p526)"
+  },
+  {
+   "id": "SURG-C67-131",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "Indications for elective supraomohyoid neck dissection in salivary malignancy:",
+   "opts": [
+    "T3/T4 tumors and high grade tumors",
+    "All T1 tumours",
+    "Benign tumours",
+    "Only node positive disease"
+   ],
+   "ans": 0,
+   "exp": "T3/T4 tumors and high grade tumors (Book p526)"
+  },
+  {
+   "id": "SURG-C67-132",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "Indications for adjuvant radiotherapy in salivary gland malignancy include all EXCEPT:",
+   "opts": [
+    "Stage 1 low grade tumour with clear margins",
+    "Stage 3 & 4 tumors",
+    "High grade tumours",
+    "PNI/LVI and extra nodal spread"
+   ],
+   "ans": 0,
+   "exp": "Stage 1 low grade tumour with clear margins (Book p526)"
+  },
+  {
+   "id": "SURG-C67-133",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "page": 526,
+   "q": "PNI and LVI stand for:",
+   "opts": [
+    "Perineural invasion and lymphovascular invasion",
+    "Peripheral nodal involvement and low volume invasion",
+    "Post nodal irradiation and left ventricular index",
+    "Partial nerve injury and lymph vessel inflammation"
+   ],
+   "ans": 0,
+   "exp": "Perineural invasion and lymphovascular invasion (Book p526)"
+  },
+  {
+   "id": "SURG-C67-134",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Incision used for parotidectomy:",
+   "opts": [
+    "Lazy S / modified Blair's incision",
+    "Transverse facial incision",
+    "Hockey stick incision",
+    "MacFee incision"
+   ],
+   "ans": 0,
+   "exp": "Lazy S / modified Blair's incision (Book p527)"
+  },
+  {
+   "id": "SURG-C67-135",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Purpose of the lazy S incision placement 2 finger breadths below the angle of mandible:",
+   "opts": [
+    "Prevent injury to the marginal mandibular nerve",
+    "Improve cosmesis only",
+    "Reduce bleeding",
+    "Access the deep lobe"
+   ],
+   "ans": 0,
+   "exp": "Prevent injury to the marginal mandibular nerve (Book p527)"
+  },
+  {
+   "id": "SURG-C67-136",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Total CONSERVATIVE parotidectomy involves:",
+   "opts": [
+    "Superficial plus deep lobe removal with the facial nerve preserved",
+    "Superficial lobe removal only",
+    "Superficial + deep lobe with facial nerve sacrificed",
+    "Deep lobe removal only"
+   ],
+   "ans": 0,
+   "exp": "Superficial plus deep lobe removal with the facial nerve preserved (Book p527)"
+  },
+  {
+   "id": "SURG-C67-137",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Total RADICAL parotidectomy involves:",
+   "opts": [
+    "Superficial lobe, deep lobe and facial nerve sacrificed",
+    "Facial nerve preserved",
+    "Superficial lobe only",
+    "Nerve grafting without gland removal"
+   ],
+   "ans": 0,
+   "exp": "Superficial lobe, deep lobe and facial nerve sacrificed (Book p527)"
+  },
+  {
+   "id": "SURG-C67-138",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "M/c nerve used for cable graft after facial nerve sacrifice:",
+   "opts": [
+    "Greater auricular nerve",
+    "Sural nerve",
+    "Hypoglossal nerve",
+    "Lingual nerve"
+   ],
+   "ans": 0,
+   "exp": "Greater auricular nerve (Book p527)"
+  },
+  {
+   "id": "SURG-C67-139",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "BEST nerve graft after facial nerve sacrifice:",
+   "opts": [
+    "Sural nerve graft",
+    "Greater auricular nerve",
+    "Hypoglossal nerve",
+    "Vagus nerve"
+   ],
+   "ans": 0,
+   "exp": "Sural nerve graft (Book p527)"
+  },
+  {
+   "id": "SURG-C67-140",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Marginal mandibular nerve (ramus marginalis) injury causes:",
+   "opts": [
+    "Drooping of the mouth",
+    "Anaesthesia over the beard region",
+    "Gustatory sweating",
+    "Tongue deviation"
+   ],
+   "ans": 0,
+   "exp": "Drooping of the mouth (Book p527)"
+  },
+  {
+   "id": "SURG-C67-141",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Greater auricular nerve injury causes:",
+   "opts": [
+    "Anaesthesia over the beard region",
+    "Drooping of the mouth",
+    "Gustatory sweating",
+    "Shoulder drop"
+   ],
+   "ans": 0,
+   "exp": "Anaesthesia over the beard region (Book p527)"
+  },
+  {
+   "id": "SURG-C67-142",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Most specific pointer for identifying the facial nerve:",
+   "opts": [
+    "Tragal pointer — nerve lies 1 cm inferior and deep",
+    "Styloid process",
+    "Posterior belly of digastric",
+    "Retrograde method"
+   ],
+   "ans": 0,
+   "exp": "Tragal pointer — nerve lies 1 cm inferior and deep (Book p527)"
+  },
+  {
+   "id": "SURG-C67-143",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "Pointers used to locate the facial nerve include all EXCEPT:",
+   "opts": [
+    "Hyoid bone",
+    "Styloid process",
+    "Posterior belly of digastric",
+    "Retrograde method and nerve stimulators"
+   ],
+   "ans": 0,
+   "exp": "Hyoid bone (Book p527)"
+  },
+  {
+   "id": "SURG-C67-144",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "A LOW output parotid fistula (with gland):",
+   "opts": [
+    "Closes spontaneously",
+    "Requires Newman & Seabrook surgery",
+    "Always needs parotidectomy",
+    "Requires radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Closes spontaneously (Book p527)"
+  },
+  {
+   "id": "SURG-C67-145",
+   "sec": "Surgery for the Parotid Gland",
+   "page": 527,
+   "q": "A HIGH output parotid fistula (with duct) is treated by:",
+   "opts": [
+    "Newman & Seabrook surgery",
+    "Observation",
+    "Simple suturing",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Newman & Seabrook surgery (Book p527)"
+  },
+  {
+   "id": "SURG-C67-146",
+   "sec": "Frey's Syndrome",
+   "page": 527,
+   "q": "Frey's syndrome is:",
+   "opts": [
+    "Gustatory sweating",
+    "Facial drooping",
+    "Anaesthesia over the beard region",
+    "Loss of taste"
+   ],
+   "ans": 0,
+   "exp": "Gustatory sweating (Book p527)"
+  },
+  {
+   "id": "SURG-C67-147",
+   "sec": "Frey's Syndrome",
+   "page": 527,
+   "q": "Nerve misdirected in Frey's syndrome:",
+   "opts": [
+    "Auriculotemporal nerve (post ganglionic parasympathetic fibres)",
+    "Greater auricular nerve",
+    "Marginal mandibular nerve",
+    "Lingual nerve"
+   ],
+   "ans": 0,
+   "exp": "Auriculotemporal nerve (post ganglionic parasympathetic fibres) (Book p527)"
+  },
+  {
+   "id": "SURG-C67-148",
+   "sec": "Frey's Syndrome",
+   "page": 527,
+   "q": "Test confirming Frey's syndrome:",
+   "opts": [
+    "Starch iodine test — true colour confirms diagnosis",
+    "Allen's test",
+    "Hilton's test",
+    "Schirmer's test"
+   ],
+   "ans": 0,
+   "exp": "Starch iodine test — true colour confirms diagnosis (Book p527)"
+  },
+  {
+   "id": "SURG-C67-149",
+   "sec": "Frey's Syndrome",
+   "page": 527,
+   "q": "Non-surgical management options for Frey's syndrome:",
+   "opts": [
+    "Botox and anti-perspirants",
+    "Antibiotics",
+    "Steroids",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Botox and anti-perspirants (Book p527)"
+  },
+  {
+   "id": "SURG-C67-150",
+   "sec": "Frey's Syndrome",
+   "page": 527,
+   "q": "Definitive management of Frey's syndrome:",
+   "opts": [
+    "Tympanic neurectomy",
+    "Botox",
+    "Anti-perspirants",
+    "Total parotidectomy"
+   ],
+   "ans": 0,
+   "exp": "Tympanic neurectomy (Book p527)"
+  },
+  {
+   "id": "SURG-C67-151",
+   "sec": "Frey's Syndrome",
+   "page": 527,
+   "q": "Prevention of Frey's syndrome:",
+   "opts": [
+    "Muscle flap (sternocleidomastoid/digastric) to cover the parotid",
+    "Wide excision of skin",
+    "Nerve grafting",
+    "Early feeding"
+   ],
+   "ans": 0,
+   "exp": "Muscle flap (sternocleidomastoid/digastric) to cover the parotid (Book p527)"
+  },
+  {
+   "id": "SURG-C67-152",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Extracapsular dissection is done for:",
+   "opts": [
+    "Benign tumors",
+    "High grade malignancy",
+    "Adenoid cystic carcinoma",
+    "Recurrent malignancy"
+   ],
+   "ans": 0,
+   "exp": "Benign tumors (Book p528)"
+  },
+  {
+   "id": "SURG-C67-153",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Effect of extracapsular dissection on oncological safety:",
+   "opts": [
+    "No effect on oncological safety (recurrence)",
+    "Markedly worsens recurrence",
+    "Eliminates recurrence",
+    "Increases metastasis"
+   ],
+   "ans": 0,
+   "exp": "No effect on oncological safety (recurrence) (Book p528)"
+  },
+  {
+   "id": "SURG-C67-154",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Advantage of extracapsular dissection:",
+   "opts": [
+    "Less incidence of facial nerve injury and Frey's syndrome",
+    "Faster wound healing only",
+    "Less bleeding only",
+    "No scar"
+   ],
+   "ans": 0,
+   "exp": "Less incidence of facial nerve injury and Frey's syndrome (Book p528)"
+  },
+  {
+   "id": "SURG-C67-155",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Purpose of bimanual palpation in a submandibular swelling:",
+   "opts": [
+    "To differentiate the gland swelling from lymph nodes",
+    "To assess the facial nerve",
+    "To detect stones",
+    "To grade malignancy"
+   ],
+   "ans": 0,
+   "exp": "To differentiate the gland swelling from lymph nodes (Book p528)"
+  },
+  {
+   "id": "SURG-C67-156",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "On bimanual palpation:",
+   "opts": [
+    "Submandibular swelling is palpable; lymph nodes are not palpable",
+    "Both are equally palpable",
+    "Lymph nodes are palpable, gland is not",
+    "Neither is palpable"
+   ],
+   "ans": 0,
+   "exp": "Submandibular swelling is palpable; lymph nodes are not palpable (Book p528)"
+  },
+  {
+   "id": "SURG-C67-157",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "M/c BENIGN tumour of the submandibular gland:",
+   "opts": [
+    "Pleomorphic adenoma",
+    "Warthin's tumor",
+    "Adenoid cystic carcinoma",
+    "Hemangioma"
+   ],
+   "ans": 0,
+   "exp": "Pleomorphic adenoma (Book p528)"
+  },
+  {
+   "id": "SURG-C67-158",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "M/c MALIGNANT tumour of the submandibular gland:",
+   "opts": [
+    "Adenoid cystic carcinoma",
+    "Mucoepidermoid carcinoma",
+    "Pleomorphic adenoma",
+    "Squamous cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Adenoid cystic carcinoma (Book p528)"
+  },
+  {
+   "id": "SURG-C67-159",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "IOC for a submandibular gland swelling:",
+   "opts": [
+    "FNAC",
+    "CT",
+    "MRI",
+    "Sialography"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p528)"
+  },
+  {
+   "id": "SURG-C67-160",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Management of a submandibular gland tumour:",
+   "opts": [
+    "Submandibular gland excision",
+    "Enucleation",
+    "Radiotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Submandibular gland excision (Book p528)"
+  },
+  {
+   "id": "SURG-C67-161",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Incision placement in submandibular gland excision:",
+   "opts": [
+    "2 finger breadths below the angle of mandible to prevent marginal mandibular nerve injury",
+    "Directly over the angle of mandible",
+    "In the midline of the neck",
+    "Above the mandible"
+   ],
+   "ans": 0,
+   "exp": "2 finger breadths below the angle of mandible to prevent marginal mandibular nerve injury (Book p528)"
+  },
+  {
+   "id": "SURG-C67-162",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "M/c nerve injured in submandibular gland surgery:",
+   "opts": [
+    "Marginal mandibular nerve",
+    "Lingual nerve",
+    "Hypoglossal nerve",
+    "Facial nerve trunk"
+   ],
+   "ans": 0,
+   "exp": "Marginal mandibular nerve (Book p528)"
+  },
+  {
+   "id": "SURG-C67-163",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Nerves at risk in submandibular gland surgery:",
+   "opts": [
+    "Lingual, marginal mandibular and hypoglossal nerves",
+    "Vagus, phrenic and accessory nerves",
+    "Facial trunk and auriculotemporal nerves",
+    "Glossopharyngeal and trigeminal nerves"
+   ],
+   "ans": 0,
+   "exp": "Lingual, marginal mandibular and hypoglossal nerves (Book p528)"
+  },
+  {
+   "id": "SURG-C67-164",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Vascular structures injured in submandibular gland surgery:",
+   "opts": [
+    "Anterior facial vein and facial artery",
+    "Internal jugular vein and carotid artery",
+    "Retromandibular vein and ECA",
+    "Vertebral artery"
+   ],
+   "ans": 0,
+   "exp": "Anterior facial vein and facial artery (Book p528)"
+  },
+  {
+   "id": "SURG-C67-165",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "M/c tumour of the sublingual and minor salivary glands:",
+   "opts": [
+    "Adenoid cystic carcinoma",
+    "Pleomorphic adenoma",
+    "Warthin's tumor",
+    "Mucoepidermoid carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Adenoid cystic carcinoma (Book p528)"
+  },
+  {
+   "id": "SURG-C67-166",
+   "sec": "Extracapsular Dissection and Submandibular Gland",
+   "page": 528,
+   "q": "Management of sublingual and minor salivary gland tumours:",
+   "opts": [
+    "Excision plus radiotherapy",
+    "Excision alone",
+    "Radiotherapy alone",
+    "Chemotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Excision plus radiotherapy (Book p528)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U67-1",
+   "ch": 67,
+   "n": 1,
+   "title": "Anatomy of the Salivary Glands",
+   "sec": "Anatomy of the Salivary Glands · p520",
+   "qs": [
+    "SURG-C67-001",
+    "SURG-C67-002",
+    "SURG-C67-003",
+    "SURG-C67-004",
+    "SURG-C67-005",
+    "SURG-C67-006",
+    "SURG-C67-007",
+    "SURG-C67-008",
+    "SURG-C67-009",
+    "SURG-C67-010",
+    "SURG-C67-011",
+    "SURG-C67-012"
+   ],
+   "guide": "The parotid is ectodermal; submandibular and sublingual glands are endodermal. Stenson's duct opens opposite the crown of the upper 2nd molar, Wharton's duct on either side of the frenulum. The fasciovenous plane — facial nerve, retromandibular vein, external carotid artery — splits the parotid into a superficial lobe (80%) and deep lobe (20%). An accessory parotid gland is present in 21-61% and, if left behind at parotidectomy, causes sialocele and fistula."
+  },
+  {
+   "id": "SURG-U67-2",
+   "ch": 67,
+   "n": 2,
+   "title": "Imaging Investigations of Salivary Glands",
+   "sec": "Imaging Investigations of Salivary Glands · p520",
+   "qs": [
+    "SURG-C67-013",
+    "SURG-C67-014",
+    "SURG-C67-015",
+    "SURG-C67-016"
+   ],
+   "guide": "Imaging by purpose: CECT separates inflammation from neoplasm, NCCT detects stones, MRI separates benign from malignant, and high resolution USG is the IOC and guides FNAC."
+  },
+  {
+   "id": "SURG-U67-3",
+   "ch": 67,
+   "n": 3,
+   "title": "Milan System for Salivary Gland Cytopathology",
+   "sec": "Milan System for Salivary Gland Cytopathology · p521",
+   "qs": [
+    "SURG-C67-017",
+    "SURG-C67-018",
+    "SURG-C67-019",
+    "SURG-C67-020",
+    "SURG-C67-021",
+    "SURG-C67-022",
+    "SURG-C67-023",
+    "SURG-C67-024",
+    "SURG-C67-025",
+    "SURG-C67-026",
+    "SURG-C67-027",
+    "SURG-C67-028",
+    "SURG-C67-029",
+    "SURG-C67-030",
+    "SURG-C67-031"
+   ],
+   "guide": "Milan system for FNAC: I non-diagnostic 25% (correlate/repeat under imaging); II non-neoplastic 10% (follow up); III AUS 20% (repeat FNAC or surgery); IVA benign <5% (conservative surgery or follow up); IVB SUMP 35% (conservative surgery); V suspicious 60% (surgery); VI malignant >90% (surgery by type and grade)."
+  },
+  {
+   "id": "SURG-U67-4",
+   "ch": 67,
+   "n": 4,
+   "title": "Stafne Bone Cyst and Ranula",
+   "sec": "Stafne Bone Cyst and Ranula · p521",
+   "qs": [
+    "SURG-C67-032",
+    "SURG-C67-033",
+    "SURG-C67-034",
+    "SURG-C67-035",
+    "SURG-C67-036",
+    "SURG-C67-037"
+   ],
+   "guide": "Stafne bone cyst is a mandibular cyst, the m/c site of ectopic salivary tissue. Ranula — 'frog's belly' — is a mucus EXTRAVASATION cyst of the sublingual gland presenting as a fluctuant, brilliantly transilluminant floor of mouth swelling diagnosed clinically ± FNAC."
+  },
+  {
+   "id": "SURG-U67-5",
+   "ch": 67,
+   "n": 5,
+   "title": "Management of Ranula and Plunging Ranula",
+   "sec": "Management of Ranula and Plunging Ranula · p522",
+   "qs": [
+    "SURG-C67-038",
+    "SURG-C67-039",
+    "SURG-C67-040",
+    "SURG-C67-041",
+    "SURG-C67-042",
+    "SURG-C67-043",
+    "SURG-C67-044",
+    "SURG-C67-045",
+    "SURG-C67-046",
+    "SURG-C67-047"
+   ],
+   "guide": "Excise the ranula with the sublingual gland; the submandibular duct is the m/c structure and the lingual nerve the m/c nerve injured. I&D and marsupialization recur too often. Brilliantly transilluminant swellings: hydrocele, meningocele, cystic hygroma, epididymal cyst, ranula. A plunging ranula is a mucus RETENTION cyst of sublingual plus submandibular glands giving intraoral and neck swelling — image with CT/MRI ± FNAC, excise the intraoral part with the sublingual gland and aspirate the neck component."
+  },
+  {
+   "id": "SURG-U67-6",
+   "ch": 67,
+   "n": 6,
+   "title": "Benign Conditions of Minor Salivary Glands and Parotid Abscess",
+   "sec": "Benign Conditions of Minor Salivary Glands and Parotid Abscess · p522",
+   "qs": [
+    "SURG-C67-048",
+    "SURG-C67-049",
+    "SURG-C67-050",
+    "SURG-C67-051",
+    "SURG-C67-052",
+    "SURG-C67-053",
+    "SURG-C67-054",
+    "SURG-C67-055",
+    "SURG-C67-056",
+    "SURG-C67-057"
+   ],
+   "guide": "Mucus retention cysts of minor glands usually resolve; excise if they do not. Acute necrotising sialometaplasia sits on the palate as a central crater with rolled out margins, is biopsied only to exclude cancer, and heals in weeks. Parotid abscess strikes diabetics with excruciating pain from capsular stretch, fever and inflammation; fluctuation comes late and diagnosis is clinical or by USG."
+  },
+  {
+   "id": "SURG-U67-7",
+   "ch": 67,
+   "n": 7,
+   "title": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood",
+   "sec": "Parotid Abscess Drainage and Recurrent Parotitis of Childhood · p523",
+   "qs": [
+    "SURG-C67-058",
+    "SURG-C67-059",
+    "SURG-C67-060",
+    "SURG-C67-061",
+    "SURG-C67-062",
+    "SURG-C67-063",
+    "SURG-C67-064",
+    "SURG-C67-065",
+    "SURG-C67-066"
+   ],
+   "guide": "Drain a parotid abscess by I&D using Hilton's method — forceps opened parallel to the facial nerve — through a transverse facial incision. Recurrent parotitis of childhood affects 3-6 year olds with rapid swelling aggravated by chewing, a week of symptoms then quiescence and recurrence; USG shows a snowstorm of hypo and hyper echoic areas and treatment is a long antibiotic course with endoscopic washouts."
+  },
+  {
+   "id": "SURG-U67-8",
+   "ch": 67,
+   "n": 8,
+   "title": "Sialolithiasis",
+   "sec": "Sialolithiasis · p523",
+   "qs": [
+    "SURG-C67-067",
+    "SURG-C67-068",
+    "SURG-C67-069",
+    "SURG-C67-070",
+    "SURG-C67-071",
+    "SURG-C67-072",
+    "SURG-C67-073",
+    "SURG-C67-074",
+    "SURG-C67-075",
+    "SURG-C67-076",
+    "SURG-C67-077",
+    "SURG-C67-078",
+    "SURG-C67-079"
+   ],
+   "guide": "Sialolithiasis favours the submandibular gland because of antigravity drainage and viscous secretions, with calcium phosphate stones causing post prandial painful swelling. NCCT is the IOC (80% radio opaque). Treat endoscopically for distal stones <5 mm and intraparenchymal 5-7 mm stones, duct slitting if that fails or the distal stone is >5 mm, ESWL for non-palpable non-visualised stones, and gland excision only as a last resort."
+  },
+  {
+   "id": "SURG-U67-9",
+   "ch": 67,
+   "n": 9,
+   "title": "Salivary Gland Tumors: Distribution and Parotid Tumors",
+   "sec": "Salivary Gland Tumors: Distribution and Parotid Tumors · p524",
+   "qs": [
+    "SURG-C67-080",
+    "SURG-C67-081",
+    "SURG-C67-082",
+    "SURG-C67-083",
+    "SURG-C67-084",
+    "SURG-C67-085",
+    "SURG-C67-086",
+    "SURG-C67-087",
+    "SURG-C67-088",
+    "SURG-C67-089",
+    "SURG-C67-090",
+    "SURG-C67-091",
+    "SURG-C67-092"
+   ],
+   "guide": "Larger glands mostly harbour benign tumours: parotid 90% benign, submandibular 50/50, sublingual 80% malignant, minor glands 90% malignant. A parotid tumour lifts the ear lobule, usually from the superficial lobe, hurts from capsular stretch, and pushes the tonsillar fossa medially when deep. FNAC is the IOC. M/c parotid tumour is pleomorphic adenoma; in children, hemangioma; m/c malignant is mucoepidermoid carcinoma > adenoid cystic carcinoma."
+  },
+  {
+   "id": "SURG-U67-10",
+   "ch": 67,
+   "n": 10,
+   "title": "Pleomorphic Adenoma",
+   "sec": "Pleomorphic Adenoma · p524",
+   "qs": [
+    "SURG-C67-093",
+    "SURG-C67-094",
+    "SURG-C67-095",
+    "SURG-C67-096",
+    "SURG-C67-097",
+    "SURG-C67-098",
+    "SURG-C67-099"
+   ],
+   "guide": "Pleomorphic adenoma, the m/c parotid tumour, favours females in the 5th decade and grows slowly in the superficial lobe. FNAC is the IOC; HPE shows a triphasic epithelial/myoepithelial tumour in myxoid background, CK7 strong and diffuse, with myoepithelial cells expressing p63, S-100, SOX10 and SMA."
+  },
+  {
+   "id": "SURG-U67-11",
+   "ch": 67,
+   "n": 11,
+   "title": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma",
+   "sec": "Pleomorphic Adenoma Management and Carcinoma Ex-pleomorphic Adenoma · p525",
+   "qs": [
+    "SURG-C67-100",
+    "SURG-C67-101",
+    "SURG-C67-102",
+    "SURG-C67-103",
+    "SURG-C67-104",
+    "SURG-C67-105",
+    "SURG-C67-106"
+   ],
+   "guide": "Treat pleomorphic adenoma by superficial parotidectomy — its finger like projections cause high recurrence if left. Carcinoma ex-pleomorphic adenoma (mixed malignant tumour) arises in long standing lesions, announced by rapid growth, pain, facial nerve involvement, ulceration and nodes; FNAC confirms and treatment is surgery followed by radiotherapy."
+  },
+  {
+   "id": "SURG-U67-12",
+   "ch": 67,
+   "n": 12,
+   "title": "Warthin's Tumor",
+   "sec": "Warthin's Tumor · p525",
+   "qs": [
+    "SURG-C67-107",
+    "SURG-C67-108",
+    "SURG-C67-109",
+    "SURG-C67-110",
+    "SURG-C67-111",
+    "SURG-C67-112",
+    "SURG-C67-113",
+    "SURG-C67-114",
+    "SURG-C67-115",
+    "SURG-C67-116"
+   ],
+   "guide": "Warthin's tumor (adenoma lymphomatosum) is the 2nd m/c parotid tumour, strongly linked to smoking and radiation, m/c in males in the 6th decade, exclusive to the parotid, bilateral in 10%, painful, and rarely malignant. HPE shows two layers of mitochondria-rich eosinophilic cells with lymphocytic infiltration; treat with superficial parotidectomy."
+  },
+  {
+   "id": "SURG-U67-13",
+   "ch": 67,
+   "n": 13,
+   "title": "Mucoepidermoid Carcinoma",
+   "sec": "Mucoepidermoid Carcinoma · p525",
+   "qs": [
+    "SURG-C67-117",
+    "SURG-C67-118",
+    "SURG-C67-119"
+   ],
+   "guide": "Mucoepidermoid carcinoma is the m/c salivary malignancy of children and young adults, peaking in the 2nd decade, and follows childhood radiation or chemotherapy."
+  },
+  {
+   "id": "SURG-U67-14",
+   "ch": 67,
+   "n": 14,
+   "title": "Mucoepidermoid Carcinoma: Features and Management",
+   "sec": "Mucoepidermoid Carcinoma: Features and Management · p526",
+   "qs": [
+    "SURG-C67-120",
+    "SURG-C67-121",
+    "SURG-C67-122",
+    "SURG-C67-123"
+   ],
+   "guide": "Mucoepidermoid carcinoma grows fast and may involve the facial nerve; FNAC is the IOC. Low grade disease needs parotidectomy alone, while intermediate and high grade tumours with infiltrative margins need surgery plus radiotherapy."
+  },
+  {
+   "id": "SURG-U67-15",
+   "ch": 67,
+   "n": 15,
+   "title": "Adenoid Cystic Carcinoma and Treatment Principles",
+   "sec": "Adenoid Cystic Carcinoma and Treatment Principles · p526",
+   "qs": [
+    "SURG-C67-124",
+    "SURG-C67-125",
+    "SURG-C67-126",
+    "SURG-C67-127",
+    "SURG-C67-128",
+    "SURG-C67-129",
+    "SURG-C67-130",
+    "SURG-C67-131",
+    "SURG-C67-132",
+    "SURG-C67-133"
+   ],
+   "guide": "Adenoid cystic carcinoma is the 2nd m/c malignant parotid tumour and hurts because of perineural invasion; HPE shows a Swiss cheese pattern with cKit positive ductal cells and p63/SMA positive myoepithelial cells, treated by surgery plus radiotherapy. For malignant salivary tumours generally take a 0.5 cm margin, do elective SOHND for T3/T4 and high grade tumours, and add adjuvant RT for stage 3-4, high grade, positive margins, PNI/LVI or extra nodal spread."
+  },
+  {
+   "id": "SURG-U67-16",
+   "ch": 67,
+   "n": 16,
+   "title": "Surgery for the Parotid Gland",
+   "sec": "Surgery for the Parotid Gland · p527",
+   "qs": [
+    "SURG-C67-134",
+    "SURG-C67-135",
+    "SURG-C67-136",
+    "SURG-C67-137",
+    "SURG-C67-138",
+    "SURG-C67-139",
+    "SURG-C67-140",
+    "SURG-C67-141",
+    "SURG-C67-142",
+    "SURG-C67-143",
+    "SURG-C67-144",
+    "SURG-C67-145"
+   ],
+   "guide": "Parotidectomy uses the lazy S / modified Blair's incision placed to spare the marginal mandibular nerve. Total conservative removes both lobes sparing the facial nerve; total radical sacrifices the nerve, repaired by a cable graft — greater auricular m/c, sural best. Complications: haemorrhage, marginal mandibular injury (drooping mouth), greater auricular injury (beard anaesthesia) and facial nerve injury, prevented by pointers — tragal (most specific, nerve 1 cm inferior and deep), styloid process, posterior belly of digastric, retrograde method and nerve stimulators. Low output fistulae close spontaneously; high output duct fistulae need Newman & Seabrook surgery."
+  },
+  {
+   "id": "SURG-U67-17",
+   "ch": 67,
+   "n": 17,
+   "title": "Frey's Syndrome",
+   "sec": "Frey's Syndrome · p527",
+   "qs": [
+    "SURG-C67-146",
+    "SURG-C67-147",
+    "SURG-C67-148",
+    "SURG-C67-149",
+    "SURG-C67-150",
+    "SURG-C67-151"
+   ],
+   "guide": "Frey's syndrome is gustatory sweating from misdirected auriculotemporal post ganglionic parasympathetic fibres, confirmed by the starch iodine test. Manage with botox and anti-perspirants, definitively by tympanic neurectomy, and prevent by covering the parotid with a sternocleidomastoid or digastric muscle flap."
+  },
+  {
+   "id": "SURG-U67-18",
+   "ch": 67,
+   "n": 18,
+   "title": "Extracapsular Dissection and Submandibular Gland",
+   "sec": "Extracapsular Dissection and Submandibular Gland · p528",
+   "qs": [
+    "SURG-C67-152",
+    "SURG-C67-153",
+    "SURG-C67-154",
+    "SURG-C67-155",
+    "SURG-C67-156",
+    "SURG-C67-157",
+    "SURG-C67-158",
+    "SURG-C67-159",
+    "SURG-C67-160",
+    "SURG-C67-161",
+    "SURG-C67-162",
+    "SURG-C67-163",
+    "SURG-C67-164",
+    "SURG-C67-165",
+    "SURG-C67-166"
+   ],
+   "guide": "Extracapsular dissection suits benign tumours: recurrence is unchanged but facial nerve injury and Frey's syndrome are fewer. In a submandibular swelling, bimanual palpation makes the gland palpable while nodes are not; pleomorphic adenoma is the m/c benign and adenoid cystic carcinoma the m/c malignant tumour, diagnosed by FNAC and treated by gland excision through an incision 2 finger breadths below the mandible. Complications: haemorrhage, injury to lingual, marginal mandibular (m/c) and hypoglossal nerves, anterior facial vein and facial artery. Sublingual and minor gland tumours are m/c adenoid cystic carcinoma, treated by excision plus radiotherapy."
+  }
+ ]
+}
