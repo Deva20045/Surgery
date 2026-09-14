@@ -1,0 +1,2181 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C60-001",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Femoral hernia is m/c in:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Only infants",
+    "Only elderly males"
+   ],
+   "ans": 0,
+   "exp": "Females > males (Book p460)"
+  },
+  {
+   "id": "SURG-C60-002",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "MEDIAL boundary of femoral ring:",
+   "opts": [
+    "Lacunar ligament",
+    "Inguinal ligament",
+    "Cooper's ligament",
+    "Femoral vein"
+   ],
+   "ans": 0,
+   "exp": "Lacunar ligament (Book p460)"
+  },
+  {
+   "id": "SURG-C60-003",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "SUPERIOR boundary of femoral ring:",
+   "opts": [
+    "Inguinal ligament",
+    "Lacunar ligament",
+    "Pectineal ligament",
+    "Iliopsoas"
+   ],
+   "ans": 0,
+   "exp": "Inguinal ligament (Book p460)"
+  },
+  {
+   "id": "SURG-C60-004",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "INFERIOR boundary of femoral ring:",
+   "opts": [
+    "Pectineal / Cooper's ligament",
+    "Inguinal ligament",
+    "Lacunar ligament",
+    "Pubic tubercle"
+   ],
+   "ans": 0,
+   "exp": "Pectineal / Cooper's ligament (Book p460)"
+  },
+  {
+   "id": "SURG-C60-005",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "LATERAL boundary of femoral ring:",
+   "opts": [
+    "Septum separating it from femoral vein",
+    "Lacunar ligament",
+    "Iliopsoas tendon",
+    "Pubic tubercle"
+   ],
+   "ans": 0,
+   "exp": "Septum separating it from femoral vein (Book p460)"
+  },
+  {
+   "id": "SURG-C60-006",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Femoral ring is limited in expansion because rigid structures border it on:",
+   "opts": [
+    "3 sides",
+    "1 side",
+    "2 sides",
+    "No side"
+   ],
+   "ans": 0,
+   "exp": "3 sides (Book p460)"
+  },
+  {
+   "id": "SURG-C60-007",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Rigid femoral ring boundaries lead to:",
+   "opts": [
+    "↑rate of strangulation",
+    "Always reducible",
+    "No symptoms",
+    "Bilateral hernia"
+   ],
+   "ans": 0,
+   "exp": "↑rate of strangulation (Book p460)"
+  },
+  {
+   "id": "SURG-C60-008",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Hernia type common in the narrow femoral ring:",
+   "opts": [
+    "Richter's hernia",
+    "Maydl's hernia",
+    "Sliding hernia",
+    "Littre's hernia"
+   ],
+   "ans": 0,
+   "exp": "Richter's hernia (Book p460)"
+  },
+  {
+   "id": "SURG-C60-009",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Inguinal vs femoral hernia in relation to pubic tubercle:",
+   "opts": [
+    "Inguinal above & medial; femoral below & lateral",
+    "Inguinal below & lateral; femoral above & medial",
+    "Both above",
+    "Both below"
+   ],
+   "ans": 0,
+   "exp": "Inguinal above & medial; femoral below & lateral (Book p460)"
+  },
+  {
+   "id": "SURG-C60-010",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Clinical features of femoral hernia:",
+   "opts": [
+    "Pain & swelling",
+    "Only cough impulse",
+    "Scrotal mass",
+    "Dysphagia"
+   ],
+   "ans": 0,
+   "exp": "Pain & swelling (Book p460)"
+  },
+  {
+   "id": "SURG-C60-011",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Psoas abscess as a D/D of femoral hernia shows:",
+   "opts": [
+    "Fever, cross fluctuation & hip in flexion",
+    "Cough impulse",
+    "Irreducibility",
+    "Bowel sounds over swelling"
+   ],
+   "ans": 0,
+   "exp": "Fever, cross fluctuation & hip in flexion (Book p460)"
+  },
+  {
+   "id": "SURG-C60-012",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Saphena varix is:",
+   "opts": [
+    "Dilated terminal end of great saphenous vein",
+    "Enlarged lymph node",
+    "Femoral hernia",
+    "Lipoma"
+   ],
+   "ans": 0,
+   "exp": "Dilated terminal end of great saphenous vein (Book p460)"
+  },
+  {
+   "id": "SURG-C60-013",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Ix of femoral hernia:",
+   "opts": [
+    "USG",
+    "MRI",
+    "CXR",
+    "NCCT"
+   ],
+   "ans": 0,
+   "exp": "USG (Book p460)"
+  },
+  {
+   "id": "SURG-C60-014",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features",
+   "page": 460,
+   "q": "Psoas abscess sign of the hip:",
+   "opts": [
+    "Hip in flexion",
+    "Hip in extension",
+    "Hip in abduction",
+    "Hip fixed in adduction"
+   ],
+   "ans": 0,
+   "exp": "Hip in flexion (Book p460)"
+  },
+  {
+   "id": "SURG-C60-015",
+   "sec": "Femoral Hernia: Management and Special Types",
+   "page": 461,
+   "q": "Surgery of choice for femoral hernia:",
+   "opts": [
+    "Laparoscopic hernioplasty",
+    "Lockwood repair",
+    "McEvedy repair",
+    "Taxis"
+   ],
+   "ans": 0,
+   "exp": "Laparoscopic hernioplasty (Book p461)"
+  },
+  {
+   "id": "SURG-C60-016",
+   "sec": "Femoral Hernia: Management and Special Types",
+   "page": 461,
+   "q": "LOW approach femoral hernia repair:",
+   "opts": [
+    "Lockwood repair — below inguinal ligament — uncomplicated hernia",
+    "Above the ligament",
+    "McEvedy",
+    "For strangulation"
+   ],
+   "ans": 0,
+   "exp": "Lockwood repair — below inguinal ligament — uncomplicated hernia (Book p461)"
+  },
+  {
+   "id": "SURG-C60-017",
+   "sec": "Femoral Hernia: Management and Special Types",
+   "page": 461,
+   "q": "HIGH approach femoral hernia repair:",
+   "opts": [
+    "McEvedy repair — above inguinal ligament — strangulated/obstructed hernia",
+    "Below the ligament",
+    "Lockwood",
+    "Only elective"
+   ],
+   "ans": 0,
+   "exp": "McEvedy repair — above inguinal ligament — strangulated/obstructed hernia (Book p461)"
+  },
+  {
+   "id": "SURG-C60-018",
+   "sec": "Femoral Hernia: Management and Special Types",
+   "page": 461,
+   "q": "LAUGIER'S hernia:",
+   "opts": [
+    "Through lacunar ligament; ↑risk of strangulation",
+    "Behind femoral vessels",
+    "Through obturator canal",
+    "In front of vessels"
+   ],
+   "ans": 0,
+   "exp": "Through lacunar ligament; ↑risk of strangulation (Book p461)"
+  },
+  {
+   "id": "SURG-C60-019",
+   "sec": "Femoral Hernia: Management and Special Types",
+   "page": 461,
+   "q": "NARATH'S hernia is seen in:",
+   "opts": [
+    "Congenital dislocation of hip",
+    "Cirrhosis",
+    "Pregnancy",
+    "Athletes"
+   ],
+   "ans": 0,
+   "exp": "Congenital dislocation of hip (Book p461)"
+  },
+  {
+   "id": "SURG-C60-020",
+   "sec": "Femoral Hernia: Management and Special Types",
+   "page": 461,
+   "q": "SERAFINI hernia:",
+   "opts": [
+    "Retrovascular (behind femoral vessels)",
+    "Prevascular",
+    "Through lacunar ligament",
+    "Through obturator canal"
+   ],
+   "ans": 0,
+   "exp": "Retrovascular (behind femoral vessels) (Book p461)"
+  },
+  {
+   "id": "SURG-C60-021",
+   "sec": "Femoral Hernia: Management and Special Types",
+   "page": 461,
+   "q": "VELPEAU hernia:",
+   "opts": [
+    "Prevascular (in front of femoral vessels)",
+    "Retrovascular",
+    "Through lacunar ligament",
+    "Behind iliopsoas"
+   ],
+   "ans": 0,
+   "exp": "Prevascular (in front of femoral vessels) (Book p461)"
+  },
+  {
+   "id": "SURG-C60-022",
+   "sec": "Ventral Hernias: Types and EHS Classification",
+   "page": 461,
+   "q": "Ventral hernias are:",
+   "opts": [
+    "Abdominal wall hernias",
+    "Only diaphragmatic",
+    "Intra-abdominal",
+    "Pelvic floor"
+   ],
+   "ans": 0,
+   "exp": "Abdominal wall hernias (Book p461)"
+  },
+  {
+   "id": "SURG-C60-023",
+   "sec": "Ventral Hernias: Types and EHS Classification",
+   "page": 461,
+   "q": "The m/c ventral hernia:",
+   "opts": [
+    "Incisional",
+    "Umbilical",
+    "Epigastric",
+    "Spigelian"
+   ],
+   "ans": 0,
+   "exp": "Incisional (Book p461)"
+  },
+  {
+   "id": "SURG-C60-024",
+   "sec": "Ventral Hernias: Types and EHS Classification",
+   "page": 461,
+   "q": "Ventral hernia types include:",
+   "opts": [
+    "Epigastric, umbilical, paraumbilical, traumatic, Spigelian, lumbar, parastomal & incisional",
+    "Inguinal & femoral only",
+    "Hiatus hernia",
+    "Obturator"
+   ],
+   "ans": 0,
+   "exp": "Epigastric, umbilical, paraumbilical, traumatic, Spigelian, lumbar, parastomal & incisional (Book p461)"
+  },
+  {
+   "id": "SURG-C60-025",
+   "sec": "Ventral Hernias: Types and EHS Classification",
+   "page": 461,
+   "q": "Inguinal hernia under ventral hernias:",
+   "opts": [
+    "Not included",
+    "Included",
+    "Subtype of lumbar",
+    "EHS M3"
+   ],
+   "ans": 0,
+   "exp": "Not included (Book p461)"
+  },
+  {
+   "id": "SURG-C60-026",
+   "sec": "Ventral Hernias: Types and EHS Classification",
+   "page": 461,
+   "q": "EHS midline zones: M1-M5 are:",
+   "opts": [
+    "Subxiphoidal, epigastric, umbilical, infraumbilical & suprapubic",
+    "Subcostal, flank, iliac, lumbar",
+    "Lateral zones",
+    "Five sacs"
+   ],
+   "ans": 0,
+   "exp": "Subxiphoidal, epigastric, umbilical, infraumbilical & suprapubic (Book p461)"
+  },
+  {
+   "id": "SURG-C60-027",
+   "sec": "Ventral Hernias: Types and EHS Classification",
+   "page": 462,
+   "q": "EHS lateral zones L1-L4:",
+   "opts": [
+    "Subcostal, flank, iliac & lumbar",
+    "M1-M5 names",
+    "Epigastric divisions",
+    "Sac sizes"
+   ],
+   "ans": 0,
+   "exp": "Subcostal, flank, iliac & lumbar (Book p462)"
+  },
+  {
+   "id": "SURG-C60-028",
+   "sec": "Ventral Hernias: Types and EHS Classification",
+   "page": 461,
+   "q": "In EHS, the UMBILICAL zone is:",
+   "opts": [
+    "M3",
+    "M1",
+    "M2",
+    "M4"
+   ],
+   "ans": 0,
+   "exp": "M3 (Book p461)"
+  },
+  {
+   "id": "SURG-C60-029",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "Surgery of choice for ventral hernia:",
+   "opts": [
+    "Hernioplasty",
+    "Tissue repair",
+    "Taxis",
+    "Darning"
+   ],
+   "ans": 0,
+   "exp": "Hernioplasty (Book p462)"
+  },
+  {
+   "id": "SURG-C60-030",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "Tissue repair is AVOIDED in ventral hernia because:",
+   "opts": [
+    "↑Tension → ↑Breakdown → Recurrence",
+    "It needs mesh",
+    "It is costlier",
+    "It causes infection only"
+   ],
+   "ans": 0,
+   "exp": "↑Tension → ↑Breakdown → Recurrence (Book p462)"
+  },
+  {
+   "id": "SURG-C60-031",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "ONLAY mesh repair:",
+   "opts": [
+    "Over the rectus sheath",
+    "Behind the muscle",
+    "In the sheath split",
+    "Inside peritoneum"
+   ],
+   "ans": 0,
+   "exp": "Over the rectus sheath (Book p462)"
+  },
+  {
+   "id": "SURG-C60-032",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "INLAY mesh repair:",
+   "opts": [
+    "With the rectus sheath (bridging)",
+    "Over the sheath",
+    "Behind muscle",
+    "Over peritoneum"
+   ],
+   "ans": 0,
+   "exp": "With the rectus sheath (bridging) (Book p462)"
+  },
+  {
+   "id": "SURG-C60-033",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "RETROMUSCULAR repair:",
+   "opts": [
+    "Behind the muscle",
+    "Over the sheath",
+    "With the sheath",
+    "Intraperitoneal"
+   ],
+   "ans": 0,
+   "exp": "Behind the muscle (Book p462)"
+  },
+  {
+   "id": "SURG-C60-034",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "PREPERITONEAL repair:",
+   "opts": [
+    "Over the peritoneum",
+    "Under the peritoneum",
+    "Behind muscle",
+    "Over the sheath"
+   ],
+   "ans": 0,
+   "exp": "Over the peritoneum (Book p462)"
+  },
+  {
+   "id": "SURG-C60-035",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "The m/c intraperitoneal repair:",
+   "opts": [
+    "IPOM (intraperitoneal placement of mesh)",
+    "Onlay",
+    "Inlay",
+    "Darning"
+   ],
+   "ans": 0,
+   "exp": "IPOM (intraperitoneal placement of mesh) (Book p462)"
+  },
+  {
+   "id": "SURG-C60-036",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair",
+   "page": 462,
+   "q": "Mesh used in IPOM:",
+   "opts": [
+    "PTFE — does not adhere to bowel",
+    "Prolene",
+    "Polyester",
+    "Vicryl"
+   ],
+   "ans": 0,
+   "exp": "PTFE — does not adhere to bowel (Book p462)"
+  },
+  {
+   "id": "SURG-C60-037",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "Incisional hernia is formed:",
+   "opts": [
+    "In the region of a scar",
+    "At the umbilicus only",
+    "Through the obturator canal",
+    "In the diaphragm"
+   ],
+   "ans": 0,
+   "exp": "In the region of a scar (Book p462)"
+  },
+  {
+   "id": "SURG-C60-038",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "Incidence after OPEN abdominal surgeries:",
+   "opts": [
+    "30-50%",
+    "1-5%",
+    "70%",
+    "0.5%"
+   ],
+   "ans": 0,
+   "exp": "30-50% (Book p462)"
+  },
+  {
+   "id": "SURG-C60-039",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "Incidence after LAPAROSCOPIC surgeries:",
+   "opts": [
+    "1-5%",
+    "30-50%",
+    "10-20%",
+    "60%"
+   ],
+   "ans": 0,
+   "exp": "1-5% (Book p462)"
+  },
+  {
+   "id": "SURG-C60-040",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "Repair of choice in incisional hernia:",
+   "opts": [
+    "IPOM / Hernioplasty",
+    "Keel repair",
+    "Da Silva repair",
+    "Tissue repair"
+   ],
+   "ans": 0,
+   "exp": "IPOM / Hernioplasty (Book p462)"
+  },
+  {
+   "id": "SURG-C60-041",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "NOT preferred in incisional hernia:",
+   "opts": [
+    "Tissue repair (Keel & Da Silva)",
+    "IPOM",
+    "Hernioplasty",
+    "Mesh repair"
+   ],
+   "ans": 0,
+   "exp": "Tissue repair (Keel & Da Silva) (Book p462)"
+  },
+  {
+   "id": "SURG-C60-042",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "RAMIREZ component separation uses:",
+   "opts": [
+    "Lateral releasing incisions to avoid loss of domain",
+    "Mesh plug",
+    "Tissue gluing",
+    "Muscle cutting"
+   ],
+   "ans": 0,
+   "exp": "Lateral releasing incisions to avoid loss of domain (Book p462)"
+  },
+  {
+   "id": "SURG-C60-043",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "Lateral releasing incisions prevent:",
+   "opts": [
+    "Abdominal compartment syndrome",
+    "Recurrence",
+    "Seroma",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Abdominal compartment syndrome (Book p462)"
+  },
+  {
+   "id": "SURG-C60-044",
+   "sec": "Incisional Hernia",
+   "page": 462,
+   "q": "Indication for Ramirez component separation:",
+   "opts": [
+    "Hernia volume >25% abdominal volume",
+    ">50%",
+    ">5%",
+    "Any size"
+   ],
+   "ans": 0,
+   "exp": "Hernia volume >25% abdominal volume (Book p462)"
+  },
+  {
+   "id": "SURG-C60-045",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Epigastric hernia is also called:",
+   "opts": [
+    "Fatty hernia of linea alba",
+    "Gilmore's groin",
+    "Petit's hernia",
+    "Grynfeltt hernia"
+   ],
+   "ans": 0,
+   "exp": "Fatty hernia of linea alba (Book p463)"
+  },
+  {
+   "id": "SURG-C60-046",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Gender predilection of epigastric hernia:",
+   "opts": [
+    "Males > females",
+    "Females > males",
+    "Equal",
+    "Only females"
+   ],
+   "ans": 0,
+   "exp": "Males > females (Book p463)"
+  },
+  {
+   "id": "SURG-C60-047",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Typical patient of epigastric hernia:",
+   "opts": [
+    "Young, fit males",
+    "Obese multiparous women",
+    "Newborns",
+    "Elderly bedridden"
+   ],
+   "ans": 0,
+   "exp": "Young, fit males (Book p463)"
+  },
+  {
+   "id": "SURG-C60-048",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Site of epigastric hernia:",
+   "opts": [
+    "Anywhere b/w xiphisternum & umbilicus (m/c midline)",
+    "Only below umbilicus",
+    "Lateral to rectus",
+    "In lumbar triangle"
+   ],
+   "ans": 0,
+   "exp": "Anywhere b/w xiphisternum & umbilicus (m/c midline) (Book p463)"
+  },
+  {
+   "id": "SURG-C60-049",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Defect of epigastric hernia:",
+   "opts": [
+    "Single/multiple transverse slits",
+    "Large round ring",
+    "Oblique canal",
+    "Femoral ring"
+   ],
+   "ans": 0,
+   "exp": "Single/multiple transverse slits (Book p463)"
+  },
+  {
+   "id": "SURG-C60-050",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "M/c content of epigastric hernia:",
+   "opts": [
+    "Pre-peritoneal fat",
+    "Bowel",
+    "Omentum only",
+    "Bladder"
+   ],
+   "ans": 0,
+   "exp": "Pre-peritoneal fat (Book p463)"
+  },
+  {
+   "id": "SURG-C60-051",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Epigastric hernia pain mimics:",
+   "opts": [
+    "Peptic ulcer",
+    "Renal colic",
+    "Appendicitis",
+    "Cholecystitis"
+   ],
+   "ans": 0,
+   "exp": "Peptic ulcer (Book p463)"
+  },
+  {
+   "id": "SURG-C60-052",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Mx of epigastric hernia:",
+   "opts": [
+    "Open / laparoscopic (IPOM)",
+    "Taxis",
+    "Truss",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Open / laparoscopic (IPOM) (Book p463)"
+  },
+  {
+   "id": "SURG-C60-053",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "UMBILICAL hernia defect:",
+   "opts": [
+    "Through the umbilical ring — LARGE",
+    "Adjacent to umbilicus",
+    "Narrow slit",
+    "Subxiphoid"
+   ],
+   "ans": 0,
+   "exp": "Through the umbilical ring — LARGE (Book p463)"
+  },
+  {
+   "id": "SURG-C60-054",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "PARAUMBILICAL hernia defect:",
+   "opts": [
+    "Adjacent to umbilicus — NARROW → strangulation / Richter's hernia",
+    "Large ring",
+    "Always wide",
+    "Through rectus only"
+   ],
+   "ans": 0,
+   "exp": "Adjacent to umbilicus — NARROW → strangulation / Richter's hernia (Book p463)"
+  },
+  {
+   "id": "SURG-C60-055",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Umbilicus in umbilical hernia:",
+   "opts": [
+    "Everted",
+    "Forms boundary of defect",
+    "Normal",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Everted (Book p463)"
+  },
+  {
+   "id": "SURG-C60-056",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "In paraumbilical hernia the umbilicus:",
+   "opts": [
+    "Forms the boundary of the defect",
+    "Is everted",
+    "Is inside the sac",
+    "Is removed"
+   ],
+   "ans": 0,
+   "exp": "Forms the boundary of the defect (Book p463)"
+  },
+  {
+   "id": "SURG-C60-057",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Umbilical hernia is seen in:",
+   "opts": [
+    "Newborns & ascites/cirrhosis patients",
+    "Only athletes",
+    "Only elderly males",
+    "Premature only"
+   ],
+   "ans": 0,
+   "exp": "Newborns & ascites/cirrhosis patients (Book p463)"
+  },
+  {
+   "id": "SURG-C60-058",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Paraumbilical hernia is seen in:",
+   "opts": [
+    "Obese patients",
+    "Newborns",
+    "Cirrhosis only",
+    "Children"
+   ],
+   "ans": 0,
+   "exp": "Obese patients (Book p463)"
+  },
+  {
+   "id": "SURG-C60-059",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Mx of newborn umbilical hernia:",
+   "opts": [
+    "Conservative x 2-3 yrs; surgery if it persists",
+    "Immediate surgery",
+    "Truss",
+    "Strapping permanent"
+   ],
+   "ans": 0,
+   "exp": "Conservative x 2-3 yrs; surgery if it persists (Book p463)"
+  },
+  {
+   "id": "SURG-C60-060",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "page": 463,
+   "q": "Mx of paraumbilical hernia:",
+   "opts": [
+    "Early surgery — hernioplasty",
+    "Conservative",
+    "Observation",
+    "Taxis"
+   ],
+   "ans": 0,
+   "exp": "Early surgery — hernioplasty (Book p463)"
+  },
+  {
+   "id": "SURG-C60-061",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Omphalocele & gastroschisis are m/c in:",
+   "opts": [
+    "Newborn children",
+    "Adolescents",
+    "Adults",
+    "Elderly"
+   ],
+   "ans": 0,
+   "exp": "Newborn children (Book p464)"
+  },
+  {
+   "id": "SURG-C60-062",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Omphalocele defect:",
+   "opts": [
+    "Through the umbilicus; bowel fails to return inside",
+    "Adjacent to umbilicus",
+    "Through diaphragm",
+    "Through linea alba above"
+   ],
+   "ans": 0,
+   "exp": "Through the umbilicus; bowel fails to return inside (Book p464)"
+  },
+  {
+   "id": "SURG-C60-063",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Gastroschisis defect:",
+   "opts": [
+    "Adjacent to the umbilicus",
+    "Through the umbilicus",
+    "Retrosternal",
+    "Lumbar"
+   ],
+   "ans": 0,
+   "exp": "Adjacent to the umbilicus (Book p464)"
+  },
+  {
+   "id": "SURG-C60-064",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Peritoneal covering in omphalocele:",
+   "opts": [
+    "Covered with peritoneum (membranous sac)",
+    "Not covered",
+    "Skin covered only",
+    "Partially covered"
+   ],
+   "ans": 0,
+   "exp": "Covered with peritoneum (membranous sac) (Book p464)"
+  },
+  {
+   "id": "SURG-C60-065",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Covering of gastroschisis bowel:",
+   "opts": [
+    "Not covered (exposed bowel)",
+    "Peritoneal sac",
+    "Full skin",
+    "Amnion only"
+   ],
+   "ans": 0,
+   "exp": "Not covered (exposed bowel) (Book p464)"
+  },
+  {
+   "id": "SURG-C60-066",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Complications of omphalocele:",
+   "opts": [
+    "Large defects; liver can also herniate",
+    "Ateresia always",
+    "Perforation only",
+    "Bleeding"
+   ],
+   "ans": 0,
+   "exp": "Large defects; liver can also herniate (Book p464)"
+  },
+  {
+   "id": "SURG-C60-067",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Bowel exposed in gastroschisis ↑ risk of:",
+   "opts": [
+    "Atresia, inflammation & perforation",
+    "Malignancy",
+    "Cirrhosis",
+    "Volvulus only"
+   ],
+   "ans": 0,
+   "exp": "Atresia, inflammation & perforation (Book p464)"
+  },
+  {
+   "id": "SURG-C60-068",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Congenital anomalies association:",
+   "opts": [
+    "Omphalocele — associated with other congenital anomalies; gastroschisis — less",
+    "Gastroschisis — more anomalies",
+    "Both equal",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Omphalocele — associated with other congenital anomalies; gastroschisis — less (Book p464)"
+  },
+  {
+   "id": "SURG-C60-069",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Associations of omphalocele:",
+   "opts": [
+    "Beckwith-Wiedemann syndrome & trisomy 13, 18, 21",
+    "Turner syndrome only",
+    "Marfan syndrome",
+    "Down only"
+   ],
+   "ans": 0,
+   "exp": "Beckwith-Wiedemann syndrome & trisomy 13, 18, 21 (Book p464)"
+  },
+  {
+   "id": "SURG-C60-070",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Organs labelled herniating through the umbilicus in the omphalocele photo:",
+   "opts": [
+    "Liver (under membrane)",
+    "Spleen",
+    "Kidney",
+    "Lung"
+   ],
+   "ans": 0,
+   "exp": "Liver (under membrane) (Book p464)"
+  },
+  {
+   "id": "SURG-C60-071",
+   "sec": "Omphalocele vs Gastroschisis",
+   "page": 464,
+   "q": "Mx sequence of omphalocele/gastroschisis:",
+   "opts": [
+    "Create a SILO (mesh cylinder over defect) → gradually reduce height → internalize the mesh",
+    "Immediate closure",
+    "Truss",
+    "Reimplant bowel"
+   ],
+   "ans": 0,
+   "exp": "Create a SILO (mesh cylinder over defect) → gradually reduce height → internalize the mesh (Book p464)"
+  },
+  {
+   "id": "SURG-C60-072",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "1° lumbar hernia is:",
+   "opts": [
+    "Rare",
+    "M/c",
+    "Always bilateral",
+    "Post-incisional"
+   ],
+   "ans": 0,
+   "exp": "Rare (Book p465)"
+  },
+  {
+   "id": "SURG-C60-073",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "2° lumbar hernia:",
+   "opts": [
+    "M/c; secondary to trauma/surgery/incision",
+    "Congenital only",
+    "Rare",
+    "Through Grynfeltt only"
+   ],
+   "ans": 0,
+   "exp": "M/c; secondary to trauma/surgery/incision (Book p465)"
+  },
+  {
+   "id": "SURG-C60-074",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "D/D: LIPOMA over lumbar area shows:",
+   "opts": [
+    "Slip sign (+) & pseudofluctuation (+)",
+    "Cough impulse",
+    "Bowel sounds",
+    "Transmitted pulsation"
+   ],
+   "ans": 0,
+   "exp": "Slip sign (+) & pseudofluctuation (+) (Book p465)"
+  },
+  {
+   "id": "SURG-C60-075",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "Lumbar PSEUDOHERNIA is d/t:",
+   "opts": [
+    "Muscle weakness (subcostal nerve injury)",
+    "True sac",
+    "Diastasis recti",
+    "Ascites"
+   ],
+   "ans": 0,
+   "exp": "Muscle weakness (subcostal nerve injury) (Book p465)"
+  },
+  {
+   "id": "SURG-C60-076",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "INFERIOR lumbar triangle of Petit — boundaries:",
+   "opts": [
+    "Iliac crest (inferior), external oblique (lateral) & latissimus dorsi (medial)",
+    "12th rib superior",
+    "Internal oblique lateral",
+    "Sacospinalis medial"
+   ],
+   "ans": 0,
+   "exp": "Iliac crest (inferior), external oblique (lateral) & latissimus dorsi (medial) (Book p465)"
+  },
+  {
+   "id": "SURG-C60-077",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "SUPERIOR lumbar triangle of Grynfeltt — boundaries:",
+   "opts": [
+    "Internal oblique (lateral), sacrospinalis (medial) & 12th rib (superior)",
+    "Iliac crest inferior",
+    "External oblique lateral",
+    "Latissimus medial"
+   ],
+   "ans": 0,
+   "exp": "Internal oblique (lateral), sacrospinalis (medial) & 12th rib (superior) (Book p465)"
+  },
+  {
+   "id": "SURG-C60-078",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "Mx of lumbar hernia — open repair:",
+   "opts": [
+    "Dowd Ponka repair (mesh hernioplasty)",
+    "Keel repair",
+    "Bassini",
+    "McVay"
+   ],
+   "ans": 0,
+   "exp": "Dowd Ponka repair (mesh hernioplasty) (Book p465)"
+  },
+  {
+   "id": "SURG-C60-079",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "M/c approach for lumbar hernia mesh hernioplasty:",
+   "opts": [
+    "Laparoscopic",
+    "Open",
+    "Taxis",
+    "Robotic only"
+   ],
+   "ans": 0,
+   "exp": "Laparoscopic (Book p465)"
+  },
+  {
+   "id": "SURG-C60-080",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "SPIGELIAN hernia is also called:",
+   "opts": [
+    "Intra-parietal hernia (in between abdominal muscles)",
+    "Little old lady's hernia",
+    "Fatty hernia of linea alba",
+    "Petit hernia"
+   ],
+   "ans": 0,
+   "exp": "Intra-parietal hernia (in between abdominal muscles) (Book p465)"
+  },
+  {
+   "id": "SURG-C60-081",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "Spigelian hernia course:",
+   "opts": [
+    "Along the outer border of rectus",
+    "Midline",
+    "Below inguinal ligament",
+    "In lumbar triangle"
+   ],
+   "ans": 0,
+   "exp": "Along the outer border of rectus (Book p465)"
+  },
+  {
+   "id": "SURG-C60-082",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "Spigelian fascia is a modification of:",
+   "opts": [
+    "Transversalis fascia",
+    "External oblique",
+    "Internal oblique aponeurosis only",
+    "Rectus sheath only"
+   ],
+   "ans": 0,
+   "exp": "Transversalis fascia (Book p465)"
+  },
+  {
+   "id": "SURG-C60-083",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 465,
+   "q": "Site of Spigelian hernia:",
+   "opts": [
+    "Outer border of rectus, BELOW umbilicus, ABOVE arcuate line",
+    "Above umbilicus",
+    "Below arcuate line",
+    "Midline"
+   ],
+   "ans": 0,
+   "exp": "Outer border of rectus, BELOW umbilicus, ABOVE arcuate line (Book p465)"
+  },
+  {
+   "id": "SURG-C60-084",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 466,
+   "q": "Spigelian defect size:",
+   "opts": [
+    "Children: small; adult: large",
+    "Children large",
+    "Always small",
+    "Always huge"
+   ],
+   "ans": 0,
+   "exp": "Children: small; adult: large (Book p466)"
+  },
+  {
+   "id": "SURG-C60-085",
+   "sec": "Lumbar Hernia and Spigelian Hernia",
+   "page": 466,
+   "q": "Complication of Spigelian hernia:",
+   "opts": [
+    "Strangulation",
+    "Never obstructs",
+    "Fistula",
+    "Malignancy"
+   ],
+   "ans": 0,
+   "exp": "Strangulation (Book p466)"
+  },
+  {
+   "id": "SURG-C60-086",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "OBTURATOR hernia is also called:",
+   "opts": [
+    "Little old lady's hernia",
+    "Spigelian hernia",
+    "Fatty hernia",
+    "Petit hernia"
+   ],
+   "ans": 0,
+   "exp": "Little old lady's hernia (Book p466)"
+  },
+  {
+   "id": "SURG-C60-087",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "Obturator hernia occurs through:",
+   "opts": [
+    "Narrow defect — obturator canal (m/c in elderly multiparous women)",
+    "Wide ring",
+    "Lacunar ligament",
+    "Linea alba"
+   ],
+   "ans": 0,
+   "exp": "Narrow defect — obturator canal (m/c in elderly multiparous women) (Book p466)"
+  },
+  {
+   "id": "SURG-C60-088",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "Obturator hernia complications:",
+   "opts": [
+    "Strangulation & Richter's hernia",
+    "Only irreducibility",
+    "Meshoma",
+    "Hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Strangulation & Richter's hernia (Book p466)"
+  },
+  {
+   "id": "SURG-C60-089",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "Clinical features of obturator hernia:",
+   "opts": [
+    "Bowel obstruction & pain",
+    "Painless swelling in groin",
+    "Scrotal mass",
+    "Dysphagia"
+   ],
+   "ans": 0,
+   "exp": "Bowel obstruction & pain (Book p466)"
+  },
+  {
+   "id": "SURG-C60-090",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "HOWSHIP ROMBERG sign:",
+   "opts": [
+    "Shooting pain along obturator nerve on abduction & medial rotation of hip",
+    "Adductor reflex absent",
+    "Patellar reflex absent",
+    "Pain on cough"
+   ],
+   "ans": 0,
+   "exp": "Shooting pain along obturator nerve on abduction & medial rotation of hip (Book p466)"
+  },
+  {
+   "id": "SURG-C60-091",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "HANNINGTON KIFF sign:",
+   "opts": [
+    "Adductor reflex (–) with patellar reflex (+) — d/t obturator nerve compression",
+    "Both reflexes absent",
+    "Adductor +, patellar –",
+    "Only Babinski +"
+   ],
+   "ans": 0,
+   "exp": "Adductor reflex (–) with patellar reflex (+) — d/t obturator nerve compression (Book p466)"
+  },
+  {
+   "id": "SURG-C60-092",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "Mx of obturator hernia:",
+   "opts": [
+    "Hernioplasty",
+    "Taxis",
+    "Truss",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Hernioplasty (Book p466)"
+  },
+  {
+   "id": "SURG-C60-093",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "RICHTER'S hernia defect:",
+   "opts": [
+    "Very narrow",
+    "Large",
+    "Wide canal",
+    "No defect"
+   ],
+   "ans": 0,
+   "exp": "Very narrow (Book p466)"
+  },
+  {
+   "id": "SURG-C60-094",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "Richter's hernia is seen in:",
+   "opts": [
+    "Paraumbilical, femoral & obturator hernias",
+    "Only inguinoscrotal",
+    "Epigastric only",
+    "Lumbar only"
+   ],
+   "ans": 0,
+   "exp": "Paraumbilical, femoral & obturator hernias (Book p466)"
+  },
+  {
+   "id": "SURG-C60-095",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "Richter's hernia — what herniates?",
+   "opts": [
+    "Protrusion of one wall of bowel (portion of circumference); lumen continuity preserved",
+    "Whole lumen",
+    "Only omentum",
+    "Meckel's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Protrusion of one wall of bowel (portion of circumference); lumen continuity preserved (Book p466)"
+  },
+  {
+   "id": "SURG-C60-096",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "Signs of Richter's hernia:",
+   "opts": [
+    "Gastroenteritis → progress to strangulation/peritonitis",
+    "Full obstruction day 1",
+    "Painless mass",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "Gastroenteritis → progress to strangulation/peritonitis (Book p466)"
+  },
+  {
+   "id": "SURG-C60-097",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "MAYDL'S hernia defect:",
+   "opts": [
+    "Large (W-shaped hernia)",
+    "Very narrow",
+    "Slit",
+    "Ring only"
+   ],
+   "ans": 0,
+   "exp": "Large (W-shaped hernia) (Book p466)"
+  },
+  {
+   "id": "SURG-C60-098",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 466,
+   "q": "In Maydl's hernia, the CONNECTING portion lies:",
+   "opts": [
+    "Intraperitoneal (obstructed loop within peritoneal cavity)",
+    "In the sac always",
+    "Extraperitoneal",
+    "In the cord"
+   ],
+   "ans": 0,
+   "exp": "Intraperitoneal (obstructed loop within peritoneal cavity) (Book p466)"
+  },
+  {
+   "id": "SURG-C60-099",
+   "sec": "Obturator, Richter's and Maydl's Hernia",
+   "page": 467,
+   "q": "Complication of Maydl's hernia affects which part FIRST?",
+   "opts": [
+    "Connecting portion (easily missed during surgery)",
+    "Sac portion",
+    "Proximal bowel",
+    "Omentum"
+   ],
+   "ans": 0,
+   "exp": "Connecting portion (easily missed during surgery) (Book p467)"
+  },
+  {
+   "id": "SURG-C60-100",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "The m/c congenital diaphragmatic hernia:",
+   "opts": [
+    "Bochdalek",
+    "Morgagni",
+    "Hiatus",
+    "Traumatic"
+   ],
+   "ans": 0,
+   "exp": "Bochdalek (Book p467)"
+  },
+  {
+   "id": "SURG-C60-101",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Bochdalek hernia location:",
+   "opts": [
+    "Left postero-lateral",
+    "Right antero-medial",
+    "Central",
+    "Retrosternal"
+   ],
+   "ans": 0,
+   "exp": "Left postero-lateral (Book p467)"
+  },
+  {
+   "id": "SURG-C60-102",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Morgagni hernia location:",
+   "opts": [
+    "Right antero-medial",
+    "Left postero-lateral",
+    "Esophageal",
+    "Lumbar"
+   ],
+   "ans": 0,
+   "exp": "Right antero-medial (Book p467)"
+  },
+  {
+   "id": "SURG-C60-103",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Bochdalek defect:",
+   "opts": [
+    "Defective development of pleuroperitoneal canal/membrane",
+    "Defective central tendon",
+    "Esophageal hiatus",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "Defective development of pleuroperitoneal canal/membrane (Book p467)"
+  },
+  {
+   "id": "SURG-C60-104",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Morgagni defect:",
+   "opts": [
+    "Defective central tendon of diaphragm",
+    "Pleuroperitoneal canal",
+    "Aortic hiatus",
+    "Foramen of Winslow"
+   ],
+   "ans": 0,
+   "exp": "Defective central tendon of diaphragm (Book p467)"
+  },
+  {
+   "id": "SURG-C60-105",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Herniated contents of BOCHDALEK:",
+   "opts": [
+    "Stomach, spleen & transverse colon",
+    "Only transverse colon",
+    "Liver only",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "Stomach, spleen & transverse colon (Book p467)"
+  },
+  {
+   "id": "SURG-C60-106",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Herniated content of MORGAGNI:",
+   "opts": [
+    "Transverse colon",
+    "Stomach & spleen",
+    "Small bowel only",
+    "Liver"
+   ],
+   "ans": 0,
+   "exp": "Transverse colon (Book p467)"
+  },
+  {
+   "id": "SURG-C60-107",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Maternal feature of CDH:",
+   "opts": [
+    "Polyhydramnios in the antenatal period",
+    "Oligohydramnios",
+    "Normal liquor",
+    "Hydrops only"
+   ],
+   "ans": 0,
+   "exp": "Polyhydramnios in the antenatal period (Book p467)"
+  },
+  {
+   "id": "SURG-C60-108",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Newborn features of CDH:",
+   "opts": [
+    "Scaphoid abdomen & respiratory distress",
+    "Distended abdomen",
+    "Bilious vomiting only",
+    "Cyanosis alone"
+   ],
+   "ans": 0,
+   "exp": "Scaphoid abdomen & respiratory distress (Book p467)"
+  },
+  {
+   "id": "SURG-C60-109",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "M/c cause of death in CDH:",
+   "opts": [
+    "Pulmonary hypoplasia → hypoxia",
+    "Pulmonary hypertension",
+    "Sepsis",
+    "Renal failure"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary hypoplasia → hypoxia (Book p467)"
+  },
+  {
+   "id": "SURG-C60-110",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "2nd m/c cause of death in CDH:",
+   "opts": [
+    "Pulmonary hypertension (after pulmonary vasoconstriction)",
+    "Pulmonary hypoplasia",
+    "Pneumothorax",
+    "Cardiac failure"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary hypertension (after pulmonary vasoconstriction) (Book p467)"
+  },
+  {
+   "id": "SURG-C60-111",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 467,
+   "q": "Ix of CDH:",
+   "opts": [
+    "CXR (bowel in thorax; Ryle's tube seen) & bowel sounds (+) in thoracic cavity on auscultation",
+    "MRI",
+    "USG only",
+    "CT"
+   ],
+   "ans": 0,
+   "exp": "CXR (bowel in thorax; Ryle's tube seen) & bowel sounds (+) in thoracic cavity on auscultation (Book p467)"
+  },
+  {
+   "id": "SURG-C60-112",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 468,
+   "q": "Ventilation of choice in CDH:",
+   "opts": [
+    "IPPV (intermittent positive pressure ventilation)",
+    "Bag and mask",
+    "CPAP only",
+    "NIV"
+   ],
+   "ans": 0,
+   "exp": "IPPV (intermittent positive pressure ventilation) (Book p468)"
+  },
+  {
+   "id": "SURG-C60-113",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 468,
+   "q": "If IPPV fails in CDH:",
+   "opts": [
+    "ECMO",
+    "Immediate surgery",
+    "Steroids",
+    "Surfactant only"
+   ],
+   "ans": 0,
+   "exp": "ECMO (Book p468)"
+  },
+  {
+   "id": "SURG-C60-114",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 468,
+   "q": "C/I in CDH ventilation:",
+   "opts": [
+    "Bag and mask ventilation",
+    "IPPV",
+    "ECMO",
+    "Nitrates"
+   ],
+   "ans": 0,
+   "exp": "Bag and mask ventilation (Book p468)"
+  },
+  {
+   "id": "SURG-C60-115",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 468,
+   "q": "Inhaled nitrates in CDH are for:",
+   "opts": [
+    "Pulmonary hypertension",
+    "Sedation",
+    "Analgesia",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary hypertension (Book p468)"
+  },
+  {
+   "id": "SURG-C60-116",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "page": 468,
+   "q": "Surgery of CDH:",
+   "opts": [
+    "Circumferential incision over diaphragm f/b mesh to cover defect",
+    "Thoracotomy closure only",
+    "No surgery",
+    "Lung transplant"
+   ],
+   "ans": 0,
+   "exp": "Circumferential incision over diaphragm f/b mesh to cover defect (Book p468)"
+  },
+  {
+   "id": "SURG-C60-117",
+   "sec": "Internal Hernias",
+   "page": 468,
+   "q": "STEMMER'S hernia:",
+   "opts": [
+    "Through transverse mesocolon",
+    "Behind Roux limb",
+    "Through fossa of Landzert",
+    "Behind SMA"
+   ],
+   "ans": 0,
+   "exp": "Through transverse mesocolon (Book p468)"
+  },
+  {
+   "id": "SURG-C60-118",
+   "sec": "Internal Hernias",
+   "page": 468,
+   "q": "PETERSEN'S hernia:",
+   "opts": [
+    "Behind the Roux limb",
+    "Through transverse mesocolon",
+    "Behind IMV",
+    "Through Waldeyer fossa"
+   ],
+   "ans": 0,
+   "exp": "Behind the Roux limb (Book p468)"
+  },
+  {
+   "id": "SURG-C60-119",
+   "sec": "Internal Hernias",
+   "page": 468,
+   "q": "LEFT paraduodenal hernia passes through:",
+   "opts": [
+    "Fossa of Landzert",
+    "Fossa of Waldeyer",
+    "Petersen defect",
+    "Foramen of Winslow"
+   ],
+   "ans": 0,
+   "exp": "Fossa of Landzert (Book p468)"
+  },
+  {
+   "id": "SURG-C60-120",
+   "sec": "Internal Hernias",
+   "page": 468,
+   "q": "Left paraduodenal hernia mechanism:",
+   "opts": [
+    "Defective fusion of descending colon mesentery",
+    "Defective fusion of ascending colon",
+    "SMA compression",
+    "Gastrojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Defective fusion of descending colon mesentery (Book p468)"
+  },
+  {
+   "id": "SURG-C60-121",
+   "sec": "Internal Hernias",
+   "page": 468,
+   "q": "Left paraduodenal hernia lies behind:",
+   "opts": [
+    "Inferior mesenteric vessel",
+    "Superior mesenteric vessels",
+    "Aorta",
+    "Portal vein"
+   ],
+   "ans": 0,
+   "exp": "Inferior mesenteric vessel (Book p468)"
+  },
+  {
+   "id": "SURG-C60-122",
+   "sec": "Internal Hernias",
+   "page": 468,
+   "q": "RIGHT duodeno-jejunal hernia:",
+   "opts": [
+    "D/t defective fusion of ascending colon mesentery; behind superior mesenteric vessels",
+    "Through Landzert fossa",
+    "Behind IMV",
+    "Through transverse mesocolon"
+   ],
+   "ans": 0,
+   "exp": "D/t defective fusion of ascending colon mesentery; behind superior mesenteric vessels (Book p468)"
+  },
+  {
+   "id": "SURG-C60-123",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "The m/c mesenteric cyst:",
+   "opts": [
+    "Chylolymphatic",
+    "Enterogenous",
+    "Dermoid",
+    "Hydatid"
+   ],
+   "ans": 0,
+   "exp": "Chylolymphatic (Book p469)"
+  },
+  {
+   "id": "SURG-C60-124",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Wall of chylolymphatic cyst:",
+   "opts": [
+    "Thin",
+    "Thick",
+    "Calcified",
+    "Muscular"
+   ],
+   "ans": 0,
+   "exp": "Thin (Book p469)"
+  },
+  {
+   "id": "SURG-C60-125",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Wall of enterogenous cyst:",
+   "opts": [
+    "Thick",
+    "Thin",
+    "Fibrous only",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Thick (Book p469)"
+  },
+  {
+   "id": "SURG-C60-126",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Blood supply of chylolymphatic cyst:",
+   "opts": [
+    "Independent",
+    "Shared with bowel",
+    "From SMA only",
+    "Retrograde"
+   ],
+   "ans": 0,
+   "exp": "Independent (Book p469)"
+  },
+  {
+   "id": "SURG-C60-127",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Blood supply of enterogenous cyst:",
+   "opts": [
+    "Shared with bowel",
+    "Independent",
+    "None",
+    "Collateral only"
+   ],
+   "ans": 0,
+   "exp": "Shared with bowel (Book p469)"
+  },
+  {
+   "id": "SURG-C60-128",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Content of chylolymphatic cyst:",
+   "opts": [
+    "Sequestered lymphatic tissue",
+    "Sequestered bowel tissue",
+    "Keratin",
+    "Lymph"
+   ],
+   "ans": 0,
+   "exp": "Sequestered lymphatic tissue (Book p469)"
+  },
+  {
+   "id": "SURG-C60-129",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Content of enterogenous cyst:",
+   "opts": [
+    "Sequestered bowel tissue",
+    "Lymphatic tissue",
+    "Chyle",
+    "Pus"
+   ],
+   "ans": 0,
+   "exp": "Sequestered bowel tissue (Book p469)"
+  },
+  {
+   "id": "SURG-C60-130",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Fluid in chylolymphatic cyst:",
+   "opts": [
+    "Clear",
+    "Turbid",
+    "Hemorrhagic",
+    "Purulent"
+   ],
+   "ans": 0,
+   "exp": "Clear (Book p469)"
+  },
+  {
+   "id": "SURG-C60-131",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Transillumination of mesenteric cysts:",
+   "opts": [
+    "Chylolymphatic (+); enterogenous (–)",
+    "Both +",
+    "Both –",
+    "Enterogenous (+)"
+   ],
+   "ans": 0,
+   "exp": "Chylolymphatic (+); enterogenous (–) (Book p469)"
+  },
+  {
+   "id": "SURG-C60-132",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Attachment of mesentery runs between:",
+   "opts": [
+    "DJ flexure & right sacroiliac joint",
+    "Pylorus & cecum",
+    "Treitz & left sacroiliac",
+    "DJ flexure & pubis"
+   ],
+   "ans": 0,
+   "exp": "DJ flexure & right sacroiliac joint (Book p469)"
+  },
+  {
+   "id": "SURG-C60-133",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Tillaux triad (1 & 3):",
+   "opts": [
+    "Periumbilical swelling & transverse band of resonance",
+    "Scaphoid abdomen",
+    "Bowel sounds in chest",
+    "Shifting dullness"
+   ],
+   "ans": 0,
+   "exp": "Periumbilical swelling & transverse band of resonance (Book p469)"
+  },
+  {
+   "id": "SURG-C60-134",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Tillaux SIGN:",
+   "opts": [
+    "Cyst moves at right angle to the attachment of mesentery",
+    "Moves along mesentery",
+    "Fixed",
+    "Moves with respiration only"
+   ],
+   "ans": 0,
+   "exp": "Cyst moves at right angle to the attachment of mesentery (Book p469)"
+  },
+  {
+   "id": "SURG-C60-135",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "IOC for mesenteric cyst:",
+   "opts": [
+    "CECT",
+    "USG",
+    "MRI",
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p469)"
+  },
+  {
+   "id": "SURG-C60-136",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Surgery for chylolymphatic cyst:",
+   "opts": [
+    "Enucleation",
+    "Resection + anastomosis",
+    "Marsupialization",
+    "Drainage"
+   ],
+   "ans": 0,
+   "exp": "Enucleation (Book p469)"
+  },
+  {
+   "id": "SURG-C60-137",
+   "sec": "Mesenteric Cysts",
+   "page": 469,
+   "q": "Surgery for enterogenous cyst:",
+   "opts": [
+    "Resection + anastomosis",
+    "Enucleation",
+    "Aspiration",
+    "Sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Resection + anastomosis (Book p469)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U60-1",
+   "ch": 60,
+   "n": 1,
+   "title": "Femoral Hernia: Anatomy and Clinical Features",
+   "sec": "Femoral Hernia: Anatomy and Clinical Features · p460",
+   "qs": [
+    "SURG-C60-001",
+    "SURG-C60-002",
+    "SURG-C60-003",
+    "SURG-C60-004",
+    "SURG-C60-005",
+    "SURG-C60-006",
+    "SURG-C60-007",
+    "SURG-C60-008",
+    "SURG-C60-009",
+    "SURG-C60-010",
+    "SURG-C60-011",
+    "SURG-C60-012",
+    "SURG-C60-013",
+    "SURG-C60-014"
+   ],
+   "guide": "Femoral hernia — the female-predominant one — squeezes through a ring walled by lacunar (medial), inguinal (superior) and Cooper's ligaments (inferior) with only a vein septum laterally: three rigid sides mean high strangulation rates and Richter's hernias. It sits below-lateral to the pubic tubercle; psoas abscess (fever, cross-fluctuation, flexed hip), lymph node and saphena varix crowd the differential, and USG sorts it out."
+  },
+  {
+   "id": "SURG-U60-2",
+   "ch": 60,
+   "n": 2,
+   "title": "Femoral Hernia: Management and Special Types",
+   "sec": "Femoral Hernia: Management and Special Types · p461",
+   "qs": [
+    "SURG-C60-015",
+    "SURG-C60-016",
+    "SURG-C60-017",
+    "SURG-C60-018",
+    "SURG-C60-019",
+    "SURG-C60-020",
+    "SURG-C60-021"
+   ],
+   "guide": "Early surgery is the rule — laparoscopic hernioplasty is the choice; Lockwood goes below the inguinal ligament for uncomplicated cases while McEvedy goes above for strangulated/obstructed ones. Special escapes: Laugier through the lacunar ligament, Narath with congenital hip dislocation, Serafini behind the vessels and Velpeau in front."
+  },
+  {
+   "id": "SURG-U60-3",
+   "ch": 60,
+   "n": 3,
+   "title": "Ventral Hernias: Types and EHS Classification",
+   "sec": "Ventral Hernias: Types and EHS Classification · p461",
+   "qs": [
+    "SURG-C60-022",
+    "SURG-C60-023",
+    "SURG-C60-024",
+    "SURG-C60-025",
+    "SURG-C60-026",
+    "SURG-C60-027",
+    "SURG-C60-028"
+   ],
+   "guide": "Ventral hernias are all abdominal-wall hernias except inguinal — incisional is the m/c. EHS maps midline M1-M5 (subxiphoid → suprapubic, umbilical = M3) and lateral L1-L4 (subcostal, flank, iliac, lumbar)."
+  },
+  {
+   "id": "SURG-U60-4",
+   "ch": 60,
+   "n": 4,
+   "title": "Surgical Management of Ventral Hernia and Types of Repair",
+   "sec": "Surgical Management of Ventral Hernia and Types of Repair · p462",
+   "qs": [
+    "SURG-C60-029",
+    "SURG-C60-030",
+    "SURG-C60-031",
+    "SURG-C60-032",
+    "SURG-C60-033",
+    "SURG-C60-034",
+    "SURG-C60-035",
+    "SURG-C60-036"
+   ],
+   "guide": "Hernioplasty wins and tissue repair loses (tension → breakdown → recurrence). Mesh sits onlay over the sheath, inlay within it, retromuscular behind muscle, preperitoneal over peritoneum, or intraperitoneally as the m/c IPOM — always with non-adherent PTFE against bowel."
+  },
+  {
+   "id": "SURG-U60-5",
+   "ch": 60,
+   "n": 5,
+   "title": "Incisional Hernia",
+   "sec": "Incisional Hernia · p462",
+   "qs": [
+    "SURG-C60-037",
+    "SURG-C60-038",
+    "SURG-C60-039",
+    "SURG-C60-040",
+    "SURG-C60-041",
+    "SURG-C60-042",
+    "SURG-C60-043",
+    "SURG-C60-044"
+   ],
+   "guide": "Incisional hernias bloom along scars — 30-50% after open and 1-5% after laparoscopic surgery. IPOM/hernioplasty is the repair of choice (Keel and Da Silva tissue repairs are out), and giant defects >25% of abdominal volume call for Ramirez component separation with lateral releasing incisions to prevent loss of domain and abdominal compartment syndrome."
+  },
+  {
+   "id": "SURG-U60-6",
+   "ch": 60,
+   "n": 6,
+   "title": "Epigastric Hernia and Umbilical vs Paraumbilical",
+   "sec": "Epigastric Hernia and Umbilical vs Paraumbilical · p463",
+   "qs": [
+    "SURG-C60-045",
+    "SURG-C60-046",
+    "SURG-C60-047",
+    "SURG-C60-048",
+    "SURG-C60-049",
+    "SURG-C60-050",
+    "SURG-C60-051",
+    "SURG-C60-052",
+    "SURG-C60-053",
+    "SURG-C60-054",
+    "SURG-C60-055",
+    "SURG-C60-056",
+    "SURG-C60-057",
+    "SURG-C60-058",
+    "SURG-C60-059",
+    "SURG-C60-060"
+   ],
+   "guide": "Epigastric hernia — the fatty hernia of linea alba in young fit males — pokes preperitoneal fat through transverse slits between xiphisternum and umbilicus and aches like a peptic ulcer; open or laparoscopic IPOM cures it. Umbilical hernia (big ring, everted umbilicus, newborns and cirrhotics, conservative to 2-3 years) contrasts with the paraumbilical (narrow, obese, Richter-prone, early hernioplasty)."
+  },
+  {
+   "id": "SURG-U60-7",
+   "ch": 60,
+   "n": 7,
+   "title": "Omphalocele vs Gastroschisis",
+   "sec": "Omphalocele vs Gastroschisis · p464",
+   "qs": [
+    "SURG-C60-061",
+    "SURG-C60-062",
+    "SURG-C60-063",
+    "SURG-C60-064",
+    "SURG-C60-065",
+    "SURG-C60-066",
+    "SURG-C60-067",
+    "SURG-C60-068",
+    "SURG-C60-069",
+    "SURG-C60-070",
+    "SURG-C60-071"
+   ],
+   "guide": "Omphalocele herniates through the umbilicus under a peritoneal membrane (liver can follow), travels with Beckwith-Wiedemann and trisomies 13/18/21; gastroschisis splits beside the cord with naked bowel courting atresia, inflammation and perforation but fewer anomalies. Protect with a mesh SILO, creep the height down and internalize."
+  },
+  {
+   "id": "SURG-U60-8",
+   "ch": 60,
+   "n": 8,
+   "title": "Lumbar Hernia and Spigelian Hernia",
+   "sec": "Lumbar Hernia and Spigelian Hernia · p465",
+   "qs": [
+    "SURG-C60-072",
+    "SURG-C60-073",
+    "SURG-C60-074",
+    "SURG-C60-075",
+    "SURG-C60-076",
+    "SURG-C60-077",
+    "SURG-C60-078",
+    "SURG-C60-079",
+    "SURG-C60-080",
+    "SURG-C60-081",
+    "SURG-C60-082",
+    "SURG-C60-083",
+    "SURG-C60-084",
+    "SURG-C60-085"
+   ],
+   "guide": "Lumbar hernias: primary rare, secondary m/c after trauma or surgery; lipomas slip and pseudo-fluctuate, pseudo-hernias follow subcostal nerve injury. Petit's triangle (iliac crest, external oblique, latissimus dorsi) sits below Grynfeltt's (12th rib, internal oblique, sacrospinalis); Dowd-Ponka open or m/c laparoscopic mesh repairs. Spigelian — intraparietal along the rectus border, below the umbilicus above the arcuate line — strangulates readily."
+  },
+  {
+   "id": "SURG-U60-9",
+   "ch": 60,
+   "n": 9,
+   "title": "Obturator, Richter's and Maydl's Hernia",
+   "sec": "Obturator, Richter's and Maydl's Hernia · p466",
+   "qs": [
+    "SURG-C60-086",
+    "SURG-C60-087",
+    "SURG-C60-088",
+    "SURG-C60-089",
+    "SURG-C60-090",
+    "SURG-C60-091",
+    "SURG-C60-092",
+    "SURG-C60-093",
+    "SURG-C60-094",
+    "SURG-C60-095",
+    "SURG-C60-096",
+    "SURG-C60-097",
+    "SURG-C60-098",
+    "SURG-C60-099"
+   ],
+   "guide": "The little old lady's obturator hernia strangulates through the obturator canal — Howship-Romberg shooting pain with abduction/medial rotation and Hannington-Kiff's lost adductor with live patellar reflex. Richter's pinches one bowel wall through narrow rings (paraumbilical, femoral, obturator) masquerading as gastroenteritis until peritonitis; Maydl's W-shaped hernia kills the intraperitoneal connecting limb first — the part surgeons miss."
+  },
+  {
+   "id": "SURG-U60-10",
+   "ch": 60,
+   "n": 10,
+   "title": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni)",
+   "sec": "Congenital Diaphragmatic Hernia (Bochdalek vs Morgagni) · p467",
+   "qs": [
+    "SURG-C60-100",
+    "SURG-C60-101",
+    "SURG-C60-102",
+    "SURG-C60-103",
+    "SURG-C60-104",
+    "SURG-C60-105",
+    "SURG-C60-106",
+    "SURG-C60-107",
+    "SURG-C60-108",
+    "SURG-C60-109",
+    "SURG-C60-110",
+    "SURG-C60-111",
+    "SURG-C60-112",
+    "SURG-C60-113",
+    "SURG-C60-114",
+    "SURG-C60-115",
+    "SURG-C60-116"
+   ],
+   "guide": "Bochdalek (m/c, left postero-lateral, pleuroperitoneal membrane, stomach/spleen/colon) outnumbers Morgagni (right antero-medial, central tendon, transverse colon). Polyhydramnios at home, scaphoid abdomen and respiratory distress at birth; pulmonary hypoplasia and hypertension are the killers. CXR shows thoracic bowel; IPPV (never bag-mask), ECMO if refractory, inhaled nitrates for pulmonary hypertension, and diaphragmatic circumferential repair with mesh."
+  },
+  {
+   "id": "SURG-U60-11",
+   "ch": 60,
+   "n": 11,
+   "title": "Internal Hernias",
+   "sec": "Internal Hernias · p468",
+   "qs": [
+    "SURG-C60-117",
+    "SURG-C60-118",
+    "SURG-C60-119",
+    "SURG-C60-120",
+    "SURG-C60-121",
+    "SURG-C60-122"
+   ],
+   "guide": "Internal hernias hide inside: Stemmer's through transverse mesocolon, Petersen's behind the Roux limb, left paraduodenal through Landzert's fossa (descending colon fusion defect, behind the IMV) and right duodeno-jejunal behind the SMA from ascending colon fusion failure."
+  },
+  {
+   "id": "SURG-U60-12",
+   "ch": 60,
+   "n": 12,
+   "title": "Mesenteric Cysts",
+   "sec": "Mesenteric Cysts · p469",
+   "qs": [
+    "SURG-C60-123",
+    "SURG-C60-124",
+    "SURG-C60-125",
+    "SURG-C60-126",
+    "SURG-C60-127",
+    "SURG-C60-128",
+    "SURG-C60-129",
+    "SURG-C60-130",
+    "SURG-C60-131",
+    "SURG-C60-132",
+    "SURG-C60-133",
+    "SURG-C60-134",
+    "SURG-C60-135",
+    "SURG-C60-136",
+    "SURG-C60-137"
+   ],
+   "guide": "Mesenteric cysts split chylolymphatic (m/c, thin, independent supply, clear, transilluminating, enucleate) from enterogenous (thick, bowel-shared supply, turbid, no transillumination, resect with anastomosis). The mesentery stretches DJ flexure to right sacroiliac joint, and Tillaux's triad — periumbilical swelling, right-angle movement (Tillaux sign) and transverse resonance band — is confirmed on CECT."
+  }
+ ]
+}
