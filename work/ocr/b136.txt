@@ -1,0 +1,64 @@
+### raw
+136
+Gastrointestinal and Abdominal Surgery
+Treatment :
+---- Active space -.
+. Goal : ↓ eosinophilia (<s/HPF), control symptoms.
+a. Topical steroids.
+b. PPIs.
+00:07:43
+Motility Disorders
+Classifcation :
+Chicago 4.0 : Based on high resolution manometry (HRm).
+Clinical role
+Chicago deAnition (summary)
+HRm metric
+An elevated IRP above normo] 
+mean of the 4 sec of maximal
+defnes lack of LeS relaxaticn
+IRP (mmHg)
+swallow-induced LeSrelaxation, 10
+seen with achalasia
+sec window after ues relaxation.
+Amplitude × duration × length
+measures strength of distal
+(mmHg-sicm)
+(mmHg-s-cm) of the distal
+esophageal contraction
+esophageal contraction
+Decreased DL (<4.S sec) is
+Interval betweenuesrelaxation and
+DL (sec)
+an indicator of a spastic
+peristaltic contractile deceleration
+point <3 cm from proximal LeS
+esophageal motor disorder.
+IRP : Integrated relaxation pressure; DCl : Distal contractile integral; DL : Distal latency
+I.ACHALASIA CARDIA
+· m/c motility disorder -> ↑ .risk of squamous cell carcinoma of esophagus.
+· Failure of Les (Lower esophageal sphincter) to relax
+Pathophysiology :
+· Loss of ganglion cells in myenteric  auerbach plexus (Lower half)
+Inhibitorycells
+Note:
+Fring
+Hirschsprung disease : Congenital
+No LeS relaxation.
+absence of ganglion cells.
+Types :
+I° achalasia : Loss of ganglion cells.
+a° achalasia : a° to chaga's disease (Trypanosoma cruzi).
+Vigorous achalasia : Rapidly progressive.
+Pseudoachalasia : A/w malignancy.
+insufficiency.
+Surgery·v1.0·Marrow8.0·2024
+### geo
+---- Active space -.  136  Treatment :  Gastrointestinal and Abdominal Surgery  . Goal : ↓ eosinophilia (<s/HPF), control symptoms.  a. Topical steroids.
+Chicago 4.0 : Based on high resolution manometry (HRm).  Motility Disorders  Classifcation :  b. PPIs.  00:07:43
+HRm metric  IRP (mmHg)  swallow-induced LeSrelaxation, 10  sec window after ues relaxation.  mean of the 4 sec of maximal  Chicago deAnition (summary)  An elevated IRP above normo]   defnes lack of LeS relaxaticn  seen with achalasia  Clinical role
+(mmHg-sicm)  DL (sec)  Interval betweenuesrelaxation and  peristaltic contractile deceleration  Amplitude × duration × length  (mmHg-s-cm) of the distal  esophageal contraction  measures strength of distal  Decreased DL (<4.S sec) is  an indicator of a spastic  esophageal contraction
+IRP : Integrated relaxation pressure; DCl : Distal contractile integral; DL : Distal latency  I.ACHALASIA CARDIA  · m/c motility disorder -> ↑ .risk of squamous cell carcinoma of esophagus.  point <3 cm from proximal LeS  esophageal motor disorder.
+Pathophysiology :  · Failure of Les (Lower esophageal sphincter) to relax  · Loss of ganglion cells in myenteric  auerbach plexus (Lower half)  Inhibitorycells  Note:
+I° achalasia : Loss of ganglion cells.  a° achalasia : a° to chaga's disease (Trypanosoma cruzi).  Types :  No LeS relaxation.  Fring  Hirschsprung disease : Congenital  absence of ganglion cells.
+Pseudoachalasia : A/w malignancy.  Vigorous achalasia : Rapidly progressive.  insufficiency.
+Surgery·v1.0·Marrow8.0·2024

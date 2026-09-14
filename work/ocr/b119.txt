@@ -1,0 +1,81 @@
+### raw
+Adrenal GlandsAnd NeuroendocrineTumors
+119
+Activespace
+Syndrome
+Gene
+Associated Lesion
+OtherFeatures
+multiple endocrine
+·medullary thyroid
+neoplasia type aA
+RET
+Pheochromocytoma
+carcinoma
+()
+·Parathyroidhyperplasia
+·medullary thyroid
+multiple endocrine
+carcinoma
+neoplasia, type a8
+RET
+Pheochromocytoma
+·marfanoid habitus
+()
+mucocutaneous
+Ganglioneuromas
+Neurofbromatosis,
+·Neurofibromas
+NF1
+Pheochromocytoma
+cafe-au-lait spots
+typel
+Optic nerve glioma
+·Pheochromocytoma
+·Renal cell carcinoma
+Von Hippel-Lindau
+·Paraganglioma
+Hemangioblastoma
+(VHL)
+VHL
+(Lowwom)
+·Pancreaticendocrine
+neoplasm
+Familial
+·Pheochromocytoma
+OHOS
+paraganglioma.l
+·Paraganglioma
+Familial
+SDHC
+Paraganglioma.
+paraganglioma3
+Familial
+·Pheochromocytoma
+SDHB
+paraganglioma 4
+Paraganglioma
+NF1-Neuroflbromin.
+SDHB-SuccinateDehydrogenaseComplex, subunit B.
+SDHC-Succinate DehydrogenaseComplex,subunit C
+SDHD - Succinate Dehydrogenase Complex, subnunit D.
+HISTOPATHOLOGY
+Gross appearance
+Tanbrowncolour
+(o/tchromaffinreaction
+Necrosis
+Hemorrhage
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+Adrenal GlandsAnd NeuroendocrineTumors  Activespace  119
+multiple endocrine  neoplasia type aA  Syndrome  Gene  RET  Pheochromocytoma  Associated Lesion  ·medullary thyroid  carcinoma  OtherFeatures
+multiple endocrine  ()  ·Parathyroidhyperplasia  ·medullary thyroid  carcinoma
+neoplasia, type a8  ()  RET  Pheochromocytoma  ·marfanoid habitus  mucocutaneous  Ganglioneuromas
+Neurofbromatosis,  typel  NF1  Pheochromocytoma  ·Neurofibromas  cafe-au-lait spots  Optic nerve glioma
+Von Hippel-Lindau  (VHL)  VHL  ·Paraganglioma  ·Pheochromocytoma  (Lowwom)  ·Renal cell carcinoma  ·Pancreaticendocrine  Hemangioblastoma  neoplasm
+paraganglioma3  paraganglioma.l  Familial  Familial  OHOS  SDHC  ·Paraganglioma  ·Pheochromocytoma  Paraganglioma.
+NF1-Neuroflbromin.  paraganglioma 4  Familial  SDHB  ·Pheochromocytoma  Paraganglioma
+SDHB-SuccinateDehydrogenaseComplex, subunit B.  SDHD - Succinate Dehydrogenase Complex, subnunit D.  SDHC-Succinate DehydrogenaseComplex,subunit C
+HISTOPATHOLOGY  Gross appearance  Tanbrowncolour  (o/tchromaffinreaction
+Necrosis  Hemorrhage
+Surgery·v1.0·Marrow 8.0·2024

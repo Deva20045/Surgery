@@ -3,7 +3,7 @@
 Single-file quiz app (`pulse-surgery-complete.html`) being extended chapter-by-chapter,
 line-by-line from the Marrow Surgery Edition 8 book (2 volumes, **72 chapters**, book pages 1-550).
 
-**Live now: 17/72 chapters (ch1–17)** — same build in the local app and on GitHub Pages. See PROGRESS.md for the build tracker.
+**Live now: 23/72 chapters (ch1–23)** — same build in the local app and on GitHub Pages. See PROGRESS.md for the build tracker.
 
 ## Repo layout
 ```
@@ -12,6 +12,7 @@ index.html                    ← redirect -> pulse-surgery-complete.html
 data/chNN.json                ← per-chapter source data {questions, units}
 data/chapters_live.json       ← list of chapters merged into the app
 work/render.py                ← render book pages from source PDFs to PNG
+work/ocr.py                   ← render + offline OCR of book pages -> work/ocr/bNNN.txt
 work/validate.py              ← schema validator for data/chNN.json
 work/merge.py                 ← merge data into the HTML (idempotent)
 work/integrity.py             ← post-merge integrity check (node-backed)

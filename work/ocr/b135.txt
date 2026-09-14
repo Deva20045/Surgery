@@ -1,0 +1,57 @@
+### raw
+135
+ESOPHAGUS : PART 2
+---Active space---.
+00:01:08
+ESOPHAGEAL INFECTIONS
+1. esophageal candidiasis :
+· A/w oral thrush.
+· Seen in immunocompromised patients.
+wormlikewlcers
+Investigations :
+· endoscopy : Shaggy deposits.
+· Barium swallow : worm like wlcers.
+management : Anti fungals.
+Barium swallow
+a. cmv (Cytomegalo virus) :
+· Post transplant (immunosuppressants).
+· A/w : GvHD (Graft v/s host disease).
+ Appearance : Geographical/serpiginous wlcers.
+Striped markings
+3. Herpes infection :
+· A/w : Herpes labialis.
+· Small wlcers  raised margins.
+FELINEESOPHAGUS
+Seen in :
+Gastroesophageal refux disease (GeRD)
+Eosinophilic esophagitis
+Feline Esophagus
+Lower I/3rd : m/c cause.
+Site:
+Upper I/3rd.
+Stacked up appearance
+Eosinophilic esophagitis :
+· Chronic immune mediated disease with esophageal dysfunction.
+· Food antigen initiation : Eosinophilia  fbrosis.
+· Peak age : a0-30 years.
+Investigations :
+· endoscopy :
+· Biopsy (Taken from a felds) :
+a crepe paper mucosa.
+a. &osinophilia : >IS-a0
+b.Furrows.
+eosinophils/HPF.
+c. Rings.
+Endoscopy
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+ESOPHAGUS : PART 2  ---Active space---.  135
+ESOPHAGEAL INFECTIONS  1. esophageal candidiasis :  00:01:08
+Investigations :  · Seen in immunocompromised patients.  · endoscopy : Shaggy deposits.  · A/w oral thrush.  wormlikewlcers
+management : Anti fungals.  a. cmv (Cytomegalo virus) :  · Barium swallow : worm like wlcers.  · Post transplant (immunosuppressants).  Barium swallow
+3. Herpes infection :  · A/w : GvHD (Graft v/s host disease).  · A/w : Herpes labialis.   Appearance : Geographical/serpiginous wlcers.  Striped markings
+FELINEESOPHAGUS  Seen in :  · Small wlcers  raised margins.
+Eosinophilic esophagitis :  Site:  Gastroesophageal refux disease (GeRD)  Upper I/3rd.  Lower I/3rd : m/c cause.  Eosinophilic esophagitis  Stacked up appearance  Feline Esophagus
+Investigations :  · Chronic immune mediated disease with esophageal dysfunction.  · Food antigen initiation : Eosinophilia  fbrosis.  · Peak age : a0-30 years.
+· endoscopy :  c. Rings.  a crepe paper mucosa.  b.Furrows.  · Biopsy (Taken from a felds) :  a. &osinophilia : >IS-a0  eosinophils/HPF.  Endoscopy
+Surgery·v1.0·Marrow 8.0·2024

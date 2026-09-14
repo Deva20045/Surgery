@@ -1,0 +1,59 @@
+### raw
+Adrenal GlandsAndNeuroendocrineTumors
+125
+qastric carcinoids :
+..--Active space --
+ClassiAcation:
+Type
+ Histological pattern
+Causative factor and
+prognosis
+Benign, non-functional, well
+ECLomas in chronic
+differentiated
+atrophic gastritis,
+hypergastrinemia
+a
+Benign or low-grade malignant,
+ECLomas with
+differentiated
+hypergastrinemia as
+result of gastrinoma
+inmENI
+3
+Low-grade malignant,
+Sporadic eCLomas
+differentiated
+not relatedto
+hypergastrinemia
+Intermediateorsmallcell
+Causative factor
+type,high grade malignant
+wnknown; prognosis
+(neuroendocrinecarcinoma)
+poor
+ECL:Enterochromaffin-like;meN:multiple endocrine neoplasia.
+Adrenocortical Carcinoma
+Children
+>4th-sth decade
+·Non functional >> functional (Aggressive).
+Features:
+dum·
+· Cushing's syndrome : m/c functional presentation.
+Investigations:
+IOC:mRI> CECT.
+Classifcation:
+mcFarlane classification:Based on size.
+Surgery ·v1.0 ·Marrow 8.0 ·2024
+### geo
+qastric carcinoids :  Adrenal GlandsAndNeuroendocrineTumors  ..--Active space --  125
+ClassiAcation:  Type   Histological pattern  Causative factor and  prognosis
+Benign, non-functional, well  differentiated  ECLomas in chronic  hypergastrinemia  atrophic gastritis,
+a  Benign or low-grade malignant,  differentiated  hypergastrinemia as  result of gastrinoma  ECLomas with
+3  Low-grade malignant,  differentiated  Sporadic eCLomas  hypergastrinemia  not relatedto  inmENI
+ECL:Enterochromaffin-like;meN:multiple endocrine neoplasia.  (neuroendocrinecarcinoma)  type,high grade malignant  Intermediateorsmallcell  wnknown; prognosis  Causative factor  poor
+Adrenocortical Carcinoma  ·Non functional >> functional (Aggressive).  >4th-sth decade  Children
+Features:  dum·  · Cushing's syndrome : m/c functional presentation.
+Investigations:  IOC:mRI> CECT.  Classifcation:
+mcFarlane classification:Based on size.
+Surgery ·v1.0 ·Marrow 8.0 ·2024

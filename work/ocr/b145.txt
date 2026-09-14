@@ -1,0 +1,82 @@
+### raw
+145
+ESOPHAGUS : PART 3
+---Activespace---
+Esophageal Cancers
+00:01:10
+TYPES
+SCC
+Adenocarcinoma
+occurrence
+m/c in western
+Overall m/c
+world
+Location
+middle 1/3rd
+Lower I/3rd
+1. Smoking
++++
+a. Alcohol
++++
+3. Hot beverages
++
+4. N-nitroso-containing food (Eg : Pickled vegetables)
++
+S. Chewing betel nut
++
+6. Drinking yerba mate
++
+7. Dietary deficiency of fresh green vegetables,
+fruits, vitamin ε  selenium
++
+8.Lowsocioeconomic class
++
+9.Funqaltoxinorvirus
++
+10. History of radiation to mediastinum
++
++
+Risk factors :
+Il. Lye corrosive stricture
++
+la. History of upper aerodigestive malignancy
++++
+13. Plummer-Vinson syndrome
++
+(Paterson-Kelly-Brown syndrome)
+14.Achalasia
++
+IS. Obesity
+一
+++
+%. Gastro-oesophageal reflux
++++
+17. Barrett's esophaqus
+++++
+18. Zenker's diverticulum
++
+19. Tylosis : Palmar-plantar Keratoderma
++
+a0. Scleroderma (cReST syndrome)
++
+al. Preservative rich/smoked food
++
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+ESOPHAGUS : PART 3  145
+---Activespace---
+TYPES  Esophageal Cancers  00:01:10
+occurrence  Overall m/c  SCC  Adenocarcinoma  m/c in western
+1. Smoking  Location  middle 1/3rd  Lower I/3rd  world
+a. Alcohol  3. Hot beverages  +++  +++
+4. N-nitroso-containing food (Eg : Pickled vegetables)  S. Chewing betel nut  +  +
+6. Drinking yerba mate  +  +
+fruits, vitamin ε  selenium  7. Dietary deficiency of fresh green vegetables,  +
+8.Lowsocioeconomic class  9.Funqaltoxinorvirus  +  +
+Risk factors :  10. History of radiation to mediastinum  Il. Lye corrosive stricture  +  +  +
+13. Plummer-Vinson syndrome  la. History of upper aerodigestive malignancy  +++  +
+(Paterson-Kelly-Brown syndrome)  14.Achalasia  +
+IS. Obesity  %. Gastro-oesophageal reflux  一  +++  ++
+17. Barrett's esophaqus  18. Zenker's diverticulum  +  ++++
+19. Tylosis : Palmar-plantar Keratoderma  a0. Scleroderma (cReST syndrome)  +  +
+al. Preservative rich/smoked food  Surgery·v1.0·Marrow 8.0·2024  +

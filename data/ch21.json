@@ -1,0 +1,1196 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C21-001",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Overall, the m/c esophageal cancer worldwide is:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Leiomyosarcoma",
+    "Melanoma"
+   ],
+   "ans": 0,
+   "exp": "Types: squamous cell carcinoma (overall m/c) versus adenocarcinoma. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-002",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "The m/c esophageal cancer in the western world is:",
+   "opts": [
+    "Adenocarcinoma",
+    "Squamous cell carcinoma",
+    "Small cell carcinoma",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma: m/c in the western world. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-003",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Squamous cell carcinoma of the esophagus is typically located in the:",
+   "opts": [
+    "Middle one third",
+    "Lower one third",
+    "Upper one third",
+    "Whole esophagus"
+   ],
+   "ans": 0,
+   "exp": "SCC: middle 1/3rd; adenocarcinoma: lower 1/3rd. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-004",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Adenocarcinoma of the esophagus is typically located in the:",
+   "opts": [
+    "Lower one third",
+    "Middle one third",
+    "Upper one third",
+    "Cervical esophagus"
+   ],
+   "ans": 0,
+   "exp": "Adenocarcinoma: lower 1/3rd of the esophagus. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-005",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "The risk factors shared by both squamous carcinoma and adenocarcinoma of the esophagus include:",
+   "opts": [
+    "Smoking and alcohol",
+    "Barrett's esophagus alone",
+    "Obesity alone",
+    "Gastroesophageal reflux alone"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: smoking (++) and alcohol (++) are listed for esophageal cancer. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-006",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "N-nitroso containing foods implicated in esophageal cancer include:",
+   "opts": [
+    "Pickled vegetables",
+    "Fresh citrus fruits",
+    "Milk products",
+    "Rice"
+   ],
+   "ans": 0,
+   "exp": "N-nitroso-containing food (e.g. pickled vegetables) is a risk factor. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-007",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Drinking yerba mate is a risk factor for:",
+   "opts": [
+    "Esophageal cancer",
+    "Gastric lymphoma",
+    "Pancreatic cancer",
+    "Colonic polyps"
+   ],
+   "ans": 0,
+   "exp": "Drinking yerba mate: risk factor for esophageal cancer. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-008",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Plummer-Vinson syndrome is also known as:",
+   "opts": [
+    "Paterson-Kelly-Brown syndrome",
+    "Zollinger-Ellison syndrome",
+    "Mallory-Weiss syndrome",
+    "Peutz-Jeghers syndrome"
+   ],
+   "ans": 0,
+   "exp": "Plummer-Vinson syndrome (Paterson-Kelly-Brown syndrome): risk factor. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-009",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Tylosis, a risk factor for esophageal cancer, is:",
+   "opts": [
+    "Palmar-plantar keratoderma",
+    "Palmar erythema",
+    "Clubbing",
+    "Xanthelasma"
+   ],
+   "ans": 0,
+   "exp": "Tylosis: palmar-plantar keratoderma. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-010",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Scleroderma (CREST syndrome) is a risk factor for:",
+   "opts": [
+    "Esophageal cancer",
+    "Carcinoid tumor",
+    "Achalasia only",
+    "Zenker's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Scleroderma (CREST syndrome): risk factor for esophageal cancer. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-011",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "The strongest risk factor listed for adenocarcinoma of the esophagus is:",
+   "opts": [
+    "Barrett's esophagus",
+    "Smoking",
+    "Alcohol",
+    "Betel nut chewing"
+   ],
+   "ans": 0,
+   "exp": "Barrett's esophagus: ++++ - the strongest risk factor for adenocarcinoma. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-012",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Gastro-esophageal reflux disease as a risk factor for adenocarcinoma is graded:",
+   "opts": [
+    "+++",
+    "+",
+    "-",
+    "Not a risk factor"
+   ],
+   "ans": 0,
+   "exp": "Gastro-oesophageal reflux: +++ for adenocarcinoma. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-013",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "Obesity is a risk factor predominantly for:",
+   "opts": [
+    "Adenocarcinoma of the esophagus",
+    "Squamous carcinoma of the esophagus",
+    "Leiomyoma of the esophagus",
+    "Esophageal web"
+   ],
+   "ans": 0,
+   "exp": "Obesity: negative for SCC, ++ for adenocarcinoma. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-014",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "A lye corrosive stricture predisposes to:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Leiomyoma",
+    "Barrett's esophagus"
+   ],
+   "ans": 0,
+   "exp": "Lye corrosive stricture: risk factor for esophageal (squamous) cancer. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-015",
+   "sec": "Esophageal Cancer: Types & Risk Factors",
+   "page": 145,
+   "q": "A history of upper aerodigestive malignancy carries which grade of risk?",
+   "opts": [
+    "+++",
+    "+",
+    "-",
+    "No risk"
+   ],
+   "ans": 0,
+   "exp": "History of upper aerodigestive malignancy: +++ risk. (Book p145)"
+  },
+  {
+   "id": "SURG-C21-016",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "The earliest and m/c symptom of esophageal cancer is:",
+   "opts": [
+    "Progressive dysphagia (solids > liquids)",
+    "Hematemesis",
+    "Hoarseness",
+    "Cough"
+   ],
+   "ans": 0,
+   "exp": "Earliest / m/c symptom: progressive dysphagia (solids > liquids). (Book p146)"
+  },
+  {
+   "id": "SURG-C21-017",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "Weight loss in esophageal cancer indicates:",
+   "opts": [
+    "Advanced disease",
+    "Early curable disease",
+    "Benign stricture",
+    "Co-existent achalasia"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: progressive dysphagia and weight loss. (Book p146)"
+  },
+  {
+   "id": "SURG-C21-018",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "Hoarseness in esophageal cancer is due to involvement of the:",
+   "opts": [
+    "Left recurrent laryngeal nerve",
+    "Right recurrent laryngeal nerve",
+    "Vagus at the diaphragm",
+    "Phrenic nerve"
+   ],
+   "ans": 0,
+   "exp": "Signs of advanced disease: left RLN involvement causing hoarseness. (Book p146)"
+  },
+  {
+   "id": "SURG-C21-019",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "Chronic cough in esophageal cancer may indicate:",
+   "opts": [
+    "A malignant fistula with the trachea",
+    "Aspiration of a Zenker's diverticulum",
+    "Bronchiectasis",
+    "Cardiac failure"
+   ],
+   "ans": 0,
+   "exp": "Signs of advanced disease: malignant fistula with the trachea - chronic cough. (Book p146)"
+  },
+  {
+   "id": "SURG-C21-020",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "The investigation of choice to diagnose esophageal cancer is:",
+   "opts": [
+    "Endoscopic biopsy",
+    "Barium swallow",
+    "PET-CT",
+    "Endoscopic ultrasound"
+   ],
+   "ans": 0,
+   "exp": "IOC to diagnose: endoscopic biopsy. (Book p146)"
+  },
+  {
+   "id": "SURG-C21-021",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "The investigation of choice for overall staging of esophageal cancer is:",
+   "opts": [
+    "PET-CT",
+    "Endoscopic biopsy",
+    "Barium swallow",
+    "CT chest alone"
+   ],
+   "ans": 0,
+   "exp": "IOC for overall staging: PET-CT (18-FDG compound, half-life 110 mins). (Book p146)"
+  },
+  {
+   "id": "SURG-C21-022",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "The investigation of choice for T and N staging of esophageal cancer is:",
+   "opts": [
+    "Endoscopic ultrasound (EUS)",
+    "PET-CT",
+    "Barium swallow",
+    "Bronchoscopy"
+   ],
+   "ans": 0,
+   "exp": "IOC for T and N staging: EUS (endoscopic ultrasound). (Book p146)"
+  },
+  {
+   "id": "SURG-C21-023",
+   "sec": "Esophageal Cancer: Features & Investigations",
+   "page": 146,
+   "q": "The barium swallow appearance of esophageal cancer is:",
+   "opts": [
+    "Rat tail / apple core appearance",
+    "Bird beak appearance",
+    "Corkscrew appearance",
+    "Punched out appearance"
+   ],
+   "ans": 0,
+   "exp": "Barium swallow: rat tail / apple core appearance with shouldering and irregular margins. (Book p146)"
+  },
+  {
+   "id": "SURG-C21-024",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "Tis in esophageal cancer denotes:",
+   "opts": [
+    "High grade dysplasia",
+    "Invasion into the submucosa",
+    "Invasion into muscularis propria",
+    "Invasion into adventitia"
+   ],
+   "ans": 0,
+   "exp": "T status: Tis = high-grade dysplasia. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-025",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "T1 esophageal cancer means invasion into:",
+   "opts": [
+    "Lamina propria, muscularis mucosae or submucosa",
+    "Muscularis propria",
+    "Adventitia",
+    "Adjacent organs"
+   ],
+   "ans": 0,
+   "exp": "T1: invasion into lamina propria, muscularis mucosae or submucosa. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-026",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "T2 esophageal cancer invades the:",
+   "opts": [
+    "Muscularis propria",
+    "Adventitia",
+    "Submucosa",
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "T2: invasion into muscularis propria. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-027",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "T3 esophageal cancer invades the:",
+   "opts": [
+    "Adventitia",
+    "Muscularis propria",
+    "Pleura",
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "T3: invasion into adventitia. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-028",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "T4a esophageal cancer invades:",
+   "opts": [
+    "Resectable adjacent structures - pleura, pericardium, diaphragm",
+    "Unresectable structures such as the aorta",
+    "The muscularis propria",
+    "The submucosa"
+   ],
+   "ans": 0,
+   "exp": "T4a: invades resectable adjacent structures (pleura, pericardium, diaphragm). (Book p147)"
+  },
+  {
+   "id": "SURG-C21-029",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "T4b esophageal cancer invades:",
+   "opts": [
+    "Unresectable adjacent structures - aorta, vertebral body, trachea",
+    "The pleura only",
+    "The pericardium only",
+    "The submucosa"
+   ],
+   "ans": 0,
+   "exp": "T4b: invades unresectable adjacent structures (aorta, vertebral body, trachea). (Book p147)"
+  },
+  {
+   "id": "SURG-C21-030",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "N1 nodal status in esophageal cancer means:",
+   "opts": [
+    "1 to 2 positive regional lymph nodes",
+    "3 to 6 positive nodes",
+    "7 or more positive nodes",
+    "No nodes involved"
+   ],
+   "ans": 0,
+   "exp": "N status: N1 = 1 to 2 positive regional lymph nodes. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-031",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "N2 nodal status in esophageal cancer means:",
+   "opts": [
+    "3 to 6 positive regional lymph nodes",
+    "1 to 2 positive nodes",
+    "7 or more positive nodes",
+    "No nodes involved"
+   ],
+   "ans": 0,
+   "exp": "N2: 3 to 6 positive regional lymph nodes. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-032",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "N3 nodal status in esophageal cancer means:",
+   "opts": [
+    "7 or more positive regional lymph nodes",
+    "3 to 6 positive nodes",
+    "1 to 2 positive nodes",
+    "Positive coeliac nodes only"
+   ],
+   "ans": 0,
+   "exp": "N3: 7 or more positive regional lymph nodes. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-033",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "The m/c site of distant metastases in esophageal cancer is:",
+   "opts": [
+    "Liver",
+    "Brain",
+    "Bone",
+    "Spleen"
+   ],
+   "ans": 0,
+   "exp": "M1: distant metastases, m/c site is the liver. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-034",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "The Siewert classification is used for:",
+   "opts": [
+    "Gastro-esophageal junction tumors",
+    "Cervical esophageal tumors",
+    "Carcinoid tumors",
+    "Zenker's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Siewert classification for GE junction tumors. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-035",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "Siewert type I and type II junction tumors are managed as:",
+   "opts": [
+    "Esophageal cancer",
+    "Gastric cancer",
+    "Lymphoma",
+    "Benign tumors"
+   ],
+   "ans": 0,
+   "exp": "Type I and II are managed as esophageal cancer. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-036",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification",
+   "page": 147,
+   "q": "Siewert type III junction tumors are managed as:",
+   "opts": [
+    "Gastric cancer",
+    "Esophageal cancer",
+    "Pancreatic cancer",
+    "Mediastinal tumors"
+   ],
+   "ans": 0,
+   "exp": "Type III is managed as gastric cancer. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-037",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "T1a esophageal cancer (above the submucosa, metastasis rare) is treated by:",
+   "opts": [
+    "Endoscopic mucosal resection (EMR)",
+    "Esophagectomy",
+    "Chemoradiotherapy",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "T1a: above submucosa, metastasis rare - endoscopic mucosal resection (EMR). (Book p147)"
+  },
+  {
+   "id": "SURG-C21-038",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "T1b N0 / T2 N0 esophageal cancer is treated by:",
+   "opts": [
+    "Esophagectomy",
+    "Endoscopic mucosal resection",
+    "Chemotherapy alone",
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "T1b N0 / T2 N0: esophagectomy. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-039",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "T3 / T4 (advanced stage) esophageal cancer is treated by:",
+   "opts": [
+    "Chemotherapy and radiotherapy (neoadjuvant) followed by surgery",
+    "Endoscopic mucosal resection",
+    "Surgery alone",
+    "Nothing"
+   ],
+   "ans": 0,
+   "exp": "T3/T4: advanced stage - chemotherapy + radiotherapy (neoadjuvant therapy) followed by surgery. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-040",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "Cervical esophageal tumors are best treated with:",
+   "opts": [
+    "Definitive chemoradiotherapy (preserves the larynx)",
+    "Trans-hiatal esophagectomy",
+    "Endoscopic mucosal resection",
+    "Laser ablation"
+   ],
+   "ans": 0,
+   "exp": "Cervical esophageal tumors: definitive chemoradiotherapy (preserves the larynx). (Book p147)"
+  },
+  {
+   "id": "SURG-C21-041",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "R0 resection means:",
+   "opts": [
+    "Microscopic freedom from cancer",
+    "Microscopic disease left behind",
+    "Gross disease present",
+    "Inoperable disease"
+   ],
+   "ans": 0,
+   "exp": "Margins: R0 = microscopic freedom from cancer; R1 = microscopic disease left behind; R2 = gross disease present. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-042",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "R1 resection means:",
+   "opts": [
+    "Microscopic disease left behind",
+    "Microscopic freedom from cancer",
+    "Gross disease present",
+    "No residual disease"
+   ],
+   "ans": 0,
+   "exp": "R1: microscopic disease left behind. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-043",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "R2 resection means:",
+   "opts": [
+    "Gross disease present",
+    "Microscopic freedom from cancer",
+    "Microscopic disease left behind",
+    "Complete response to chemoradiotherapy"
+   ],
+   "ans": 0,
+   "exp": "R2: gross disease (+). (Book p147)"
+  },
+  {
+   "id": "SURG-C21-044",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "The proximal margin recommended during esophagectomy is:",
+   "opts": [
+    "10 cm",
+    "5 cm",
+    "2 cm",
+    "1 cm"
+   ],
+   "ans": 0,
+   "exp": "Margins: proximal margin 10 cm and distal margin 5 cm (due to lymphatic skip lesions). (Book p147)"
+  },
+  {
+   "id": "SURG-C21-045",
+   "sec": "Management of Esophageal Cancer",
+   "page": 147,
+   "q": "The distal margin of 5 cm in esophagectomy is required because of:",
+   "opts": [
+    "Lymphatic skip lesions",
+    "Blood supply of the stomach",
+    "Risk of chylothorax",
+    "Postoperative reflux"
+   ],
+   "ans": 0,
+   "exp": "Distal margin 5 cm: due to lymphatic skip lesions. (Book p147)"
+  },
+  {
+   "id": "SURG-C21-046",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "McKeown's esophagectomy is a:",
+   "opts": [
+    "Three field esophagectomy",
+    "Two field trans-thoracic esophagectomy",
+    "Trans-hiatal esophagectomy",
+    "Endoscopic resection"
+   ],
+   "ans": 0,
+   "exp": "Types: McKeown's (3 field esophagectomy), trans-hiatal (Orringer) and Ivor Lewis. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-047",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The best operation for lymph node clearance in esophageal cancer is:",
+   "opts": [
+    "McKeown's three field esophagectomy",
+    "Trans-hiatal esophagectomy",
+    "Ivor Lewis esophagectomy",
+    "Endoscopic mucosal resection"
+   ],
+   "ans": 0,
+   "exp": "McKeown's (3 field esophagectomy): best for lymph node clearance. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-048",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "McKeown's esophagectomy is suited to tumors of the:",
+   "opts": [
+    "Middle one third",
+    "Lower one third",
+    "Cervical esophagus",
+    "Gastric cardia"
+   ],
+   "ans": 0,
+   "exp": "McKeown's: middle 1/3rd tumors (best for LN clearance). (Book p148)"
+  },
+  {
+   "id": "SURG-C21-049",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The incisions used in McKeown's esophagectomy are:",
+   "opts": [
+    "Midline abdomen, right thorax and left side of neck",
+    "Midline abdomen and left neck only",
+    "Midline abdomen and right thorax only",
+    "Left thoracotomy alone"
+   ],
+   "ans": 0,
+   "exp": "McKeown's: midline abdomen, right thorax, left side of neck. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-050",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "Trans-hiatal (Orringer) esophagectomy is suited to tumors of the:",
+   "opts": [
+    "Lower one third",
+    "Middle one third",
+    "Upper one third",
+    "Cervical esophagus"
+   ],
+   "ans": 0,
+   "exp": "Trans-hiatal (Orringer): lower 1/3rd. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-051",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The incisions used in a trans-hiatal (Orringer) esophagectomy are:",
+   "opts": [
+    "Midline abdomen and left side of neck",
+    "Midline abdomen and right thorax",
+    "Right thorax and left neck",
+    "Three separate incisions"
+   ],
+   "ans": 0,
+   "exp": "Trans-hiatal: midline abdomen and left neck. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-052",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The Ivor Lewis esophagectomy is suited to tumors of the:",
+   "opts": [
+    "Middle one third",
+    "Lower one third",
+    "Cervical esophagus",
+    "Cardia"
+   ],
+   "ans": 0,
+   "exp": "Ivor Lewis: middle 1/3rd. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-053",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The site of anastomosis in an Ivor Lewis esophagectomy is the:",
+   "opts": [
+    "Thorax",
+    "Neck",
+    "Abdomen",
+    "Chest wall"
+   ],
+   "ans": 0,
+   "exp": "Ivor Lewis: anastomosis in the thorax. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-054",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The site of anastomosis in McKeown's and trans-hiatal esophagectomy is the:",
+   "opts": [
+    "Neck",
+    "Thorax",
+    "Abdomen",
+    "Mediastinum"
+   ],
+   "ans": 0,
+   "exp": "McKeown's and trans-hiatal: anastomosis in the neck. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-055",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "An anastomotic leak after esophagectomy leads to:",
+   "opts": [
+    "Mediastinitis - the m/c cause of death",
+    "Chylothorax",
+    "Stricture",
+    "Dumping syndrome"
+   ],
+   "ans": 0,
+   "exp": "Anastomotic leak leads to mediastinitis, which is the m/c cause of death. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-056",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The m/c long term complication after esophagectomy is:",
+   "opts": [
+    "Stricture",
+    "Anastomotic leak",
+    "Chylothorax",
+    "Recurrent laryngeal nerve palsy"
+   ],
+   "ans": 0,
+   "exp": "M/c long term complication: stricture. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-057",
+   "sec": "Types of Esophagectomy",
+   "page": 148,
+   "q": "The minimum number of lymph nodes that should be removed during esophagectomy is:",
+   "opts": [
+    "15",
+    "5",
+    "30",
+    "50"
+   ],
+   "ans": 0,
+   "exp": "Minimum number of lymph nodes removed: 15. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-058",
+   "sec": "Esophageal Replacement & Complications",
+   "page": 148,
+   "q": "The m/c and best conduit for esophageal replacement is:",
+   "opts": [
+    "Stomach tube",
+    "Jejunum",
+    "Ileum",
+    "Sigmoid"
+   ],
+   "ans": 0,
+   "exp": "Esophageal replacement: m/c and best is the stomach tube. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-059",
+   "sec": "Esophageal Replacement & Complications",
+   "page": 148,
+   "q": "The stomach tube used for esophageal replacement is based on the:",
+   "opts": [
+    "Right gastroepiploic artery",
+    "Left gastric artery",
+    "Splenic artery",
+    "Short gastric arteries"
+   ],
+   "ans": 0,
+   "exp": "Based on the right gastric epiploic (gastroepiploic) artery > right gastric artery. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-060",
+   "sec": "Esophageal Replacement & Complications",
+   "page": 148,
+   "q": "If the stomach cannot be used for esophageal replacement, the conduit used is the:",
+   "opts": [
+    "Colon",
+    "Duodenum",
+    "Ileum",
+    "Appendix"
+   ],
+   "ans": 0,
+   "exp": "If the stomach is involved: colon. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-061",
+   "sec": "Esophageal Replacement & Complications",
+   "page": 148,
+   "q": "Complications of esophageal replacement include all of the following EXCEPT:",
+   "opts": [
+    "Cholecystitis",
+    "Atelectasis",
+    "Pneumonia",
+    "Anastomotic leak"
+   ],
+   "ans": 0,
+   "exp": "Complications: atelectasis, pneumonia, anastomotic leak, chylothorax. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-062",
+   "sec": "Esophageal Replacement & Complications",
+   "page": 148,
+   "q": "Comparing anastomotic leaks, a neck anastomosis leaks:",
+   "opts": [
+    "More often than a thoracic anastomosis but is less dangerous",
+    "Less often and is more dangerous",
+    "Never",
+    "With the same frequency and severity"
+   ],
+   "ans": 0,
+   "exp": "Anastomotic leak: neck anastomosis leaks more often than thoracic (thoracic leak is more dangerous). (Book p148)"
+  },
+  {
+   "id": "SURG-C21-063",
+   "sec": "Esophageal Replacement & Complications",
+   "page": 148,
+   "q": "Chylothorax after esophagectomy is due to injury to the:",
+   "opts": [
+    "Thoracic duct",
+    "Azygos vein",
+    "Thoracic sympathetic chain",
+    "Aortic duct"
+   ],
+   "ans": 0,
+   "exp": "Chylothorax: injury to the thoracic duct - turbid fluid in the drain; usually subsides spontaneously. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-064",
+   "sec": "Chemoradiotherapy, Stents & Malignant TEF",
+   "page": 148,
+   "q": "Combined chemoradiation in esophageal cancer has:",
+   "opts": [
+    "A better effect than either modality alone",
+    "No advantage over radiotherapy alone",
+    "A worse outcome than surgery for cervical tumors",
+    "No role in esophageal cancer"
+   ],
+   "ans": 0,
+   "exp": "Combined chemoradiation: better effect. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-065",
+   "sec": "Chemoradiotherapy, Stents & Malignant TEF",
+   "page": 148,
+   "q": "Chemotherapeutic drugs used in esophageal cancer include all of the following EXCEPT:",
+   "opts": [
+    "Doxorubicin",
+    "Gemcitabine",
+    "Cisplatin",
+    "5-FU"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapeutic drugs: gemcitabine, cisplatin, 5-FU. (Book p148)"
+  },
+  {
+   "id": "SURG-C21-066",
+   "sec": "Chemoradiotherapy, Stents & Malignant TEF",
+   "page": 149,
+   "q": "A malignant tracheo-esophageal fistula presents with:",
+   "opts": [
+    "Cough and pneumonia",
+    "Hematemesis",
+    "Hoarseness",
+    "Dysphagia alone"
+   ],
+   "ans": 0,
+   "exp": "Malignant TEF: presentation is cough and pneumonia. (Book p149)"
+  },
+  {
+   "id": "SURG-C21-067",
+   "sec": "Chemoradiotherapy, Stents & Malignant TEF",
+   "page": 149,
+   "q": "The m/c complication of a self expanding metallic stent (SEMS) placed for malignant TEF is:",
+   "opts": [
+    "Migration of the stent",
+    "Perforation",
+    "Chylothorax",
+    "Stent fracture"
+   ],
+   "ans": 0,
+   "exp": "Complications of SEMS: m/c is migration of the stent; also bleeding and regrowth of tumor into the stent. (Book p149)"
+  },
+  {
+   "id": "SURG-C21-068",
+   "sec": "Benign Tumors of the Esophagus",
+   "page": 149,
+   "q": "The m/c benign tumor of the esophagus is:",
+   "opts": [
+    "Leiomyoma",
+    "Lipoma",
+    "Fibroma",
+    "Hemangioma"
+   ],
+   "ans": 0,
+   "exp": "Leiomyoma: m/c benign tumor of the esophagus. (Book p149)"
+  },
+  {
+   "id": "SURG-C21-069",
+   "sec": "Benign Tumors of the Esophagus",
+   "page": 149,
+   "q": "Esophageal leiomyoma is typically located in the:",
+   "opts": [
+    "Mid and distal esophagus",
+    "Cervical esophagus",
+    "Upper third only",
+    "Gastroesophageal junction"
+   ],
+   "ans": 0,
+   "exp": "Site: mid-distal esophagus. (Book p149)"
+  },
+  {
+   "id": "SURG-C21-070",
+   "sec": "Benign Tumors of the Esophagus",
+   "page": 149,
+   "q": "The male to female incidence ratio of esophageal leiomyoma is:",
+   "opts": [
+    "2:1",
+    "1:1",
+    "1:2",
+    "10:1"
+   ],
+   "ans": 0,
+   "exp": "Incidence: M:F = 2:1. (Book p149)"
+  },
+  {
+   "id": "SURG-C21-071",
+   "sec": "Benign Tumors of the Esophagus",
+   "page": 149,
+   "q": "Small esophageal leiomyomas are usually:",
+   "opts": [
+    "Asymptomatic",
+    "Causing severe dysphagia",
+    "Causing hematemesis",
+    "Causing hoarseness"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: asymptomatic; large tumors cause dysphagia. (Book p149)"
+  },
+  {
+   "id": "SURG-C21-072",
+   "sec": "Benign Tumors of the Esophagus",
+   "page": 149,
+   "q": "The barium swallow appearance of an esophageal leiomyoma is:",
+   "opts": [
+    "Punched out appearance",
+    "Rat tail appearance",
+    "Apple core appearance",
+    "Bird beak appearance"
+   ],
+   "ans": 0,
+   "exp": "Barium swallow: punched out appearance. (Book p149)"
+  },
+  {
+   "id": "SURG-C21-073",
+   "sec": "Benign Tumors of the Esophagus",
+   "page": 149,
+   "q": "The standard surgical treatment of an esophageal leiomyoma is:",
+   "opts": [
+    "Enucleation",
+    "Esophagectomy",
+    "Endoscopic mucosal resection",
+    "Laser ablation"
+   ],
+   "ans": 0,
+   "exp": "Management: enucleation (or STER). (Book p149)"
+  },
+  {
+   "id": "SURG-C21-074",
+   "sec": "Benign Tumors of the Esophagus",
+   "page": 149,
+   "q": "STER in the management of esophageal leiomyoma stands for:",
+   "opts": [
+    "Submucosal tunneling endoscopic resection",
+    "Subtotal endoscopic resection",
+    "Stent guided tumor excision",
+    "Subserosal tumor enucleation and repair"
+   ],
+   "ans": 0,
+   "exp": "STER: submucosal tunneling endoscopic resection. (Book p149)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U21-1",
+   "ch": 21,
+   "n": 1,
+   "title": "Esophageal Cancer: Types & Risk Factors",
+   "sec": "Esophageal Cancer: Types & Risk Factors · p145",
+   "qs": [
+    "SURG-C21-001",
+    "SURG-C21-002",
+    "SURG-C21-003",
+    "SURG-C21-004",
+    "SURG-C21-005",
+    "SURG-C21-006",
+    "SURG-C21-007",
+    "SURG-C21-008",
+    "SURG-C21-009",
+    "SURG-C21-010",
+    "SURG-C21-011",
+    "SURG-C21-012",
+    "SURG-C21-013",
+    "SURG-C21-014",
+    "SURG-C21-015"
+   ],
+   "guide": "Two diseases: squamous carcinoma, still the commonest worldwide and sitting in the middle third, driven by smoking, alcohol, hot drinks, nitrosamines from pickled food, betel nut, yerba mate, poor diet, fungal toxins, mediastinal radiation, lye strictures, aerodigestive primaries, Plummer-Vinson, achalasia, tylosis, CREST and Zenker's; adenocarcinoma, the western-world leader, sits in the lower third on the reflux-Barrett's-obesity axis (Barrett's ++++ beats everything else)."
+  },
+  {
+   "id": "SURG-U21-2",
+   "ch": 21,
+   "n": 2,
+   "title": "Esophageal Cancer: Features & Investigations",
+   "sec": "Esophageal Cancer: Features & Investigations · p146",
+   "qs": [
+    "SURG-C21-016",
+    "SURG-C21-017",
+    "SURG-C21-018",
+    "SURG-C21-019",
+    "SURG-C21-020",
+    "SURG-C21-021",
+    "SURG-C21-022",
+    "SURG-C21-023"
+   ],
+   "guide": "Progressive dysphagia to solids more than liquids plus weight loss is the presentation; hoarseness means left recurrent laryngeal nerve and chronic cough means a malignant tracheo-esophageal fistula - both advanced. Diagnose by endoscopic biopsy, stage the body with PET-CT (18-FDG, half-life 110 min), stage the wall and nodes with EUS, and expect a rat-tail or apple-core barium."
+  },
+  {
+   "id": "SURG-U21-3",
+   "ch": 21,
+   "n": 3,
+   "title": "Esophageal Cancer: TNM & Siewert Classification",
+   "sec": "Esophageal Cancer: TNM & Siewert Classification · p147",
+   "qs": [
+    "SURG-C21-024",
+    "SURG-C21-025",
+    "SURG-C21-026",
+    "SURG-C21-027",
+    "SURG-C21-028",
+    "SURG-C21-029",
+    "SURG-C21-030",
+    "SURG-C21-031",
+    "SURG-C21-032",
+    "SURG-C21-033",
+    "SURG-C21-034",
+    "SURG-C21-035",
+    "SURG-C21-036"
+   ],
+   "guide": "TNM: Tis is high-grade dysplasia, T1 lamina propria/muscularis mucosae/submucosa, T2 muscularis propria, T3 adventitia, T4a resectable neighbours (pleura, pericardium, diaphragm) and T4b unresectable ones (aorta, vertebral body, trachea). Nodes run N1 = 1-2, N2 = 3-6, N3 = 7 or more; liver is the commonest site of distant spread. Siewert types I and II of the GE junction behave like esophageal cancer, type III like gastric cancer."
+  },
+  {
+   "id": "SURG-U21-4",
+   "ch": 21,
+   "n": 4,
+   "title": "Management of Esophageal Cancer",
+   "sec": "Management of Esophageal Cancer · p147",
+   "qs": [
+    "SURG-C21-037",
+    "SURG-C21-038",
+    "SURG-C21-039",
+    "SURG-C21-040",
+    "SURG-C21-041",
+    "SURG-C21-042",
+    "SURG-C21-043",
+    "SURG-C21-044",
+    "SURG-C21-045"
+   ],
+   "guide": "Stage decides: T1a above the submucosa is cured by EMR, T1b/T2 node-negative goes straight to esophagectomy, T3/T4 gets neoadjuvant chemoradiation then surgery, and cervical tumors get definitive chemoradiotherapy to save the larynx. Resections are graded R0 (microscopically clear), R1 (microscopic disease left) and R2 (gross disease left), with 10 cm proximal and 5 cm distal margins because skip lesions travel."
+  },
+  {
+   "id": "SURG-U21-5",
+   "ch": 21,
+   "n": 5,
+   "title": "Types of Esophagectomy",
+   "sec": "Types of Esophagectomy · p148",
+   "qs": [
+    "SURG-C21-046",
+    "SURG-C21-047",
+    "SURG-C21-048",
+    "SURG-C21-049",
+    "SURG-C21-050",
+    "SURG-C21-051",
+    "SURG-C21-052",
+    "SURG-C21-053",
+    "SURG-C21-054",
+    "SURG-C21-055",
+    "SURG-C21-056",
+    "SURG-C21-057"
+   ],
+   "guide": "Three operations: McKeown's three-field (abdomen, right chest, left neck - best node clearance, for middle third), trans-hiatal Orringer (abdomen and left neck, no thoracotomy, for lower third) and Ivor Lewis (abdomen and right chest, anastomosis in the chest). Anastomotic leak causing mediastinitis is the commonest cause of death, stricture the commonest late problem, and at least 15 nodes should come out."
+  },
+  {
+   "id": "SURG-U21-6",
+   "ch": 21,
+   "n": 6,
+   "title": "Esophageal Replacement & Complications",
+   "sec": "Esophageal Replacement & Complications · p148",
+   "qs": [
+    "SURG-C21-058",
+    "SURG-C21-059",
+    "SURG-C21-060",
+    "SURG-C21-061",
+    "SURG-C21-062",
+    "SURG-C21-063"
+   ],
+   "guide": "The stomach tube, pedicled on the right gastroepiploic artery, is the conduit of choice; colon if the stomach is unusable. Expect atelectasis and pneumonia; a neck anastomosis leaks more often but a thoracic leak kills more often; turbid drain fluid means thoracic duct injury - chylothorax usually settles on its own."
+  },
+  {
+   "id": "SURG-U21-7",
+   "ch": 21,
+   "n": 7,
+   "title": "Chemoradiotherapy, Stents & Malignant TEF",
+   "sec": "Chemoradiotherapy, Stents & Malignant TEF · p148",
+   "qs": [
+    "SURG-C21-064",
+    "SURG-C21-065",
+    "SURG-C21-066",
+    "SURG-C21-067"
+   ],
+   "guide": "Combined chemoradiation works better than either alone, using gemcitabine, cisplatin and 5-FU. A malignant tracheo-esophageal fistula presents with cough and pneumonia and is palliated with a SEMS - though migration is the commonest problem, followed by bleeding and tumour regrowth through the mesh."
+  },
+  {
+   "id": "SURG-U21-8",
+   "ch": 21,
+   "n": 8,
+   "title": "Benign Tumors of the Esophagus",
+   "sec": "Benign Tumors of the Esophagus · p149",
+   "qs": [
+    "SURG-C21-068",
+    "SURG-C21-069",
+    "SURG-C21-070",
+    "SURG-C21-071",
+    "SURG-C21-072",
+    "SURG-C21-073",
+    "SURG-C21-074"
+   ],
+   "guide": "Leiomyoma is the commonest benign esophageal tumor - mid-distal, twice as common in men, usually silent until it is big enough to cause dysphagia. Barium shows a punched-out filling defect and treatment is enucleation (or submucosal tunnelling endoscopic resection, STER)."
+  }
+ ]
+}

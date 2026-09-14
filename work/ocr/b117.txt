@@ -1,0 +1,44 @@
+### raw
+117
+..--Activespace-...
+TUMORS
+Adrenal Incidentaloma
+00:01:18
+Incidental diagnosis of adrenal lesions.
+causes :
+·Non-functional tumors.: m/c
+·metastases.:
+-Breast Cancer.
+- Lung Cancer.
+Benign tumors : sio HU
+- Renal Cancer.
+·Functional tumors:
+- Cushing's Syndrome.
+-Carcinoma
+NCCTshowingincidentaloma
+Evaluation:
+om
+Functional tumors:
+malignancy :
+Serumcortisol
+FNAC (only after ruling out
+·Plasma free metanephrines
+pheochromocytoma).
+·Serum DHEA
+· Dexamethasone suppression test
+· urinary cortisol
+· Diameter 74 cm and >I0 Hu density.
+·CECT:washout.
+·FDG PeT: Positive uptake.
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+..--Activespace-...  117
+TUMORS
+Adrenal Incidentaloma  Incidental diagnosis of adrenal lesions.  causes :  00:01:18
+·Non-functional tumors.: m/c  ·metastases.:  - Lung Cancer.  -Breast Cancer.  Benign tumors : sio HU
+·Functional tumors:  - Renal Cancer.  -Carcinoma  - Cushing's Syndrome.
+Evaluation:  om  NCCTshowingincidentaloma
+·Plasma free metanephrines  ·Serum DHEA  Serumcortisol  Functional tumors:  pheochromocytoma).  FNAC (only after ruling out  malignancy :
+· urinary cortisol  · Dexamethasone suppression test
+· Diameter 74 cm and >I0 Hu density.  ·FDG PeT: Positive uptake.  ·CECT:washout.
+Surgery·v1.0·Marrow 8.0·2024

@@ -1,0 +1,70 @@
+### raw
+148
+GastrointestinalandAbdominalSurgery
+---- Active space --
+Types of esophagectomies :
+mc Keown's (3 feld 
+Trans-hiatal (orringer)
+Ivor Lewis
+Esophagectomy)
+middle I/3rd (Best for
+Lower I/3rd
+middle 1/3rd
+Location
+LN clearance)
+a:
+3：
+a:
+midline abdomen
+·midline abdomen
+·midline abdomen
+No of incisions
+·Rt thorax
+Rt thorax
+·Lt side of neck
+·Lt neck
+Siteof
+Thorax
+Neck
+Neck
+anastomosis
+·Anastomoticleak->mediastinitis
+(m/c cause of death)
+Complications
+· m/e long term complication :
+Stricture
+minimum no. of LN removed : Is.
+Esophageal replacement :
+· m/c  best : Stomach tube.
+· Based on : Rt gastric epiploic A.
+> Rt gastric A.
+· f stomach involved : Colon/
+"wmum!a!
+Complications :
+Esophageal replacement
+·Atelectasis.
+·Pneumonia.
+·Anastomotic leak : Neck anastomosis > Thoracic (more dangerous)
+hmui NTa ·
+ Chylothorax : Injury to thoracic duct —> Turbid fHuid in drain (Spontaneously
+subsides).
+Chemotherapy + Radiotherapy :
+· Combined chemoradiation : Better effect.
+Chemo
+·Chemotherapeutic drugs : Gemcitabine, Cisplatin, S-Fu.
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+148  GastrointestinalandAbdominalSurgery
+---- Active space --  Types of esophagectomies :  Trans-hiatal (orringer)  Ivor Lewis  mc Keown's (3 feld   Esophagectomy)
+Location  a:  Lower I/3rd  a:  middle 1/3rd  3：  middle I/3rd (Best for  LN clearance)
+No of incisions  ·midline abdomen  ·Lt side of neck  ·Rt thorax  ·midline abdomen  ·Lt neck  Rt thorax  midline abdomen
+anastomosis  Siteof  Neck  (m/c cause of death)  ·Anastomoticleak->mediastinitis  Thorax  Neck
+Complications  · m/e long term complication :  Stricture
+minimum no. of LN removed : Is.  Esophageal replacement :  · m/c  best : Stomach tube.
+· f stomach involved : Colon/  · Based on : Rt gastric epiploic A.  > Rt gastric A.
+Complications :  ·Atelectasis.  "wmum!a!  Esophageal replacement
+hmui NTa ·  ·Anastomotic leak : Neck anastomosis > Thoracic (more dangerous)  ·Pneumonia.
+ Chylothorax : Injury to thoracic duct —> Turbid fHuid in drain (Spontaneously  subsides).
+Chemotherapy + Radiotherapy :  · Combined chemoradiation : Better effect.  Chemo
+·Chemotherapeutic drugs : Gemcitabine, Cisplatin, S-Fu.
+Surgery·v1.0·Marrow 8.0·2024

@@ -1,0 +1,58 @@
+### raw
+130
+Gastrointestinal and Abdominal Surgery
+.-- Active spaco -**
+Associated Anomalies :
+mnemonic:"vAcTERL"
+Vertebraldefects.
+·Anorectal malformations.
+Cardiac abnormalities.
+·1e Fistula.
+· Renal.
+Linb abnormalities.
+management :
+Waterston criteria :
+Birth weight
+Pneumonia
+Action plan
+7a.s kg
+upfront Surgery
+1.8 - a.5 kg
++/-
+·Antibiotics
+followed by≥ Sx.
+Build weiqht
+< 1.8 kg
+↑ weight
+Gastrostomy
+>Rx pneumonia
+Delayed Sx
+Surgical management :
+· Type A :
+a ends close:Anastomose.
+Anastomosis Gastrostomy  Flourish device
+a ends far apart :
+ as ends grow closer ≥ Anastomose.
+a. Gastrostomy
+b. Flourish device : magnets at both ends to hasten growth.
+Type B, C, D, & : Kamron Haight surgery 
+-Posterolateral thoracotomy : To identify fstulous area.
+Cut Hstula
+Repair trachea : PDS
+(Polydioxanone suture)
+Anastomose two ends
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+.-- Active spaco -**  130  Associated Anomalies :  Gastrointestinal and Abdominal Surgery
+mnemonic:"vAcTERL"  ·Anorectal malformations.  Vertebraldefects.
+· Renal.  ·1e Fistula.  Cardiac abnormalities.
+management :  Linb abnormalities.
+Waterston criteria :  Birth weight  7a.s kg  Pneumonia  upfront Surgery  Action plan
+1.8 - a.5 kg  < 1.8 kg  +/-  Gastrostomy  ·Antibiotics  Build weiqht  followed by≥ Sx.  ↑ weight
+Surgical management :  Delayed Sx  >Rx pneumonia
+· Type A :  a ends close:Anastomose.  a ends far apart :  Anastomosis Gastrostomy  Flourish device
+Type B, C, D, & : Kamron Haight surgery   b. Flourish device : magnets at both ends to hasten growth.  a. Gastrostomy   as ends grow closer ≥ Anastomose.
+-Posterolateral thoracotomy : To identify fstulous area.  Cut Hstula
+(Polydioxanone suture)  Repair trachea : PDS
+Anastomose two ends
+Surgery·v1.0·Marrow 8.0·2024

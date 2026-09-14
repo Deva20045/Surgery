@@ -1,0 +1,55 @@
+### raw
+120
+Endocrine System
+..-Active space ...
+microscopy:
+· Zellballen pattern..
+· Salt  pepper nuclei. 
+IHC:
+Positive for :
+· Synaptophysin.
+·Neuron specific enolase.
+·Chromogranin.
+HPE of pheochromocytoma
+malignant Pheochromocytoma:
+·metastases : Confrmatory sign.
+·Pass score:
+I. Ki-lo7 (proliferation marker).
+a.Vascular invasion.
+3. Capsular invasion.
+Compounds released :
+·Adrenal pheochromocytoma : Noradrenaline > Adrenaline.
+· Paraganglioma : Noradrenaline.
+·malignant : Dopamine
+Light bulb/swiss cheese
+appearance
+CLINICALFEATURES
+Headache:
+- m/e symptom.
+- D/t Hypertension : m/c sign.
+·Sweating.
+·Palpitations.
+·Weight loss.
+INVESTIGATIONS
+Pheochromocytoma on mRI
+Screening test : 24 hour urinary vmA
+Note:Pheochromocytoma
+(Vanillyl mandelic acid).
+commonly metastisestobones,
+liver.
+most Sensitive : Plasma free metanephrines.
+> mRI : Light bulb sign/swiss cheese appearance.
+IOC
+≥ Extra adrenal pheochromocytoma /mets: Gallium dotatate scan.
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+..-Active space ...  120  microscopy:  Endocrine System  · Zellballen pattern..
+Positive for :  IHC:  · Salt  pepper nuclei.   · Synaptophysin.
+malignant Pheochromocytoma:  ·metastases : Confrmatory sign.  ·Neuron specific enolase.  ·Chromogranin.  HPE of pheochromocytoma
+·Pass score:  I. Ki-lo7 (proliferation marker).  3. Capsular invasion.  a.Vascular invasion.
+Compounds released :  ·Adrenal pheochromocytoma : Noradrenaline > Adrenaline.  · Paraganglioma : Noradrenaline.  ·malignant : Dopamine  Light bulb/swiss cheese
+CLINICALFEATURES  Headache:  - D/t Hypertension : m/c sign.  - m/e symptom.  appearance
+·Sweating.  ·Palpitations.  ·Weight loss.
+Screening test : 24 hour urinary vmA  INVESTIGATIONS  (Vanillyl mandelic acid).  liver.  Note:Pheochromocytoma  commonly metastisestobones,  Pheochromocytoma on mRI
+most Sensitive : Plasma free metanephrines.  IOC  > mRI : Light bulb sign/swiss cheese appearance.  ≥ Extra adrenal pheochromocytoma /mets: Gallium dotatate scan.
+Surgery·v1.0·Marrow 8.0·2024

@@ -1,0 +1,57 @@
+### raw
+144
+Gastrointestinal andAbdominal Surgery
+01:02:20
+Other Esophageal Disorders
+---Activespace--
+Schatzki ring :
+mucosal >>> submucosal ring.
+Site : Lower esophagus.
+C/ : Intermittent, non-progressive dysphagia.
+Ix : Ioc -→ Barium swallow.
+Balloon dilatation.
+Proximal end
+A ring
+(ouy omosnu)
+B ring
+SHATZKIRNG
+HATALHERNIA
+Schatzki ring
+(ouu poson)
+Bring
+Vestibule
+(Narrowed B ring)
+≥C ring (A/w sliding
+hiatal hernia)
+Barium swallow : Schatzki ring
+Dysphagia lusoria :
+Esophageal compression d/t aberrant (Rt) subclavian A.
+Right common
+carotid artery
+Esophagus
+Leftcommon
+carotid artery
+Leftsubclavian
+artery
+'Aberrant right
+subclavian artery
+ Ascending
+aorta
+Trachea
+Descending
+aorta
+Surgery·v1.0·Marrow8.0·2024
+### geo
+144  Other Esophageal Disorders  Gastrointestinal andAbdominal Surgery  01:02:20
+---Activespace--  mucosal >>> submucosal ring.  Schatzki ring :
+C/ : Intermittent, non-progressive dysphagia.  Ix : Ioc -→ Barium swallow.  Site : Lower esophagus.
+Balloon dilatation.  Proximal end
+(ouy omosnu)  B ring  A ring
+SHATZKIRNG  HATALHERNIA  Bring  Vestibule  (Narrowed B ring)  Schatzki ring  ≥C ring (A/w sliding  (ouu poson)
+Barium swallow : Schatzki ring  hiatal hernia)
+Dysphagia lusoria :  Esophageal compression d/t aberrant (Rt) subclavian A.
+carotid artery  Right common  Esophagus
+Leftcommon  Leftsubclavian  artery  carotid artery
+'Aberrant right   Ascending  subclavian artery  aorta
+Trachea  Descending  aorta
+Surgery·v1.0·Marrow8.0·2024

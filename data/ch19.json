@@ -1,0 +1,2066 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C19-001",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "The first constriction of the esophagus is at the level of:",
+   "opts": [
+    "C6 - pharyngoesophageal junction",
+    "T4 - arch of aorta",
+    "T10 - diaphragm",
+    "T8 - IVC opening"
+   ],
+   "ans": 0,
+   "exp": "1st constriction: C6 (pharyngoesophageal junction). (Book p126)"
+  },
+  {
+   "id": "SURG-C19-002",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "The narrowest portion of the whole gastrointestinal tract is:",
+   "opts": [
+    "Cricopharyngeal/pharyngoesophageal junction (4 mm)",
+    "Pylorus",
+    "Ileocaecal valve",
+    "Anal canal"
+   ],
+   "ans": 0,
+   "exp": "C6 junction: narrowest portion of the GIT (4 mm diameter). (Book p126)"
+  },
+  {
+   "id": "SURG-C19-003",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "Foreign body impaction in the esophagus is m/c at the:",
+   "opts": [
+    "C6 constriction",
+    "Aortic constriction",
+    "Diaphragmatic constriction",
+    "Cardia"
+   ],
+   "ans": 0,
+   "exp": "C6 constriction: site of foreign body impaction. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-004",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "The m/c site of iatrogenic esophageal perforation is:",
+   "opts": [
+    "C6 constriction",
+    "Mid esophagus",
+    "Lower esophagus",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "C6 constriction: m/c site of iatrogenic esophageal perforation. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-005",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "The second constriction of the esophagus is caused by:",
+   "opts": [
+    "Arch of aorta and left main stem bronchus",
+    "Left atrium only",
+    "Azygos vein",
+    "Thoracic duct"
+   ],
+   "ans": 0,
+   "exp": "2nd constriction: arch of aorta + left main stem bronchus (T4). (Book p126)"
+  },
+  {
+   "id": "SURG-C19-006",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "The third constriction of the esophagus is at the:",
+   "opts": [
+    "Diaphragm (T10)",
+    "Cricoid cartilage",
+    "Carina",
+    "Gastroesophageal junction"
+   ],
+   "ans": 0,
+   "exp": "3rd constriction: diaphragm (T10). (Book p126)"
+  },
+  {
+   "id": "SURG-C19-007",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "The diaphragmatic opening at T8 transmits the:",
+   "opts": [
+    "IVC and phrenic nerve",
+    "Esophagus and vagus",
+    "Aorta and thoracic duct",
+    "Azygos vein"
+   ],
+   "ans": 0,
+   "exp": "T8: IVC and phrenic nerve. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-008",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "Structures passing through the esophageal hiatus at T10 are:",
+   "opts": [
+    "Esophagus, vagus and left gastric artery",
+    "Aorta and thoracic duct",
+    "IVC and phrenic nerve",
+    "Sympathetic chain"
+   ],
+   "ans": 0,
+   "exp": "T10: esophagus, vagus, left gastric artery. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-009",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "page": 126,
+   "q": "The aortic opening of the diaphragm at T12 transmits:",
+   "opts": [
+    "Aorta and thoracic duct",
+    "Esophagus and vagus",
+    "IVC",
+    "Azygos vein"
+   ],
+   "ans": 0,
+   "exp": "T12: aorta + thoracic duct. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-010",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The arterial supply of the esophagus is:",
+   "opts": [
+    "Segmental in nature",
+    "From a single axial vessel",
+    "From the coeliac trunk alone",
+    "From the internal thoracic artery alone"
+   ],
+   "ans": 0,
+   "exp": "Blood supply of the esophagus: segmental in nature. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-011",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The upper one third of the esophagus is supplied by the:",
+   "opts": [
+    "Inferior thyroid artery",
+    "Left gastric artery",
+    "Bronchial artery",
+    "Splenic artery"
+   ],
+   "ans": 0,
+   "exp": "Upper 1/3rd: inferior thyroid artery. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-012",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The middle one third of the esophagus is supplied by:",
+   "opts": [
+    "Descending thoracic aorta and bronchial arteries",
+    "Inferior thyroid artery",
+    "Left gastric artery",
+    "Coeliac axis"
+   ],
+   "ans": 0,
+   "exp": "Middle 1/3rd: descending thoracic aorta and bronchial artery. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-013",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The lower one third of the esophagus is supplied by the:",
+   "opts": [
+    "Left gastric artery",
+    "Inferior thyroid artery",
+    "Superior mesenteric artery",
+    "Splenic artery"
+   ],
+   "ans": 0,
+   "exp": "Lower 1/3rd: left gastric artery. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-014",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The artery involved in a Mallory Weiss tear is the:",
+   "opts": [
+    "Left gastric artery",
+    "Inferior thyroid artery",
+    "Bronchial artery",
+    "Splenic artery"
+   ],
+   "ans": 0,
+   "exp": "Left gastric artery is involved in Mallory Weiss tear. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-015",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The venous drainage of the lower esophagus:",
+   "opts": [
+    "Joins the portal circulation and is the site of porto-systemic varices",
+    "Drains entirely into the azygos system",
+    "Drains into the internal jugular vein",
+    "Drains into the inferior vena cava directly"
+   ],
+   "ans": 0,
+   "exp": "Lower 1/3rd: left gastric vein joins the portal circulation - site of porto-systemic varices. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-016",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "Lymphatic spread in esophageal cancer is characterised by:",
+   "opts": [
+    "Longitudinal spread with skip metastasis",
+    "Only transverse spread",
+    "Spread confined to the mucosa",
+    "No lymphatic spread"
+   ],
+   "ans": 0,
+   "exp": "Lymphatics: longitudinal spread, skip metastasis. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-017",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The layer absent in the esophagus is the:",
+   "opts": [
+    "Serosa",
+    "Mucosa",
+    "Submucosa",
+    "Muscularis propria"
+   ],
+   "ans": 0,
+   "exp": "Esophagus lacks serosa. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-018",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "The strongest layer of the esophagus is the:",
+   "opts": [
+    "Submucosa",
+    "Mucosa",
+    "Muscularis",
+    "Adventitia"
+   ],
+   "ans": 0,
+   "exp": "Strongest layer: submucosa. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-019",
+   "sec": "Blood Supply, Lymphatics & Layers",
+   "page": 126,
+   "q": "A long proximal margin is taken during esophagectomy in order to:",
+   "opts": [
+    "Prevent recurrence",
+    "Avoid anastomotic leak",
+    "Reduce blood loss",
+    "Preserve the vagus"
+   ],
+   "ans": 0,
+   "exp": "Esophagectomy: long proximal margin to prevent recurrence. (Book p126)"
+  },
+  {
+   "id": "SURG-C19-020",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "The lower esophageal sphincter is:",
+   "opts": [
+    "Only a physiological entity",
+    "Both an anatomical narrowing and a physiological entity",
+    "A well developed anatomical ring",
+    "A fibrous band"
+   ],
+   "ans": 0,
+   "exp": "LES: only a physiological entity (unlike the UES). (Book p127)"
+  },
+  {
+   "id": "SURG-C19-021",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "The upper esophageal sphincter is:",
+   "opts": [
+    "Both an anatomical narrowing and a physiological high pressure entity",
+    "Only a physiological entity",
+    "Only a mucosal fold",
+    "A true anatomical valve"
+   ],
+   "ans": 0,
+   "exp": "UES: both anatomical (narrowing) and physiological (high pressure) entity. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-022",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "The length of the LES and its abdominal component are:",
+   "opts": [
+    "3-5 cm total, with 2-4 cm lying in the abdomen",
+    "1-2 cm total, entirely in the abdomen",
+    "10 cm total, entirely thoracic",
+    "8-10 cm, with no abdominal part"
+   ],
+   "ans": 0,
+   "exp": "Length: 3-5 cm (abdominal length 2-4 cm). (Book p127)"
+  },
+  {
+   "id": "SURG-C19-023",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "The two parts of the inferior constrictor forming the UES are the thyropharyngeus and:",
+   "opts": [
+    "Cricopharyngeus",
+    "Stylopharyngeus",
+    "Palatopharyngeus",
+    "Salpingopharyngeus"
+   ],
+   "ans": 0,
+   "exp": "Parts of inferior constrictor: thyropharyngeus (oblique fibres) and cricopharyngeus (horizontal fibres). (Book p127)"
+  },
+  {
+   "id": "SURG-C19-024",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "The horizontal fibres of the inferior constrictor belong to the:",
+   "opts": [
+    "Cricopharyngeus",
+    "Thyropharyngeus",
+    "Stylopharyngeus",
+    "Palatopharyngeus"
+   ],
+   "ans": 0,
+   "exp": "Cricopharyngeus - horizontal fibres. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-025",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "Killian's dehiscence is the site of:",
+   "opts": [
+    "Zenker's diverticulum",
+    "Esophageal atresia",
+    "Boerhaave's perforation",
+    "Schatzki's ring"
+   ],
+   "ans": 0,
+   "exp": "Killian's dehiscence: site for Zenker's diverticulum. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-026",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "Frequent relaxation of the LES results in:",
+   "opts": [
+    "GERD",
+    "Achalasia cardia",
+    "Zenker's diverticulum",
+    "Esophageal web"
+   ],
+   "ans": 0,
+   "exp": "Frequent relaxation of the LES - GERD. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-027",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "Failure of the LES to relax causes:",
+   "opts": [
+    "Achalasia cardia",
+    "GERD",
+    "Diffuse esophageal spasm",
+    "Nutcracker esophagus"
+   ],
+   "ans": 0,
+   "exp": "LES does not relax - achalasia cardia. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-028",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "Primary peristalsis of the esophagus is a:",
+   "opts": [
+    "Propulsive wave that pushes food down",
+    "Non-propulsive wave between meals",
+    "Wave generated only after a swallow fails",
+    "Retrograde wave"
+   ],
+   "ans": 0,
+   "exp": "Primary peristalsis: propulsive wave which pushes food down. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-029",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "If primary peristalsis fails, food is pushed down by:",
+   "opts": [
+    "Secondary peristalsis",
+    "Tertiary peristalsis",
+    "Retrograde peristalsis",
+    "Segmentation"
+   ],
+   "ans": 0,
+   "exp": "If primary peristalsis fails, the secondary wave pushes food down (propulsive). (Book p127)"
+  },
+  {
+   "id": "SURG-C19-030",
+   "sec": "Esophageal Sphincters & Peristalsis",
+   "page": 127,
+   "q": "Tertiary peristalsis of the esophagus is:",
+   "opts": [
+    "Non-propulsive, occurs between meals and increases in frequency with age",
+    "The main propulsive wave after swallowing",
+    "A wave seen only in achalasia",
+    "A retrograde wave causing vomiting"
+   ],
+   "ans": 0,
+   "exp": "Tertiary peristalsis: non-propulsive wave in between meals, frequency increases with age. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-031",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "Esophageal foreign bodies are m/c seen in:",
+   "opts": [
+    "Children",
+    "Young adults",
+    "Pregnant women",
+    "The elderly"
+   ],
+   "ans": 0,
+   "exp": "Foreign body: m/c in children. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-032",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "A coin lodged in the esophagus appears in which orientation on an AP view of the neck/chest?",
+   "opts": [
+    "Side face on",
+    "End face on",
+    "Oblique only",
+    "Invisible"
+   ],
+   "ans": 0,
+   "exp": "Coin in esophagus: side face on in AP view, end face on in lateral view. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-033",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "A coin in the trachea appears in which orientation on an AP view?",
+   "opts": [
+    "End face on",
+    "Side face on",
+    "Oblique",
+    "Not visible"
+   ],
+   "ans": 0,
+   "exp": "Coin in trachea: end face on in AP view, side face on in lateral. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-034",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "The presenting feature of an esophageal foreign body is:",
+   "opts": [
+    "Dysphagia",
+    "Stridor",
+    "Hemoptysis",
+    "Hoarseness"
+   ],
+   "ans": 0,
+   "exp": "Esophageal foreign body: C/F is dysphagia. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-035",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "A foreign body in the respiratory tract presents with:",
+   "opts": [
+    "Choking and stridor",
+    "Dysphagia alone",
+    "Hematemesis",
+    "Silent abdomen"
+   ],
+   "ans": 0,
+   "exp": "Respiratory tract foreign body: choking; O/E stridor. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-036",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "The investigation for a suspected esophageal foreign body is:",
+   "opts": [
+    "X-ray",
+    "CT scan",
+    "Barium swallow",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Ix for foreign body: X-ray. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-037",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "An esophageal foreign body impacted at C6 in a symptomatic patient is treated by:",
+   "opts": [
+    "Endoscopic removal",
+    "Observation",
+    "Laparotomy",
+    "Barium follow-through"
+   ],
+   "ans": 0,
+   "exp": "Impacted at C6 and symptomatic: endoscopic removal. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-038",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "A foreign body that has traversed beyond C6 in an asymptomatic child is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate endoscopy",
+    "Emergency surgery",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "Traversed beyond C6 and asymptomatic: observation. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-039",
+   "sec": "Foreign Body in the Esophagus",
+   "page": 127,
+   "q": "Button batteries in the esophagus are managed by:",
+   "opts": [
+    "Endoscopic removal irrespective of site",
+    "Observation for 48 hours",
+    "Oral proton pump inhibitors alone",
+    "Barium swallow and discharge"
+   ],
+   "ans": 0,
+   "exp": "Button batteries: endoscopic removal irrespective of site - they corrode and perforate. (Book p127)"
+  },
+  {
+   "id": "SURG-C19-040",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "Alkali ingestion damages the esophagus by:",
+   "opts": [
+    "Saponification - penetrating deeper and causing more damage",
+    "Coagulation of proteins limiting depth",
+    "Immediate pyloric relaxation",
+    "Neutralisation by gastric acid"
+   ],
+   "ans": 0,
+   "exp": "Alkali: due to saponification - penetrates deeper, more damage. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-041",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "Acid ingestion causes injury by:",
+   "opts": [
+    "Coagulation of proteins and does not penetrate deep",
+    "Saponification with deep penetration",
+    "Liquefaction necrosis of muscle",
+    "Fat necrosis"
+   ],
+   "ans": 0,
+   "exp": "Acid: coagulation of proteins - do not penetrate deep. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-042",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "More gastric damage after acid ingestion is due to:",
+   "opts": [
+    "Pylorospasm holding the acid in the stomach",
+    "Rapid gastric emptying",
+    "Alkaline gastric secretions",
+    "Increased gastric motility"
+   ],
+   "ans": 0,
+   "exp": "Acid: pylorospasm in the stomach - more gastric damage. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-043",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "In corrosive injury of the esophagus, blind insertion of a NG tube:",
+   "opts": [
+    "Should be avoided as it can cause perforation",
+    "Is mandatory in all patients",
+    "Is the definitive treatment",
+    "Is used to neutralise the alkali"
+   ],
+   "ans": 0,
+   "exp": "Avoid blind insertion of NG tube: can cause perforation. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-044",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "Regarding antibiotics in corrosive esophageal injury:",
+   "opts": [
+    "No role of prophylactic antibiotics",
+    "Prophylactic antibiotics are mandatory",
+    "Antibiotics are given for 6 weeks",
+    "Only antifungals are used"
+   ],
+   "ans": 0,
+   "exp": "No use of prophylactic antibiotics in corrosive injury. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-045",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "The most important investigation in acute corrosive esophageal injury is:",
+   "opts": [
+    "Early skilled endoscopy within 48 hours",
+    "Barium swallow after 1 week",
+    "CT chest",
+    "Manometry"
+   ],
+   "ans": 0,
+   "exp": "Early skilled endoscopy within 48 hrs is most important. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-046",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "The role of steroids in corrosive esophageal injury is:",
+   "opts": [
+    "No role",
+    "Definitive treatment",
+    "Prevents all strictures",
+    "Given for 6 months"
+   ],
+   "ans": 0,
+   "exp": "No role of steroids in corrosive injury. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-047",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "Definitive management of a corrosive esophageal stricture is:",
+   "opts": [
+    "Dilatation or esophagectomy",
+    "Long term steroids",
+    "Radiotherapy",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Stricture management: dilatation or esophagectomy. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-048",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "Perforation following corrosive injury is managed by:",
+   "opts": [
+    "Emergency surgery",
+    "Oral steroids",
+    "Outpatient dilatation",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "Perforation: emergency surgery. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-049",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "The grading system used for corrosive esophageal injury is:",
+   "opts": [
+    "Zargar's classification",
+    "Savary-Miller classification",
+    "Los Angeles classification",
+    "Forrest classification"
+   ],
+   "ans": 0,
+   "exp": "Grading of injury: Zargar's classification. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-050",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "In Zargar's classification, grade 2B injury is:",
+   "opts": [
+    "Deep or circumferential ulceration",
+    "Normal mucosa",
+    "Superficial edema/erythema",
+    "Perforation"
+   ],
+   "ans": 0,
+   "exp": "Zargar: 2A superficial ulceration; 2B deep or circumferential ulceration. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-051",
+   "sec": "Corrosive Injury of the Esophagus",
+   "page": 128,
+   "q": "Extensive necrosis in Zargar's classification is graded as:",
+   "opts": [
+    "3B",
+    "3A",
+    "2B",
+    "4"
+   ],
+   "ans": 0,
+   "exp": "Zargar: 3A focal necrosis, 3B extensive necrosis, 4 perforation. (Book p128)"
+  },
+  {
+   "id": "SURG-C19-052",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "The m/c type of tracheo-esophageal fistula is:",
+   "opts": [
+    "Type C - proximal esophageal atresia with distal TEF",
+    "Type A - esophageal atresia without fistula",
+    "Type B - proximal TEF with distal esophageal atresia",
+    "Type E - H type fistula"
+   ],
+   "ans": 0,
+   "exp": "Type C (proximal EA with distal TEF) is the m/c type. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-053",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "Type A tracheo-esophageal anomaly is:",
+   "opts": [
+    "Esophageal atresia without any fistula",
+    "Proximal TEF with distal atresia",
+    "H type fistula",
+    "Both proximal and distal fistulae"
+   ],
+   "ans": 0,
+   "exp": "Type A: esophageal atresia only. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-054",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "Type B TEF consists of:",
+   "opts": [
+    "Proximal TEF with distal esophageal atresia",
+    "Distal TEF with proximal atresia",
+    "Both proximal and distal TEF",
+    "Isolated esophageal stenosis"
+   ],
+   "ans": 0,
+   "exp": "Type B: proximal TEF with distal EA. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-055",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "Type D TEF consists of:",
+   "opts": [
+    "Both proximal and distal TEF",
+    "No fistula at all",
+    "Proximal atresia with distal fistula",
+    "Isolated esophageal stenosis"
+   ],
+   "ans": 0,
+   "exp": "Type D: proximal and distal TEF. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-056",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "The H type of TEF is:",
+   "opts": [
+    "TEF without esophageal atresia",
+    "Atresia with no fistula",
+    "Proximal atresia with distal fistula",
+    "Esophageal stenosis with fistula"
+   ],
+   "ans": 0,
+   "exp": "H type: TEF without esophageal atresia (esophagus is patent). (Book p129)"
+  },
+  {
+   "id": "SURG-C19-057",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "Tracheo-esophageal fistula is associated with mutation of the:",
+   "opts": [
+    "N-myc gene",
+    "RET gene",
+    "NF1 gene",
+    "p53 gene"
+   ],
+   "ans": 0,
+   "exp": "TEF is associated with N-myc gene mutation. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-058",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "Before birth, TEF is suggested by:",
+   "opts": [
+    "Polyhydramnios",
+    "Oligohydramnios",
+    "Intrauterine growth restriction",
+    "Placenta praevia"
+   ],
+   "ans": 0,
+   "exp": "Intra-uterine: associated with polyhydramnios; can be detected on pre-natal scan. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-059",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "After birth, the earliest sign of esophageal atresia is:",
+   "opts": [
+    "Excessive drooling of saliva",
+    "Projectile vomiting",
+    "Abdominal distension",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "After birth: excessive drooling of saliva. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-060",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "Coiling of the orogastric tube on insertion in a newborn suggests:",
+   "opts": [
+    "Esophageal atresia (m/c with type C)",
+    "Duodenal atresia",
+    "Pyloric stenosis",
+    "Malrotation"
+   ],
+   "ans": 0,
+   "exp": "Coiling of OG tube on insertion - typical of type C (m/c). (Book p129)"
+  },
+  {
+   "id": "SURG-C19-061",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "The confirmatory test for TEF is:",
+   "opts": [
+    "Contrast study (iohexol preferred over diatrizoate)",
+    "Plain X-ray alone",
+    "CT chest",
+    "Esophageal manometry"
+   ],
+   "ans": 0,
+   "exp": "Confirmatory test: contrast study (iohexol > diatrizoate). (Book p129)"
+  },
+  {
+   "id": "SURG-C19-062",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "The investigation of choice for H type TEF is:",
+   "opts": [
+    "Combined tracheo-esophagoscopy",
+    "Barium meal",
+    "MRI neck",
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "IOC for H type: combined tracheo-esophagoscopy. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-063",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "page": 129,
+   "q": "Gas in the stomach on X-ray in a neonate with TEF indicates:",
+   "opts": [
+    "A distal TEF",
+    "Pure esophageal atresia with no fistula",
+    "Duodenal atresia",
+    "Diaphragmatic hernia"
+   ],
+   "ans": 0,
+   "exp": "X-ray showing stomach gas indicates a distal TEF. (Book p129)"
+  },
+  {
+   "id": "SURG-C19-064",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "The mnemonic for anomalies associated with TEF is:",
+   "opts": [
+    "VACTERL",
+    "CHARGE",
+    "CATCH 22",
+    "TORCH"
+   ],
+   "ans": 0,
+   "exp": "Associated anomalies: VACTERL. (Book p130)"
+  },
+  {
+   "id": "SURG-C19-065",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "In the VACTERL association, the letter A stands for:",
+   "opts": [
+    "Anorectal malformations",
+    "Anal atresia with fistula",
+    "Appendicular anomalies",
+    "Aortic anomalies"
+   ],
+   "ans": 0,
+   "exp": "VACTERL: vertebral defects, anorectal malformations, cardiac abnormalities, TE fistula, renal, limb abnormalities. (Book p130)"
+  },
+  {
+   "id": "SURG-C19-066",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "The 'TE' in VACTERL stands for:",
+   "opts": [
+    "Tracheo-esophageal fistula",
+    "Tracheal atresia",
+    "Thymic enlargement",
+    "Thoracic ectopia"
+   ],
+   "ans": 0,
+   "exp": "TE: tracheo-esophageal fistula. (Book p130)"
+  },
+  {
+   "id": "SURG-C19-067",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "According to the Waterston criteria, a baby with TEF weighing >= 2.5 kg is managed by:",
+   "opts": [
+    "Upfront surgery",
+    "Gastrostomy and delayed surgery",
+    "Antibiotics and delayed surgery",
+    "Conservative management"
+   ],
+   "ans": 0,
+   "exp": "Waterston: >= 2.5 kg - upfront surgery. (Book p130)"
+  },
+  {
+   "id": "SURG-C19-068",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "A baby with TEF weighing 1.8-2.5 kg with pneumonia is managed by:",
+   "opts": [
+    "Antibiotics followed by delayed surgery",
+    "Immediate upfront surgery",
+    "Gastrostomy alone",
+    "No intervention"
+   ],
+   "ans": 0,
+   "exp": "Waterston: 1.8-2.5 kg +/- pneumonia - antibiotics, build weight, then delayed surgery. (Book p130)"
+  },
+  {
+   "id": "SURG-C19-069",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "A baby with TEF weighing < 1.8 kg is managed by:",
+   "opts": [
+    "Gastrostomy, treatment of pneumonia and delayed surgery",
+    "Upfront surgery",
+    "Endoscopic dilation",
+    "Conservative feeding"
+   ],
+   "ans": 0,
+   "exp": "Waterston: < 1.8 kg - gastrostomy, increase weight, treat pneumonia, delayed surgery. (Book p130)"
+  },
+  {
+   "id": "SURG-C19-070",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "In type A esophageal atresia with the two ends far apart, the options include gastrostomy and the:",
+   "opts": [
+    "Flourish device - magnets at both ends to hasten growth",
+    "Immediate primary anastomosis",
+    "Total esophagectomy",
+    "Roux-en-Y reconstruction"
+   ],
+   "ans": 0,
+   "exp": "If ends are far apart: gastrostomy or Flourish device (magnets at both ends to hasten growth). (Book p130)"
+  },
+  {
+   "id": "SURG-C19-071",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "Types B, C, D and E of TEF are approached through a:",
+   "opts": [
+    "Posterolateral thoracotomy",
+    "Laparotomy",
+    "Cervical incision alone",
+    "Median sternotomy"
+   ],
+   "ans": 0,
+   "exp": "Type B, C, D and E: posterolateral thoracotomy to identify the fistulous area. (Book p130)"
+  },
+  {
+   "id": "SURG-C19-072",
+   "sec": "TEF: Associated Anomalies & Management",
+   "page": 130,
+   "q": "During repair of a TEF, the trachea is repaired with:",
+   "opts": [
+    "PDS (polydioxanone suture)",
+    "Silk",
+    "Catgut",
+    "Steel wire"
+   ],
+   "ans": 0,
+   "exp": "Repair trachea with PDS (polydioxanone suture). (Book p130)"
+  },
+  {
+   "id": "SURG-C19-073",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "The most important protective factor against GERD is:",
+   "opts": [
+    "Angle of His",
+    "Arrangement of mucosal folds",
+    "Length of the esophagus",
+    "Salivary bicarbonate"
+   ],
+   "ans": 0,
+   "exp": "Protective factors: angle of His is the most important. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-074",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "The normal length of the intra-abdominal esophagus is:",
+   "opts": [
+    "3-5 cm",
+    "1 cm",
+    "8-10 cm",
+    "10-12 cm"
+   ],
+   "ans": 0,
+   "exp": "Protective factor: intra-abdominal esophagus 3-5 cm. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-075",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "The protective factor contributing the least to GERD prevention is:",
+   "opts": [
+    "Arrangement of mucosal folds",
+    "Angle of His",
+    "Intra-abdominal esophagus length",
+    "Pinching effect of diaphragmatic crura"
+   ],
+   "ans": 0,
+   "exp": "Arrangement of mucosal fold: least contribution. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-076",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "An intra-abdominal esophageal length less than which value predisposes to GERD?",
+   "opts": [
+    "Less than 2 cm",
+    "Less than 5 cm",
+    "Less than 8 cm",
+    "Less than 1 cm"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: intra-abdominal esophagus length < 2 cm. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-077",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "A lower esophageal sphincter pressure below which value predisposes to GERD?",
+   "opts": [
+    "Less than 10 mmHg",
+    "Less than 30 mmHg",
+    "Less than 50 mmHg",
+    "Less than 100 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: LES pressure < 10 mmHg. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-078",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "Transient lower esophageal sphincter relaxations (TLOSR) in GERD are:",
+   "opts": [
+    "Increased",
+    "Decreased",
+    "Absent",
+    "Unchanged"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: increased TLOSR (transient lower esophageal sphincter relaxation). (Book p131)"
+  },
+  {
+   "id": "SURG-C19-079",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "The pinching effect of the diaphragmatic crura is a:",
+   "opts": [
+    "Protective factor against GERD",
+    "Cause of achalasia",
+    "Cause of Barrett's esophagus",
+    "Cause of Boerhaave's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Protective factor: pinching effect of diaphragmatic crura. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-080",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "Central obesity increases the risk of:",
+   "opts": [
+    "Barrett's esophagus and adenocarcinoma",
+    "Achalasia cardia",
+    "Esophageal web",
+    "Zenker's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Central obesity: increased risk of Barrett's esophagus and adenocarcinoma. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-081",
+   "sec": "GERD: Pathogenesis & Protective Factors",
+   "page": 131,
+   "q": "Falling H. pylori rates are noted in the risk factor discussion of:",
+   "opts": [
+    "GERD",
+    "Peptic ulcer disease",
+    "Carcinoid syndrome",
+    "Achalasia"
+   ],
+   "ans": 0,
+   "exp": "Risk factors for GERD include obesity; note the decreasing H. pylori rates. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-082",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "The m/c symptom of GERD is:",
+   "opts": [
+    "Retrosternal burning (heartburn)",
+    "Water brash",
+    "Dysphagia",
+    "Hematemesis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: retrosternal burn (heartburn) is the m/c. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-083",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "Water brash refers to:",
+   "opts": [
+    "Sudden excessive salivation with reflux",
+    "Vomiting of blood",
+    "Nocturnal cough",
+    "Pain on swallowing"
+   ],
+   "ans": 0,
+   "exp": "Water brash is a recognised feature of GERD. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-084",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "Extra-esophageal manifestations of GERD include all of the following EXCEPT:",
+   "opts": [
+    "Hematuria",
+    "Pharyngitis / laryngitis",
+    "Dental caries",
+    "Chronic cough and wheezing"
+   ],
+   "ans": 0,
+   "exp": "Features: pharyngitis/laryngitis, dental caries, chronic cough and wheezing. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-085",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "The investigation of choice for GERD is:",
+   "opts": [
+    "Upper GI endoscopy",
+    "24 hour pH monitoring",
+    "Barium swallow",
+    "Manometry"
+   ],
+   "ans": 0,
+   "exp": "IOC: upper GI endoscopy. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-086",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "The gold standard investigation for GERD is:",
+   "opts": [
+    "24 hour pH monitoring",
+    "Upper GI endoscopy",
+    "Barium swallow",
+    "CT scan"
+   ],
+   "ans": 0,
+   "exp": "Gold standard: 24 hr pH monitoring. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-087",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "24 hour pH monitoring is indicated when:",
+   "opts": [
+    "Endoscopy is inconclusive or an intervention is planned",
+    "The patient has dysphagia",
+    "There is hematemesis",
+    "There is weight loss"
+   ],
+   "ans": 0,
+   "exp": "Indications for pH monitoring: endoscopy inconclusive or intervention planned. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-088",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "The pH probe in 24 hour pH monitoring is placed:",
+   "opts": [
+    "5 cm proximal to the gastroesophageal junction",
+    "At the cricopharyngeus",
+    "In the gastric antrum",
+    "10 cm above the diaphragm"
+   ],
+   "ans": 0,
+   "exp": "pH probe: 5 cm proximal to the GE junction. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-089",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "Proton pump inhibitors should be stopped before pH monitoring for:",
+   "opts": [
+    "5-10 days",
+    "24 hours",
+    "1 month",
+    "They need not be stopped"
+   ],
+   "ans": 0,
+   "exp": "Stop PPI 5-10 days before pH monitoring for accuracy. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-090",
+   "sec": "GERD: Clinical Features & Investigations",
+   "page": 131,
+   "q": "A DeMeester score above which value is diagnostic of GERD?",
+   "opts": [
+    "> 14.72",
+    "> 4.7",
+    "> 1.4",
+    "> 40"
+   ],
+   "ans": 0,
+   "exp": "DeMeester score > 14.72 indicates GERD. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-091",
+   "sec": "GERD: Lifestyle & Medical Treatment",
+   "page": 131,
+   "q": "Lifestyle modification for GERD includes all of the following EXCEPT:",
+   "opts": [
+    "Large meals at bedtime",
+    "Weight reduction",
+    "Avoiding fried, fatty and spicy food, citrus, chocolate and mint",
+    "Small, frequent meals"
+   ],
+   "ans": 0,
+   "exp": "Lifestyle: weight reduction, avoid fried/fatty/spicy food, citrus, chocolate, mint; small frequent meals; dine 2-3 hrs before sleeping. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-092",
+   "sec": "GERD: Lifestyle & Medical Treatment",
+   "page": 131,
+   "q": "Patients with GERD are advised to have dinner how long before sleeping?",
+   "opts": [
+    "2-3 hours",
+    "Immediately before sleep",
+    "6-8 hours",
+    "30 minutes"
+   ],
+   "ans": 0,
+   "exp": "Dine 2-3 hrs before sleeping. (Book p131)"
+  },
+  {
+   "id": "SURG-C19-093",
+   "sec": "GERD: Lifestyle & Medical Treatment",
+   "page": 132,
+   "q": "Medical management of GERD includes:",
+   "opts": [
+    "Proton pump inhibitors, prokinetics and antacids",
+    "Proton pump inhibitors only",
+    "Antibiotics and steroids",
+    "H2 blockers with chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Medications: PPI, prokinetics, antacids. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-094",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Surgery for GERD is indicated in all of the following EXCEPT:",
+   "opts": [
+    "Asymptomatic patients on no medication",
+    "Patients not responding to medical management",
+    "Complications of GERD such as Barrett's esophagus, strictures or adenocarcinoma",
+    "Patients with an associated sliding hiatal hernia"
+   ],
+   "ans": 0,
+   "exp": "Indications for surgery: failed medical management, GERD complications (Barrett's, stricture, adenocarcinoma), associated sliding hiatal hernia, patient wants to stop medication. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-095",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "The two operations described for GERD are fundoplication and:",
+   "opts": [
+    "Collis gastroplasty",
+    "Heller's myotomy",
+    "Nissen's cardioplasty",
+    "Ramstedt's pyloromyotomy"
+   ],
+   "ans": 0,
+   "exp": "Surgery for GERD: fundoplication or Collis gastroplasty. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-096",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "During fundoplication the intra-abdominal esophageal length restored should be at least:",
+   "opts": [
+    "3 cm",
+    "1 cm",
+    "10 cm",
+    "8 cm"
+   ],
+   "ans": 0,
+   "exp": "Principles: restore intra-abdominal esophagus length >= 3 cm. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-097",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Nissen's fundoplication is a:",
+   "opts": [
+    "Complete 360 degree wrap",
+    "180 degree anterior wrap",
+    "270 degree posterior wrap",
+    "180 degree posterior wrap"
+   ],
+   "ans": 0,
+   "exp": "Complete wrap (Nissen's): 360 degrees. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-098",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "The m/c complication of Nissen's fundoplication is:",
+   "opts": [
+    "Gas bloat syndrome",
+    "Dumping syndrome",
+    "Blind loop syndrome",
+    "Short bowel syndrome"
+   ],
+   "ans": 0,
+   "exp": "Complete wrap (Nissen's 360): m/c complication is gas bloat syndrome. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-099",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Dor fundoplication is a:",
+   "opts": [
+    "180 degree anterior wrap",
+    "180-270 degree posterior wrap",
+    "270 degree anterior wrap",
+    "Complete 360 degree wrap"
+   ],
+   "ans": 0,
+   "exp": "Partial wrap: Dor = 180 degrees anterior. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-100",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Toupet fundoplication is a:",
+   "opts": [
+    "180-270 degree posterior wrap",
+    "180 degree anterior wrap",
+    "Complete 360 degree wrap",
+    "270 degree anterior wrap"
+   ],
+   "ans": 0,
+   "exp": "Toupet: 180-270 degrees posterior wrap. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-101",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Belsey Mark fundoplication is a:",
+   "opts": [
+    "270 degree anterior wrap",
+    "180 degree posterior wrap",
+    "Complete 360 degree wrap",
+    "90 degree lateral wrap"
+   ],
+   "ans": 0,
+   "exp": "Belsey Mark: 270 degrees anterior. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-102",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Preservation of which structure is a principle of fundoplication?",
+   "opts": [
+    "Vagus nerve",
+    "Phrenic nerve",
+    "Thoracic duct",
+    "Azygos vein"
+   ],
+   "ans": 0,
+   "exp": "Principles of fundoplication include preserving the vagus nerve. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-103",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Re-establishing the angle of His is one of the principles of:",
+   "opts": [
+    "Fundoplication",
+    "Heller's myotomy",
+    "Esophagectomy",
+    "Cardiomyotomy"
+   ],
+   "ans": 0,
+   "exp": "Principle of fundoplication: re-establish the angle of His. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-104",
+   "sec": "GERD: Surgical Management & Fundoplication",
+   "page": 132,
+   "q": "Tightening of the diaphragmatic crura around the esophagus is done during:",
+   "opts": [
+    "Fundoplication",
+    "Esophagectomy",
+    "Heller's myotomy",
+    "Zenker's diverticulectomy"
+   ],
+   "ans": 0,
+   "exp": "Principle: tighten diaphragmatic crura around the esophagus. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-105",
+   "sec": "Collis Gastroplasty & Newer Modalities",
+   "page": 132,
+   "q": "The indication for Collis gastroplasty is:",
+   "opts": [
+    "Esophageal shortening",
+    "Achalasia cardia",
+    "Barrett's esophagus",
+    "Esophageal web"
+   ],
+   "ans": 0,
+   "exp": "Collis gastroplasty: indication is esophageal shortening. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-106",
+   "sec": "Collis Gastroplasty & Newer Modalities",
+   "page": 132,
+   "q": "The neo-esophagus is created in:",
+   "opts": [
+    "Collis gastroplasty",
+    "Nissen's fundoplication",
+    "Heller's myotomy",
+    "Toupet fundoplication"
+   ],
+   "ans": 0,
+   "exp": "Collis gastroplasty creates a neo-esophagus. (Book p132)"
+  },
+  {
+   "id": "SURG-C19-107",
+   "sec": "Collis Gastroplasty & Newer Modalities",
+   "page": 133,
+   "q": "Polymer injection around the LES to tighten the sphincter is:",
+   "opts": [
+    "Not preferred because of a high recurrence rate",
+    "The gold standard treatment",
+    "Preferred over fundoplication",
+    "Used only in achalasia"
+   ],
+   "ans": 0,
+   "exp": "Newer modality: polymer injection around LES - high recurrence rate, not preferred. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-108",
+   "sec": "Collis Gastroplasty & Newer Modalities",
+   "page": 133,
+   "q": "Transoral incisionless fundoplication is a:",
+   "opts": [
+    "NOTES (natural orifice transluminal endoscopic surgery) procedure",
+    "Laparoscopic procedure",
+    "Open thoracic procedure",
+    "Radiological procedure"
+   ],
+   "ans": 0,
+   "exp": "Transoral incisionless fundoplication: NOTES procedure. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-109",
+   "sec": "Collis Gastroplasty & Newer Modalities",
+   "page": 133,
+   "q": "Transoral incisionless fundoplication gives good long term results in patients with:",
+   "opts": [
+    "Minimal or no hiatus hernia",
+    "Large paraesophageal hernia",
+    "Barrett's esophagus",
+    "Previous esophagectomy"
+   ],
+   "ans": 0,
+   "exp": "Transoral incisionless fundoplication: good long-term results in patients with minimal/no hiatus hernia. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-110",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Barrett's esophagus is:",
+   "opts": [
+    "Specialised intestinal metaplasia with squamous epithelium replaced by columnar epithelium",
+    "Congenital columnar lining of the esophagus",
+    "Squamous metaplasia of the stomach",
+    "Hypertrophy of the muscularis mucosa"
+   ],
+   "ans": 0,
+   "exp": "Barrett's esophagus: specialised intestinal metaplasia - squamous to columnar epithelium. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-111",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "The pathognomonic endoscopic finding in Barrett's esophagus is:",
+   "opts": [
+    "Red velvety mucosa",
+    "White plaques",
+    "Blue rubber bleb nodules",
+    "Black necrotic patches"
+   ],
+   "ans": 0,
+   "exp": "Pathognomonic finding: red velvety mucosa. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-112",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "The diagnostic cell on biopsy in Barrett's esophagus is the:",
+   "opts": [
+    "Goblet cell",
+    "Parietal cell",
+    "Kupffer cell",
+    "Paneth cell"
+   ],
+   "ans": 0,
+   "exp": "On biopsy of Barrett's esophagus: goblet cells. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-113",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Barrett's esophagus is a complication of:",
+   "opts": [
+    "GERD",
+    "Achalasia",
+    "Corrosive stricture",
+    "Esophageal web"
+   ],
+   "ans": 0,
+   "exp": "Barrett's esophagus: C/F same as GERD but do not respond to treatment. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-114",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Barrett's esophagus increases the risk of:",
+   "opts": [
+    "Adenocarcinoma of the esophagus",
+    "Squamous cell carcinoma only",
+    "Esophageal varices",
+    "Achalasia"
+   ],
+   "ans": 0,
+   "exp": "Barrett's esophagus: increased risk of adenocarcinoma. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-115",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Long segment Barrett's esophagus measures:",
+   "opts": [
+    ">= 3 cm",
+    "< 3 cm",
+    "> 10 cm",
+    "The whole esophagus"
+   ],
+   "ans": 0,
+   "exp": "Types: long segment >= 3 cm; short segment < 3 cm. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-116",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Microscopic Barrett's is also called:",
+   "opts": [
+    "Cardia metaplasia",
+    "Fundic metaplasia",
+    "Pyloric metaplasia",
+    "Antral metaplasia"
+   ],
+   "ans": 0,
+   "exp": "Types: cardia metaplasia / microscopic Barrett's. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-117",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Barrett's esophagus is identified at endoscopy using:",
+   "opts": [
+    "Chromoendoscopy",
+    "Narrow band imaging only",
+    "Capsule endoscopy",
+    "Endoscopic ultrasound"
+   ],
+   "ans": 0,
+   "exp": "Identification: chromoendoscopy. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-118",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Lugol's iodine stains:",
+   "opts": [
+    "Squamous epithelium",
+    "Barrett's esophagus",
+    "Adenocarcinoma",
+    "Goblet cells"
+   ],
+   "ans": 0,
+   "exp": "Lugol's iodine: squamous epithelium. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-119",
+   "sec": "Barrett's Esophagus: Diagnosis & Types",
+   "page": 133,
+   "q": "Methylene blue stains:",
+   "opts": [
+    "Barrett's esophagus and adenocarcinoma",
+    "Normal squamous epithelium",
+    "Submucosal vessels",
+    "Lymphoid tissue"
+   ],
+   "ans": 0,
+   "exp": "Methylene blue stains Barrett's esophagus and adenocarcinoma. (Book p133)"
+  },
+  {
+   "id": "SURG-C19-120",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "In the Prague C & M criteria, M stands for:",
+   "opts": [
+    "Maximum extent of Barrett's in cm",
+    "Minimal extent",
+    "Mucosal thickness",
+    "Metaplastic grade"
+   ],
+   "ans": 0,
+   "exp": "Prague C & M criteria: M = maximum extent (cm). (Book p134)"
+  },
+  {
+   "id": "SURG-C19-121",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "Increasing maximum extent (M) of Barrett's esophagus is associated with:",
+   "opts": [
+    "Increased risk of cancer",
+    "Decreased risk of cancer",
+    "No change in risk",
+    "Spontaneous regression"
+   ],
+   "ans": 0,
+   "exp": "M: maximum extent - increasing extent increases the risk of cancer. (Book p134)"
+  },
+  {
+   "id": "SURG-C19-122",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "The Seattle biopsy protocol recommends 4 quadrant biopsies every:",
+   "opts": [
+    "2 cm",
+    "1 cm",
+    "5 cm",
+    "10 cm"
+   ],
+   "ans": 0,
+   "exp": "Seattle biopsy protocol: 4 quadrant biopsy every 2 cm. (Book p134)"
+  },
+  {
+   "id": "SURG-C19-123",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "Dysplasia in Barrett's esophagus should be confirmed by:",
+   "opts": [
+    "Two independent pathologists",
+    "A single pathologist",
+    "The endoscopist alone",
+    "Frozen section only"
+   ],
+   "ans": 0,
+   "exp": "Dysplasia confirmed by two independent pathologists. (Book p134)"
+  },
+  {
+   "id": "SURG-C19-124",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "In the Seattle protocol, the biopsy technique recommended is:",
+   "opts": [
+    "Systematic cold biopsy",
+    "Hot biopsy with cautery",
+    "Brush cytology alone",
+    "Fine needle aspiration"
+   ],
+   "ans": 0,
+   "exp": "Seattle protocol: systematic cold biopsy. (Book p134)"
+  },
+  {
+   "id": "SURG-C19-125",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "A patient with Barrett's esophagus and no dysplasia is followed by repeat OGD and biopsy every:",
+   "opts": [
+    "3-5 years",
+    "3 months",
+    "6 months",
+    "10 years"
+   ],
+   "ans": 0,
+   "exp": "No dysplasia: repeat OGD + biopsy every 3-5 years. (Book p134)"
+  },
+  {
+   "id": "SURG-C19-126",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "Low grade dysplasia in Barrett's esophagus is followed up with OGD:",
+   "opts": [
+    "Every 6 months until two consecutive examinations show non-dysplastic Barrett's",
+    "Every 3-5 years",
+    "Every 10 years",
+    "Once, then discharge"
+   ],
+   "ans": 0,
+   "exp": "LGD: OGD every 6 months until two consecutive evidence of non-dysplastic Barrett's. (Book p134)"
+  },
+  {
+   "id": "SURG-C19-127",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "High grade dysplasia or cancer in Barrett's esophagus is managed after:",
+   "opts": [
+    "MDT discussion",
+    "Immediate discharge",
+    "Repeat biopsy after 5 years",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "HGD or cancer: MDT discussion then therapeutic intervention. (Book p134)"
+  },
+  {
+   "id": "SURG-C19-128",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "page": 134,
+   "q": "Therapeutic interventions for high grade dysplasia in Barrett's are:",
+   "opts": [
+    "Esophagectomy or endoscopic radiofrequency ablation",
+    "Antireflux surgery alone",
+    "Dilatation alone",
+    "Chemotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Therapeutic intervention: surgery (esophagectomy) or endoscopic RFA. (Book p134)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U19-1",
+   "ch": 19,
+   "n": 1,
+   "title": "Surgical Anatomy: Constrictions & Diaphragmatic Openings",
+   "sec": "Surgical Anatomy: Constrictions & Diaphragmatic Openings · p126",
+   "qs": [
+    "SURG-C19-001",
+    "SURG-C19-002",
+    "SURG-C19-003",
+    "SURG-C19-004",
+    "SURG-C19-005",
+    "SURG-C19-006",
+    "SURG-C19-007",
+    "SURG-C19-008",
+    "SURG-C19-009"
+   ],
+   "guide": "Three constrictions to memorise: C6 at the pharyngoesophageal junction (the narrowest point in the whole GIT at 4 mm - where foreign bodies stick and scopes perforate), T4 from the aortic arch and left main bronchus, T10 at the diaphragm. Diaphragm openings run T8 = IVC + phrenic nerve, T10 = esophagus, vagus and left gastric artery, T12 = aorta + thoracic duct."
+  },
+  {
+   "id": "SURG-U19-2",
+   "ch": 19,
+   "n": 2,
+   "title": "Blood Supply, Lymphatics & Layers",
+   "sec": "Blood Supply, Lymphatics & Layers · p126",
+   "qs": [
+    "SURG-C19-010",
+    "SURG-C19-011",
+    "SURG-C19-012",
+    "SURG-C19-013",
+    "SURG-C19-014",
+    "SURG-C19-015",
+    "SURG-C19-016",
+    "SURG-C19-017",
+    "SURG-C19-018",
+    "SURG-C19-019"
+   ],
+   "guide": "Segmental blood supply: upper third from the inferior thyroid, middle from the descending thoracic aorta and bronchial branches, lower from the left gastric artery (the vessel that bleeds in a Mallory-Weiss tear). The lower esophageal veins join the portal system, which is why they become porto-systemic varices. No serosa, submucosa is the strongest layer, and skip metastases travel longitudinally - hence the long proximal margin at esophagectomy."
+  },
+  {
+   "id": "SURG-U19-3",
+   "ch": 19,
+   "n": 3,
+   "title": "Esophageal Sphincters & Peristalsis",
+   "sec": "Esophageal Sphincters & Peristalsis · p127",
+   "qs": [
+    "SURG-C19-020",
+    "SURG-C19-021",
+    "SURG-C19-022",
+    "SURG-C19-023",
+    "SURG-C19-024",
+    "SURG-C19-025",
+    "SURG-C19-026",
+    "SURG-C19-027",
+    "SURG-C19-028",
+    "SURG-C19-029",
+    "SURG-C19-030"
+   ],
+   "guide": "The UES is both anatomical and physiological; the LES is purely physiological (3-5 cm long, 2-4 cm of it below the diaphragm). Cricopharyngeus horizontal fibres sit just above Killian's dehiscence, the weak spot behind Zenker's diverticulum. Relax too often and you get reflux; fail to relax and you get achalasia. Peristalsis: primary propulsive, secondary rescue wave, tertiary non-propulsive and more common with age."
+  },
+  {
+   "id": "SURG-U19-4",
+   "ch": 19,
+   "n": 4,
+   "title": "Foreign Body in the Esophagus",
+   "sec": "Foreign Body in the Esophagus · p127",
+   "qs": [
+    "SURG-C19-031",
+    "SURG-C19-032",
+    "SURG-C19-033",
+    "SURG-C19-034",
+    "SURG-C19-035",
+    "SURG-C19-036",
+    "SURG-C19-037",
+    "SURG-C19-038",
+    "SURG-C19-039"
+   ],
+   "guide": "Coins read differently depending on where they are: a coin in the esophagus lies side-face-on in the AP view, in the trachea end-face-on (the sagittal plate of the trachea forces that orientation). Dysphagia means esophagus, choking and stridor means airway. Impacted at C6 and symptomatic → endoscopy; past C6 and asymptomatic → observe; button batteries → endoscopy whatever the site, because they corrode through."
+  },
+  {
+   "id": "SURG-U19-5",
+   "ch": 19,
+   "n": 5,
+   "title": "Corrosive Injury of the Esophagus",
+   "sec": "Corrosive Injury of the Esophagus · p128",
+   "qs": [
+    "SURG-C19-040",
+    "SURG-C19-041",
+    "SURG-C19-042",
+    "SURG-C19-043",
+    "SURG-C19-044",
+    "SURG-C19-045",
+    "SURG-C19-046",
+    "SURG-C19-047",
+    "SURG-C19-048",
+    "SURG-C19-049",
+    "SURG-C19-050",
+    "SURG-C19-051"
+   ],
+   "guide": "Alkali liquefies by saponification and bores deep; acid coagulates protein, so damage is shallower but pylorospasm pools it in the stomach. Resuscitate with IV fluids, never pass a NG tube blind, no prophylactic antibiotics and no steroids - get an expert endoscopy within 48 hours and grade with Zargar (2B deep/circumferential ulcer, 3B extensive necrosis, 4 perforation). Strictures are dilated or resected; perforation goes to theatre."
+  },
+  {
+   "id": "SURG-U19-6",
+   "ch": 19,
+   "n": 6,
+   "title": "Tracheo-Esophageal Fistula: Types & Diagnosis",
+   "sec": "Tracheo-Esophageal Fistula: Types & Diagnosis · p129",
+   "qs": [
+    "SURG-C19-052",
+    "SURG-C19-053",
+    "SURG-C19-054",
+    "SURG-C19-055",
+    "SURG-C19-056",
+    "SURG-C19-057",
+    "SURG-C19-058",
+    "SURG-C19-059",
+    "SURG-C19-060",
+    "SURG-C19-061",
+    "SURG-C19-062",
+    "SURG-C19-063"
+   ],
+   "guide": "Know the alphabet: A = pure atresia, B = proximal fistula with distal atresia, C = proximal atresia with distal fistula (commonest), D = both fistulae, H = fistula with a patent esophagus. Antenatal polyhydramnios, postnatal drooling and a coiled OG tube. Contrast study (iohexol preferred) confirms; combined tracheo-esophagoscopy is the IOC for the H type."
+  },
+  {
+   "id": "SURG-U19-7",
+   "ch": 19,
+   "n": 7,
+   "title": "TEF: Associated Anomalies & Management",
+   "sec": "TEF: Associated Anomalies & Management · p130",
+   "qs": [
+    "SURG-C19-064",
+    "SURG-C19-065",
+    "SURG-C19-066",
+    "SURG-C19-067",
+    "SURG-C19-068",
+    "SURG-C19-069",
+    "SURG-C19-070",
+    "SURG-C19-071",
+    "SURG-C19-072"
+   ],
+   "guide": "Look for the VACTERL partners (vertebral, anorectal, cardiac, TEF, renal, limb) and stage the baby with Waterston: >= 2.5 kg goes straight to surgery, 1.8-2.5 kg gets antibiotics and building up first, < 1.8 kg gets a gastrostomy and delayed repair. Long-gap atresia may need a gastrostomy and the Flourish magnetic device; the rest are repaired through a posterolateral thoracotomy - divide the fistula, close the trachea with PDS, anastomose the ends."
+  },
+  {
+   "id": "SURG-U19-8",
+   "ch": 19,
+   "n": 8,
+   "title": "GERD: Pathogenesis & Protective Factors",
+   "sec": "GERD: Pathogenesis & Protective Factors · p131",
+   "qs": [
+    "SURG-C19-073",
+    "SURG-C19-074",
+    "SURG-C19-075",
+    "SURG-C19-076",
+    "SURG-C19-077",
+    "SURG-C19-078",
+    "SURG-C19-079",
+    "SURG-C19-080",
+    "SURG-C19-081"
+   ],
+   "guide": "Reflux is a barrier failure: the angle of His guards the junction (the single most important factor, with the mucosal folds contributing least), an intra-abdominal length under 2 cm, a LES pressure under 10 mmHg and too many transient relaxations all let acid through; central obesity pushes it towards Barrett's and adenocarcinoma."
+  },
+  {
+   "id": "SURG-U19-9",
+   "ch": 19,
+   "n": 9,
+   "title": "GERD: Clinical Features & Investigations",
+   "sec": "GERD: Clinical Features & Investigations · p131",
+   "qs": [
+    "SURG-C19-082",
+    "SURG-C19-083",
+    "SURG-C19-084",
+    "SURG-C19-085",
+    "SURG-C19-086",
+    "SURG-C19-087",
+    "SURG-C19-088",
+    "SURG-C19-089",
+    "SURG-C19-090"
+   ],
+   "guide": "Heartburn is the classic symptom; look also for water brash, pharyngitis, dental caries and chronic cough or wheeze. Endoscopy is the IOC, but 24-hour pH monitoring remains the gold standard when endoscopy is inconclusive or before intervention: probe 5 cm above the GE junction, PPIs stopped 5-10 days beforehand, DeMeester score above 14.72 is GERD."
+  },
+  {
+   "id": "SURG-U19-10",
+   "ch": 19,
+   "n": 10,
+   "title": "GERD: Lifestyle & Medical Treatment",
+   "sec": "GERD: Lifestyle & Medical Treatment · p131",
+   "qs": [
+    "SURG-C19-091",
+    "SURG-C19-092",
+    "SURG-C19-093"
+   ],
+   "guide": "Start with lifestyle: lose weight, avoid fried, fatty and spicy food, citrus, chocolate and mint, eat small frequent meals and finish dinner 2-3 hours before bed. Drugs are PPIs, prokinetics and antacids."
+  },
+  {
+   "id": "SURG-U19-11",
+   "ch": 19,
+   "n": 11,
+   "title": "GERD: Surgical Management & Fundoplication",
+   "sec": "GERD: Surgical Management & Fundoplication · p132",
+   "qs": [
+    "SURG-C19-094",
+    "SURG-C19-095",
+    "SURG-C19-096",
+    "SURG-C19-097",
+    "SURG-C19-098",
+    "SURG-C19-099",
+    "SURG-C19-100",
+    "SURG-C19-101",
+    "SURG-C19-102",
+    "SURG-C19-103",
+    "SURG-C19-104"
+   ],
+   "guide": "Operate when drugs fail, when complications appear (Barrett's, stricture, adenocarcinoma), when a sliding hiatus hernia accompanies it, or when the patient wants off medication. Fundoplication restores 3 cm of intra-abdominal esophagus, tightens the crura, re-creates the angle of His, wraps the fundus and spares the vagus. Nissen 360 (gas bloat is its bugbear), Dor 180 anterior, Toupet 180-270 posterior, Belsey Mark 270 anterior."
+  },
+  {
+   "id": "SURG-U19-12",
+   "ch": 19,
+   "n": 12,
+   "title": "Collis Gastroplasty & Newer Modalities",
+   "sec": "Collis Gastroplasty & Newer Modalities · p132",
+   "qs": [
+    "SURG-C19-105",
+    "SURG-C19-106",
+    "SURG-C19-107",
+    "SURG-C19-108",
+    "SURG-C19-109"
+   ],
+   "guide": "Collis gastroplasty builds a neo-esophagus when the esophagus is short. Polymer injection around the LES has a high recurrence rate and is not preferred; transoral incisionless fundoplication (a NOTES procedure) does well in patients with minimal or no hiatus hernia."
+  },
+  {
+   "id": "SURG-U19-13",
+   "ch": 19,
+   "n": 13,
+   "title": "Barrett's Esophagus: Diagnosis & Types",
+   "sec": "Barrett's Esophagus: Diagnosis & Types · p133",
+   "qs": [
+    "SURG-C19-110",
+    "SURG-C19-111",
+    "SURG-C19-112",
+    "SURG-C19-113",
+    "SURG-C19-114",
+    "SURG-C19-115",
+    "SURG-C19-116",
+    "SURG-C19-117",
+    "SURG-C19-118",
+    "SURG-C19-119"
+   ],
+   "guide": "Barrett's is specialised intestinal metaplasia - squamous turns columnar, seen as red velvety mucosa and proved by goblet cells on biopsy. Symptoms mirror GERD but stop responding to treatment, some are silent, and adenocarcinoma risk climbs. Long segment >= 3 cm, short segment < 3 cm, microscopic disease = cardia metaplasia; chromoendoscopy with Lugol's iodine (squamous) and methylene blue (Barrett's and cancer) helps target biopsies."
+  },
+  {
+   "id": "SURG-U19-14",
+   "ch": 19,
+   "n": 14,
+   "title": "Barrett's Surveillance: Prague Criteria & Seattle Protocol",
+   "sec": "Barrett's Surveillance: Prague Criteria & Seattle Protocol · p134",
+   "qs": [
+    "SURG-C19-120",
+    "SURG-C19-121",
+    "SURG-C19-122",
+    "SURG-C19-123",
+    "SURG-C19-124",
+    "SURG-C19-125",
+    "SURG-C19-126",
+    "SURG-C19-127",
+    "SURG-C19-128"
+   ],
+   "guide": "Measure with Prague (C and M in cm; longer segments mean more cancer risk) and sample with the Seattle protocol - 4-quadrant cold biopsies every 2 cm, dysplasia confirmed by two independent pathologists. No dysplasia: OGD every 3-5 years; low-grade dysplasia: OGD every 6 months until two consecutive clean scopes; high-grade dysplasia or cancer goes to MDT for esophagectomy or endoscopic RFA."
+  }
+ ]
+}

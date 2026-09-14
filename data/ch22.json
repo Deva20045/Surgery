@@ -1,0 +1,1356 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C22-001",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The parts of the stomach are:",
+   "opts": [
+    "Cardia, fundus, body, antrum and pylorus",
+    "Cardia, body and duodenum",
+    "Fundus, body and jejunum",
+    "Cardia, antrum and ileum"
+   ],
+   "ans": 0,
+   "exp": "Parts of stomach: cardia, fundus, body, antrum, pylorus. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-002",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The left gastric artery is a branch of the:",
+   "opts": [
+    "Coeliac axis",
+    "Common hepatic artery",
+    "Gastroduodenal artery",
+    "Splenic artery"
+   ],
+   "ans": 0,
+   "exp": "Left gastric artery: branch of the coeliac axis. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-003",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The dominant artery of the stomach is the:",
+   "opts": [
+    "Left gastric artery",
+    "Right gastric artery",
+    "Right gastroepiploic artery",
+    "Short gastric artery"
+   ],
+   "ans": 0,
+   "exp": "Left gastric artery: dominant artery of the stomach. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-004",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The artery involved in a type IV gastric ulcer and in a Mallory Weiss tear is the:",
+   "opts": [
+    "Left gastric artery",
+    "Gastroduodenal artery",
+    "Splenic artery",
+    "Right gastroepiploic artery"
+   ],
+   "ans": 0,
+   "exp": "Left gastric artery: involved in type IV gastric ulcer and Mallory Weiss tear. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-005",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The right gastric artery is a branch of the:",
+   "opts": [
+    "Common hepatic artery",
+    "Coeliac axis",
+    "Splenic artery",
+    "Superior mesenteric artery"
+   ],
+   "ans": 0,
+   "exp": "Right gastric artery: branch of the common hepatic artery. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-006",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The right gastroepiploic artery is a branch of the:",
+   "opts": [
+    "Gastroduodenal artery",
+    "Splenic artery",
+    "Coeliac axis",
+    "Left hepatic artery"
+   ],
+   "ans": 0,
+   "exp": "Right gastroepiploic artery: branch of the gastroduodenal artery. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-007",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The short gastric arteries are branches of the:",
+   "opts": [
+    "Splenic artery",
+    "Common hepatic artery",
+    "Coeliac axis",
+    "Left gastric artery"
+   ],
+   "ans": 0,
+   "exp": "Short gastric arteries: branches of the splenic artery. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-008",
+   "sec": "Stomach: Relevant Anatomy",
+   "page": 150,
+   "q": "The stomach tolerates ligation of several of its arteries because of:",
+   "opts": [
+    "Extensive submucosal anastomoses between the vessels",
+    "A rich intramuscular plexus",
+    "Collaterals from the superior mesenteric artery",
+    "Its dual venous drainage"
+   ],
+   "ans": 0,
+   "exp": "Extensive submucosal anastomosis between the vessels - the stomach does not necrose even if vessels are ligated. (Book p150)"
+  },
+  {
+   "id": "SURG-C22-009",
+   "sec": "Venous Drainage of the Stomach",
+   "page": 151,
+   "q": "The veins of the stomach:",
+   "opts": [
+    "Correspond to the arteries",
+    "Drain entirely into the inferior vena cava",
+    "Are absent in the antrum",
+    "Drain into the azygos system"
+   ],
+   "ans": 0,
+   "exp": "Venous supply: veins corresponding to the arteries. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-010",
+   "sec": "Venous Drainage of the Stomach",
+   "page": 151,
+   "q": "The vein responsible for metastases into the liver from the stomach is the:",
+   "opts": [
+    "Left gastric (coronary) vein",
+    "Right gastroepiploic vein",
+    "Short gastric vein",
+    "Splenic vein"
+   ],
+   "ans": 0,
+   "exp": "Left gastric vein / coronary vein: responsible for metastases into the liver. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-011",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "Congenital hypertrophic pyloric stenosis is also known as:",
+   "opts": [
+    "Idiopathic hypertrophic pyloric stenosis",
+    "Acquired pyloric stenosis",
+    "Congenital pyloric atresia",
+    "Infantile hypertrophic gastropathy"
+   ],
+   "ans": 0,
+   "exp": "CHPS: AKA idiopathic hypertrophic pyloric stenosis. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-012",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "The pathophysiology of CHPS is thickened pyloric muscle leading to:",
+   "opts": [
+    "Gastric outlet obstruction and vomiting",
+    "Duodenal obstruction",
+    "Intussusception",
+    "Volvulus"
+   ],
+   "ans": 0,
+   "exp": "Thickened pyloric muscle → gastric outlet obstruction → vomiting. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-013",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "CHPS m/c affects:",
+   "opts": [
+    "First born male child",
+    "First born female child",
+    "Preterm female child",
+    "Adolescent boys"
+   ],
+   "ans": 0,
+   "exp": "Features: m/c affects the first born male child. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-014",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "CHPS is associated with all of the following EXCEPT:",
+   "opts": [
+    "Down syndrome",
+    "Apert syndrome",
+    "Cornelia de Lange syndrome",
+    "Erythromycin intake early in life"
+   ],
+   "ans": 0,
+   "exp": "Associations: Apert syndrome, Cornelia de Lange syndrome, decreased nitric oxide synthase levels, erythromycin intake early in life. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-015",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "Nitric oxide synthase levels in CHPS are:",
+   "opts": [
+    "Decreased",
+    "Increased",
+    "Normal",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Association: decreased nitric oxide synthase levels. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-016",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "Infants with CHPS are typically asymptomatic for the:",
+   "opts": [
+    "First 2-3 weeks",
+    "First 2-3 days",
+    "First 6 months",
+    "First year"
+   ],
+   "ans": 0,
+   "exp": "Presentation: asymptomatic during the first 2-3 weeks, followed by projectile non-bilious vomiting. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-017",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "The characteristic vomiting of CHPS is:",
+   "opts": [
+    "Projectile and non-bilious",
+    "Projectile and bilious",
+    "Small and bilious",
+    "Effortless and faeculent"
+   ],
+   "ans": 0,
+   "exp": "Projectile, non-bilious vomiting is the hallmark of CHPS. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-018",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "The abdominal examination in CHPS is best performed:",
+   "opts": [
+    "During feeding",
+    "After a bath",
+    "During sleep",
+    "After vomiting"
+   ],
+   "ans": 0,
+   "exp": "Examination: best done during feeding; palpate an olive shaped swelling. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-019",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "The palpable mass in CHPS is described as:",
+   "opts": [
+    "Olive shaped swelling",
+    "Sausage shaped mass",
+    "Cystic swelling",
+    "Irregular hard mass"
+   ],
+   "ans": 0,
+   "exp": "Olive shaped swelling is palpated in CHPS. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-020",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "page": 151,
+   "q": "Visible peristalsis in CHPS moves:",
+   "opts": [
+    "From left to right",
+    "From right to left",
+    "From above downwards",
+    "From below upwards"
+   ],
+   "ans": 0,
+   "exp": "Peristalsis: visible, left to right. (Book p151)"
+  },
+  {
+   "id": "SURG-C22-021",
+   "sec": "CHPS: Differentials & Investigations",
+   "page": 152,
+   "q": "Unlike CHPS, duodenal atresia presents with:",
+   "opts": [
+    "Bilious vomiting since birth",
+    "Non bilious projectile vomiting after a few weeks",
+    "No vomiting at all",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Duodenal atresia: bilious vomiting since birth; CHPS: non-bilious projectile vomiting after a few weeks. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-022",
+   "sec": "CHPS: Differentials & Investigations",
+   "page": 152,
+   "q": "The X-ray sign of duodenal atresia is:",
+   "opts": [
+    "Double bubble sign",
+    "Single bubble sign",
+    "String sign",
+    "Apple core sign"
+   ],
+   "ans": 0,
+   "exp": "Duodenal atresia: X-ray shows the double bubble sign. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-023",
+   "sec": "CHPS: Differentials & Investigations",
+   "page": 152,
+   "q": "The investigation of choice for CHPS is:",
+   "opts": [
+    "Ultrasound",
+    "Contrast study",
+    "CT scan",
+    "Plain X-ray alone"
+   ],
+   "ans": 0,
+   "exp": "Evaluation: IOC is USG. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-024",
+   "sec": "CHPS: Differentials & Investigations",
+   "page": 152,
+   "q": "The ultrasound criterion for pyloric muscle thickness in CHPS is:",
+   "opts": [
+    ">= 4 mm",
+    ">= 10 mm",
+    ">= 2 mm",
+    ">= 20 mm"
+   ],
+   "ans": 0,
+   "exp": "USG: thickness >= 4 mm and increased pyloric channel length. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-025",
+   "sec": "CHPS: Differentials & Investigations",
+   "page": 152,
+   "q": "The contrast study findings in CHPS include all of the following EXCEPT:",
+   "opts": [
+    "Double bubble sign",
+    "String sign",
+    "Mushroom sign",
+    "Double tract sign"
+   ],
+   "ans": 0,
+   "exp": "Contrast study: string sign, mushroom sign, double tract sign. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-026",
+   "sec": "CHPS: Differentials & Investigations",
+   "page": 152,
+   "q": "The plain X-ray finding in CHPS is:",
+   "opts": [
+    "Single bubble sign",
+    "Double bubble sign",
+    "Coffee bean sign",
+    "Rigler's sign"
+   ],
+   "ans": 0,
+   "exp": "X-ray: single bubble sign. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-027",
+   "sec": "CHPS: Metabolic Abnormalities",
+   "page": 152,
+   "q": "The metabolic abnormality in CHPS results from loss of:",
+   "opts": [
+    "Hydrochloric acid in the vomitus",
+    "Bile in the vomitus",
+    "Bicarbonate in the stool",
+    "Potassium in the urine alone"
+   ],
+   "ans": 0,
+   "exp": "CHPS: loss of HCl due to vomiting (loss of H+ and Cl-). (Book p152)"
+  },
+  {
+   "id": "SURG-C22-028",
+   "sec": "CHPS: Metabolic Abnormalities",
+   "page": 152,
+   "q": "The acid base disturbance in CHPS is:",
+   "opts": [
+    "Metabolic alkalosis",
+    "Metabolic acidosis",
+    "Respiratory alkalosis",
+    "Respiratory acidosis"
+   ],
+   "ans": 0,
+   "exp": "Loss of H+ and Cl- produces a metabolic alkalosis. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-029",
+   "sec": "CHPS: Metabolic Abnormalities",
+   "page": 152,
+   "q": "Initially, the kidney compensates for the metabolic alkalosis of CHPS by:",
+   "opts": [
+    "Increased elimination of NaHCO3 in the urine",
+    "Retaining bicarbonate",
+    "Excreting hydrogen ions",
+    "Excreting chloride"
+   ],
+   "ans": 0,
+   "exp": "Compensatory increase in elimination of NaHCO3 in the urine. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-030",
+   "sec": "CHPS: Metabolic Abnormalities",
+   "page": 152,
+   "q": "Aldosterone release in CHPS occurs through activation of:",
+   "opts": [
+    "The renin angiotensin system",
+    "The sympathetic nervous system",
+    "Antidiuretic hormone",
+    "The kallikrein system"
+   ],
+   "ans": 0,
+   "exp": "Activation of RAS (renin angiotensin system) causes aldosterone release. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-031",
+   "sec": "CHPS: Metabolic Abnormalities",
+   "page": 152,
+   "q": "Paradoxical aciduria in CHPS means:",
+   "opts": [
+    "Acidic urine despite systemic metabolic alkalosis",
+    "Alkaline urine with acidosis",
+    "Absence of urine output",
+    "Proteinuria with alkalosis"
+   ],
+   "ans": 0,
+   "exp": "H+ ions are eliminated in the urine initially with secretion of K+ into urine: paradoxical aciduria. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-032",
+   "sec": "CHPS: Metabolic Abnormalities",
+   "page": 152,
+   "q": "The electrolyte and acid base picture in CHPS is:",
+   "opts": [
+    "Hypokalemia, hyponatremia, hypochloremia, metabolic alkalosis with paradoxical aciduria",
+    "Hyperkalemia, hypernatremia, hyperchloremia and metabolic acidosis",
+    "Hyperkalemia with metabolic acidosis",
+    "Normal electrolytes with acidosis"
+   ],
+   "ans": 0,
+   "exp": "Hypokalemia, hyponatremia, hypochloremia, metabolic alkalosis with paradoxical aciduria. (Book p152)"
+  },
+  {
+   "id": "SURG-C22-033",
+   "sec": "CHPS: Management",
+   "page": 153,
+   "q": "The intravenous fluid used for resuscitation in CHPS is:",
+   "opts": [
+    "Ringer lactate",
+    "Normal saline alone",
+    "Dextrose 5%",
+    "Half normal saline"
+   ],
+   "ans": 0,
+   "exp": "Management: Ringer lactate. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-034",
+   "sec": "CHPS: Management",
+   "page": 153,
+   "q": "After an uneventful Ramstedt's pyloromyotomy, feeding is started at:",
+   "opts": [
+    "4-6 hours",
+    "24-48 hours",
+    "5 days",
+    "2 weeks"
+   ],
+   "ans": 0,
+   "exp": "Uneventful surgery: feeding started in 4-6 hrs. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-035",
+   "sec": "CHPS: Management",
+   "page": 153,
+   "q": "If the mucosa is injured during pyloromyotomy, feeding is started at:",
+   "opts": [
+    "24-48 hours",
+    "4-6 hours",
+    "Immediately",
+    "After 1 week"
+   ],
+   "ans": 0,
+   "exp": "Mucosal injury: feeding started in 24-48 hrs. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-036",
+   "sec": "CHPS: Management",
+   "page": 153,
+   "q": "The operation performed for CHPS is:",
+   "opts": [
+    "Ramstedt's pyloromyotomy",
+    "Gastrojejunostomy",
+    "Antrectomy",
+    "Pyloroplasty"
+   ],
+   "ans": 0,
+   "exp": "Ramstedt's pyloromyotomy: muscle is split and the mucosa bulges out. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-037",
+   "sec": "Peptic Ulcers: Types",
+   "page": 153,
+   "q": "The m/c peptic ulcer is:",
+   "opts": [
+    "Duodenal ulcer",
+    "Gastric ulcer",
+    "Esophageal ulcer",
+    "Meckel's diverticulum ulcer"
+   ],
+   "ans": 0,
+   "exp": "Peptic ulcers: duodenal ulcer is the m/c type. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-038",
+   "sec": "Peptic Ulcers: Types",
+   "page": 153,
+   "q": "The proportion of duodenal ulcers attributable to H. pylori is:",
+   "opts": [
+    "90-95%",
+    "60-65%",
+    "30-40%",
+    "Less than 10%"
+   ],
+   "ans": 0,
+   "exp": "Duodenal ulcer: 90-95% due to H. pylori. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-039",
+   "sec": "Peptic Ulcers: Types",
+   "page": 153,
+   "q": "The proportion of gastric ulcers attributable to H. pylori is:",
+   "opts": [
+    "60-65%",
+    "90-95%",
+    "100%",
+    "Less than 10%"
+   ],
+   "ans": 0,
+   "exp": "Gastric ulcer: 60-65% due to H. pylori. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-040",
+   "sec": "Peptic Ulcers: Types",
+   "page": 153,
+   "q": "Duodenal ulcers are characterised by:",
+   "opts": [
+    "Acid hypersecretion",
+    "Normal acid production",
+    "Hypochlorhydria",
+    "Achlorhydria"
+   ],
+   "ans": 0,
+   "exp": "Duodenal ulcer: acid hypersecretion. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-041",
+   "sec": "Peptic Ulcers: Types",
+   "page": 153,
+   "q": "Type I and type II gastric ulcers are associated with:",
+   "opts": [
+    "Normal acid production",
+    "Acid hypersecretion",
+    "Achlorhydria",
+    "Pernicious anaemia"
+   ],
+   "ans": 0,
+   "exp": "Gastric ulcer type I and II: normal acid production. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-042",
+   "sec": "Peptic Ulcers: Types",
+   "page": 153,
+   "q": "The m/c site of a duodenal ulcer is:",
+   "opts": [
+    "First part of the duodenum (D1)",
+    "Second part of the duodenum",
+    "Third part of the duodenum",
+    "Duodenojejunal flexure"
+   ],
+   "ans": 0,
+   "exp": "Duodenal ulcers: m/c site is D1, the first part of the duodenum. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-043",
+   "sec": "Peptic Ulcers: Types",
+   "page": 153,
+   "q": "Pain of a duodenal ulcer is classically:",
+   "opts": [
+    "Relieved with food",
+    "Worsened with food",
+    "Unrelated to food",
+    "Worse at night only"
+   ],
+   "ans": 0,
+   "exp": "Duodenal ulcer: upper abdominal pain relieved with food. (Book p153)"
+  },
+  {
+   "id": "SURG-C22-044",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "The m/c complication of a peptic ulcer is:",
+   "opts": [
+    "Bleeding",
+    "Perforation",
+    "Gastric outlet obstruction",
+    "Malignant transformation"
+   ],
+   "ans": 0,
+   "exp": "Complications: bleeding is the m/c. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-045",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "Bleeding from a duodenal ulcer commonly arises from a:",
+   "opts": [
+    "Posterior ulcer",
+    "Anterior ulcer",
+    "Pyloric canal ulcer",
+    "Fundal ulcer"
+   ],
+   "ans": 0,
+   "exp": "Bleeding: posterior ulcers are commonly involved. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-046",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "The vessel implicated in bleeding from a duodenal ulcer is the:",
+   "opts": [
+    "Gastroduodenal artery",
+    "Left gastric artery",
+    "Splenic artery",
+    "Short gastric artery"
+   ],
+   "ans": 0,
+   "exp": "Implicated vessel: gastroduodenal artery. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-047",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "Peptic ulcer disease is the m/c cause of:",
+   "opts": [
+    "Upper GI haemorrhage",
+    "Lower GI haemorrhage",
+    "Occult colonic bleeding",
+    "Splenic rupture"
+   ],
+   "ans": 0,
+   "exp": "Bleeding peptic ulcer: m/c cause of upper GI hemorrhage. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-048",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "First line management of a bleeding peptic ulcer is:",
+   "opts": [
+    "Endoscopic management with adrenaline and coagulation",
+    "Immediate laparotomy",
+    "Angiographic embolisation",
+    "Total gastrectomy"
+   ],
+   "ans": 0,
+   "exp": "Management: endoscopic management - adrenaline, coagulation. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-049",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "After a re-bleed from a peptic ulcer, the next step is:",
+   "opts": [
+    "A second trial of endoscopy",
+    "Immediate gastrectomy",
+    "Discharge with oral PPI",
+    "Angiography only"
+   ],
+   "ans": 0,
+   "exp": "Re-bleeds: second trial of endoscopy. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-050",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "If endoscopic management of a bleeding peptic ulcer fails, the treatment is:",
+   "opts": [
+    "Surgery with under-running (ligation) of the vessel",
+    "Continued medical management",
+    "Radiotherapy",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "If endoscopy fails: surgery and under-run the vessel (ligate). (Book p154)"
+  },
+  {
+   "id": "SURG-C22-051",
+   "sec": "Peptic Ulcer: Bleeding",
+   "page": 154,
+   "q": "After a bleeding peptic ulcer is controlled, the additional step advised is:",
+   "opts": [
+    "H. pylori eradication",
+    "Long term steroids",
+    "Repeat endoscopy every month",
+    "Total parenteral nutrition"
+   ],
+   "ans": 0,
+   "exp": "Once bleeding stops: H. pylori eradication. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-052",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "Perforation of a duodenal ulcer is m/c seen with:",
+   "opts": [
+    "Anterior ulcers",
+    "Posterior ulcers",
+    "Pyloric ulcers",
+    "Fundal ulcers"
+   ],
+   "ans": 0,
+   "exp": "Perforation: anterior ulcers (m/c). (Book p154)"
+  },
+  {
+   "id": "SURG-C22-053",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "Perforation of an anterior duodenal ulcer presents with:",
+   "opts": [
+    "Peritonitis with guarding, rigidity and rebound tenderness",
+    "Retroperitoneal gas",
+    "Haematemesis",
+    "Gastric outlet obstruction"
+   ],
+   "ans": 0,
+   "exp": "Anterior ulcer perforation: peritonitis - rebound tenderness, guarding, rigidity. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-054",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "The X-ray finding in a perforated peptic ulcer is:",
+   "opts": [
+    "Gas under the diaphragm",
+    "Double bubble sign",
+    "Coffee bean sign",
+    "Air fluid levels only"
+   ],
+   "ans": 0,
+   "exp": "X-ray: gas under the diaphragm (hollow viscus perforation). (Book p154)"
+  },
+  {
+   "id": "SURG-C22-055",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "The initial management of perforation peritonitis includes all of the following EXCEPT:",
+   "opts": [
+    "Immediate oral feeding",
+    "IV fluids",
+    "IV antibiotics with aerobic and anaerobic cover",
+    "Analgesics"
+   ],
+   "ans": 0,
+   "exp": "Management of perforation peritonitis: IV fluids, preparation for emergency laparotomy, IV antibiotics (aerobic + anaerobic cover), analgesics. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-056",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "The definitive surgery for a perforated duodenal ulcer is:",
+   "opts": [
+    "Omental (Graham's) patch repair",
+    "Total gastrectomy",
+    "Gastrojejunostomy",
+    "Vagotomy alone"
+   ],
+   "ans": 0,
+   "exp": "Definitive management: omental patch repair / Graham's patch repair. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-057",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "A posterior duodenal ulcer that perforates does so into the:",
+   "opts": [
+    "Retroperitoneum",
+    "Peritoneal cavity",
+    "Pleural cavity",
+    "Lesser sac"
+   ],
+   "ans": 0,
+   "exp": "Posterior ulcer (rare): perforates into the retroperitoneum. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-058",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "Valentino syndrome, seen with a leaking posterior duodenal ulcer, mimics:",
+   "opts": [
+    "Acute appendicitis",
+    "Acute cholecystitis",
+    "Renal colic",
+    "Pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Valentino syndrome: mimics acute appendicitis. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-059",
+   "sec": "Peptic Ulcer: Perforation",
+   "page": 154,
+   "q": "Kocherisation is done in posterior duodenal ulcer surgery to:",
+   "opts": [
+    "Mobilise the duodenum to visualise the posterior ulcer",
+    "Divide the gastroduodenal artery",
+    "Close the perforation",
+    "Perform a pyloroplasty"
+   ],
+   "ans": 0,
+   "exp": "Kocherisation: mobilisation of the duodenum to view the posterior ulcer. (Book p154)"
+  },
+  {
+   "id": "SURG-C22-060",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "Johnson's type I gastric ulcer is located:",
+   "opts": [
+    "Along the lesser curvature close to the incisura",
+    "In the prepyloric region",
+    "High in the body of the stomach",
+    "In the fundus"
+   ],
+   "ans": 0,
+   "exp": "Type I: m/c type, along the lesser curvature (close to the incisura). (Book p155)"
+  },
+  {
+   "id": "SURG-C22-061",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "The m/c type of gastric ulcer in Johnson's classification is:",
+   "opts": [
+    "Type I",
+    "Type II",
+    "Type III",
+    "Type IV"
+   ],
+   "ans": 0,
+   "exp": "Type I is the m/c type of gastric ulcer. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-062",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "Johnson's type II gastric ulcer is:",
+   "opts": [
+    "A prepyloric ulcer associated with a duodenal ulcer",
+    "A prepyloric ulcer alone",
+    "An ulcer high in the body",
+    "An NSAID induced ulcer"
+   ],
+   "ans": 0,
+   "exp": "Type II: prepyloric ulcer plus duodenal ulcer. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-063",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "Johnson's type III gastric ulcer is located:",
+   "opts": [
+    "In the prepyloric region",
+    "Along the lesser curvature",
+    "High in the body",
+    "In the fundus"
+   ],
+   "ans": 0,
+   "exp": "Type III: prepyloric ulcer. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-064",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "Johnson's type IV gastric ulcer is located:",
+   "opts": [
+    "High up in the body of the stomach",
+    "In the antrum",
+    "In the pylorus",
+    "In the fundus"
+   ],
+   "ans": 0,
+   "exp": "Type IV: high up in the body; the left gastric artery is the implicated vessel. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-065",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "Type IV gastric ulcers characteristically bleed from the:",
+   "opts": [
+    "Left gastric artery",
+    "Gastroduodenal artery",
+    "Splenic artery",
+    "Short gastric artery"
+   ],
+   "ans": 0,
+   "exp": "Type IV: vessel is the left gastric artery; bleeds. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-066",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "Johnson's type V gastric ulcer is caused by:",
+   "opts": [
+    "NSAIDs",
+    "H. pylori alone",
+    "Radiotherapy",
+    "Crohn's disease"
+   ],
+   "ans": 0,
+   "exp": "Type V: NSAID induced ulcer, diffuse. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-067",
+   "sec": "Gastric Ulcers: Johnson's Classification",
+   "page": 155,
+   "q": "Bleeding is a feature mainly of Johnson's type:",
+   "opts": [
+    "IV and V",
+    "I and II",
+    "II and III",
+    "III only"
+   ],
+   "ans": 0,
+   "exp": "Type IV and V: bleeding +/-. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-068",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 155,
+   "q": "Pain in a gastric ulcer classically:",
+   "opts": [
+    "Worsens with food",
+    "Is relieved with food",
+    "Is unrelated to meals",
+    "Occurs only at night"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain worsens with food. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-069",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 155,
+   "q": "The m/c complication of a gastric ulcer is:",
+   "opts": [
+    "Perforation",
+    "Bleeding",
+    "Gastric outlet obstruction",
+    "Malignant transformation"
+   ],
+   "ans": 0,
+   "exp": "Gastric ulcer: m/c complication is perforation. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-070",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 155,
+   "q": "The investigation used to diagnose a gastric ulcer is:",
+   "opts": [
+    "Upper GI endoscopy",
+    "Barium swallow",
+    "CT abdomen",
+    "Ultrasound"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: upper GI endoscopy. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-071",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 155,
+   "q": "The U or J manoeuvre during endoscopy is done to visualise:",
+   "opts": [
+    "A fundal ulcer",
+    "A duodenal ulcer",
+    "The pylorus",
+    "The cardia"
+   ],
+   "ans": 0,
+   "exp": "U or J manoeuvre: to visualise a fundal ulcer. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-072",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 155,
+   "q": "All gastric ulcers should be biopsied because:",
+   "opts": [
+    "Of the risk of an underlying cancer",
+    "H. pylori can only be seen on biopsy",
+    "It is the only way to stop bleeding",
+    "Biopsy is therapeutic"
+   ],
+   "ans": 0,
+   "exp": "All gastric ulcers should be biopsied (risk of cancer). (Book p155)"
+  },
+  {
+   "id": "SURG-C22-073",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 155,
+   "q": "The vessel most often implicated in bleeding from a gastric ulcer is the:",
+   "opts": [
+    "Left gastric artery",
+    "Gastroduodenal artery",
+    "Right gastric artery",
+    "Right gastroepiploic artery"
+   ],
+   "ans": 0,
+   "exp": "Gastric ulcer bleeding: left gastric artery; peptic (duodenal) ulcer bleeding: gastroduodenal artery. (Book p155)"
+  },
+  {
+   "id": "SURG-C22-074",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 155,
+   "q": "Johnson's type I gastric ulcer is managed by:",
+   "opts": [
+    "Distal gastrectomy with reconstruction (Billroth I or II)",
+    "Proximal gastrectomy",
+    "Total gastrectomy",
+    "Vagotomy alone"
+   ],
+   "ans": 0,
+   "exp": "Type I: distal gastrectomy + reconstruction (Billroth I or II). (Book p155)"
+  },
+  {
+   "id": "SURG-C22-075",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 156,
+   "q": "Surgical options for a type IV (high) gastric ulcer include all of the following EXCEPT:",
+   "opts": [
+    "Total colectomy",
+    "Pauchet procedure",
+    "Kelling-Madlener procedure",
+    "Csendes procedure"
+   ],
+   "ans": 0,
+   "exp": "Type IV operations: Pauchet procedure, Kelling-Madlener procedure, Csendes procedure. (Book p156)"
+  },
+  {
+   "id": "SURG-C22-076",
+   "sec": "Gastric Ulcer: Diagnosis & Management",
+   "page": 156,
+   "q": "The Csendes procedure for a high gastric ulcer is a:",
+   "opts": [
+    "Roux-en-Y esophagogastrojejunostomy",
+    "Subtotal gastrectomy with Roux-en-Y gastrojejunostomy",
+    "Distal gastrectomy with Billroth I",
+    "Local excision of the ulcer"
+   ],
+   "ans": 0,
+   "exp": "Csendes procedure: Roux-en-Y esophagogastrojejunostomy. (Book p156)"
+  },
+  {
+   "id": "SURG-C22-077",
+   "sec": "Helicobacter pylori",
+   "page": 156,
+   "q": "H. pylori is the common cause of:",
+   "opts": [
+    "Gastric ulcer disease",
+    "Esophageal candidiasis",
+    "Achalasia cardia",
+    "Zenker's diverticulum"
+   ],
+   "ans": 0,
+   "exp": "H. pylori: common cause of gastric ulcer disease. (Book p156)"
+  },
+  {
+   "id": "SURG-C22-078",
+   "sec": "Helicobacter pylori",
+   "page": 156,
+   "q": "The genes of H. pylori that encode for toxins are:",
+   "opts": [
+    "CagA and VacA",
+    "UreA and UreB",
+    "ToxA and ToxB",
+    "FlaA and FlaB"
+   ],
+   "ans": 0,
+   "exp": "CagA, VacA: genes that encode for toxins. (Book p156)"
+  },
+  {
+   "id": "SURG-C22-079",
+   "sec": "Helicobacter pylori",
+   "page": 156,
+   "q": "The enzyme that allows H. pylori to survive the acidic environment is:",
+   "opts": [
+    "Urease",
+    "Catalase",
+    "Oxidase",
+    "Protease"
+   ],
+   "ans": 0,
+   "exp": "Urease enzyme (+): survives acidic environment. (Book p156)"
+  },
+  {
+   "id": "SURG-C22-080",
+   "sec": "Helicobacter pylori",
+   "page": 156,
+   "q": "H. pylori pathogenicity includes all of the following EXCEPT:",
+   "opts": [
+    "Crohn's disease",
+    "Peptic ulcer",
+    "Type B gastritis",
+    "Gastric cancer"
+   ],
+   "ans": 0,
+   "exp": "Pathogenicity: peptic ulcer, type B gastritis, gastric cancer, MALTomas. (Book p156)"
+  },
+  {
+   "id": "SURG-C22-081",
+   "sec": "Helicobacter pylori",
+   "page": 156,
+   "q": "MALTomas associated with H. pylori are:",
+   "opts": [
+    "Mucosal associated lymphoid tissue tumors",
+    "Mucosal adenocarcinoma of the stomach",
+    "Metastatic liver tumors",
+    "Mesenchymal tumors"
+   ],
+   "ans": 0,
+   "exp": "MALTomas: mucosal associated lymphoid tissue tumors. (Book p156)"
+  },
+  {
+   "id": "SURG-C22-082",
+   "sec": "Helicobacter pylori",
+   "page": 156,
+   "q": "H. pylori infection is thought to be:",
+   "opts": [
+    "Slightly protective against esophageal adenocarcinoma and GERD",
+    "A strong risk factor for esophageal adenocarcinoma",
+    "The cause of Barrett's esophagus",
+    "Protective against gastric cancer"
+   ],
+   "ans": 0,
+   "exp": "H. pylori is slightly protective against adenocarcinoma of the esophagus and GERD. (Book p156)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U22-1",
+   "ch": 22,
+   "n": 1,
+   "title": "Stomach: Relevant Anatomy",
+   "sec": "Stomach: Relevant Anatomy · p150",
+   "qs": [
+    "SURG-C22-001",
+    "SURG-C22-002",
+    "SURG-C22-003",
+    "SURG-C22-004",
+    "SURG-C22-005",
+    "SURG-C22-006",
+    "SURG-C22-007",
+    "SURG-C22-008"
+   ],
+   "guide": "Four arteries feed the stomach - left gastric (direct off the coeliac axis, the dominant vessel, and the one that bleeds in a type IV gastric ulcer or a Mallory-Weiss tear), right gastric (common hepatic), right gastroepiploic (gastroduodenal) and the short gastrics (splenic). Because they anastomose freely in the submucosa, the stomach survives ligation of most of them."
+  },
+  {
+   "id": "SURG-U22-2",
+   "ch": 22,
+   "n": 2,
+   "title": "Venous Drainage of the Stomach",
+   "sec": "Venous Drainage of the Stomach · p151",
+   "qs": [
+    "SURG-C22-009",
+    "SURG-C22-010"
+   ],
+   "guide": "Gastric veins mirror the arteries, and the left gastric or coronary vein is the route by which gastric cancer seeds the liver."
+  },
+  {
+   "id": "SURG-U22-3",
+   "ch": 22,
+   "n": 3,
+   "title": "Congenital Hypertrophic Pyloric Stenosis: Features",
+   "sec": "Congenital Hypertrophic Pyloric Stenosis: Features · p151",
+   "qs": [
+    "SURG-C22-011",
+    "SURG-C22-012",
+    "SURG-C22-013",
+    "SURG-C22-014",
+    "SURG-C22-015",
+    "SURG-C22-016",
+    "SURG-C22-017",
+    "SURG-C22-018",
+    "SURG-C22-019",
+    "SURG-C22-020"
+   ],
+   "guide": "CHPS - idiopathic hypertrophic pyloric stenosis - is pyloric muscle hypertrophy causing gastric outlet obstruction, classically in a first-born boy between two and three weeks old, linked to Apert and Cornelia de Lange syndromes, low nitric oxide synthase and early erythromycin exposure. Feed the baby and watch: an olive mass is felt and peristaltic waves roll left to right."
+  },
+  {
+   "id": "SURG-U22-4",
+   "ch": 22,
+   "n": 4,
+   "title": "CHPS: Differentials & Investigations",
+   "sec": "CHPS: Differentials & Investigations · p152",
+   "qs": [
+    "SURG-C22-021",
+    "SURG-C22-022",
+    "SURG-C22-023",
+    "SURG-C22-024",
+    "SURG-C22-025",
+    "SURG-C22-026"
+   ],
+   "guide": "Bilious vomiting from birth with a double bubble means duodenal atresia; non-bilious projectile vomiting after a few weeks means CHPS. Ultrasound is the IOC (muscle thickness >= 4 mm, elongated channel); contrast shows the string, mushroom and double-tract signs and the X-ray a single bubble."
+  },
+  {
+   "id": "SURG-U22-5",
+   "ch": 22,
+   "n": 5,
+   "title": "CHPS: Metabolic Abnormalities",
+   "sec": "CHPS: Metabolic Abnormalities · p152",
+   "qs": [
+    "SURG-C22-027",
+    "SURG-C22-028",
+    "SURG-C22-029",
+    "SURG-C22-030",
+    "SURG-C22-031",
+    "SURG-C22-032"
+   ],
+   "guide": "Vomiting hydrochloric acid leaves behind hypochloraemic, hypokalaemic, hyponatraemic metabolic alkalosis. The kidney first spills bicarbonate, then the renin-angiotensin system drives aldosterone, sodium is reabsorbed at the cost of potassium and hydrogen - so the urine turns acid despite the alkalosis: paradoxical aciduria."
+  },
+  {
+   "id": "SURG-U22-6",
+   "ch": 22,
+   "n": 6,
+   "title": "CHPS: Management",
+   "sec": "CHPS: Management · p153",
+   "qs": [
+    "SURG-C22-033",
+    "SURG-C22-034",
+    "SURG-C22-035",
+    "SURG-C22-036"
+   ],
+   "guide": "Correct with Ringer lactate before Ramstedt's pyloromyotomy (split the muscle until the mucosa bulges). Feed at 4-6 hours if the operation was clean, at 24-48 hours if the mucosa was breached."
+  },
+  {
+   "id": "SURG-U22-7",
+   "ch": 22,
+   "n": 7,
+   "title": "Peptic Ulcers: Types",
+   "sec": "Peptic Ulcers: Types · p153",
+   "qs": [
+    "SURG-C22-037",
+    "SURG-C22-038",
+    "SURG-C22-039",
+    "SURG-C22-040",
+    "SURG-C22-041",
+    "SURG-C22-042",
+    "SURG-C22-043"
+   ],
+   "guide": "Duodenal ulcers are the commonest peptic ulcers: 90-95% H. pylori, acid hypersecretion, first part of the duodenum, pain that food relieves. Gastric ulcers are 60-65% H. pylori with normal acid output in types I and II."
+  },
+  {
+   "id": "SURG-U22-8",
+   "ch": 22,
+   "n": 8,
+   "title": "Peptic Ulcer: Bleeding",
+   "sec": "Peptic Ulcer: Bleeding · p154",
+   "qs": [
+    "SURG-C22-044",
+    "SURG-C22-045",
+    "SURG-C22-046",
+    "SURG-C22-047",
+    "SURG-C22-048",
+    "SURG-C22-049",
+    "SURG-C22-050",
+    "SURG-C22-051"
+   ],
+   "guide": "Bleeding is the commonest complication and comes from posterior duodenal ulcers eroding the gastroduodenal artery - the commonest cause of upper GI haemorrhage. Endoscopic adrenaline and coagulation first, repeat endoscopy once for a re-bleed, then surgery to under-run the vessel; eradicate H. pylori once it is quiet."
+  },
+  {
+   "id": "SURG-U22-9",
+   "ch": 22,
+   "n": 9,
+   "title": "Peptic Ulcer: Perforation",
+   "sec": "Peptic Ulcer: Perforation · p154",
+   "qs": [
+    "SURG-C22-052",
+    "SURG-C22-053",
+    "SURG-C22-054",
+    "SURG-C22-055",
+    "SURG-C22-056",
+    "SURG-C22-057",
+    "SURG-C22-058",
+    "SURG-C22-059"
+   ],
+   "guide": "Perforation favours anterior ulcers and presents as peritonitis with gas under the diaphragm: resuscitate, antibiotics covering aerobes and anaerobes, analgesia and emergency Graham's omental patch. A posterior ulcer leaks backwards into the retroperitoneum - gas under the right kidney, Valentino syndrome mimicking appendicitis, and Kocherisation to see it."
+  },
+  {
+   "id": "SURG-U22-10",
+   "ch": 22,
+   "n": 10,
+   "title": "Gastric Ulcers: Johnson's Classification",
+   "sec": "Gastric Ulcers: Johnson's Classification · p155",
+   "qs": [
+    "SURG-C22-060",
+    "SURG-C22-061",
+    "SURG-C22-062",
+    "SURG-C22-063",
+    "SURG-C22-064",
+    "SURG-C22-065",
+    "SURG-C22-066",
+    "SURG-C22-067"
+   ],
+   "guide": "Johnson's classification: type I along the lesser curvature near the incisura (commonest), type II prepyloric plus duodenal, type III prepyloric, type IV high in the body eroding the left gastric artery, type V NSAID-related and diffuse; types IV and V bleed."
+  },
+  {
+   "id": "SURG-U22-11",
+   "ch": 22,
+   "n": 11,
+   "title": "Gastric Ulcer: Diagnosis & Management",
+   "sec": "Gastric Ulcer: Diagnosis & Management · p155",
+   "qs": [
+    "SURG-C22-068",
+    "SURG-C22-069",
+    "SURG-C22-070",
+    "SURG-C22-071",
+    "SURG-C22-072",
+    "SURG-C22-073",
+    "SURG-C22-074",
+    "SURG-C22-075",
+    "SURG-C22-076"
+   ],
+   "guide": "Gastric ulcer pain worsens with food and perforates more often than it bleeds. Endoscopy (with the U/J manoeuvre for fundal ulcers) must biopsy every gastric ulcer to exclude cancer. Type I needs a distal gastrectomy with Billroth I or II; high type IV ulcers need Pauchet, Kelling-Madlener or a Csendes Roux-en-Y esophagogastrojejunostomy."
+  },
+  {
+   "id": "SURG-U22-12",
+   "ch": 22,
+   "n": 12,
+   "title": "Helicobacter pylori",
+   "sec": "Helicobacter pylori · p156",
+   "qs": [
+    "SURG-C22-077",
+    "SURG-C22-078",
+    "SURG-C22-079",
+    "SURG-C22-080",
+    "SURG-C22-081",
+    "SURG-C22-082"
+   ],
+   "guide": "H. pylori drives gastric ulcer disease through CagA and VacA toxins and urease, which lets it live in acid; it causes peptic ulceration, type B gastritis, gastric cancer and MALTomas - yet is slightly protective against esophageal adenocarcinoma and reflux."
+  }
+ ]
+}

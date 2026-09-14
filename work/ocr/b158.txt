@@ -1,0 +1,55 @@
+### raw
+158
+Gastrointestinal and Abdominal Surgery
+---Active space--
+Roux limb
+50cmof
+jejunum
+Bilio-pancreatic
+(BP) limb
+Retrocolic :
+Antecolic :
+· Behind the colon, through transverse mesocolon 
+Infrontof the colon
+· Stemmer's hernia : Bowel hermiation through the
+·Peterson hemia : Bowel hemiation behind
+transverse mesocolon window
+roux limb
+00:16:38
+Vagotomy
+Cutting the vagus : Not routinely done (Replaced by PPI's).
+Indications :
+I. Duodenal wlcers.
+2. Type &  3 gastric wcers.
+Branches of vagus :
+Coeliac axis branch
+Post trunk
+Ant trunk
+ Continues as post N. of Latarjet
+motor br. to GB
+Anterior N
+(If cut can lead to GB stasis)
+of Latarjet
+Stone formation
+-> Crow's foot (Supplies antrum)
+Criminal N. of Grassi (Responsible for
+wcer recurrence after vagotomy)
+motor br. to Pylorus
+· If cut can lead to impaired gastric emptying
+· Drainage procedure required :
+Gastrojejunostomy
+Pyloroplasty :
+· Renders pyorus incompetent
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+---Active space--  158  Gastrointestinal and Abdominal Surgery
+Bilio-pancreatic  (BP) limb  50cmof  jejunum  Roux limb
+·Peterson hemia : Bowel hemiation behind  Infrontof the colon  Antecolic :  · Stemmer's hernia : Bowel hermiation through the  · Behind the colon, through transverse mesocolon   Retrocolic :
+roux limb  Vagotomy  transverse mesocolon window  00:16:38
+Cutting the vagus : Not routinely done (Replaced by PPI's).  I. Duodenal wlcers.  Indications :
+2. Type &  3 gastric wcers.  Branches of vagus :  Post trunk
+(If cut can lead to GB stasis)  motor br. to GB  Coeliac axis branch  Ant trunk  Anterior N   Continues as post N. of Latarjet
+Stone formation  of Latarjet  -> Crow's foot (Supplies antrum)
+· If cut can lead to impaired gastric emptying  · Drainage procedure required :  motor br. to Pylorus  Criminal N. of Grassi (Responsible for  wcer recurrence after vagotomy)
+Gastrojejunostomy  · Renders pyorus incompetent  Pyloroplasty :
+Surgery·v1.0·Marrow 8.0·2024

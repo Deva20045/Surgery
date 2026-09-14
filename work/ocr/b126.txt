@@ -1,0 +1,67 @@
+### raw
+126
+Gastrointestinal and Abdominal Surgery
+--- Active space ----
+ESOPHAGUS : PART 1
+Surgical Anatomy
+00:00:45
+Constrictions of esophagus :
+Diaphragmatic Openings :
+U-upper incisor.
+"18 10 εGGS AT 1a”
+·Te- IvC, Phrenic N.
+· Tio- esophagus, Vagus, Lt. Gastric A.
+IS cm
+·Tia-Aorta+ThoracicDuct.
+1. Co (Pharyngoesophageal
+ascm
+junction) : Narrowest portion of GIT (4mm diameter)
+- Foreign body impaction
+- m/c site of iatrogenic esophageal perforation.
+40cm
+→a.Arch ofAorta+
+Lt main stem bronchus
+→ 3. Diaphragm (T).
+Blood supply :
+Segmental in nature
+Arteries
+veins
+Upper 1/3rd
+Inferior thyroid artery
+Inferior thyroid vein
+middle 1/3rd
+Descending thoracic aorta
+Azygous vein
+Bronchial artery
+Lower 1/3rd
+Left gastric artery (Involved
+Left gastric vein
+in mallory weiss tear)
+Joins
+Portal circulation
+Site of porto-systemic
+Lymphatics :
+Longitudinal spread
+Involved in liver
+metastasis
+varices
+Skip metastasis
+Layers :
+esophagectomy
+· Esophagus lacks serosa
+Long proximal margin (o cm) :
+Strongest layer : Submucosa
+Prevent recurrence.
+Surgery·v1.0·Marrow 8.0·2024
+### geo
+--- Active space ----  126  Gastrointestinal and Abdominal Surgery  ESOPHAGUS : PART 1
+U-upper incisor.  Constrictions of esophagus :  Surgical Anatomy  "18 10 εGGS AT 1a”  Diaphragmatic Openings :  00:00:45
+IS cm  1. Co (Pharyngoesophageal  · Tio- esophagus, Vagus, Lt. Gastric A.  ·Te- IvC, Phrenic N.  ·Tia-Aorta+ThoracicDuct.
+40cm  ascm  →a.Arch ofAorta+  junction) : Narrowest portion of GIT (4mm diameter)  - Foreign body impaction  - m/c site of iatrogenic esophageal perforation.
+Lt main stem bronchus  → 3. Diaphragm (T).
+Blood supply :  Segmental in nature  Arteries  veins
+middle 1/3rd  Upper 1/3rd  Descending thoracic aorta  Inferior thyroid artery  Bronchial artery  Inferior thyroid vein  Azygous vein
+Lower 1/3rd  Left gastric artery (Involved  in mallory weiss tear)  Joins  Left gastric vein
+Longitudinal spread  Lymphatics :  Portal circulation  Involved in liver  metastasis  Site of porto-systemic  varices
+Long proximal margin (o cm) :  Skip metastasis  Prevent recurrence.  esophagectomy  Layers :  · Esophagus lacks serosa  Strongest layer : Submucosa
+Surgery·v1.0·Marrow 8.0·2024
