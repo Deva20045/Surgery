@@ -1,0 +1,2671 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C61-001",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Chapter that opens the Vascular Surgery section at p470:",
+   "opts": [
+    "Venous thrombosis",
+    "Varicose veins",
+    "Arterial system",
+    "Lymphatic system"
+   ],
+   "ans": 0,
+   "exp": "Venous thrombosis (Book p470)"
+  },
+  {
+   "id": "SURG-C61-002",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Number of pairs of deep/superficial veins of the calf described:",
+   "opts": [
+    "3 pairs",
+    "1 pair",
+    "2 pairs",
+    "4 pairs"
+   ],
+   "ans": 0,
+   "exp": "3 pairs of veins carry 80% of blood (Book p470)"
+  },
+  {
+   "id": "SURG-C61-003",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Percentage of blood carried by the 3 paired calf veins:",
+   "opts": [
+    "80%",
+    "20%",
+    "50%",
+    "95%"
+   ],
+   "ans": 0,
+   "exp": "80% (Book p470)"
+  },
+  {
+   "id": "SURG-C61-004",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "The 3 paired calf veins are:",
+   "opts": [
+    "Peroneal, anterior tibial and posterior tibial veins",
+    "Popliteal, femoral and saphenous veins",
+    "Great and small saphenous veins",
+    "Profunda femoris and obturator veins"
+   ],
+   "ans": 0,
+   "exp": "Peroneal, anterior tibial and posterior tibial veins (Book p470)"
+  },
+  {
+   "id": "SURG-C61-005",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "The paired calf veins join to form:",
+   "opts": [
+    "Femoral vein",
+    "Popliteal artery",
+    "Great saphenous vein",
+    "External iliac artery"
+   ],
+   "ans": 0,
+   "exp": "Femoral vein (Book p470)"
+  },
+  {
+   "id": "SURG-C61-006",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Vein labelled at the top of the deep venous diagram:",
+   "opts": [
+    "Common femoral vein",
+    "Peroneal vein",
+    "Popliteal vein",
+    "Anterior tibial vein"
+   ],
+   "ans": 0,
+   "exp": "Common femoral vein (Book p470)"
+  },
+  {
+   "id": "SURG-C61-007",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Junction where the great saphenous vein drains, shown in the diagram:",
+   "opts": [
+    "Saphenofemoral junction",
+    "Sapheno-popliteal junction",
+    "Ilio-caval junction",
+    "Perforator junction"
+   ],
+   "ans": 0,
+   "exp": "Saphenofemoral junction (Book p470)"
+  },
+  {
+   "id": "SURG-C61-008",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Deep branch labelled beside the superficial femoral vein:",
+   "opts": [
+    "Profunda femoral vein",
+    "Peroneal vein",
+    "Obturator vein",
+    "Inferior gluteal vein"
+   ],
+   "ans": 0,
+   "exp": "Profunda femoral vein (Book p470)"
+  },
+  {
+   "id": "SURG-C61-009",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Vein lying between the femoral and calf veins in the diagram:",
+   "opts": [
+    "Popliteal vein",
+    "Common iliac vein",
+    "Profunda femoral vein",
+    "Saphenofemoral junction"
+   ],
+   "ans": 0,
+   "exp": "Popliteal vein (Book p470)"
+  },
+  {
+   "id": "SURG-C61-010",
+   "sec": "Anatomy of Lower Limb Deep Veins",
+   "page": 470,
+   "q": "Peroneal, anterior tibial and posterior tibial veins are described as:",
+   "opts": [
+    "Usually paired",
+    "Always single",
+    "Always triple",
+    "Absent in most people"
+   ],
+   "ans": 0,
+   "exp": "Usually paired (Book p470)"
+  },
+  {
+   "id": "SURG-C61-011",
+   "sec": "Lower Limb DVT: Definition and Complications",
+   "page": 470,
+   "q": "Definition of deep vein thrombosis:",
+   "opts": [
+    "Semi solid coagulum in the deep veins",
+    "Liquid blood in superficial veins",
+    "Air embolus in deep veins",
+    "Fatty plaque in deep veins"
+   ],
+   "ans": 0,
+   "exp": "Semi solid coagulum in the deep veins (Book p470)"
+  },
+  {
+   "id": "SURG-C61-012",
+   "sec": "Lower Limb DVT: Definition and Complications",
+   "page": 470,
+   "q": "DVT is the m/c cause of death following which surgery:",
+   "opts": [
+    "Bariatric surgery",
+    "Thyroid surgery",
+    "Hernia surgery",
+    "Cataract surgery"
+   ],
+   "ans": 0,
+   "exp": "Bariatric surgery (Book p470)"
+  },
+  {
+   "id": "SURG-C61-013",
+   "sec": "Lower Limb DVT: Definition and Complications",
+   "page": 470,
+   "q": "Complications of DVT:",
+   "opts": [
+    "Pulmonary embolism and post thrombotic limb",
+    "Stroke and MI",
+    "Aneurysm and dissection",
+    "Gangrene of bowel and stoma"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary embolism and post thrombotic limb (Book p470)"
+  },
+  {
+   "id": "SURG-C61-014",
+   "sec": "Lower Limb DVT: Definition and Complications",
+   "page": 470,
+   "q": "Life-threatening complication of DVT:",
+   "opts": [
+    "Pulmonary embolism",
+    "Post thrombotic limb",
+    "Varicose veins",
+    "Lipodermatosclerosis"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary embolism (Book p470)"
+  },
+  {
+   "id": "SURG-C61-015",
+   "sec": "Lower Limb DVT: Definition and Complications",
+   "page": 470,
+   "q": "Chronic complication of DVT affecting the limb:",
+   "opts": [
+    "Post thrombotic limb",
+    "Pulmonary embolism",
+    "Cor pulmonale",
+    "Renal failure"
+   ],
+   "ans": 0,
+   "exp": "Post thrombotic limb (Book p470)"
+  },
+  {
+   "id": "SURG-C61-016",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Triad describing the risk factors of DVT:",
+   "opts": [
+    "Virchow's triad",
+    "Beck's triad",
+    "Charcot's triad",
+    "Saint's triad"
+   ],
+   "ans": 0,
+   "exp": "Virchow's triad (Book p470)"
+  },
+  {
+   "id": "SURG-C61-017",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "First component of Virchow's triad:",
+   "opts": [
+    "Stasis",
+    "Hypercoagulability",
+    "Endothelial injury",
+    "Hypoxia"
+   ],
+   "ans": 0,
+   "exp": "Stasis (Book p470)"
+  },
+  {
+   "id": "SURG-C61-018",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Second component of Virchow's triad:",
+   "opts": [
+    "Hypercoagulability",
+    "Stasis",
+    "Endothelial injury",
+    "Inflammation"
+   ],
+   "ans": 0,
+   "exp": "Hypercoagulability (Book p470)"
+  },
+  {
+   "id": "SURG-C61-019",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Third component of Virchow's triad:",
+   "opts": [
+    "Endothelial injury",
+    "Stasis",
+    "Hypercoagulability",
+    "Hyperviscosity"
+   ],
+   "ans": 0,
+   "exp": "Endothelial injury (Book p470)"
+  },
+  {
+   "id": "SURG-C61-020",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Patient factors for DVT include all of the following EXCEPT:",
+   "opts": [
+    "Young age with active lifestyle",
+    "Age",
+    "Obesity",
+    "Immobility"
+   ],
+   "ans": 0,
+   "exp": "Young age with active lifestyle (Book p470)"
+  },
+  {
+   "id": "SURG-C61-021",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Obesity and immobility increase DVT risk mainly by:",
+   "opts": [
+    "Stasis",
+    "Endothelial injury",
+    "Hypocoagulability",
+    "Fibrinolysis"
+   ],
+   "ans": 0,
+   "exp": "Stasis (Book p470)"
+  },
+  {
+   "id": "SURG-C61-022",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Venous condition listed as a patient risk factor for DVT:",
+   "opts": [
+    "Varicose veins",
+    "Arterial aneurysm",
+    "Lymphedema",
+    "AV fistula"
+   ],
+   "ans": 0,
+   "exp": "Varicose veins (Book p470)"
+  },
+  {
+   "id": "SURG-C61-023",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Pregnancy, puerperium and high dose estrogen therapy together constitute a:",
+   "opts": [
+    "Prothrombotic state",
+    "Hypocoagulable state",
+    "Fibrinolytic state",
+    "Immunodeficient state"
+   ],
+   "ans": 0,
+   "exp": "Prothrombotic state (Book p470)"
+  },
+  {
+   "id": "SURG-C61-024",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Hormonal therapy listed as a DVT risk factor:",
+   "opts": [
+    "High dose estrogen therapy",
+    "Low dose thyroxine",
+    "Insulin therapy",
+    "Testosterone gel"
+   ],
+   "ans": 0,
+   "exp": "High dose estrogen therapy (Book p470)"
+  },
+  {
+   "id": "SURG-C61-025",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Previous history of which conditions raises DVT risk:",
+   "opts": [
+    "Previous DVT / pulmonary embolism",
+    "Previous appendicectomy",
+    "Previous hernia repair",
+    "Previous cataract surgery"
+   ],
+   "ans": 0,
+   "exp": "Previous DVT / pulmonary embolism (Book p470)"
+  },
+  {
+   "id": "SURG-C61-026",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Inherited/acquired clotting tendency listed as a patient factor:",
+   "opts": [
+    "Thrombophilia",
+    "Haemophilia",
+    "Von Willebrand disease",
+    "ITP"
+   ],
+   "ans": 0,
+   "exp": "Thrombophilia (Book p470)"
+  },
+  {
+   "id": "SURG-C61-027",
+   "sec": "Virchow's Triad and Patient Risk Factors",
+   "page": 470,
+   "q": "Malignancy contributes to DVT as a:",
+   "opts": [
+    "Patient risk factor (tumors/cancers)",
+    "Protective factor",
+    "Cause of hypocoagulability",
+    "Cause of arterial embolism only"
+   ],
+   "ans": 0,
+   "exp": "Patient risk factor (tumors/cancers) (Book p470)"
+  },
+  {
+   "id": "SURG-C61-028",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Disease/surgical procedure risk factors act through:",
+   "opts": [
+    "Tissue factor",
+    "Protein C",
+    "Plasminogen",
+    "Antithrombin III"
+   ],
+   "ans": 0,
+   "exp": "Tissue factor (Book p471)"
+  },
+  {
+   "id": "SURG-C61-029",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Trauma/surgery at which sites carries highest DVT risk:",
+   "opts": [
+    "Hip, pelvis and lower limb",
+    "Hand and wrist",
+    "Face and scalp",
+    "Thyroid and neck"
+   ],
+   "ans": 0,
+   "exp": "Hip, pelvis and lower limb (Book p471)"
+  },
+  {
+   "id": "SURG-C61-030",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Malignancies most associated with DVT:",
+   "opts": [
+    "Pelvic malignancies and abdominal metastases",
+    "Skin basal cell carcinoma",
+    "Lip carcinoma",
+    "Thyroid microcarcinoma"
+   ],
+   "ans": 0,
+   "exp": "Pelvic malignancies and abdominal metastases (Book p471)"
+  },
+  {
+   "id": "SURG-C61-031",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Cardiac conditions predisposing to DVT:",
+   "opts": [
+    "Heart failure and recent myocardial infarction",
+    "Mitral valve prolapse only",
+    "Innocent murmur",
+    "Sinus arrhythmia"
+   ],
+   "ans": 0,
+   "exp": "Heart failure and recent myocardial infarction (Book p471)"
+  },
+  {
+   "id": "SURG-C61-032",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Neurological risk factor for DVT:",
+   "opts": [
+    "Paralysis of lower limbs",
+    "Facial palsy",
+    "Trigeminal neuralgia",
+    "Carpal tunnel syndrome"
+   ],
+   "ans": 0,
+   "exp": "Paralysis of lower limbs (Book p471)"
+  },
+  {
+   "id": "SURG-C61-033",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Metabolic risk factor listed for DVT:",
+   "opts": [
+    "Homocystinemia",
+    "Hypercalcemia",
+    "Hypokalemia",
+    "Hyponatremia"
+   ],
+   "ans": 0,
+   "exp": "Homocystinemia (Book p471)"
+  },
+  {
+   "id": "SURG-C61-034",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "May-Thurner syndrome is:",
+   "opts": [
+    "Right iliac artery compresses left iliac vein",
+    "Left iliac artery compresses right iliac vein",
+    "Aorta compresses IVC",
+    "SMA compresses duodenum"
+   ],
+   "ans": 0,
+   "exp": "Right iliac artery compresses left iliac vein (Book p471)"
+  },
+  {
+   "id": "SURG-C61-035",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Vein compressed in May-Thurner syndrome:",
+   "opts": [
+    "Left iliac vein",
+    "Right iliac vein",
+    "Left renal vein",
+    "IVC"
+   ],
+   "ans": 0,
+   "exp": "Left iliac vein (Book p471)"
+  },
+  {
+   "id": "SURG-C61-036",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Bowel disease listed as a DVT risk factor:",
+   "opts": [
+    "Inflammatory bowel disease",
+    "Irritable bowel syndrome",
+    "Celiac disease",
+    "Lactose intolerance"
+   ],
+   "ans": 0,
+   "exp": "Inflammatory bowel disease (Book p471)"
+  },
+  {
+   "id": "SURG-C61-037",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Renal condition predisposing to DVT:",
+   "opts": [
+    "Nephrotic syndrome",
+    "Nephritic syndrome",
+    "Renal calculi",
+    "Hydronephrosis"
+   ],
+   "ans": 0,
+   "exp": "Nephrotic syndrome (Book p471)"
+  },
+  {
+   "id": "SURG-C61-038",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Haematological condition listed as a DVT risk factor:",
+   "opts": [
+    "Polycythemia",
+    "Anaemia",
+    "Leukopenia",
+    "Thrombocytopenia"
+   ],
+   "ans": 0,
+   "exp": "Polycythemia (Book p471)"
+  },
+  {
+   "id": "SURG-C61-039",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Plasma protein disorder predisposing to DVT:",
+   "opts": [
+    "Paraproteinemia",
+    "Hypoalbuminemia",
+    "Hypogammaglobulinemia",
+    "Alpha-1 antitrypsin excess"
+   ],
+   "ans": 0,
+   "exp": "Paraproteinemia (Book p471)"
+  },
+  {
+   "id": "SURG-C61-040",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Antibody states predisposing to thrombosis:",
+   "opts": [
+    "PNH antibody or lupus anticoagulant",
+    "Anti-TPO antibody",
+    "Anti-GBM antibody",
+    "Rheumatoid factor"
+   ],
+   "ans": 0,
+   "exp": "PNH antibody or lupus anticoagulant (Book p471)"
+  },
+  {
+   "id": "SURG-C61-041",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Vasculitis listed as a risk factor for venous thrombosis:",
+   "opts": [
+    "Behcet's disease",
+    "Kawasaki disease",
+    "Henoch-Schonlein purpura",
+    "Takayasu arteritis"
+   ],
+   "ans": 0,
+   "exp": "Behcet's disease (Book p471)"
+  },
+  {
+   "id": "SURG-C61-042",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "M/c inherited thrombophilia mutation listed:",
+   "opts": [
+    "Factor V Leiden mutation",
+    "Factor VIII deficiency",
+    "Factor IX mutation",
+    "Prothrombin deficiency"
+   ],
+   "ans": 0,
+   "exp": "Factor V Leiden mutation (Book p471)"
+  },
+  {
+   "id": "SURG-C61-043",
+   "sec": "Disease and Surgical Procedure Risk Factors",
+   "page": 471,
+   "q": "Deficiency of which natural anticoagulants predisposes to DVT:",
+   "opts": [
+    "Protein C and S deficiency",
+    "Protein A deficiency",
+    "Factor VII deficiency",
+    "Fibrinogen deficiency"
+   ],
+   "ans": 0,
+   "exp": "Protein C and S deficiency (Book p471)"
+  },
+  {
+   "id": "SURG-C61-044",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Most DVTs are:",
+   "opts": [
+    "Mostly asymptomatic",
+    "Always painful",
+    "Always bilateral",
+    "Always with fever"
+   ],
+   "ans": 0,
+   "exp": "Mostly asymptomatic (Book p471)"
+  },
+  {
+   "id": "SURG-C61-045",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Laterality of DVT:",
+   "opts": [
+    "Usually unilateral; bilateral in 20-30% cases",
+    "Always bilateral",
+    "Always unilateral",
+    "Bilateral in 80%"
+   ],
+   "ans": 0,
+   "exp": "Usually unilateral; bilateral in 20-30% cases (Book p471)"
+  },
+  {
+   "id": "SURG-C61-046",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Percentage of DVT that is bilateral:",
+   "opts": [
+    "20-30%",
+    "5-10%",
+    "50-60%",
+    "80-90%"
+   ],
+   "ans": 0,
+   "exp": "20-30% (Book p471)"
+  },
+  {
+   "id": "SURG-C61-047",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "M/c vein involved in lower limb DVT:",
+   "opts": [
+    "Calf / soleal veins",
+    "Ilio-femoral veins",
+    "Great saphenous vein",
+    "Popliteal artery"
+   ],
+   "ans": 0,
+   "exp": "Calf / soleal veins (Book p471)"
+  },
+  {
+   "id": "SURG-C61-048",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "M/c vein responsible for pulmonary embolism:",
+   "opts": [
+    "Ilio-femoral veins",
+    "Calf veins",
+    "Soleal veins",
+    "Small saphenous vein"
+   ],
+   "ans": 0,
+   "exp": "Ilio-femoral veins (Book p471)"
+  },
+  {
+   "id": "SURG-C61-049",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Risk of pulmonary embolism with proximal veins:",
+   "opts": [
+    "Increased risk",
+    "Decreased risk",
+    "No risk",
+    "Same as calf veins"
+   ],
+   "ans": 0,
+   "exp": "Increased risk (Book p471)"
+  },
+  {
+   "id": "SURG-C61-050",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Clinical features of pulmonary embolism include:",
+   "opts": [
+    "Chest pain, dyspnoea, ↑JVP and ↓SBP",
+    "Chest pain with ↓JVP and ↑SBP",
+    "Fever with bradycardia only",
+    "Haematuria and flank pain"
+   ],
+   "ans": 0,
+   "exp": "Chest pain, dyspnoea, ↑JVP and ↓SBP (Book p471)"
+  },
+  {
+   "id": "SURG-C61-051",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Effect of pulmonary embolism on JVP:",
+   "opts": [
+    "↑ JVP",
+    "↓ JVP",
+    "No change in JVP",
+    "Absent JVP"
+   ],
+   "ans": 0,
+   "exp": "↑ JVP (Book p471)"
+  },
+  {
+   "id": "SURG-C61-052",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Effect of pulmonary embolism on systolic BP:",
+   "opts": [
+    "↓ SBP",
+    "↑ SBP",
+    "No change",
+    "Wide pulse pressure"
+   ],
+   "ans": 0,
+   "exp": "↓ SBP (Book p471)"
+  },
+  {
+   "id": "SURG-C61-053",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Constant sign of DVT:",
+   "opts": [
+    "Limb edema",
+    "Moses sign",
+    "Homan's sign",
+    "Cough impulse"
+   ],
+   "ans": 0,
+   "exp": "Limb edema (Book p471)"
+  },
+  {
+   "id": "SURG-C61-054",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Moses sign is:",
+   "opts": [
+    "Pain on squeezing the calf muscles",
+    "Pain on dorsiflexion of foot",
+    "Pain on hip flexion",
+    "Pain on percussion of the vein"
+   ],
+   "ans": 0,
+   "exp": "Pain on squeezing the calf muscles (Book p471)"
+  },
+  {
+   "id": "SURG-C61-055",
+   "sec": "Clinical Features and Signs of DVT",
+   "page": 471,
+   "q": "Homan's sign is:",
+   "opts": [
+    "Resistance in calf on dorsiflexion of the foot",
+    "Pain on squeezing calf",
+    "Pain on plantar flexion",
+    "Loss of adductor reflex"
+   ],
+   "ans": 0,
+   "exp": "Resistance in calf on dorsiflexion of the foot (Book p471)"
+  },
+  {
+   "id": "SURG-C61-056",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Phlegmasia cerulea dolens presents with:",
+   "opts": [
+    "Painful blue limbs",
+    "Painful white limb",
+    "Painless swollen limb",
+    "Cold pulseless white limb only"
+   ],
+   "ans": 0,
+   "exp": "Painful blue limbs (Book p471)"
+  },
+  {
+   "id": "SURG-C61-057",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Pathology of phlegmasia cerulea dolens:",
+   "opts": [
+    "Thrombosis of major axial veins + collaterals",
+    "Thrombosis of axial veins with collaterals spared",
+    "Arterial thrombosis",
+    "Lymphatic obstruction"
+   ],
+   "ans": 0,
+   "exp": "Thrombosis of major axial veins + collaterals (Book p471)"
+  },
+  {
+   "id": "SURG-C61-058",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Phlegmasia cerulea dolens can lead to:",
+   "opts": [
+    "Venous gangrene",
+    "Arterial aneurysm",
+    "Lymphedema praecox",
+    "Compartment sparing"
+   ],
+   "ans": 0,
+   "exp": "Venous gangrene (Book p471)"
+  },
+  {
+   "id": "SURG-C61-059",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Phlegmasia alba dolens is also known as:",
+   "opts": [
+    "Milk leg",
+    "Blue leg",
+    "Champagne leg",
+    "Elephant leg"
+   ],
+   "ans": 0,
+   "exp": "Milk leg (Book p471)"
+  },
+  {
+   "id": "SURG-C61-060",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Phlegmasia alba dolens presents with:",
+   "opts": [
+    "Painful white limb",
+    "Painful blue limb",
+    "Painless red limb",
+    "Black gangrenous limb"
+   ],
+   "ans": 0,
+   "exp": "Painful white limb (Book p471)"
+  },
+  {
+   "id": "SURG-C61-061",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Pathology of phlegmasia alba dolens:",
+   "opts": [
+    "Thrombosis of major axial veins with collaterals spared",
+    "Thrombosis of axial veins plus collaterals",
+    "Arterial embolism",
+    "Superficial vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Thrombosis of major axial veins with collaterals spared (Book p471)"
+  },
+  {
+   "id": "SURG-C61-062",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Phlegmasia alba dolens is common during:",
+   "opts": [
+    "Pregnancy",
+    "Childhood",
+    "Old age only",
+    "Post-menopause"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy (Book p471)"
+  },
+  {
+   "id": "SURG-C61-063",
+   "sec": "Phlegmasia Cerulea and Alba Dolens",
+   "page": 471,
+   "q": "Difference between cerulea and alba dolens lies in involvement of:",
+   "opts": [
+    "Collaterals (involved in cerulea, spared in alba)",
+    "Arteries",
+    "Lymphatics",
+    "Perforators only"
+   ],
+   "ans": 0,
+   "exp": "Collaterals (involved in cerulea, spared in alba) (Book p471)"
+  },
+  {
+   "id": "SURG-C61-064",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Wells' criteria are used for:",
+   "opts": [
+    "Predicting DVT",
+    "Staging cancer",
+    "Grading burns",
+    "Predicting shock"
+   ],
+   "ans": 0,
+   "exp": "Predicting DVT (Book p472)"
+  },
+  {
+   "id": "SURG-C61-065",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Score for lower limb trauma or surgery or immobilisation in a plaster cast:",
+   "opts": [
+    "1",
+    "2",
+    "3",
+    "-2"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-066",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Score for being bedridden >3 days or surgery in last 4 weeks:",
+   "opts": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-067",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Score for tenderness along the line of femoral or popliteal veins:",
+   "opts": [
+    "1",
+    "2",
+    "3",
+    "-2"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-068",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Score for entire limb swollen:",
+   "opts": [
+    "1",
+    "2",
+    "3",
+    "-2"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-069",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Calf circumference criterion in Wells' score:",
+   "opts": [
+    "Calf >3 cm larger circumference than the other side",
+    "Calf >1 cm larger",
+    "Calf >5 cm larger",
+    "Calf >10 cm larger"
+   ],
+   "ans": 0,
+   "exp": "Calf >3 cm larger circumference than the other side (Book p472)"
+  },
+  {
+   "id": "SURG-C61-070",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Level at which calf circumference is measured in Wells' criteria:",
+   "opts": [
+    "10 cm below the tibial tuberosity",
+    "5 cm above the tibial tuberosity",
+    "At the malleolus",
+    "At mid-thigh"
+   ],
+   "ans": 0,
+   "exp": "10 cm below the tibial tuberosity (Book p472)"
+  },
+  {
+   "id": "SURG-C61-071",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Score for pitting oedema in Wells' criteria:",
+   "opts": [
+    "1",
+    "2",
+    "3",
+    "-2"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-072",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Dilated collateral superficial veins score 1 point provided they are:",
+   "opts": [
+    "Not varicose veins",
+    "Varicose veins",
+    "Thrombosed veins",
+    "Perforators"
+   ],
+   "ans": 0,
+   "exp": "Not varicose veins (Book p472)"
+  },
+  {
+   "id": "SURG-C61-073",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Score for previous DVT:",
+   "opts": [
+    "1",
+    "2",
+    "3",
+    "-2"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-074",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Malignancy scores 1 point if treated up to:",
+   "opts": [
+    "6 months ago",
+    "1 month ago",
+    "3 months ago",
+    "2 years ago"
+   ],
+   "ans": 0,
+   "exp": "6 months ago (Book p472)"
+  },
+  {
+   "id": "SURG-C61-075",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Variable scoring 3 points in Wells' criteria:",
+   "opts": [
+    "Intravenous drug abuse",
+    "Previous DVT",
+    "Pitting oedema",
+    "Entire limb swollen"
+   ],
+   "ans": 0,
+   "exp": "Intravenous drug abuse (Book p472)"
+  },
+  {
+   "id": "SURG-C61-076",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Score given for 'alternative diagnosis more likely than DVT':",
+   "opts": [
+    "-2",
+    "-1",
+    "0",
+    "+2"
+   ],
+   "ans": 0,
+   "exp": "-2 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-077",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Wells' score of -2 to 0 indicates:",
+   "opts": [
+    "Low probability (5%)",
+    "Moderate probability (17%)",
+    "High probability (17-53%)",
+    "Definite DVT"
+   ],
+   "ans": 0,
+   "exp": "Low probability (5%) (Book p472)"
+  },
+  {
+   "id": "SURG-C61-078",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Wells' score of 1-2 indicates:",
+   "opts": [
+    "Moderate probability (17%)",
+    "Low probability (5%)",
+    "High probability (17-53%)",
+    "No risk"
+   ],
+   "ans": 0,
+   "exp": "Moderate probability (17%) (Book p472)"
+  },
+  {
+   "id": "SURG-C61-079",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Wells' score >2 indicates:",
+   "opts": [
+    "High probability (17-53%)",
+    "Low probability (5%)",
+    "Moderate probability (17%)",
+    "Zero probability"
+   ],
+   "ans": 0,
+   "exp": "High probability (17-53%) (Book p472)"
+  },
+  {
+   "id": "SURG-C61-080",
+   "sec": "Wells' Criteria for Predicting DVT",
+   "page": 472,
+   "q": "Probability of DVT with a low Wells' score:",
+   "opts": [
+    "5%",
+    "17%",
+    "33%",
+    "53%"
+   ],
+   "ans": 0,
+   "exp": "5% (Book p472)"
+  },
+  {
+   "id": "SURG-C61-081",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "IOC for DVT:",
+   "opts": [
+    "Doppler / duplex scan",
+    "MRI",
+    "CT angiography",
+    "Venography"
+   ],
+   "ans": 0,
+   "exp": "Doppler / duplex scan (Book p472)"
+  },
+  {
+   "id": "SURG-C61-082",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "Duplex scan combines:",
+   "opts": [
+    "Color doppler + B mode USG",
+    "CT + MRI",
+    "X-ray + fluoroscopy",
+    "PET + CT"
+   ],
+   "ans": 0,
+   "exp": "Color doppler + B mode USG (Book p472)"
+  },
+  {
+   "id": "SURG-C61-083",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "If Doppler is inconclusive for proximal (iliac) veins, next investigation:",
+   "opts": [
+    "MRI",
+    "Repeat Doppler",
+    "CXR",
+    "Plain X-ray pelvis"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p472)"
+  },
+  {
+   "id": "SURG-C61-084",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "Gold standard investigation for pulmonary embolism:",
+   "opts": [
+    "Pulmonary angiography (invasive)",
+    "CT angiography",
+    "D-dimer",
+    "Duplex scan"
+   ],
+   "ans": 0,
+   "exp": "Pulmonary angiography (invasive) (Book p472)"
+  },
+  {
+   "id": "SURG-C61-085",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "IOC for pulmonary embolism:",
+   "opts": [
+    "CT angiography",
+    "Pulmonary angiography",
+    "MRI",
+    "V/Q scan"
+   ],
+   "ans": 0,
+   "exp": "CT angiography (Book p472)"
+  },
+  {
+   "id": "SURG-C61-086",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "Pulmonary angiography is limited by the fact that it is:",
+   "opts": [
+    "Invasive",
+    "Non-specific",
+    "Unavailable",
+    "Radiation free"
+   ],
+   "ans": 0,
+   "exp": "Invasive (Book p472)"
+  },
+  {
+   "id": "SURG-C61-087",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "D-dimer has a:",
+   "opts": [
+    "High negative predictive value",
+    "High positive predictive value",
+    "High specificity",
+    "No clinical use"
+   ],
+   "ans": 0,
+   "exp": "High negative predictive value (Book p472)"
+  },
+  {
+   "id": "SURG-C61-088",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "Increased D-dimer levels are seen in:",
+   "opts": [
+    "DVT and post surgery",
+    "Only DVT",
+    "Only malignancy",
+    "Only pregnancy"
+   ],
+   "ans": 0,
+   "exp": "DVT and post surgery (Book p472)"
+  },
+  {
+   "id": "SURG-C61-089",
+   "sec": "Investigations of DVT and Pulmonary Embolism",
+   "page": 472,
+   "q": "A normal D-dimer is most useful to:",
+   "opts": [
+    "Rule out DVT",
+    "Confirm DVT",
+    "Stage DVT",
+    "Predict PE severity"
+   ],
+   "ans": 0,
+   "exp": "Rule out DVT (Book p472)"
+  },
+  {
+   "id": "SURG-C61-090",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Mainstay of DVT treatment:",
+   "opts": [
+    "Anticoagulants",
+    "Thrombolysis",
+    "IVC filter",
+    "Surgery"
+   ],
+   "ans": 0,
+   "exp": "Anticoagulants (Book p472)"
+  },
+  {
+   "id": "SURG-C61-091",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Anticoagulants act by:",
+   "opts": [
+    "Preventing propagation of clot",
+    "Dissolving the clot",
+    "Trapping the clot",
+    "Removing the clot"
+   ],
+   "ans": 0,
+   "exp": "Preventing propagation of clot (Book p472)"
+  },
+  {
+   "id": "SURG-C61-092",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Anticoagulation regime for the first 5 days:",
+   "opts": [
+    "LMWH + warfarin",
+    "Warfarin alone",
+    "LMWH alone",
+    "Aspirin alone"
+   ],
+   "ans": 0,
+   "exp": "LMWH + warfarin (Book p472)"
+  },
+  {
+   "id": "SURG-C61-093",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Reason warfarin is overlapped with LMWH initially:",
+   "opts": [
+    "Warfarin initially induces a prothrombotic state",
+    "Warfarin is too weak",
+    "LMWH is teratogenic",
+    "LMWH causes bleeding"
+   ],
+   "ans": 0,
+   "exp": "Warfarin initially induces a prothrombotic state (Book p472)"
+  },
+  {
+   "id": "SURG-C61-094",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Treatment after 5 days:",
+   "opts": [
+    "Only warfarin",
+    "Only LMWH",
+    "Only aspirin",
+    "Stop all anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Only warfarin (Book p472)"
+  },
+  {
+   "id": "SURG-C61-095",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Duration of anticoagulation after a first episode of DVT:",
+   "opts": [
+    "3 months",
+    "1 month",
+    "6 weeks",
+    "Lifelong"
+   ],
+   "ans": 0,
+   "exp": "3 months (Book p472)"
+  },
+  {
+   "id": "SURG-C61-096",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Duration of anticoagulation in recurrent DVT:",
+   "opts": [
+    "Lifelong",
+    "3 months",
+    "6 months",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "Lifelong (Book p472)"
+  },
+  {
+   "id": "SURG-C61-097",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Warfarin is monitored by:",
+   "opts": [
+    "INR (International normalized ratio)",
+    "aPTT",
+    "Platelet count",
+    "Bleeding time"
+   ],
+   "ans": 0,
+   "exp": "INR (International normalized ratio) (Book p472)"
+  },
+  {
+   "id": "SURG-C61-098",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Target INR during warfarin therapy for DVT:",
+   "opts": [
+    "2-3",
+    "1-1.5",
+    "3-4",
+    "4-5"
+   ],
+   "ans": 0,
+   "exp": "2-3 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-099",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Rationale for target INR of 2-3:",
+   "opts": [
+    "Delayed clotting of blood is desired",
+    "Rapid clotting is desired",
+    "Platelet inhibition",
+    "Fibrinolysis"
+   ],
+   "ans": 0,
+   "exp": "Delayed clotting of blood is desired (Book p472)"
+  },
+  {
+   "id": "SURG-C61-100",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Target INR before surgery:",
+   "opts": [
+    "1.4-1.5",
+    "2-3",
+    "3-4",
+    "<1"
+   ],
+   "ans": 0,
+   "exp": "1.4-1.5 (Book p472)"
+  },
+  {
+   "id": "SURG-C61-101",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Agents used to reduce INR:",
+   "opts": [
+    "FFP and prothrombin factor concentrates",
+    "Heparin and LMWH",
+    "Aspirin and clopidogrel",
+    "Streptokinase and urokinase"
+   ],
+   "ans": 0,
+   "exp": "FFP and prothrombin factor concentrates (Book p472)"
+  },
+  {
+   "id": "SURG-C61-102",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Preferred agent to reduce INR:",
+   "opts": [
+    "Prothrombin factor concentrates",
+    "Fresh frozen plasma",
+    "Platelet concentrate",
+    "Cryoprecipitate"
+   ],
+   "ans": 0,
+   "exp": "Prothrombin factor concentrates (Book p472)"
+  },
+  {
+   "id": "SURG-C61-103",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Anticoagulant continued in pregnant patients:",
+   "opts": [
+    "LMWH",
+    "Warfarin",
+    "Rivaroxaban",
+    "Apixaban"
+   ],
+   "ans": 0,
+   "exp": "LMWH (Book p472)"
+  },
+  {
+   "id": "SURG-C61-104",
+   "sec": "Management: Anticoagulants and Monitoring",
+   "page": 472,
+   "q": "Oral anticoagulant agents are avoided in pregnancy because they are:",
+   "opts": [
+    "Teratogenic",
+    "Ineffective",
+    "Too expensive",
+    "Poorly absorbed"
+   ],
+   "ans": 0,
+   "exp": "Teratogenic (Book p472)"
+  },
+  {
+   "id": "SURG-C61-105",
+   "sec": "Heparin-sensitive Agents and NOACs",
+   "page": 473,
+   "q": "Fondaparinux is a:",
+   "opts": [
+    "Factor Xa inhibitor",
+    "Direct thrombin inhibitor",
+    "Vitamin K antagonist",
+    "Fibrinolytic"
+   ],
+   "ans": 0,
+   "exp": "Factor Xa inhibitor (Book p473)"
+  },
+  {
+   "id": "SURG-C61-106",
+   "sec": "Heparin-sensitive Agents and NOACs",
+   "page": 473,
+   "q": "Bivalirudin is a:",
+   "opts": [
+    "Direct thrombin inhibitor",
+    "Factor Xa inhibitor",
+    "Vitamin K antagonist",
+    "Antiplatelet"
+   ],
+   "ans": 0,
+   "exp": "Direct thrombin inhibitor (Book p473)"
+  },
+  {
+   "id": "SURG-C61-107",
+   "sec": "Heparin-sensitive Agents and NOACs",
+   "page": 473,
+   "q": "Fondaparinux and bivalirudin are used in patients who are:",
+   "opts": [
+    "Sensitive to heparin",
+    "Pregnant",
+    "Allergic to warfarin",
+    "Children only"
+   ],
+   "ans": 0,
+   "exp": "Sensitive to heparin (Book p473)"
+  },
+  {
+   "id": "SURG-C61-108",
+   "sec": "Heparin-sensitive Agents and NOACs",
+   "page": 473,
+   "q": "NOAC stands for:",
+   "opts": [
+    "Novel anticoagulants",
+    "New oral antiplatelet class",
+    "Nitrate oral anti-clot",
+    "Non-operative anticoagulation care"
+   ],
+   "ans": 0,
+   "exp": "Novel anticoagulants (Book p473)"
+  },
+  {
+   "id": "SURG-C61-109",
+   "sec": "Heparin-sensitive Agents and NOACs",
+   "page": 473,
+   "q": "Advantage of NOACs:",
+   "opts": [
+    "No monitoring required",
+    "Cheaper than warfarin",
+    "Safe in pregnancy",
+    "Reversible with vitamin K"
+   ],
+   "ans": 0,
+   "exp": "No monitoring required (Book p473)"
+  },
+  {
+   "id": "SURG-C61-110",
+   "sec": "Heparin-sensitive Agents and NOACs",
+   "page": 473,
+   "q": "Rivaroxaban and apixaban are:",
+   "opts": [
+    "Factor Xa inhibitors",
+    "Direct thrombin inhibitors",
+    "Vitamin K antagonists",
+    "Heparinoids"
+   ],
+   "ans": 0,
+   "exp": "Factor Xa inhibitors (Book p473)"
+  },
+  {
+   "id": "SURG-C61-111",
+   "sec": "Direct Thrombolysis",
+   "page": 473,
+   "q": "Aim of direct thrombolysis:",
+   "opts": [
+    "To dissolve the clot",
+    "To prevent clot propagation",
+    "To trap the clot",
+    "To bypass the clot"
+   ],
+   "ans": 0,
+   "exp": "To dissolve the clot (Book p473)"
+  },
+  {
+   "id": "SURG-C61-112",
+   "sec": "Direct Thrombolysis",
+   "page": 473,
+   "q": "Agents used for direct thrombolysis:",
+   "opts": [
+    "Streptokinase and urokinase",
+    "Heparin and warfarin",
+    "Aspirin and clopidogrel",
+    "Rivaroxaban and apixaban"
+   ],
+   "ans": 0,
+   "exp": "Streptokinase and urokinase (Book p473)"
+  },
+  {
+   "id": "SURG-C61-113",
+   "sec": "Direct Thrombolysis",
+   "page": 473,
+   "q": "Route of delivery of thrombolysis in DVT:",
+   "opts": [
+    "Catheter induced",
+    "Intramuscular",
+    "Oral",
+    "Subcutaneous"
+   ],
+   "ans": 0,
+   "exp": "Catheter induced (Book p473)"
+  },
+  {
+   "id": "SURG-C61-114",
+   "sec": "Direct Thrombolysis",
+   "page": 473,
+   "q": "Direct thrombolysis reduces the risk of:",
+   "opts": [
+    "Post thrombotic limb",
+    "Pulmonary embolism only",
+    "Bleeding",
+    "Recurrent varicose veins"
+   ],
+   "ans": 0,
+   "exp": "Post thrombotic limb (Book p473)"
+  },
+  {
+   "id": "SURG-C61-115",
+   "sec": "Direct Thrombolysis",
+   "page": 473,
+   "q": "Thrombolysis is beneficial in patients:",
+   "opts": [
+    "Presenting early",
+    "Presenting late",
+    "With bleeding tendency",
+    "With recent stroke"
+   ],
+   "ans": 0,
+   "exp": "Presenting early (Book p473)"
+  },
+  {
+   "id": "SURG-C61-116",
+   "sec": "Direct Thrombolysis",
+   "page": 473,
+   "q": "Type of DVT most likely to benefit from thrombolysis:",
+   "opts": [
+    "Proximal DVT",
+    "Isolated calf DVT",
+    "Superficial thrombophlebitis",
+    "Asymptomatic DVT"
+   ],
+   "ans": 0,
+   "exp": "Proximal DVT (Book p473)"
+  },
+  {
+   "id": "SURG-C61-117",
+   "sec": "Direct Thrombolysis",
+   "page": 473,
+   "q": "Symptom severity favouring thrombolysis:",
+   "opts": [
+    "Moderate/severe symptoms",
+    "Asymptomatic",
+    "Mild symptoms only",
+    "Any symptom level"
+   ],
+   "ans": 0,
+   "exp": "Moderate/severe symptoms (Book p473)"
+  },
+  {
+   "id": "SURG-C61-118",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "IVC filter is also called:",
+   "opts": [
+    "Greenfield filter",
+    "Palmaz filter",
+    "Amplatzer device",
+    "Dormia basket"
+   ],
+   "ans": 0,
+   "exp": "Greenfield filter (Book p473)"
+  },
+  {
+   "id": "SURG-C61-119",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "IVC filter is inserted:",
+   "opts": [
+    "Under image guidance",
+    "Blindly at bedside",
+    "Via open laparotomy always",
+    "Through the femoral artery"
+   ],
+   "ans": 0,
+   "exp": "Under image guidance (Book p473)"
+  },
+  {
+   "id": "SURG-C61-120",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Mechanism of action of an IVC filter:",
+   "opts": [
+    "Entrapment of clot",
+    "Dissolution of clot",
+    "Prevention of clot formation",
+    "Bypass of the IVC"
+   ],
+   "ans": 0,
+   "exp": "Entrapment of clot (Book p473)"
+  },
+  {
+   "id": "SURG-C61-121",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Indication for IVC filter — recurrent thromboembolism despite:",
+   "opts": [
+    "Adequate anticoagulation",
+    "Compression stockings",
+    "Early ambulation",
+    "Thrombolysis"
+   ],
+   "ans": 0,
+   "exp": "Adequate anticoagulation (Book p473)"
+  },
+  {
+   "id": "SURG-C61-122",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "IVC filter is indicated in DVT patients with:",
+   "opts": [
+    "Contraindications to anticoagulation (e.g. intracranial hemorrhage)",
+    "Mild calf pain",
+    "Normal D-dimer",
+    "First episode DVT on warfarin"
+   ],
+   "ans": 0,
+   "exp": "Contraindications to anticoagulation (e.g. intracranial hemorrhage) (Book p473)"
+  },
+  {
+   "id": "SURG-C61-123",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Pulmonary condition that is an indication for IVC filter:",
+   "opts": [
+    "Chronic pulmonary embolism with resultant pulmonary hypertension",
+    "Asthma",
+    "COPD",
+    "Pneumonia"
+   ],
+   "ans": 0,
+   "exp": "Chronic pulmonary embolism with resultant pulmonary hypertension (Book p473)"
+  },
+  {
+   "id": "SURG-C61-124",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "IVC filter is indicated when the patient develops:",
+   "opts": [
+    "Complications of anticoagulation",
+    "Therapeutic INR",
+    "Resolution of clot",
+    "Normal Doppler"
+   ],
+   "ans": 0,
+   "exp": "Complications of anticoagulation (Book p473)"
+  },
+  {
+   "id": "SURG-C61-125",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Thrombus type that is an indication for IVC filter:",
+   "opts": [
+    "Propagating iliofemoral venous thrombus in anticoagulation",
+    "Superficial thrombophlebitis",
+    "Isolated peroneal vein thrombus",
+    "Resolved calf thrombus"
+   ],
+   "ans": 0,
+   "exp": "Propagating iliofemoral venous thrombus in anticoagulation (Book p473)"
+  },
+  {
+   "id": "SURG-C61-126",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Indication for a RETRIEVABLE IVC filter in trauma:",
+   "opts": [
+    "Prophylactic placement in a high-risk trauma patient (orthopedic, spinal cord)",
+    "All trauma patients",
+    "Minor soft tissue injury",
+    "Facial laceration"
+   ],
+   "ans": 0,
+   "exp": "Prophylactic placement in a high-risk trauma patient (orthopedic, spinal cord) (Book p473)"
+  },
+  {
+   "id": "SURG-C61-127",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Retrievable IVC filter is used when contraindication to anticoagulation is:",
+   "opts": [
+    "Short-term in duration",
+    "Permanent",
+    "Absent",
+    "Unknown"
+   ],
+   "ans": 0,
+   "exp": "Short-term in duration (Book p473)"
+  },
+  {
+   "id": "SURG-C61-128",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Retrievable IVC filter may be used for protection during:",
+   "opts": [
+    "Venous thrombolytic therapy",
+    "Chemotherapy",
+    "Dialysis",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Venous thrombolytic therapy (Book p473)"
+  },
+  {
+   "id": "SURG-C61-129",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Extensive thrombosis that is an indication for retrievable IVC filter:",
+   "opts": [
+    "Extensive iliocaval thrombosis",
+    "Isolated soleal thrombosis",
+    "Superficial varicosity",
+    "Axillary vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Extensive iliocaval thrombosis (Book p473)"
+  },
+  {
+   "id": "SURG-C61-130",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Complications of IVC filter:",
+   "opts": [
+    "Migration, bleeding and IVC blockage by clot",
+    "Pulmonary fibrosis",
+    "Renal calculi",
+    "Hepatic abscess"
+   ],
+   "ans": 0,
+   "exp": "Migration, bleeding and IVC blockage by clot (Book p473)"
+  },
+  {
+   "id": "SURG-C61-131",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "IVC blockage by clot leads to:",
+   "opts": [
+    "↓ venous return → ↓ JVP → ↓ CO, ↓ SBP",
+    "↑ venous return → ↑ CO",
+    "↑ JVP with ↑ SBP",
+    "No haemodynamic change"
+   ],
+   "ans": 0,
+   "exp": "↓ venous return → ↓ JVP → ↓ CO, ↓ SBP (Book p473)"
+  },
+  {
+   "id": "SURG-C61-132",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "Management of IVC blockage by clot after filter placement:",
+   "opts": [
+    "IV fluids",
+    "Diuretics",
+    "Vasodilators",
+    "Beta blockers"
+   ],
+   "ans": 0,
+   "exp": "IV fluids (Book p473)"
+  },
+  {
+   "id": "SURG-C61-133",
+   "sec": "IVC Filter (Greenfield Filter)",
+   "page": 473,
+   "q": "JVP in pulmonary embolism versus IVC filter blockage:",
+   "opts": [
+    "↑ JVP in PE; ↓ JVP in IVC blockage",
+    "↓ JVP in PE; ↑ JVP in IVC blockage",
+    "↑ in both",
+    "↓ in both"
+   ],
+   "ans": 0,
+   "exp": "↑ JVP in PE; ↓ JVP in IVC blockage (Book p473)"
+  },
+  {
+   "id": "SURG-C61-134",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Post thrombotic limb is seen in what proportion of DVT patients:",
+   "opts": [
+    "2/3rd",
+    "1/10th",
+    "1/3rd",
+    "All patients"
+   ],
+   "ans": 0,
+   "exp": "2/3rd (Book p474)"
+  },
+  {
+   "id": "SURG-C61-135",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Mechanism of post thrombotic limb:",
+   "opts": [
+    "Deep vein clot diverts flow into superficial veins causing varicosities",
+    "Arterial insufficiency",
+    "Lymphatic blockage",
+    "Neuropathy"
+   ],
+   "ans": 0,
+   "exp": "Deep vein clot diverts flow into superficial veins causing varicosities (Book p474)"
+  },
+  {
+   "id": "SURG-C61-136",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Features of post thrombotic limb:",
+   "opts": [
+    "Varicose veins, pigmentation and lipodermatosclerosis",
+    "Pallor, pulselessness, paralysis",
+    "Fever, chills, rigors",
+    "Clubbing and cyanosis"
+   ],
+   "ans": 0,
+   "exp": "Varicose veins, pigmentation and lipodermatosclerosis (Book p474)"
+  },
+  {
+   "id": "SURG-C61-137",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Lipodermatosclerosis gives which appearance:",
+   "opts": [
+    "Inverted champagne bottle appearance",
+    "Bottle neck appearance",
+    "Bag of worms appearance",
+    "Orange peel appearance"
+   ],
+   "ans": 0,
+   "exp": "Inverted champagne bottle appearance (Book p474)"
+  },
+  {
+   "id": "SURG-C61-138",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Skin change seen in post thrombotic limb:",
+   "opts": [
+    "Pigmentation",
+    "Depigmentation",
+    "Hypertrichosis",
+    "Vitiligo"
+   ],
+   "ans": 0,
+   "exp": "Pigmentation (Book p474)"
+  },
+  {
+   "id": "SURG-C61-139",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Risk factors for post thrombotic limb:",
+   "opts": [
+    "Proximal DVT, subtherapeutic anticoagulation and recurrent DVT",
+    "Distal calf DVT only",
+    "Adequate anticoagulation",
+    "Single episode treated early"
+   ],
+   "ans": 0,
+   "exp": "Proximal DVT, subtherapeutic anticoagulation and recurrent DVT (Book p474)"
+  },
+  {
+   "id": "SURG-C61-140",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Treatment indicated in patients at risk of post thrombotic limb:",
+   "opts": [
+    "Direct thrombolysis",
+    "IVC filter",
+    "Amputation",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Direct thrombolysis (Book p474)"
+  },
+  {
+   "id": "SURG-C61-141",
+   "sec": "Post Thrombotic Limb",
+   "page": 474,
+   "q": "Subtherapeutic anticoagulation increases risk of:",
+   "opts": [
+    "Post thrombotic limb",
+    "Bleeding",
+    "Heparin allergy",
+    "Osteoporosis"
+   ],
+   "ans": 0,
+   "exp": "Post thrombotic limb (Book p474)"
+  },
+  {
+   "id": "SURG-C61-142",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "High-risk group for DVT includes major orthopaedic surgery or fracture of:",
+   "opts": [
+    "Pelvis, hip, lower limb",
+    "Wrist, hand",
+    "Clavicle, scapula",
+    "Nasal bones"
+   ],
+   "ans": 0,
+   "exp": "Pelvis, hip, lower limb (Book p474)"
+  },
+  {
+   "id": "SURG-C61-143",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Abdominal/pelvic surgery is high risk for DVT when performed for:",
+   "opts": [
+    "Cancer",
+    "Hernia",
+    "Appendicitis",
+    "Gall stones"
+   ],
+   "ans": 0,
+   "exp": "Cancer (Book p474)"
+  },
+  {
+   "id": "SURG-C61-144",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Major surgery/trauma/medical illness in a patient with DVT, PE or 3 thrombophilia is:",
+   "opts": [
+    "High risk",
+    "Low risk",
+    "Moderate risk",
+    "No risk"
+   ],
+   "ans": 0,
+   "exp": "High risk (Book p474)"
+  },
+  {
+   "id": "SURG-C61-145",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Neurological condition placing patients in the high DVT risk group:",
+   "opts": [
+    "Lower limb paralysis (stroke, paraplegia)",
+    "Migraine",
+    "Bell's palsy",
+    "Epilepsy"
+   ],
+   "ans": 0,
+   "exp": "Lower limb paralysis (stroke, paraplegia) (Book p474)"
+  },
+  {
+   "id": "SURG-C61-146",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Amputation level placing the patient in a high DVT risk group:",
+   "opts": [
+    "Major lower limb amputation",
+    "Finger amputation",
+    "Toe nail avulsion",
+    "Ear lobe excision"
+   ],
+   "ans": 0,
+   "exp": "Major lower limb amputation (Book p474)"
+  },
+  {
+   "id": "SURG-C61-147",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Prophylaxis in the high risk group:",
+   "opts": [
+    "Mechanical + pharmacological prophylaxis",
+    "Mechanical only",
+    "Pharmacological only",
+    "No prophylaxis"
+   ],
+   "ans": 0,
+   "exp": "Mechanical + pharmacological prophylaxis (Book p474)"
+  },
+  {
+   "id": "SURG-C61-148",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Two types of DVT prophylaxis:",
+   "opts": [
+    "Pharmacological and mechanical",
+    "Surgical and radiological",
+    "Medical and dietary",
+    "Active and passive"
+   ],
+   "ans": 0,
+   "exp": "Pharmacological and mechanical (Book p474)"
+  },
+  {
+   "id": "SURG-C61-149",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Superior type of DVT prophylaxis:",
+   "opts": [
+    "Pharmacological",
+    "Mechanical",
+    "Both equal",
+    "Neither"
+   ],
+   "ans": 0,
+   "exp": "Pharmacological (Book p474)"
+  },
+  {
+   "id": "SURG-C61-150",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Drug of choice for pharmacological DVT prophylaxis:",
+   "opts": [
+    "LMWH",
+    "Warfarin",
+    "Aspirin",
+    "Streptokinase"
+   ],
+   "ans": 0,
+   "exp": "LMWH (Book p474)"
+  },
+  {
+   "id": "SURG-C61-151",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "In surgical patients, last dose of LMWH is given:",
+   "opts": [
+    "6 hours prior to surgery",
+    "1 hour prior to surgery",
+    "12 hours after surgery",
+    "At induction"
+   ],
+   "ans": 0,
+   "exp": "6 hours prior to surgery (Book p474)"
+  },
+  {
+   "id": "SURG-C61-152",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Mechanical prophylaxis includes:",
+   "opts": [
+    "Early ambulation and pneumatic compression stockings",
+    "Bed rest and traction",
+    "Plaster cast",
+    "Limb elevation only"
+   ],
+   "ans": 0,
+   "exp": "Early ambulation and pneumatic compression stockings (Book p474)"
+  },
+  {
+   "id": "SURG-C61-153",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Simplest mechanical prophylaxis measure:",
+   "opts": [
+    "Early ambulation",
+    "Pneumatic compression stockings",
+    "IVC filter",
+    "LMWH"
+   ],
+   "ans": 0,
+   "exp": "Early ambulation (Book p474)"
+  },
+  {
+   "id": "SURG-C61-154",
+   "sec": "DVT Risk Groups and Prophylaxis",
+   "page": 474,
+   "q": "Device shown for mechanical prophylaxis in the images:",
+   "opts": [
+    "Pneumatic compression stockings",
+    "Plaster cast",
+    "Traction frame",
+    "Tourniquet"
+   ],
+   "ans": 0,
+   "exp": "Pneumatic compression stockings (Book p474)"
+  },
+  {
+   "id": "SURG-C61-155",
+   "sec": "Upper Limb DVT",
+   "page": 475,
+   "q": "Causes of PRIMARY upper limb DVT:",
+   "opts": [
+    "Paget-Schroetter disease and prothrombotic states",
+    "Cannula insertion and thoracic outlet obstruction",
+    "Trauma and malignancy only",
+    "Pregnancy and puerperium"
+   ],
+   "ans": 0,
+   "exp": "Paget-Schroetter disease and prothrombotic states (Book p475)"
+  },
+  {
+   "id": "SURG-C61-156",
+   "sec": "Upper Limb DVT",
+   "page": 475,
+   "q": "Paget-Schroetter disease is thrombosis of:",
+   "opts": [
+    "Axillary vein",
+    "Subclavian artery",
+    "Cephalic vein",
+    "Internal jugular vein"
+   ],
+   "ans": 0,
+   "exp": "Axillary vein (Book p475)"
+  },
+  {
+   "id": "SURG-C61-157",
+   "sec": "Upper Limb DVT",
+   "page": 475,
+   "q": "Risk factor for Paget-Schroetter disease:",
+   "opts": [
+    "Repetitive arm movements",
+    "Prolonged bed rest",
+    "Smoking",
+    "Obesity"
+   ],
+   "ans": 0,
+   "exp": "Repetitive arm movements (Book p475)"
+  },
+  {
+   "id": "SURG-C61-158",
+   "sec": "Upper Limb DVT",
+   "page": 475,
+   "q": "Diagnosis of Paget-Schroetter disease:",
+   "opts": [
+    "Doppler",
+    "CT angiography",
+    "MRI",
+    "Venography"
+   ],
+   "ans": 0,
+   "exp": "Doppler (Book p475)"
+  },
+  {
+   "id": "SURG-C61-159",
+   "sec": "Upper Limb DVT",
+   "page": 475,
+   "q": "Management of Paget-Schroetter disease:",
+   "opts": [
+    "Anticoagulation",
+    "Amputation",
+    "Thrombectomy always",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Anticoagulation (Book p475)"
+  },
+  {
+   "id": "SURG-C61-160",
+   "sec": "Upper Limb DVT",
+   "page": 475,
+   "q": "Causes of SECONDARY upper limb DVT:",
+   "opts": [
+    "Thoracic outlet obstruction and cannula insertion",
+    "Paget-Schroetter disease",
+    "Factor V Leiden",
+    "Protein C deficiency"
+   ],
+   "ans": 0,
+   "exp": "Thoracic outlet obstruction and cannula insertion (Book p475)"
+  },
+  {
+   "id": "SURG-C61-161",
+   "sec": "Upper Limb DVT",
+   "page": 475,
+   "q": "Paget-Schroetter disease is classified as:",
+   "opts": [
+    "Primary upper limb DVT",
+    "Secondary upper limb DVT",
+    "Superficial thrombophlebitis",
+    "Lymphangitis"
+   ],
+   "ans": 0,
+   "exp": "Primary upper limb DVT (Book p475)"
+  },
+  {
+   "id": "SURG-C61-162",
+   "sec": "Superficial Thrombophlebitis",
+   "page": 475,
+   "q": "Superficial thrombophlebitis is:",
+   "opts": [
+    "Inflammation and thrombosis of superficial veins",
+    "Inflammation of deep veins",
+    "Arterial thrombosis",
+    "Lymphatic inflammation"
+   ],
+   "ans": 0,
+   "exp": "Inflammation and thrombosis of superficial veins (Book p475)"
+  },
+  {
+   "id": "SURG-C61-163",
+   "sec": "Superficial Thrombophlebitis",
+   "page": 475,
+   "q": "M/c cause of superficial thrombophlebitis:",
+   "opts": [
+    "IV line insertion",
+    "Malignancy",
+    "Pregnancy",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "IV line insertion (Book p475)"
+  },
+  {
+   "id": "SURG-C61-164",
+   "sec": "Superficial Thrombophlebitis",
+   "page": 475,
+   "q": "Features of superficial thrombophlebitis:",
+   "opts": [
+    "Tenderness and cord like swelling",
+    "Painless swelling",
+    "Pulsatile mass",
+    "Cold pale limb"
+   ],
+   "ans": 0,
+   "exp": "Tenderness and cord like swelling (Book p475)"
+  },
+  {
+   "id": "SURG-C61-165",
+   "sec": "Superficial Thrombophlebitis",
+   "page": 475,
+   "q": "Management of superficial thrombophlebitis:",
+   "opts": [
+    "Thrombophob gel",
+    "Warfarin lifelong",
+    "IVC filter",
+    "Amputation"
+   ],
+   "ans": 0,
+   "exp": "Thrombophob gel (Book p475)"
+  },
+  {
+   "id": "SURG-C61-166",
+   "sec": "Superficial Thrombophlebitis",
+   "page": 475,
+   "q": "Swelling described in superficial thrombophlebitis:",
+   "opts": [
+    "Cord like swelling",
+    "Bag of worms",
+    "Fluctuant abscess",
+    "Pulsatile swelling"
+   ],
+   "ans": 0,
+   "exp": "Cord like swelling (Book p475)"
+  },
+  {
+   "id": "SURG-C61-167",
+   "sec": "Superficial Thrombophlebitis",
+   "page": 475,
+   "q": "Superficial thrombophlebitis differs from DVT in that it involves:",
+   "opts": [
+    "Superficial veins",
+    "Deep veins",
+    "Arteries",
+    "Lymphatics"
+   ],
+   "ans": 0,
+   "exp": "Superficial veins (Book p475)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U61-1",
+   "ch": 61,
+   "n": 1,
+   "title": "Anatomy of Lower Limb Deep Veins",
+   "sec": "Anatomy of Lower Limb Deep Veins · p470",
+   "qs": [
+    "SURG-C61-001",
+    "SURG-C61-002",
+    "SURG-C61-003",
+    "SURG-C61-004",
+    "SURG-C61-005",
+    "SURG-C61-006",
+    "SURG-C61-007",
+    "SURG-C61-008",
+    "SURG-C61-009",
+    "SURG-C61-010"
+   ],
+   "guide": "Three paired calf veins — peroneal, anterior tibial and posterior tibial — carry 80% of the leg's blood and merge upward into the popliteal and then femoral vein, with the profunda femoris and saphenofemoral junction joining near the groin. Fix this map first: everything about DVT location, risk and embolism follows the anatomy."
+  },
+  {
+   "id": "SURG-U61-2",
+   "ch": 61,
+   "n": 2,
+   "title": "Lower Limb DVT: Definition and Complications",
+   "sec": "Lower Limb DVT: Definition and Complications · p470",
+   "qs": [
+    "SURG-C61-011",
+    "SURG-C61-012",
+    "SURG-C61-013",
+    "SURG-C61-014",
+    "SURG-C61-015"
+   ],
+   "guide": "DVT is simply a semi-solid coagulum sitting in a deep vein — but it is the m/c cause of death after bariatric surgery. Two complications matter: pulmonary embolism (acute killer) and post thrombotic limb (chronic misery)."
+  },
+  {
+   "id": "SURG-U61-3",
+   "ch": 61,
+   "n": 3,
+   "title": "Virchow's Triad and Patient Risk Factors",
+   "sec": "Virchow's Triad and Patient Risk Factors · p470",
+   "qs": [
+    "SURG-C61-016",
+    "SURG-C61-017",
+    "SURG-C61-018",
+    "SURG-C61-019",
+    "SURG-C61-020",
+    "SURG-C61-021",
+    "SURG-C61-022",
+    "SURG-C61-023",
+    "SURG-C61-024",
+    "SURG-C61-025",
+    "SURG-C61-026",
+    "SURG-C61-027"
+   ],
+   "guide": "Virchow's triad — stasis, hypercoagulability, endothelial injury — organises every DVT risk factor. Patient factors: age, obesity and immobility (stasis), varicose veins, pregnancy/puerperium/high dose estrogen (prothrombotic state), previous DVT or PE, thrombophilia and tumours."
+  },
+  {
+   "id": "SURG-U61-4",
+   "ch": 61,
+   "n": 4,
+   "title": "Disease and Surgical Procedure Risk Factors",
+   "sec": "Disease and Surgical Procedure Risk Factors · p471",
+   "qs": [
+    "SURG-C61-028",
+    "SURG-C61-029",
+    "SURG-C61-030",
+    "SURG-C61-031",
+    "SURG-C61-032",
+    "SURG-C61-033",
+    "SURG-C61-034",
+    "SURG-C61-035",
+    "SURG-C61-036",
+    "SURG-C61-037",
+    "SURG-C61-038",
+    "SURG-C61-039",
+    "SURG-C61-040",
+    "SURG-C61-041",
+    "SURG-C61-042",
+    "SURG-C61-043"
+   ],
+   "guide": "Disease and procedure factors work through tissue factor: hip/pelvis/lower-limb trauma or surgery, pelvic malignancy with abdominal metastases, heart failure, recent MI, lower limb paralysis, infection, homocystinemia and May-Thurner (right iliac artery squashing the left iliac vein). Add IBD, nephrotic syndrome, polycythemia, paraproteinemia, PNH/lupus anticoagulant, Behcet's, factor V Leiden and protein C & S deficiency."
+  },
+  {
+   "id": "SURG-U61-5",
+   "ch": 61,
+   "n": 5,
+   "title": "Clinical Features and Signs of DVT",
+   "sec": "Clinical Features and Signs of DVT · p471",
+   "qs": [
+    "SURG-C61-044",
+    "SURG-C61-045",
+    "SURG-C61-046",
+    "SURG-C61-047",
+    "SURG-C61-048",
+    "SURG-C61-049",
+    "SURG-C61-050",
+    "SURG-C61-051",
+    "SURG-C61-052",
+    "SURG-C61-053",
+    "SURG-C61-054",
+    "SURG-C61-055"
+   ],
+   "guide": "Most DVT is silent — usually unilateral, bilateral in 20-30%, most often in calf/soleal veins. Emboli come from the ilio-femoral veins (proximal = higher risk), producing chest pain, dyspnoea, ↑JVP and ↓SBP. Limb edema is the constant sign; Moses = pain on squeezing calf, Homan's = resistance on dorsiflexion."
+  },
+  {
+   "id": "SURG-U61-6",
+   "ch": 61,
+   "n": 6,
+   "title": "Phlegmasia Cerulea and Alba Dolens",
+   "sec": "Phlegmasia Cerulea and Alba Dolens · p471",
+   "qs": [
+    "SURG-C61-056",
+    "SURG-C61-057",
+    "SURG-C61-058",
+    "SURG-C61-059",
+    "SURG-C61-060",
+    "SURG-C61-061",
+    "SURG-C61-062",
+    "SURG-C61-063"
+   ],
+   "guide": "Phlegmasia cerulea dolens — painful BLUE limb from thrombosis of axial veins PLUS collaterals — can progress to venous gangrene. Phlegmasia alba dolens — 'milk leg', painful WHITE limb with collaterals spared — is common in pregnancy. The collaterals decide the colour."
+  },
+  {
+   "id": "SURG-U61-7",
+   "ch": 61,
+   "n": 7,
+   "title": "Wells' Criteria for Predicting DVT",
+   "sec": "Wells' Criteria for Predicting DVT · p472",
+   "qs": [
+    "SURG-C61-064",
+    "SURG-C61-065",
+    "SURG-C61-066",
+    "SURG-C61-067",
+    "SURG-C61-068",
+    "SURG-C61-069",
+    "SURG-C61-070",
+    "SURG-C61-071",
+    "SURG-C61-072",
+    "SURG-C61-073",
+    "SURG-C61-074",
+    "SURG-C61-075",
+    "SURG-C61-076",
+    "SURG-C61-077",
+    "SURG-C61-078",
+    "SURG-C61-079",
+    "SURG-C61-080"
+   ],
+   "guide": "Wells' criteria: almost every variable scores 1 (limb trauma/cast, bedridden >3 days or surgery within 4 weeks, tenderness over femoral/popliteal line, entire limb swollen, calf >3 cm larger measured 10 cm below the tibial tuberosity, pitting oedema, dilated non-varicose collaterals, previous DVT, malignancy treated within 6 months), IV drug abuse scores 3, and an alternative diagnosis subtracts 2. Score -2 to 0 = low (5%), 1-2 = moderate (17%), >2 = high (17-53%)."
+  },
+  {
+   "id": "SURG-U61-8",
+   "ch": 61,
+   "n": 8,
+   "title": "Investigations of DVT and Pulmonary Embolism",
+   "sec": "Investigations of DVT and Pulmonary Embolism · p472",
+   "qs": [
+    "SURG-C61-081",
+    "SURG-C61-082",
+    "SURG-C61-083",
+    "SURG-C61-084",
+    "SURG-C61-085",
+    "SURG-C61-086",
+    "SURG-C61-087",
+    "SURG-C61-088",
+    "SURG-C61-089"
+   ],
+   "guide": "IOC for DVT is the Doppler/duplex scan (colour doppler + B mode USG); if proximal iliac veins remain unclear, go to MRI. For pulmonary embolism, CT angiography is the IOC while invasive pulmonary angiography is the gold standard. D-dimer's value is its high negative predictive value — it rises in DVT and after surgery alike."
+  },
+  {
+   "id": "SURG-U61-9",
+   "ch": 61,
+   "n": 9,
+   "title": "Management: Anticoagulants and Monitoring",
+   "sec": "Management: Anticoagulants and Monitoring · p472",
+   "qs": [
+    "SURG-C61-090",
+    "SURG-C61-091",
+    "SURG-C61-092",
+    "SURG-C61-093",
+    "SURG-C61-094",
+    "SURG-C61-095",
+    "SURG-C61-096",
+    "SURG-C61-097",
+    "SURG-C61-098",
+    "SURG-C61-099",
+    "SURG-C61-100",
+    "SURG-C61-101",
+    "SURG-C61-102",
+    "SURG-C61-103",
+    "SURG-C61-104"
+   ],
+   "guide": "Anticoagulation is the mainstay: it prevents clot propagation. LMWH + warfarin for 5 days (warfarin first induces a prothrombotic state), then warfarin alone — 3 months for a first episode, lifelong for recurrence. Monitor INR: target 2-3, but 1.4-1.5 before surgery; reverse with FFP or, preferably, prothrombin factor concentrates. In pregnancy stay on LMWH, since oral agents are teratogenic."
+  },
+  {
+   "id": "SURG-U61-10",
+   "ch": 61,
+   "n": 10,
+   "title": "Heparin-sensitive Agents and NOACs",
+   "sec": "Heparin-sensitive Agents and NOACs · p473",
+   "qs": [
+    "SURG-C61-105",
+    "SURG-C61-106",
+    "SURG-C61-107",
+    "SURG-C61-108",
+    "SURG-C61-109",
+    "SURG-C61-110"
+   ],
+   "guide": "Heparin-sensitive patients get fondaparinux (factor Xa inhibitor) or bivalirudin (direct thrombin inhibitor). NOACs — rivaroxaban and apixaban, both factor Xa inhibitors — need no monitoring."
+  },
+  {
+   "id": "SURG-U61-11",
+   "ch": 61,
+   "n": 11,
+   "title": "Direct Thrombolysis",
+   "sec": "Direct Thrombolysis · p473",
+   "qs": [
+    "SURG-C61-111",
+    "SURG-C61-112",
+    "SURG-C61-113",
+    "SURG-C61-114",
+    "SURG-C61-115",
+    "SURG-C61-116",
+    "SURG-C61-117"
+   ],
+   "guide": "Direct thrombolysis dissolves rather than contains the clot: catheter-delivered streptokinase or urokinase, cutting the risk of post thrombotic limb. Reserve it for early presenters with proximal DVT and moderate/severe symptoms."
+  },
+  {
+   "id": "SURG-U61-12",
+   "ch": 61,
+   "n": 12,
+   "title": "IVC Filter (Greenfield Filter)",
+   "sec": "IVC Filter (Greenfield Filter) · p473",
+   "qs": [
+    "SURG-C61-118",
+    "SURG-C61-119",
+    "SURG-C61-120",
+    "SURG-C61-121",
+    "SURG-C61-122",
+    "SURG-C61-123",
+    "SURG-C61-124",
+    "SURG-C61-125",
+    "SURG-C61-126",
+    "SURG-C61-127",
+    "SURG-C61-128",
+    "SURG-C61-129",
+    "SURG-C61-130",
+    "SURG-C61-131",
+    "SURG-C61-132",
+    "SURG-C61-133"
+   ],
+   "guide": "The Greenfield IVC filter is placed under image guidance to entrap clot. Permanent indications: recurrent thromboembolism despite adequate anticoagulation, DVT with contraindication to anticoagulation (e.g. intracranial haemorrhage), chronic PE with pulmonary hypertension, complications of anticoagulation and propagating iliofemoral thrombus. Retrievable ones cover high-risk trauma prophylaxis, short-term contraindications, protection during thrombolysis and extensive iliocaval thrombosis. Beware migration, bleeding and IVC blockage — which drops venous return, JVP, CO and SBP (treat with IV fluids), the mirror image of PE's raised JVP."
+  },
+  {
+   "id": "SURG-U61-13",
+   "ch": 61,
+   "n": 13,
+   "title": "Post Thrombotic Limb",
+   "sec": "Post Thrombotic Limb · p474",
+   "qs": [
+    "SURG-C61-134",
+    "SURG-C61-135",
+    "SURG-C61-136",
+    "SURG-C61-137",
+    "SURG-C61-138",
+    "SURG-C61-139",
+    "SURG-C61-140",
+    "SURG-C61-141"
+   ],
+   "guide": "Two-thirds of DVT patients end with a post thrombotic limb: clot in the deep veins pushes flow into superficial veins, producing varicose veins, pigmentation and lipodermatosclerosis with its inverted champagne bottle leg. Proximal DVT, subtherapeutic anticoagulation and recurrent DVT are the risks — and the trigger for direct thrombolysis."
+  },
+  {
+   "id": "SURG-U61-14",
+   "ch": 61,
+   "n": 14,
+   "title": "DVT Risk Groups and Prophylaxis",
+   "sec": "DVT Risk Groups and Prophylaxis · p474",
+   "qs": [
+    "SURG-C61-142",
+    "SURG-C61-143",
+    "SURG-C61-144",
+    "SURG-C61-145",
+    "SURG-C61-146",
+    "SURG-C61-147",
+    "SURG-C61-148",
+    "SURG-C61-149",
+    "SURG-C61-150",
+    "SURG-C61-151",
+    "SURG-C61-152",
+    "SURG-C61-153",
+    "SURG-C61-154"
+   ],
+   "guide": "High-risk DVT groups: major orthopaedic surgery or pelvic/hip/lower limb fracture, abdominal or pelvic cancer surgery, major surgery or trauma in a patient with DVT/PE/thrombophilia, lower limb paralysis and major lower limb amputation — all need mechanical PLUS pharmacological prophylaxis. Pharmacological (LMWH, last dose 6 hours before surgery) is superior; mechanical means early ambulation and pneumatic compression stockings."
+  },
+  {
+   "id": "SURG-U61-15",
+   "ch": 61,
+   "n": 15,
+   "title": "Upper Limb DVT",
+   "sec": "Upper Limb DVT · p475",
+   "qs": [
+    "SURG-C61-155",
+    "SURG-C61-156",
+    "SURG-C61-157",
+    "SURG-C61-158",
+    "SURG-C61-159",
+    "SURG-C61-160",
+    "SURG-C61-161"
+   ],
+   "guide": "Primary upper limb DVT is Paget-Schroetter disease — axillary vein thrombosis from repetitive arm movements, diagnosed on Doppler and treated with anticoagulation — or a prothrombotic state. Secondary causes are thoracic outlet obstruction and cannula insertion."
+  },
+  {
+   "id": "SURG-U61-16",
+   "ch": 61,
+   "n": 16,
+   "title": "Superficial Thrombophlebitis",
+   "sec": "Superficial Thrombophlebitis · p475",
+   "qs": [
+    "SURG-C61-162",
+    "SURG-C61-163",
+    "SURG-C61-164",
+    "SURG-C61-165",
+    "SURG-C61-166",
+    "SURG-C61-167"
+   ],
+   "guide": "Superficial thrombophlebitis is inflammation plus thrombosis of superficial veins, most often after IV line insertion, giving tenderness and a cord-like swelling. Management is simple: Thrombophob gel."
+  }
+ ]
+}
