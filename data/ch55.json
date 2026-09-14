@@ -1,0 +1,3371 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C55-001",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "Overall, the m/c injured organ in abdominal trauma is the:",
+   "opts": [
+    "Spleen",
+    "Liver",
+    "Small intestine",
+    "Kidney"
+   ],
+   "ans": 0,
+   "exp": "Spleen (Book p417)"
+  },
+  {
+   "id": "SURG-C55-002",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In blunt abdominal trauma the order of injury is:",
+   "opts": [
+    "Spleen > Liver",
+    "Liver > Spleen",
+    "Small intestine > Liver",
+    "Spleen > Kidney"
+   ],
+   "ans": 0,
+   "exp": "Spleen > Liver (Book p417)"
+  },
+  {
+   "id": "SURG-C55-003",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In penetrating abdominal trauma the order of injury is:",
+   "opts": [
+    "Liver > Small intestine",
+    "Small intestine > Liver",
+    "Spleen > Liver",
+    "Stomach > Liver"
+   ],
+   "ans": 0,
+   "exp": "Liver > Small intestine (Book p417)"
+  },
+  {
+   "id": "SURG-C55-004",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In gunshot wounds (GSW) the order of injury is:",
+   "opts": [
+    "Small intestine > Liver",
+    "Liver > Small intestine",
+    "Colon > Liver",
+    "Spleen > Colon"
+   ],
+   "ans": 0,
+   "exp": "Small intestine > Liver (Book p417)"
+  },
+  {
+   "id": "SURG-C55-005",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "Seatbelt syndrome characteristically injures the:",
+   "opts": [
+    "Mesentery",
+    "Duodenum",
+    "Spleen",
+    "Bladder"
+   ],
+   "ans": 0,
+   "exp": "Mesentery (Book p417)"
+  },
+  {
+   "id": "SURG-C55-006",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "Deceleration injury characteristically injures the:",
+   "opts": [
+    "Duodeno-jejunal flexure",
+    "Mesentery",
+    "Spleen",
+    "Rectum"
+   ],
+   "ans": 0,
+   "exp": "Duodeno-jejunal flexure (Book p417)"
+  },
+  {
+   "id": "SURG-C55-007",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In children the order of abdominal organ injury is:",
+   "opts": [
+    "Spleen > Kidney",
+    "Liver > Spleen",
+    "Kidney > Spleen",
+    "Spleen > Liver"
+   ],
+   "ans": 0,
+   "exp": "Spleen > Kidney (Book p417)"
+  },
+  {
+   "id": "SURG-C55-008",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In a hemodynamically stable blunt abdominal trauma patient, the 1st Ix is:",
+   "opts": [
+    "FAST",
+    "CECT",
+    "DPL",
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "FAST (Book p417)"
+  },
+  {
+   "id": "SURG-C55-009",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In a hemodynamically stable blunt patient, the IOC is:",
+   "opts": [
+    "CECT",
+    "FAST",
+    "DPL",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p417)"
+  },
+  {
+   "id": "SURG-C55-010",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In a hemodynamically unstable blunt patient, the 1st Ix is:",
+   "opts": [
+    "FAST",
+    "CECT",
+    "DPL",
+    "Angiogram"
+   ],
+   "ans": 0,
+   "exp": "FAST (Book p417)"
+  },
+  {
+   "id": "SURG-C55-011",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "In a hemodynamically unstable blunt patient, the IOC is:",
+   "opts": [
+    "FAST",
+    "CECT",
+    "DPL",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "FAST (Book p417)"
+  },
+  {
+   "id": "SURG-C55-012",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The definitive management of blunt abdominal trauma needing surgery is:",
+   "opts": [
+    "Midline laparotomy",
+    "Kocher's incision",
+    "Pfannenstiel",
+    "Laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "Midline laparotomy (Book p417)"
+  },
+  {
+   "id": "SURG-C55-013",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "FAST stands for:",
+   "opts": [
+    "Focused assessment sonogram in trauma",
+    "Fast abdominal sonographic test",
+    "Focused abdominal scanning technique",
+    "Free abdominal sonography triage"
+   ],
+   "ans": 0,
+   "exp": "Focused assessment sonogram in trauma (Book p417)"
+  },
+  {
+   "id": "SURG-C55-014",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "FAST USG is done in the:",
+   "opts": [
+    "Emergency room (ER)",
+    "OT",
+    "Radiology suite",
+    "ICU only"
+   ],
+   "ans": 0,
+   "exp": "Emergency room (ER) (Book p417)"
+  },
+  {
+   "id": "SURG-C55-015",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The advantage of FAST is that it:",
+   "opts": [
+    "Can be done quickly and gives crucial information",
+    "Detects all hollow viscus injury",
+    "Quantifies blood loss",
+    "Replaces CT"
+   ],
+   "ans": 0,
+   "exp": "Can be done quickly and gives crucial information (Book p417)"
+  },
+  {
+   "id": "SURG-C55-016",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The first FAST view is the:",
+   "opts": [
+    "Epigastrium",
+    "Right upper quadrant",
+    "Left upper quadrant",
+    "Suprapubic"
+   ],
+   "ans": 0,
+   "exp": "Epigastrium (Book p417)"
+  },
+  {
+   "id": "SURG-C55-017",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The second FAST view is the:",
+   "opts": [
+    "Right upper quadrant",
+    "Epigastrium",
+    "Left upper quadrant",
+    "Suprapubic"
+   ],
+   "ans": 0,
+   "exp": "Right upper quadrant (Book p417)"
+  },
+  {
+   "id": "SURG-C55-018",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The third FAST view is the:",
+   "opts": [
+    "Left upper quadrant",
+    "Epigastrium",
+    "RUQ",
+    "Suprapubic"
+   ],
+   "ans": 0,
+   "exp": "Left upper quadrant (Book p417)"
+  },
+  {
+   "id": "SURG-C55-019",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The fourth FAST view is the:",
+   "opts": [
+    "Suprapubic",
+    "Epigastrium",
+    "RUQ",
+    "LUQ"
+   ],
+   "ans": 0,
+   "exp": "Suprapubic (Book p417)"
+  },
+  {
+   "id": "SURG-C55-020",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "eFAST (extended FAST) adds assessment of the:",
+   "opts": [
+    "Thoracic cavity (5) & (6)",
+    "Pelvis only",
+    "Retroperitoneum",
+    "Groin"
+   ],
+   "ans": 0,
+   "exp": "Thoracic cavity (5) & (6) (Book p417)"
+  },
+  {
+   "id": "SURG-C55-021",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The advantage of eFAST is that it detects free fluid in the abdomen or:",
+   "opts": [
+    "Pericardium",
+    "Pleura only",
+    "Scrotum",
+    "Joints"
+   ],
+   "ans": 0,
+   "exp": "Pericardium (Book p417)"
+  },
+  {
+   "id": "SURG-C55-022",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "On the probe-site diagram, the RUQ probe looks for collection around the:",
+   "opts": [
+    "Liver",
+    "Spleen",
+    "Pelvis",
+    "Pericardium"
+   ],
+   "ans": 0,
+   "exp": "Liver (Book p417)"
+  },
+  {
+   "id": "SURG-C55-023",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "On the probe-site diagram, the LUQ probe looks for collection around the:",
+   "opts": [
+    "Spleen",
+    "Liver",
+    "Pelvis",
+    "Pericardium"
+   ],
+   "ans": 0,
+   "exp": "Spleen (Book p417)"
+  },
+  {
+   "id": "SURG-C55-024",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The epigastric/subxiphoid/PSL probe gives the pericardial window for:",
+   "opts": [
+    "Cardiac tamponade",
+    "Pneumothorax",
+    "Pelvic collection",
+    "Liver tear"
+   ],
+   "ans": 0,
+   "exp": "Cardiac tamponade (Book p417)"
+  },
+  {
+   "id": "SURG-C55-025",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The suprapubic probe looks for collection in the:",
+   "opts": [
+    "Pelvis",
+    "Pericardium",
+    "LUQ",
+    "RUQ"
+   ],
+   "ans": 0,
+   "exp": "Pelvis (Book p417)"
+  },
+  {
+   "id": "SURG-C55-026",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "The right and left anterior chest probes (5, 6) look for:",
+   "opts": [
+    "Pneumothorax",
+    "Hemothorax only",
+    "Tamponade",
+    "Diaphragm tear"
+   ],
+   "ans": 0,
+   "exp": "Pneumothorax (Book p417)"
+  },
+  {
+   "id": "SURG-C55-027",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "page": 417,
+   "q": "Free fluid on FAST USG appears as a:",
+   "opts": [
+    "Hypoechoic collection",
+    "Hyperechoic collection",
+    "Anechoic gas shadow",
+    "Calcific focus"
+   ],
+   "ans": 0,
+   "exp": "Hypoechoic collection (Book p417)"
+  },
+  {
+   "id": "SURG-C55-028",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "FAST will not reliably detect free blood less than:",
+   "opts": [
+    "<100 ml",
+    "<10 ml",
+    "<500 ml",
+    "<1 litre"
+   ],
+   "ans": 0,
+   "exp": "<100 ml (Book p418)"
+  },
+  {
+   "id": "SURG-C55-029",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "FAST does not directly identify injury to:",
+   "opts": [
+    "Hollow viscous",
+    "Solid organs",
+    "Pericardium",
+    "Pelvis"
+   ],
+   "ans": 0,
+   "exp": "Hollow viscous (Book p418)"
+  },
+  {
+   "id": "SURG-C55-030",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "FAST cannot reliably exclude injury in:",
+   "opts": [
+    "Penetrating trauma",
+    "Blunt trauma",
+    "Children",
+    "Pedestrians"
+   ],
+   "ans": 0,
+   "exp": "Penetrating trauma (Book p418)"
+  },
+  {
+   "id": "SURG-C55-031",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "FAST may need repeating or supplementing with:",
+   "opts": [
+    "Other Ix",
+    "Clinical exam only",
+    "Repeat FAST never",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Other Ix (Book p418)"
+  },
+  {
+   "id": "SURG-C55-032",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "FAST is unreliable for assessment of the retroperitoneum because of:",
+   "opts": [
+    "Bowel gas",
+    "Fat",
+    "Bone",
+    "Fluid"
+   ],
+   "ans": 0,
+   "exp": "Bowel gas (Book p418)"
+  },
+  {
+   "id": "SURG-C55-033",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "Another disadvantage of FAST is that it is:",
+   "opts": [
+    "Operator dependent",
+    "Time consuming",
+    "Radiation heavy",
+    "Costly"
+   ],
+   "ans": 0,
+   "exp": "Operator dependent (Book p418)"
+  },
+  {
+   "id": "SURG-C55-034",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "In the blunt work-up, peritonitis or hemodynamic instability with positive FAST leads to:",
+   "opts": [
+    "Exploratory laparotomy",
+    "Abdominal CT scan",
+    "Observation",
+    "DPL"
+   ],
+   "ans": 0,
+   "exp": "Exploratory laparotomy (Book p418)"
+  },
+  {
+   "id": "SURG-C55-035",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "In the blunt work-up, no peritonitis and no hemodynamic instability leads to:",
+   "opts": [
+    "Abdominal CT scan",
+    "Exploratory laparotomy",
+    "FAST repeat only",
+    "DPL"
+   ],
+   "ans": 0,
+   "exp": "Abdominal CT scan (Book p418)"
+  },
+  {
+   "id": "SURG-C55-036",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "On CT, hollow organ injury yes or indeterminate leads to:",
+   "opts": [
+    "Exploratory laparotomy or diagnostic laparoscopy",
+    "Nonoperative management",
+    "IR evaluation",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Exploratory laparotomy or diagnostic laparoscopy (Book p418)"
+  },
+  {
+   "id": "SURG-C55-037",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "Solid organ injury with pseudoaneurysm or arterial blush on contrasted CT leads to:",
+   "opts": [
+    "Interventional radiology evaluation",
+    "Nonoperative management",
+    "Laparotomy always",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Interventional radiology evaluation (Book p418)"
+  },
+  {
+   "id": "SURG-C55-038",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "Solid organ injury without pseudoaneurysm/blush is managed by:",
+   "opts": [
+    "Nonoperative management",
+    "IR evaluation",
+    "Laparotomy",
+    "Laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "Nonoperative management (Book p418)"
+  },
+  {
+   "id": "SURG-C55-039",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "If CT shows no solid organ injury, the work-up directs to:",
+   "opts": [
+    "Manage other injuries",
+    "Laparotomy",
+    "IR",
+    "Repeat CT"
+   ],
+   "ans": 0,
+   "exp": "Manage other injuries (Book p418)"
+  },
+  {
+   "id": "SURG-C55-040",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "In penetrating trauma, a sharp object in the ER should:",
+   "opts": [
+    "Never be removed as it can lead to ↑ bleeding",
+    "Be removed immediately",
+    "Be pushed in further",
+    "Be cut at skin level"
+   ],
+   "ans": 0,
+   "exp": "Never be removed as it can lead to ↑ bleeding (Book p418)"
+  },
+  {
+   "id": "SURG-C55-041",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "A penetrating injury superficial to the peritoneum is worked up with:",
+   "opts": [
+    "Local examination & CECT abdomen",
+    "Midline laparotomy",
+    "DPL",
+    "FAST only"
+   ],
+   "ans": 0,
+   "exp": "Local examination & CECT abdomen (Book p418)"
+  },
+  {
+   "id": "SURG-C55-042",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "Peritoneal breach (+) features include peritonitis with rebound tenderness and:",
+   "opts": [
+    "Rigidity, guarding",
+    "Borborygmi",
+    "Tympany only",
+    "Visible peristalsis"
+   ],
+   "ans": 0,
+   "exp": "Rigidity, guarding (Book p418)"
+  },
+  {
+   "id": "SURG-C55-043",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "Other features of peritoneal breach are omentum hanging out, bile staining and:",
+   "opts": [
+    "Hemodynamic instability",
+    "Fever only",
+    "Leukocytosis only",
+    "Bruising"
+   ],
+   "ans": 0,
+   "exp": "Hemodynamic instability (Book p418)"
+  },
+  {
+   "id": "SURG-C55-044",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "page": 418,
+   "q": "Peritoneal breach (+) is managed by:",
+   "opts": [
+    "Midline laparotomy (no Ix done)",
+    "CECT first",
+    "DPL first",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Midline laparotomy (no Ix done) (Book p418)"
+  },
+  {
+   "id": "SURG-C55-045",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "DPL is indicated when:",
+   "opts": [
+    "FAST is not available",
+    "CT is available",
+    "Patient is stable",
+    "FAST is positive"
+   ],
+   "ans": 0,
+   "exp": "FAST is not available (Book p419)"
+  },
+  {
+   "id": "SURG-C55-046",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Before DPL, the stomach is decompressed with a Ryle's tube and the bladder with a:",
+   "opts": [
+    "Urinary catheter",
+    "Suprapubic catheter",
+    "Cystoscope",
+    "Nephrostomy"
+   ],
+   "ans": 0,
+   "exp": "Urinary catheter (Book p419)"
+  },
+  {
+   "id": "SURG-C55-047",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "The DPL needle is inserted:",
+   "opts": [
+    "Just below the umbilicus",
+    "Above the umbilicus",
+    "In the left iliac fossa",
+    "Suprapubically"
+   ],
+   "ans": 0,
+   "exp": "Just below the umbilicus (Book p419)"
+  },
+  {
+   "id": "SURG-C55-048",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Aspirating >10 cc of gross blood at DPL means:",
+   "opts": [
+    "Positive DPL",
+    "Negative DPL",
+    "Repeat lavage",
+    "Instill saline"
+   ],
+   "ans": 0,
+   "exp": "Positive DPL (Book p419)"
+  },
+  {
+   "id": "SURG-C55-049",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "If no blood is aspirated at DPL, the next step is to instill:",
+   "opts": [
+    "1 L of Ringer lactate",
+    "1 L of normal saline",
+    "500 mL of saline",
+    "2 L of Ringer lactate"
+   ],
+   "ans": 0,
+   "exp": "1 L of Ringer lactate (Book p419)"
+  },
+  {
+   "id": "SURG-C55-050",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "After instillation, the DPL fluid is positive if RBC count exceeds:",
+   "opts": [
+    ">1 lakh/cumm",
+    ">10,000/cumm",
+    [
+     ">50,000/cumm"
+    ],
+    ">5 lakh/cumm"
+   ],
+   "ans": 0,
+   "exp": ">1 lakh/cumm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-051",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "DPL fluid is positive if WBC count exceeds:",
+   "opts": [
+    ">500/cumm",
+    ">100/cumm",
+    [
+     ">1000/cumm"
+    ],
+    ">5000/cumm"
+   ],
+   "ans": 0,
+   "exp": ">500/cumm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-052",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "DPL fluid is positive if serum amylase exceeds:",
+   "opts": [
+    ">175 IU/L",
+    ">75 IU/L",
+    [
+     ">100 IU/L"
+    ],
+    ">300 IU/L"
+   ],
+   "ans": 0,
+   "exp": ">175 IU/L (Book p419)"
+  },
+  {
+   "id": "SURG-C55-053",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "DPL fluid is also positive with the presence of:",
+   "opts": [
+    "Fecal content",
+    "Bile only",
+    "Air only",
+    "Food fibres only"
+   ],
+   "ans": 0,
+   "exp": "Fecal content (Book p419)"
+  },
+  {
+   "id": "SURG-C55-054",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Management of a +ve DPL is:",
+   "opts": [
+    "Midline laparotomy",
+    "Observation",
+    "CECT",
+    "Repeat DPL"
+   ],
+   "ans": 0,
+   "exp": "Midline laparotomy (Book p419)"
+  },
+  {
+   "id": "SURG-C55-055",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "The m/c organ injured in abdominal trauma is the:",
+   "opts": [
+    "Spleen",
+    "Liver",
+    "Kidney",
+    "Pancreas"
+   ],
+   "ans": 0,
+   "exp": "Spleen (Book p419)"
+  },
+  {
+   "id": "SURG-C55-056",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Suspect splenic trauma with fracture of which ribs on the left side?",
+   "opts": [
+    "9-11th ribs",
+    "7-8th ribs",
+    [
+     "11-12th ribs"
+    ],
+    "5-6th ribs"
+   ],
+   "ans": 0,
+   "exp": "9-11th ribs (Book p419)"
+  },
+  {
+   "id": "SURG-C55-057",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Another clue to splenic trauma is bruising of the:",
+   "opts": [
+    "Left lower chest wall",
+    "Left flank only",
+    "Epigastrium",
+    "Left shoulder"
+   ],
+   "ans": 0,
+   "exp": "Left lower chest wall (Book p419)"
+  },
+  {
+   "id": "SURG-C55-058",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "The +ve sign seen in splenic rupture is the:",
+   "opts": [
+    "Kehr sign",
+    "Ballance sign",
+    [
+     "Grey Turner sign"
+    ],
+    "Cullen sign"
+   ],
+   "ans": 0,
+   "exp": "Kehr sign (Book p419)"
+  },
+  {
+   "id": "SURG-C55-059",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Kehr sign is elicited by raising the left lower limb so that blood accumulates beneath the:",
+   "opts": [
+    "Left dome of diaphragm",
+    "Right dome of diaphragm",
+    [
+     "Splenic flexure"
+    ],
+    "Left paracolic gutter"
+   ],
+   "ans": 0,
+   "exp": "Left dome of diaphragm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-060",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Kehr sign produces referred pain to the:",
+   "opts": [
+    "Shoulder tip",
+    "Left flank",
+    "Epigastrium",
+    "Back"
+   ],
+   "ans": 0,
+   "exp": "Shoulder tip (Book p419)"
+  },
+  {
+   "id": "SURG-C55-061",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 1 splenic trauma includes subcapsular haematoma of:",
+   "opts": [
+    "<10% of surface area",
+    "10-50% of surface area",
+    [
+     ">50% of surface area"
+    ],
+    ">25% of surface area"
+   ],
+   "ans": 0,
+   "exp": "<10% of surface area (Book p419)"
+  },
+  {
+   "id": "SURG-C55-062",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 1 splenic trauma parenchymal laceration depth is:",
+   "opts": [
+    "<1 cm",
+    "1-3 cm",
+    [
+     ">3 cm"
+    ],
+    "<3 cm"
+   ],
+   "ans": 0,
+   "exp": "<1 cm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-063",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 1 splenic trauma also includes a:",
+   "opts": [
+    "Capsular tear",
+    "Hilar tear",
+    [
+     "Shattered spleen"
+    ],
+    "Vascular injury"
+   ],
+   "ans": 0,
+   "exp": "Capsular tear (Book p419)"
+  },
+  {
+   "id": "SURG-C55-064",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 2 splenic trauma subcapsular haematoma covers:",
+   "opts": [
+    "10-50% of surface area",
+    "<10%",
+    [
+     ">50%"
+    ],
+    "10-30%"
+   ],
+   "ans": 0,
+   "exp": "10-50% of surface area (Book p419)"
+  },
+  {
+   "id": "SURG-C55-065",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 2 splenic trauma intraparenchymal haematoma is:",
+   "opts": [
+    "<5 cm",
+    ">5 cm",
+    [
+     "<10 cm"
+    ],
+    ">10 cm"
+   ],
+   "ans": 0,
+   "exp": "<5 cm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-066",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 2 splenic trauma parenchymal laceration depth is:",
+   "opts": [
+    "1-3 cm",
+    "<1 cm",
+    [
+     ">3 cm"
+    ],
+    "3-5 cm"
+   ],
+   "ans": 0,
+   "exp": "1-3 cm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-067",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 3 splenic trauma subcapsular haematoma covers:",
+   "opts": [
+    ">50% surface area",
+    "<10%",
+    [
+     "10-50%"
+    ],
+    "25-50%"
+   ],
+   "ans": 0,
+   "exp": ">50% surface area (Book p419)"
+  },
+  {
+   "id": "SURG-C55-068",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 3 splenic trauma ruptured subcapsular or intraparenchymal haematoma is:",
+   "opts": [
+    ">5 cm",
+    "<5 cm",
+    [
+     ">2 cm"
+    ],
+    "<2 cm"
+   ],
+   "ans": 0,
+   "exp": ">5 cm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-069",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 3 splenic trauma parenchymal laceration depth is:",
+   "opts": [
+    ">3 cm",
+    "1-3 cm",
+    [
+     "<1 cm"
+    ],
+    ">5 cm"
+   ],
+   "ans": 0,
+   "exp": ">3 cm (Book p419)"
+  },
+  {
+   "id": "SURG-C55-070",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 4 splenic trauma is any injury with a splenic vascular injury or active bleeding confined within the splenic capsule, or laceration of segmental/hilar vessels producing:",
+   "opts": [
+    ">25% devascularisation",
+    ">10% devascularisation",
+    [
+     ">50% devascularisation"
+    ],
+    ">75% devascularisation"
+   ],
+   "ans": 0,
+   "exp": ">25% devascularisation (Book p419)"
+  },
+  {
+   "id": "SURG-C55-071",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "page": 419,
+   "q": "Grade 5 splenic trauma is a:",
+   "opts": [
+    "Shattered spleen + vascular injury",
+    "Subcapsular haematoma >50%",
+    [
+     "Hilar avulsion only"
+    ],
+    "Capsular tear only"
+   ],
+   "ans": 0,
+   "exp": "Shattered spleen + vascular injury (Book p419)"
+  },
+  {
+   "id": "SURG-C55-072",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "On delayed splenic CT imaging, a pseudoaneurysm or arteriovenous fistula shows a subsequent:",
+   "opts": [
+    "↓ in arterial blush",
+    "↑ in arterial blush",
+    [
+     "No change in blush"
+    ],
+    "New blush"
+   ],
+   "ans": 0,
+   "exp": "↓ in arterial blush (Book p420)"
+  },
+  {
+   "id": "SURG-C55-073",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Active bleeding from a splenic vascular injury shows a subsequent:",
+   "opts": [
+    "↑ in arterial blush in delayed imaging",
+    "↓ in arterial blush",
+    [
+     "Washout"
+    ],
+    "No blush"
+   ],
+   "ans": 0,
+   "exp": "↑ in arterial blush in delayed imaging (Book p420)"
+  },
+  {
+   "id": "SURG-C55-074",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Grade I & II splenic injuries are usually:",
+   "opts": [
+    "Stable",
+    "Unstable",
+    [
+     "Transient"
+    ],
+    "Shocky"
+   ],
+   "ans": 0,
+   "exp": "Stable (Book p420)"
+  },
+  {
+   "id": "SURG-C55-075",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "The IOC for grade I & II splenic injury is:",
+   "opts": [
+    "CECT",
+    "FAST",
+    [
+     "DPL"
+    ],
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p420)"
+  },
+  {
+   "id": "SURG-C55-076",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Conservative splenic management monitors vitals, haematocrit and:",
+   "opts": [
+    "Serial 24 hr CECT",
+    "Serial FAST",
+    [
+     "Daily DPL"
+    ],
+    "Weekly MRI"
+   ],
+   "ans": 0,
+   "exp": "Serial 24 hr CECT (Book p420)"
+  },
+  {
+   "id": "SURG-C55-077",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "An ↑ in grade of injury or contrast blush on CECT in a conserved spleen prompts:",
+   "opts": [
+    "Angioembolization",
+    "Laparotomy",
+    [
+     "Splenectomy"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Angioembolization (Book p420)"
+  },
+  {
+   "id": "SURG-C55-078",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Conservative splenic management that fails, or shows unstable vitals or peritonitis, proceeds to:",
+   "opts": [
+    "Laparotomy",
+    "Angioembolization",
+    [
+     "Repeat CECT"
+    ],
+    "Transfusion alone"
+   ],
+   "ans": 0,
+   "exp": "Laparotomy (Book p420)"
+  },
+  {
+   "id": "SURG-C55-079",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "At laparotomy for splenic injury, the preferred approach is:",
+   "opts": [
+    "Splenic preservation/splenorrhaphy",
+    "Splenectomy always",
+    [
+     "Partial splenectomy only"
+    ],
+    "Packing"
+   ],
+   "ans": 0,
+   "exp": "Splenic preservation/splenorrhaphy (Book p420)"
+  },
+  {
+   "id": "SURG-C55-080",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "A stable grade III splenic injury is managed:",
+   "opts": [
+    "Same as grade I & II",
+    "Same as grade IV & V",
+    [
+     "Splenectomy"
+    ],
+    "Angioembolization always"
+   ],
+   "ans": 0,
+   "exp": "Same as grade I & II (Book p420)"
+  },
+  {
+   "id": "SURG-C55-081",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "An unstable grade III splenic injury is managed:",
+   "opts": [
+    "Same as grade IV & V",
+    "Same as grade I & II",
+    [
+     "Conservatively"
+    ],
+    "By angioembolization"
+   ],
+   "ans": 0,
+   "exp": "Same as grade IV & V (Book p420)"
+  },
+  {
+   "id": "SURG-C55-082",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "The IOC for unstable grade IV or V splenic injury is:",
+   "opts": [
+    "FAST",
+    "CECT",
+    [
+     "DPL"
+    ],
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "FAST (Book p420)"
+  },
+  {
+   "id": "SURG-C55-083",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "A FAST +ve unstable grade IV/V splenic injury needs laparotomy with:",
+   "opts": [
+    "Splenectomy (difficult to save the spleen)",
+    "Splenorrhaphy",
+    [
+     "Packing only"
+    ],
+    "Angioembolization"
+   ],
+   "ans": 0,
+   "exp": "Splenectomy (difficult to save the spleen) (Book p420)"
+  },
+  {
+   "id": "SURG-C55-084",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "The first complication of splenectomy listed is:",
+   "opts": [
+    "Hemorrhage",
+    "Pancreatic fistula",
+    [
+     "OPSI"
+    ],
+    "Thrombocytosis"
+   ],
+   "ans": 0,
+   "exp": "Hemorrhage (Book p420)"
+  },
+  {
+   "id": "SURG-C55-085",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Splenectomy risks injury to the pancreas because the tail of pancreas lies:",
+   "opts": [
+    "Close to hilum of spleen",
+    "Behind the stomach",
+    [
+     "In the splenorenal ligament only"
+    ],
+    "Near the splenic flexure"
+   ],
+   "ans": 0,
+   "exp": "Close to hilum of spleen (Book p420)"
+  },
+  {
+   "id": "SURG-C55-086",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Pancreatic tail injury during splenectomy causes a pancreatic fistula with:",
+   "opts": [
+    "Amylase rich secretions",
+    "Bile rich secretions",
+    [
+     "Chyle"
+    ],
+    "Pus"
+   ],
+   "ans": 0,
+   "exp": "Amylase rich secretions (Book p420)"
+  },
+  {
+   "id": "SURG-C55-087",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Post-splenectomy hematological change shows transient ↑ in all 3 cell lines for:",
+   "opts": [
+    "2 weeks",
+    "2 days",
+    [
+     "2 months"
+    ],
+    "6 weeks"
+   ],
+   "ans": 0,
+   "exp": "2 weeks (Book p420)"
+  },
+  {
+   "id": "SURG-C55-088",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "The post-splenectomy ↑ WBC is often:",
+   "opts": [
+    "Mistaken for infection",
+    "Mistaken for leukemia",
+    [
+     "Ignored"
+    ],
+    "Treated with G-CSF"
+   ],
+   "ans": 0,
+   "exp": "Mistaken for infection (Book p420)"
+  },
+  {
+   "id": "SURG-C55-089",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Post-splenectomy platelets >10 lakh/cumm predispose to:",
+   "opts": [
+    "Thrombosis",
+    "Bleeding",
+    [
+     "Sepsis"
+    ],
+    "Anemia"
+   ],
+   "ans": 0,
+   "exp": "Thrombosis (Book p420)"
+  },
+  {
+   "id": "SURG-C55-090",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Post-splenectomy thrombocytosis is treated with:",
+   "opts": [
+    "Prophylactic aspirin",
+    "Heparin drip",
+    [
+     "Warfarin"
+    ],
+    "Plateletpheresis always"
+   ],
+   "ans": 0,
+   "exp": "Prophylactic aspirin (Book p420)"
+  },
+  {
+   "id": "SURG-C55-091",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "page": 420,
+   "q": "Permanent peripheral smear changes post-splenectomy include basophilic stippling, reticulocytes, Howell-Jolly bodies and:",
+   "opts": [
+    "Hypersegmented WBC's",
+    "Hyposegmented WBC's",
+    [
+     "Target cells only"
+    ],
+    "Spherocytes only"
+   ],
+   "ans": 0,
+   "exp": "Hypersegmented WBC's (Book p420)"
+  },
+  {
+   "id": "SURG-C55-092",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "The m/c complication after splenectomy listed is:",
+   "opts": [
+    "Left lower lobe atelectasis/pneumonia",
+    "OPSI",
+    [
+     "Hemorrhage"
+    ],
+    "Fistula"
+   ],
+   "ans": 0,
+   "exp": "Left lower lobe atelectasis/pneumonia (Book p421)"
+  },
+  {
+   "id": "SURG-C55-093",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Left lower lobe atelectasis/pneumonia post-splenectomy is due to:",
+   "opts": [
+    "↓ expansion of chest on (L) side",
+    "Aspiration",
+    [
+     "Emboli"
+    ],
+    "Effusion"
+   ],
+   "ans": 0,
+   "exp": "↓ expansion of chest on (L) side (Book p421)"
+  },
+  {
+   "id": "SURG-C55-094",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "OPSI stands for:",
+   "opts": [
+    "Opportunistic/Overwhelming Post Splenectomy Infection",
+    "Overwhelming Post Surgical Infection",
+    [
+     "Opportunistic Post Septic Injury"
+    ],
+    "Overwhelming Pneumococcal Sepsis Infection"
+   ],
+   "ans": 0,
+   "exp": "Opportunistic/Overwhelming Post Splenectomy Infection (Book p421)"
+  },
+  {
+   "id": "SURG-C55-095",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "OPSI is caused by encapsulated bacteria, the m/c being:",
+   "opts": [
+    "Pneumococcus",
+    "Meningococcus",
+    [
+     "H. influenzae"
+    ],
+    "Staphylococcus"
+   ],
+   "ans": 0,
+   "exp": "Pneumococcus (Book p421)"
+  },
+  {
+   "id": "SURG-C55-096",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Other OPSI organisms are meningococcus and:",
+   "opts": [
+    "H. influenzae",
+    "E. coli",
+    [
+     "Klebsiella"
+    ],
+    "Pseudomonas"
+   ],
+   "ans": 0,
+   "exp": "H. influenzae (Book p421)"
+  },
+  {
+   "id": "SURG-C55-097",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "OPSI occurs in:",
+   "opts": [
+    "Children > adults",
+    "Adults > children",
+    [
+     "Equal"
+    ],
+    "Elderly only"
+   ],
+   "ans": 0,
+   "exp": "Children > adults (Book p421)"
+  },
+  {
+   "id": "SURG-C55-098",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "OPSI is seen commonly within the first:",
+   "opts": [
+    "2 years of splenectomy",
+    "2 months",
+    [
+     "5 years"
+    ],
+    "10 years"
+   ],
+   "ans": 0,
+   "exp": "2 years of splenectomy (Book p421)"
+  },
+  {
+   "id": "SURG-C55-099",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "OPSI mortality is highest in:",
+   "opts": [
+    "Hematological conditions > Trauma",
+    "Trauma > hematological",
+    [
+     "Equal"
+    ],
+    "Iatrogenic only"
+   ],
+   "ans": 0,
+   "exp": "Hematological conditions > Trauma (Book p421)"
+  },
+  {
+   "id": "SURG-C55-100",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Pneumococcal & meningococcal vaccination post-splenectomy is repeated every:",
+   "opts": [
+    "5 years",
+    "2 years",
+    [
+     "10 years"
+    ],
+    "Yearly"
+   ],
+   "ans": 0,
+   "exp": "5 years (Book p421)"
+  },
+  {
+   "id": "SURG-C55-101",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "H. influenzae vaccination post-splenectomy is repeated every:",
+   "opts": [
+    "10 years",
+    "5 years",
+    [
+     "Yearly"
+    ],
+    "2 years"
+   ],
+   "ans": 0,
+   "exp": "10 years (Book p421)"
+  },
+  {
+   "id": "SURG-C55-102",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "The vaccine repeated yearly post-splenectomy is:",
+   "opts": [
+    "Influenzae",
+    "Pneumococcal",
+    [
+     "Meningococcal"
+    ],
+    "H. influenzae"
+   ],
+   "ans": 0,
+   "exp": "Influenzae (Book p421)"
+  },
+  {
+   "id": "SURG-C55-103",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "For elective splenectomy, vaccines are given:",
+   "opts": [
+    "2 weeks before",
+    "2 weeks after",
+    [
+     "On the day"
+    ],
+    "1 month after"
+   ],
+   "ans": 0,
+   "exp": "2 weeks before (Book p421)"
+  },
+  {
+   "id": "SURG-C55-104",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "For emergency splenectomy, vaccines are given on:",
+   "opts": [
+    "Post op day 1/2",
+    "Post op day 7",
+    [
+     "Post op day 14"
+    ],
+    "Post op day 30"
+   ],
+   "ans": 0,
+   "exp": "Post op day 1/2 (Book p421)"
+  },
+  {
+   "id": "SURG-C55-105",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Antibody titres are less when the vaccine is given:",
+   "opts": [
+    "After Sx",
+    "Before Sx",
+    [
+     "During Sx"
+    ],
+    "Never"
+   ],
+   "ans": 0,
+   "exp": "After Sx (Book p421)"
+  },
+  {
+   "id": "SURG-C55-106",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 1 haematoma is subcapsular and covers:",
+   "opts": [
+    "<10% surface area",
+    "10-50%",
+    [
+     ">50%"
+    ],
+    "<25%"
+   ],
+   "ans": 0,
+   "exp": "<10% surface area (Book p421)"
+  },
+  {
+   "id": "SURG-C55-107",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 1 laceration is a capsular tear with parenchymal depth:",
+   "opts": [
+    "<1 cm",
+    "1-3 cm",
+    [
+     ">3 cm"
+    ],
+    "<2 cm"
+   ],
+   "ans": 0,
+   "exp": "<1 cm (Book p421)"
+  },
+  {
+   "id": "SURG-C55-108",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 2 subcapsular haematoma covers:",
+   "opts": [
+    "10-50% surface area",
+    "<10%",
+    [
+     ">50%"
+    ],
+    "25-75%"
+   ],
+   "ans": 0,
+   "exp": "10-50% surface area (Book p421)"
+  },
+  {
+   "id": "SURG-C55-109",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 2 intraparenchymal haematoma diameter is:",
+   "opts": [
+    "<10 cm",
+    ">10 cm",
+    [
+     "<5 cm"
+    ],
+    ">5 cm"
+   ],
+   "ans": 0,
+   "exp": "<10 cm (Book p421)"
+  },
+  {
+   "id": "SURG-C55-110",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 2 laceration is a capsular tear 1-3 cm deep and:",
+   "opts": [
+    "<10 cm length",
+    ">10 cm length",
+    [
+     "<5 cm length"
+    ],
+    ">5 cm length"
+   ],
+   "ans": 0,
+   "exp": "<10 cm length (Book p421)"
+  },
+  {
+   "id": "SURG-C55-111",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 3 subcapsular haematoma covers:",
+   "opts": [
+    ">50% surface area (ruptured subcapsular or intraparenchymal)",
+    "10-50%",
+    [
+     "<10%"
+    ],
+    "25-50%"
+   ],
+   "ans": 0,
+   "exp": ">50% surface area (ruptured subcapsular or intraparenchymal) (Book p421)"
+  },
+  {
+   "id": "SURG-C55-112",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 3 intraparenchymal haematoma is:",
+   "opts": [
+    ">10 cm",
+    "<10 cm",
+    [
+     ">5 cm"
+    ],
+    "<5 cm"
+   ],
+   "ans": 0,
+   "exp": ">10 cm (Book p421)"
+  },
+  {
+   "id": "SURG-C55-113",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 3 laceration depth is:",
+   "opts": [
+    ">3 cm",
+    "1-3 cm",
+    [
+     "<1 cm"
+    ],
+    ">5 cm"
+   ],
+   "ans": 0,
+   "exp": ">3 cm (Book p421)"
+  },
+  {
+   "id": "SURG-C55-114",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 3 also includes vascular injury with active bleeding:",
+   "opts": [
+    "Contained within liver parenchyma",
+    "Breaching into peritoneum",
+    [
+     "Into bile ducts"
+    ],
+    "Into IVC"
+   ],
+   "ans": 0,
+   "exp": "Contained within liver parenchyma (Book p421)"
+  },
+  {
+   "id": "SURG-C55-115",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 4 laceration disrupts parenchyma involving:",
+   "opts": [
+    "25-75% hepatic lobe or 1-3 Couinaud segments",
+    "<25% lobe",
+    [
+     ">75% lobe"
+    ],
+    "Whole lobe"
+   ],
+   "ans": 0,
+   "exp": "25-75% hepatic lobe or 1-3 Couinaud segments (Book p421)"
+  },
+  {
+   "id": "SURG-C55-116",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 4 vascular injury bleeds actively:",
+   "opts": [
+    "Breaching the liver parenchyma into the peritoneum",
+    "Contained within parenchyma",
+    [
+     "Into biliary tree"
+    ],
+    "Into portal vein"
+   ],
+   "ans": 0,
+   "exp": "Breaching the liver parenchyma into the peritoneum (Book p421)"
+  },
+  {
+   "id": "SURG-C55-117",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 5 laceration disrupts:",
+   "opts": [
+    ">75% of hepatic lobe",
+    "25-75% lobe",
+    [
+     "50% lobe"
+    ],
+    "<25% lobe"
+   ],
+   "ans": 0,
+   "exp": ">75% of hepatic lobe (Book p421)"
+  },
+  {
+   "id": "SURG-C55-118",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "Liver grade 5 vascular injury involves:",
+   "opts": [
+    "Juxtahepatic venous injuries (retrohepatic vena cava/central major hepatic veins)",
+    "Portal vein only",
+    [
+     "Hepatic artery only"
+    ],
+    "Cystic vein"
+   ],
+   "ans": 0,
+   "exp": "Juxtahepatic venous injuries (retrohepatic vena cava/central major hepatic veins) (Book p421)"
+  },
+  {
+   "id": "SURG-C55-119",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "page": 421,
+   "q": "For multiple liver injuries, the grade is advanced by one up to grade:",
+   "opts": [
+    "III",
+    "II",
+    [
+     "IV"
+    ],
+    "V"
+   ],
+   "ans": 0,
+   "exp": "III (Book p421)"
+  },
+  {
+   "id": "SURG-C55-120",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "The first step in the liver trauma work-up is to:",
+   "opts": [
+    "Resuscitate",
+    "Operate",
+    [
+     "Scan"
+    ],
+    "Transfuse"
+   ],
+   "ans": 0,
+   "exp": "Resuscitate (Book p422)"
+  },
+  {
+   "id": "SURG-C55-121",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Unstable liver trauma (grade III, IV, V) proceeds to:",
+   "opts": [
+    "Surgery",
+    "Conservative mx",
+    [
+     "Angioembolization"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p422)"
+  },
+  {
+   "id": "SURG-C55-122",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Stable liver trauma (grade I, II, III) is managed:",
+   "opts": [
+    "Conservatively",
+    "Surgically",
+    [
+     "By embolization"
+    ],
+    "By packing"
+   ],
+   "ans": 0,
+   "exp": "Conservatively (Book p422)"
+  },
+  {
+   "id": "SURG-C55-123",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Conservative liver management consists of monitor, hematocrit and:",
+   "opts": [
+    "Serial CECT",
+    "Serial FAST",
+    [
+     "Daily DPL"
+    ],
+    "Weekly MRI"
+   ],
+   "ans": 0,
+   "exp": "Serial CECT (Book p422)"
+  },
+  {
+   "id": "SURG-C55-124",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "A conservatively managed liver patient who remains stable is:",
+   "opts": [
+    "Discharged",
+    "Operated",
+    [
+     "Embolized"
+    ],
+    "Kept for 2 weeks"
+   ],
+   "ans": 0,
+   "exp": "Discharged (Book p422)"
+  },
+  {
+   "id": "SURG-C55-125",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Conservative liver management complications to treat include hemorrhage, biliary, vascular and:",
+   "opts": [
+    "Sepsis",
+    "Fistula",
+    [
+     "Stricture"
+    ],
+    "Abscess only"
+   ],
+   "ans": 0,
+   "exp": "Sepsis (Book p422)"
+  },
+  {
+   "id": "SURG-C55-126",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "A conserved liver patient who becomes unstable goes to:",
+   "opts": [
+    "Surgery",
+    "Repeat CECT",
+    [
+     "Embolization"
+    ],
+    "ICU only"
+   ],
+   "ans": 0,
+   "exp": "Surgery (Book p422)"
+  },
+  {
+   "id": "SURG-C55-127",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Pringle's manoeuvre compresses the:",
+   "opts": [
+    "Hepatic pedicle",
+    "Portal vein only",
+    [
+     "Hepatic artery only"
+    ],
+    "IVC"
+   ],
+   "ans": 0,
+   "exp": "Hepatic pedicle (Book p422)"
+  },
+  {
+   "id": "SURG-C55-128",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Pringle's manoeuvre compresses the pedicle for:",
+   "opts": [
+    "15-20 mins",
+    "5-10 mins",
+    [
+     "30-45 mins"
+    ],
+    "60 mins"
+   ],
+   "ans": 0,
+   "exp": "15-20 mins (Book p422)"
+  },
+  {
+   "id": "SURG-C55-129",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Pringle's manoeuvre compresses the pedicle at the:",
+   "opts": [
+    "Foramen of Winslow",
+    "Foramen magnum",
+    [
+     "Epiploic foramen of Morgagni"
+    ],
+    "Hepatoduodenal ligament root only"
+   ],
+   "ans": 0,
+   "exp": "Foramen of Winslow (Book p422)"
+  },
+  {
+   "id": "SURG-C55-130",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "The foramen of Winslow contents compressed in Pringle's manoeuvre are:",
+   "opts": [
+    "Common bile duct (CBD), portal vein, hepatic artery",
+    "IVC, aorta, crura",
+    [
+     "CBD, IVC, aorta"
+    ],
+    "Portal vein, splenic vein, IMV"
+   ],
+   "ans": 0,
+   "exp": "Common bile duct (CBD), portal vein, hepatic artery (Book p422)"
+  },
+  {
+   "id": "SURG-C55-131",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "If bleeding ↓ with Pringle's manoeuvre, the cause is the:",
+   "opts": [
+    "Portal vein/hepatic artery",
+    "Hepatic vein",
+    [
+     "IVC"
+    ],
+    "Cystic artery"
+   ],
+   "ans": 0,
+   "exp": "Portal vein/hepatic artery (Book p422)"
+  },
+  {
+   "id": "SURG-C55-132",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "If bleeding continues with Pringle's manoeuvre, the cause is the:",
+   "opts": [
+    "Hepatic vein",
+    "Portal vein",
+    [
+     "Hepatic artery"
+    ],
+    "CBD"
+   ],
+   "ans": 0,
+   "exp": "Hepatic vein (Book p422)"
+  },
+  {
+   "id": "SURG-C55-133",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "An advantage of Pringle's manoeuvre is to:",
+   "opts": [
+    "Achieve temporary control",
+    "Achieve permanent control",
+    [
+     "Diagnose cirrhosis"
+    ],
+    "Prevent sepsis"
+   ],
+   "ans": 0,
+   "exp": "Achieve temporary control (Book p422)"
+  },
+  {
+   "id": "SURG-C55-134",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "The other advantage of Pringle's manoeuvre is:",
+   "opts": [
+    "To find the source of bleed",
+    "To biopsy liver",
+    [
+     "To drain bile"
+    ],
+    "To mobilize colon"
+   ],
+   "ans": 0,
+   "exp": "To find the source of bleed (Book p422)"
+  },
+  {
+   "id": "SURG-C55-135",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "In liver packing, the first step is to cut the:",
+   "opts": [
+    "Rt & Lt triangular ligaments",
+    "Falciform ligament",
+    [
+     "Round ligament"
+    ],
+    "Hepatogastric ligament"
+   ],
+   "ans": 0,
+   "exp": "Rt & Lt triangular ligaments (Book p422)"
+  },
+  {
+   "id": "SURG-C55-136",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Cutting the triangular ligaments lets the liver separate from the:",
+   "opts": [
+    "Diaphragm",
+    "Stomach",
+    [
+     "Kidney"
+    ],
+    "Colon"
+   ],
+   "ans": 0,
+   "exp": "Diaphragm (Book p422)"
+  },
+  {
+   "id": "SURG-C55-137",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Liver packing places mops above & below the liver for:",
+   "opts": [
+    "24-48 hrs",
+    "6-12 hrs",
+    [
+     "72-96 hrs"
+    ],
+    "1 week"
+   ],
+   "ans": 0,
+   "exp": "24-48 hrs (Book p422)"
+  },
+  {
+   "id": "SURG-C55-138",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "page": 422,
+   "q": "Packing controls bleeding by the:",
+   "opts": [
+    "Tamponading effect",
+    "Coagulation cascade",
+    [
+     "Vasoconstriction"
+    ],
+    "Hypothermia"
+   ],
+   "ans": 0,
+   "exp": "Tamponading effect (Book p422)"
+  },
+  {
+   "id": "SURG-C55-139",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "The first complication of liver trauma is:",
+   "opts": [
+    "Bleeding",
+    "Bile leak",
+    [
+     "Abscess"
+    ],
+    "Stricture"
+   ],
+   "ans": 0,
+   "exp": "Bleeding (Book p423)"
+  },
+  {
+   "id": "SURG-C55-140",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "A bile leak from minor biliary radicles is managed by:",
+   "opts": [
+    "Ligate the radicles",
+    "Repair over T-tube",
+    [
+     "Whipple's"
+    ],
+    "Stenting"
+   ],
+   "ans": 0,
+   "exp": "Ligate the radicles (Book p423)"
+  },
+  {
+   "id": "SURG-C55-141",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "A bile leak from CBD/major ducts is managed by:",
+   "opts": [
+    "Repair over T-tube",
+    "Ligate the duct",
+    [
+     "Choledochojejunostomy always"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Repair over T-tube (Book p423)"
+  },
+  {
+   "id": "SURG-C55-142",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "The third complication of liver trauma is:",
+   "opts": [
+    "Liver abscess",
+    "Strictures in CBD",
+    [
+     "AV malformations"
+    ],
+    "Portal vein injury"
+   ],
+   "ans": 0,
+   "exp": "Liver abscess (Book p423)"
+  },
+  {
+   "id": "SURG-C55-143",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "The fourth complication of liver trauma is:",
+   "opts": [
+    "Strictures in CBD",
+    "Liver abscess",
+    [
+     "AV malformations"
+    ],
+    "Biloma"
+   ],
+   "ans": 0,
+   "exp": "Strictures in CBD (Book p423)"
+  },
+  {
+   "id": "SURG-C55-144",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "The fifth complication of liver trauma is:",
+   "opts": [
+    "AV malformations",
+    "Strictures",
+    [
+     "Abscess"
+    ],
+    "Hernia"
+   ],
+   "ans": 0,
+   "exp": "AV malformations (Book p423)"
+  },
+  {
+   "id": "SURG-C55-145",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "Vascular injury to the portal vein is managed by:",
+   "opts": [
+    "Repair with prolene suture",
+    "Ligation",
+    [
+     "Graft always"
+    ],
+    "Stent"
+   ],
+   "ans": 0,
+   "exp": "Repair with prolene suture (Book p423)"
+  },
+  {
+   "id": "SURG-C55-146",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "In a longitudinal mesenteric tear:",
+   "opts": [
+    "Only 1 branch is cut, no loss of vascularity",
+    "All vessels are cut",
+    [
+     "Vascularity lost"
+    ],
+    "Bowel is devascularised"
+   ],
+   "ans": 0,
+   "exp": "Only 1 branch is cut, no loss of vascularity (Book p423)"
+  },
+  {
+   "id": "SURG-C55-147",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "A longitudinal mesenteric tear is managed by:",
+   "opts": [
+    "Repair the tear",
+    "Resection & anastomosis",
+    [
+     "Exteriorisation"
+    ],
+    "Stoma"
+   ],
+   "ans": 0,
+   "exp": "Repair the tear (Book p423)"
+  },
+  {
+   "id": "SURG-C55-148",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "In a transverse mesenteric tear:",
+   "opts": [
+    "All vessels are cut, loss of vascularity",
+    "Only 1 branch is cut",
+    [
+     "No vascular loss"
+    ],
+    "Tear is superficial"
+   ],
+   "ans": 0,
+   "exp": "All vessels are cut, loss of vascularity (Book p423)"
+  },
+  {
+   "id": "SURG-C55-149",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "A transverse mesenteric tear is managed by:",
+   "opts": [
+    "Resection & anastomosis",
+    "Repair the tear",
+    [
+     "Patch"
+    ],
+    "Stoma only"
+   ],
+   "ans": 0,
+   "exp": "Resection & anastomosis (Book p423)"
+  },
+  {
+   "id": "SURG-C55-150",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "The mildest duodenal injury is:",
+   "opts": [
+    "Duodenal haematoma",
+    "Duodenal perforation",
+    [
+     "Pancreatic injury"
+    ],
+    "Duodenal transection"
+   ],
+   "ans": 0,
+   "exp": "Duodenal haematoma (Book p423)"
+  },
+  {
+   "id": "SURG-C55-151",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "Duodenal haematoma is managed by keeping the patient NPO for:",
+   "opts": [
+    "Bowel rest",
+    "Early feeds",
+    [
+     "TPN always"
+    ],
+    "Surgery"
+   ],
+   "ans": 0,
+   "exp": "Bowel rest (Book p423)"
+  },
+  {
+   "id": "SURG-C55-152",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "Duodenal perforation presents with:",
+   "opts": [
+    "Features of peritonitis",
+    "Obstruction",
+    [
+     "Jaundice"
+    ],
+    "GI bleed"
+   ],
+   "ans": 0,
+   "exp": "Features of peritonitis (Book p423)"
+  },
+  {
+   "id": "SURG-C55-153",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "X-ray in duodenal perforation shows:",
+   "opts": [
+    "Gas under diaphragm",
+    "Air-fluid levels",
+    [
+     "Calcification"
+    ],
+    "Retroperitoneal air only"
+   ],
+   "ans": 0,
+   "exp": "Gas under diaphragm (Book p423)"
+  },
+  {
+   "id": "SURG-C55-154",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "Duodenal perforation is managed by:",
+   "opts": [
+    "Omental patch repair",
+    "Resection",
+    [
+     "Whipple's"
+    ],
+    "Diversion only"
+   ],
+   "ans": 0,
+   "exp": "Omental patch repair (Book p423)"
+  },
+  {
+   "id": "SURG-C55-155",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "Pancreatic injury is:",
+   "opts": [
+    "2° to blunt/penetrating trauma",
+    "1° spontaneous",
+    [
+     "Only iatrogenic"
+    ],
+    "Only penetrating"
+   ],
+   "ans": 0,
+   "exp": "2° to blunt/penetrating trauma (Book p423)"
+  },
+  {
+   "id": "SURG-C55-156",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "The most important prognostic factor in pancreatic injury is:",
+   "opts": [
+    "Injury to main pancreatic duct",
+    "Parenchymal contusion",
+    [
+     "Duodenal involvement"
+    ],
+    "Vascular injury"
+   ],
+   "ans": 0,
+   "exp": "Injury to main pancreatic duct (Book p423)"
+  },
+  {
+   "id": "SURG-C55-157",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "In the book's pancreatic injury flowchart, the arm labelled YES (injury to main pancreatic duct) leads to:",
+   "opts": [
+    "Conservative Mx",
+    "Distal pancreatectomy",
+    [
+     "Begger's procedure"
+    ],
+    "Whipple's"
+   ],
+   "ans": 0,
+   "exp": "Conservative Mx (Book p423)"
+  },
+  {
+   "id": "SURG-C55-158",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "In the book's flowchart, the NO arm checks for injury in the body & tail of pancreas, treated by:",
+   "opts": [
+    "Distal pancreatectomy",
+    "Begger's procedure",
+    [
+     "Conservative Mx"
+    ],
+    "Whipple's"
+   ],
+   "ans": 0,
+   "exp": "Distal pancreatectomy (Book p423)"
+  },
+  {
+   "id": "SURG-C55-159",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "page": 423,
+   "q": "Injury in the head & neck of pancreas in the book's flowchart is treated by:",
+   "opts": [
+    "Begger's procedure (duodenal preserving pancreatic head resection)",
+    "Distal pancreatectomy",
+    [
+     "Conservative Mx"
+    ],
+    "Total pancreatectomy"
+   ],
+   "ans": 0,
+   "exp": "Begger's procedure (duodenal preserving pancreatic head resection) (Book p423)"
+  },
+  {
+   "id": "SURG-C55-160",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "Colon & rectal injury shows peritonitis if:",
+   "opts": [
+    "Perforation (+)",
+    "No perforation",
+    [
+     "Only contusion"
+    ],
+    "Only hematoma"
+   ],
+   "ans": 0,
+   "exp": "Perforation (+) (Book p424)"
+  },
+  {
+   "id": "SURG-C55-161",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "Emergency laparotomy for colon/rectal injury creates a:",
+   "opts": [
+    "Diverting stoma/colostomy",
+    "Primary anastomosis always",
+    [
+     "Hartman always"
+    ],
+    "Tube colostomy only"
+   ],
+   "ans": 0,
+   "exp": "Diverting stoma/colostomy (Book p424)"
+  },
+  {
+   "id": "SURG-C55-162",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "The other operation listed for colon/rectal injury is the:",
+   "opts": [
+    "Hartman procedure",
+    "Whipple's",
+    [
+     "Miles procedure"
+    ],
+    "Deloyers"
+   ],
+   "ans": 0,
+   "exp": "Hartman procedure (Book p424)"
+  },
+  {
+   "id": "SURG-C55-163",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "ETC stands for:",
+   "opts": [
+    "Early Total care",
+    "Emergency Total care",
+    [
+     "Early Trauma care"
+    ],
+    "Extended Total care"
+   ],
+   "ans": 0,
+   "exp": "Early Total care (Book p424)"
+  },
+  {
+   "id": "SURG-C55-164",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "ETC aims at definitive mx of injuries within:",
+   "opts": [
+    "36 hours",
+    "24 hours",
+    [
+     "48 hours"
+    ],
+    "72 hours"
+   ],
+   "ans": 0,
+   "exp": "36 hours (Book p424)"
+  },
+  {
+   "id": "SURG-C55-165",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "ETC can shift to DCS if:",
+   "opts": [
+    "Patient deteriorates",
+    "Patient improves",
+    [
+     "Surgeon prefers"
+    ],
+    "ICU full"
+   ],
+   "ans": 0,
+   "exp": "Patient deteriorates (Book p424)"
+  },
+  {
+   "id": "SURG-C55-166",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "DCS stands for:",
+   "opts": [
+    "Damage control Sx",
+    "Definitive control Sx",
+    [
+     "Delayed control Sx"
+    ],
+    "Direct control Sx"
+   ],
+   "ans": 0,
+   "exp": "Damage control Sx (Book p424)"
+  },
+  {
+   "id": "SURG-C55-167",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "DCS means simultaneous resuscitation with early rapid life & limb saving Sx, with definitive Sx:",
+   "opts": [
+    "Deferred till patient is stable",
+    "Done immediately",
+    [
+     "Abandoned"
+    ],
+    "Done in ICU"
+   ],
+   "ans": 0,
+   "exp": "Deferred till patient is stable (Book p424)"
+  },
+  {
+   "id": "SURG-C55-168",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "The DCS terrible triad includes hypothermia, acidosis and:",
+   "opts": [
+    "Coagulopathy",
+    "Hypoxemia",
+    [
+     "Hypercapnia"
+    ],
+    "Anemia"
+   ],
+   "ans": 0,
+   "exp": "Coagulopathy (Book p424)"
+  },
+  {
+   "id": "SURG-C55-169",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "ETC requires stable haemodynamics, no hypoxaemia/hypercapnia, no acidosis and:",
+   "opts": [
+    "(N) coagulation",
+    "Coagulopathy",
+    [
+     "Thrombocytopenia"
+    ],
+    "DIC"
+   ],
+   "ans": 0,
+   "exp": "(N) coagulation (Book p424)"
+  },
+  {
+   "id": "SURG-C55-170",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "DCS phase 0 is:",
+   "opts": [
+    "Identification of patient for DCS in emergency room",
+    "Emergency laparotomy",
+    [
+     "Correction of physiology"
+    ],
+    "Re-laparotomy"
+   ],
+   "ans": 0,
+   "exp": "Identification of patient for DCS in emergency room (Book p424)"
+  },
+  {
+   "id": "SURG-C55-171",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "Between phase 0 and phase 1 the patient is:",
+   "opts": [
+    "Resuscitated",
+    "Operated",
+    [
+     "Scanned"
+    ],
+    "Warmed only"
+   ],
+   "ans": 0,
+   "exp": "Resuscitated (Book p424)"
+  },
+  {
+   "id": "SURG-C55-172",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "DCS phase 1 is:",
+   "opts": [
+    "Emergency laparotomy",
+    "Re-laparotomy",
+    [
+     "ICU physiology"
+    ],
+    "Closure"
+   ],
+   "ans": 0,
+   "exp": "Emergency laparotomy (Book p424)"
+  },
+  {
+   "id": "SURG-C55-173",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "The aims of DCS phase 1 laparotomy are to stop bleeding and:",
+   "opts": [
+    "Prevent contamination",
+    "Correct anatomy",
+    [
+     "Close abdomen"
+    ],
+    "Resect bowel"
+   ],
+   "ans": 0,
+   "exp": "Prevent contamination (Book p424)"
+  },
+  {
+   "id": "SURG-C55-174",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "After phase 1 the abdomen gets a:",
+   "opts": [
+    "Temporary abdominal closure",
+    "Definitive closure",
+    [
+     "Mesh graft"
+    ],
+    "Stoma"
+   ],
+   "ans": 0,
+   "exp": "Temporary abdominal closure (Book p424)"
+  },
+  {
+   "id": "SURG-C55-175",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "DCS phase 2 corrects physiology (lethal triad of trauma) in the:",
+   "opts": [
+    "ICU",
+    "OT",
+    [
+     "ER"
+    ],
+    "Ward"
+   ],
+   "ans": 0,
+   "exp": "ICU (Book p424)"
+  },
+  {
+   "id": "SURG-C55-176",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "Phase 3 re-laparotomy follows phase 2 after:",
+   "opts": [
+    "48-72 hrs",
+    "24 hrs",
+    [
+     "1 week"
+    ],
+    "12 hrs"
+   ],
+   "ans": 0,
+   "exp": "48-72 hrs (Book p424)"
+  },
+  {
+   "id": "SURG-C55-177",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "The aims of DCS phase 3 re-laparotomy are to correct anatomy and:",
+   "opts": [
+    "Close abdomen",
+    "Resect more bowel",
+    [
+     "Place drains only"
+    ],
+    "Re-pack"
+   ],
+   "ans": 0,
+   "exp": "Close abdomen (Book p424)"
+  },
+  {
+   "id": "SURG-C55-178",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "The DCS phases map to stages 1, 2, 3 and:",
+   "opts": [
+    "Stage 4, 5",
+    "Stage 4 only",
+    [
+     "Stage 6"
+    ],
+    "Stage 5 only"
+   ],
+   "ans": 0,
+   "exp": "Stage 4, 5 (Book p424)"
+  },
+  {
+   "id": "SURG-C55-179",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "An etiology of abdominal compartment syndrome is massive burns of:",
+   "opts": [
+    ">15-20% of BSA",
+    ">5-10% of BSA",
+    [
+     ">30-40% of BSA"
+    ],
+    ">50% of BSA"
+   ],
+   "ans": 0,
+   "exp": ">15-20% of BSA (Book p424)"
+  },
+  {
+   "id": "SURG-C55-180",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "Another etiology of abdominal compartment syndrome is:",
+   "opts": [
+    "Massive ascites",
+    "Bowel obstruction only",
+    [
+     "Pneumoperitoneum"
+    ],
+    "Ileus only"
+   ],
+   "ans": 0,
+   "exp": "Massive ascites (Book p424)"
+  },
+  {
+   "id": "SURG-C55-181",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "page": 424,
+   "q": "The third etiology of abdominal compartment syndrome listed is:",
+   "opts": [
+    "Bowel obstruction",
+    "Massive ascites",
+    [
+     "Burns"
+    ],
+    "Pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Bowel obstruction (Book p424)"
+  },
+  {
+   "id": "SURG-C55-182",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Intra-abdominal pressure is measured after draining urine via a:",
+   "opts": [
+    "Foley's catheter",
+    "Suprapubic catheter",
+    [
+     "Nephrostomy"
+    ],
+    "Ureteric stent"
+   ],
+   "ans": 0,
+   "exp": "Foley's catheter (Book p425)"
+  },
+  {
+   "id": "SURG-C55-183",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "For pressure measurement, the volume of saline injected into the bladder via Foley's is:",
+   "opts": [
+    "50cc",
+    "20cc",
+    [
+     "100cc"
+    ],
+    "500cc"
+   ],
+   "ans": 0,
+   "exp": "50cc (Book p425)"
+  },
+  {
+   "id": "SURG-C55-184",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "The pressure measured to indicate abdominal pressure is the:",
+   "opts": [
+    "Bladder pressure",
+    "Gastric pressure",
+    [
+     "IVC pressure"
+    ],
+    "Rectal pressure"
+   ],
+   "ans": 0,
+   "exp": "Bladder pressure (Book p425)"
+  },
+  {
+   "id": "SURG-C55-185",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Intra abdominal HTN (IAH) is ↑ of IAP above:",
+   "opts": [
+    ">12 mmHg",
+    ">8 mmHg",
+    [
+     ">20 mmHg"
+    ],
+    ">25 mmHg"
+   ],
+   "ans": 0,
+   "exp": ">12 mmHg (Book p425)"
+  },
+  {
+   "id": "SURG-C55-186",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Abdominal compartment syndrome (ACS) is IAP of:",
+   "opts": [
+    "≥20 mmHg with new organ dysfunction",
+    ">12 mmHg",
+    [
+     ">15 mmHg alone"
+    ],
+    "≥30 mmHg"
+   ],
+   "ans": 0,
+   "exp": "≥20 mmHg with new organ dysfunction (Book p425)"
+  },
+  {
+   "id": "SURG-C55-187",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Renal effects of ACS are ↓ GFR and:",
+   "opts": [
+    "↓ urine output",
+    "↑ urine output",
+    [
+     "Hematuria"
+    ],
+    "Proteinuria"
+   ],
+   "ans": 0,
+   "exp": "↓ urine output (Book p425)"
+  },
+  {
+   "id": "SURG-C55-188",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "CVS effects of ACS begin with ↓ venous return causing:",
+   "opts": [
+    "↓ SBP, ↓ cardiac output",
+    "↑ SBP",
+    [
+     "↑ cardiac output"
+    ],
+    "↑ HR only"
+   ],
+   "ans": 0,
+   "exp": "↓ SBP, ↓ cardiac output (Book p425)"
+  },
+  {
+   "id": "SURG-C55-189",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Respiratory effects of ACS include ↓ inspiratory volumes & capacities and:",
+   "opts": [
+    "↑ pressure in thoracic cavity",
+    "↓ thoracic pressure",
+    [
+     "Bronchospasm"
+    ],
+    "Effusion"
+   ],
+   "ans": 0,
+   "exp": "↑ pressure in thoracic cavity (Book p425)"
+  },
+  {
+   "id": "SURG-C55-190",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Visceral perfusion in ACS is:",
+   "opts": [
+    "↓",
+    "↑",
+    [
+     "Normal"
+    ],
+    "Redistributed"
+   ],
+   "ans": 0,
+   "exp": "↓ (Book p425)"
+  },
+  {
+   "id": "SURG-C55-191",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "The intracranial effect of ACS is:",
+   "opts": [
+    "↑ intracranial tension",
+    "↓ intracranial tension",
+    [
+     "No effect"
+    ],
+    "Seizures only"
+   ],
+   "ans": 0,
+   "exp": "↑ intracranial tension (Book p425)"
+  },
+  {
+   "id": "SURG-C55-192",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Retroperitoneal zone 1 contains IVC, aorta and:",
+   "opts": [
+    "Pancreas",
+    "Kidneys",
+    [
+     "Ureters"
+    ],
+    "Pelvic structures"
+   ],
+   "ans": 0,
+   "exp": "Pancreas (Book p425)"
+  },
+  {
+   "id": "SURG-C55-193",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "The retroperitoneal zone with max mortality is zone:",
+   "opts": [
+    "1",
+    "2",
+    [
+     "3"
+    ],
+    "4"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p425)"
+  },
+  {
+   "id": "SURG-C55-194",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "The IOC in an unstable patient with zone 1 retroperitoneal trauma is:",
+   "opts": [
+    "Angiogram",
+    "CECT",
+    [
+     "Single shot IV urogram"
+    ],
+    "FAST"
+   ],
+   "ans": 0,
+   "exp": "Angiogram (Book p425)"
+  },
+  {
+   "id": "SURG-C55-195",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Retroperitoneal zone 2 contains kidney, ureter and:",
+   "opts": [
+    "Renal vessels",
+    "Pancreas",
+    [
+     "Aorta"
+    ],
+    "Pelvic vessels"
+   ],
+   "ans": 0,
+   "exp": "Renal vessels (Book p425)"
+  },
+  {
+   "id": "SURG-C55-196",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "The IOC for zone 2 retroperitoneal trauma in a stable patient is:",
+   "opts": [
+    "CECT",
+    "Angiogram",
+    [
+     "Single shot IV urogram"
+    ],
+    "X-ray"
+   ],
+   "ans": 0,
+   "exp": "CECT (Book p425)"
+  },
+  {
+   "id": "SURG-C55-197",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "The IOC for zone 2 retroperitoneal trauma in an unstable patient is:",
+   "opts": [
+    "Single shot IV urogram",
+    "CECT",
+    [
+     "Angiogram"
+    ],
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Single shot IV urogram (Book p425)"
+  },
+  {
+   "id": "SURG-C55-198",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "Retroperitoneal zone 3 contains:",
+   "opts": [
+    "Pelvic structures",
+    "Kidneys",
+    [
+     "Pancreas"
+    ],
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "Pelvic structures (Book p425)"
+  },
+  {
+   "id": "SURG-C55-199",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "page": 425,
+   "q": "The m/c injured retroperitoneal zone is zone:",
+   "opts": [
+    "3",
+    "1",
+    [
+     "2"
+    ],
+    "Equal"
+   ],
+   "ans": 0,
+   "exp": "3 (Book p425)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U55-1",
+   "ch": 55,
+   "n": 1,
+   "title": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST",
+   "sec": "Most Commonly Injured Organs and Blunt Trauma: FAST/eFAST · p417",
+   "qs": [
+    "SURG-C55-001",
+    "SURG-C55-002",
+    "SURG-C55-003",
+    "SURG-C55-004",
+    "SURG-C55-005",
+    "SURG-C55-006",
+    "SURG-C55-007",
+    "SURG-C55-008",
+    "SURG-C55-009",
+    "SURG-C55-010",
+    "SURG-C55-011",
+    "SURG-C55-012",
+    "SURG-C55-013",
+    "SURG-C55-014",
+    "SURG-C55-015",
+    "SURG-C55-016",
+    "SURG-C55-017",
+    "SURG-C55-018",
+    "SURG-C55-019",
+    "SURG-C55-020",
+    "SURG-C55-021",
+    "SURG-C55-022",
+    "SURG-C55-023",
+    "SURG-C55-024",
+    "SURG-C55-025",
+    "SURG-C55-026",
+    "SURG-C55-027"
+   ],
+   "guide": "The spleen leads overall and in blunt trauma (spleen > liver) and in children (spleen > kidney), while penetrating trauma favours liver > small intestine and gunshots small intestine > liver; seatbelt syndrome hits the mesentery and deceleration the duodeno-jejunal flexure. Stable blunt patients get FAST first and CECT as IOC, unstable ones FAST as both, and surgery means midline laparotomy. FAST (focused assessment sonogram in trauma) is an ER tool whose four views — epigastrium, RUQ (perihepatic), LUQ (perisplenic) and suprapubic (pelvis) — become eFAST when the two anterior chest windows (5, 6) add pneumothorax and the subxiphoid pericardial window catches tamponade; free fluid reads as a hypoechoic collection."
+  },
+  {
+   "id": "SURG-U55-2",
+   "ch": 55,
+   "n": 2,
+   "title": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up",
+   "sec": "FAST Disadvantages, Blunt Work-up and Penetrating Trauma Work-up · p418",
+   "qs": [
+    "SURG-C55-028",
+    "SURG-C55-029",
+    "SURG-C55-030",
+    "SURG-C55-031",
+    "SURG-C55-032",
+    "SURG-C55-033",
+    "SURG-C55-034",
+    "SURG-C55-035",
+    "SURG-C55-036",
+    "SURG-C55-037",
+    "SURG-C55-038",
+    "SURG-C55-039",
+    "SURG-C55-040",
+    "SURG-C55-041",
+    "SURG-C55-042",
+    "SURG-C55-043",
+    "SURG-C55-044"
+   ],
+   "guide": "FAST misses free blood under 100 ml, cannot see hollow viscus or penetrating injury, cannot assess the retroperitoneum through bowel gas, may need repeating and is operator dependent. The blunt algorithm sends peritonitis or instability with positive FAST straight to exploratory laparotomy, stable patients to CT, hollow-organ yes/indeterminate to laparotomy or diagnostic laparoscopy, and solid-organ injuries with pseudoaneurysm or arterial blush to interventional radiology while the rest are managed nonoperatively. In penetrating trauma an impaled object is never removed in the ER; wounds superficial to peritoneum get local examination plus CECT, while peritoneal breach with peritonitis, hanging omentum, bile staining or instability goes to midline laparotomy without investigations."
+  },
+  {
+   "id": "SURG-U55-3",
+   "ch": 55,
+   "n": 3,
+   "title": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading",
+   "sec": "Diagnostic Peritoneal Lavage and Splenic Trauma Grading · p419",
+   "qs": [
+    "SURG-C55-045",
+    "SURG-C55-046",
+    "SURG-C55-047",
+    "SURG-C55-048",
+    "SURG-C55-049",
+    "SURG-C55-050",
+    "SURG-C55-051",
+    "SURG-C55-052",
+    "SURG-C55-053",
+    "SURG-C55-054",
+    "SURG-C55-055",
+    "SURG-C55-056",
+    "SURG-C55-057",
+    "SURG-C55-058",
+    "SURG-C55-059",
+    "SURG-C55-060",
+    "SURG-C55-061",
+    "SURG-C55-062",
+    "SURG-C55-063",
+    "SURG-C55-064",
+    "SURG-C55-065",
+    "SURG-C55-066",
+    "SURG-C55-067",
+    "SURG-C55-068",
+    "SURG-C55-069",
+    "SURG-C55-070",
+    "SURG-C55-071"
+   ],
+   "guide": "DPL rescues settings without FAST: decompress stomach and bladder, needle just below the umbilicus, >10 cc gross blood = positive, otherwise instil 1 L Ringer lactate and call it positive with >1 lakh RBC/cumm, >500 WBC/cumm, amylase >175 IU/L or fecal content, then laparotomy. Splenic trauma is suspected with left 9-11th rib fractures, left lower chest wall bruising and a positive Kehr sign (left leg raised, blood under the left diaphragm referring pain to the shoulder tip). Grading runs I (subcapsular <10%, laceration <1 cm, capsular tear), II (10-50%, intraparenchymal <5 cm, laceration 1-3 cm), III (>50%, ruptured or >5 cm hematoma, laceration >3 cm), IV (vascular injury or segmental/hilar laceration with >25% devascularisation) to V (shattered spleen with vascular injury)."
+  },
+  {
+   "id": "SURG-U55-4",
+   "ch": 55,
+   "n": 4,
+   "title": "Splenic Trauma: Imaging, Management and Splenectomy Complications",
+   "sec": "Splenic Trauma: Imaging, Management and Splenectomy Complications · p420",
+   "qs": [
+    "SURG-C55-072",
+    "SURG-C55-073",
+    "SURG-C55-074",
+    "SURG-C55-075",
+    "SURG-C55-076",
+    "SURG-C55-077",
+    "SURG-C55-078",
+    "SURG-C55-079",
+    "SURG-C55-080",
+    "SURG-C55-081",
+    "SURG-C55-082",
+    "SURG-C55-083",
+    "SURG-C55-084",
+    "SURG-C55-085",
+    "SURG-C55-086",
+    "SURG-C55-087",
+    "SURG-C55-088",
+    "SURG-C55-089",
+    "SURG-C55-090",
+    "SURG-C55-091"
+   ],
+   "guide": "Delayed CT separates splenic pseudoaneurysm/AV fistula (falling arterial blush) from active bleeding (rising blush). Grades I-II, usually stable with CECT as IOC, are conserved with vitals, hematocrit and serial 24-hour CECT, escalating to angioembolization for rising grade or blush and to laparotomy — preferably splenorrhaphy — if conservation fails, vitals turn or peritonitis appears; stable grade III mirrors I-II while unstable III and unstable IV-V (FAST as IOC, positive → splenectomy) follow the surgical route. Splenectomy complications run hemorrhage, pancreatic tail injury with amylase-rich fistula, a two-week three-line cytosis whose WBC rise mimics infection and platelets above 10 lakh/cumm risk thrombosis needing prophylactic aspirin, and permanent smear stigmata — basophilic stippling, reticulocytes, Howell-Jolly bodies and hypersegmented WBCs."
+  },
+  {
+   "id": "SURG-U55-5",
+   "ch": 55,
+   "n": 5,
+   "title": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades",
+   "sec": "OPSI, Post-splenectomy Vaccination and Liver Trauma Grades · p421",
+   "qs": [
+    "SURG-C55-092",
+    "SURG-C55-093",
+    "SURG-C55-094",
+    "SURG-C55-095",
+    "SURG-C55-096",
+    "SURG-C55-097",
+    "SURG-C55-098",
+    "SURG-C55-099",
+    "SURG-C55-100",
+    "SURG-C55-101",
+    "SURG-C55-102",
+    "SURG-C55-103",
+    "SURG-C55-104",
+    "SURG-C55-105",
+    "SURG-C55-106",
+    "SURG-C55-107",
+    "SURG-C55-108",
+    "SURG-C55-109",
+    "SURG-C55-110",
+    "SURG-C55-111",
+    "SURG-C55-112",
+    "SURG-C55-113",
+    "SURG-C55-114",
+    "SURG-C55-115",
+    "SURG-C55-116",
+    "SURG-C55-117",
+    "SURG-C55-118",
+    "SURG-C55-119"
+   ],
+   "guide": "Left lower lobe atelectasis/pneumonia from poor left chest expansion is the commonest post-splenectomy complication, ahead of OPSI — overwhelming post-splenectomy infection by encapsulated pneumococcus (m/c), meningococcus and H. influenzae, hitting children more than adults within the first two years and killing haematological patients most. Vaccines repeat every 5 years (pneumococcal/meningococcal), 10 years (H. influenzae) and yearly (influenzae), given two weeks before elective or post-op day 1-2 after emergency splenectomy, with poorer titres post-surgery. Liver trauma grades I-V track subcapsular and intraparenchymal haematoma size, laceration depth, contained versus peritoneal-breaching vascular injury and juxtahepatic venous disruption, advancing one grade for multiple injuries up to III."
+  },
+  {
+   "id": "SURG-U55-6",
+   "ch": 55,
+   "n": 6,
+   "title": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing",
+   "sec": "Liver Trauma Work-up, Pringle's Manoeuvre and Packing · p422",
+   "qs": [
+    "SURG-C55-120",
+    "SURG-C55-121",
+    "SURG-C55-122",
+    "SURG-C55-123",
+    "SURG-C55-124",
+    "SURG-C55-125",
+    "SURG-C55-126",
+    "SURG-C55-127",
+    "SURG-C55-128",
+    "SURG-C55-129",
+    "SURG-C55-130",
+    "SURG-C55-131",
+    "SURG-C55-132",
+    "SURG-C55-133",
+    "SURG-C55-134",
+    "SURG-C55-135",
+    "SURG-C55-136",
+    "SURG-C55-137",
+    "SURG-C55-138"
+   ],
+   "guide": "Liver trauma is resuscitated first: unstable grade III-V goes to surgery while stable grade I-III is conserved with monitoring, hematocrit and serial CECT, discharging those who stay stable and treating hemorrhage, biliary, vascular and septic complications, with surgery for late instability. Pringle's manoeuvre clamps the hepatic pedicle (CBD, portal vein, hepatic artery) at the foramen of Winslow for 15-20 minutes: bleeding that falls implicates portal vein/hepatic artery, bleeding that continues the hepatic veins, giving temporary control and localising the source. Packing cuts both triangular ligaments, frees the liver from the diaphragm and packs mops above and below for 24-48 hours for a tamponading effect."
+  },
+  {
+   "id": "SURG-U55-7",
+   "ch": 55,
+   "n": 7,
+   "title": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury",
+   "sec": "Liver Complications, Mesenteric Injury and Duodenal/Pancreatic Injury · p423",
+   "qs": [
+    "SURG-C55-139",
+    "SURG-C55-140",
+    "SURG-C55-141",
+    "SURG-C55-142",
+    "SURG-C55-143",
+    "SURG-C55-144",
+    "SURG-C55-145",
+    "SURG-C55-146",
+    "SURG-C55-147",
+    "SURG-C55-148",
+    "SURG-C55-149",
+    "SURG-C55-150",
+    "SURG-C55-151",
+    "SURG-C55-152",
+    "SURG-C55-153",
+    "SURG-C55-154",
+    "SURG-C55-155",
+    "SURG-C55-156",
+    "SURG-C55-157",
+    "SURG-C55-158",
+    "SURG-C55-159"
+   ],
+   "guide": "Liver trauma complications proceed bleeding, bile leak (ligate minor radicles, repair CBD/major ducts over a T-tube), liver abscess, CBD strictures, AV malformations and portal vein injury repaired with prolene. Mesenteric longitudinal tears cut one branch without vascular loss and are repaired, while transverse tears cut all vessels with devascularisation needing resection and anastomosis. Duodenal haematoma, the mildest injury, rests the bowel NPO; perforation shows peritonitis and subdiaphragmatic gas and gets an omental patch. Pancreatic injury, secondary to blunt or penetrating trauma, prognosticates on main duct injury; the book's flowchart routes its YES arm to conservative management and its NO arm to site-based surgery — distal pancreatectomy for body/tail and Begger's duodenum-preserving head resection for head/neck."
+  },
+  {
+   "id": "SURG-U55-8",
+   "ch": 55,
+   "n": 8,
+   "title": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology",
+   "sec": "Colon & Rectal Injury, ETC/DCS and Abdominal Compartment Syndrome Etiology · p424",
+   "qs": [
+    "SURG-C55-160",
+    "SURG-C55-161",
+    "SURG-C55-162",
+    "SURG-C55-163",
+    "SURG-C55-164",
+    "SURG-C55-165",
+    "SURG-C55-166",
+    "SURG-C55-167",
+    "SURG-C55-168",
+    "SURG-C55-169",
+    "SURG-C55-170",
+    "SURG-C55-171",
+    "SURG-C55-172",
+    "SURG-C55-173",
+    "SURG-C55-174",
+    "SURG-C55-175",
+    "SURG-C55-176",
+    "SURG-C55-177",
+    "SURG-C55-178",
+    "SURG-C55-179",
+    "SURG-C55-180",
+    "SURG-C55-181"
+   ],
+   "guide": "Colon and rectal injuries declare themselves by peritonitis when perforated and are handled by emergency laparotomy creating a diverting stoma/colostomy or by the Hartman procedure. Early total care definitively fixes injuries within 36 hours but converts to damage control surgery — simultaneous resuscitation with rapid life- and limb-saving surgery, definitive repair deferred — when the patient deteriorates; DCS battles the terrible triad of hypothermia, acidosis and coagulopathy while ETC demands stable haemodynamics, no hypoxaemia/hypercapnia, no acidosis and normal coagulation. DCS runs phase 0 identification in the ER, resuscitation, phase 1 laparotomy to stop bleeding and prevent contamination with temporary closure, phase 2 ICU correction of physiology and phase 3 re-laparotomy at 48-72 hours to correct anatomy and close (stages 1 to 4, 5). Massive burns >15-20% BSA, massive ascites and bowel obstruction cause abdominal compartment syndrome."
+  },
+  {
+   "id": "SURG-U55-9",
+   "ch": 55,
+   "n": 9,
+   "title": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones",
+   "sec": "ACS: Pressure Measurement, Organ Effects and Retroperitoneal Zones · p425",
+   "qs": [
+    "SURG-C55-182",
+    "SURG-C55-183",
+    "SURG-C55-184",
+    "SURG-C55-185",
+    "SURG-C55-186",
+    "SURG-C55-187",
+    "SURG-C55-188",
+    "SURG-C55-189",
+    "SURG-C55-190",
+    "SURG-C55-191",
+    "SURG-C55-192",
+    "SURG-C55-193",
+    "SURG-C55-194",
+    "SURG-C55-195",
+    "SURG-C55-196",
+    "SURG-C55-197",
+    "SURG-C55-198",
+    "SURG-C55-199"
+   ],
+   "guide": "Intra-abdominal pressure is read off the bladder after Foley drainage and 50 cc saline instillation; intra-abdominal hypertension is IAP >12 mmHg and abdominal compartment syndrome ≥20 mmHg with new organ dysfunction. ACS lowers GFR and urine output, cuts venous return with falling SBP and cardiac output, shrinks inspiratory volumes while raising thoracic pressure, drops visceral perfusion and raises intracranial tension. Retroperitoneal zone 1 (IVC, aorta, pancreas) carries maximal mortality and needs angiography when unstable; zone 2 (kidney, ureter, renal vessels) uses CECT if stable and a single-shot IV urogram if unstable; zone 3 (pelvic structures) is the most commonly injured zone."
+  }
+ ]
+}
