@@ -198,7 +198,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## Totals / live link
 - Local HTML: **35/72 chapters live** · Questions: 3957 · Units: 465
-- GitHub HTML: **synced at 32/72** (merged to `main` via PR #14 on 2026-09-14)
+- GitHub HTML: **synced at 35/72** (merged to `main` via PR #16 on 2026-09-14)
 - NEXT: ch36 Spleen — p260-264 (v1d p32-36)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
