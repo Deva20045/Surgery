@@ -1,0 +1,2136 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C59-001",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "Definition of hernia:",
+   "opts": [
+    "Protrusion of viscus or part of viscus through the wall containing it",
+    "Protrusion of fat through fascia",
+    "Rupture of muscle",
+    "Prolapse of organ through its opening"
+   ],
+   "ans": 0,
+   "exp": "Protrusion of viscus or part of viscus through the wall containing it (Book p451)"
+  },
+  {
+   "id": "SURG-C59-002",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "Parts of a hernia shown in the diagram:",
+   "opts": [
+    "Sac, content, defect & blood supply",
+    "Sac, neck, body & tail",
+    "Ring, cord, sac & fluid",
+    "Neck, fundus, body & wall"
+   ],
+   "ans": 0,
+   "exp": "Sac, content, defect & blood supply (Book p451)"
+  },
+  {
+   "id": "SURG-C59-003",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "UNCOMPLICATED hernia features:",
+   "opts": [
+    "Reducible with cough impulse (+)",
+    "Irreducible, cough impulse (–)",
+    "Skin inflamed",
+    "Compromised blood supply"
+   ],
+   "ans": 0,
+   "exp": "Reducible with cough impulse (+) (Book p451)"
+  },
+  {
+   "id": "SURG-C59-004",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "REDUCIBILITY differs from compressibility because it needs:",
+   "opts": [
+    "Counter force to reproduce the swelling after pushing it down",
+    "No counterforce",
+    "Only gravity",
+    "Suction"
+   ],
+   "ans": 0,
+   "exp": "Counter force to reproduce the swelling after pushing it down (Book p451)"
+  },
+  {
+   "id": "SURG-C59-005",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "COMPRESSIBILITY (no counterforce needed) is seen in:",
+   "opts": [
+    "Vascular swellings / cystic hygromas",
+    "Hernias only",
+    "Lipomas",
+    "Neurofibromas"
+   ],
+   "ans": 0,
+   "exp": "Vascular swellings / cystic hygromas (Book p451)"
+  },
+  {
+   "id": "SURG-C59-006",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "OBSTRUCTED hernia was previously known as:",
+   "opts": [
+    "Incarcerated hernia",
+    "Strangulated hernia",
+    "Reduced hernia",
+    "Sliding hernia"
+   ],
+   "ans": 0,
+   "exp": "Incarcerated hernia (Book p451)"
+  },
+  {
+   "id": "SURG-C59-007",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "Features of obstructed hernia:",
+   "opts": [
+    "Irreducible, cough impulse (–) but INTACT blood supply",
+    "Compromised blood supply",
+    "Inflamed skin",
+    "Reducible"
+   ],
+   "ans": 0,
+   "exp": "Irreducible, cough impulse (–) but INTACT blood supply (Book p451)"
+  },
+  {
+   "id": "SURG-C59-008",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "Dilatation of bowel proximal to a hernia occurs d/t:",
+   "opts": [
+    "Obstruction",
+    "Ischemia",
+    "Infection",
+    "Adhesions alone"
+   ],
+   "ans": 0,
+   "exp": "Obstruction (Book p451)"
+  },
+  {
+   "id": "SURG-C59-009",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "STRANGULATED hernia is defined as:",
+   "opts": [
+    "Obstructed hernia + compromised blood supply",
+    "Irreducible hernia with intact supply",
+    "Reducible hernia",
+    "Hernia with hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Obstructed hernia + compromised blood supply (Book p451)"
+  },
+  {
+   "id": "SURG-C59-010",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "Overlying skin in strangulated hernia is:",
+   "opts": [
+    "Inflamed",
+    "Normal",
+    "Cold",
+    "Ulcerated"
+   ],
+   "ans": 0,
+   "exp": "Inflamed (Book p451)"
+  },
+  {
+   "id": "SURG-C59-011",
+   "sec": "Definition, Parts and Types of Hernia",
+   "page": 451,
+   "q": "Golden rule of hernia emergencies:",
+   "opts": [
+    "All obstructed hernias should be treated as strangulated unless proven otherwise",
+    "All strangulated are only obstructed",
+    "Obstruction always spares blood supply",
+    "Strangulation needs no surgery"
+   ],
+   "ans": 0,
+   "exp": "All obstructed hernias should be treated as strangulated unless proven otherwise (Book p451)"
+  },
+  {
+   "id": "SURG-C59-012",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Taxis is:",
+   "opts": [
+    "Process of reduction of hernia",
+    "Opening the sac",
+    "Cutting the ring",
+    "Strapping the swelling"
+   ],
+   "ans": 0,
+   "exp": "Process of reduction of hernia (Book p452)"
+  },
+  {
+   "id": "SURG-C59-013",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Taxis is contraindicated in:",
+   "opts": [
+    "Obstructed & strangulated hernia",
+    "Infantile hernia",
+    "Femoral hernia only",
+    "Reducible hernia"
+   ],
+   "ans": 0,
+   "exp": "Obstructed & strangulated hernia (Book p452)"
+  },
+  {
+   "id": "SURG-C59-014",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "REDUCTION EN MASSE is:",
+   "opts": [
+    "Reduction of contents + ring causing obstruction",
+    "Reduction with the sac",
+    "Failure of taxis",
+    "Surgical reduction"
+   ],
+   "ans": 0,
+   "exp": "Reduction of contents + ring causing obstruction (Book p452)"
+  },
+  {
+   "id": "SURG-C59-015",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Zollinger classification VIII (combined type) hernia has:",
+   "opts": [
+    "Direct + indirect portions",
+    "Two sacs side by side",
+    "Femoral + obturator",
+    "Sliding + strangulated"
+   ],
+   "ans": 0,
+   "exp": "Direct + indirect portions (Book p452)"
+  },
+  {
+   "id": "SURG-C59-016",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "OMENTOCELE content and percussion:",
+   "opts": [
+    "Omentum; dull note",
+    "Bowel; tympanic",
+    "Bladder; dull",
+    "Ovary; tympanic"
+   ],
+   "ans": 0,
+   "exp": "Omentum; dull note (Book p452)"
+  },
+  {
+   "id": "SURG-C59-017",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "ENTEROCELE shows peristalsis and bowel sounds:",
+   "opts": [
+    "(+) and (+)",
+    "(–) and (–)",
+    "(+) and (–)",
+    "(–) and (+)"
+   ],
+   "ans": 0,
+   "exp": "(+) and (+) (Book p452)"
+  },
+  {
+   "id": "SURG-C59-018",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Consistency & reducibility of omentocele:",
+   "opts": [
+    "Doughy consistency; easy to reduce 1st part",
+    "Tympanic; difficult",
+    "Hard; irreducible",
+    "Cystic; compressible"
+   ],
+   "ans": 0,
+   "exp": "Doughy consistency; easy to reduce 1st part (Book p452)"
+  },
+  {
+   "id": "SURG-C59-019",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Reducibility of enterocele:",
+   "opts": [
+    "Difficult to reduce 1st part but 2nd part easy",
+    "Easy 1st part",
+    "Never reducible",
+    "Reducible only lying down"
+   ],
+   "ans": 0,
+   "exp": "Difficult to reduce 1st part but 2nd part easy (Book p452)"
+  },
+  {
+   "id": "SURG-C59-020",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Hernia containing bowel is named:",
+   "opts": [
+    "Enterocele",
+    "Omentocele",
+    "Cystocele",
+    "Sarcocele"
+   ],
+   "ans": 0,
+   "exp": "Enterocele (Book p452)"
+  },
+  {
+   "id": "SURG-C59-021",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Hernia containing APPENDIX is called:",
+   "opts": [
+    "Amyand's hernia",
+    "Littre's hernia",
+    "Gibbon hernia",
+    "Richter's hernia"
+   ],
+   "ans": 0,
+   "exp": "Amyand's hernia (Book p452)"
+  },
+  {
+   "id": "SURG-C59-022",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types",
+   "page": 452,
+   "q": "Hernia containing MECKEL'S diverticulum is called:",
+   "opts": [
+    "Littre's hernia",
+    "Amyand's hernia",
+    "Pantaloon hernia",
+    "Sliding hernia"
+   ],
+   "ans": 0,
+   "exp": "Littre's hernia (Book p452)"
+  },
+  {
+   "id": "SURG-C59-023",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 452,
+   "q": "The three basic hernia operations:",
+   "opts": [
+    "Herniotomy, herniorrhaphy & hernioplasty",
+    "Herniotomy, taxis & plasty",
+    "Rhaphy, pexy & tomy",
+    "Open, lap & mesh"
+   ],
+   "ans": 0,
+   "exp": "Herniotomy, herniorrhaphy & hernioplasty (Book p452)"
+  },
+  {
+   "id": "SURG-C59-024",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 452,
+   "q": "Herniotomy step 1 — the sac is identified as:",
+   "opts": [
+    "Glistening white",
+    "Grey & dull",
+    "Yellow lobulated",
+    "Dark red"
+   ],
+   "ans": 0,
+   "exp": "Glistening white (Book p452)"
+  },
+  {
+   "id": "SURG-C59-025",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 452,
+   "q": "Herniotomy steps after opening the sac:",
+   "opts": [
+    "Push contents down, cut the excess sac & close the sac",
+    "Excise cord structures",
+    "Repair the defect",
+    "Place mesh"
+   ],
+   "ans": 0,
+   "exp": "Push contents down, cut the excess sac & close the sac (Book p452)"
+  },
+  {
+   "id": "SURG-C59-026",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 452,
+   "q": "Herniotomy leaves the defect:",
+   "opts": [
+    "Intact",
+    "Closed",
+    "Reinforced",
+    "Duplicated"
+   ],
+   "ans": 0,
+   "exp": "Intact (Book p452)"
+  },
+  {
+   "id": "SURG-C59-027",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "Disadvantage of herniotomy:",
+   "opts": [
+    "Highest recurrence rate",
+    "Highest infection",
+    "Longest surgery",
+    "Needs mesh"
+   ],
+   "ans": 0,
+   "exp": "Highest recurrence rate (Book p453)"
+  },
+  {
+   "id": "SURG-C59-028",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "Herniotomy is the surgery of choice in:",
+   "opts": [
+    "Congenital inguinal hernia, congenital hydrocele & inguinal hernia in children",
+    "Adult direct hernia",
+    "Femoral hernia",
+    "Incisional hernia"
+   ],
+   "ans": 0,
+   "exp": "Congenital inguinal hernia, congenital hydrocele & inguinal hernia in children (Book p453)"
+  },
+  {
+   "id": "SURG-C59-029",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "Why does herniotomy NOT recur in children?",
+   "opts": [
+    "High muscle tone spontaneously blocks the defect",
+    "Mesh prevents it",
+    "Sac regrows",
+    "Ring ossifies"
+   ],
+   "ans": 0,
+   "exp": "High muscle tone spontaneously blocks the defect (Book p453)"
+  },
+  {
+   "id": "SURG-C59-030",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "HERNIORRHAPHY is:",
+   "opts": [
+    "Suturing two edges of the defect together",
+    "Mesh coverage",
+    "Sac excision only",
+    "Laparoscopic repair"
+   ],
+   "ans": 0,
+   "exp": "Suturing two edges of the defect together (Book p453)"
+  },
+  {
+   "id": "SURG-C59-031",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "Indications of herniorrhaphy:",
+   "opts": [
+    "Infected & strangulated hernias (synthetic mesh cannot be used)",
+    "All primary hernias",
+    "Only pediatric",
+    "Only femoral"
+   ],
+   "ans": 0,
+   "exp": "Infected & strangulated hernias (synthetic mesh cannot be used) (Book p453)"
+  },
+  {
+   "id": "SURG-C59-032",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "HERNIOPLASTY is:",
+   "opts": [
+    "Mesh placed to cover the defect",
+    "Suture repair",
+    "Sac removal",
+    "Taxis under anesthesia"
+   ],
+   "ans": 0,
+   "exp": "Mesh placed to cover the defect (Book p453)"
+  },
+  {
+   "id": "SURG-C59-033",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "Hernioplasty is:",
+   "opts": [
+    "Surgery of choice with LEAST recurrence rate",
+    "Highest recurrence",
+    "Reserved for children",
+    "C/I in clean cases"
+   ],
+   "ans": 0,
+   "exp": "Surgery of choice with LEAST recurrence rate (Book p453)"
+  },
+  {
+   "id": "SURG-C59-034",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "page": 453,
+   "q": "Contraindication of hernioplasty:",
+   "opts": [
+    "Infected hernias",
+    "Femoral hernia",
+    "Recurrent hernia",
+    "Elderly patients"
+   ],
+   "ans": 0,
+   "exp": "Infected hernias (Book p453)"
+  },
+  {
+   "id": "SURG-C59-035",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "The two families of hernia mesh:",
+   "opts": [
+    "Synthetic & biological",
+    "Absorbable & permanent only",
+    "Metal & plastic",
+    "Flat & plug only"
+   ],
+   "ans": 0,
+   "exp": "Synthetic & biological (Book p453)"
+  },
+  {
+   "id": "SURG-C59-036",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "Synthetic mesh is contraindicated in:",
+   "opts": [
+    "Infection / strangulation",
+    "Obesity",
+    "Children",
+    "Recurrence"
+   ],
+   "ans": 0,
+   "exp": "Infection / strangulation (Book p453)"
+  },
+  {
+   "id": "SURG-C59-037",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "Biological mesh can be used:",
+   "opts": [
+    "When infection (+)",
+    "Never in infection",
+    "Only in children",
+    "Only laparoscopically"
+   ],
+   "ans": 0,
+   "exp": "When infection (+) (Book p453)"
+  },
+  {
+   "id": "SURG-C59-038",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "Examples of SYNTHETIC mesh:",
+   "opts": [
+    "Prolene, Vipro (Vicryl + Prolene) & PTFE",
+    "Alloderm & porcine dermis",
+    "SIS only",
+    "Permacol only"
+   ],
+   "ans": 0,
+   "exp": "Prolene, Vipro (Vicryl + Prolene) & PTFE (Book p453)"
+  },
+  {
+   "id": "SURG-C59-039",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "Which synthetic mesh can be placed in the intraperitoneal space (no adherence)?",
+   "opts": [
+    "PTFE (polytetrafluoroethylene)",
+    "Prolene",
+    "Polyester",
+    "Vipro"
+   ],
+   "ans": 0,
+   "exp": "PTFE (polytetrafluoroethylene) (Book p453)"
+  },
+  {
+   "id": "SURG-C59-040",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "Examples of BIOLOGICAL mesh:",
+   "opts": [
+    "Acellular human dermis (Alloderm) & acellular porcine dermis",
+    "Prolene & PTFE",
+    "Vipro & Dacron",
+    "Polyglactin only"
+   ],
+   "ans": 0,
+   "exp": "Acellular human dermis (Alloderm) & acellular porcine dermis (Book p453)"
+  },
+  {
+   "id": "SURG-C59-041",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "Fibrous ingrowth in fenestrated mesh:",
+   "opts": [
+    "Occurs through the holes and anchors the mesh in place",
+    "Weakens the mesh",
+    "Causes meshoma",
+    "Blocks the pores"
+   ],
+   "ans": 0,
+   "exp": "Occurs through the holes and anchors the mesh in place (Book p453)"
+  },
+  {
+   "id": "SURG-C59-042",
+   "sec": "Types and Materials of Mesh",
+   "page": 453,
+   "q": "Preferred pore size of fenestrated mesh:",
+   "opts": [
+    "Larger pores (strong fibrous pillars)",
+    "Smallest pores",
+    "No pores",
+    "Micro pores"
+   ],
+   "ans": 0,
+   "exp": "Larger pores (strong fibrous pillars) (Book p453)"
+  },
+  {
+   "id": "SURG-C59-043",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "Prolene mesh property:",
+   "opts": [
+    "Hydrophobic → less bacterial contamination",
+    "Hydrophilic → faster ingrowth",
+    "Adheres to bowel",
+    "Absorbable"
+   ],
+   "ans": 0,
+   "exp": "Hydrophobic → less bacterial contamination (Book p454)"
+  },
+  {
+   "id": "SURG-C59-044",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "Polyester mesh property:",
+   "opts": [
+    "Hydrophilic → faster cellular ingrowth",
+    "Hydrophobic",
+    "Anti-bacterial",
+    "Intraperitoneal safe"
+   ],
+   "ans": 0,
+   "exp": "Hydrophilic → faster cellular ingrowth (Book p454)"
+  },
+  {
+   "id": "SURG-C59-045",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "PTFE mesh special property:",
+   "opts": [
+    "Does not adhere to bowel inside the peritoneal cavity",
+    "Fastest ingrowth",
+    "Strongest",
+    "Cheapest"
+   ],
+   "ans": 0,
+   "exp": "Does not adhere to bowel inside the peritoneal cavity (Book p454)"
+  },
+  {
+   "id": "SURG-C59-046",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "Ideal mesh OVERLAP beyond the defect:",
+   "opts": [
+    "5 cm in all directions (prevents recurrence when mesh shrinks)",
+    "1 cm",
+    "10 cm",
+    "No overlap"
+   ],
+   "ans": 0,
+   "exp": "5 cm in all directions (prevents recurrence when mesh shrinks) (Book p454)"
+  },
+  {
+   "id": "SURG-C59-047",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "LOW weight mesh is:",
+   "opts": [
+    "<40 gm/m² — less shrinkage",
+    ">80 gm/m²",
+    "=100 gm/m²",
+    "40-80 gm/m²"
+   ],
+   "ans": 0,
+   "exp": "<40 gm/m² — less shrinkage (Book p454)"
+  },
+  {
+   "id": "SURG-C59-048",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "HIGH weight mesh is:",
+   "opts": [
+    ">80 gm/m² — more shrinkage",
+    "<40 gm/m²",
+    "50-60 gm/m²",
+    "Always better"
+   ],
+   "ans": 0,
+   "exp": ">80 gm/m² — more shrinkage (Book p454)"
+  },
+  {
+   "id": "SURG-C59-049",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "Properties of the IDEAL hernia mesh:",
+   "opts": [
+    "Low weight, thin fibers & large pores",
+    "High weight, thick fibers, small pores",
+    "Heavy & dense",
+    "Thin fibers, small pores"
+   ],
+   "ans": 0,
+   "exp": "Low weight, thin fibers & large pores (Book p454)"
+  },
+  {
+   "id": "SURG-C59-050",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "Complication of PLUG mesh:",
+   "opts": [
+    "Meshoma d/t excessive collagen deposition",
+    "Fistula",
+    "Herniation",
+    "Hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Meshoma d/t excessive collagen deposition (Book p454)"
+  },
+  {
+   "id": "SURG-C59-051",
+   "sec": "Types and Materials of Mesh",
+   "page": 454,
+   "q": "Meshoma leads to pain d/t:",
+   "opts": [
+    "Nerve entrapment",
+    "Infection",
+    "Ischemia",
+    "Seroma"
+   ],
+   "ans": 0,
+   "exp": "Nerve entrapment (Book p454)"
+  },
+  {
+   "id": "SURG-C59-052",
+   "sec": "Inguinal Hernia and Anatomy",
+   "page": 454,
+   "q": "The m/c hernia overall:",
+   "opts": [
+    "Inguinal hernia",
+    "Femoral",
+    "Umbilical",
+    "Incisional"
+   ],
+   "ans": 0,
+   "exp": "Inguinal hernia (Book p454)"
+  },
+  {
+   "id": "SURG-C59-053",
+   "sec": "Inguinal Hernia and Anatomy",
+   "page": 454,
+   "q": "The m/c hernia in BOTH males & females:",
+   "opts": [
+    "Indirect inguinal hernia",
+    "Direct inguinal",
+    "Femoral",
+    "Obturator"
+   ],
+   "ans": 0,
+   "exp": "Indirect inguinal hernia (Book p454)"
+  },
+  {
+   "id": "SURG-C59-054",
+   "sec": "Inguinal Hernia and Anatomy",
+   "page": 454,
+   "q": "INTERNAL inguinal ring is a modification of:",
+   "opts": [
+    "Fascia transversalis",
+    "External oblique aponeurosis",
+    "Internal oblique",
+    "Conjoint tendon"
+   ],
+   "ans": 0,
+   "exp": "Fascia transversalis (Book p454)"
+  },
+  {
+   "id": "SURG-C59-055",
+   "sec": "Inguinal Hernia and Anatomy",
+   "page": 454,
+   "q": "EXTERNAL inguinal ring is a modification of:",
+   "opts": [
+    "External oblique aponeurosis",
+    "Fascia transversalis",
+    "Transversus abdominis",
+    "Inguinal ligament"
+   ],
+   "ans": 0,
+   "exp": "External oblique aponeurosis (Book p454)"
+  },
+  {
+   "id": "SURG-C59-056",
+   "sec": "Inguinal Hernia and Anatomy",
+   "page": 454,
+   "q": "DIRECT hernia passes:",
+   "opts": [
+    "Through Hesselbach's triangle",
+    "Through deep ring lateral to the triangle",
+    "Femoral canal",
+    "Obturator canal"
+   ],
+   "ans": 0,
+   "exp": "Through Hesselbach's triangle (Book p454)"
+  },
+  {
+   "id": "SURG-C59-057",
+   "sec": "Inguinal Hernia and Anatomy",
+   "page": 454,
+   "q": "INDIRECT hernia passes:",
+   "opts": [
+    "Lateral to Hesselbach's triangle, through the deep inguinal ring",
+    "Through the triangle",
+    "Below the inguinal ligament",
+    "Through the lacunar ligament"
+   ],
+   "ans": 0,
+   "exp": "Lateral to Hesselbach's triangle, through the deep inguinal ring (Book p454)"
+  },
+  {
+   "id": "SURG-C59-058",
+   "sec": "Inguinal Hernia and Anatomy",
+   "page": 454,
+   "q": "Boundaries of HESSELBACH's triangle (as drawn):",
+   "opts": [
+    "Inferior epigastric vessels, inguinal ligament & outer border of rectus",
+    "Vas deferens & testicular vessels",
+    "Cooper's ligament & iliopsoas",
+    "Rectus & linea alba only"
+   ],
+   "ans": 0,
+   "exp": "Inferior epigastric vessels, inguinal ligament & outer border of rectus (Book p454)"
+  },
+  {
+   "id": "SURG-C59-059",
+   "sec": "Myopectineal Orifice of Fruchaud",
+   "page": 455,
+   "q": "SUPERIOR boundary of myopectineal orifice:",
+   "opts": [
+    "Arching fibers of internal oblique",
+    "Cooper's ligament",
+    "Tendon of iliopsoas",
+    "Outer border of rectus"
+   ],
+   "ans": 0,
+   "exp": "Arching fibers of internal oblique (Book p455)"
+  },
+  {
+   "id": "SURG-C59-060",
+   "sec": "Myopectineal Orifice of Fruchaud",
+   "page": 455,
+   "q": "MEDIAL boundary of myopectineal orifice:",
+   "opts": [
+    "Outer border of rectus",
+    "Internal oblique fibers",
+    "Iliopsoas tendon",
+    "Lacunar ligament"
+   ],
+   "ans": 0,
+   "exp": "Outer border of rectus (Book p455)"
+  },
+  {
+   "id": "SURG-C59-061",
+   "sec": "Myopectineal Orifice of Fruchaud",
+   "page": 455,
+   "q": "LATERAL boundary of myopectineal orifice:",
+   "opts": [
+    "Tendon of iliopsoas",
+    "Rectus border",
+    "Cooper's ligament",
+    "Internal oblique"
+   ],
+   "ans": 0,
+   "exp": "Tendon of iliopsoas (Book p455)"
+  },
+  {
+   "id": "SURG-C59-062",
+   "sec": "Myopectineal Orifice of Fruchaud",
+   "page": 455,
+   "q": "INFERIOR boundary of myopectineal orifice:",
+   "opts": [
+    "Pectineal / Cooper's ligament",
+    "Inguinal ligament only",
+    "Iliopsoas",
+    "Pubic tubercle"
+   ],
+   "ans": 0,
+   "exp": "Pectineal / Cooper's ligament (Book p455)"
+  },
+  {
+   "id": "SURG-C59-063",
+   "sec": "Myopectineal Orifice of Fruchaud",
+   "page": 455,
+   "q": "Myopectineal orifice covers the defects of:",
+   "opts": [
+    "Inguinal, femoral & obturator hernias",
+    "Umbilical & epigastric",
+    "Lumbar & Spigelian",
+    "Incisional hernias"
+   ],
+   "ans": 0,
+   "exp": "Inguinal, femoral & obturator hernias (Book p455)"
+  },
+  {
+   "id": "SURG-C59-064",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Hernia is examined in the position:",
+   "opts": [
+    "Standing & lying down",
+    "Only supine",
+    "Only lateral",
+    "Sitting"
+   ],
+   "ans": 0,
+   "exp": "Standing & lying down (Book p455)"
+  },
+  {
+   "id": "SURG-C59-065",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Standing vs lying examination helps differentiate:",
+   "opts": [
+    "Inguinal (above & medial to pubic tubercle) vs femoral (below & lateral)",
+    "Direct vs sliding",
+    "Obstructed vs strangulated",
+    "Congenital vs acquired"
+   ],
+   "ans": 0,
+   "exp": "Inguinal (above & medial to pubic tubercle) vs femoral (below & lateral) (Book p455)"
+  },
+  {
+   "id": "SURG-C59-066",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "INGUINAL hernia lies in relation to the pubic tubercle:",
+   "opts": [
+    "Above & medial",
+    "Below & lateral",
+    "Above & lateral",
+    "Below & medial"
+   ],
+   "ans": 0,
+   "exp": "Above & medial (Book p455)"
+  },
+  {
+   "id": "SURG-C59-067",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "FEMORAL hernia lies in relation to the pubic tubercle:",
+   "opts": [
+    "Below & lateral",
+    "Above & medial",
+    "Above & lateral",
+    "Below & medial"
+   ],
+   "ans": 0,
+   "exp": "Below & lateral (Book p455)"
+  },
+  {
+   "id": "SURG-C59-068",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Other goals of examination (besides differentiation):",
+   "opts": [
+    "Appreciate cough impulse, assess abdominal muscle tone & complete vs incomplete hernia",
+    "Only measure size",
+    "Only auscultate",
+    "Biopsy the sac"
+   ],
+   "ans": 0,
+   "exp": "Appreciate cough impulse, assess abdominal muscle tone & complete vs incomplete hernia (Book p455)"
+  },
+  {
+   "id": "SURG-C59-069",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Sac that does NOT cross the superficial ring:",
+   "opts": [
+    "Bubonocele",
+    "Funicular",
+    "Inguinoscrotal",
+    "Complete"
+   ],
+   "ans": 0,
+   "exp": "Bubonocele (Book p455)"
+  },
+  {
+   "id": "SURG-C59-070",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Sac that JUST crosses the superficial ring:",
+   "opts": [
+    "Funicular",
+    "Bubonocele",
+    "Complete",
+    "Sliding"
+   ],
+   "ans": 0,
+   "exp": "Funicular (Book p455)"
+  },
+  {
+   "id": "SURG-C59-071",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Sac that crosses the superficial ring & reaches the scrotum:",
+   "opts": [
+    "Inguinoscrotal / complete",
+    "Bubonocele",
+    "Funicular",
+    "Infantile"
+   ],
+   "ans": 0,
+   "exp": "Inguinoscrotal / complete (Book p455)"
+  },
+  {
+   "id": "SURG-C59-072",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "The SINGLE BEST clinical test for hernia:",
+   "opts": [
+    "Deep ring occlusion test",
+    "Ring invagination",
+    "Zieman 3 finger test",
+    "Cough impulse only"
+   ],
+   "ans": 0,
+   "exp": "Deep ring occlusion test (Book p455)"
+  },
+  {
+   "id": "SURG-C59-073",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Ring invagination test — little finger in the superficial ring through the scrotum: TIP of finger touches:",
+   "opts": [
+    "Indirect hernia",
+    "Direct hernia",
+    "Femoral hernia",
+    "Hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Indirect hernia (Book p455)"
+  },
+  {
+   "id": "SURG-C59-074",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Ring invagination test — PULP of finger touches:",
+   "opts": [
+    "Direct hernia",
+    "Indirect hernia",
+    "Obturator hernia",
+    "Varicocele"
+   ],
+   "ans": 0,
+   "exp": "Direct hernia (Book p455)"
+  },
+  {
+   "id": "SURG-C59-075",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 455,
+   "q": "Sensitivity of ring invagination test:",
+   "opts": [
+    "Low",
+    "High",
+    "100%",
+    "Moderate"
+   ],
+   "ans": 0,
+   "exp": "Low (Book p455)"
+  },
+  {
+   "id": "SURG-C59-076",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 456,
+   "q": "Zieman 3 finger test:",
+   "opts": [
+    "1 finger each at superficial, deep & femoral ring; the respective finger lifts when patient coughs",
+    "Only tests the deep ring",
+    "Palpates the spermatic cord",
+    "Measures the defect size"
+   ],
+   "ans": 0,
+   "exp": "1 finger each at superficial, deep & femoral ring; the respective finger lifts when patient coughs (Book p456)"
+  },
+  {
+   "id": "SURG-C59-077",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 456,
+   "q": "Sensitivity of Zieman 3 finger test:",
+   "opts": [
+    "Low",
+    "High",
+    "Best single test",
+    "Diagnostic"
+   ],
+   "ans": 0,
+   "exp": "Low (Book p456)"
+  },
+  {
+   "id": "SURG-C59-078",
+   "sec": "Clinical Examination, Degrees and Tests",
+   "page": 456,
+   "q": "Indications for USG in hernia:",
+   "opts": [
+    "Doubtful diagnosis & non-palpable hernia",
+    "All hernias",
+    "Only strangulation",
+    "Only post-op"
+   ],
+   "ans": 0,
+   "exp": "Doubtful diagnosis & non-palpable hernia (Book p456)"
+  },
+  {
+   "id": "SURG-C59-079",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "The m/c surgical approach for inguinal hernia:",
+   "opts": [
+    "Laparoscopic inguinal hernia surgery",
+    "Open surgery",
+    "Taxis",
+    "Truss"
+   ],
+   "ans": 0,
+   "exp": "Laparoscopic inguinal hernia surgery (Book p456)"
+  },
+  {
+   "id": "SURG-C59-080",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "Open surgery options:",
+   "opts": [
+    "Herniotomy, herniorrhaphy & Lichtenstein's tension free mesh hernioplasty",
+    "Only mesh",
+    "Only Bassini",
+    "Stoppa only"
+   ],
+   "ans": 0,
+   "exp": "Herniotomy, herniorrhaphy & Lichtenstein's tension free mesh hernioplasty (Book p456)"
+  },
+  {
+   "id": "SURG-C59-081",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "BASSINI repair:",
+   "opts": [
+    "Reflected portion of inguinal ligament sutured with conjoint tendon",
+    "Double breasting of fascia transversalis",
+    "Mesh plug",
+    "Pre-peritoneal mesh"
+   ],
+   "ans": 0,
+   "exp": "Reflected portion of inguinal ligament sutured with conjoint tendon (Book p456)"
+  },
+  {
+   "id": "SURG-C59-082",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "SHOULDICE repair — 1st layer:",
+   "opts": [
+    "Double breasting of fascia transversalis",
+    "Inguinal ligament",
+    "External oblique",
+    "Conjoint tendon alone"
+   ],
+   "ans": 0,
+   "exp": "Double breasting of fascia transversalis (Book p456)"
+  },
+  {
+   "id": "SURG-C59-083",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "SHOULDICE repair — 2nd layer:",
+   "opts": [
+    "Double breasting of inguinal ligament with conjoint tendon (corresponds to Bassini)",
+    "Fascia transversalis",
+    "External oblique",
+    "Mesh fixation"
+   ],
+   "ans": 0,
+   "exp": "Double breasting of inguinal ligament with conjoint tendon (corresponds to Bassini) (Book p456)"
+  },
+  {
+   "id": "SURG-C59-084",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "SHOULDICE repair — 3rd layer:",
+   "opts": [
+    "Double breasting of external oblique aponeurosis",
+    "Fascia transversalis",
+    "Cooper's ligament",
+    "Transversalis fascia"
+   ],
+   "ans": 0,
+   "exp": "Double breasting of external oblique aponeurosis (Book p456)"
+  },
+  {
+   "id": "SURG-C59-085",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "Shouldice repair is also called:",
+   "opts": [
+    "3/6 layer repair",
+    "4/7 layer repair",
+    "Single layer",
+    "Mesh repair"
+   ],
+   "ans": 0,
+   "exp": "3/6 layer repair (Book p456)"
+  },
+  {
+   "id": "SURG-C59-086",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "M/c NERVE INJURED in open inguinal surgery:",
+   "opts": [
+    "Ilioinguinal nerve",
+    "Iliohypogastric",
+    "Genitofemoral",
+    "Lateral cutaneous nerve of thigh"
+   ],
+   "ans": 0,
+   "exp": "Ilioinguinal nerve (Book p456)"
+  },
+  {
+   "id": "SURG-C59-087",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "M/c nerve ENTRAPPED in open inguinal surgery:",
+   "opts": [
+    "Iliohypogastric nerve",
+    "Ilioinguinal",
+    "Femoral",
+    "Obturator"
+   ],
+   "ans": 0,
+   "exp": "Iliohypogastric nerve (Book p456)"
+  },
+  {
+   "id": "SURG-C59-088",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "Chronic inguinal pain after open surgery is d/t:",
+   "opts": [
+    "Nerve entrapment beneath mesh / pubis osteitis",
+    "Recurrence always",
+    "Seroma",
+    "Hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Nerve entrapment beneath mesh / pubis osteitis (Book p456)"
+  },
+  {
+   "id": "SURG-C59-089",
+   "sec": "Management of Inguinal Hernia: Open Surgery",
+   "page": 456,
+   "q": "Recurrence is LEAST (<2%) with:",
+   "opts": [
+    "Hernioplasty",
+    "Herniotomy",
+    "Bassini",
+    "Shouldice"
+   ],
+   "ans": 0,
+   "exp": "Hernioplasty (Book p456)"
+  },
+  {
+   "id": "SURG-C59-090",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "Indications for laparoscopic inguinal hernia surgery:",
+   "opts": [
+    "Can be done in all hernias, B/L inguinal hernia & recurrent inguinal hernia",
+    "Only children",
+    "Only unilateral",
+    "Strangulation only"
+   ],
+   "ans": 0,
+   "exp": "Can be done in all hernias, B/L inguinal hernia & recurrent inguinal hernia (Book p457)"
+  },
+  {
+   "id": "SURG-C59-091",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "In TEP, the peritoneum:",
+   "opts": [
+    "Remains intact",
+    "Is breached",
+    "Is excised",
+    "Is duplicated"
+   ],
+   "ans": 0,
+   "exp": "Remains intact (Book p457)"
+  },
+  {
+   "id": "SURG-C59-092",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "In TAPP, the peritoneum:",
+   "opts": [
+    "Is breached",
+    "Remains intact",
+    "Is never touched",
+    "Is sutured to mesh"
+   ],
+   "ans": 0,
+   "exp": "Is breached (Book p457)"
+  },
+  {
+   "id": "SURG-C59-093",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "Space created in TEP:",
+   "opts": [
+    "Extraperitoneal space",
+    "Pre-peritoneal only after breach",
+    "Intraperitoneal",
+    "Subcutaneous"
+   ],
+   "ans": 0,
+   "exp": "Extraperitoneal space (Book p457)"
+  },
+  {
+   "id": "SURG-C59-094",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "Space created in TAPP:",
+   "opts": [
+    "Pre-peritoneal space",
+    "Extraperitoneal only",
+    "Retrorectus only",
+    "Subfascial"
+   ],
+   "ans": 0,
+   "exp": "Pre-peritoneal space (Book p457)"
+  },
+  {
+   "id": "SURG-C59-095",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "TEP advantage over TAPP:",
+   "opts": [
+    "Technically better",
+    "Easier to learn",
+    "Faster always",
+    "No mesh needed"
+   ],
+   "ans": 0,
+   "exp": "Technically better (Book p457)"
+  },
+  {
+   "id": "SURG-C59-096",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "TAPP advantage over TEP:",
+   "opts": [
+    "Less technically demanding",
+    "Better cosmesis",
+    "Peritoneum intact",
+    "Higher recurrence"
+   ],
+   "ans": 0,
+   "exp": "Less technically demanding (Book p457)"
+  },
+  {
+   "id": "SURG-C59-097",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "TEP disadvantage:",
+   "opts": [
+    "More demanding, requires high precision",
+    "Bowel injury guaranteed",
+    "Cannot use mesh",
+    "Needs open conversion always"
+   ],
+   "ans": 0,
+   "exp": "More demanding, requires high precision (Book p457)"
+  },
+  {
+   "id": "SURG-C59-098",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "page": 457,
+   "q": "STOPPA'S repair:",
+   "opts": [
+    "Open pre-peritoneal repair; mesh held in place d/t Pascal's law; used in recurrent inguinal hernia",
+    "Laparoscopic repair",
+    "Suture only repair",
+    "Plug repair"
+   ],
+   "ans": 0,
+   "exp": "Open pre-peritoneal repair; mesh held in place d/t Pascal's law; used in recurrent inguinal hernia (Book p457)"
+  },
+  {
+   "id": "SURG-C59-099",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 457,
+   "q": "Triangle of DOOM boundaries: MEDIAL and LATERAL:",
+   "opts": [
+    "Vas deferens (medial) & testicular vessels (lateral)",
+    "Testicular vessels medial",
+    "Peritoneal reflection lateral",
+    "Iliopubic tract inferior"
+   ],
+   "ans": 0,
+   "exp": "Vas deferens (medial) & testicular vessels (lateral) (Book p457)"
+  },
+  {
+   "id": "SURG-C59-100",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Triangle of doom INFERIOR boundary:",
+   "opts": [
+    "Peritoneal reflection",
+    "Iliopubic tract",
+    "Cooper's ligament",
+    "Vas deferens"
+   ],
+   "ans": 0,
+   "exp": "Peritoneal reflection (Book p458)"
+  },
+  {
+   "id": "SURG-C59-101",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Contents of triangle of doom:",
+   "opts": [
+    "External iliac artery, external iliac vein & genital branch of genitofemoral nerve",
+    "Femoral nerve & lateral cutaneous nerve",
+    "Testicular vessels only",
+    "Obturator nerve"
+   ],
+   "ans": 0,
+   "exp": "External iliac artery, external iliac vein & genital branch of genitofemoral nerve (Book p458)"
+  },
+  {
+   "id": "SURG-C59-102",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Complication of stapling in triangle of doom:",
+   "opts": [
+    "Bleeding",
+    "Nerve pain",
+    "Ischemic orchitis",
+    "Recurrence"
+   ],
+   "ans": 0,
+   "exp": "Bleeding (Book p458)"
+  },
+  {
+   "id": "SURG-C59-103",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Triangle of PAIN boundaries:",
+   "opts": [
+    "Medial testicular vessels, lateral peritoneal reflection & superior iliopubic tract",
+    "Vas deferens medial",
+    "Inferior peritoneal reflection",
+    "Inguinal ligament only"
+   ],
+   "ans": 0,
+   "exp": "Medial testicular vessels, lateral peritoneal reflection & superior iliopubic tract (Book p458)"
+  },
+  {
+   "id": "SURG-C59-104",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Contents of triangle of pain:",
+   "opts": [
+    "Lateral cutaneous nerve of thigh, femoral nerve & femoral branch of genitofemoral nerve",
+    "External iliac vessels",
+    "Vas deferens",
+    "Inferior epigastrics"
+   ],
+   "ans": 0,
+   "exp": "Lateral cutaneous nerve of thigh, femoral nerve & femoral branch of genitofemoral nerve (Book p458)"
+  },
+  {
+   "id": "SURG-C59-105",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Meralgia paresthetica after laparoscopic hernia surgery:",
+   "opts": [
+    "Shooting pain along lateral aspect of thigh d/t entrapment of lateral cutaneous nerve of thigh (m/c)",
+    "Femoral nerve injury",
+    "Vas injury",
+    "Medial thigh pain"
+   ],
+   "ans": 0,
+   "exp": "Shooting pain along lateral aspect of thigh d/t entrapment of lateral cutaneous nerve of thigh (m/c) (Book p458)"
+  },
+  {
+   "id": "SURG-C59-106",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Why NO cautery in triangle of pain?",
+   "opts": [
+    "Electrical hazard zone — to prevent thermal injury to nerves",
+    "Bleeding risk",
+    "Mesh melts",
+    "Causes recurrence"
+   ],
+   "ans": 0,
+   "exp": "Electrical hazard zone — to prevent thermal injury to nerves (Book p458)"
+  },
+  {
+   "id": "SURG-C59-107",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "TRAPEZOID of disaster consists of:",
+   "opts": [
+    "Triangle of doom (medial) + triangle of pain (lateral)",
+    "Two triangles lateral only",
+    "Doom + Hesselbach",
+    "Pain + triangle of Petit"
+   ],
+   "ans": 0,
+   "exp": "Triangle of doom (medial) + triangle of pain (lateral) (Book p458)"
+  },
+  {
+   "id": "SURG-C59-108",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "CORONA MORTIS / circle of death connects:",
+   "opts": [
+    "Inferior epigastric artery (branch of external iliac) with obturator artery (branch of internal iliac) via aberrant obturator artery",
+    "Femoral & profunda",
+    "Iliolumbar & lateral sacral",
+    "Inferior epigastric & femoral directly"
+   ],
+   "ans": 0,
+   "exp": "Inferior epigastric artery (branch of external iliac) with obturator artery (branch of internal iliac) via aberrant obturator artery (Book p458)"
+  },
+  {
+   "id": "SURG-C59-109",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "The aberrant obturator artery of corona mortis lies:",
+   "opts": [
+    "Behind the pubic tubercle",
+    "Above the umbilicus",
+    "In the scrotal wall",
+    "Lateral to ASIS"
+   ],
+   "ans": 0,
+   "exp": "Behind the pubic tubercle (Book p458)"
+  },
+  {
+   "id": "SURG-C59-110",
+   "sec": "Triangle of Doom & Pain; Corona Mortis",
+   "page": 458,
+   "q": "Injury to corona mortis causes:",
+   "opts": [
+    "Torrential bleeding",
+    "Nothing",
+    "Ischemic orchitis",
+    "Nerve palsy"
+   ],
+   "ans": 0,
+   "exp": "Torrential bleeding (Book p458)"
+  },
+  {
+   "id": "SURG-C59-111",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 458,
+   "q": "EHS classification uses location codes:",
+   "opts": [
+    "L (lateral/indirect), M (medial/direct) & F (femoral)",
+    "I, II, III, IV",
+    "A, B, C, D",
+    "1, 2, 3 only"
+   ],
+   "ans": 0,
+   "exp": "L (lateral/indirect), M (medial/direct) & F (femoral) (Book p458)"
+  },
+  {
+   "id": "SURG-C59-112",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 458,
+   "q": "In EHS, the size code counts:",
+   "opts": [
+    "Fingerbreadths (FB): 0 no hernia, 1 one FB, 2 two FB, 3 >2 FB, X not investigated",
+    "Centimeters",
+    "Grades I-IV",
+    "Weight of content"
+   ],
+   "ans": 0,
+   "exp": "Fingerbreadths (FB): 0 no hernia, 1 one FB, 2 two FB, 3 >2 FB, X not investigated (Book p458)"
+  },
+  {
+   "id": "SURG-C59-113",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 458,
+   "q": "EHS example: lateral hernia of 2 FB (primary or recurrent):",
+   "opts": [
+    "L2",
+    "L3",
+    "M2",
+    "L-X"
+   ],
+   "ans": 0,
+   "exp": "L2 (Book p458)"
+  },
+  {
+   "id": "SURG-C59-114",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 458,
+   "q": "EHS example: femoral hernia not investigated for FB:",
+   "opts": [
+    "F-X",
+    "F3",
+    "F0",
+    "M-X"
+   ],
+   "ans": 0,
+   "exp": "F-X (Book p458)"
+  },
+  {
+   "id": "SURG-C59-115",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 459,
+   "q": "NYHUS Type I:",
+   "opts": [
+    "Indirect inguinal hernia with a normal ring; sac in the canal",
+    "Indirect with enlarged ring",
+    "Direct hernia",
+    "Femoral hernia"
+   ],
+   "ans": 0,
+   "exp": "Indirect inguinal hernia with a normal ring; sac in the canal (Book p459)"
+  },
+  {
+   "id": "SURG-C59-116",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 459,
+   "q": "NYHUS Type II:",
+   "opts": [
+    "Indirect hernia with enlarged internal ring but posterior wall intact; inferior deep epigastric vessels not displaced; sac not in scrotum",
+    "Direct posterior floor defect",
+    "Sac in scrotum",
+    "Femoral"
+   ],
+   "ans": 0,
+   "exp": "Indirect hernia with enlarged internal ring but posterior wall intact; inferior deep epigastric vessels not displaced; sac not in scrotum (Book p459)"
+  },
+  {
+   "id": "SURG-C59-117",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 459,
+   "q": "NYHUS Type 3a:",
+   "opts": [
+    "Direct hernia with a posterior floor defect only",
+    "Indirect enlarged ring",
+    "Femoral",
+    "Recurrent"
+   ],
+   "ans": 0,
+   "exp": "Direct hernia with a posterior floor defect only (Book p459)"
+  },
+  {
+   "id": "SURG-C59-118",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 459,
+   "q": "NYHUS Type 3b:",
+   "opts": [
+    "Indirect hernia with enlargement of internal ring AND posterior floor defect",
+    "Direct only",
+    "Femoral only",
+    "Recurrent indirect"
+   ],
+   "ans": 0,
+   "exp": "Indirect hernia with enlargement of internal ring AND posterior floor defect (Book p459)"
+  },
+  {
+   "id": "SURG-C59-119",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 459,
+   "q": "NYHUS Type 3c:",
+   "opts": [
+    "Femoral hernia",
+    "Direct",
+    "Indirect",
+    "Sliding"
+   ],
+   "ans": 0,
+   "exp": "Femoral hernia (Book p459)"
+  },
+  {
+   "id": "SURG-C59-120",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "page": 459,
+   "q": "NYHUS Type 4 subtypes:",
+   "opts": [
+    "Recurrent hernia — A direct, B indirect, C femoral, D combinations of A-B-C",
+    "Sliding types",
+    "Congenital types",
+    "Femoral variants"
+   ],
+   "ans": 0,
+   "exp": "Recurrent hernia — A direct, B indirect, C femoral, D combinations of A-B-C (Book p459)"
+  },
+  {
+   "id": "SURG-C59-121",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "GIBBON hernia:",
+   "opts": [
+    "Inguinal hernia + hydrocele",
+    "Direct + indirect",
+    "Hernia + varicocele",
+    "Bilateral inguinal"
+   ],
+   "ans": 0,
+   "exp": "Inguinal hernia + hydrocele (Book p459)"
+  },
+  {
+   "id": "SURG-C59-122",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "PANTALOON hernia:",
+   "opts": [
+    "Direct + indirect components (m/c in elderly patients)",
+    "Bilateral direct",
+    "Sliding sigmoid",
+    "Femoral + obturator"
+   ],
+   "ans": 0,
+   "exp": "Direct + indirect components (m/c in elderly patients) (Book p459)"
+  },
+  {
+   "id": "SURG-C59-123",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "SLIDING hernia is also called:",
+   "opts": [
+    "Hernia en glissade",
+    "Gilmore's groin",
+    "Maydl's hernia",
+    "Richter's hernia"
+   ],
+   "ans": 0,
+   "exp": "Hernia en glissade (Book p459)"
+  },
+  {
+   "id": "SURG-C59-124",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "Sliding hernia is common in:",
+   "opts": [
+    "Elderly males",
+    "Children",
+    "Females",
+    "Neonates"
+   ],
+   "ans": 0,
+   "exp": "Elderly males (Book p459)"
+  },
+  {
+   "id": "SURG-C59-125",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "POSTERIOR boundary of the sac in sliding hernia:",
+   "opts": [
+    "A visceral structure (can be injured during surgery)",
+    "Only omentum",
+    "Peritoneal fold",
+    "Fascia transversalis"
+   ],
+   "ans": 0,
+   "exp": "A visceral structure (can be injured during surgery) (Book p459)"
+  },
+  {
+   "id": "SURG-C59-126",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "Side predominance of sliding hernia:",
+   "opts": [
+    "Left > Right",
+    "Right > Left",
+    "Equal",
+    "Always bilateral"
+   ],
+   "ans": 0,
+   "exp": "Left > Right (Book p459)"
+  },
+  {
+   "id": "SURG-C59-127",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "M/c structure in a sliding hernia:",
+   "opts": [
+    "Sigmoid colon > bladder",
+    "Cecum > appendix",
+    "Ovary",
+    "Small bowel"
+   ],
+   "ans": 0,
+   "exp": "Sigmoid colon > bladder (Book p459)"
+  },
+  {
+   "id": "SURG-C59-128",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "SPORTSMAN hernia is also called:",
+   "opts": [
+    "Gilmore's groin",
+    "Hernia en glissade",
+    "Gibbon hernia",
+    "Bubonocele"
+   ],
+   "ans": 0,
+   "exp": "Gilmore's groin (Book p459)"
+  },
+  {
+   "id": "SURG-C59-129",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "Sportsman hernia is m/c seen in:",
+   "opts": [
+    "Athletes",
+    "Elderly females",
+    "Infants",
+    "Couch workers"
+   ],
+   "ans": 0,
+   "exp": "Athletes (Book p459)"
+  },
+  {
+   "id": "SURG-C59-130",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "Sportsman hernia mechanism:",
+   "opts": [
+    "Tear in posterior wall muscle → pain",
+    "Ring dilatation",
+    "Sac sliding",
+    "Nerve entrapment only"
+   ],
+   "ans": 0,
+   "exp": "Tear in posterior wall muscle → pain (Book p459)"
+  },
+  {
+   "id": "SURG-C59-131",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "Sac in sportsman hernia on examination:",
+   "opts": [
+    "Not palpable (extremely small)",
+    "Large & scrotal",
+    "Always strangulated",
+    "Cystic"
+   ],
+   "ans": 0,
+   "exp": "Not palpable (extremely small) (Book p459)"
+  },
+  {
+   "id": "SURG-C59-132",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "IOC for sportsman hernia:",
+   "opts": [
+    "MRI",
+    "USG",
+    "CT",
+    "Herniography"
+   ],
+   "ans": 0,
+   "exp": "MRI (Book p459)"
+  },
+  {
+   "id": "SURG-C59-133",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "Mx of sportsman hernia:",
+   "opts": [
+    "Laparoscopic repair using mesh",
+    "Taxis",
+    "Truss",
+    "Open suture only"
+   ],
+   "ans": 0,
+   "exp": "Laparoscopic repair using mesh (Book p459)"
+  },
+  {
+   "id": "SURG-C59-134",
+   "sec": "Special Types of Inguinal Hernia",
+   "page": 459,
+   "q": "During sliding hernia surgery, the neck of the sac is NEVER opened because:",
+   "opts": [
+    "Sudden reduction of contents converts localized hernia to generalized",
+    "It bleeds torrentially",
+    "Recurrence increases",
+    "Nerve injury"
+   ],
+   "ans": 0,
+   "exp": "Sudden reduction of contents converts localized hernia to generalized (Book p459)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U59-1",
+   "ch": 59,
+   "n": 1,
+   "title": "Definition, Parts and Types of Hernia",
+   "sec": "Definition, Parts and Types of Hernia · p451",
+   "qs": [
+    "SURG-C59-001",
+    "SURG-C59-002",
+    "SURG-C59-003",
+    "SURG-C59-004",
+    "SURG-C59-005",
+    "SURG-C59-006",
+    "SURG-C59-007",
+    "SURG-C59-008",
+    "SURG-C59-009",
+    "SURG-C59-010",
+    "SURG-C59-011"
+   ],
+   "guide": "A hernia pushes viscus through the wall containing it, carrying sac, content, defect and blood supply. Reducible with a positive cough impulse is uncomplicated; obstruction (old 'incarceration') keeps the supply intact while strangulation adds compromised blood supply and inflamed skin — and every obstruction is treated as strangulation until proven otherwise."
+  },
+  {
+   "id": "SURG-U59-2",
+   "ch": 59,
+   "n": 2,
+   "title": "Taxis, Reduction en Masse and Content-Based Types",
+   "sec": "Taxis, Reduction en Masse and Content-Based Types · p452",
+   "qs": [
+    "SURG-C59-012",
+    "SURG-C59-013",
+    "SURG-C59-014",
+    "SURG-C59-015",
+    "SURG-C59-016",
+    "SURG-C59-017",
+    "SURG-C59-018",
+    "SURG-C59-019",
+    "SURG-C59-020",
+    "SURG-C59-021",
+    "SURG-C59-022"
+   ],
+   "guide": "Taxis reduces a hernia — banned in obstruction/strangulation because contents can slip back en masse along with the obstructing ring. Omentocele is doughy and dull with no peristalsis; enterocele is tympanic, peristalsing and harder to reduce first. Bowel = enterocele, appendix = Amyand's, Meckel's = Littre's, and Zollinger VIII combines direct with indirect sacs."
+  },
+  {
+   "id": "SURG-U59-3",
+   "ch": 59,
+   "n": 3,
+   "title": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty",
+   "sec": "Basics of Hernia Surgery: Herniotomy, Herniorrhaphy, Hernioplasty · p452",
+   "qs": [
+    "SURG-C59-023",
+    "SURG-C59-024",
+    "SURG-C59-025",
+    "SURG-C59-026",
+    "SURG-C59-027",
+    "SURG-C59-028",
+    "SURG-C59-029",
+    "SURG-C59-030",
+    "SURG-C59-031",
+    "SURG-C59-032",
+    "SURG-C59-033",
+    "SURG-C59-034"
+   ],
+   "guide": "Herniotomy finds the glistening-white sac, empties it, trims and closes it — defect left untouched, so recurrence is highest, but it is the operation for congenital hernia/hydrocele and children whose high muscle tone blocks the defect. Herniorrhaphy sutures the edges together where mesh is forbidden (infected/strangulated); hernioplasty covers the defect with mesh — the surgery of choice with the least recurrence, avoiding infected fields."
+  },
+  {
+   "id": "SURG-U59-4",
+   "ch": 59,
+   "n": 4,
+   "title": "Types and Materials of Mesh",
+   "sec": "Types and Materials of Mesh · p453",
+   "qs": [
+    "SURG-C59-035",
+    "SURG-C59-036",
+    "SURG-C59-037",
+    "SURG-C59-038",
+    "SURG-C59-039",
+    "SURG-C59-040",
+    "SURG-C59-041",
+    "SURG-C59-042",
+    "SURG-C59-043",
+    "SURG-C59-044",
+    "SURG-C59-045",
+    "SURG-C59-046",
+    "SURG-C59-047",
+    "SURG-C59-048",
+    "SURG-C59-049",
+    "SURG-C59-050",
+    "SURG-C59-051"
+   ],
+   "guide": "Synthetic mesh (Prolene, Vipro, PTFE) shuns infection and strangulation; biological (Alloderm, porcine dermis) works in its presence. Prolene repels bacteria (hydrophobic), polyester ingrows fastest (hydrophilic), PTFE spares the bowel intraperitoneally. Cover 5 cm beyond the defect; prefer low weight (<40 g/m²), thin fibers, large pores — and beware the plug's collagenous meshoma entrapping nerves."
+  },
+  {
+   "id": "SURG-U59-5",
+   "ch": 59,
+   "n": 5,
+   "title": "Inguinal Hernia and Anatomy",
+   "sec": "Inguinal Hernia and Anatomy · p454",
+   "qs": [
+    "SURG-C59-052",
+    "SURG-C59-053",
+    "SURG-C59-054",
+    "SURG-C59-055",
+    "SURG-C59-056",
+    "SURG-C59-057",
+    "SURG-C59-058"
+   ],
+   "guide": "Inguinal hernia is the commonest hernia overall and the indirect type leads in both sexes. The deep ring is fascia transversalis fashion, the superficial external oblique; direct hernias vault through Hesselbach's triangle while indirects enter through the deep ring lateral to it."
+  },
+  {
+   "id": "SURG-U59-6",
+   "ch": 59,
+   "n": 6,
+   "title": "Myopectineal Orifice of Fruchaud",
+   "sec": "Myopectineal Orifice of Fruchaud · p455",
+   "qs": [
+    "SURG-C59-059",
+    "SURG-C59-060",
+    "SURG-C59-061",
+    "SURG-C59-062",
+    "SURG-C59-063"
+   ],
+   "guide": "Fruchaud's myopectineal orifice — superior arching internal oblique, medial rectus border, lateral iliopsoas tendon, inferior Cooper's ligament — is the single gate through which inguinal, femoral and obturator hernias pass."
+  },
+  {
+   "id": "SURG-U59-7",
+   "ch": 59,
+   "n": 7,
+   "title": "Clinical Examination, Degrees and Tests",
+   "sec": "Clinical Examination, Degrees and Tests · p455",
+   "qs": [
+    "SURG-C59-064",
+    "SURG-C59-065",
+    "SURG-C59-066",
+    "SURG-C59-067",
+    "SURG-C59-068",
+    "SURG-C59-069",
+    "SURG-C59-070",
+    "SURG-C59-071",
+    "SURG-C59-072",
+    "SURG-C59-073",
+    "SURG-C59-074",
+    "SURG-C59-075",
+    "SURG-C59-076",
+    "SURG-C59-077",
+    "SURG-C59-078"
+   ],
+   "guide": "Examine standing and lying: inguinal swellings sit above-medial to the pubic tubercle, femoral below-lateral; note cough impulse, tone and whether the sac stops at the ring (bubonocele), just crosses (funicular) or reaches the scrotum (inguinoscrotal/complete). Deep ring occlusion is the single best test; ring invagination (tip = indirect, pulp = direct) and Zieman's three fingers are low-sensitivity; USG answers doubt and non-palpable lumps."
+  },
+  {
+   "id": "SURG-U59-8",
+   "ch": 59,
+   "n": 8,
+   "title": "Management of Inguinal Hernia: Open Surgery",
+   "sec": "Management of Inguinal Hernia: Open Surgery · p456",
+   "qs": [
+    "SURG-C59-079",
+    "SURG-C59-080",
+    "SURG-C59-081",
+    "SURG-C59-082",
+    "SURG-C59-083",
+    "SURG-C59-084",
+    "SURG-C59-085",
+    "SURG-C59-086",
+    "SURG-C59-087",
+    "SURG-C59-088",
+    "SURG-C59-089"
+   ],
+   "guide": "Open surgery spans herniotomy, herniorrhaphy (Bassini: reflected inguinal ligament to conjoint tendon; Shouldice 3/6 layers — transversalis double-breasting, then ligament-plus-conjoint matching Bassini, then external oblique) and Lichtenstein tension-free mesh. Watch the ilioinguinal nerve (m/c injury), iliohypogastric (m/c entrapment), chronic pain from meshed nerves or pubic osteitis, and recurrence <2% with hernioplasty."
+  },
+  {
+   "id": "SURG-U59-9",
+   "ch": 59,
+   "n": 9,
+   "title": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's",
+   "sec": "Laparoscopic Inguinal Hernia Surgery (TEP / TAPP) and Stoppa's · p457",
+   "qs": [
+    "SURG-C59-090",
+    "SURG-C59-091",
+    "SURG-C59-092",
+    "SURG-C59-093",
+    "SURG-C59-094",
+    "SURG-C59-095",
+    "SURG-C59-096",
+    "SURG-C59-097",
+    "SURG-C59-098"
+   ],
+   "guide": "Laparoscopy suits all hernias, bilateral and recurrent ones. TEP keeps peritoneum intact creating an extraperitoneal space — technically better but precision-hungry; TAPP breaches peritoneum into the pre-peritoneal plane and is less demanding. Stoppa's open pre-peritoneal giant mesh leans on Pascal's law for recurrent hernias."
+  },
+  {
+   "id": "SURG-U59-10",
+   "ch": 59,
+   "n": 10,
+   "title": "Triangle of Doom & Pain; Corona Mortis",
+   "sec": "Triangle of Doom & Pain; Corona Mortis · p457",
+   "qs": [
+    "SURG-C59-099",
+    "SURG-C59-100",
+    "SURG-C59-101",
+    "SURG-C59-102",
+    "SURG-C59-103",
+    "SURG-C59-104",
+    "SURG-C59-105",
+    "SURG-C59-106",
+    "SURG-C59-107",
+    "SURG-C59-108",
+    "SURG-C59-109",
+    "SURG-C59-110"
+   ],
+   "guide": "Laparoscopic anatomy is a minefield: doom (vas medially, testicular vessels laterally, peritoneal reflection below) hides external iliac vessels and the genital branch — staple and it bleeds; pain (testicular vessels medial, peritoneal reflection lateral, iliopubic tract above) carries the lateral femoral cutaneous, femoral and femoral-genitofemoral branches — no cautery, or meralgia paresthetica. Doom + pain = trapezoid of disaster; the corona mortis (aberrant obturator behind the pubic tubercle joining external-iliac epigastric to internal-iliac obturator) bleeds torrentially."
+  },
+  {
+   "id": "SURG-U59-11",
+   "ch": 59,
+   "n": 11,
+   "title": "Classifications of Inguinal Hernia (EHS & Nyhus)",
+   "sec": "Classifications of Inguinal Hernia (EHS & Nyhus) · p458",
+   "qs": [
+    "SURG-C59-111",
+    "SURG-C59-112",
+    "SURG-C59-113",
+    "SURG-C59-114",
+    "SURG-C59-115",
+    "SURG-C59-116",
+    "SURG-C59-117",
+    "SURG-C59-118",
+    "SURG-C59-119",
+    "SURG-C59-120"
+   ],
+   "guide": "EHS codes site (L/M/F) by fingerbreadths (0/1/2/3/X) — an L2 is a two-FB indirect; F-X means uninvestigated femoral. Nyhus climbs from Type I (normal ring indirect) through II (enlarged ring, intact floor), IIIa direct floor defect, IIIb indirect ring-plus-floor, IIIc femoral, to Type IV recurrent (A/B/C/D)."
+  },
+  {
+   "id": "SURG-U59-12",
+   "ch": 59,
+   "n": 12,
+   "title": "Special Types of Inguinal Hernia",
+   "sec": "Special Types of Inguinal Hernia · p459",
+   "qs": [
+    "SURG-C59-121",
+    "SURG-C59-122",
+    "SURG-C59-123",
+    "SURG-C59-124",
+    "SURG-C59-125",
+    "SURG-C59-126",
+    "SURG-C59-127",
+    "SURG-C59-128",
+    "SURG-C59-129",
+    "SURG-C59-130",
+    "SURG-C59-131",
+    "SURG-C59-132",
+    "SURG-C59-133",
+    "SURG-C59-134"
+   ],
+   "guide": "Special inguinal hernias: Gibbon (with hydrocele), pantaloon (direct + indirect, elderly), sliding en glissade — elderly males, left > right, sigmoid colon > bladder forming the sac's posterior wall, so never open the neck lest contents scatter — and sportsman's Gilmore's groin of athletes: posterior wall tear, invisible sac, MRI IOC, laparoscopic mesh repair."
+  }
+ ]
+}
