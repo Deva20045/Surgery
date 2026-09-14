@@ -1,0 +1,2513 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C54-001",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "The chapter 'Basics of Trauma Management' belongs to which book section?",
+   "opts": [
+    "Trauma",
+    "Speciality Surgery",
+    "Vascular Surgery",
+    "Neurosurgery"
+   ],
+   "ans": 0,
+   "exp": "Trauma (Book p410)"
+  },
+  {
+   "id": "SURG-C54-002",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "The first step of the initial pre-hospital approach is:",
+   "opts": [
+    "Evaluate the scene",
+    "Initial assessment",
+    "Decide triage transport",
+    "Critical investigations"
+   ],
+   "ans": 0,
+   "exp": "Evaluate the scene (Book p410)"
+  },
+  {
+   "id": "SURG-C54-003",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "The second step of the initial pre-hospital approach is:",
+   "opts": [
+    "Initial assessment",
+    "Evaluate the scene",
+    "Decide triage transport",
+    "Patient transport"
+   ],
+   "ans": 0,
+   "exp": "Initial assessment (Book p410)"
+  },
+  {
+   "id": "SURG-C54-004",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "The third step of the initial pre-hospital approach is:",
+   "opts": [
+    "Decide triage transport",
+    "Initial assessment",
+    "Evaluate the scene",
+    "Critical investigations"
+   ],
+   "ans": 0,
+   "exp": "Decide triage transport (Book p410)"
+  },
+  {
+   "id": "SURG-C54-005",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "The fourth step of the initial pre-hospital approach is:",
+   "opts": [
+    "Initial critical investigations + patient transport",
+    "Decide triage transport",
+    "Helmet removal",
+    "Splintage"
+   ],
+   "ans": 0,
+   "exp": "Initial critical investigations + patient transport (Book p410)"
+  },
+  {
+   "id": "SURG-C54-006",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "Information from the driver/responder is collected as:",
+   "opts": [
+    "MIST",
+    "AMPLE",
+    "START",
+    "AVPU"
+   ],
+   "ans": 0,
+   "exp": "MIST (Book p410)"
+  },
+  {
+   "id": "SURG-C54-007",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In MIST, the 'M' stands for:",
+   "opts": [
+    "Mechanism",
+    "Medication",
+    "Morbidity",
+    "Mode"
+   ],
+   "ans": 0,
+   "exp": "Mechanism (Book p410)"
+  },
+  {
+   "id": "SURG-C54-008",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In MIST, the 'I' stands for:",
+   "opts": [
+    "Injuries",
+    "Intoxication",
+    "Incision",
+    "Incident"
+   ],
+   "ans": 0,
+   "exp": "Injuries (Book p410)"
+  },
+  {
+   "id": "SURG-C54-009",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In MIST, the 'S' stands for:",
+   "opts": [
+    "Signs & symptoms",
+    "Scene",
+    "Surgery",
+    "Shock"
+   ],
+   "ans": 0,
+   "exp": "Signs & symptoms (Book p410)"
+  },
+  {
+   "id": "SURG-C54-010",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In MIST, the 'T' stands for:",
+   "opts": [
+    "Treatment given",
+    "Time of injury",
+    "Transport",
+    "Triage"
+   ],
+   "ans": 0,
+   "exp": "Treatment given (Book p410)"
+  },
+  {
+   "id": "SURG-C54-011",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "Information from the patient is collected as:",
+   "opts": [
+    "AMPLE",
+    "MIST",
+    "SAMPLE",
+    "OPQRST"
+   ],
+   "ans": 0,
+   "exp": "AMPLE (Book p410)"
+  },
+  {
+   "id": "SURG-C54-012",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In AMPLE, the 'A' stands for:",
+   "opts": [
+    "Allergies",
+    "Airway",
+    "Age",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Allergies (Book p410)"
+  },
+  {
+   "id": "SURG-C54-013",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In AMPLE, the 'M' stands for:",
+   "opts": [
+    "Medical conditions",
+    "Mechanism",
+    "Medications only",
+    "Morbidity"
+   ],
+   "ans": 0,
+   "exp": "Medical conditions (Book p410)"
+  },
+  {
+   "id": "SURG-C54-014",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In AMPLE, the 'P' stands for:",
+   "opts": [
+    "Past history",
+    "Pulse",
+    "Pain",
+    "Position"
+   ],
+   "ans": 0,
+   "exp": "Past history (Book p410)"
+  },
+  {
+   "id": "SURG-C54-015",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In AMPLE, the 'L' (last meal) is important for:",
+   "opts": [
+    "Intubation",
+    "Surgery timing",
+    [
+     "Aspiration risk only"
+    ],
+    "NG tube"
+   ],
+   "ans": 0,
+   "exp": "Intubation (Book p410)"
+  },
+  {
+   "id": "SURG-C54-016",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In AMPLE, the 'E' stands for:",
+   "opts": [
+    "Events leading to trauma",
+    "Examination",
+    [
+     "Evacuation"
+    ],
+    "Episodes"
+   ],
+   "ans": 0,
+   "exp": "Events leading to trauma (Book p410)"
+  },
+  {
+   "id": "SURG-C54-017",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "For transport, a supine patient is placed on:",
+   "opts": [
+    "A hard board with head + thorax + pelvis strapped (immobilize)",
+    "A soft stretcher",
+    [
+     "A vacuum mattress only"
+    ],
+    "A scoop stretcher only"
+   ],
+   "ans": 0,
+   "exp": "A hard board with head + thorax + pelvis strapped (immobilize) (Book p410)"
+  },
+  {
+   "id": "SURG-C54-018",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "A prone transport position is used to:",
+   "opts": [
+    "Prevent aspiration",
+    "Prevent hypothermia",
+    [
+     "Improve ventilation"
+    ],
+    "Splint the spine"
+   ],
+   "ans": 0,
+   "exp": "Prevent aspiration (Book p410)"
+  },
+  {
+   "id": "SURG-C54-019",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "Patients should NOT be transported in the lateral position because:",
+   "opts": [
+    "C-spine stabilization is not possible",
+    "It causes aspiration",
+    [
+     "It worsens shock"
+    ],
+    "It blocks airway"
+   ],
+   "ans": 0,
+   "exp": "C-spine stabilization is not possible (Book p410)"
+  },
+  {
+   "id": "SURG-C54-020",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In two-person helmet removal, person 1:",
+   "opts": [
+    "Restricts movement of cervical spine",
+    "Removes the helmet",
+    [
+     "Straps the board"
+    ],
+    "Opens the visor"
+   ],
+   "ans": 0,
+   "exp": "Restricts movement of cervical spine (Book p410)"
+  },
+  {
+   "id": "SURG-C54-021",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "page": 410,
+   "q": "In two-person helmet removal, person 2:",
+   "opts": [
+    "Removes the helmet and then assists with C-spine stabilisation",
+    "Restricts cervical movement",
+    [
+     "Cuts the strap"
+    ],
+    "Holds the jaw"
+   ],
+   "ans": 0,
+   "exp": "Removes the helmet and then assists with C-spine stabilisation (Book p410)"
+  },
+  {
+   "id": "SURG-C54-022",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "The timeline concept of trauma mortality is also known as the:",
+   "opts": [
+    "Trimodal distribution of mortality",
+    "Bimodal distribution",
+    [
+     "Unimodal curve"
+    ],
+    "Tetramodal curve"
+   ],
+   "ans": 0,
+   "exp": "Trimodal distribution of mortality (Book p411)"
+  },
+  {
+   "id": "SURG-C54-023",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "The first (immediate) peak of trauma mortality is due to:",
+   "opts": [
+    "Massive head injury",
+    "Airway obstruction",
+    [
+     "Cardiac tamponade"
+    ],
+    "Infections"
+   ],
+   "ans": 0,
+   "exp": "Massive head injury (Book p411)"
+  },
+  {
+   "id": "SURG-C54-024",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Deaths within 1 hour of injury are potentially saveable; airway causes here include airway obstruction and:",
+   "opts": [
+    "Tracheobronchial injury",
+    "Laryngeal edema only",
+    [
+     "Epistaxis"
+    ],
+    "Facial fracture"
+   ],
+   "ans": 0,
+   "exp": "Tracheobronchial injury (Book p411)"
+  },
+  {
+   "id": "SURG-C54-025",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Breathing causes of death within the first hour include tension pneumothorax, open pneumothorax and:",
+   "opts": [
+    "Acute circulatory arrest",
+    "Cardiac tamponade",
+    [
+     "Hemothorax"
+    ],
+    "Massive head injury"
+   ],
+   "ans": 0,
+   "exp": "Acute circulatory arrest (Book p411)"
+  },
+  {
+   "id": "SURG-C54-026",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Circulation causes of death within the first hour include cardiac tamponade and:",
+   "opts": [
+    "Hemothorax",
+    "Tension pneumothorax",
+    [
+     "Airway obstruction"
+    ],
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Hemothorax (Book p411)"
+  },
+  {
+   "id": "SURG-C54-027",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "The third (days/weeks) peak of trauma mortality is due to:",
+   "opts": [
+    "Infections and delayed head injury",
+    "Massive head injury",
+    [
+     "Cardiac tamponade"
+    ],
+    "Tension pneumothorax"
+   ],
+   "ans": 0,
+   "exp": "Infections and delayed head injury (Book p411)"
+  },
+  {
+   "id": "SURG-C54-028",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "The golden hour is the:",
+   "opts": [
+    "1st hour following trauma",
+    "1st 30 minutes",
+    [
+     "First 2 hours"
+    ],
+    "First 6 hours"
+   ],
+   "ans": 0,
+   "exp": "1st hour following trauma (Book p411)"
+  },
+  {
+   "id": "SURG-C54-029",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Care provided during the golden hour:",
+   "opts": [
+    "↓ mortality",
+    "↑ mortality",
+    [
+     "No effect"
+    ],
+    "Only ↓ morbidity"
+   ],
+   "ans": 0,
+   "exp": "↓ mortality (Book p411)"
+  },
+  {
+   "id": "SURG-C54-030",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "The golden hour is used as:",
+   "opts": [
+    "A performance metric in trauma centers",
+    "A teaching tool only",
+    [
+     "A legal standard"
+    ],
+    "A triage colour"
+   ],
+   "ans": 0,
+   "exp": "A performance metric in trauma centers (Book p411)"
+  },
+  {
+   "id": "SURG-C54-031",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Triage literally means:",
+   "opts": [
+    "Sort out",
+    "Prioritize surgery",
+    [
+     "Stabilize"
+    ],
+    "Transport"
+   ],
+   "ans": 0,
+   "exp": "Sort out (Book p411)"
+  },
+  {
+   "id": "SURG-C54-032",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Triage is done in:",
+   "opts": [
+    "Mass casualty events to prioritize treatment",
+    "Single victim events",
+    [
+     "OPD queues"
+    ],
+    "Ward rounds"
+   ],
+   "ans": 0,
+   "exp": "Mass casualty events to prioritize treatment (Book p411)"
+  },
+  {
+   "id": "SURG-C54-033",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "The standard triage system uses how many colour codes?",
+   "opts": [
+    "Four",
+    "Three",
+    [
+     "Five"
+    ],
+    "Six"
+   ],
+   "ans": 0,
+   "exp": "Four (Book p411)"
+  },
+  {
+   "id": "SURG-C54-034",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Triage P1 (Emergency) is coded:",
+   "opts": [
+    "Red",
+    "Yellow",
+    [
+     "Green"
+    ],
+    "Blue"
+   ],
+   "ans": 0,
+   "exp": "Red (Book p411)"
+  },
+  {
+   "id": "SURG-C54-035",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Red (P1) triage includes:",
+   "opts": [
+    "Causes which kill within 1 hour (immediate Rx required)",
+    "All fractures",
+    [
+     "Walking wounded"
+    ],
+    "Moribund patients"
+   ],
+   "ans": 0,
+   "exp": "Causes which kill within 1 hour (immediate Rx required) (Book p411)"
+  },
+  {
+   "id": "SURG-C54-036",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Triage P2 (Urgent) is coded:",
+   "opts": [
+    "Yellow",
+    "Red",
+    [
+     "Green"
+    ],
+    "Blue"
+   ],
+   "ans": 0,
+   "exp": "Yellow (Book p411)"
+  },
+  {
+   "id": "SURG-C54-037",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Yellow (P2) triage includes:",
+   "opts": [
+    "All fractures (definitive Rx can wait)",
+    "Causes killing within 1 hour",
+    [
+     "Minor bruises"
+    ],
+    "Dead bodies"
+   ],
+   "ans": 0,
+   "exp": "All fractures (definitive Rx can wait) (Book p411)"
+  },
+  {
+   "id": "SURG-C54-038",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Triage P3 (Delayed) is coded:",
+   "opts": [
+    "Green",
+    "Yellow",
+    [
+     "Blue"
+    ],
+    "Black"
+   ],
+   "ans": 0,
+   "exp": "Green (Book p411)"
+  },
+  {
+   "id": "SURG-C54-039",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Green (P3) triage includes:",
+   "opts": [
+    "Walking, wounded patients with minor bruises/lacerations (first aid)",
+    "All fractures",
+    [
+     "Moribund patients"
+    ],
+    "Airway obstruction"
+   ],
+   "ans": 0,
+   "exp": "Walking, wounded patients with minor bruises/lacerations (first aid) (Book p411)"
+  },
+  {
+   "id": "SURG-C54-040",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Triage P4 (Expectant) is coded:",
+   "opts": [
+    "Blue",
+    "Green",
+    [
+     "Black"
+    ],
+    "Yellow"
+   ],
+   "ans": 0,
+   "exp": "Blue (Book p411)"
+  },
+  {
+   "id": "SURG-C54-041",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Blue (P4) triage includes:",
+   "opts": [
+    "Moribund patients (alleviation of pain done; definitive Rx not possible)",
+    "Walking wounded",
+    [
+     "All fractures"
+    ],
+    "Red category"
+   ],
+   "ans": 0,
+   "exp": "Moribund patients (alleviation of pain done; definitive Rx not possible) (Book p411)"
+  },
+  {
+   "id": "SURG-C54-042",
+   "sec": "Timeline Concept, Golden Hour and Triage",
+   "page": 411,
+   "q": "Dead bodies in triage are coded:",
+   "opts": [
+    "Black",
+    "Blue",
+    [
+     "Grey"
+    ],
+    "Purple"
+   ],
+   "ans": 0,
+   "exp": "Black (Book p411)"
+  },
+  {
+   "id": "SURG-C54-043",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "ATLS follows the sequence:",
+   "opts": [
+    "ABCD: Airway → Breathing → Circulation → Disability",
+    "CABD",
+    [
+     "ABDC"
+    ],
+    "DCBA"
+   ],
+   "ans": 0,
+   "exp": "ABCD: Airway → Breathing → Circulation → Disability (Book p412)"
+  },
+  {
+   "id": "SURG-C54-044",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "In the field (accident) setting the sequence becomes CABCDE, where C stands for:",
+   "opts": [
+    "Control of exsanguinating hemorrhage",
+    "Cervical spine",
+    [
+     "Circulation"
+    ],
+    "Compressions"
+   ],
+   "ans": 0,
+   "exp": "Control of exsanguinating hemorrhage (Book p412)"
+  },
+  {
+   "id": "SURG-C54-045",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "BLS (basic life support) follows:",
+   "opts": [
+    "CAB (for cardiac arrest/collapse)",
+    "ABC",
+    [
+     "ABCD"
+    ],
+    "DRSABC"
+   ],
+   "ans": 0,
+   "exp": "CAB (for cardiac arrest/collapse) (Book p412)"
+  },
+  {
+   "id": "SURG-C54-046",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The primary survey covers:",
+   "opts": [
+    "ABCD + life threatening injuries (red category)",
+    "Detailed survey for injuries",
+    [
+     "Post-extubation review"
+    ],
+    "Only imaging"
+   ],
+   "ans": 0,
+   "exp": "ABCD + life threatening injuries (red category) (Book p412)"
+  },
+  {
+   "id": "SURG-C54-047",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The secondary survey is:",
+   "opts": [
+    "Detailed survey for injuries",
+    "ABCD + red category",
+    [
+     "Post extubation survey"
+    ],
+    "Scene survey"
+   ],
+   "ans": 0,
+   "exp": "Detailed survey for injuries (Book p412)"
+  },
+  {
+   "id": "SURG-C54-048",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The tertiary survey is done:",
+   "opts": [
+    "Post extubation of intubated patient",
+    "At admission",
+    [
+     "In the field"
+    ],
+    "Before primary survey"
+   ],
+   "ans": 0,
+   "exp": "Post extubation of intubated patient (Book p412)"
+  },
+  {
+   "id": "SURG-C54-049",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "A pro of whole body CT over 2° survey is:",
+   "opts": [
+    "Quick assessment",
+    "Less radiation",
+    [
+     "Cheaper"
+    ],
+    "No contrast"
+   ],
+   "ans": 0,
+   "exp": "Quick assessment (Book p412)"
+  },
+  {
+   "id": "SURG-C54-050",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "Cons of whole body CT include ↑ amount of radiation and:",
+   "opts": [
+    "Only done in stable patients",
+    "Slow",
+    [
+     "Cannot see bone"
+    ],
+    "Needs MRI backup"
+   ],
+   "ans": 0,
+   "exp": "Only done in stable patients (Book p412)"
+  },
+  {
+   "id": "SURG-C54-051",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "In the primary survey, examination of the C-spine must be done:",
+   "opts": [
+    "Before airway",
+    "After breathing",
+    [
+     "After circulation"
+    ],
+    "Last"
+   ],
+   "ans": 0,
+   "exp": "Before airway (Book p412)"
+  },
+  {
+   "id": "SURG-C54-052",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The C-spine clearance criteria used are the:",
+   "opts": [
+    "NEXUS criteria",
+    "Canadian CT head rules",
+    [
+     "PECARN rules"
+    ],
+    "MIST criteria"
+   ],
+   "ans": 0,
+   "exp": "NEXUS criteria (Book p412)"
+  },
+  {
+   "id": "SURG-C54-053",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "NEXUS stands for National Emergency X-Radiography Utilisation Study; its 'N' component is:",
+   "opts": [
+    "Neuro deficit",
+    "Nausea",
+    [
+     "Neck pain only"
+    ],
+    "Numbness"
+   ],
+   "ans": 0,
+   "exp": "Neuro deficit (Book p412)"
+  },
+  {
+   "id": "SURG-C54-054",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The 'E' in the NEXUS list refers to:",
+   "opts": [
+    "Ethanol (alcohol intoxication)",
+    "Emesis",
+    [
+     "Epilepsy"
+    ],
+    "Edema"
+   ],
+   "ans": 0,
+   "exp": "Ethanol (alcohol intoxication) (Book p412)"
+  },
+  {
+   "id": "SURG-C54-055",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The 'X' in the NEXUS list refers to:",
+   "opts": [
+    "eXtreme distracting injury",
+    "X-ray abnormality",
+    [
+     "Crossed signs"
+    ],
+    "Exsanguination"
+   ],
+   "ans": 0,
+   "exp": "eXtreme distracting injury (Book p412)"
+  },
+  {
+   "id": "SURG-C54-056",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The 'U' in the NEXUS list refers to:",
+   "opts": [
+    "Unable to provide history (altered consciousness)",
+    "Unconscious only",
+    [
+     "Unstable vitals"
+    ],
+    "Unwitnessed event"
+   ],
+   "ans": 0,
+   "exp": "Unable to provide history (altered consciousness) (Book p412)"
+  },
+  {
+   "id": "SURG-C54-057",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The 'S' in the NEXUS list refers to:",
+   "opts": [
+    "Spinal tenderness (midline)",
+    "Sensory loss",
+    [
+     "Seatbelt sign"
+    ],
+    "Swelling"
+   ],
+   "ans": 0,
+   "exp": "Spinal tenderness (midline) (Book p412)"
+  },
+  {
+   "id": "SURG-C54-058",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "If any NEXUS sign is +ve, apply a Philadelphia collar plus:",
+   "opts": [
+    "C-spine imaging",
+    "MRI brain",
+    [
+     "CT chest"
+    ],
+    "No imaging"
+   ],
+   "ans": 0,
+   "exp": "C-spine imaging (Book p412)"
+  },
+  {
+   "id": "SURG-C54-059",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "If all NEXUS signs are −ve:",
+   "opts": [
+    "No imaging required",
+    "X-ray mandatory",
+    [
+     "CT mandatory"
+    ],
+    "MRI mandatory"
+   ],
+   "ans": 0,
+   "exp": "No imaging required (Book p412)"
+  },
+  {
+   "id": "SURG-C54-060",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The easiest method of airway assessment is to:",
+   "opts": [
+    "Ask the patient to speak",
+    "Look for stridor",
+    [
+     "Use capnography"
+    ],
+    "Attempt intubation"
+   ],
+   "ans": 0,
+   "exp": "Ask the patient to speak (Book p412)"
+  },
+  {
+   "id": "SURG-C54-061",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "A sign of compromised airway (indication for intubation) is:",
+   "opts": [
+    "Unable to speak",
+    "Speaking in full sentences",
+    [
+     "Coughing effectively"
+    ],
+    "Hoarse but speaking"
+   ],
+   "ans": 0,
+   "exp": "Unable to speak (Book p412)"
+  },
+  {
+   "id": "SURG-C54-062",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "Another indication for intubation is GCS:",
+   "opts": [
+    "≤8",
+    "≤10",
+    [
+     "≤12"
+    ],
+    "≤6"
+   ],
+   "ans": 0,
+   "exp": "≤8 (Book p412)"
+  },
+  {
+   "id": "SURG-C54-063",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "Unexplained confusion and coma are also:",
+   "opts": [
+    "Indications for intubation",
+    "Contraindications to intubation",
+    [
+     "Indications for NIV"
+    ],
+    "Indications for tracheostomy"
+   ],
+   "ans": 0,
+   "exp": "Indications for intubation (Book p412)"
+  },
+  {
+   "id": "SURG-C54-064",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The device shown to assist intubation is the:",
+   "opts": [
+    "Videolaryngoscope",
+    "Fibroscope",
+    [
+     "Bougie"
+    ],
+    "Laryngeal mask"
+   ],
+   "ans": 0,
+   "exp": "Videolaryngoscope (Book p412)"
+  },
+  {
+   "id": "SURG-C54-065",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "page": 412,
+   "q": "The supraglottic device illustrated on p412 is the:",
+   "opts": [
+    "Laryngeal mask airway",
+    "Combitube",
+    [
+     "King LT"
+    ],
+    "Endotracheal tube"
+   ],
+   "ans": 0,
+   "exp": "Laryngeal mask airway (Book p412)"
+  },
+  {
+   "id": "SURG-C54-066",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "When endotracheal intubation is possible, the m/c route is:",
+   "opts": [
+    "Orotracheal",
+    "Nasotracheal",
+    [
+     "Tracheostomy"
+    ],
+    "Cricothyroidotomy"
+   ],
+   "ans": 0,
+   "exp": "Orotracheal (Book p413)"
+  },
+  {
+   "id": "SURG-C54-067",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Nasotracheal intubation is C/I in:",
+   "opts": [
+    "Skull base fractures",
+    "Facial soft tissue injury",
+    [
+     "Trismus"
+    ],
+    "Cervical spine injury"
+   ],
+   "ans": 0,
+   "exp": "Skull base fractures (Book p413)"
+  },
+  {
+   "id": "SURG-C54-068",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "When endotracheal intubation is not possible, the emergency intervention is:",
+   "opts": [
+    "Needle cricothyroidotomy",
+    "Surgical tracheostomy",
+    [
+     "Retrograde intubation"
+    ],
+    "Bag-mask forever"
+   ],
+   "ans": 0,
+   "exp": "Needle cricothyroidotomy (Book p413)"
+  },
+  {
+   "id": "SURG-C54-069",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Needle cricothyroidotomy is followed by definitive management with:",
+   "opts": [
+    "Tracheostomy",
+    "Orotracheal intubation",
+    [
+     "LMA"
+    ],
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Tracheostomy (Book p413)"
+  },
+  {
+   "id": "SURG-C54-070",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Needle cricothyroidotomy is performed through the:",
+   "opts": [
+    "Cricothyroid membrane",
+    "Thyrohyoid membrane",
+    [
+     "Tracheal rings 2-3"
+    ],
+    "Cricoid cartilage"
+   ],
+   "ans": 0,
+   "exp": "Cricothyroid membrane (Book p413)"
+  },
+  {
+   "id": "SURG-C54-071",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "In needle cricothyroidotomy, high flow O2 via Y-connector is given:",
+   "opts": [
+    "1 sec on + 4 sec off",
+    "2 sec on + 2 sec off",
+    [
+     "Continuous"
+    ],
+    "5 sec on + 5 sec off"
+   ],
+   "ans": 0,
+   "exp": "1 sec on + 4 sec off (Book p413)"
+  },
+  {
+   "id": "SURG-C54-072",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Needle cricothyroidotomy can be maintained for:",
+   "opts": [
+    "Up to 15-30 min",
+    "Up to 5 min",
+    [
+     "Up to 2 hours"
+    ],
+    "Up to 6 hours"
+   ],
+   "ans": 0,
+   "exp": "Up to 15-30 min (Book p413)"
+  },
+  {
+   "id": "SURG-C54-073",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Beyond 15-30 min of needle cricothyroidotomy, what accumulates?",
+   "opts": [
+    "CO2 (retention takes place)",
+    "O2",
+    [
+     "Nitrogen"
+    ],
+    "Secretions only"
+   ],
+   "ans": 0,
+   "exp": "CO2 (retention takes place) (Book p413)"
+  },
+  {
+   "id": "SURG-C54-074",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Breathing assessment includes chest examination with auscultation and:",
+   "opts": [
+    "Pulse oximetry",
+    "Capnography only",
+    [
+     "ABG only"
+    ],
+    "Peak flow"
+   ],
+   "ans": 0,
+   "exp": "Pulse oximetry (Book p413)"
+  },
+  {
+   "id": "SURG-C54-075",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "The breathing adjunct imaging includes chest AP views plus pelvic and:",
+   "opts": [
+    "Cervical X-ray",
+    "Lumbar X-ray",
+    [
+     "Skull X-ray"
+    ],
+    "Shoulder X-ray"
+   ],
+   "ans": 0,
+   "exp": "Cervical X-ray (Book p413)"
+  },
+  {
+   "id": "SURG-C54-076",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "eFAST stands for:",
+   "opts": [
+    "Focused Assessment Sonography in Trauma (extended)",
+    "Fast Assessment Sonography in Trauma",
+    [
+     "Focused Abdominal Sonography in Trauma"
+    ],
+    "Extended Fast Abdominal Scan"
+   ],
+   "ans": 0,
+   "exp": "Focused Assessment Sonography in Trauma (extended) (Book p413)"
+  },
+  {
+   "id": "SURG-C54-077",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Pulse oximetry, imaging and eFAST in the breathing step are classed as:",
+   "opts": [
+    "Adjuncts",
+    "Primary steps",
+    [
+     "Definitive steps"
+    ],
+    "Tertiary steps"
+   ],
+   "ans": 0,
+   "exp": "Adjuncts (Book p413)"
+  },
+  {
+   "id": "SURG-C54-078",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Minimum IV access in the circulation step is:",
+   "opts": [
+    "Two 16G IV lines",
+    "One 18G line",
+    [
+     "Two 14G lines"
+    ],
+    "One 16G line"
+   ],
+   "ans": 0,
+   "exp": "Two 16G IV lines (Book p413)"
+  },
+  {
+   "id": "SURG-C54-079",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "After securing IV lines, the initial fluid given is:",
+   "opts": [
+    "1 litre of fluid",
+    "2 litres",
+    [
+     "500 mL"
+    ],
+    "3 litres"
+   ],
+   "ans": 0,
+   "exp": "1 litre of fluid (Book p413)"
+  },
+  {
+   "id": "SURG-C54-080",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "If IV access is not possible, an emergency option is:",
+   "opts": [
+    "Intraosseous infusion",
+    "Central line first",
+    [
+     "Venous cut-down first"
+    ],
+    "Oral fluids"
+   ],
+   "ans": 0,
+   "exp": "Intraosseous infusion (Book p413)"
+  },
+  {
+   "id": "SURG-C54-081",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "Intraosseous infusion in trauma is inserted:",
+   "opts": [
+    "Just below the tibial tuberosity",
+    "Above the tibial tuberosity",
+    [
+     "Distal tibia"
+    ],
+    "Proximal humerus only"
+   ],
+   "ans": 0,
+   "exp": "Just below the tibial tuberosity (Book p413)"
+  },
+  {
+   "id": "SURG-C54-082",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "The other emergency vascular access is venous cut-down of the:",
+   "opts": [
+    "Great saphenous vein at the medial malleolus",
+    "Cephalic vein at wrist",
+    [
+     "Femoral vein at groin"
+    ],
+    "Basilic vein at elbow"
+   ],
+   "ans": 0,
+   "exp": "Great saphenous vein at the medial malleolus (Book p413)"
+  },
+  {
+   "id": "SURG-C54-083",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "The definitive vascular intervention in the circulation step is a:",
+   "opts": [
+    "Central line",
+    "Arterial line",
+    [
+     "Midline catheter"
+    ],
+    "PICC"
+   ],
+   "ans": 0,
+   "exp": "Central line (Book p413)"
+  },
+  {
+   "id": "SURG-C54-084",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "page": 413,
+   "q": "In trauma, the m/c central line site is the:",
+   "opts": [
+    "IJV",
+    "Subclavian vein",
+    [
+     "Femoral vein"
+    ],
+    "PICC"
+   ],
+   "ans": 0,
+   "exp": "IJV (Book p413)"
+  },
+  {
+   "id": "SURG-C54-085",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "ATLS 10th edition advises a fluid bolus of:",
+   "opts": [
+    "1 litre instead of 2 litres (more judicious)",
+    "2 litres instead of 1",
+    [
+     "500 mL only"
+    ],
+    "3 litres"
+   ],
+   "ans": 0,
+   "exp": "1 litre instead of 2 litres (more judicious) (Book p414)"
+  },
+  {
+   "id": "SURG-C54-086",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "The CRASH-2 trial trigger for tranexamic acid is SBP <90 mmHg and/or HR:",
+   "opts": [
+    ">110/min",
+    ">90/min",
+    [
+     ">130/min"
+    ],
+    ">100/min"
+   ],
+   "ans": 0,
+   "exp": ">110/min (Book p414)"
+  },
+  {
+   "id": "SURG-C54-087",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "CRASH-2 TXA regimen to reduce mortality is:",
+   "opts": [
+    "1 gm over 10 mins f/b 1 gm over 8 hours",
+    "1 gm over 1 hour f/b 1 gm over 24 hours",
+    [
+     "2 gm bolus only"
+    ],
+    "500 mg tds"
+   ],
+   "ans": 0,
+   "exp": "1 gm over 10 mins f/b 1 gm over 8 hours (Book p414)"
+  },
+  {
+   "id": "SURG-C54-088",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "The 'Disability' step of ATLS uses the:",
+   "opts": [
+    "GCS (Glasgow Coma Scale)",
+    "Pupils only",
+    [
+     "AVPU only"
+    ],
+    "NIHSS"
+   ],
+   "ans": 0,
+   "exp": "GCS (Glasgow Coma Scale) (Book p414)"
+  },
+  {
+   "id": "SURG-C54-089",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS eye opening spontaneously scores:",
+   "opts": [
+    "4",
+    "3",
+    [
+     "2"
+    ],
+    "1"
+   ],
+   "ans": 0,
+   "exp": "4 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-090",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS eye opening to speech scores:",
+   "opts": [
+    "3",
+    "4",
+    [
+     "2"
+    ],
+    "1"
+   ],
+   "ans": 0,
+   "exp": "3 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-091",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS eye opening to pain scores:",
+   "opts": [
+    "2",
+    "3",
+    [
+     "1"
+    ],
+    "4"
+   ],
+   "ans": 0,
+   "exp": "2 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-092",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best verbal oriented to time, place and person scores:",
+   "opts": [
+    "5",
+    "4",
+    [
+     "6"
+    ],
+    "3"
+   ],
+   "ans": 0,
+   "exp": "5 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-093",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best verbal 'confused' scores:",
+   "opts": [
+    "4",
+    "5",
+    [
+     "3"
+    ],
+    "2"
+   ],
+   "ans": 0,
+   "exp": "4 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-094",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best verbal 'inappropriate words' scores:",
+   "opts": [
+    "3",
+    "4",
+    [
+     "2"
+    ],
+    "1"
+   ],
+   "ans": 0,
+   "exp": "3 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-095",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best verbal 'incomprehensible sounds' scores:",
+   "opts": [
+    "2",
+    "3",
+    [
+     "1"
+    ],
+    "4"
+   ],
+   "ans": 0,
+   "exp": "2 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-096",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best motor 'obeys commands' scores:",
+   "opts": [
+    "6",
+    "5",
+    [
+     "4"
+    ],
+    "3"
+   ],
+   "ans": 0,
+   "exp": "6 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-097",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best motor 'moves to localised pain' scores:",
+   "opts": [
+    "5",
+    "6",
+    [
+     "4"
+    ],
+    "3"
+   ],
+   "ans": 0,
+   "exp": "5 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-098",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best motor 'flexion withdrawal from pain' scores:",
+   "opts": [
+    "4",
+    "5",
+    [
+     "3"
+    ],
+    "2"
+   ],
+   "ans": 0,
+   "exp": "4 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-099",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best motor abnormal flexion (decorticate) scores:",
+   "opts": [
+    "3",
+    "4",
+    [
+     "2"
+    ],
+    "1"
+   ],
+   "ans": 0,
+   "exp": "3 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-100",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS best motor abnormal extension (decerebrate) scores:",
+   "opts": [
+    "2",
+    "3",
+    [
+     "1"
+    ],
+    "4"
+   ],
+   "ans": 0,
+   "exp": "2 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-101",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "The motor score is recorded using the:",
+   "opts": [
+    "Single best criteria",
+    "Sum of both sides",
+    [
+     "Worst side"
+    ],
+    "Average"
+   ],
+   "ans": 0,
+   "exp": "Single best criteria (Book p414)"
+  },
+  {
+   "id": "SURG-C54-102",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "Mild head injury corresponds to GCS:",
+   "opts": [
+    "13-15",
+    "9-12",
+    [
+     "≤8"
+    ],
+    "15 only"
+   ],
+   "ans": 0,
+   "exp": "13-15 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-103",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "Moderate head injury corresponds to GCS:",
+   "opts": [
+    "9-12",
+    "13-15",
+    [
+     "≤8"
+    ],
+    "6-8"
+   ],
+   "ans": 0,
+   "exp": "9-12 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-104",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "Severe head injury corresponds to GCS:",
+   "opts": [
+    "≤8",
+    "9-12",
+    [
+     "13-15"
+    ],
+    "<5"
+   ],
+   "ans": 0,
+   "exp": "≤8 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-105",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS has to be measured:",
+   "opts": [
+    "Serially",
+    "Once only",
+    [
+     "Only at discharge"
+    ],
+    "Only pre-hospital"
+   ],
+   "ans": 0,
+   "exp": "Serially (Book p414)"
+  },
+  {
+   "id": "SURG-C54-106",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "If eye and motor responses are not testable, they are recorded as:",
+   "opts": [
+    "E_NT and M_NT",
+    "E0 and M0",
+    [
+     "E1 and M1"
+    ],
+    "Ex and Mx"
+   ],
+   "ans": 0,
+   "exp": "E_NT and M_NT (Book p414)"
+  },
+  {
+   "id": "SURG-C54-107",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "If the patient is intubated, the verbal score is recorded as:",
+   "opts": [
+    "V_NT (not V_T)",
+    "V1",
+    [
+     "V0"
+    ],
+    "V_T"
+   ],
+   "ans": 0,
+   "exp": "V_NT (not V_T) (Book p414)"
+  },
+  {
+   "id": "SURG-C54-108",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "GCS(P) score equals:",
+   "opts": [
+    "GCS − PRS",
+    "GCS + PRS",
+    [
+     "GCS × PRS"
+    ],
+    "GCS ÷ PRS"
+   ],
+   "ans": 0,
+   "exp": "GCS − PRS (Book p414)"
+  },
+  {
+   "id": "SURG-C54-109",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "PRS (pupil reactivity score) when both pupils are unreactive to light is:",
+   "opts": [
+    "2",
+    "1",
+    [
+     "0"
+    ],
+    "3"
+   ],
+   "ans": 0,
+   "exp": "2 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-110",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "PRS when one pupil is unreactive to light is:",
+   "opts": [
+    "1",
+    "2",
+    [
+     "0"
+    ],
+    "3"
+   ],
+   "ans": 0,
+   "exp": "1 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-111",
+   "sec": "ATLS Updates, Disability and GCS",
+   "page": 414,
+   "q": "PRS when neither pupil is unreactive is:",
+   "opts": [
+    "0",
+    "1",
+    [
+     "2"
+    ],
+    "−1"
+   ],
+   "ans": 0,
+   "exp": "0 (Book p414)"
+  },
+  {
+   "id": "SURG-C54-112",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "Log roll is done to:",
+   "opts": [
+    "Examine a patient's back",
+    "Move the patient to trolley",
+    [
+     "Apply a binder"
+    ],
+    "Check pelvic stability"
+   ],
+   "ans": 0,
+   "exp": "Examine a patient's back (Book p415)"
+  },
+  {
+   "id": "SURG-C54-113",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "Number of people required for a log roll is:",
+   "opts": [
+    "4 people",
+    "3 people",
+    [
+     "5 people"
+    ],
+    "6 people"
+   ],
+   "ans": 0,
+   "exp": "4 people (Book p415)"
+  },
+  {
+   "id": "SURG-C54-114",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "If a limb fracture is present, log roll requires:",
+   "opts": [
+    "5 people",
+    "4 people",
+    [
+     "6 people"
+    ],
+    "3 people"
+   ],
+   "ans": 0,
+   "exp": "5 people (Book p415)"
+  },
+  {
+   "id": "SURG-C54-115",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "Log roll has minimal role in pelvic fracture because it may:",
+   "opts": [
+    "Dislodge clot and cause bleed",
+    "Cause pain only",
+    [
+     "Worsen spinal injury"
+    ],
+    "Delay imaging"
+   ],
+   "ans": 0,
+   "exp": "Dislodge clot and cause bleed (Book p415)"
+  },
+  {
+   "id": "SURG-C54-116",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "Log roll also has minimal role in:",
+   "opts": [
+    "Abdominal trauma",
+    "Thoracic trauma",
+    [
+     "Head trauma"
+    ],
+    "Limbs trauma"
+   ],
+   "ans": 0,
+   "exp": "Abdominal trauma (Book p415)"
+  },
+  {
+   "id": "SURG-C54-117",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "The exception where log roll helps in abdominal trauma is:",
+   "opts": [
+    "Penetrating abdominal injury, to check if the wound has gone through",
+    "Blunt solid organ injury",
+    [
+     "Pelvic hematoma"
+    ],
+    "Retroperitoneal bleed"
+   ],
+   "ans": 0,
+   "exp": "Penetrating abdominal injury, to check if the wound has gone through (Book p415)"
+  },
+  {
+   "id": "SURG-C54-118",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "A pelvic binder is used in trauma patients with:",
+   "opts": [
+    "Suspected pelvic fractures",
+    "Confirmed isolated hip fracture",
+    [
+     "Suspected rib fractures"
+    ],
+    "Suspected femur fracture"
+   ],
+   "ans": 0,
+   "exp": "Suspected pelvic fractures (Book p415)"
+  },
+  {
+   "id": "SURG-C54-119",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "A pelvic binder must be kept until:",
+   "opts": [
+    "The fracture has been ruled out",
+    "X-ray is done only",
+    [
+     "24 hours"
+    ],
+    "Surgery"
+   ],
+   "ans": 0,
+   "exp": "The fracture has been ruled out (Book p415)"
+  },
+  {
+   "id": "SURG-C54-120",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "If a pelvic binder is unavailable:",
+   "opts": [
+    "Tie a long cloth around the hip",
+    "Use a thoracic bandage",
+    [
+     "Apply traction"
+    ],
+    "Leave unpadded"
+   ],
+   "ans": 0,
+   "exp": "Tie a long cloth around the hip (Book p415)"
+  },
+  {
+   "id": "SURG-C54-121",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "The Injury Severity Score (ISS) is calculated from:",
+   "opts": [
+    "Abbreviated injury score (AIS) of top 3 injuries squared and added",
+    "AIS of all injuries added",
+    [
+     "GCS + AIS"
+    ],
+    "AIS of worst injury squared"
+   ],
+   "ans": 0,
+   "exp": "Abbreviated injury score (AIS) of top 3 injuries squared and added (Book p415)"
+  },
+  {
+   "id": "SURG-C54-122",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "The Revised Trauma Score (RTS) measures:",
+   "opts": [
+    "Glasgow Coma Scale, systolic BP and respiratory rate",
+    "GCS, HR and temperature",
+    [
+     "GCS, ISS and age"
+    ],
+    "BP, HR and urine output"
+   ],
+   "ans": 0,
+   "exp": "Glasgow Coma Scale, systolic BP and respiratory rate (Book p415)"
+  },
+  {
+   "id": "SURG-C54-123",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "The score that gives information about survival of a trauma patient is:",
+   "opts": [
+    "TRISS (Trauma Score and Injury Severity Score)",
+    "ISS",
+    [
+     "RTS"
+    ],
+    "MESS"
+   ],
+   "ans": 0,
+   "exp": "TRISS (Trauma Score and Injury Severity Score) (Book p415)"
+  },
+  {
+   "id": "SURG-C54-124",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "TRISS parameters include RTS, ISS, mechanism of injury and:",
+   "opts": [
+    "Age",
+    "Sex",
+    [
+     "Comorbidity"
+    ],
+    "Weight"
+   ],
+   "ans": 0,
+   "exp": "Age (Book p415)"
+  },
+  {
+   "id": "SURG-C54-125",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "MESS stands for:",
+   "opts": [
+    "Mangled Extremity Severity Score",
+    "Major Extremity Severity Score",
+    [
+     "Mangled Extremity Salvage Score"
+    ],
+    "Multiple Extremity Severity Score"
+   ],
+   "ans": 0,
+   "exp": "Mangled Extremity Severity Score (Book p415)"
+  },
+  {
+   "id": "SURG-C54-126",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 415,
+   "q": "MESS parameters include type of injury, ischemia group, shock group and:",
+   "opts": [
+    "Age group",
+    "Weight group",
+    [
+     "Sex"
+    ],
+    "Comorbidity group"
+   ],
+   "ans": 0,
+   "exp": "Age group (Book p415)"
+  },
+  {
+   "id": "SURG-C54-127",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 416,
+   "q": "A MESS score of ≤6 is consistent with:",
+   "opts": [
+    "A salvageable limb",
+    "Amputation",
+    [
+     "Infection"
+    ],
+    "Non-union"
+   ],
+   "ans": 0,
+   "exp": "A salvageable limb (Book p416)"
+  },
+  {
+   "id": "SURG-C54-128",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores",
+   "page": 416,
+   "q": "A MESS score of ≥7 means the eventual result is:",
+   "opts": [
+    "Amputation",
+    "Salvage",
+    [
+     "Arthrodesis"
+    ],
+    "Grafting"
+   ],
+   "ans": 0,
+   "exp": "Amputation (Book p416)"
+  },
+  {
+   "id": "SURG-C54-129",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The metabolic response to trauma is described as:",
+   "opts": [
+    "Ebb and flow",
+    "Fight and flight",
+    [
+     "Shock and recovery"
+    ],
+    "Catabolism only"
+   ],
+   "ans": 0,
+   "exp": "Ebb and flow (Book p416)"
+  },
+  {
+   "id": "SURG-C54-130",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The ebb phase lasts:",
+   "opts": [
+    "<24 hrs",
+    "3-10 days",
+    [
+     "10-60 days"
+    ],
+    "48-72 hrs"
+   ],
+   "ans": 0,
+   "exp": "<24 hrs (Book p416)"
+  },
+  {
+   "id": "SURG-C54-131",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The role of the ebb phase is:",
+   "opts": [
+    "Maintaining blood volume",
+    "Maintenance of energy",
+    [
+     "Replacement of lost tissue"
+    ],
+    "Wound healing"
+   ],
+   "ans": 0,
+   "exp": "Maintaining blood volume (Book p416)"
+  },
+  {
+   "id": "SURG-C54-132",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "Physiologically the ebb phase shows:",
+   "opts": [
+    "↓ BMR, temp, O2 consumption with vasoconstriction",
+    "↑ BMR, temp, O2 consumption",
+    [
+     "+ve N2 balance"
+    ],
+    "Hypermetabolism"
+   ],
+   "ans": 0,
+   "exp": "↓ BMR, temp, O2 consumption with vasoconstriction (Book p416)"
+  },
+  {
+   "id": "SURG-C54-133",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The ebb phase also shows ↑ CO2, HR and:",
+   "opts": [
+    "Acute phase proteins",
+    "Albumin",
+    [
+     "Transferrin"
+    ],
+    "Prealbumin"
+   ],
+   "ans": 0,
+   "exp": "Acute phase proteins (Book p416)"
+  },
+  {
+   "id": "SURG-C54-134",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "Hormones of the ebb phase are:",
+   "opts": [
+    "Catecholamines, cortisol, aldosterone",
+    "Insulin, glucagon",
+    [
+     "Growth hormone, IGF"
+    ],
+    "Thyroxine, insulin"
+   ],
+   "ans": 0,
+   "exp": "Catecholamines, cortisol, aldosterone (Book p416)"
+  },
+  {
+   "id": "SURG-C54-135",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The catabolic phase lasts:",
+   "opts": [
+    "3-10 days",
+    "<24 hrs",
+    [
+     "10-60 days"
+    ],
+    "1-2 days"
+   ],
+   "ans": 0,
+   "exp": "3-10 days (Book p416)"
+  },
+  {
+   "id": "SURG-C54-136",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The role of the catabolic phase is:",
+   "opts": [
+    "Maintenance of energy",
+    "Maintaining blood volume",
+    [
+     "Replacement of lost tissue"
+    ],
+    "Coagulation"
+   ],
+   "ans": 0,
+   "exp": "Maintenance of energy (Book p416)"
+  },
+  {
+   "id": "SURG-C54-137",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "Physiologically the catabolic phase shows ↑ BMR, temp, O2 consumption and:",
+   "opts": [
+    "−ve N2 balance",
+    "+ve N2 balance",
+    [
+     "Zero N2 balance"
+    ],
+    "Vasoconstriction"
+   ],
+   "ans": 0,
+   "exp": "−ve N2 balance (Book p416)"
+  },
+  {
+   "id": "SURG-C54-138",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "Hormones of the catabolic phase include ↑ insulin, glucagon, cortisol and catecholamines with:",
+   "opts": [
+    "Insulin resistance",
+    "Insulin sensitivity",
+    [
+     "Hypoglycemia"
+    ],
+    "Lipogenesis"
+   ],
+   "ans": 0,
+   "exp": "Insulin resistance (Book p416)"
+  },
+  {
+   "id": "SURG-C54-139",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The anabolic phase is also called the:",
+   "opts": [
+    "Moore phase",
+    "Cuthbertson phase",
+    [
+     "Flow phase"
+    ],
+    "Recovery phase"
+   ],
+   "ans": 0,
+   "exp": "Moore phase (Book p416)"
+  },
+  {
+   "id": "SURG-C54-140",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The anabolic (Moore) phase lasts:",
+   "opts": [
+    "10-60 days",
+    "3-10 days",
+    [
+     "<24 hrs"
+    ],
+    "60-90 days"
+   ],
+   "ans": 0,
+   "exp": "10-60 days (Book p416)"
+  },
+  {
+   "id": "SURG-C54-141",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The role of the anabolic phase is:",
+   "opts": [
+    "Replacement of lost tissue",
+    "Maintaining blood volume",
+    [
+     "Maintenance of energy"
+    ],
+    "Hemostasis"
+   ],
+   "ans": 0,
+   "exp": "Replacement of lost tissue (Book p416)"
+  },
+  {
+   "id": "SURG-C54-142",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "The anabolic phase shows:",
+   "opts": [
+    "+ve N2 balance",
+    "−ve N2 balance",
+    [
+     "↑ BMR"
+    ],
+    "Vasoconstriction"
+   ],
+   "ans": 0,
+   "exp": "+ve N2 balance (Book p416)"
+  },
+  {
+   "id": "SURG-C54-143",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "Hormones of the anabolic phase are:",
+   "opts": [
+    "Growth hormone and IGF",
+    "Catecholamines and cortisol",
+    [
+     "Insulin and glucagon"
+    ],
+    "Aldosterone and renin"
+   ],
+   "ans": 0,
+   "exp": "Growth hormone and IGF (Book p416)"
+  },
+  {
+   "id": "SURG-C54-144",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "Adequate resuscitation can ↓ the duration and extent of the:",
+   "opts": [
+    "Ebb phase",
+    "Catabolic phase",
+    [
+     "Anabolic phase"
+    ],
+    "Flow phase"
+   ],
+   "ans": 0,
+   "exp": "Ebb phase (Book p416)"
+  },
+  {
+   "id": "SURG-C54-145",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow",
+   "page": 416,
+   "q": "Patients in the catabolic phase require ↑:",
+   "opts": [
+    "Protein intake",
+    "Fat intake",
+    [
+     "Carbohydrate only"
+    ],
+    "Fluid restriction"
+   ],
+   "ans": 0,
+   "exp": "Protein intake (Book p416)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U54-1",
+   "ch": 54,
+   "n": 1,
+   "title": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal",
+   "sec": "Pre-Hospital Care: Approach, MIST/AMPLE, Transport and Helmet Removal · p410",
+   "qs": [
+    "SURG-C54-001",
+    "SURG-C54-002",
+    "SURG-C54-003",
+    "SURG-C54-004",
+    "SURG-C54-005",
+    "SURG-C54-006",
+    "SURG-C54-007",
+    "SURG-C54-008",
+    "SURG-C54-009",
+    "SURG-C54-010",
+    "SURG-C54-011",
+    "SURG-C54-012",
+    "SURG-C54-013",
+    "SURG-C54-014",
+    "SURG-C54-015",
+    "SURG-C54-016",
+    "SURG-C54-017",
+    "SURG-C54-018",
+    "SURG-C54-019",
+    "SURG-C54-020",
+    "SURG-C54-021"
+   ],
+   "guide": "Pre-hospital care starts by evaluating the scene, initial assessment, deciding triage transport and pairing critical investigations with patient transport. Responders hand over MIST (mechanism, injuries, signs & symptoms, treatment given) while the patient gives AMPLE (allergies, medical conditions, past history, last meal — vital for intubation — and events leading to trauma). Patients travel supine on a hard board with head, thorax and pelvis strapped, prone only to prevent aspiration and never lateral because the C-spine cannot be stabilised; helmets come off with two people, one restricting cervical movement while the other removes the helmet then helps stabilise the spine."
+  },
+  {
+   "id": "SURG-U54-2",
+   "ch": 54,
+   "n": 2,
+   "title": "Timeline Concept, Golden Hour and Triage",
+   "sec": "Timeline Concept, Golden Hour and Triage · p411",
+   "qs": [
+    "SURG-C54-022",
+    "SURG-C54-023",
+    "SURG-C54-024",
+    "SURG-C54-025",
+    "SURG-C54-026",
+    "SURG-C54-027",
+    "SURG-C54-028",
+    "SURG-C54-029",
+    "SURG-C54-030",
+    "SURG-C54-031",
+    "SURG-C54-032",
+    "SURG-C54-033",
+    "SURG-C54-034",
+    "SURG-C54-035",
+    "SURG-C54-036",
+    "SURG-C54-037",
+    "SURG-C54-038",
+    "SURG-C54-039",
+    "SURG-C54-040",
+    "SURG-C54-041",
+    "SURG-C54-042"
+   ],
+   "guide": "Trauma deaths follow a trimodal curve: immediate deaths from massive head injury, a saveable first-hour wave from airway obstruction and tracheobronchial injury (airway), tension/open pneumothorax and acute circulatory arrest (breathing) or cardiac tamponade and hemothorax (circulation), and a late days-to-weeks peak from infections and delayed head injury. The golden hour — the first hour after trauma — cuts mortality when care is delivered and benchmarks trauma centers. Triage sorts mass casualties into red P1 emergencies that kill within an hour, yellow P2 urgents including all fractures, green P3 delayed walking wounded, blue P4 expectant moribund patients given pain relief only, and black for the dead."
+  },
+  {
+   "id": "SURG-U54-3",
+   "ch": 54,
+   "n": 3,
+   "title": "ATLS: Surveys, C-spine (NEXUS) and Airway",
+   "sec": "ATLS: Surveys, C-spine (NEXUS) and Airway · p412",
+   "qs": [
+    "SURG-C54-043",
+    "SURG-C54-044",
+    "SURG-C54-045",
+    "SURG-C54-046",
+    "SURG-C54-047",
+    "SURG-C54-048",
+    "SURG-C54-049",
+    "SURG-C54-050",
+    "SURG-C54-051",
+    "SURG-C54-052",
+    "SURG-C54-053",
+    "SURG-C54-054",
+    "SURG-C54-055",
+    "SURG-C54-056",
+    "SURG-C54-057",
+    "SURG-C54-058",
+    "SURG-C54-059",
+    "SURG-C54-060",
+    "SURG-C54-061",
+    "SURG-C54-062",
+    "SURG-C54-063",
+    "SURG-C54-064",
+    "SURG-C54-065"
+   ],
+   "guide": "ATLS runs ABCD (airway, breathing, circulation, disability), becomes CABCDE in the field with C for control of exsanguinating hemorrhage, while BLS for arrest uses CAB. The primary survey hunts ABCD plus life-threatening red-category injuries, the secondary survey details all injuries and the tertiary survey repeats after extubation; whole body CT is quick but radiation-heavy and only for stable patients. C-spine is examined before the airway using NEXUS (neuro deficit, ethanol, extreme distracting injury, unable to give history, midline spinal tenderness): any positive mandates a Philadelphia collar and C-spine imaging, all negative needs none. Asking the patient to speak is the easiest airway test; inability to speak, GCS ≤8, unexplained confusion or coma indicate intubation, assisted by videolaryngoscopy or bridged with a laryngeal mask airway."
+  },
+  {
+   "id": "SURG-U54-4",
+   "ch": 54,
+   "n": 4,
+   "title": "Definitive Airway, Breathing Adjuncts and Circulation",
+   "sec": "Definitive Airway, Breathing Adjuncts and Circulation · p413",
+   "qs": [
+    "SURG-C54-066",
+    "SURG-C54-067",
+    "SURG-C54-068",
+    "SURG-C54-069",
+    "SURG-C54-070",
+    "SURG-C54-071",
+    "SURG-C54-072",
+    "SURG-C54-073",
+    "SURG-C54-074",
+    "SURG-C54-075",
+    "SURG-C54-076",
+    "SURG-C54-077",
+    "SURG-C54-078",
+    "SURG-C54-079",
+    "SURG-C54-080",
+    "SURG-C54-081",
+    "SURG-C54-082",
+    "SURG-C54-083",
+    "SURG-C54-084"
+   ],
+   "guide": "A definitive airway is orotracheal intubation (m/c) when possible, nasotracheal being contraindicated in skull base fractures; when impossible, needle cricothyroidotomy through the cricothyroid membrane buys 15-30 minutes of high-flow O2 given 1 sec on and 4 sec off via a Y-connector before CO2 retention, with tracheostomy as definitive management. Breathing is checked by chest auscultation and pulse oximetry with adjunct imaging (chest AP, pelvic and cervical X-rays) and eFAST (focused assessment sonography in trauma). Circulation demands two 16G lines and 1 litre of fluid; failing that, intraosseous infusion just below the tibial tuberosity or great saphenous cut-down at the medial malleolus bridge to a definitive central line, internal jugular in trauma."
+  },
+  {
+   "id": "SURG-U54-5",
+   "ch": 54,
+   "n": 5,
+   "title": "ATLS Updates, Disability and GCS",
+   "sec": "ATLS Updates, Disability and GCS · p414",
+   "qs": [
+    "SURG-C54-085",
+    "SURG-C54-086",
+    "SURG-C54-087",
+    "SURG-C54-088",
+    "SURG-C54-089",
+    "SURG-C54-090",
+    "SURG-C54-091",
+    "SURG-C54-092",
+    "SURG-C54-093",
+    "SURG-C54-094",
+    "SURG-C54-095",
+    "SURG-C54-096",
+    "SURG-C54-097",
+    "SURG-C54-098",
+    "SURG-C54-099",
+    "SURG-C54-100",
+    "SURG-C54-101",
+    "SURG-C54-102",
+    "SURG-C54-103",
+    "SURG-C54-104",
+    "SURG-C54-105",
+    "SURG-C54-106",
+    "SURG-C54-107",
+    "SURG-C54-108",
+    "SURG-C54-109",
+    "SURG-C54-110",
+    "SURG-C54-111"
+   ],
+   "guide": "ATLS 10th edition trims the bolus to 1 litre instead of 2, and CRASH-2 gives tranexamic acid 1 gm over 10 minutes then 1 gm over 8 hours when SBP <90 mmHg or HR >110/min to cut mortality. Disability is graded by GCS: eyes 4-1, verbal 5-1, motor 6-1 (single best response), totalling 13-15 mild, 9-12 moderate and ≤8 severe, measured serially; untestable eye/motor components are tagged NT and an intubated patient's verbal score is V_NT. The GCS(P) subtracts the pupil reactivity score — 2 for both pupils unreactive, 1 for one, 0 for neither — from the GCS."
+  },
+  {
+   "id": "SURG-U54-6",
+   "ch": 54,
+   "n": 6,
+   "title": "Log Roll, Pelvic Binder and Severity Scores",
+   "sec": "Log Roll, Pelvic Binder and Severity Scores · p415",
+   "qs": [
+    "SURG-C54-112",
+    "SURG-C54-113",
+    "SURG-C54-114",
+    "SURG-C54-115",
+    "SURG-C54-116",
+    "SURG-C54-117",
+    "SURG-C54-118",
+    "SURG-C54-119",
+    "SURG-C54-120",
+    "SURG-C54-121",
+    "SURG-C54-122",
+    "SURG-C54-123",
+    "SURG-C54-124",
+    "SURG-C54-125",
+    "SURG-C54-126",
+    "SURG-C54-127",
+    "SURG-C54-128"
+   ],
+   "guide": "Log rolling exposes the back with four people (five with a limb fracture) but has minimal role in pelvic fracture, where it may dislodge clot and restart bleeding, and in blunt abdominal trauma — except penetrating wounds, where it checks through-and-through track. Suspected pelvic fractures get a binder kept until fracture is excluded, or a long cloth tied around the hips if none exists. Severity scoring: ISS squares and sums the AIS of the top three injuries; RTS uses GCS, systolic BP and respiratory rate; TRISS (RTS, ISS, mechanism, age) predicts survival; MESS (type of injury, ischemia, shock, age groups) guides limbs — ≤6 salvageable, ≥7 destined for amputation."
+  },
+  {
+   "id": "SURG-U54-7",
+   "ch": 54,
+   "n": 7,
+   "title": "Metabolic Response to Trauma: Ebb and Flow",
+   "sec": "Metabolic Response to Trauma: Ebb and Flow · p416",
+   "qs": [
+    "SURG-C54-129",
+    "SURG-C54-130",
+    "SURG-C54-131",
+    "SURG-C54-132",
+    "SURG-C54-133",
+    "SURG-C54-134",
+    "SURG-C54-135",
+    "SURG-C54-136",
+    "SURG-C54-137",
+    "SURG-C54-138",
+    "SURG-C54-139",
+    "SURG-C54-140",
+    "SURG-C54-141",
+    "SURG-C54-142",
+    "SURG-C54-143",
+    "SURG-C54-144",
+    "SURG-C54-145"
+   ],
+   "guide": "The metabolic response to trauma ebbs then flows: the ebb phase (<24 h) preserves blood volume with lowered BMR, temperature and O2 consumption, vasoconstriction and raised CO2, heart rate and acute phase proteins under catecholamines, cortisol and aldosterone. The catabolic phase (3-10 days) maintains energy with raised BMR, temperature and O2 consumption and negative nitrogen balance driven by insulin, glucagon, cortisol and catecholamines amid insulin resistance, needing extra protein; the anabolic Moore phase (10-60 days) replaces lost tissue with positive nitrogen balance under growth hormone and IGF. Good resuscitation shortens the ebb phase."
+  }
+ ]
+}

@@ -1,0 +1,2041 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C51-001",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "The chapter 'Plastic Surgery : Part 1' is placed under which book section?",
+   "opts": [
+    "Speciality Surgery",
+    "Trauma Surgery",
+    "Vascular Surgery",
+    "Hernia"
+   ],
+   "ans": 0,
+   "exp": "Speciality Surgery (Book p386)"
+  },
+  {
+   "id": "SURG-C51-002",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "An autograft is a graft taken from:",
+   "opts": [
+    "Same person",
+    "Identical twin",
+    "Same species",
+    "Different species"
+   ],
+   "ans": 0,
+   "exp": "Same person (Book p386)"
+  },
+  {
+   "id": "SURG-C51-003",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "An isograft is a graft taken from:",
+   "opts": [
+    "Identical twin",
+    "Same person",
+    "Same species",
+    "Different species"
+   ],
+   "ans": 0,
+   "exp": "Identical twin (Book p386)"
+  },
+  {
+   "id": "SURG-C51-004",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "An allograft is a graft taken from:",
+   "opts": [
+    "Same species",
+    "Same person",
+    "Identical twin",
+    "Different species"
+   ],
+   "ans": 0,
+   "exp": "Same species (Book p386)"
+  },
+  {
+   "id": "SURG-C51-005",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "A xenograft is a graft taken from:",
+   "opts": [
+    "Different species",
+    "Same person",
+    "Identical twin",
+    "Same species"
+   ],
+   "ans": 0,
+   "exp": "Different species (Book p386)"
+  },
+  {
+   "id": "SURG-C51-006",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Grafts differ from flaps in that grafts:",
+   "opts": [
+    "Don't have their own blood supply",
+    "Have their own blood supply",
+    "Are always full thickness",
+    "Never take on the recipient"
+   ],
+   "ans": 0,
+   "exp": "Don't have their own blood supply (Book p386)"
+  },
+  {
+   "id": "SURG-C51-007",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Grafts survive by relying on:",
+   "opts": [
+    "Recipient tissue",
+    "Donor tissue",
+    "Their own pedicle",
+    "Dermal plexus of the graft"
+   ],
+   "ans": 0,
+   "exp": "Recipient tissue (Book p386)"
+  },
+  {
+   "id": "SURG-C51-008",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Flaps, unlike grafts:",
+   "opts": [
+    "Have their own blood supply",
+    "Rely on recipient tissue",
+    "Are always meshed",
+    "Never survive primarily"
+   ],
+   "ans": 0,
+   "exp": "Have their own blood supply (Book p386)"
+  },
+  {
+   "id": "SURG-C51-009",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Split thickness skin graft (STSG) is also known as:",
+   "opts": [
+    "Thiersch graft",
+    "Wolfe graft",
+    "Pinch graft",
+    "Tube graft"
+   ],
+   "ans": 0,
+   "exp": "Thiersch graft (Book p386)"
+  },
+  {
+   "id": "SURG-C51-010",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "STSG is described as a:",
+   "opts": [
+    "Thin graft",
+    "Whole skin graft",
+    "Thick graft",
+    "Composite graft"
+   ],
+   "ans": 0,
+   "exp": "Thin graft (Book p386)"
+  },
+  {
+   "id": "SURG-C51-011",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Full thickness skin graft (FTSG) is also known as:",
+   "opts": [
+    "Wolfe graft",
+    "Thiersch graft",
+    "Mesh graft",
+    "Flap graft"
+   ],
+   "ans": 0,
+   "exp": "Wolfe graft (Book p386)"
+  },
+  {
+   "id": "SURG-C51-012",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "FTSG consists of:",
+   "opts": [
+    "Whole skin",
+    "Epidermis only",
+    "Parts of dermis only",
+    "Skin with muscle"
+   ],
+   "ans": 0,
+   "exp": "Whole skin (Book p386)"
+  },
+  {
+   "id": "SURG-C51-013",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "The m/c donor site for STSG is:",
+   "opts": [
+    "Anterolateral thigh",
+    "Buttocks",
+    "Axilla",
+    "Post-auricular region"
+   ],
+   "ans": 0,
+   "exp": "Anterolateral thigh (Book p386)"
+  },
+  {
+   "id": "SURG-C51-014",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Another donor site listed for STSG is:",
+   "opts": [
+    "Buttocks",
+    "Anterolateral thigh only",
+    "Axilla",
+    "Infraclavicular fossa"
+   ],
+   "ans": 0,
+   "exp": "Buttocks (Book p386)"
+  },
+  {
+   "id": "SURG-C51-015",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "A donor site for FTSG is:",
+   "opts": [
+    "Infra/supraclavicular fossa",
+    "Anterolateral thigh",
+    "Buttocks",
+    "Scalp"
+   ],
+   "ans": 0,
+   "exp": "Infra/supraclavicular fossa (Book p386)"
+  },
+  {
+   "id": "SURG-C51-016",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Another donor site for FTSG is:",
+   "opts": [
+    "Post-auricular region",
+    "Axilla",
+    "Buttocks",
+    "Anterolateral thigh"
+   ],
+   "ans": 0,
+   "exp": "Post-auricular region (Book p386)"
+  },
+  {
+   "id": "SURG-C51-017",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "FTSG is never harvested from:",
+   "opts": [
+    "Axilla",
+    "Post-auricular region",
+    "Infraclavicular fossa",
+    "Supraclavicular fossa"
+   ],
+   "ans": 0,
+   "exp": "Axilla (Book p386)"
+  },
+  {
+   "id": "SURG-C51-018",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Donor site mortality with STSG is:",
+   "opts": [
+    "Minimal (only dressing required)",
+    "Higher (sutures required)",
+    "Absent always",
+    "Needs grafting of donor site"
+   ],
+   "ans": 0,
+   "exp": "Minimal (only dressing required) (Book p386)"
+  },
+  {
+   "id": "SURG-C51-019",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "After STSG harvest the donor site:",
+   "opts": [
+    "Can be re-used",
+    "Cannot be re-used",
+    "Needs suturing",
+    "Needs a flap"
+   ],
+   "ans": 0,
+   "exp": "Can be re-used (Book p386)"
+  },
+  {
+   "id": "SURG-C51-020",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Donor site mortality with FTSG is:",
+   "opts": [
+    "Higher (sutures required)",
+    "Minimal (only dressing required)",
+    "Nil",
+    "Same as STSG"
+   ],
+   "ans": 0,
+   "exp": "Higher (sutures required) (Book p386)"
+  },
+  {
+   "id": "SURG-C51-021",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "After FTSG harvest the donor site:",
+   "opts": [
+    "Cannot be re-used",
+    "Can be re-used",
+    "Epithelialises from dermal remnants",
+    "Needs no closure"
+   ],
+   "ans": 0,
+   "exp": "Cannot be re-used (Book p386)"
+  },
+  {
+   "id": "SURG-C51-022",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "STSG is composed of:",
+   "opts": [
+    "Epidermis + parts of dermis",
+    "Epidermis + entire dermis",
+    "Epidermis only",
+    "Entire dermis only"
+   ],
+   "ans": 0,
+   "exp": "Epidermis + parts of dermis (Book p386)"
+  },
+  {
+   "id": "SURG-C51-023",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "FTSG is composed of:",
+   "opts": [
+    "Epidermis + entire dermis",
+    "Epidermis + parts of dermis",
+    "Epidermis only",
+    "Dermis + fat"
+   ],
+   "ans": 0,
+   "exp": "Epidermis + entire dermis (Book p386)"
+  },
+  {
+   "id": "SURG-C51-024",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Primary contracture in STSG is:",
+   "opts": [
+    "Less",
+    "More",
+    "Absent",
+    "Same as FTSG"
+   ],
+   "ans": 0,
+   "exp": "Less (Book p386)"
+  },
+  {
+   "id": "SURG-C51-025",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Primary contracture in FTSG is:",
+   "opts": [
+    "More",
+    "Less",
+    "Absent",
+    "Same as STSG"
+   ],
+   "ans": 0,
+   "exp": "More (Book p386)"
+  },
+  {
+   "id": "SURG-C51-026",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Secondary contracture in STSG is:",
+   "opts": [
+    "More",
+    "Less",
+    "Absent",
+    "Same as FTSG"
+   ],
+   "ans": 0,
+   "exp": "More (Book p386)"
+  },
+  {
+   "id": "SURG-C51-027",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Secondary contracture in FTSG is:",
+   "opts": [
+    "Less",
+    "More",
+    "Absent",
+    "Same as STSG"
+   ],
+   "ans": 0,
+   "exp": "Less (Book p386)"
+  },
+  {
+   "id": "SURG-C51-028",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Survival/take-up of STSG is:",
+   "opts": [
+    "Better",
+    "Worse",
+    "Equal to FTSG",
+    "Unpredictable"
+   ],
+   "ans": 0,
+   "exp": "Better (Book p386)"
+  },
+  {
+   "id": "SURG-C51-029",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Survival/take-up of FTSG is:",
+   "opts": [
+    "Worse",
+    "Better",
+    "Equal to STSG",
+    "Always complete"
+   ],
+   "ans": 0,
+   "exp": "Worse (Book p386)"
+  },
+  {
+   "id": "SURG-C51-030",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "To trauma, STSG is:",
+   "opts": [
+    "Less resistant",
+    "More resistant",
+    "Fully resistant",
+    "Equal to FTSG"
+   ],
+   "ans": 0,
+   "exp": "Less resistant (Book p386)"
+  },
+  {
+   "id": "SURG-C51-031",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "To trauma, FTSG is:",
+   "opts": [
+    "More resistant",
+    "Less resistant",
+    "Fragile always",
+    "Equal to STSG"
+   ],
+   "ans": 0,
+   "exp": "More resistant (Book p386)"
+  },
+  {
+   "id": "SURG-C51-032",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Cosmetic result of STSG is:",
+   "opts": [
+    "Worse (darkens with time)",
+    "Better colour matching",
+    "Identical to FTSG",
+    "Always excellent"
+   ],
+   "ans": 0,
+   "exp": "Worse (darkens with time) (Book p386)"
+  },
+  {
+   "id": "SURG-C51-033",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "page": 386,
+   "q": "Cosmetic result of FTSG is:",
+   "opts": [
+    "Better colour matching",
+    "Worse (darkens with time)",
+    "Same as STSG",
+    "Poor always"
+   ],
+   "ans": 0,
+   "exp": "Better colour matching (Book p386)"
+  },
+  {
+   "id": "SURG-C51-034",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "1° contracture is:",
+   "opts": [
+    "Graft shrinkage upon lifting from donor site",
+    "Graft shrinkage upon placing at recipient site",
+    "Graft shrinkage after 4 days",
+    "Graft shrinkage due to infection"
+   ],
+   "ans": 0,
+   "exp": "Graft shrinkage upon lifting from donor site (Book p387)"
+  },
+  {
+   "id": "SURG-C51-035",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "1° contracture is proportional to:",
+   "opts": [
+    "Dermis",
+    "1/dermis",
+    "Epidermis",
+    "Fat"
+   ],
+   "ans": 0,
+   "exp": "Dermis (Book p387)"
+  },
+  {
+   "id": "SURG-C51-036",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "2° contracture is:",
+   "opts": [
+    "Graft shrinkage upon placing at recipient site",
+    "Graft shrinkage upon lifting from donor site",
+    "Shrinkage during storage",
+    "Shrinkage during meshing"
+   ],
+   "ans": 0,
+   "exp": "Graft shrinkage upon placing at recipient site (Book p387)"
+  },
+  {
+   "id": "SURG-C51-037",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "2° contracture is proportional to:",
+   "opts": [
+    "1/dermis",
+    "Dermis",
+    "Epidermis",
+    "Mesh ratio"
+   ],
+   "ans": 0,
+   "exp": "1/dermis (Book p387)"
+  },
+  {
+   "id": "SURG-C51-038",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Meshing means:",
+   "opts": [
+    "Cuts made to STSG",
+    "Cuts made to FTSG",
+    "Suturing the graft edges",
+    "Debriding the recipient bed"
+   ],
+   "ans": 0,
+   "exp": "Cuts made to STSG (Book p387)"
+  },
+  {
+   "id": "SURG-C51-039",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Meshing increases the surface area of STSG by:",
+   "opts": [
+    "1.5 times",
+    "2.5 times",
+    "3 times",
+    "0.5 times"
+   ],
+   "ans": 0,
+   "exp": "1.5 times (Book p387)"
+  },
+  {
+   "id": "SURG-C51-040",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Meshing of STSG prevents:",
+   "opts": [
+    "Seroma formation",
+    "Infection",
+    "Shearing",
+    "Contracture"
+   ],
+   "ans": 0,
+   "exp": "Seroma formation (Book p387)"
+  },
+  {
+   "id": "SURG-C51-041",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "The first phase of graft survival is:",
+   "opts": [
+    "Imbibition",
+    "Inosculation",
+    "Neovascularisation",
+    "Epithelialisation"
+   ],
+   "ans": 0,
+   "exp": "Imbibition (Book p387)"
+  },
+  {
+   "id": "SURG-C51-042",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Imbibition lasts:",
+   "opts": [
+    "24-48 hours",
+    "2-4 days",
+    "After 4 days",
+    "6-12 hours"
+   ],
+   "ans": 0,
+   "exp": "24-48 hours (Book p387)"
+  },
+  {
+   "id": "SURG-C51-043",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "In imbibition the graft is nourished by:",
+   "opts": [
+    "Plasmatic transfer of nutrients",
+    "Buds from donor",
+    "New vessels from both ends",
+    "Direct arterial inflow"
+   ],
+   "ans": 0,
+   "exp": "Plasmatic transfer of nutrients (Book p387)"
+  },
+  {
+   "id": "SURG-C51-044",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "The second phase of graft survival is:",
+   "opts": [
+    "Inosculation",
+    "Imbibition",
+    "Neovascularisation",
+    "Organisation"
+   ],
+   "ans": 0,
+   "exp": "Inosculation (Book p387)"
+  },
+  {
+   "id": "SURG-C51-045",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Inosculation occurs at:",
+   "opts": [
+    "2-4 days",
+    "24-48 hours",
+    "After 4 days",
+    "Day 7-10"
+   ],
+   "ans": 0,
+   "exp": "2-4 days (Book p387)"
+  },
+  {
+   "id": "SURG-C51-046",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "In inosculation:",
+   "opts": [
+    "Buds from donor extract nutrition",
+    "Plasma imbibes into the graft",
+    "Both ends form new vessels",
+    "Lymphatics reconnect first"
+   ],
+   "ans": 0,
+   "exp": "Buds from donor extract nutrition (Book p387)"
+  },
+  {
+   "id": "SURG-C51-047",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Neovascularisation begins:",
+   "opts": [
+    "After 4 days",
+    "At 24-48 hours",
+    "At 2-4 days",
+    "Within 12 hours"
+   ],
+   "ans": 0,
+   "exp": "After 4 days (Book p387)"
+  },
+  {
+   "id": "SURG-C51-048",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "In neovascularisation:",
+   "opts": [
+    "Both ends form new vessels",
+    "Plasmatic transfer feeds the graft",
+    "Only donor buds feed the graft",
+    "No vessels form"
+   ],
+   "ans": 0,
+   "exp": "Both ends form new vessels (Book p387)"
+  },
+  {
+   "id": "SURG-C51-049",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "The m/c cause of graft failure is:",
+   "opts": [
+    "Seroma/hematoma beneath the graft",
+    "Infection",
+    "Movement",
+    "Poor recipient bed"
+   ],
+   "ans": 0,
+   "exp": "Seroma/hematoma beneath the graft (Book p387)"
+  },
+  {
+   "id": "SURG-C51-050",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Seroma/hematoma causes graft failure by:",
+   "opts": [
+    "Lifting the graft up and hampering imbibition",
+    "Shearing the graft",
+    "Infecting the graft",
+    "Devascularising the donor site"
+   ],
+   "ans": 0,
+   "exp": "Lifting the graft up and hampering imbibition (Book p387)"
+  },
+  {
+   "id": "SURG-C51-051",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Infection causing graft failure is classically due to:",
+   "opts": [
+    "β-hemolytic streptococci and staphylococcus",
+    "Pseudomonas only",
+    "E. coli only",
+    "Anaerobes only"
+   ],
+   "ans": 0,
+   "exp": "β-hemolytic streptococci and staphylococcus (Book p387)"
+  },
+  {
+   "id": "SURG-C51-052",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Movement causes graft failure through:",
+   "opts": [
+    "Shearing force",
+    "Compression",
+    "Tension",
+    "Torsion"
+   ],
+   "ans": 0,
+   "exp": "Shearing force (Book p387)"
+  },
+  {
+   "id": "SURG-C51-053",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "A poor recipient bed causes graft failure due to:",
+   "opts": [
+    "↑ fibrotic/granulation tissue",
+    "↑ vascularity",
+    "↓ bacterial load",
+    "Excess periosteum"
+   ],
+   "ans": 0,
+   "exp": "↑ fibrotic/granulation tissue (Book p387)"
+  },
+  {
+   "id": "SURG-C51-054",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Excess fibrotic/granulation tissue on a recipient bed must be:",
+   "opts": [
+    "Debrided",
+    "Grafted over directly",
+    "Left to mature",
+    "Injected with steroids"
+   ],
+   "ans": 0,
+   "exp": "Debrided (Book p387)"
+  },
+  {
+   "id": "SURG-C51-055",
+   "sec": "Contracture, Meshing and Graft Survival",
+   "page": 387,
+   "q": "Grafts take poorly on beds lacking:",
+   "opts": [
+    "Periosteum/perichondrium/perineurium",
+    "Muscle",
+    "Fat",
+    "Fascia"
+   ],
+   "ans": 0,
+   "exp": "Periosteum/perichondrium/perineurium (Book p387)"
+  },
+  {
+   "id": "SURG-C51-056",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "A flap is defined as:",
+   "opts": [
+    "A piece of tissue having its own blood supply",
+    "A piece of tissue without blood supply",
+    "A free graft of whole skin",
+    "A meshed split graft"
+   ],
+   "ans": 0,
+   "exp": "A piece of tissue having its own blood supply (Book p388)"
+  },
+  {
+   "id": "SURG-C51-057",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Random flaps are rotated on:",
+   "opts": [
+    "Dermal plexus",
+    "A named artery",
+    "Muscle perforators",
+    "Fascial plexus only"
+   ],
+   "ans": 0,
+   "exp": "Dermal plexus (Book p388)"
+  },
+  {
+   "id": "SURG-C51-058",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Random flaps are based on:",
+   "opts": [
+    "Dermal blood supply",
+    "Named blood vessel",
+    "Axial vessels",
+    "Perforator vessels"
+   ],
+   "ans": 0,
+   "exp": "Dermal blood supply (Book p388)"
+  },
+  {
+   "id": "SURG-C51-059",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "The ideal length : breadth ratio of a random flap is:",
+   "opts": [
+    "3:1",
+    "1:1",
+    "2:1",
+    "4:1"
+   ],
+   "ans": 0,
+   "exp": "3:1 (Book p388)"
+  },
+  {
+   "id": "SURG-C51-060",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Long flaps with a narrower base:",
+   "opts": [
+    "Do not survive",
+    "Survive best",
+    "Need delay always",
+    "Become axial"
+   ],
+   "ans": 0,
+   "exp": "Do not survive (Book p388)"
+  },
+  {
+   "id": "SURG-C51-061",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "A use of random flaps is:",
+   "opts": [
+    "Post burn contractures",
+    "Mandibular reconstruction",
+    "Breast reconstruction",
+    "Tip of nose reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Post burn contractures (Book p388)"
+  },
+  {
+   "id": "SURG-C51-062",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Another use of random flaps is:",
+   "opts": [
+    "Cleft palate repair",
+    "Floor of mouth cancer",
+    "Pilonidal sinus",
+    "Eyelid reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Cleft palate repair (Book p388)"
+  },
+  {
+   "id": "SURG-C51-063",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Angles that can be made in Z-plasty include:",
+   "opts": [
+    "30°, 45° and 60°",
+    "15°, 30° and 45°",
+    "45°, 60° and 90°",
+    "Only 60°"
+   ],
+   "ans": 0,
+   "exp": "30°, 45° and 60° (Book p388)"
+  },
+  {
+   "id": "SURG-C51-064",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Z-plasty is used to:",
+   "opts": [
+    "↑ length of wound",
+    "↓ length of wound",
+    "Close circular defects",
+    "Cover bare bone"
+   ],
+   "ans": 0,
+   "exp": "↑ length of wound (Book p388)"
+  },
+  {
+   "id": "SURG-C51-065",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "A 60° angle Z-plasty gives a length gain of:",
+   "opts": [
+    "75%",
+    "50%",
+    "100%",
+    "25%"
+   ],
+   "ans": 0,
+   "exp": "75% (Book p388)"
+  },
+  {
+   "id": "SURG-C51-066",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Maximum elongation in Z-plasty is obtained with the angle:",
+   "opts": [
+    "60°",
+    "30°",
+    "45°",
+    "90°"
+   ],
+   "ans": 0,
+   "exp": "60° (Book p388)"
+  },
+  {
+   "id": "SURG-C51-067",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "V-Y plasty is used for:",
+   "opts": [
+    "Elongation of wound",
+    "Shortening of wound",
+    "Nose tip reconstruction",
+    "Breast reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Elongation of wound (Book p388)"
+  },
+  {
+   "id": "SURG-C51-068",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Rhomboid flap is used for:",
+   "opts": [
+    "Reconstruction of tissue",
+    "Elongation of wound",
+    "Debridement",
+    "Meshing of grafts"
+   ],
+   "ans": 0,
+   "exp": "Reconstruction of tissue (Book p388)"
+  },
+  {
+   "id": "SURG-C51-069",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Rhomboid flap is classically illustrated for:",
+   "opts": [
+    "Basal cell carcinoma",
+    "Pilonidal sinus only",
+    "Melanoma",
+    "Squamous cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Basal cell carcinoma (Book p388)"
+  },
+  {
+   "id": "SURG-C51-070",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "page": 388,
+   "q": "Rhomboid flap is also classically used for:",
+   "opts": [
+    "Pilonidal sinus",
+    "Basal cell carcinoma only",
+    "Bed sore of heel",
+    "Dupuytren contracture"
+   ],
+   "ans": 0,
+   "exp": "Pilonidal sinus (Book p388)"
+  },
+  {
+   "id": "SURG-C51-071",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Bilobed flap is used for:",
+   "opts": [
+    "Tip of nose reconstruction",
+    "Eyelid reconstruction",
+    "Lip reconstruction",
+    "Cheek reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Tip of nose reconstruction (Book p389)"
+  },
+  {
+   "id": "SURG-C51-072",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Bipedicled flap is used for:",
+   "opts": [
+    "Eyelid reconstruction",
+    "Tip of nose reconstruction",
+    "Scalp reconstruction",
+    "Neck reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Eyelid reconstruction (Book p389)"
+  },
+  {
+   "id": "SURG-C51-073",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Bilobed and bipedicled flaps are classically employed in:",
+   "opts": [
+    "Basal cell carcinoma",
+    "Pilonidal sinus",
+    "Burn contracture",
+    "Oral cancer"
+   ],
+   "ans": 0,
+   "exp": "Basal cell carcinoma (Book p389)"
+  },
+  {
+   "id": "SURG-C51-074",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Axial flaps are rotated on:",
+   "opts": [
+    "A named blood vessel",
+    "Dermal plexus",
+    "Random subdermal plexus",
+    "Any vein"
+   ],
+   "ans": 0,
+   "exp": "A named blood vessel (Book p389)"
+  },
+  {
+   "id": "SURG-C51-075",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Unlike free flaps, an axial (pedicled) flap remains:",
+   "opts": [
+    "Attached to donor site",
+    "Disconnected completely",
+    "Frozen for later use",
+    "Attached to recipient only"
+   ],
+   "ans": 0,
+   "exp": "Attached to donor site (Book p389)"
+  },
+  {
+   "id": "SURG-C51-076",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Mathes and Nahai classification classifies:",
+   "opts": [
+    "Axial flaps based on pedicles",
+    "Random flaps based on dermis",
+    "Free flaps based on veins",
+    "Grafts based on thickness"
+   ],
+   "ans": 0,
+   "exp": "Axial flaps based on pedicles (Book p389)"
+  },
+  {
+   "id": "SURG-C51-077",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Mathes-Nahai Type V flaps have:",
+   "opts": [
+    "Dominant pedicle (1) + minor pedicles (multiple)",
+    "Only one pedicle",
+    "Two dominant pedicles",
+    "No dominant pedicle"
+   ],
+   "ans": 0,
+   "exp": "Dominant pedicle (1) + minor pedicles (multiple) (Book p389)"
+  },
+  {
+   "id": "SURG-C51-078",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Examples of Mathes-Nahai Type V flaps are:",
+   "opts": [
+    "Pectoralis major flap and latissimus dorsi flap",
+    "Deltopectoral and radial forearm flaps",
+    "TRAM and DIEP flaps",
+    "Fibular and scapular flaps"
+   ],
+   "ans": 0,
+   "exp": "Pectoralis major flap and latissimus dorsi flap (Book p389)"
+  },
+  {
+   "id": "SURG-C51-079",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "The deltopectoral flap (DP) is based on:",
+   "opts": [
+    "Perforators of internal mammary artery",
+    "Pectoral branch of thoracoacromial artery",
+    "Labial vessels",
+    "Superficial temporal artery"
+   ],
+   "ans": 0,
+   "exp": "Perforators of internal mammary artery (Book p389)"
+  },
+  {
+   "id": "SURG-C51-080",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "The m/c used flap by head and neck surgeons is:",
+   "opts": [
+    "Pectoralis major myocutaneous flap (PMMC)",
+    "Deltopectoral flap",
+    "Latissimus dorsi flap",
+    "Radial forearm flap"
+   ],
+   "ans": 0,
+   "exp": "Pectoralis major myocutaneous flap (PMMC) (Book p389)"
+  },
+  {
+   "id": "SURG-C51-081",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "PMMC is based on:",
+   "opts": [
+    "Pectoral branch of thoracoacromial artery",
+    "Perforators of internal mammary artery",
+    "Labial vessels",
+    "Facial artery"
+   ],
+   "ans": 0,
+   "exp": "Pectoral branch of thoracoacromial artery (Book p389)"
+  },
+  {
+   "id": "SURG-C51-082",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "PMMC flap is classically shown covering:",
+   "opts": [
+    "Floor of mouth cancer",
+    "Tip of nose defect",
+    "Pilonidal sinus",
+    "Breast defect"
+   ],
+   "ans": 0,
+   "exp": "Floor of mouth cancer (Book p389)"
+  },
+  {
+   "id": "SURG-C51-083",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Abbe-Estlander flap is based on:",
+   "opts": [
+    "Labial vessels",
+    "Facial artery",
+    "Internal mammary perforators",
+    "Pectoral branch of thoracoacromial artery"
+   ],
+   "ans": 0,
+   "exp": "Labial vessels (Book p389)"
+  },
+  {
+   "id": "SURG-C51-084",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Abbe-Estlander flap serves the:",
+   "opts": [
+    "Oral cavity, floor and angle of mouth",
+    "Tip of nose",
+    "Eyelid",
+    "Scalp"
+   ],
+   "ans": 0,
+   "exp": "Oral cavity, floor and angle of mouth (Book p389)"
+  },
+  {
+   "id": "SURG-C51-085",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Karapandzic flap is a:",
+   "opts": [
+    "Lip switch flap",
+    "Nose switch flap",
+    "Cheek advancement flap",
+    "Neck rotation flap"
+   ],
+   "ans": 0,
+   "exp": "Lip switch flap (Book p389)"
+  },
+  {
+   "id": "SURG-C51-086",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "page": 389,
+   "q": "Karapandzic flap is used for:",
+   "opts": [
+    "Oral cancer reconstruction",
+    "Nasal reconstruction",
+    "Eyelid reconstruction",
+    "Breast reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Oral cancer reconstruction (Book p389)"
+  },
+  {
+   "id": "SURG-C51-087",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "A flap listed for breast reconstruction is:",
+   "opts": [
+    "Latissimus dorsi flap",
+    "Deltopectoral flap",
+    "Radial forearm flap",
+    "Fibular flap"
+   ],
+   "ans": 0,
+   "exp": "Latissimus dorsi flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-088",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "TRAM stands for:",
+   "opts": [
+    "Transverse rectus abdominis myocutaneous flap",
+    "Transverse rectus abdominis mesh flap",
+    "Total rectus abdominis myocutaneous flap",
+    "Transverse radial artery myocutaneous flap"
+   ],
+   "ans": 0,
+   "exp": "Transverse rectus abdominis myocutaneous flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-089",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "DIEP stands for:",
+   "opts": [
+    "Deep inferior epigastric artery perforator flap",
+    "Deep internal epigastric artery pedicle flap",
+    "Distal inferior epigastric artery perforator flap",
+    "Deep iliac epigastric perforator flap"
+   ],
+   "ans": 0,
+   "exp": "Deep inferior epigastric artery perforator flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-090",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "Tissue included in a TRAM flap is:",
+   "opts": [
+    "Skin + s/c + fat + muscle",
+    "Skin + s/c + fat",
+    "Skin + fat only",
+    "Skin + muscle only"
+   ],
+   "ans": 0,
+   "exp": "Skin + s/c + fat + muscle (Book p390)"
+  },
+  {
+   "id": "SURG-C51-091",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "Tissue included in a DIEP flap is:",
+   "opts": [
+    "Skin + s/c + fat",
+    "Skin + s/c + fat + muscle",
+    "Muscle + fascia",
+    "Skin only"
+   ],
+   "ans": 0,
+   "exp": "Skin + s/c + fat (Book p390)"
+  },
+  {
+   "id": "SURG-C51-092",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "In TRAM, superior epigastric vessels give a:",
+   "opts": [
+    "Axial flap",
+    "Free flap",
+    "Perforator flap",
+    "Random flap"
+   ],
+   "ans": 0,
+   "exp": "Axial flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-093",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "In TRAM, inferior epigastric vessels give a:",
+   "opts": [
+    "Free flap",
+    "Axial flap",
+    "Pedicled random flap",
+    "Conjoined flap"
+   ],
+   "ans": 0,
+   "exp": "Free flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-094",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "Using both epigastric systems in TRAM produces a:",
+   "opts": [
+    "'Supercharged TRAM'",
+    "'Supercharged DIEP'",
+    "Double TRAM",
+    "Turbo LD flap"
+   ],
+   "ans": 0,
+   "exp": "'Supercharged TRAM' (Book p390)"
+  },
+  {
+   "id": "SURG-C51-095",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "A DIEP flap is a:",
+   "opts": [
+    "Free flap",
+    "Axial pedicled flap",
+    "Random flap",
+    "Conjoined flap"
+   ],
+   "ans": 0,
+   "exp": "Free flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-096",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "DIEP flap is based on:",
+   "opts": [
+    "Deep inferior epigastric artery perforator",
+    "Superior epigastric artery",
+    "Superficial inferior epigastric artery",
+    "Internal mammary perforator"
+   ],
+   "ans": 0,
+   "exp": "Deep inferior epigastric artery perforator (Book p390)"
+  },
+  {
+   "id": "SURG-C51-097",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "Abdominal wall morbidity in TRAM is ↑↑ because:",
+   "opts": [
+    "Muscle is removed",
+    "Muscle is preserved",
+    "Skin is thin",
+    "Fat is excess"
+   ],
+   "ans": 0,
+   "exp": "Muscle is removed (Book p390)"
+  },
+  {
+   "id": "SURG-C51-098",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "TRAM flap increases the risk of:",
+   "opts": [
+    "Incisional hernia",
+    "Inguinal hernia",
+    "Femoral hernia",
+    "Umbilical hernia"
+   ],
+   "ans": 0,
+   "exp": "Incisional hernia (Book p390)"
+  },
+  {
+   "id": "SURG-C51-099",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "Abdominal wall morbidity in DIEP is ↓ because:",
+   "opts": [
+    "Muscle is not removed",
+    "Muscle is removed",
+    "Incision is vertical",
+    "Mesh is always used"
+   ],
+   "ans": 0,
+   "exp": "Muscle is not removed (Book p390)"
+  },
+  {
+   "id": "SURG-C51-100",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "The abdominal incision for TRAM/DIEP is:",
+   "opts": [
+    "Elliptical (same for both)",
+    "Vertical midline",
+    "Transverse straight",
+    "Curvilinear oblique"
+   ],
+   "ans": 0,
+   "exp": "Elliptical (same for both) (Book p390)"
+  },
+  {
+   "id": "SURG-C51-101",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "The best flap for breast reconstruction is:",
+   "opts": [
+    "DIEP flap",
+    "TRAM flap",
+    "Latissimus dorsi flap",
+    "SIA flap"
+   ],
+   "ans": 0,
+   "exp": "DIEP flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-102",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "page": 390,
+   "q": "SIA flap stands for:",
+   "opts": [
+    "Superficial inferior epigastric artery flap",
+    "Superior iliac artery flap",
+    "Superficial iliac circumflex artery flap",
+    "Septal inferior epigastric artery flap"
+   ],
+   "ans": 0,
+   "exp": "Superficial inferior epigastric artery flap (Book p390)"
+  },
+  {
+   "id": "SURG-C51-103",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "A free flap is:",
+   "opts": [
+    "Disconnected from donor site with microvascular anastomosis at recipient site",
+    "Left attached to its donor pedicle",
+    "A graft with random supply",
+    "A flap rotated on dermal plexus"
+   ],
+   "ans": 0,
+   "exp": "Disconnected from donor site with microvascular anastomosis at recipient site (Book p391)"
+  },
+  {
+   "id": "SURG-C51-104",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "The radial artery forearm flap is disconnected from:",
+   "opts": [
+    "Arm",
+    "Leg",
+    "Chest",
+    "Back"
+   ],
+   "ans": 0,
+   "exp": "Arm (Book p391)"
+  },
+  {
+   "id": "SURG-C51-105",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "Before excising a radial forearm flap, which test is mandatory?",
+   "opts": [
+    "Allen's test",
+    "Trendelenburg test",
+    "Adson's test",
+    "Finkelstein test"
+   ],
+   "ans": 0,
+   "exp": "Allen's test (Book p391)"
+  },
+  {
+   "id": "SURG-C51-106",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "Allen's test checks:",
+   "opts": [
+    "Radio-ulnar patency",
+    "Brachial patency",
+    "Cephalic vein patency",
+    "Ulnar nerve function"
+   ],
+   "ans": 0,
+   "exp": "Radio-ulnar patency (Book p391)"
+  },
+  {
+   "id": "SURG-C51-107",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "In the modified Allen's test the palm is:",
+   "opts": [
+    "Clenched and blanched with radial and ulnar arteries occluded",
+    "Open and warm",
+    "Elevated only",
+    "Dependent and congested"
+   ],
+   "ans": 0,
+   "exp": "Clenched and blanched with radial and ulnar arteries occluded (Book p391)"
+  },
+  {
+   "id": "SURG-C51-108",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "Allen's positive means:",
+   "opts": [
+    "Ulnar artery released and patent (radial occluded)",
+    "Ulnar artery released and not patent",
+    "Both arteries patent",
+    "Radial artery released and patent"
+   ],
+   "ans": 0,
+   "exp": "Ulnar artery released and patent (radial occluded) (Book p391)"
+  },
+  {
+   "id": "SURG-C51-109",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "Allen's negative means:",
+   "opts": [
+    "Ulnar artery released and not patent",
+    "Ulnar artery released and patent",
+    "Radial artery patent",
+    "Both arteries occluded"
+   ],
+   "ans": 0,
+   "exp": "Ulnar artery released and not patent (Book p391)"
+  },
+  {
+   "id": "SURG-C51-110",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "The vein harvested with the radial artery forearm flap is:",
+   "opts": [
+    "Cephalic vein",
+    "Basilic vein",
+    "Median cubital vein",
+    "Radial venae comitantes only"
+   ],
+   "ans": 0,
+   "exp": "Cephalic vein (Book p391)"
+  },
+  {
+   "id": "SURG-C51-111",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "Muscles labelled around the radial forearm flap harvest are:",
+   "opts": [
+    "Brachioradialis and flexor carpi ulnaris",
+    "Biceps and triceps",
+    "Flexor digitorum profundus only",
+    "Pronator quadratus and supinator"
+   ],
+   "ans": 0,
+   "exp": "Brachioradialis and flexor carpi ulnaris (Book p391)"
+  },
+  {
+   "id": "SURG-C51-112",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "The free fibular flap is based on:",
+   "opts": [
+    "Peroneal vessels",
+    "Anterior tibial vessels",
+    "Posterior tibial vessels",
+    "Popliteal vessels"
+   ],
+   "ans": 0,
+   "exp": "Peroneal vessels (Book p391)"
+  },
+  {
+   "id": "SURG-C51-113",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "The best flap for mandibular reconstruction is:",
+   "opts": [
+    "Free fibular flap",
+    "Radial forearm flap",
+    "PMMC flap",
+    "Scapular flap"
+   ],
+   "ans": 0,
+   "exp": "Free fibular flap (Book p391)"
+  },
+  {
+   "id": "SURG-C51-114",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "In the free fibular flap diagram the artery proximal to the pedicle is:",
+   "opts": [
+    "Popliteal artery",
+    "Femoral artery",
+    "Anterior tibial artery",
+    "Dorsalis pedis artery"
+   ],
+   "ans": 0,
+   "exp": "Popliteal artery (Book p391)"
+  },
+  {
+   "id": "SURG-C51-115",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular",
+   "page": 391,
+   "q": "The fibular pedicle in the diagram is taken with a:",
+   "opts": [
+    "Muscle cuff",
+    "Skin paddle only",
+    "Fascial sleeve only",
+    "Bone-only segment"
+   ],
+   "ans": 0,
+   "exp": "Muscle cuff (Book p391)"
+  },
+  {
+   "id": "SURG-C51-116",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "A composite flap is one with:",
+   "opts": [
+    "More than one component present",
+    "A single component",
+    "No vascular component",
+    "Only skin"
+   ],
+   "ans": 0,
+   "exp": "More than one component present (Book p392)"
+  },
+  {
+   "id": "SURG-C51-117",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "Examples of composite flaps include:",
+   "opts": [
+    "PMMC, TRAM, DIEP",
+    "Z-plasty and V-Y plasty",
+    "Rhomboid and bilobed flaps",
+    "STSG and FTSG"
+   ],
+   "ans": 0,
+   "exp": "PMMC, TRAM, DIEP (Book p392)"
+  },
+  {
+   "id": "SURG-C51-118",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In the conjoined flap diagram, territories A and B are joined by:",
+   "opts": [
+    "Skin over perforators of one mother vessel",
+    "Separate mother vessels",
+    "A vein graft",
+    "No connection"
+   ],
+   "ans": 0,
+   "exp": "Skin over perforators of one mother vessel (Book p392)"
+  },
+  {
+   "id": "SURG-C51-119",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In the chimeric flap diagram, territories A and B each receive:",
+   "opts": [
+    "Perforators from the same mother vessel",
+    "Perforators from different mother vessels",
+    "Direct cutaneous veins",
+    "Random dermal supply"
+   ],
+   "ans": 0,
+   "exp": "Perforators from the same mother vessel (Book p392)"
+  },
+  {
+   "id": "SURG-C51-120",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "The best method of flap monitoring is:",
+   "opts": [
+    "Handheld doppler",
+    "Pinprick method",
+    "Clinical colour only",
+    "Temperature probe only"
+   ],
+   "ans": 0,
+   "exp": "Handheld doppler (Book p392)"
+  },
+  {
+   "id": "SURG-C51-121",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In the pinprick method the flap is pricked to check:",
+   "opts": [
+    "Perfusion (bleeding)",
+    "Sensation",
+    "Tension",
+    "Thickness"
+   ],
+   "ans": 0,
+   "exp": "Perfusion (bleeding) (Book p392)"
+  },
+  {
+   "id": "SURG-C51-122",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In arterial flap failure the temperature is:",
+   "opts": [
+    "Cold",
+    "Warm",
+    "Hot",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Cold (Book p392)"
+  },
+  {
+   "id": "SURG-C51-123",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In venous flap failure the temperature is:",
+   "opts": [
+    "Warm",
+    "Cold",
+    "Cool",
+    "Frozen"
+   ],
+   "ans": 0,
+   "exp": "Warm (Book p392)"
+  },
+  {
+   "id": "SURG-C51-124",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In arterial flap failure the colour is:",
+   "opts": [
+    "Pale",
+    "Congested",
+    "Blue-black",
+    "Flushed"
+   ],
+   "ans": 0,
+   "exp": "Pale (Book p392)"
+  },
+  {
+   "id": "SURG-C51-125",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In venous flap failure the colour is:",
+   "opts": [
+    "Congested",
+    "Pale",
+    "White",
+    "Blanched"
+   ],
+   "ans": 0,
+   "exp": "Congested (Book p392)"
+  },
+  {
+   "id": "SURG-C51-126",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In arterial flap failure capillary refill is:",
+   "opts": [
+    "Delayed",
+    "Quick",
+    "Absent always",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Delayed (Book p392)"
+  },
+  {
+   "id": "SURG-C51-127",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In venous flap failure capillary refill is:",
+   "opts": [
+    "Quick",
+    "Delayed",
+    "Absent",
+    "Normal"
+   ],
+   "ans": 0,
+   "exp": "Quick (Book p392)"
+  },
+  {
+   "id": "SURG-C51-128",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "Pin-prick in arterial flap failure shows:",
+   "opts": [
+    "↓ blood flow",
+    "↑ blood flow",
+    "Brisk bleeding",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "↓ blood flow (Book p392)"
+  },
+  {
+   "id": "SURG-C51-129",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "Pin-prick in venous flap failure shows:",
+   "opts": [
+    "↑ blood flow",
+    "↓ blood flow",
+    "Dry prick",
+    "No bleeding"
+   ],
+   "ans": 0,
+   "exp": "↑ blood flow (Book p392)"
+  },
+  {
+   "id": "SURG-C51-130",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "In skin banking, split thickness skin grafts can be stored for:",
+   "opts": [
+    "2-3 weeks",
+    "2-3 days",
+    "2-3 months",
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "2-3 weeks (Book p392)"
+  },
+  {
+   "id": "SURG-C51-131",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "page": 392,
+   "q": "Skin banking preserves grafts using:",
+   "opts": [
+    "Liquid nitrogen/CO2 snow at 4°C",
+    "Formalin at room temperature",
+    "Saline at 37°C",
+    "Dry ice at −80°C"
+   ],
+   "ans": 0,
+   "exp": "Liquid nitrogen/CO2 snow at 4°C (Book p392)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U51-1",
+   "ch": 51,
+   "n": 1,
+   "title": "Types of Grafts and Skin Grafting: STSG vs FTSG",
+   "sec": "Types of Grafts and Skin Grafting: STSG vs FTSG · p386",
+   "qs": [
+    "SURG-C51-001",
+    "SURG-C51-002",
+    "SURG-C51-003",
+    "SURG-C51-004",
+    "SURG-C51-005",
+    "SURG-C51-006",
+    "SURG-C51-007",
+    "SURG-C51-008",
+    "SURG-C51-009",
+    "SURG-C51-010",
+    "SURG-C51-011",
+    "SURG-C51-012",
+    "SURG-C51-013",
+    "SURG-C51-014",
+    "SURG-C51-015",
+    "SURG-C51-016",
+    "SURG-C51-017",
+    "SURG-C51-018",
+    "SURG-C51-019",
+    "SURG-C51-020",
+    "SURG-C51-021",
+    "SURG-C51-022",
+    "SURG-C51-023",
+    "SURG-C51-024",
+    "SURG-C51-025",
+    "SURG-C51-026",
+    "SURG-C51-027",
+    "SURG-C51-028",
+    "SURG-C51-029",
+    "SURG-C51-030",
+    "SURG-C51-031",
+    "SURG-C51-032",
+    "SURG-C51-033"
+   ],
+   "guide": "Grafts borrow their blood supply from the recipient bed while flaps carry their own: autografts come from the same person, isografts from identical twins, allografts from the same species and xenografts across species. Split-thickness Thiersch grafts (epidermis plus parts of dermis) are cut from the anterolateral thigh or buttocks with minimal, re-usable donor morbidity, take better and resist trauma less, contracting less primarily but more secondarily and darkening with time; full-thickness Wolfe grafts (whole skin) come from infra/supraclavicular fossa or post-auricular skin, never the axilla, need sutures at a non-re-usable donor site, contract more primarily but less secondarily, take worse yet resist trauma and match colour better."
+  },
+  {
+   "id": "SURG-U51-2",
+   "ch": 51,
+   "n": 2,
+   "title": "Contracture, Meshing and Graft Survival",
+   "sec": "Contracture, Meshing and Graft Survival · p387",
+   "qs": [
+    "SURG-C51-034",
+    "SURG-C51-035",
+    "SURG-C51-036",
+    "SURG-C51-037",
+    "SURG-C51-038",
+    "SURG-C51-039",
+    "SURG-C51-040",
+    "SURG-C51-041",
+    "SURG-C51-042",
+    "SURG-C51-043",
+    "SURG-C51-044",
+    "SURG-C51-045",
+    "SURG-C51-046",
+    "SURG-C51-047",
+    "SURG-C51-048",
+    "SURG-C51-049",
+    "SURG-C51-050",
+    "SURG-C51-051",
+    "SURG-C51-052",
+    "SURG-C51-053",
+    "SURG-C51-054",
+    "SURG-C51-055"
+   ],
+   "guide": "First-degree contracture shrinks the graft as it leaves the donor site in proportion to dermis, while second-degree contracture shrinks it on the recipient bed in inverse proportion; meshing cuts STSG to raise surface area 1.5-fold and prevent seroma. Survival runs imbibition (24-48 h, plasmatic nutrient transfer) through inosculation (2-4 days, donor buds extract nutrition) to neovascularisation (after 4 days, both ends form new vessels). Failure is led by seroma/hematoma lifting the graft and blocking imbibition, then β-hemolytic streptococcal/staphylococcal infection, shearing movement and poor beds rich in fibrotic/granulation tissue that must be debrided or lacking periosteum, perichondrium or perineurium."
+  },
+  {
+   "id": "SURG-U51-3",
+   "ch": 51,
+   "n": 3,
+   "title": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid",
+   "sec": "Flaps and Random Flaps: Z-plasty, V-Y and Rhomboid · p388",
+   "qs": [
+    "SURG-C51-056",
+    "SURG-C51-057",
+    "SURG-C51-058",
+    "SURG-C51-059",
+    "SURG-C51-060",
+    "SURG-C51-061",
+    "SURG-C51-062",
+    "SURG-C51-063",
+    "SURG-C51-064",
+    "SURG-C51-065",
+    "SURG-C51-066",
+    "SURG-C51-067",
+    "SURG-C51-068",
+    "SURG-C51-069",
+    "SURG-C51-070"
+   ],
+   "guide": "A flap is tissue with its own blood supply; random flaps pivot on the dermal plexus at an ideal 3:1 length-to-breadth ratio because longer narrow-based flaps die, serving post-burn contractures and cleft palate repair. Their workhorses are Z-plasty (30°, 45°, 60° angles to lengthen wounds, the 60° version gaining 75% for maximal elongation), V-Y plasty for wound elongation and the rhomboid flap for tissue reconstruction, classically shown closing basal cell carcinoma and pilonidal sinus defects."
+  },
+  {
+   "id": "SURG-U51-4",
+   "ch": 51,
+   "n": 4,
+   "title": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck",
+   "sec": "Bilobed/Bipedicled Flaps and Axial Flaps for Head and Neck · p389",
+   "qs": [
+    "SURG-C51-071",
+    "SURG-C51-072",
+    "SURG-C51-073",
+    "SURG-C51-074",
+    "SURG-C51-075",
+    "SURG-C51-076",
+    "SURG-C51-077",
+    "SURG-C51-078",
+    "SURG-C51-079",
+    "SURG-C51-080",
+    "SURG-C51-081",
+    "SURG-C51-082",
+    "SURG-C51-083",
+    "SURG-C51-084",
+    "SURG-C51-085",
+    "SURG-C51-086"
+   ],
+   "guide": "Bilobed flaps rebuild the nasal tip and bipedicled flaps the eyelid, both classically in basal cell carcinoma. Axial flaps rotate on a named vessel while staying attached to the donor site, graded by the Mathes-Nahai pedicle classification whose Type V (one dominant plus multiple minor pedicles) covers pectoralis major and latissimus dorsi; for head and neck work the deltopectoral flap rides internal mammary perforators, PMMC (pectoral branch of thoracoacromial artery) is the surgeon's workhorse for floor-of-mouth cancer, and the labial-vessel Abbe-Estlander flap plus the Karapandzic lip-switch flap reconstruct the oral cavity, floor, angle of mouth and lip cancers."
+  },
+  {
+   "id": "SURG-U51-5",
+   "ch": 51,
+   "n": 5,
+   "title": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA",
+   "sec": "Flaps for Breast Reconstruction: LD, TRAM vs DIEP and SIA · p390",
+   "qs": [
+    "SURG-C51-087",
+    "SURG-C51-088",
+    "SURG-C51-089",
+    "SURG-C51-090",
+    "SURG-C51-091",
+    "SURG-C51-092",
+    "SURG-C51-093",
+    "SURG-C51-094",
+    "SURG-C51-095",
+    "SURG-C51-096",
+    "SURG-C51-097",
+    "SURG-C51-098",
+    "SURG-C51-099",
+    "SURG-C51-100",
+    "SURG-C51-101",
+    "SURG-C51-102"
+   ],
+   "guide": "Breast reconstruction options run from the latissimus dorsi flap to abdominal flaps: TRAM carries skin, subcutis, fat and muscle on superior epigastric (axial) or inferior epigastric (free) vessels, both together making a 'supercharged TRAM', whereas DIEP carries only skin, subcutis and fat on the deep inferior epigastric artery perforator as a free flap. Because TRAM sacrifices muscle it doubles abdominal wall morbidity and incisional hernia risk while DIEP spares muscle and lowers both, through the same elliptical abdominal incision; DIEP is the best breast flap, alongside the superficial inferior epigastric artery (SIA) flap."
+  },
+  {
+   "id": "SURG-U51-6",
+   "ch": 51,
+   "n": 6,
+   "title": "Free Flaps: Radial Forearm and Free Fibular",
+   "sec": "Free Flaps: Radial Forearm and Free Fibular · p391",
+   "qs": [
+    "SURG-C51-103",
+    "SURG-C51-104",
+    "SURG-C51-105",
+    "SURG-C51-106",
+    "SURG-C51-107",
+    "SURG-C51-108",
+    "SURG-C51-109",
+    "SURG-C51-110",
+    "SURG-C51-111",
+    "SURG-C51-112",
+    "SURG-C51-113",
+    "SURG-C51-114",
+    "SURG-C51-115"
+   ],
+   "guide": "Free flaps are disconnected from the donor and re-plumbed by microvascular anastomosis at the recipient: the radial artery forearm flap leaves the arm with the cephalic vein between brachioradialis and flexor carpi ulnaris after Allen's test proves radio-ulnar patency (modified test clenches a blanched palm with both arteries occluded; positive = ulnar release refills a patent palm, negative = no refill). The free fibular flap rides the peroneal vessels off the popliteal axis with a muscle cuff beside the anterior tibial artery and is the best flap for mandibular reconstruction."
+  },
+  {
+   "id": "SURG-U51-7",
+   "ch": 51,
+   "n": 7,
+   "title": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking",
+   "sec": "Composite/Conjoined/Chimeric Flaps, Flap Failure and Skin Banking · p392",
+   "qs": [
+    "SURG-C51-116",
+    "SURG-C51-117",
+    "SURG-C51-118",
+    "SURG-C51-119",
+    "SURG-C51-120",
+    "SURG-C51-121",
+    "SURG-C51-122",
+    "SURG-C51-123",
+    "SURG-C51-124",
+    "SURG-C51-125",
+    "SURG-C51-126",
+    "SURG-C51-127",
+    "SURG-C51-128",
+    "SURG-C51-129",
+    "SURG-C51-130",
+    "SURG-C51-131"
+   ],
+   "guide": "Composite flaps carry more than one component (PMMC, TRAM, DIEP), conjoined flaps join two territories by skin over perforators of one mother vessel and chimeric flaps take separate territories on perforators of the same mother vessel. Failing flaps are watched best with a handheld doppler or by pinprick bleeding; arterial failure is cold, pale, slow-refilling with ↓ pinprick flow while venous failure is warm, congested, quick-refilling with ↑ flow. Spare split-thickness grafts are banked for 2-3 weeks under liquid nitrogen or CO2 snow at 4°C."
+  }
+ ]
+}
