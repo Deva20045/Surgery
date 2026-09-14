@@ -70,6 +70,11 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## Pipeline per chapter
 1. `python3 work/render.py <book_a> <book_b> 100` (renders `work/pages/bNNN.png` using the offset table above; use 150 dpi for dense/handwritten pages)
+   **OR (added 2026-09-14, use this if the session has no vision):** `python3 work/ocr.py <book_a> <book_b> [dpi=150]`
+   → renders the pages AND runs offline OCR (RapidOCR / PP-OCRv4 via onnxruntime) into
+   `work/ocr/bNNN.txt` (each file has a `### raw` block = detection order and a `### geo`
+   block = geometric reading order). Read the .txt files with `sed -n '/^### raw$/,/^### geo$/p'`
+   instead of looking at the images. Defaults to 150 dpi; re-run with `--force` to redo a page.
 2. read_file the pages (batches), transcribe every line mentally — strict book order
 3. write `data/chNN_a.json` / `_b.json` / `_c.json` (last part holds "units"), assemble to `data/chNN.json`
 4. `python3 work/validate.py data/chNN.json`
@@ -101,12 +106,12 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch15 Thyroid : Part 2 — p90-101 — **DONE (128 qs, 20 units)** 2026-09-13
 - [x] ch16 Thyroid : Part 3 — p102-110 — **DONE (107 qs, 14 units)** 2026-09-13
 - [x] ch17 Parathyroid — p111-116 — **DONE (77 qs, 13 units)** 2026-09-13
-- [ ] ch18 Adrenal Glands and Neuroendocrine Tumors — p117-125 — Soon
-- [ ] ch19 Esophagus : Part 1 — p126-134 — Soon
-- [ ] ch20 Esophagus : Part 2 — p135-144 — Soon
-- [ ] ch21 Esophagus : Part 3 — p145-149 — Soon
-- [ ] ch22 Stomach : Part 1 — p150-156 — Soon
-- [ ] ch23 Stomach : Part 2 — p157-160 — Soon
+- [x] ch18 Adrenal Glands and Neuroendocrine Tumors — p117-125 — **DONE (154 qs, 19 units)** 2026-09-14
+- [x] ch19 Esophagus : Part 1 — p126-134 — **DONE (128 qs, 14 units)** 2026-09-14
+- [x] ch20 Esophagus : Part 2 — p135-144 — **DONE (124 qs, 13 units)** 2026-09-14
+- [x] ch21 Esophagus : Part 3 — p145-149 — **DONE (74 qs, 8 units)** 2026-09-14
+- [x] ch22 Stomach : Part 1 — p150-156 — **DONE (82 qs, 12 units)** 2026-09-14
+- [x] ch23 Stomach : Part 2 — p157-160 — **DONE (48 qs, 8 units)** 2026-09-14
 - [ ] ch24 Stomach : Part 3 — p161-169 — Soon
 - [ ] ch25 Upper GI Haemorrhage — p170-178 — Soon
 - [ ] ch26 Bariatric Surgery — p179-183 — Soon
@@ -160,6 +165,8 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 ## Session rule (set 2026-09-13 — KEEP until user changes it)
 - Work chapter-wise in **batches of 3** (ch3-5, ch6-8, …). After each batch, **pop up the
   updated `pulse-surgery-complete.html`** to the user for preview/testing.
+  (2026-09-14: user asked for ch18-23 in one go, so the batch was extended to 6 chapters —
+  still committed + pushed per chapter, PR + merge to main once at the end.)
 - ~~LOCAL-ONLY html~~ **RULE CHANGED 2026-09-13:** user wants the live GitHub Pages
   site kept in sync — commit + push `pulse-surgery-complete.html` together with
   `data/`, `work/`, `PROGRESS.md`, `README.md` after each batch (via arena branch + PR).
@@ -169,9 +176,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **17/72 chapters live** · Questions: 1794 · Units: 219
-- GitHub HTML: **synced at 17/72** (pushed 2026-09-13 after ch17)
-- NEXT: ch18 Adrenal Glands and Neuroendocrine Tumors — p117-125 (v1b pdf 36-44)
+- Local HTML: **23/72 chapters live** · Questions: 2404 · Units: 293
+- GitHub HTML: **synced at 23/72** (pushed 2026-09-14 after ch23)
+- NEXT: ch24 Stomach : Part 3 — p161-169 (v1c pdf 3-11)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).
