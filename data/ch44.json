@@ -1,0 +1,3316 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C44-001",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "The kidney develops from the:",
+   "opts": [
+    "Metanephric buds",
+    "Mesonephric ducts only",
+    "Urogenital diaphragm",
+    "Mullerian ducts"
+   ],
+   "ans": 0,
+   "exp": "Metanephric buds (Book p327)"
+  },
+  {
+   "id": "SURG-C44-002",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "The kidney is initially located in the:",
+   "opts": [
+    "Iliac fossa",
+    "Thoracic cavity",
+    "Scrotum",
+    "Perineum"
+   ],
+   "ans": 0,
+   "exp": "Iliac fossa (Book p327)"
+  },
+  {
+   "id": "SURG-C44-003",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "During development, the kidney ascends to the:",
+   "opts": [
+    "Lumbar region",
+    "Cervical region",
+    "Pelvic outlet",
+    "Mediastinum"
+   ],
+   "ans": 0,
+   "exp": "Lumbar region (Book p327)"
+  },
+  {
+   "id": "SURG-C44-004",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "The left renal vein is preferred for renal donation because it is:",
+   "opts": [
+    "Longer and permits easier anastomosis",
+    "Shorter and has no tributaries",
+    "Absent on the left",
+    "Connected to the portal vein"
+   ],
+   "ans": 0,
+   "exp": "Longer and permits easier anastomosis (Book p327)"
+  },
+  {
+   "id": "SURG-C44-005",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "The longer left testicular vein and pampiniform plexus make the patient prone to:",
+   "opts": [
+    "Varicocele",
+    "Hydrocele only",
+    "Renal agenesis",
+    "Penile fracture"
+   ],
+   "ans": 0,
+   "exp": "Varicocele (Book p327)"
+  },
+  {
+   "id": "SURG-C44-006",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "Renal-cell carcinoma can cause a secondary varicocele by obstructing the:",
+   "opts": [
+    "Testicular vein",
+    "Ureteric orifice",
+    "Portal vein",
+    "Cystic duct"
+   ],
+   "ans": 0,
+   "exp": "Testicular vein (Book p327)"
+  },
+  {
+   "id": "SURG-C44-007",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "Nutcracker syndrome is caused by compression of the left renal vein between the:",
+   "opts": [
+    "Superior mesenteric artery and aorta",
+    "Inferior mesenteric artery and IVC",
+    "Renal artery and portal vein",
+    "Common iliac arteries"
+   ],
+   "ans": 0,
+   "exp": "Superior mesenteric artery and aorta (Book p327)"
+  },
+  {
+   "id": "SURG-C44-008",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "A renal collar is formed when the left renal vein:",
+   "opts": [
+    "Splits to encase the aorta",
+    "Enters the portal vein",
+    "Encases the IVC alone",
+    "Crosses the diaphragm twice"
+   ],
+   "ans": 0,
+   "exp": "Splits to encase the aorta (Book p327)"
+  },
+  {
+   "id": "SURG-C44-009",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "At the renal hilum, the posterior structure is the:",
+   "opts": [
+    "Renal pelvis",
+    "Renal vein",
+    "Renal artery",
+    "Ureteric orifice"
+   ],
+   "ans": 0,
+   "exp": "Renal pelvis (Book p327)"
+  },
+  {
+   "id": "SURG-C44-010",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "At the renal hilum, the middle structure is the:",
+   "opts": [
+    "Renal artery",
+    "Renal pelvis",
+    "Renal vein",
+    "Adrenal vein"
+   ],
+   "ans": 0,
+   "exp": "Renal artery (Book p327)"
+  },
+  {
+   "id": "SURG-C44-011",
+   "sec": "Surgical Anatomy and Applied Renal Relationships",
+   "page": 327,
+   "q": "At the renal hilum, the anterior structure is the:",
+   "opts": [
+    "Renal vein",
+    "Renal pelvis",
+    "Renal artery",
+    "Ureter"
+   ],
+   "ans": 0,
+   "exp": "Renal vein (Book p327)"
+  },
+  {
+   "id": "SURG-C44-012",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "Renal agenesis is usually:",
+   "opts": [
+    "Unilateral",
+    "Always bilateral",
+    "Always acquired",
+    "Limited to the adrenal gland"
+   ],
+   "ans": 0,
+   "exp": "Unilateral (Book p328)"
+  },
+  {
+   "id": "SURG-C44-013",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "Renal agenesis is associated with agenesis of the:",
+   "opts": [
+    "Ureter and hem trigone",
+    "Gallbladder and CBD",
+    "Pancreatic duct",
+    "Tunica vaginalis"
+   ],
+   "ans": 0,
+   "exp": "Ureter and hem trigone (Book p328)"
+  },
+  {
+   "id": "SURG-C44-014",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "A male with renal agenesis may also have an:",
+   "opts": [
+    "Undescended testis",
+    "Ectopic ovary",
+    "Enlarged prostate at birth",
+    "Acquired varicocele in every case"
+   ],
+   "ans": 0,
+   "exp": "Undescended testis (Book p328)"
+  },
+  {
+   "id": "SURG-C44-015",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "A female with renal agenesis may have absent:",
+   "opts": [
+    "Fallopian tubes",
+    "Seminal vesicles",
+    "Prostate",
+    "Vasa deferentia"
+   ],
+   "ans": 0,
+   "exp": "Fallopian tubes (Book p328)"
+  },
+  {
+   "id": "SURG-C44-016",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "Renal agenesis may also be associated with an absent:",
+   "opts": [
+    "Adrenal gland",
+    "Pancreas",
+    "Spleen in every case",
+    "Thyroid gland"
+   ],
+   "ans": 0,
+   "exp": "Adrenal gland (Book p328)"
+  },
+  {
+   "id": "SURG-C44-017",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "According to the Weigert–Meyer rule, the ureter draining the upper pole inserts:",
+   "opts": [
+    "Distally and medially in an ectopic location",
+    "Proximally and laterally in the bladder",
+    "Only into the renal pelvis",
+    "Into the contralateral ureter"
+   ],
+   "ans": 0,
+   "exp": "Distally and medially in an ectopic location (Book p328)"
+  },
+  {
+   "id": "SURG-C44-018",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "In a duplicated system, the lower-pole ureter usually inserts:",
+   "opts": [
+    "More proximally and laterally than the upper-pole ureter",
+    "Distally and medially in the vagina in every case",
+    "Into the renal artery",
+    "Into the scrotum"
+   ],
+   "ans": 0,
+   "exp": "More proximally and laterally than the upper-pole ureter (Book p328)"
+  },
+  {
+   "id": "SURG-C44-019",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "An ectopic ureter in a male may open into the:",
+   "opts": [
+    "Urethra",
+    "Gallbladder",
+    "Renal vein",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Urethra (Book p328)"
+  },
+  {
+   "id": "SURG-C44-020",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "An ectopic ureter in a female may open into the:",
+   "opts": [
+    "Vagina",
+    "Spleen",
+    "Cervix in every case",
+    "Portal vein"
+   ],
+   "ans": 0,
+   "exp": "Vagina (Book p328)"
+  },
+  {
+   "id": "SURG-C44-021",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "A male with a duplicated ureteric system may present with:",
+   "opts": [
+    "Recurrent urinary tract infection",
+    "Obstructive jaundice",
+    "Painless penile plaque",
+    "Haemoptysis only"
+   ],
+   "ans": 0,
+   "exp": "Recurrent urinary tract infection (Book p328)"
+  },
+  {
+   "id": "SURG-C44-022",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "A female child who is always wet but can pass urine normally may have:",
+   "opts": [
+    "An ectopic upper-pole ureter",
+    "Bilateral renal agenesis",
+    "A ureteric stone only",
+    "A bladder tumour"
+   ],
+   "ans": 0,
+   "exp": "An ectopic upper-pole ureter (Book p328)"
+  },
+  {
+   "id": "SURG-C44-023",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 328,
+   "q": "The child with an ectopic upper-pole ureter can still pass urine normally because the:",
+   "opts": [
+    "Lower-pole ureter opens into the bladder",
+    "Upper pole is non-functioning in every case",
+    "Kidney drains into the bowel",
+    "Urethra is absent"
+   ],
+   "ans": 0,
+   "exp": "Lower-pole ureter opens into the bladder (Book p328)"
+  },
+  {
+   "id": "SURG-C44-024",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 329,
+   "q": "The investigation used for a duplicated ureteric system in the chapter is:",
+   "opts": [
+    "Intravenous urography",
+    "HIDA scan",
+    "Micturating cystourethrogram only",
+    "Plain skull radiography"
+   ],
+   "ans": 0,
+   "exp": "Intravenous urography (Book p329)"
+  },
+  {
+   "id": "SURG-C44-025",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 329,
+   "q": "The contrast dye used for intravenous urography is:",
+   "opts": [
+    "Urografin",
+    "Methylene blue only",
+    "Barium sulphate",
+    "Indigo carmine only"
+   ],
+   "ans": 0,
+   "exp": "Urografin (Book p329)"
+  },
+  {
+   "id": "SURG-C44-026",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 329,
+   "q": "The drooping lily sign suggests:",
+   "opts": [
+    "Duplication with malrotation of the pelvis",
+    "Renal-cell carcinoma",
+    "Horseshoe kidney",
+    "A ureteric stone"
+   ],
+   "ans": 0,
+   "exp": "Duplication with malrotation of the pelvis (Book p329)"
+  },
+  {
+   "id": "SURG-C44-027",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System",
+   "page": 329,
+   "q": "The treatment of a symptomatic ectopic ureter is:",
+   "opts": [
+    "Reimplantation of the ectopic ureter",
+    "Orchidectomy",
+    "Partial penectomy",
+    "Only scrotal support"
+   ],
+   "ans": 0,
+   "exp": "Reimplantation of the ectopic ureter (Book p329)"
+  },
+  {
+   "id": "SURG-C44-028",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Infantile polycystic kidney disease is:",
+   "opts": [
+    "Autosomal recessive",
+    "Autosomal dominant",
+    "X-linked recessive",
+    "Mitochondrial"
+   ],
+   "ans": 0,
+   "exp": "Autosomal recessive (Book p329)"
+  },
+  {
+   "id": "SURG-C44-029",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "The gene associated with infantile polycystic kidney disease is PKHD1 on chromosome:",
+   "opts": [
+    "6",
+    "4",
+    "16",
+    "17"
+   ],
+   "ans": 0,
+   "exp": "6 (Book p329)"
+  },
+  {
+   "id": "SURG-C44-030",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Infantile polycystic kidney disease is:",
+   "opts": [
+    "Usually not compatible with life",
+    "Always compatible with life",
+    "A benign adult condition",
+    "Limited to the urinary bladder"
+   ],
+   "ans": 0,
+   "exp": "Usually not compatible with life (Book p329)"
+  },
+  {
+   "id": "SURG-C44-031",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Death in infantile polycystic kidney disease is related to:",
+   "opts": [
+    "Hepatic fibrosis",
+    "Aortic dissection in every case",
+    "Penile cancer",
+    "Gallstone ileus"
+   ],
+   "ans": 0,
+   "exp": "Hepatic fibrosis (Book p329)"
+  },
+  {
+   "id": "SURG-C44-032",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Adult polycystic kidney disease is:",
+   "opts": [
+    "Autosomal dominant",
+    "Autosomal recessive",
+    "X-linked dominant",
+    "Mitochondrial"
+   ],
+   "ans": 0,
+   "exp": "Autosomal dominant (Book p329)"
+  },
+  {
+   "id": "SURG-C44-033",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Adult polycystic kidney disease may be caused by PKD1 on chromosome:",
+   "opts": [
+    "16",
+    "6",
+    "11",
+    "17"
+   ],
+   "ans": 0,
+   "exp": "16 (Book p329)"
+  },
+  {
+   "id": "SURG-C44-034",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Another gene associated with adult polycystic kidney disease is PKD2 on chromosome:",
+   "opts": [
+    "4",
+    "3",
+    "9",
+    "13"
+   ],
+   "ans": 0,
+   "exp": "4 (Book p329)"
+  },
+  {
+   "id": "SURG-C44-035",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Adult polycystic kidney disease is generally:",
+   "opts": [
+    "Compatible with life",
+    "Incompatible with life at birth",
+    "Limited to one kidney and never progressive",
+    "A disease of the urethra"
+   ],
+   "ans": 0,
+   "exp": "Compatible with life (Book p329)"
+  },
+  {
+   "id": "SURG-C44-036",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "In polycystic kidney disease, multiple cysts enlarge and:",
+   "opts": [
+    "Compress normal renal parenchyma",
+    "Replace the bladder wall only",
+    "Obstruct the bile duct only",
+    "Always disappear spontaneously"
+   ],
+   "ans": 0,
+   "exp": "Compress normal renal parenchyma (Book p329)"
+  },
+  {
+   "id": "SURG-C44-037",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Adult polycystic kidney disease typically presents in the:",
+   "opts": [
+    "Late twenties to early thirties",
+    "Neonatal period only",
+    "First week after birth",
+    "Seventh decade only"
+   ],
+   "ans": 0,
+   "exp": "Late twenties to early thirties (Book p329)"
+  },
+  {
+   "id": "SURG-C44-038",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "The most common presentation of adult polycystic kidney disease in a young patient is:",
+   "opts": [
+    "Hypertension",
+    "Painless penile swelling",
+    "Obstructive jaundice",
+    "A scrotal ulcer"
+   ],
+   "ans": 0,
+   "exp": "Hypertension (Book p329)"
+  },
+  {
+   "id": "SURG-C44-039",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Other renal presentations of adult polycystic kidney disease include:",
+   "opts": [
+    "Pain, haematuria and renal failure",
+    "Only urinary incontinence",
+    "Only nephrotic syndrome in every case",
+    "Only renal colic without cysts"
+   ],
+   "ans": 0,
+   "exp": "Pain, haematuria and renal failure (Book p329)"
+  },
+  {
+   "id": "SURG-C44-040",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "The most common extrarenal manifestation of polycystic kidney disease is:",
+   "opts": [
+    "Cysts in the liver",
+    "Cysts in the thyroid only",
+    "Pancreatic cancer",
+    "A hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Cysts in the liver (Book p329)"
+  },
+  {
+   "id": "SURG-C44-041",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "Other organs that may contain cysts in polycystic kidney disease are the:",
+   "opts": [
+    "Spleen, pancreas and lungs",
+    "Heart valves only",
+    "Testis and prostate only",
+    "Gallbladder and appendix only"
+   ],
+   "ans": 0,
+   "exp": "Spleen, pancreas and lungs (Book p329)"
+  },
+  {
+   "id": "SURG-C44-042",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "An intestinal association of polycystic kidney disease is:",
+   "opts": [
+    "Colonic diverticulosis",
+    "Ulcerative colitis in every case",
+    "Appendicitis",
+    "Bowel obstruction from gallstones"
+   ],
+   "ans": 0,
+   "exp": "Colonic diverticulosis (Book p329)"
+  },
+  {
+   "id": "SURG-C44-043",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "A cardiac association of polycystic kidney disease is:",
+   "opts": [
+    "Mitral-valve prolapse",
+    "Aortic coarctation in every case",
+    "Tricuspid atresia",
+    "Patent ductus arteriosus"
+   ],
+   "ans": 0,
+   "exp": "Mitral-valve prolapse (Book p329)"
+  },
+  {
+   "id": "SURG-C44-044",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "A cerebrovascular association of polycystic kidney disease is a:",
+   "opts": [
+    "Berry aneurysm in the circle of Willis",
+    "Cavernous haemangioma of the liver",
+    "Cerebellar tumour",
+    "Carotid dissection in every case"
+   ],
+   "ans": 0,
+   "exp": "Berry aneurysm in the circle of Willis (Book p329)"
+  },
+  {
+   "id": "SURG-C44-045",
+   "sec": "Polycystic Kidney Disease",
+   "page": 329,
+   "q": "The differential diagnosis of hypertension in a young patient includes:",
+   "opts": [
+    "Polycystic kidney disease, renal-artery stenosis, pheochromocytoma and hyperthyroidism",
+    "Only appendicitis",
+    "Only hydrocele and varicocele",
+    "Only chronic cholecystitis"
+   ],
+   "ans": 0,
+   "exp": "Polycystic kidney disease, renal-artery stenosis, pheochromocytoma and hyperthyroidism (Book p329)"
+  },
+  {
+   "id": "SURG-C44-046",
+   "sec": "Polycystic Kidney Disease",
+   "page": 330,
+   "q": "Ultrasonography in polycystic kidney disease shows:",
+   "opts": [
+    "Multiple cysts in the kidneys",
+    "Only a single ureteric stone",
+    "A keyhole bladder",
+    "A collapsed gallbladder"
+   ],
+   "ans": 0,
+   "exp": "Multiple cysts in the kidneys (Book p330)"
+  },
+  {
+   "id": "SURG-C44-047",
+   "sec": "Polycystic Kidney Disease",
+   "page": 330,
+   "q": "On prenatal scanning, the renal cystic threshold listed for unilateral or bilateral disease is:",
+   "opts": [
+    "At least three cysts",
+    "Exactly one cyst",
+    "At least ten cysts in one kidney",
+    "Only a solid mass"
+   ],
+   "ans": 0,
+   "exp": "At least three cysts (Book p330)"
+  },
+  {
+   "id": "SURG-C44-048",
+   "sec": "Polycystic Kidney Disease",
+   "page": 330,
+   "q": "On prenatal scanning, the bilateral-kidney threshold listed is:",
+   "opts": [
+    "At least two cysts in both kidneys",
+    "A single cyst in one kidney",
+    "At least twenty cysts in one kidney",
+    "No cysts"
+   ],
+   "ans": 0,
+   "exp": "At least two cysts in both kidneys (Book p330)"
+  },
+  {
+   "id": "SURG-C44-049",
+   "sec": "Polycystic Kidney Disease",
+   "page": 330,
+   "q": "Medical treatment listed for polycystic kidney disease includes:",
+   "opts": [
+    "Vasopressin-receptor antagonists and mTOR inhibitors",
+    "Only antitubercular drugs",
+    "Only chemotherapy",
+    "Only oral iron"
+   ],
+   "ans": 0,
+   "exp": "Vasopressin-receptor antagonists and mTOR inhibitors (Book p330)"
+  },
+  {
+   "id": "SURG-C44-050",
+   "sec": "Polycystic Kidney Disease",
+   "page": 330,
+   "q": "Renal-replacement options in advanced polycystic kidney disease include:",
+   "opts": [
+    "Dialysis and transplantation",
+    "Only urethroplasty",
+    "Only hydrocelectomy",
+    "Only radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Dialysis and transplantation (Book p330)"
+  },
+  {
+   "id": "SURG-C44-051",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "A multicystic dysplastic kidney contains:",
+   "opts": [
+    "Multiple unilateral or bilateral cysts",
+    "A single normal renal cyst only",
+    "Only a solid renal tumour",
+    "A duplicated bladder"
+   ],
+   "ans": 0,
+   "exp": "Multiple unilateral or bilateral cysts (Book p330)"
+  },
+  {
+   "id": "SURG-C44-052",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "Bilateral multicystic dysplastic kidneys are:",
+   "opts": [
+    "Not compatible with life",
+    "Always asymptomatic and benign",
+    "Compatible with normal adult life",
+    "Treated by urethrotomy alone"
+   ],
+   "ans": 0,
+   "exp": "Not compatible with life (Book p330)"
+  },
+  {
+   "id": "SURG-C44-053",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "A presentation of multicystic dysplastic kidney is:",
+   "opts": [
+    "An abdominal lump at birth",
+    "Painless jaundice in adulthood",
+    "A penile ulcer",
+    "Only a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "An abdominal lump at birth (Book p330)"
+  },
+  {
+   "id": "SURG-C44-054",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "Multicystic dysplastic kidney in adults may show rapid progression to:",
+   "opts": [
+    "Renal failure",
+    "Liver failure only",
+    "Biliary obstruction",
+    "Testicular torsion"
+   ],
+   "ans": 0,
+   "exp": "Renal failure (Book p330)"
+  },
+  {
+   "id": "SURG-C44-055",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "A horseshoe kidney consists of:",
+   "opts": [
+    "Fused lower ends of the kidneys",
+    "Fused upper poles only",
+    "Two separate ectopic ureters",
+    "A single renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Fused lower ends of the kidneys (Book p330)"
+  },
+  {
+   "id": "SURG-C44-056",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "Ascent of a horseshoe kidney is restricted by the:",
+   "opts": [
+    "Inferior mesenteric artery",
+    "Superior mesenteric vein",
+    "Celiac trunk only",
+    "Portal vein"
+   ],
+   "ans": 0,
+   "exp": "Inferior mesenteric artery (Book p330)"
+  },
+  {
+   "id": "SURG-C44-057",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "The fused portion of a horseshoe kidney lies approximately at:",
+   "opts": [
+    "L3–L4",
+    "T1–T2",
+    "S1–S2",
+    "C7–T1"
+   ],
+   "ans": 0,
+   "exp": "L3–L4 (Book p330)"
+  },
+  {
+   "id": "SURG-C44-058",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "The adrenal glands in horseshoe kidney are:",
+   "opts": [
+    "Normally placed",
+    "Always fused with the kidney",
+    "Absent in every case",
+    "Located in the pelvis"
+   ],
+   "ans": 0,
+   "exp": "Normally placed (Book p330)"
+  },
+  {
+   "id": "SURG-C44-059",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "A horseshoe kidney may be:",
+   "opts": [
+    "Asymptomatic",
+    "Always painful",
+    "Always malignant",
+    "Always associated with jaundice"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic (Book p330)"
+  },
+  {
+   "id": "SURG-C44-060",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "A clinical finding in horseshoe kidney can be an abdominal:",
+   "opts": [
+    "Lump",
+    "Ulcer",
+    "Fistula",
+    "Scrotal mass only"
+   ],
+   "ans": 0,
+   "exp": "Lump (Book p330)"
+  },
+  {
+   "id": "SURG-C44-061",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "Horseshoe kidney may be associated with:",
+   "opts": [
+    "Hydronephrosis",
+    "Only pancreatic pseudocyst",
+    "Only phimosis",
+    "Only a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Hydronephrosis (Book p330)"
+  },
+  {
+   "id": "SURG-C44-062",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "Other complications of horseshoe kidney include:",
+   "opts": [
+    "Renal calculi and infections",
+    "Only biliary colic",
+    "Only pulmonary embolism",
+    "Only testicular tumours"
+   ],
+   "ans": 0,
+   "exp": "Renal calculi and infections (Book p330)"
+  },
+  {
+   "id": "SURG-C44-063",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "The investigation of choice for horseshoe kidney is:",
+   "opts": [
+    "Intravenous urography",
+    "Barium meal",
+    "Micturating cystourethrogram only",
+    "Plain skull radiography"
+   ],
+   "ans": 0,
+   "exp": "Intravenous urography (Book p330)"
+  },
+  {
+   "id": "SURG-C44-064",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 330,
+   "q": "The IVU appearance of a horseshoe kidney is called the:",
+   "opts": [
+    "Flower-vase or handshake sign",
+    "Cobra-head sign",
+    "Keyhole sign",
+    "Drooping-lily sign"
+   ],
+   "ans": 0,
+   "exp": "Flower-vase or handshake sign (Book p330)"
+  },
+  {
+   "id": "SURG-C44-065",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 331,
+   "q": "For hydronephrosis or a malrotated pelvis in a horseshoe kidney, the operation is:",
+   "opts": [
+    "Pyeloplasty to relieve obstruction",
+    "Routine nephrectomy",
+    "Circumcision",
+    "Orchidectomy"
+   ],
+   "ans": 0,
+   "exp": "Pyeloplasty to relieve obstruction (Book p331)"
+  },
+  {
+   "id": "SURG-C44-066",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 331,
+   "q": "The fused portion of a horseshoe kidney should generally not be cut because of the risk of:",
+   "opts": [
+    "Devascularising both kidneys",
+    "Causing penile fracture",
+    "Producing a ureterocele",
+    "Creating a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Devascularising both kidneys (Book p331)"
+  },
+  {
+   "id": "SURG-C44-067",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "page": 331,
+   "q": "The exception to not cutting the fused portion is a horseshoe kidney with:",
+   "opts": [
+    "A symptomatic abdominal aortic aneurysm",
+    "An asymptomatic hydrocele",
+    "A small renal cyst",
+    "A simple varicocele"
+   ],
+   "ans": 0,
+   "exp": "A symptomatic abdominal aortic aneurysm (Book p331)"
+  },
+  {
+   "id": "SURG-C44-068",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "Hydronephrosis is an aseptic dilation of the:",
+   "opts": [
+    "Pelvicalyceal system",
+    "Tunica vaginalis",
+    "Biliary tree",
+    "Seminal vesicle"
+   ],
+   "ans": 0,
+   "exp": "Pelvicalyceal system (Book p331)"
+  },
+  {
+   "id": "SURG-C44-069",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "Hydronephrosis results from intermittent or complete:",
+   "opts": [
+    "Low urinary tract blockade",
+    "Portal hypertension",
+    "Bile reflux",
+    "Lymphatic obstruction only"
+   ],
+   "ans": 0,
+   "exp": "Low urinary tract blockade (Book p331)"
+  },
+  {
+   "id": "SURG-C44-070",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "Normal renal calyces are:",
+   "opts": [
+    "Cup shaped",
+    "Coffin-lid shaped",
+    "Blunt and clubbed",
+    "Cobra headed"
+   ],
+   "ans": 0,
+   "exp": "Cup shaped (Book p331)"
+  },
+  {
+   "id": "SURG-C44-071",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "Blunt or clubbed calyces suggest:",
+   "opts": [
+    "Hydronephrosis",
+    "A normal renal pelvis",
+    "A hydrocele",
+    "A penile tumour"
+   ],
+   "ans": 0,
+   "exp": "Hydronephrosis (Book p331)"
+  },
+  {
+   "id": "SURG-C44-072",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "The most common acquired intraluminal cause of hydronephrosis is:",
+   "opts": [
+    "Renal calculi",
+    "Renal agenesis",
+    "A horseshoe kidney",
+    "A simple cyst"
+   ],
+   "ans": 0,
+   "exp": "Renal calculi (Book p331)"
+  },
+  {
+   "id": "SURG-C44-073",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "The most common congenital intramural cause of hydronephrosis is:",
+   "opts": [
+    "Pelviureteric-junction obstruction",
+    "A renal tumour",
+    "Bladder diverticulum",
+    "Urethral cancer"
+   ],
+   "ans": 0,
+   "exp": "Pelviureteric-junction obstruction (Book p331)"
+  },
+  {
+   "id": "SURG-C44-074",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "Sloughed renal papillae may be caused by:",
+   "opts": [
+    "Diabetes mellitus and analgesic abuse",
+    "Only hypertension",
+    "Only varicocele",
+    "Only appendicitis"
+   ],
+   "ans": 0,
+   "exp": "Diabetes mellitus and analgesic abuse (Book p331)"
+  },
+  {
+   "id": "SURG-C44-075",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "An adynamic obstruction is classified as an:",
+   "opts": [
+    "Intramural cause of hydronephrosis",
+    "Extrinsic vascular cause only",
+    "Intraluminal stone",
+    "Infective bladder tumour"
+   ],
+   "ans": 0,
+   "exp": "Intramural cause of hydronephrosis (Book p331)"
+  },
+  {
+   "id": "SURG-C44-076",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "A transitional-cell carcinoma of the renal pelvis produces which IVU sign?",
+   "opts": [
+    "Goblet sign",
+    "Fish-hook sign",
+    "Flower-vase sign",
+    "Keyhole sign"
+   ],
+   "ans": 0,
+   "exp": "Goblet sign (Book p331)"
+  },
+  {
+   "id": "SURG-C44-077",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "A clinical consequence of hydronephrosis is:",
+   "opts": [
+    "Decreased renal function",
+    "Increased spermatogenesis",
+    "Painless penile curvature",
+    "A clear hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Decreased renal function (Book p331)"
+  },
+  {
+   "id": "SURG-C44-078",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "The investigation of choice for assessing renal function in hydronephrosis is:",
+   "opts": [
+    "MAG-3 renal isotope scan",
+    "Plain X-ray alone",
+    "HIDA scan",
+    "Barium enema"
+   ],
+   "ans": 0,
+   "exp": "MAG-3 renal isotope scan (Book p331)"
+  },
+  {
+   "id": "SURG-C44-079",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 331,
+   "q": "A symptomatic pelviureteric-junction obstruction is treated with:",
+   "opts": [
+    "Anderson–Hynes pyeloplasty",
+    "Jaboulay procedure",
+    "Nesbit procedure",
+    "Partial penectomy"
+   ],
+   "ans": 0,
+   "exp": "Anderson–Hynes pyeloplasty (Book p331)"
+  },
+  {
+   "id": "SURG-C44-080",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "A ureterocele is:",
+   "opts": [
+    "Dilatation of the terminal ureter",
+    "Dilatation of the renal artery",
+    "A cyst of the testis",
+    "A bladder tumour"
+   ],
+   "ans": 0,
+   "exp": "Dilatation of the terminal ureter (Book p332)"
+  },
+  {
+   "id": "SURG-C44-081",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Ureterocele may produce recurrent:",
+   "opts": [
+    "Urinary tract infection",
+    "Painless jaundice",
+    "Haematemesis",
+    "Scrotal pain only"
+   ],
+   "ans": 0,
+   "exp": "Urinary tract infection (Book p332)"
+  },
+  {
+   "id": "SURG-C44-082",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "A functional consequence of ureterocele is:",
+   "opts": [
+    "Decreased renal function",
+    "Increased GFR in every case",
+    "Increased bile flow",
+    "Normal renal function in every case"
+   ],
+   "ans": 0,
+   "exp": "Decreased renal function (Book p332)"
+  },
+  {
+   "id": "SURG-C44-083",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "The IVU appearance of a ureterocele is the:",
+   "opts": [
+    "Cobra-head or adder-head sign",
+    "Goblet sign",
+    "Drooping-lily sign",
+    "Reverse-J sign"
+   ],
+   "ans": 0,
+   "exp": "Cobra-head or adder-head sign (Book p332)"
+  },
+  {
+   "id": "SURG-C44-084",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Ultrasonography in ureterocele shows:",
+   "opts": [
+    "Dilated terminal ends of the ureters",
+    "Only a solid renal mass",
+    "A normal bladder in every case",
+    "A gallbladder stone"
+   ],
+   "ans": 0,
+   "exp": "Dilated terminal ends of the ureters (Book p332)"
+  },
+  {
+   "id": "SURG-C44-085",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Endoscopic treatment of ureterocele is performed to:",
+   "opts": [
+    "Ensure drainage",
+    "Create a renal collar",
+    "Remove the adrenal gland",
+    "Treat a penile plaque"
+   ],
+   "ans": 0,
+   "exp": "Ensure drainage (Book p332)"
+  },
+  {
+   "id": "SURG-C44-086",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Definitive surgery for a symptomatic ureterocele may include excision and:",
+   "opts": [
+    "Reimplantation of the ureter",
+    "Orchidectomy",
+    "Perineal urethrostomy",
+    "Pancreatectomy"
+   ],
+   "ans": 0,
+   "exp": "Reimplantation of the ureter (Book p332)"
+  },
+  {
+   "id": "SURG-C44-087",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "An aberrant renal vessel causing hydronephrosis is usually:",
+   "opts": [
+    "Unilateral",
+    "Always bilateral",
+    "Only intraluminal",
+    "A type of ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Unilateral (Book p332)"
+  },
+  {
+   "id": "SURG-C44-088",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "The treatment of obstruction from an aberrant renal vessel is:",
+   "opts": [
+    "Pyeloplasty",
+    "Cutting the vessel in every case",
+    "Radiotherapy",
+    "Circumcision"
+   ],
+   "ans": 0,
+   "exp": "Pyeloplasty (Book p332)"
+  },
+  {
+   "id": "SURG-C44-089",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "An aberrant renal vessel should not be cut because it can:",
+   "opts": [
+    "Devascularise the kidney",
+    "Cause a hydrocele",
+    "Produce a penile fracture",
+    "Create a keyhole bladder"
+   ],
+   "ans": 0,
+   "exp": "Devascularise the kidney (Book p332)"
+  },
+  {
+   "id": "SURG-C44-090",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Advanced cancers that can cause extraluminal ureteric obstruction include:",
+   "opts": [
+    "Soft-tissue sarcoma, cervical, prostatic and colonic cancers",
+    "Only thyroid cancer",
+    "Only skin cancer",
+    "Only gallbladder stones"
+   ],
+   "ans": 0,
+   "exp": "Soft-tissue sarcoma, cervical, prostatic and colonic cancers (Book p332)"
+  },
+  {
+   "id": "SURG-C44-091",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "When advanced cancer causes ureteric obstruction, treatment is directed at the:",
+   "opts": [
+    "Cancer",
+    "Scrotum",
+    "Foreskin",
+    "Seminiferous tubules"
+   ],
+   "ans": 0,
+   "exp": "Cancer (Book p332)"
+  },
+  {
+   "id": "SURG-C44-092",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Retroperitoneal fibrosis is also called:",
+   "opts": [
+    "Ormond's disease",
+    "Courvoisier's disease",
+    "Young's disease",
+    "Cabanas disease"
+   ],
+   "ans": 0,
+   "exp": "Ormond's disease (Book p332)"
+  },
+  {
+   "id": "SURG-C44-093",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "An idiopathic cause of retroperitoneal fibrosis is:",
+   "opts": [
+    "Idiopathic disease itself",
+    "A ureterocele",
+    "A hydrocele",
+    "A renal stone only"
+   ],
+   "ans": 0,
+   "exp": "Idiopathic disease itself (Book p332)"
+  },
+  {
+   "id": "SURG-C44-094",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "A drug associated with retroperitoneal fibrosis is:",
+   "opts": [
+    "Methysergide",
+    "Tamsulosin",
+    "Urografin",
+    "Dactinomycin"
+   ],
+   "ans": 0,
+   "exp": "Methysergide (Book p332)"
+  },
+  {
+   "id": "SURG-C44-095",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Another drug associated with retroperitoneal fibrosis is:",
+   "opts": [
+    "Bromocriptine",
+    "Cisplatin",
+    "Xylocaine",
+    "Bleomycin"
+   ],
+   "ans": 0,
+   "exp": "Bromocriptine (Book p332)"
+  },
+  {
+   "id": "SURG-C44-096",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "IgG-mediated retroperitoneal fibrosis is associated with:",
+   "opts": [
+    "Dupuytren's contracture and Peyronie's disease",
+    "Peutz–Jeghers syndrome",
+    "Horseshoe kidney only",
+    "Balanitis only"
+   ],
+   "ans": 0,
+   "exp": "Dupuytren's contracture and Peyronie's disease (Book p332)"
+  },
+  {
+   "id": "SURG-C44-097",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "Radiotherapy can cause:",
+   "opts": [
+    "Retroperitoneal fibrosis",
+    "A simple spermatocele",
+    "Primary hydrocele",
+    "A congenital renal agenesis"
+   ],
+   "ans": 0,
+   "exp": "Retroperitoneal fibrosis (Book p332)"
+  },
+  {
+   "id": "SURG-C44-098",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "The IVU appearance of retroperitoneal fibrosis is:",
+   "opts": [
+    "Maiden-waist deformity",
+    "Cobra-head sign",
+    "Keyhole defect",
+    "Flower-vase sign"
+   ],
+   "ans": 0,
+   "exp": "Maiden-waist deformity (Book p332)"
+  },
+  {
+   "id": "SURG-C44-099",
+   "sec": "Hydronephrosis and PUJ Obstruction",
+   "page": 332,
+   "q": "The treatment listed for retroperitoneal fibrosis is:",
+   "opts": [
+    "DJ stenting",
+    "Orchidectomy",
+    "Partial penectomy",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "DJ stenting (Book p332)"
+  },
+  {
+   "id": "SURG-C44-100",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "In a retrocaval ureter, the ureter lies behind the:",
+   "opts": [
+    "Inferior vena cava",
+    "Aorta",
+    "Portal vein",
+    "Superior mesenteric artery"
+   ],
+   "ans": 0,
+   "exp": "Inferior vena cava (Book p333)"
+  },
+  {
+   "id": "SURG-C44-101",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "The IVU sign of a retrocaval ureter is the:",
+   "opts": [
+    "Fish-hook or reverse-J sign",
+    "Cobra-head sign",
+    "Goblet sign",
+    "Drooping-lily sign"
+   ],
+   "ans": 0,
+   "exp": "Fish-hook or reverse-J sign (Book p333)"
+  },
+  {
+   "id": "SURG-C44-102",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "The treatment of retrocaval ureter includes:",
+   "opts": [
+    "Lateralization of the ureter with a DJ stent to maintain patency",
+    "Total nephrectomy in every case",
+    "Dorsal slit surgery",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Lateralization of the ureter with a DJ stent to maintain patency (Book p333)"
+  },
+  {
+   "id": "SURG-C44-103",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "A bilateral cause of hydronephrosis listed is:",
+   "opts": [
+    "Benign prostatic hyperplasia",
+    "A unilateral hydrocele",
+    "A renal cyst in one pole",
+    "A penile plaque"
+   ],
+   "ans": 0,
+   "exp": "Benign prostatic hyperplasia (Book p333)"
+  },
+  {
+   "id": "SURG-C44-104",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "Another bilateral cause of hydronephrosis is:",
+   "opts": [
+    "Bladder-outlet obstruction",
+    "A spermatocele",
+    "A straddle injury only",
+    "An ectopic testis"
+   ],
+   "ans": 0,
+   "exp": "Bladder-outlet obstruction (Book p333)"
+  },
+  {
+   "id": "SURG-C44-105",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "Posterior urethral valve can cause:",
+   "opts": [
+    "Bilateral hydronephrosis",
+    "Only unilateral varicocele",
+    "Only a renal cyst",
+    "Only a penile tumour"
+   ],
+   "ans": 0,
+   "exp": "Bilateral hydronephrosis (Book p333)"
+  },
+  {
+   "id": "SURG-C44-106",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "Severe phimosis can cause:",
+   "opts": [
+    "Bilateral hydronephrosis",
+    "A horseshoe kidney",
+    "A ureterocele in every case",
+    "A pancreatic cyst"
+   ],
+   "ans": 0,
+   "exp": "Bilateral hydronephrosis (Book p333)"
+  },
+  {
+   "id": "SURG-C44-107",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "Meatal stenosis is listed as a cause of:",
+   "opts": [
+    "Bilateral hydronephrosis",
+    "A renal collar",
+    "Polycystic kidney disease",
+    "A hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Bilateral hydronephrosis (Book p333)"
+  },
+  {
+   "id": "SURG-C44-108",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "The best isotope for assessing renal function is:",
+   "opts": [
+    "MAG-3",
+    "DMSA",
+    "HIDA",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "MAG-3 (Book p333)"
+  },
+  {
+   "id": "SURG-C44-109",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "Technetium-99m DMSA is used to assess:",
+   "opts": [
+    "Structural anomalies and scarring",
+    "Only renal blood flow",
+    "Only ureteric obstruction",
+    "Only bladder capacity"
+   ],
+   "ans": 0,
+   "exp": "Structural anomalies and scarring (Book p333)"
+  },
+  {
+   "id": "SURG-C44-110",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "DTPA and MAG-3 isotope studies assess:",
+   "opts": [
+    "Functioning of the kidney",
+    "Penile blood flow",
+    "Biliary drainage",
+    "Testicular lymphatic drainage"
+   ],
+   "ans": 0,
+   "exp": "Functioning of the kidney (Book p333)"
+  },
+  {
+   "id": "SURG-C44-111",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "DMSA can provide:",
+   "opts": [
+    "Total GFR and differential GFR of the two kidneys",
+    "Only serum bilirubin",
+    "Only the prostate volume",
+    "Only bladder pressure"
+   ],
+   "ans": 0,
+   "exp": "Total GFR and differential GFR of the two kidneys (Book p333)"
+  },
+  {
+   "id": "SURG-C44-112",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "A renal contribution of less than 10% on the isotope study indicates a:",
+   "opts": [
+    "Non-functioning kidney",
+    "Normal kidney that needs no follow-up",
+    "Hyperfunctioning kidney",
+    "Simple renal cyst"
+   ],
+   "ans": 0,
+   "exp": "Non-functioning kidney (Book p333)"
+  },
+  {
+   "id": "SURG-C44-113",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "The listed treatment for a kidney contributing less than 10% is:",
+   "opts": [
+    "Nephrectomy",
+    "Only dietary advice",
+    "Ureteric reimplantation in every case",
+    "Circumcision"
+   ],
+   "ans": 0,
+   "exp": "Nephrectomy (Book p333)"
+  },
+  {
+   "id": "SURG-C44-114",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans",
+   "page": 333,
+   "q": "A renal contribution greater than 10% means the kidney should generally be:",
+   "opts": [
+    "Saved",
+    "Removed immediately",
+    "Ignored permanently",
+    "Treated by penectomy"
+   ],
+   "ans": 0,
+   "exp": "Saved (Book p333)"
+  },
+  {
+   "id": "SURG-C44-115",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "The most common stone-inhibiting factor is:",
+   "opts": [
+    "Citrate",
+    "Oxalate",
+    "Uric acid",
+    "Cystine"
+   ],
+   "ans": 0,
+   "exp": "Citrate (Book p334)"
+  },
+  {
+   "id": "SURG-C44-116",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "The most common type of renal stone is:",
+   "opts": [
+    "Calcium oxalate",
+    "Cystine",
+    "Uric acid",
+    "Xanthine"
+   ],
+   "ans": 0,
+   "exp": "Calcium oxalate (Book p334)"
+  },
+  {
+   "id": "SURG-C44-117",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Calcium oxalate stones are formed in:",
+   "opts": [
+    "Acidic urine",
+    "Strongly alkaline urine only",
+    "Sterile urine only",
+    "Bile"
+   ],
+   "ans": 0,
+   "exp": "Acidic urine (Book p334)"
+  },
+  {
+   "id": "SURG-C44-118",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Calcium oxalate stones are:",
+   "opts": [
+    "Radiopaque",
+    "Always radiolucent",
+    "Visible only on MRI",
+    "Never visible on imaging"
+   ],
+   "ans": 0,
+   "exp": "Radiopaque (Book p334)"
+  },
+  {
+   "id": "SURG-C44-119",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Calcium oxalate monohydrate stones are:",
+   "opts": [
+    "Dumbbell shaped and very hard",
+    "Envelope shaped and soft",
+    "Coffin-lid shaped",
+    "Brick-red and radiolucent"
+   ],
+   "ans": 0,
+   "exp": "Dumbbell shaped and very hard (Book p334)"
+  },
+  {
+   "id": "SURG-C44-120",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Calcium oxalate monohydrate stones are difficult to break by:",
+   "opts": [
+    "ESWL",
+    "MCU",
+    "IVU",
+    "Cystoscopy only"
+   ],
+   "ans": 0,
+   "exp": "ESWL (Book p334)"
+  },
+  {
+   "id": "SURG-C44-121",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Calcium oxalate dihydrate stones are:",
+   "opts": [
+    "Envelope shaped",
+    "Dumbbell shaped",
+    "Hexagonal",
+    "Coffin-lid shaped"
+   ],
+   "ans": 0,
+   "exp": "Envelope shaped (Book p334)"
+  },
+  {
+   "id": "SURG-C44-122",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Calcium oxalate stones with spiculated margins are called:",
+   "opts": [
+    "Mulberry stones",
+    "Jack stones",
+    "Staghorn stones",
+    "Cement stones"
+   ],
+   "ans": 0,
+   "exp": "Mulberry stones (Book p334)"
+  },
+  {
+   "id": "SURG-C44-123",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Mulberry calcium oxalate stones present early with:",
+   "opts": [
+    "Pain and haematuria",
+    "Jaundice and melena",
+    "Painless ascites",
+    "Only fever"
+   ],
+   "ans": 0,
+   "exp": "Pain and haematuria (Book p334)"
+  },
+  {
+   "id": "SURG-C44-124",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Dietary advice for recurrent calcium oxalate stones includes:",
+   "opts": [
+    "Reducing fat content",
+    "Avoiding all calcium",
+    "Increasing oxalate intake",
+    "Avoiding all fluids"
+   ],
+   "ans": 0,
+   "exp": "Reducing fat content (Book p334)"
+  },
+  {
+   "id": "SURG-C44-125",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Another dietary measure for recurrent calcium oxalate stones is:",
+   "opts": [
+    "Increasing calcium intake",
+    "Eliminating dietary calcium",
+    "Increasing purine intake",
+    "Avoiding pyridoxine"
+   ],
+   "ans": 0,
+   "exp": "Increasing calcium intake (Book p334)"
+  },
+  {
+   "id": "SURG-C44-126",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "A medication/nutritional measure listed for recurrent calcium oxalate stones is:",
+   "opts": [
+    "A large dose of pyridoxine",
+    "High-dose vitamin D only",
+    "D-penicillamine",
+    "Dactinomycin"
+   ],
+   "ans": 0,
+   "exp": "A large dose of pyridoxine (Book p334)"
+  },
+  {
+   "id": "SURG-C44-127",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Cholestyramine is listed in the dietary advice for recurrent:",
+   "opts": [
+    "Calcium oxalate stones",
+    "Cystine stones only",
+    "Uric acid stones only",
+    "Struvite stones only"
+   ],
+   "ans": 0,
+   "exp": "Calcium oxalate stones (Book p334)"
+  },
+  {
+   "id": "SURG-C44-128",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Triple-phosphate or struvite stones are also called:",
+   "opts": [
+    "Staghorn stones",
+    "Mulberry stones",
+    "Jack stones",
+    "Coffin stones"
+   ],
+   "ans": 0,
+   "exp": "Staghorn stones (Book p334)"
+  },
+  {
+   "id": "SURG-C44-129",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "The composition of a struvite stone is:",
+   "opts": [
+    "Calcium magnesium ammonium phosphate",
+    "Calcium oxalate monohydrate",
+    "Uric acid only",
+    "Cystine only"
+   ],
+   "ans": 0,
+   "exp": "Calcium magnesium ammonium phosphate (Book p334)"
+  },
+  {
+   "id": "SURG-C44-130",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Struvite stones form in:",
+   "opts": [
+    "Alkaline urine",
+    "Acidic urine only",
+    "Urine with no infection",
+    "Bile"
+   ],
+   "ans": 0,
+   "exp": "Alkaline urine (Book p334)"
+  },
+  {
+   "id": "SURG-C44-131",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "The organism associated with struvite stones is:",
+   "opts": [
+    "Proteus",
+    "Chlamydia",
+    "Candida only",
+    "Mycobacterium tuberculosis only"
+   ],
+   "ans": 0,
+   "exp": "Proteus (Book p334)"
+  },
+  {
+   "id": "SURG-C44-132",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "The crystals of struvite stones are:",
+   "opts": [
+    "Coffin-lid shaped",
+    "Envelope shaped",
+    "Hexagonal",
+    "Glass-shard shaped"
+   ],
+   "ans": 0,
+   "exp": "Coffin-lid shaped (Book p334)"
+  },
+  {
+   "id": "SURG-C44-133",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "The smooth surface of a struvite stone allows it to:",
+   "opts": [
+    "Grow and take the shape of the calyx",
+    "Dissolve in alkaline urine",
+    "Become radiolucent",
+    "Remain microscopic"
+   ],
+   "ans": 0,
+   "exp": "Grow and take the shape of the calyx (Book p334)"
+  },
+  {
+   "id": "SURG-C44-134",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Struvite stones are:",
+   "opts": [
+    "Radiopaque",
+    "Radiolucent",
+    "Visible only on PET",
+    "Never detectable"
+   ],
+   "ans": 0,
+   "exp": "Radiopaque (Book p334)"
+  },
+  {
+   "id": "SURG-C44-135",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Cystine stones are:",
+   "opts": [
+    "Radiopaque",
+    "Always radiolucent",
+    "Seen only on MRI",
+    "Never visible on X-ray"
+   ],
+   "ans": 0,
+   "exp": "Radiopaque (Book p334)"
+  },
+  {
+   "id": "SURG-C44-136",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Cystine stones are characteristically:",
+   "opts": [
+    "Very hard with a hexagonal crystalline lattice",
+    "Soft and envelope shaped",
+    "Coffin-lid shaped",
+    "Brick red and amorphous"
+   ],
+   "ans": 0,
+   "exp": "Very hard with a hexagonal crystalline lattice (Book p334)"
+  },
+  {
+   "id": "SURG-C44-137",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Cystine stones are difficult to break by:",
+   "opts": [
+    "ESWL",
+    "IVU",
+    "MCU",
+    "Urine culture"
+   ],
+   "ans": 0,
+   "exp": "ESWL (Book p334)"
+  },
+  {
+   "id": "SURG-C44-138",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Cystine stones are seen in:",
+   "opts": [
+    "Cystinuria",
+    "Hyperthyroidism",
+    "Horseshoe kidney only",
+    "Balanitis"
+   ],
+   "ans": 0,
+   "exp": "Cystinuria (Book p334)"
+  },
+  {
+   "id": "SURG-C44-139",
+   "sec": "Renal Stone Types and Composition",
+   "page": 334,
+   "q": "Recurrent cystine stones are treated with:",
+   "opts": [
+    "D-penicillamine",
+    "Allopurinol",
+    "Cholestyramine",
+    "Pyridoxine only"
+   ],
+   "ans": 0,
+   "exp": "D-penicillamine (Book p334)"
+  },
+  {
+   "id": "SURG-C44-140",
+   "sec": "Renal Stone Types and Composition",
+   "page": 335,
+   "q": "Uric-acid stones are the most common:",
+   "opts": [
+    "Radiolucent renal stones",
+    "Radiopaque renal stones",
+    "Staghorn stones",
+    "Cystine stones"
+   ],
+   "ans": 0,
+   "exp": "Radiolucent renal stones (Book p335)"
+  },
+  {
+   "id": "SURG-C44-141",
+   "sec": "Renal Stone Types and Composition",
+   "page": 335,
+   "q": "Uric-acid crystals are described as:",
+   "opts": [
+    "Glass shards",
+    "Coffin lids",
+    "Envelopes",
+    "Hexagonal lattices"
+   ],
+   "ans": 0,
+   "exp": "Glass shards (Book p335)"
+  },
+  {
+   "id": "SURG-C44-142",
+   "sec": "Renal Stone Types and Composition",
+   "page": 335,
+   "q": "Uric-acid stones may be seen in:",
+   "opts": [
+    "Tumour lysis syndrome",
+    "Hypospadias",
+    "Hydrocele",
+    "Posterior urethral valves only"
+   ],
+   "ans": 0,
+   "exp": "Tumour lysis syndrome (Book p335)"
+  },
+  {
+   "id": "SURG-C44-143",
+   "sec": "Renal Stone Types and Composition",
+   "page": 335,
+   "q": "Recurrent uric-acid stones are treated with:",
+   "opts": [
+    "Allopurinol",
+    "D-penicillamine",
+    "Pyridoxine",
+    "Cholestyramine only"
+   ],
+   "ans": 0,
+   "exp": "Allopurinol (Book p335)"
+  },
+  {
+   "id": "SURG-C44-144",
+   "sec": "Renal Stone Types and Composition",
+   "page": 335,
+   "q": "Which is a rare radiolucent stone listed in the chapter?",
+   "opts": [
+    "Xanthine stone",
+    "Calcium oxalate",
+    "Struvite",
+    "Cystine"
+   ],
+   "ans": 0,
+   "exp": "Xanthine stone (Book p335)"
+  },
+  {
+   "id": "SURG-C44-145",
+   "sec": "Renal Stone Types and Composition",
+   "page": 335,
+   "q": "Xanthine stones are described as:",
+   "opts": [
+    "Brick red",
+    "Coffin-lid shaped",
+    "Envelope shaped",
+    "Dumbbell shaped"
+   ],
+   "ans": 0,
+   "exp": "Brick red (Book p335)"
+  },
+  {
+   "id": "SURG-C44-146",
+   "sec": "Renal Stone Types and Composition",
+   "page": 335,
+   "q": "Which is another rare stone listed in the chapter?",
+   "opts": [
+    "Indinavir stone",
+    "Struvite stone",
+    "Mulberry stone",
+    "Calcium oxalate dihydrate"
+   ],
+   "ans": 0,
+   "exp": "Indinavir stone (Book p335)"
+  },
+  {
+   "id": "SURG-C44-147",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "The most common presentation of a renal stone is:",
+   "opts": [
+    "Pain",
+    "Jaundice",
+    "Painless penile mass",
+    "Haemoptysis"
+   ],
+   "ans": 0,
+   "exp": "Pain (Book p335)"
+  },
+  {
+   "id": "SURG-C44-148",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "Fixed renal pain is localized to the renal angle because of distension of the:",
+   "opts": [
+    "Renal capsule",
+    "Tunica vaginalis",
+    "Bladder wall only",
+    "Peritoneum alone"
+   ],
+   "ans": 0,
+   "exp": "Renal capsule (Book p335)"
+  },
+  {
+   "id": "SURG-C44-149",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "Pain from a stone in the renal pelvis radiates from the:",
+   "opts": [
+    "Loin to the groin",
+    "Shoulder to the arm",
+    "Chest to the back",
+    "Perineum to the neck"
+   ],
+   "ans": 0,
+   "exp": "Loin to the groin (Book p335)"
+  },
+  {
+   "id": "SURG-C44-150",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "Pain from an upper or middle ureteric stone follows the:",
+   "opts": [
+    "Iliohypogastric or obturator nerve",
+    "Facial nerve",
+    "Vagus nerve",
+    "Phrenic nerve"
+   ],
+   "ans": 0,
+   "exp": "Iliohypogastric or obturator nerve (Book p335)"
+  },
+  {
+   "id": "SURG-C44-151",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "Pain from a lower ureteric stone follows the:",
+   "opts": [
+    "Ilioinguinal nerve",
+    "Optic nerve",
+    "Radial nerve",
+    "Greater occipital nerve"
+   ],
+   "ans": 0,
+   "exp": "Ilioinguinal nerve (Book p335)"
+  },
+  {
+   "id": "SURG-C44-152",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "A stone impacted in the intramural ureter produces:",
+   "opts": [
+    "Strangury",
+    "Courvoisier's law",
+    "Peyronie's disease",
+    "A hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Strangury (Book p335)"
+  },
+  {
+   "id": "SURG-C44-153",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "Strangury is characterized by an intense urge to micturate and pain at the:",
+   "opts": [
+    "Tip of the penis or vagina",
+    "Renal angle only",
+    "Umbilicus",
+    "Right shoulder"
+   ],
+   "ans": 0,
+   "exp": "Tip of the penis or vagina (Book p335)"
+  },
+  {
+   "id": "SURG-C44-154",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "In strangury, the patient may pass:",
+   "opts": [
+    "Only a few drops of bloody urine",
+    "A large volume of clear urine immediately",
+    "Only bile",
+    "No urine ever"
+   ],
+   "ans": 0,
+   "exp": "Only a few drops of bloody urine (Book p335)"
+  },
+  {
+   "id": "SURG-C44-155",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "Other presentations of renal stones include:",
+   "opts": [
+    "Haematuria and hydronephrosis",
+    "Painless jaundice and ascites",
+    "Cannonball metastases",
+    "Only fever"
+   ],
+   "ans": 0,
+   "exp": "Haematuria and hydronephrosis (Book p335)"
+  },
+  {
+   "id": "SURG-C44-156",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "Dietl's crisis consists of pain and a palpable mass followed by:",
+   "opts": [
+    "A large quantity of diluted urine",
+    "Complete anuria forever",
+    "Haematemesis",
+    "Purulent biliary drainage"
+   ],
+   "ans": 0,
+   "exp": "A large quantity of diluted urine (Book p335)"
+  },
+  {
+   "id": "SURG-C44-157",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "The investigation of choice for renal stones is:",
+   "opts": [
+    "Non-contrast CT KUB",
+    "Contrast CT only",
+    "HIDA scan",
+    "Micturating cystourethrogram"
+   ],
+   "ans": 0,
+   "exp": "Non-contrast CT KUB (Book p335)"
+  },
+  {
+   "id": "SURG-C44-158",
+   "sec": "Renal Stone Presentation and Investigation",
+   "page": 335,
+   "q": "NCCT in renal stones stands for:",
+   "opts": [
+    "Non-contrast computed tomography",
+    "Nuclear contrast cystoscopy test",
+    "Nephrocalyceal contrast therapy",
+    "Non-cardiac chest tomography"
+   ],
+   "ans": 0,
+   "exp": "Non-contrast computed tomography (Book p335)"
+  },
+  {
+   "id": "SURG-C44-159",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "A renal stone smaller than 5 mm requires:",
+   "opts": [
+    "No active management",
+    "Immediate PCNL",
+    "Radical nephrectomy",
+    "Mandatory ureteric reimplantation"
+   ],
+   "ans": 0,
+   "exp": "No active management (Book p336)"
+  },
+  {
+   "id": "SURG-C44-160",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "For a symptomatic stone larger than 5–6 mm, the first-line treatment is:",
+   "opts": [
+    "Medical expulsive therapy",
+    "Immediate nephrectomy",
+    "Only antibiotics",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Medical expulsive therapy (Book p336)"
+  },
+  {
+   "id": "SURG-C44-161",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "The alpha blocker used for medical expulsive therapy is:",
+   "opts": [
+    "Tamsulosin",
+    "Allopurinol",
+    "D-penicillamine",
+    "Dactinomycin"
+   ],
+   "ans": 0,
+   "exp": "Tamsulosin (Book p336)"
+  },
+  {
+   "id": "SURG-C44-162",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "If medical management fails for a symptomatic 5–6 mm stone, the first-line intervention is:",
+   "opts": [
+    "Extracorporeal shock-wave lithotripsy",
+    "Open cystolithotomy",
+    "Total penectomy",
+    "Observation forever"
+   ],
+   "ans": 0,
+   "exp": "Extracorporeal shock-wave lithotripsy (Book p336)"
+  },
+  {
+   "id": "SURG-C44-163",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "ESWL works by:",
+   "opts": [
+    "Blast-wave dynamics using ultrasonic waves",
+    "Chemical dissolution only",
+    "Direct surgical extraction through the urethra",
+    "Radioiodine ablation"
+   ],
+   "ans": 0,
+   "exp": "Blast-wave dynamics using ultrasonic waves (Book p336)"
+  },
+  {
+   "id": "SURG-C44-164",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "The most common complication of ESWL is:",
+   "opts": [
+    "Pain",
+    "Renal agenesis",
+    "Penile fracture",
+    "Biliary fistula"
+   ],
+   "ans": 0,
+   "exp": "Pain (Book p336)"
+  },
+  {
+   "id": "SURG-C44-165",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "Another complication of ESWL is:",
+   "opts": [
+    "Urinary tract infection",
+    "Peyronie's disease",
+    "Hydrocele",
+    "Aortic coarctation"
+   ],
+   "ans": 0,
+   "exp": "Urinary tract infection (Book p336)"
+  },
+  {
+   "id": "SURG-C44-166",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "Another complication of ESWL is:",
+   "opts": [
+    "Haematuria",
+    "Painless jaundice",
+    "Scrotal transillumination",
+    "Bifid clitoris"
+   ],
+   "ans": 0,
+   "exp": "Haematuria (Book p336)"
+  },
+  {
+   "id": "SURG-C44-167",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "Stone street or steinstrasse after ESWL is prevented with a:",
+   "opts": [
+    "DJ stent",
+    "Foley catheter only",
+    "Biliary stent",
+    "Peritoneal drain"
+   ],
+   "ans": 0,
+   "exp": "DJ stent (Book p336)"
+  },
+  {
+   "id": "SURG-C44-168",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "ESWL is contraindicated in:",
+   "opts": [
+    "Pregnancy",
+    "A normal kidney",
+    "A small ureteric stone",
+    "A patient without infection"
+   ],
+   "ans": 0,
+   "exp": "Pregnancy (Book p336)"
+  },
+  {
+   "id": "SURG-C44-169",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "Another contraindication to ESWL is an:",
+   "opts": [
+    "Uncontrolled bleeding disorder",
+    "Old healed fracture",
+    "Asymptomatic renal cyst",
+    "Ectopic ureter"
+   ],
+   "ans": 0,
+   "exp": "Uncontrolled bleeding disorder (Book p336)"
+  },
+  {
+   "id": "SURG-C44-170",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "ESWL is avoided in a patient who is:",
+   "opts": [
+    "Obese",
+    "Normotensive",
+    "Aged 20 years",
+    "Mildly anaemic only"
+   ],
+   "ans": 0,
+   "exp": "Obese (Book p336)"
+  },
+  {
+   "id": "SURG-C44-171",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "A cardiac pacemaker is listed as a:",
+   "opts": [
+    "Contraindication to ESWL",
+    "Mandatory indication for ESWL",
+    "Treatment for stricture",
+    "Type of renal stone"
+   ],
+   "ans": 0,
+   "exp": "Contraindication to ESWL (Book p336)"
+  },
+  {
+   "id": "SURG-C44-172",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "ESWL is contraindicated for a stone larger than:",
+   "opts": [
+    "1.5 cm",
+    "0.15 cm",
+    "5 cm",
+    "15 cm"
+   ],
+   "ans": 0,
+   "exp": "1.5 cm (Book p336)"
+  },
+  {
+   "id": "SURG-C44-173",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "ESWL is contraindicated for a:",
+   "opts": [
+    "Very hard cystine or calcium oxalate monohydrate stone",
+    "Soft uric-acid stone only",
+    "Simple renal cyst",
+    "Small struvite fragment"
+   ],
+   "ans": 0,
+   "exp": "Very hard cystine or calcium oxalate monohydrate stone (Book p336)"
+  },
+  {
+   "id": "SURG-C44-174",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "A lower-calyx stone is listed as:",
+   "opts": [
+    "A contraindication to ESWL",
+    "An absolute indication for ESWL",
+    "A type of bladder stone",
+    "A cause of phimosis"
+   ],
+   "ans": 0,
+   "exp": "A contraindication to ESWL (Book p336)"
+  },
+  {
+   "id": "SURG-C44-175",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "An obstructed urinary system is listed as:",
+   "opts": [
+    "A contraindication to ESWL",
+    "A routine indication for ESWL",
+    "A type of hydrocele",
+    "A form of renal agenesis"
+   ],
+   "ans": 0,
+   "exp": "A contraindication to ESWL (Book p336)"
+  },
+  {
+   "id": "SURG-C44-176",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "RIRS stands for:",
+   "opts": [
+    "Retrograde intrarenal surgery",
+    "Renal isotope reflux study",
+    "Rapid internal renal stenting",
+    "Retroperitoneal incision and renal suturing"
+   ],
+   "ans": 0,
+   "exp": "Retrograde intrarenal surgery (Book p336)"
+  },
+  {
+   "id": "SURG-C44-177",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "RIRS is indicated for stones:",
+   "opts": [
+    "Smaller than 2 cm",
+    "Larger than 5 cm",
+    "Only larger than 10 cm",
+    "Only in the bladder"
+   ],
+   "ans": 0,
+   "exp": "Smaller than 2 cm (Book p336)"
+  },
+  {
+   "id": "SURG-C44-178",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "RIRS is particularly useful for a stone in the:",
+   "opts": [
+    "Lower pole",
+    "Gallbladder",
+    "Prostate",
+    "Scrotum"
+   ],
+   "ans": 0,
+   "exp": "Lower pole (Book p336)"
+  },
+  {
+   "id": "SURG-C44-179",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "RIRS is an alternative to ESWL in:",
+   "opts": [
+    "Obesity",
+    "A normal-weight patient with no stone",
+    "Painless jaundice",
+    "Hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Obesity (Book p336)"
+  },
+  {
+   "id": "SURG-C44-180",
+   "sec": "Management of Renal Stones",
+   "page": 336,
+   "q": "A musculoskeletal deformity is an indication for:",
+   "opts": [
+    "RIRS",
+    "Only open nephrectomy",
+    "Only circumcision",
+    "Only radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "RIRS (Book p336)"
+  },
+  {
+   "id": "SURG-C44-181",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "URS stands for:",
+   "opts": [
+    "Ureteroscopic removal of stones",
+    "Ultrasound renal surgery",
+    "Ureteric reflux scoring",
+    "Urethral repair syndrome"
+   ],
+   "ans": 0,
+   "exp": "Ureteroscopic removal of stones (Book p337)"
+  },
+  {
+   "id": "SURG-C44-182",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "In URS, the stone is visualized and removed via the:",
+   "opts": [
+    "Ureter",
+    "Portal vein",
+    "Scrotal skin",
+    "Bile duct"
+   ],
+   "ans": 0,
+   "exp": "Ureter (Book p337)"
+  },
+  {
+   "id": "SURG-C44-183",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "The laser used in URS is:",
+   "opts": [
+    "Holmium:YAG",
+    "CO2 laser only",
+    "Argon laser only",
+    "Excimer laser only"
+   ],
+   "ans": 0,
+   "exp": "Holmium:YAG (Book p337)"
+  },
+  {
+   "id": "SURG-C44-184",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "The basket used to retrieve a ureteric stone during URS is the:",
+   "opts": [
+    "Dormia basket",
+    "Fogarty basket",
+    "Cabanas basket",
+    "Jaboulay basket"
+   ],
+   "ans": 0,
+   "exp": "Dormia basket (Book p337)"
+  },
+  {
+   "id": "SURG-C44-185",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "PCNL stands for:",
+   "opts": [
+    "Percutaneous nephrolithotomy",
+    "Posterior cystic nephrolithiasis lesion",
+    "Pelvic-caliceal nephron lavage",
+    "Prostatic catheter nephrostomy loop"
+   ],
+   "ans": 0,
+   "exp": "Percutaneous nephrolithotomy (Book p337)"
+  },
+  {
+   "id": "SURG-C44-186",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "PCNL is indicated for stones larger than:",
+   "opts": [
+    "2 cm",
+    "2 mm",
+    "5 mm only",
+    "10 cm"
+   ],
+   "ans": 0,
+   "exp": "2 cm (Book p337)"
+  },
+  {
+   "id": "SURG-C44-187",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "PCNL is indicated when ESWL or RIRS has:",
+   "opts": [
+    "Failed",
+    "Never been considered",
+    "Already cured the stone",
+    "Produced a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Failed (Book p337)"
+  },
+  {
+   "id": "SURG-C44-188",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "A lower-pole stone unfavourable for ESWL is an indication for:",
+   "opts": [
+    "PCNL",
+    "Only observation",
+    "Only medical expulsive therapy",
+    "Only cystoscopy"
+   ],
+   "ans": 0,
+   "exp": "PCNL (Book p337)"
+  },
+  {
+   "id": "SURG-C44-189",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "Staghorn calculi are an indication for:",
+   "opts": [
+    "PCNL",
+    "Circumcision",
+    "Nesbit's procedure",
+    "HIDA scanning"
+   ],
+   "ans": 0,
+   "exp": "PCNL (Book p337)"
+  },
+  {
+   "id": "SURG-C44-190",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "A hydronephrotic kidney with a large stone is listed as an indication for:",
+   "opts": [
+    "PCNL",
+    "Only oral antibiotics",
+    "Only RIRS in every case",
+    "Only urethral dilatation"
+   ],
+   "ans": 0,
+   "exp": "PCNL (Book p337)"
+  },
+  {
+   "id": "SURG-C44-191",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "Mini-PCNL uses a tract smaller than:",
+   "opts": [
+    "28 French",
+    "2 French",
+    "5 French",
+    "100 French"
+   ],
+   "ans": 0,
+   "exp": "28 French (Book p337)"
+  },
+  {
+   "id": "SURG-C44-192",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "Mini-PCNL is useful in children and patients with:",
+   "opts": [
+    "A smaller disease burden",
+    "Only a bladder tumour",
+    "Only a renal agenesis",
+    "Only a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "A smaller disease burden (Book p337)"
+  },
+  {
+   "id": "SURG-C44-193",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "The most common complication of PCNL is:",
+   "opts": [
+    "Bruising",
+    "Painless jaundice",
+    "Penile fracture",
+    "Cannonball metastasis"
+   ],
+   "ans": 0,
+   "exp": "Bruising (Book p337)"
+  },
+  {
+   "id": "SURG-C44-194",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "A complication of PCNL is:",
+   "opts": [
+    "Haematuria",
+    "A keyhole bladder",
+    "A scrotal cyst",
+    "Bifid clitoris"
+   ],
+   "ans": 0,
+   "exp": "Haematuria (Book p337)"
+  },
+  {
+   "id": "SURG-C44-195",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "Another complication of PCNL is:",
+   "opts": [
+    "Colonic injury",
+    "Only renal agenesis",
+    "Only biliary colic",
+    "Only varicocele"
+   ],
+   "ans": 0,
+   "exp": "Colonic injury (Book p337)"
+  },
+  {
+   "id": "SURG-C44-196",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "Another complication of PCNL is:",
+   "opts": [
+    "Pneumothorax",
+    "Hydrocele",
+    "Peyronie's disease",
+    "Ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Pneumothorax (Book p337)"
+  },
+  {
+   "id": "SURG-C44-197",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "In the stone-management algorithm, a stone smaller than 5 mm is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate PCNL",
+    "Radical nephrectomy",
+    "Open bladder surgery"
+   ],
+   "ans": 0,
+   "exp": "Observation (Book p337)"
+  },
+  {
+   "id": "SURG-C44-198",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "In the algorithm, a larger symptomatic stone is first treated with:",
+   "opts": [
+    "Tamsulosin",
+    "Dactinomycin",
+    "D-penicillamine",
+    "A dorsal slit"
+   ],
+   "ans": 0,
+   "exp": "Tamsulosin (Book p337)"
+  },
+  {
+   "id": "SURG-C44-199",
+   "sec": "Management of Renal Stones",
+   "page": 337,
+   "q": "After failed or contraindicated ESWL, the algorithm proceeds to:",
+   "opts": [
+    "RIRS or PCNL",
+    "Only circumcision",
+    "Only radiotherapy",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "RIRS or PCNL (Book p337)"
+  },
+  {
+   "id": "SURG-C44-200",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "The investigation of choice for a ureteric stone is:",
+   "opts": [
+    "NCCT",
+    "HIDA scan",
+    "Micturating cystourethrogram",
+    "Barium enema"
+   ],
+   "ans": 0,
+   "exp": "NCCT (Book p338)"
+  },
+  {
+   "id": "SURG-C44-201",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "A gallbladder stone can mimic a ureteric stone; on a lateral X-ray the gallbladder stone is:",
+   "opts": [
+    "Anterior",
+    "Posterior",
+    "Inside the urethra",
+    "Always intrarenal"
+   ],
+   "ans": 0,
+   "exp": "Anterior (Book p338)"
+  },
+  {
+   "id": "SURG-C44-202",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "A calcified 11th rib is listed as a differential diagnosis of a:",
+   "opts": [
+    "Ureteric stone",
+    "Bladder tumour",
+    "Hydrocele",
+    "Penile cancer"
+   ],
+   "ans": 0,
+   "exp": "Ureteric stone (Book p338)"
+  },
+  {
+   "id": "SURG-C44-203",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "The treatment of a ureteric stone larger than 5 mm listed on this page is:",
+   "opts": [
+    "Ureteroscopic removal with a Dormia basket",
+    "Immediate total nephrectomy",
+    "Only oral analgesia forever",
+    "Perineal urethrostomy"
+   ],
+   "ans": 0,
+   "exp": "Ureteroscopic removal with a Dormia basket (Book p338)"
+  },
+  {
+   "id": "SURG-C44-204",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "Primary bladder stones are formed in:",
+   "opts": [
+    "Sterile urine",
+    "Infected urine only",
+    "Bile",
+    "The renal vein"
+   ],
+   "ans": 0,
+   "exp": "Sterile urine (Book p338)"
+  },
+  {
+   "id": "SURG-C44-205",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "Primary bladder stones usually occur in:",
+   "opts": [
+    "Children",
+    "Elderly women only",
+    "Patients after nephrectomy only",
+    "Newborn girls only"
+   ],
+   "ans": 0,
+   "exp": "Children (Book p338)"
+  },
+  {
+   "id": "SURG-C44-206",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "The most common primary bladder stone is a:",
+   "opts": [
+    "Mixed urate stone",
+    "Cystine stone",
+    "Pure calcium carbonate stone",
+    "Struvite stone only"
+   ],
+   "ans": 0,
+   "exp": "Mixed urate stone (Book p338)"
+  },
+  {
+   "id": "SURG-C44-207",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "Secondary bladder stones are caused by:",
+   "opts": [
+    "Infection or obstruction",
+    "Only sterile urine",
+    "Only a renal cyst",
+    "Only a hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Infection or obstruction (Book p338)"
+  },
+  {
+   "id": "SURG-C44-208",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "Secondary bladder stones are usually seen in:",
+   "opts": [
+    "Adults",
+    "Only neonates",
+    "Only children",
+    "Only pregnant women"
+   ],
+   "ans": 0,
+   "exp": "Adults (Book p338)"
+  },
+  {
+   "id": "SURG-C44-209",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "The common secondary bladder stone listed is:",
+   "opts": [
+    "Calcium oxalate, or a Jack stone",
+    "Coffin-lid struvite only",
+    "A cystine lattice",
+    "A uric-acid glass shard only"
+   ],
+   "ans": 0,
+   "exp": "Calcium oxalate, or a Jack stone (Book p338)"
+  },
+  {
+   "id": "SURG-C44-210",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "Bladder stones may present with:",
+   "opts": [
+    "Haematuria and pain",
+    "Painless jaundice",
+    "Only a scrotal mass",
+    "Only a cough"
+   ],
+   "ans": 0,
+   "exp": "Haematuria and pain (Book p338)"
+  },
+  {
+   "id": "SURG-C44-211",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "The investigation of choice for bladder stones is:",
+   "opts": [
+    "NCCT",
+    "HIDA scan",
+    "PET-CT only",
+    "Retrograde urethrogram only"
+   ],
+   "ans": 0,
+   "exp": "NCCT (Book p338)"
+  },
+  {
+   "id": "SURG-C44-212",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "The first-line operation for bladder stone is:",
+   "opts": [
+    "Perurethral cystolithotomy",
+    "Radical nephrectomy",
+    "Partial penectomy",
+    "Open splenectomy"
+   ],
+   "ans": 0,
+   "exp": "Perurethral cystolithotomy (Book p338)"
+  },
+  {
+   "id": "SURG-C44-213",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "A urethral stricture is a contraindication to perurethral cystolithotomy and is managed with:",
+   "opts": [
+    "Suprapubic cystolithotomy",
+    "Only ESWL",
+    "Only circumcision",
+    "Only observation"
+   ],
+   "ans": 0,
+   "exp": "Suprapubic cystolithotomy (Book p338)"
+  },
+  {
+   "id": "SURG-C44-214",
+   "sec": "Ureteric and Bladder Stones",
+   "page": 338,
+   "q": "A bladder diverticulum is a contraindication to perurethral cystolithotomy and is managed with:",
+   "opts": [
+    "Suprapubic cystolithotomy",
+    "RIRS only",
+    "Fulguration of posterior valves",
+    "Hydrocelectomy"
+   ],
+   "ans": 0,
+   "exp": "Suprapubic cystolithotomy (Book p338)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U44-1",
+   "ch": 44,
+   "n": 1,
+   "title": "Surgical Anatomy and Applied Renal Relationships",
+   "sec": "Surgical Anatomy and Applied Renal Relationships · p327",
+   "qs": [
+    "SURG-C44-001",
+    "SURG-C44-002",
+    "SURG-C44-003",
+    "SURG-C44-004",
+    "SURG-C44-005",
+    "SURG-C44-006",
+    "SURG-C44-007",
+    "SURG-C44-008",
+    "SURG-C44-009",
+    "SURG-C44-010",
+    "SURG-C44-011"
+   ],
+   "guide": "The kidney begins from metanephric buds in the iliac fossa and ascends to the lumbar region. Surgical relationships are high yield: the long left renal vein is the preferred donor side, its compression between SMA and aorta causes nutcracker syndrome, and the renal hilum reads posterior pelvis, middle artery, anterior vein."
+  },
+  {
+   "id": "SURG-U44-2",
+   "ch": 44,
+   "n": 2,
+   "title": "Renal Agenesis and Duplication of the Ureteric System",
+   "sec": "Renal Agenesis and Duplication of the Ureteric System · p328",
+   "qs": [
+    "SURG-C44-012",
+    "SURG-C44-013",
+    "SURG-C44-014",
+    "SURG-C44-015",
+    "SURG-C44-016",
+    "SURG-C44-017",
+    "SURG-C44-018",
+    "SURG-C44-019",
+    "SURG-C44-020",
+    "SURG-C44-021",
+    "SURG-C44-022",
+    "SURG-C44-023",
+    "SURG-C44-024",
+    "SURG-C44-025",
+    "SURG-C44-026",
+    "SURG-C44-027"
+   ],
+   "guide": "Renal agenesis is usually unilateral and travels with ipsilateral ureter/hemitrigone absence plus sex-specific genital anomalies. In a duplicated system, apply Weigert–Meyer: the upper-pole ureter ends distally and medially, producing ectopic drainage and the wet child, while IVU shows the drooping lily sign and symptomatic ectopic ureter is reimplanted."
+  },
+  {
+   "id": "SURG-U44-3",
+   "ch": 44,
+   "n": 3,
+   "title": "Polycystic Kidney Disease",
+   "sec": "Polycystic Kidney Disease · p329",
+   "qs": [
+    "SURG-C44-028",
+    "SURG-C44-029",
+    "SURG-C44-030",
+    "SURG-C44-031",
+    "SURG-C44-032",
+    "SURG-C44-033",
+    "SURG-C44-034",
+    "SURG-C44-035",
+    "SURG-C44-036",
+    "SURG-C44-037",
+    "SURG-C44-038",
+    "SURG-C44-039",
+    "SURG-C44-040",
+    "SURG-C44-041",
+    "SURG-C44-042",
+    "SURG-C44-043",
+    "SURG-C44-044",
+    "SURG-C44-045",
+    "SURG-C44-046",
+    "SURG-C44-047",
+    "SURG-C44-048",
+    "SURG-C44-049",
+    "SURG-C44-050"
+   ],
+   "guide": "Contrast infantile AR PKHD1-on-6 disease, often lethal from hepatic fibrosis, with adult AD PKD1-on-16/PKD2-on-4 disease. Enlarging cysts compress renal tissue and cause young hypertension, pain, haematuria and renal failure; liver cysts, berry aneurysm, diverticulosis and mitral prolapse are the extra-renal map, while advanced disease may need vasopressin antagonists, mTOR inhibition, dialysis or transplant."
+  },
+  {
+   "id": "SURG-U44-4",
+   "ch": 44,
+   "n": 4,
+   "title": "Multicystic Dysplastic Kidney and Horseshoe Kidney",
+   "sec": "Multicystic Dysplastic Kidney and Horseshoe Kidney · p330",
+   "qs": [
+    "SURG-C44-051",
+    "SURG-C44-052",
+    "SURG-C44-053",
+    "SURG-C44-054",
+    "SURG-C44-055",
+    "SURG-C44-056",
+    "SURG-C44-057",
+    "SURG-C44-058",
+    "SURG-C44-059",
+    "SURG-C44-060",
+    "SURG-C44-061",
+    "SURG-C44-062",
+    "SURG-C44-063",
+    "SURG-C44-064",
+    "SURG-C44-065",
+    "SURG-C44-066",
+    "SURG-C44-067"
+   ],
+   "guide": "Multicystic dysplastic kidney can be unilateral or lethal when bilateral. Horseshoe kidney is a fused lower-pole kidney held below the inferior mesenteric artery: it may be asymptomatic but brings stones, infection and hydronephrosis; IVU gives a flower-vase/handshake sign, pyeloplasty relieves obstruction, and the isthmus is not divided except for a symptomatic abdominal aortic aneurysm."
+  },
+  {
+   "id": "SURG-U44-5",
+   "ch": 44,
+   "n": 5,
+   "title": "Hydronephrosis and PUJ Obstruction",
+   "sec": "Hydronephrosis and PUJ Obstruction · p331",
+   "qs": [
+    "SURG-C44-068",
+    "SURG-C44-069",
+    "SURG-C44-070",
+    "SURG-C44-071",
+    "SURG-C44-072",
+    "SURG-C44-073",
+    "SURG-C44-074",
+    "SURG-C44-075",
+    "SURG-C44-076",
+    "SURG-C44-077",
+    "SURG-C44-078",
+    "SURG-C44-079",
+    "SURG-C44-080",
+    "SURG-C44-081",
+    "SURG-C44-082",
+    "SURG-C44-083",
+    "SURG-C44-084",
+    "SURG-C44-085",
+    "SURG-C44-086",
+    "SURG-C44-087",
+    "SURG-C44-088",
+    "SURG-C44-089",
+    "SURG-C44-090",
+    "SURG-C44-091",
+    "SURG-C44-092",
+    "SURG-C44-093",
+    "SURG-C44-094",
+    "SURG-C44-095",
+    "SURG-C44-096",
+    "SURG-C44-097",
+    "SURG-C44-098",
+    "SURG-C44-099"
+   ],
+   "guide": "Hydronephrosis is aseptic pelvicalyceal dilation from intraluminal, intramural or extraluminal obstruction. Renal stones are the common acquired intraluminal cause, PUJ obstruction the common congenital intramural cause, and Anderson–Hynes treats symptomatic PUJ obstruction. Remember every named clue: goblet, cobra/adder head, maiden waist and the obstruction-specific repairs."
+  },
+  {
+   "id": "SURG-U44-6",
+   "ch": 44,
+   "n": 6,
+   "title": "Retrocaval Ureter and Renal Isotope Scans",
+   "sec": "Retrocaval Ureter and Renal Isotope Scans · p333",
+   "qs": [
+    "SURG-C44-100",
+    "SURG-C44-101",
+    "SURG-C44-102",
+    "SURG-C44-103",
+    "SURG-C44-104",
+    "SURG-C44-105",
+    "SURG-C44-106",
+    "SURG-C44-107",
+    "SURG-C44-108",
+    "SURG-C44-109",
+    "SURG-C44-110",
+    "SURG-C44-111",
+    "SURG-C44-112",
+    "SURG-C44-113",
+    "SURG-C44-114"
+   ],
+   "guide": "A right retrocaval ureter lies behind the IVC and creates a fish-hook/reverse-J outline; lateralization and a DJ stent restore patency. MAG-3 best assesses function, DMSA shows scars and structure, and differential contribution below 10% marks a non-functioning kidney for nephrectomy while a contribution above 10% is saved."
+  },
+  {
+   "id": "SURG-U44-7",
+   "ch": 44,
+   "n": 7,
+   "title": "Renal Stone Types and Composition",
+   "sec": "Renal Stone Types and Composition · p334",
+   "qs": [
+    "SURG-C44-115",
+    "SURG-C44-116",
+    "SURG-C44-117",
+    "SURG-C44-118",
+    "SURG-C44-119",
+    "SURG-C44-120",
+    "SURG-C44-121",
+    "SURG-C44-122",
+    "SURG-C44-123",
+    "SURG-C44-124",
+    "SURG-C44-125",
+    "SURG-C44-126",
+    "SURG-C44-127",
+    "SURG-C44-128",
+    "SURG-C44-129",
+    "SURG-C44-130",
+    "SURG-C44-131",
+    "SURG-C44-132",
+    "SURG-C44-133",
+    "SURG-C44-134",
+    "SURG-C44-135",
+    "SURG-C44-136",
+    "SURG-C44-137",
+    "SURG-C44-138",
+    "SURG-C44-139",
+    "SURG-C44-140",
+    "SURG-C44-141",
+    "SURG-C44-142",
+    "SURG-C44-143",
+    "SURG-C44-144",
+    "SURG-C44-145",
+    "SURG-C44-146"
+   ],
+   "guide": "Citrate inhibits stones; calcium oxalate is common, acidic and radiopaque, struvite is alkaline Proteus-driven staghorn, cystine is hard and hexagonal in cystinuria, and uric acid is the common radiolucent stone linked to tumour lysis. Keep the crystal shapes, dietary measures and recurrent-stone drugs tied to their stone type."
+  },
+  {
+   "id": "SURG-U44-8",
+   "ch": 44,
+   "n": 8,
+   "title": "Renal Stone Presentation and Investigation",
+   "sec": "Renal Stone Presentation and Investigation · p335",
+   "qs": [
+    "SURG-C44-147",
+    "SURG-C44-148",
+    "SURG-C44-149",
+    "SURG-C44-150",
+    "SURG-C44-151",
+    "SURG-C44-152",
+    "SURG-C44-153",
+    "SURG-C44-154",
+    "SURG-C44-155",
+    "SURG-C44-156",
+    "SURG-C44-157",
+    "SURG-C44-158"
+   ],
+   "guide": "Stone pain follows anatomy: renal pelvis loin-to-groin, upper/mid ureter along iliohypogastric/obturator pathways, lower ureter along ilioinguinal pathway, and intramural impaction causes strangury. Dietl's crisis ends in a gush of dilute urine; NCCT KUB is the investigation of choice."
+  },
+  {
+   "id": "SURG-U44-9",
+   "ch": 44,
+   "n": 9,
+   "title": "Management of Renal Stones",
+   "sec": "Management of Renal Stones · p336",
+   "qs": [
+    "SURG-C44-159",
+    "SURG-C44-160",
+    "SURG-C44-161",
+    "SURG-C44-162",
+    "SURG-C44-163",
+    "SURG-C44-164",
+    "SURG-C44-165",
+    "SURG-C44-166",
+    "SURG-C44-167",
+    "SURG-C44-168",
+    "SURG-C44-169",
+    "SURG-C44-170",
+    "SURG-C44-171",
+    "SURG-C44-172",
+    "SURG-C44-173",
+    "SURG-C44-174",
+    "SURG-C44-175",
+    "SURG-C44-176",
+    "SURG-C44-177",
+    "SURG-C44-178",
+    "SURG-C44-179",
+    "SURG-C44-180",
+    "SURG-C44-181",
+    "SURG-C44-182",
+    "SURG-C44-183",
+    "SURG-C44-184",
+    "SURG-C44-185",
+    "SURG-C44-186",
+    "SURG-C44-187",
+    "SURG-C44-188",
+    "SURG-C44-189",
+    "SURG-C44-190",
+    "SURG-C44-191",
+    "SURG-C44-192",
+    "SURG-C44-193",
+    "SURG-C44-194",
+    "SURG-C44-195",
+    "SURG-C44-196",
+    "SURG-C44-197",
+    "SURG-C44-198",
+    "SURG-C44-199"
+   ],
+   "guide": "Use the size algorithm without shortcuts: under 5 mm observe; symptomatic 5–6 mm gets tamsulosin and then ESWL if medical therapy fails. ESWL uses blast-wave ultrasound but is avoided in pregnancy, bleeding disorders, obesity, pacemakers, children, large/hard/lower-calyx stones and obstruction; RIRS handles smaller lower-pole stones and PCNL handles large, staghorn, hydronephrotic or previously failed cases."
+  },
+  {
+   "id": "SURG-U44-10",
+   "ch": 44,
+   "n": 10,
+   "title": "Ureteric and Bladder Stones",
+   "sec": "Ureteric and Bladder Stones · p338",
+   "qs": [
+    "SURG-C44-200",
+    "SURG-C44-201",
+    "SURG-C44-202",
+    "SURG-C44-203",
+    "SURG-C44-204",
+    "SURG-C44-205",
+    "SURG-C44-206",
+    "SURG-C44-207",
+    "SURG-C44-208",
+    "SURG-C44-209",
+    "SURG-C44-210",
+    "SURG-C44-211",
+    "SURG-C44-212",
+    "SURG-C44-213",
+    "SURG-C44-214"
+   ],
+   "guide": "NCCT confirms ureteric and bladder stones. Remove ureteric stones over 5 mm ureteroscopically with a Dormia basket; primary bladder stones are sterile, paediatric mixed urate stones, while secondary adult stones follow infection/obstruction and are often calcium oxalate Jack stones. Perurethral cystolithotomy is first line unless urethral stricture or diverticulum calls for suprapubic cystolithotomy."
+  }
+ ]
+}

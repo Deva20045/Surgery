@@ -24,10 +24,11 @@ strict book order, 4 options each, book page cited in every explanation.
 Verified against printed headers: v1a pdf9=p1 … pdf17=p9, pdf18=p9(dup), pdf19=p10 … pdf30=p21,
 pdf40=p31, pdf50=p41, pdf60=p51, pdf70=p61, pdf80=p71, pdf88=p79, pdf89=p80, pdf90=p81;
 v1b pdf1=p82 / pdf78=p159; v1c pdf1=p159 / pdf70=p228; v1d pdf1=p229 / pdf78=p306;
-v2a pdf10=p307 / pdf81=p377; v2b pdf1=p379 / pdf75=p452; v2c pdf1=p453 / pdf71=p523;
+v2a pdf10=p307 / pdf29=p326 / pdf30=p326(dup) / pdf31=p327 / pdf82=p378;
+v2b pdf1=p379 / pdf75=p452; v2c pdf1=p453 / pdf71=p523;
 v2d pdf1=p524 / pdf27=p550 / pdf33=p556.
-All files except v1a are provably sequential (last header − first header = page count − 1);
-the only other duplicated page in the set is book p159 (v1b pdf78 = v1c pdf1, split overlap).
+All files except v1a and v2a are provably sequential (last header − first header = page count − 1);
+the other duplicated pages are book p159 (v1b pdf78 = v1c pdf1, split overlap) and book p326 (v2a pdf29 = pdf30).
 
 Book: "Surgery, Marrow Edition 8" (Vol 1: Patient Safety → Pancreatic Tumour;
 Vol 2: Testicular Disorders → Surgical Instruments). Author: Dr. Rohan Khandelwal (MS General Surgery).
@@ -55,9 +56,9 @@ ch33 Rectum and Anal Canal 233-244 (v1d p5-16) · ch34 Liver Part 1 245-252 (v1d
 ch36 Spleen 260-264 (v1d p32-36) · ch37 Gall Bladder and Bile Ducts Part 1 265-275 (v1d p37-47) · ch38 Gall Bladder and Bile Ducts Part 2 276-284 (v1d p48-56) ·
 ch39 Benign Pancreatic Conditions 285-296 (v1d p57-68) · ch40 Pancreatic Tumour 297-306 (v1d p69-78) ·
 **Vol 2** — **Urology:** ch41 Testicular Disorders Part 1 307-312 (v2a p10-15) · ch42 Testicular Disorders Part 2 313-317 (v2a p16-20) ·
-ch43 Urethral and Penile Disorders 318-326 (v2a p21-29) · ch44 Kidney Part 1 327-338 (v2a p30-41) · ch45 Kidney Part 2 339-352 (v2a p42-55) ·
-ch46 Bladder 353-359 (v2a p56-62) · ch47 Prostate Part 1 360-364 (v2a p63-67) · ch48 Prostate Part 2 365-370 (v2a p68-73) ·
-**Speciality:** ch49 Minimally Invasive Surgery 371-376 (v2a p74-79) · ch50 Transplant Surgery 377-385 (v2a p80-88) ·
+ch43 Urethral and Penile Disorders 318-326 (v2a p21-29) · ch44 Kidney Part 1 327-338 (v2a p31-42; p30 duplicates book p326) · ch45 Kidney Part 2 339-352 (v2a p43-56) ·
+ch46 Bladder 353-359 (v2a p57-63) · ch47 Prostate Part 1 360-364 (v2a p64-68) · ch48 Prostate Part 2 365-370 (v2a p69-74) ·
+**Speciality:** ch49 Minimally Invasive Surgery 371-376 (v2a p75-80) · ch50 Transplant Surgery 377-385 (v2a p81-89) ·
 ch51 Plastic Surgery Part 1 386-392 (v2b p7-13) · ch52 Plastic Surgery Part 2 393-398 (v2b p14-19) · ch53 Neurosurgery 399-409 (v2b p20-30) ·
 **Trauma:** ch54 Basics of Trauma Management 410-416 (v2b p31-37) · ch55 Abdominal Trauma 417-425 (v2b p38-46) · ch56 Thoracic Trauma 426-434 (v2b p47-55) ·
 ch57 Head Trauma 435-443 (v2b p56-64) · ch58 Thermal Injuries 444-450 (v2b p65-73) ·
@@ -150,11 +151,11 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch38 Gall Bladder and Bile Ducts : Part 2 — p276-284 — **DONE (152 qs, 9 units)** 2026-09-14
 - [x] ch39 Benign Pancreatic Conditions — p285-296 — **DONE (196 qs, 11 units)** 2026-09-14
 - [x] ch40 Pancreatic Tumour — p297-306 — **DONE (168 qs, 10 units)** 2026-09-14
-- [ ] ch41 Testicular Disorders : Part 1 — p307-312 — Soon
-- [ ] ch42 Testicular Disorders : Part 2 — p313-317 — Soon
-- [ ] ch43 Urethral and Penile Disorders — p318-326 — Soon
-- [ ] ch44 Kidney : Part 1 — p327-338 — Soon
-- [ ] ch45 Kidney : Part 2 — p339-352 — Soon
+- [x] ch41 Testicular Disorders : Part 1 — p307-312 — **DONE (121 qs, 5 units)** 2026-09-14
+- [x] ch42 Testicular Disorders : Part 2 — p313-317 — **DONE (101 qs, 5 units)** 2026-09-14
+- [x] ch43 Urethral and Penile Disorders — p318-326 — **DONE (177 qs, 10 units)** 2026-09-14
+- [x] ch44 Kidney : Part 1 — p327-338 — **DONE (214 qs, 10 units)** 2026-09-14
+- [x] ch45 Kidney : Part 2 — p339-352 — **DONE (281 qs, 10 units)** 2026-09-14
 - [ ] ch46 Bladder — p353-359 — Soon
 - [ ] ch47 Prostate : Part 1 — p360-364 — Soon
 - [ ] ch48 Prostate : Part 2 — p365-370 — Soon
@@ -190,6 +191,8 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   still committed + pushed per chapter, PR + merge to main once at the end.)
   (2026-09-14: same again for ch24-29 — 6 chapters in one session, committed + pushed per
   chapter, PR #10 + merge to main at the end; live site verified "built" after the merge.)
+  (2026-09-14: user asked to continue through ch41-45 in one go; ch41-42 were staged in the
+  workspace and ch43-45 were built from the scanned Vol. 2 pages.)
 - ~~LOCAL-ONLY html~~ **RULE CHANGED 2026-09-13:** user wants the live GitHub Pages
   site kept in sync — commit + push `pulse-surgery-complete.html` together with
   `data/`, `work/`, `PROGRESS.md`, `README.md` after each batch (via arena branch + PR).
@@ -199,9 +202,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **40/72 chapters live** · Questions: 4724 · Units: 514
-- GitHub HTML: **synced at 40/72** (merged to `main` via PR #17 on 2026-09-14)
-- NEXT: ch41 Testicular Disorders : Part 1 — p307-312 (v2a p10-15) — **new source PDF: `Surgery Vol. 2_part_1.pdf`** (book = pdf + 297)
+- Local HTML: **45/72 chapters live** · Questions: 5618 · Units: 554
+- GitHub HTML: **45/72 prepared on `arena/01a0a015-surgery`** (PR/sync pending)
+- NEXT: ch46 Bladder — p353-359 (v2a p57-63) — **same source PDF: `Surgery Vol. 2_part_1.pdf`** (after the p326 duplicate, book = pdf + 296)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).

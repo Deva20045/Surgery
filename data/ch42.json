@@ -1,0 +1,1571 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C42-001",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "A varicocele is a:",
+   "opts": [
+    "Dilated, tortuous pampiniform venous plexus",
+    "Dilated lymphatic plexus",
+    "Torsed spermatic cord",
+    "Cyst of the epididymal head"
+   ],
+   "ans": 0,
+   "exp": "Varicocele is dilatation and tortuosity of the pampiniform plexus of veins. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-002",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Varicocele is one of the most common causes of:",
+   "opts": [
+    "Male infertility",
+    "Female infertility",
+    "Hydronephrosis",
+    "Penile fracture"
+   ],
+   "ans": 0,
+   "exp": "Varicocele is one of the common causes of male infertility. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-003",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "The countercurrent mechanism is lost in varicocele, causing:",
+   "opts": [
+    "Increased temperature and decreased spermatogenesis",
+    "Decreased temperature and increased spermatogenesis",
+    "Increased testosterone only",
+    "No effect on sperm production"
+   ],
+   "ans": 0,
+   "exp": "Loss of countercurrent cooling raises temperature and reduces spermatogenesis. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-004",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Varicocele is more common on the:",
+   "opts": [
+    "Left side",
+    "Right side",
+    "Right in every child",
+    "Side with the shorter vein"
+   ],
+   "ans": 0,
+   "exp": "Varicocele is left-sided more often than right-sided. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-005",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "The left testicular vein is a risk factor for left varicocele because it is:",
+   "opts": [
+    "Longer",
+    "Shorter",
+    "Absent",
+    "Connected directly to the portal vein"
+   ],
+   "ans": 0,
+   "exp": "The left testicular vein has a longer course. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-006",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "The left testicular vein opens into the left renal vein at approximately:",
+   "opts": [
+    "90 degrees",
+    "10 degrees",
+    "45 degrees",
+    "180 degrees"
+   ],
+   "ans": 0,
+   "exp": "The left testicular vein opens at 90 degrees into the left renal vein. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-007",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "A loaded sigmoid colon can contribute to left varicocele by:",
+   "opts": [
+    "Pressing on the left testicular vein",
+    "Compressing the right renal artery",
+    "Occluding the portal vein",
+    "Torsing the epididymis"
+   ],
+   "ans": 0,
+   "exp": "A loaded sigmoid can press on the left testicular vein. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-008",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "The left adrenal vein opens opposite the left testicular vein and may cause:",
+   "opts": [
+    "Vasoconstriction from increased adrenaline and noradrenaline",
+    "Bile reflux",
+    "Lymphatic obstruction",
+    "Decreased catecholamine release"
+   ],
+   "ans": 0,
+   "exp": "The opposite adrenal-vein opening is associated with catecholamine-mediated vasoconstriction. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-009",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "A left renal vein blocked by spread of renal-cell carcinoma causes:",
+   "opts": [
+    "Secondary varicocele",
+    "Primary hydrocele",
+    "Epididymo-orchitis",
+    "Testicular torsion"
+   ],
+   "ans": 0,
+   "exp": "Left renal-vein obstruction from RCC causes secondary varicocele. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-010",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "A common symptom of varicocele is:",
+   "opts": [
+    "A dull, dragging pain",
+    "Severe acute pain",
+    "Pain only during ejaculation",
+    "Painless jaundice"
+   ],
+   "ans": 0,
+   "exp": "Varicocele may cause dull, dragging pain. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-011",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Varicocele may be:",
+   "opts": [
+    "Asymptomatic",
+    "Always painful",
+    "Always associated with fever",
+    "Always associated with haematuria"
+   ],
+   "ans": 0,
+   "exp": "Varicocele can be asymptomatic. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-012",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "A typical clinical sign of varicocele is a:",
+   "opts": [
+    "Bag of worms",
+    "Pyriform gallbladder",
+    "Cannonball chest",
+    "Transverse testis"
+   ],
+   "ans": 0,
+   "exp": "The scrotal swelling of varicocele has a bag-of-worms feel. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-013",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "On examination of varicocele, getting above the swelling is:",
+   "opts": [
+    "Possible",
+    "Impossible in every case",
+    "Possible only in a hydrocele",
+    "Not relevant"
+   ],
+   "ans": 0,
+   "exp": "Getting above a varicocele swelling is positive. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-014",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "The investigation of choice for varicocele is:",
+   "opts": [
+    "Doppler",
+    "Barium meal",
+    "HIDA scan",
+    "Plain skull radiography"
+   ],
+   "ans": 0,
+   "exp": "Doppler is the investigation of choice. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-015",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Grade I varicocele is:",
+   "opts": [
+    "Impalpable but detected on Doppler",
+    "Palpable and visible",
+    "Visible but not detected on Doppler",
+    "Always associated with infertility"
+   ],
+   "ans": 0,
+   "exp": "Grade I is impalpable and detected on Doppler. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-016",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Grade II varicocele is:",
+   "opts": [
+    "Palpable and detected on Doppler",
+    "Impalpable and Doppler negative",
+    "Visible without palpation",
+    "Only seen during surgery"
+   ],
+   "ans": 0,
+   "exp": "Grade II is palpable and detected on Doppler. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-017",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Grade III varicocele is:",
+   "opts": [
+    "Visible",
+    "Detected only on Doppler",
+    "Never palpable",
+    "Only visible on CT"
+   ],
+   "ans": 0,
+   "exp": "Grade III varicocele is visible. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-018",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Varicocele treatment is indicated:",
+   "opts": [
+    "Only if symptomatic",
+    "In every asymptomatic patient",
+    "Only after testicular torsion",
+    "Only if the patient has hydrocele"
+   ],
+   "ans": 0,
+   "exp": "The chapter recommends treatment only if symptomatic. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-019",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "After varicocele treatment, sperm counts improve in approximately:",
+   "opts": [
+    "30–40%",
+    "5–10%",
+    "70–80%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "Sperm counts improve in only 30–40% after treatment. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-020",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "The first-line treatment listed for varicocele is:",
+   "opts": [
+    "Percutaneous embolisation of gonadal veins",
+    "Orchidectomy",
+    "Hydrocelectomy",
+    "Antibiotics alone"
+   ],
+   "ans": 0,
+   "exp": "First-line treatment is percutaneous embolisation of the gonadal veins. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-021",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "The most effective method for treating varicocele is:",
+   "opts": [
+    "Microsurgical varicocelectomy",
+    "Simple scrotal aspiration",
+    "Dorsal slit",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Microsurgical varicocelectomy is listed as the most effective method. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-022",
+   "sec": "Varicocele",
+   "page": 313,
+   "q": "Recurrence after varicocele treatment is related to:",
+   "opts": [
+    "Dual blood supply",
+    "A single arterial supply",
+    "A patent processus vaginalis",
+    "The absence of lymphatics"
+   ],
+   "ans": 0,
+   "exp": "Recurrence is due to dual blood supply and is managed by surgical ligation. (Book p313)"
+  },
+  {
+   "id": "SURG-C42-023",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Fournier's gangrene is:",
+   "opts": [
+    "Necrotising fasciitis of the perineal region",
+    "A superficial scrotal sebaceous cyst",
+    "A testicular tumour",
+    "A non-infective hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Fournier's gangrene is necrotising fasciitis involving the perineum. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-024",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "The infection in Fournier's gangrene is typically:",
+   "opts": [
+    "Synergistic aerobic and anaerobic infection",
+    "A purely viral infection",
+    "A sterile inflammatory reaction",
+    "Only a fungal infection"
+   ],
+   "ans": 0,
+   "exp": "Fournier's is described as synergistic gangrene due to aerobic plus anaerobic infection. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-025",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Fournier's gangrene is common in:",
+   "opts": [
+    "Immunocompromised patients",
+    "Only healthy athletes",
+    "Only neonates",
+    "Only patients with hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Immunocompromised patients are commonly affected. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-026",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "A specifically listed risk group for Fournier's gangrene is:",
+   "opts": [
+    "Patients with diabetes",
+    "Patients with isolated myopia",
+    "Patients with varicocele only",
+    "Patients with a spermatocele"
+   ],
+   "ans": 0,
+   "exp": "Diabetes is listed among the epidemiological associations. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-027",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Fournier's gangrene may follow:",
+   "opts": [
+    "Trivial trauma",
+    "Only major abdominal surgery",
+    "A normal ultrasound",
+    "A healed hydrocele"
+   ],
+   "ans": 0,
+   "exp": "The chapter notes that Fournier's may follow trivial trauma. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-028",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Fournier's gangrene has:",
+   "opts": [
+    "High mortality",
+    "No mortality",
+    "Only cosmetic consequences",
+    "A uniformly benign course"
+   ],
+   "ans": 0,
+   "exp": "Fournier's gangrene has high mortality. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-029",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Clinical symptoms of Fournier's gangrene include:",
+   "opts": [
+    "Fever, pain and swelling",
+    "Painless jaundice only",
+    "Haematemesis and melena",
+    "Only urinary frequency"
+   ],
+   "ans": 0,
+   "exp": "Fever, pain and swelling are listed symptoms. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-030",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "A characteristic sign of Fournier's gangrene is:",
+   "opts": [
+    "Foul-smelling discharge",
+    "Clear transilluminant fluid",
+    "A bag of worms",
+    "A painless firm testis"
+   ],
+   "ans": 0,
+   "exp": "Foul-smelling discharge is a listed sign. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-031",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Sepsis in Fournier's gangrene is suggested by:",
+   "opts": [
+    "Fever, tachycardia and hypotension",
+    "Bradycardia and hypertension",
+    "Only microscopic haematuria",
+    "Normal vital signs"
+   ],
+   "ans": 0,
+   "exp": "Sepsis is described by fever, tachycardia and hypotension. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-032",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Crepitus in Fournier's gangrene:",
+   "opts": [
+    "May be present",
+    "Is always absent",
+    "Confirms a hydrocele",
+    "Occurs only in varicocele"
+   ],
+   "ans": 0,
+   "exp": "Crepitus may be present in Fournier's gangrene. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-033",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "The most important component of Fournier's management is:",
+   "opts": [
+    "Aggressive debridement",
+    "Observation",
+    "Scrotal aspiration",
+    "Delayed radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Aggressive debridement is the most important treatment. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-034",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "Supportive management of Fournier's gangrene includes:",
+   "opts": [
+    "Intravenous fluids and intravenous antibiotics",
+    "Only oral vitamins",
+    "Only chemotherapy",
+    "No antimicrobial therapy"
+   ],
+   "ans": 0,
+   "exp": "Management includes IV fluids and IV antibiotics. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-035",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "During debridement for Fournier's gangrene, the testis and urethra are:",
+   "opts": [
+    "Spared irrespective of severity",
+    "Always excised",
+    "Removed if there is any fever",
+    "Replaced by prostheses"
+   ],
+   "ans": 0,
+   "exp": "Testis and urethra are spared because of their dual blood supply. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-036",
+   "sec": "Fournier's Gangrene",
+   "page": 314,
+   "q": "A recent update listed for Fournier's gangrene is:",
+   "opts": [
+    "Hyperbaric oxygen therapy",
+    "Brachytherapy",
+    "Percutaneous nephrolithotomy",
+    "Radioiodine"
+   ],
+   "ans": 0,
+   "exp": "Hyperbaric oxygen therapy is noted as a recent update. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-037",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "Approximately what proportion of testicular tumours are germ-cell tumours?",
+   "opts": [
+    "95%",
+    "5%",
+    "25%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Germ-cell tumours comprise about 95% of testicular tumours. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-038",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "Sex-cord/stromal tumours comprise approximately:",
+   "opts": [
+    "5% of testicular tumours",
+    "95%",
+    "50%",
+    "75%"
+   ],
+   "ans": 0,
+   "exp": "Sex-cord/stromal tumours comprise about 5%. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-039",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "The most common overall germ-cell tumour is:",
+   "opts": [
+    "Seminoma",
+    "Choriocarcinoma",
+    "Embryonal carcinoma",
+    "Yolk-sac tumour"
+   ],
+   "ans": 0,
+   "exp": "Seminoma is the most common overall germ-cell tumour. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-040",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "Which is a non-seminomatous germ-cell tumour?",
+   "opts": [
+    "Choriocarcinoma",
+    "Leydig-cell tumour",
+    "Sertoli-cell tumour",
+    "Seminoma"
+   ],
+   "ans": 0,
+   "exp": "Non-seminomatous tumours include choriocarcinoma, embryonal carcinoma, teratoma and yolk-sac tumour. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-041",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "The most common testicular tumour in children is:",
+   "opts": [
+    "Yolk-sac tumour",
+    "Seminoma",
+    "Sertoli-cell tumour",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Yolk-sac tumour is the commonest testicular tumour in children. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-042",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "The sex-cord/stromal tumour types listed are:",
+   "opts": [
+    "Leydig-cell and Sertoli-cell tumours",
+    "Seminoma and teratoma",
+    "Choriocarcinoma and yolk-sac tumour",
+    "Lymphoma and embryonal carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Sex-cord/stromal tumours listed are Leydig-cell and Sertoli-cell tumours. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-043",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "Lymphoma is the most common testicular tumour in:",
+   "opts": [
+    "The elderly",
+    "Young children",
+    "The second decade only",
+    "Patients with hydrocele"
+   ],
+   "ans": 0,
+   "exp": "Lymphoma is the commonest testicular tumour in the elderly. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-044",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 314,
+   "q": "Lymphoma is the most common bilateral testicular tumour in approximately:",
+   "opts": [
+    "10–15% of cases",
+    "1–2%",
+    "50–60%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Lymphoma is the commonest bilateral testicular tumour in 10–15% of cases. (Book p314)"
+  },
+  {
+   "id": "SURG-C42-045",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "The most common presentation of a testicular tumour is a:",
+   "opts": [
+    "Painless testicular mass",
+    "Painful scrotal ulcer",
+    "Fever with crepitus",
+    "Hydrocele that always transilluminates"
+   ],
+   "ans": 0,
+   "exp": "The common presentation is a painless testicular mass with loss of testicular sensation. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-046",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "A testicular tumour may cause an abdominal lump because of involvement of:",
+   "opts": [
+    "Para-aortic lymph nodes",
+    "Superficial inguinal nodes only",
+    "Mesenteric nodes only",
+    "Cervical nodes only"
+   ],
+   "ans": 0,
+   "exp": "Abdominal lumps result from para-aortic lymph-node involvement. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-047",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "The most common site of distant metastasis from a testicular tumour is the:",
+   "opts": [
+    "Lung",
+    "Brain",
+    "Bone",
+    "Skin"
+   ],
+   "ans": 0,
+   "exp": "The lung is the most common site of distant metastasis. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-048",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "Cannonball lung metastases are an atypical presentation of:",
+   "opts": [
+    "Testicular tumour",
+    "Hydrocele",
+    "Varicocele",
+    "Phimosis"
+   ],
+   "ans": 0,
+   "exp": "Cannonball lung metastases are listed as an atypical presentation. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-049",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "Leydig-cell tumours may cause:",
+   "opts": [
+    "Masculinisation, precocious puberty and gynaecomastia",
+    "Feminisation only",
+    "Only infertility without endocrine effects",
+    "Hypoglycaemia and jaundice"
+   ],
+   "ans": 0,
+   "exp": "Leydig-cell tumours cause masculinisation, precocious puberty and gynaecomastia. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-050",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "Sertoli-cell tumours may cause:",
+   "opts": [
+    "Feminisation and gynaecomastia",
+    "Masculinisation only",
+    "Cannonball lung metastases only",
+    "Renal colic"
+   ],
+   "ans": 0,
+   "exp": "Sertoli-cell tumours cause feminisation and gynaecomastia. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-051",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "The term hurricane tumour refers to aggressive:",
+   "opts": [
+    "Choriocarcinoma",
+    "Seminoma",
+    "Sertoli-cell tumour",
+    "Yolk-sac tumour"
+   ],
+   "ans": 0,
+   "exp": "Hurricane tumour is aggressive choriocarcinoma. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-052",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "The average survival in the hurricane tumour described is:",
+   "opts": [
+    "About 6 months",
+    "About 6 days",
+    "About 6 years",
+    "Normal life expectancy"
+   ],
+   "ans": 0,
+   "exp": "The listed average survival for hurricane tumour is about six months. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-053",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "After a scrotal mass is found on ultrasound, the next workup step is:",
+   "opts": [
+    "Tumour markers AFP, beta-hCG and LDH",
+    "Immediate trans-scrotal biopsy",
+    "Only urine culture",
+    "Only serum amylase"
+   ],
+   "ans": 0,
+   "exp": "The workup proceeds from scrotal USG to AFP, beta-hCG and LDH tumour markers. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-054",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "Confirmation of a testicular tumour is by:",
+   "opts": [
+    "Histopathology using Chevassu's manoeuvre",
+    "Scrotal aspiration alone",
+    "Plain X-ray",
+    "A HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Confirmation is by histopathology after Chevassu's manoeuvre. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-055",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "Staging of a testicular tumour is completed with:",
+   "opts": [
+    "PET-CT",
+    "Barium meal",
+    "Doppler of the renal artery only",
+    "Scrotal transillumination"
+   ],
+   "ans": 0,
+   "exp": "PET-CT is used for staging in the depicted workup. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-056",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "Trans-scrotal biopsy or FNAC should never be done because it may cause:",
+   "opts": [
+    "Scrotal seeding and increased tumour stage",
+    "Immediate renal failure",
+    "Hydrocele resolution",
+    "Improved prognosis"
+   ],
+   "ans": 0,
+   "exp": "Trans-scrotal biopsy/FNAC can seed the scrotum and increase staging. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-057",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "Chevassu's manoeuvre begins with a:",
+   "opts": [
+    "High inguinal incision",
+    "Midline laparotomy",
+    "Scrotal incision",
+    "Perineal incision"
+   ],
+   "ans": 0,
+   "exp": "Chevassu's manoeuvre begins with a high inguinal incision. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-058",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "During Chevassu's manoeuvre, the testis is:",
+   "opts": [
+    "Delivered and the cord is clamped before splitting the testis",
+    "Biopsied through the scrotum",
+    "Removed before the cord is clamped",
+    "Left in place for observation"
+   ],
+   "ans": 0,
+   "exp": "The testis is delivered, the cord is clamped, the testis is split and a frozen section is taken. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-059",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "If the frozen section in Chevassu's manoeuvre is positive, the operation is:",
+   "opts": [
+    "High inguinal orchidectomy",
+    "Repositioning the testis",
+    "Hydrocelectomy",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "A positive frozen section leads to high inguinal orchidectomy. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-060",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup",
+   "page": 315,
+   "q": "If the frozen section in Chevassu's manoeuvre is negative, the testis is:",
+   "opts": [
+    "Repositioned",
+    "Excised in every case",
+    "Treated with radiotherapy immediately",
+    "Placed in the contralateral scrotum"
+   ],
+   "ans": 0,
+   "exp": "A negative frozen section leads to repositioning of the testis. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-061",
+   "sec": "Testicular Tumour Staging",
+   "page": 315,
+   "q": "In pathological T staging, pTX means:",
+   "opts": [
+    "The primary tumour cannot be assessed",
+    "No evidence of primary tumour",
+    "Intratubular germ-cell neoplasia",
+    "Tumour invades the scrotum"
+   ],
+   "ans": 0,
+   "exp": "pTX means the primary tumour cannot be assessed. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-062",
+   "sec": "Testicular Tumour Staging",
+   "page": 315,
+   "q": "In pathological T staging, pT0 means:",
+   "opts": [
+    "No evidence of a primary tumour",
+    "Tumour limited to the testis without invasion",
+    "Intratubular germ-cell neoplasia",
+    "Tumour invades the spermatic cord"
+   ],
+   "ans": 0,
+   "exp": "pT0 means there is no evidence of a primary tumour. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-063",
+   "sec": "Testicular Tumour Staging",
+   "page": 315,
+   "q": "pTIS denotes:",
+   "opts": [
+    "Intratubular germ-cell neoplasia",
+    "No regional nodes",
+    "Tumour invading scrotum",
+    "Distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "pTIS denotes intratubular germ-cell neoplasia. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-064",
+   "sec": "Testicular Tumour Staging",
+   "page": 315,
+   "q": "pT1 testicular tumour is limited to the testis and epididymis without:",
+   "opts": [
+    "Vascular or lymphatic invasion",
+    "Any testicular sensation",
+    "A tunica vaginalis",
+    "An epididymis"
+   ],
+   "ans": 0,
+   "exp": "pT1 is limited to testis and epididymis without vascular or lymphatic invasion. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-065",
+   "sec": "Testicular Tumour Staging",
+   "page": 315,
+   "q": "pT2 includes tumour limited to testis and epididymis with vascular/lymphatic invasion OR involvement of the:",
+   "opts": [
+    "Tunica vaginalis",
+    "Scrotum only",
+    "Renal pelvis",
+    "Adrenal gland"
+   ],
+   "ans": 0,
+   "exp": "pT2 includes vascular/lymphatic invasion or involvement of the tunica vaginalis. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-066",
+   "sec": "Testicular Tumour Staging",
+   "page": 315,
+   "q": "pT3 testicular tumour invades the:",
+   "opts": [
+    "Spermatic cord",
+    "Scrotal skin only",
+    "Kidney",
+    "Para-aortic nodes only"
+   ],
+   "ans": 0,
+   "exp": "pT3 invades the spermatic cord, with or without vascular/lymphatic invasion. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-067",
+   "sec": "Testicular Tumour Staging",
+   "page": 315,
+   "q": "pT4 testicular tumour invades the:",
+   "opts": [
+    "Scrotum",
+    "Tunica vaginalis only",
+    "Epididymal head only",
+    "Spermatic cord only"
+   ],
+   "ans": 0,
+   "exp": "pT4 invades the scrotum, with or without vascular/lymphatic invasion. (Book p315)"
+  },
+  {
+   "id": "SURG-C42-068",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "In nodal staging, NX means:",
+   "opts": [
+    "Regional lymph nodes cannot be assessed",
+    "No regional lymph-node metastasis",
+    "A nodal mass over 5 cm",
+    "Distant lung metastasis"
+   ],
+   "ans": 0,
+   "exp": "NX means regional lymph nodes cannot be assessed. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-069",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "N0 means:",
+   "opts": [
+    "No regional lymph-node metastasis",
+    "Regional nodes cannot be assessed",
+    "A mass 2–5 cm",
+    "Distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "N0 means there is no regional lymph-node metastasis. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-070",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "N1 is a lymph-node mass of:",
+   "opts": [
+    "2 cm or less or up to 5 positive lymph nodes",
+    "More than 5 cm",
+    "2–5 cm with no positive nodes",
+    "Any mass in the lung"
+   ],
+   "ans": 0,
+   "exp": "N1 is a nodal mass ≤2 cm or up to 5 positive lymph nodes. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-071",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "N2 is a lymph-node mass of:",
+   "opts": [
+    "2–5 cm or more than 5 positive lymph nodes",
+    "Less than 2 cm with no nodes",
+    "More than 5 cm only",
+    "A mass confined to the testis"
+   ],
+   "ans": 0,
+   "exp": "N2 is a nodal mass 2–5 cm or more than 5 positive lymph nodes. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-072",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "N3 is a lymph-node mass:",
+   "opts": [
+    "Greater than 5 cm",
+    "Less than 2 cm",
+    "Exactly 2 cm",
+    "Only detectable by Doppler"
+   ],
+   "ans": 0,
+   "exp": "N3 is a nodal mass greater than 5 cm. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-073",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "M0 means:",
+   "opts": [
+    "No metastasis",
+    "Lung or non-regional-node metastasis",
+    "Metastasis to other sites",
+    "No primary tumour"
+   ],
+   "ans": 0,
+   "exp": "M0 means no metastasis. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-074",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "M1a includes metastases to the:",
+   "opts": [
+    "Lungs or non-regional lymph nodes",
+    "Scrotum only",
+    "Kidney only",
+    "Skin only"
+   ],
+   "ans": 0,
+   "exp": "M1a includes lung or non-regional lymph-node metastasis. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-075",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "M1b includes metastases to:",
+   "opts": [
+    "Other sites",
+    "Only the para-aortic nodes",
+    "Only the lung",
+    "Only the epididymis"
+   ],
+   "ans": 0,
+   "exp": "M1b denotes metastasis to other sites. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-076",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "S staging is based on levels of:",
+   "opts": [
+    "LDH, hCG and AFP",
+    "PSA, CEA and CA-125",
+    "Amylase, lipase and bilirubin",
+    "Creatinine, urea and sodium"
+   ],
+   "ans": 0,
+   "exp": "S staging is based on LDH, hCG and AFP levels. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-077",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "Tumour markers for S staging are measured:",
+   "opts": [
+    "7–10 days after orchidectomy",
+    "Immediately before any examination only",
+    "One year after surgery",
+    "Only before puberty"
+   ],
+   "ans": 0,
+   "exp": "S-stage markers are measured 7–10 days after orchidectomy. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-078",
+   "sec": "Testicular Tumour Staging",
+   "page": 316,
+   "q": "The reason AFP is allowed time after orchidectomy before S staging is its half-life of:",
+   "opts": [
+    "5–6 days",
+    "5–6 hours",
+    "20–30 days",
+    "One year"
+   ],
+   "ans": 0,
+   "exp": "AFP has a half-life of 5–6 days, so markers are measured 7–10 days after orchidectomy. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-079",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Seminomatous tumours are the:",
+   "opts": [
+    "Most common testicular tumours",
+    "Rarest testicular tumours",
+    "Most common sex-cord tumours only",
+    "Most common renal tumours"
+   ],
+   "ans": 0,
+   "exp": "Seminomatous tumours are listed as the commonest. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-080",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Seminomatous tumours are most often seen in the:",
+   "opts": [
+    "Second and third decades",
+    "First decade only",
+    "Sixth and seventh decades",
+    "After 80 years only"
+   ],
+   "ans": 0,
+   "exp": "Seminomatous tumours commonly occur in the second and third decades. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-081",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Compared with non-seminomatous tumours, seminomatous tumours have a:",
+   "opts": [
+    "Better prognosis",
+    "Worse prognosis",
+    "Uniformly fatal prognosis",
+    "Prognosis unrelated to stage"
+   ],
+   "ans": 0,
+   "exp": "Seminomatous tumours have a better prognosis. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-082",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Seminomatous tumours are described as:",
+   "opts": [
+    "Large and homogeneous",
+    "Small and always cystic",
+    "Multiloculated and purulent",
+    "Diffuse renal lesions"
+   ],
+   "ans": 0,
+   "exp": "Seminomatous tumours are described as large and homogeneous. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-083",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Which is a type of seminoma listed in the chapter?",
+   "opts": [
+    "Classical seminoma",
+    "Yolk-sac tumour",
+    "Leydig-cell tumour",
+    "Choriocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "The listed seminoma types are classical, anaplastic and spermatocytic. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-084",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Lymphocytic infiltration in a seminomatous tumour indicates:",
+   "opts": [
+    "Good prognosis",
+    "Poor prognosis",
+    "Mandatory orchidectomy of both testes",
+    "Non-seminomatous histology"
+   ],
+   "ans": 0,
+   "exp": "Lymphocytic infiltration is associated with good prognosis. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-085",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Stage I seminoma is:",
+   "opts": [
+    "Restricted to the testis",
+    "Testis plus para-aortic nodes",
+    "Testis plus distant metastases",
+    "Only a lung tumour"
+   ],
+   "ans": 0,
+   "exp": "Stage I seminoma is restricted to the testis. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-086",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "The listed treatment for stage I seminoma is:",
+   "opts": [
+    "Single-cycle carboplatin plus radiotherapy",
+    "BEP plus RPLND in every patient",
+    "Only observation without treatment",
+    "Dactinomycin alone"
+   ],
+   "ans": 0,
+   "exp": "Stage I seminoma is treated with single-cycle carboplatin plus radiotherapy. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-087",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "The radiotherapy field for stage I seminoma is the:",
+   "opts": [
+    "Inverted-Y field including para-aortic nodes",
+    "Whole brain field",
+    "Pelvic-only field",
+    "Scrotal skin field"
+   ],
+   "ans": 0,
+   "exp": "The inverted-Y field covers para-aortic lymph nodes. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-088",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "Stage II seminoma means:",
+   "opts": [
+    "Testis plus para-aortic lymph nodes",
+    "Testis only",
+    "Testis plus liver metastasis",
+    "Only a para-aortic mass without testicular disease"
+   ],
+   "ans": 0,
+   "exp": "Stage II involves the testis and para-aortic nodes. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-089",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "The chemotherapy regimen listed for stage II seminoma is:",
+   "opts": [
+    "BEP: bleomycin, etoposide and cisplatin",
+    "FOLFOX",
+    "CHOP",
+    "Dactinomycin only"
+   ],
+   "ans": 0,
+   "exp": "Stage II seminoma is treated with bleomycin, etoposide and cisplatin (BEP). (Book p316)"
+  },
+  {
+   "id": "SURG-C42-090",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "After BEP for stage II seminoma, complete response is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate orchidectomy of the opposite testis",
+    "Mandatory nephrectomy",
+    "Only antibiotics"
+   ],
+   "ans": 0,
+   "exp": "A complete response is observed. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-091",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 316,
+   "q": "After BEP for stage II seminoma, residual disease is managed by:",
+   "opts": [
+    "Retroperitoneal lymph-node dissection or radiotherapy",
+    "Observation in every case",
+    "Hydrocelectomy",
+    "Dorsal slit"
+   ],
+   "ans": 0,
+   "exp": "Residual disease is treated with RPLND or radiotherapy. (Book p316)"
+  },
+  {
+   "id": "SURG-C42-092",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "Stage III seminoma is:",
+   "opts": [
+    "Testis with bulky nodes or distant metastases",
+    "Restricted to the testis",
+    "Only a microscopic intratubular lesion",
+    "A benign scrotal cyst"
+   ],
+   "ans": 0,
+   "exp": "Stage III is testis plus bulky lymph nodes or distant metastases. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-093",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "In stage III seminoma, aggressive treatment despite metastases:",
+   "opts": [
+    "Increases survival",
+    "Has no benefit",
+    "Always worsens survival",
+    "Is contraindicated"
+   ],
+   "ans": 0,
+   "exp": "Aggressive treatment despite metastases increases survival. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-094",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "The listed stage III seminoma strategy is:",
+   "opts": [
+    "BEP chemotherapy followed by RPLND and radiotherapy, with or without metastasectomy",
+    "Observation only",
+    "Radiotherapy alone to the scrotum",
+    "Orchidectomy without systemic treatment"
+   ],
+   "ans": 0,
+   "exp": "Stage III is treated with BEP followed by RPLND and RT ± metastasectomy. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-095",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "Non-seminomatous tumours are most often seen in the:",
+   "opts": [
+    "First and second decades",
+    "Seventh and eighth decades",
+    "Only after 60 years",
+    "Only at birth"
+   ],
+   "ans": 0,
+   "exp": "Non-seminomatous tumours are described in the first and second decades. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-096",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "Compared with seminomatous tumours, non-seminomatous tumours have a:",
+   "opts": [
+    "Worse prognosis",
+    "Better prognosis",
+    "Identical prognosis regardless of stage",
+    "Benign course"
+   ],
+   "ans": 0,
+   "exp": "Non-seminomatous tumours have a worse prognosis. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-097",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "Approximately what proportion of stage I non-seminomatous tumours have subclinical metastasis?",
+   "opts": [
+    "50%",
+    "5%",
+    "10%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Stage I non-seminomatous tumours have subclinical metastases in about 50%. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-098",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "The listed treatment for stage I non-seminomatous tumour is:",
+   "opts": [
+    "BEP chemotherapy",
+    "Carboplatin plus inverted-Y radiotherapy",
+    "Observation only",
+    "Dactinomycin alone"
+   ],
+   "ans": 0,
+   "exp": "Stage I non-seminomatous disease is treated with BEP chemotherapy. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-099",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "The listed treatment for stage II non-seminomatous tumour is:",
+   "opts": [
+    "BEP chemotherapy, with RPLND for residual disease",
+    "Radiotherapy alone",
+    "Only orchidectomy",
+    "Lord's plication"
+   ],
+   "ans": 0,
+   "exp": "Stage II uses BEP; residual disease is treated with RPLND. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-100",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "The listed treatment for stage III non-seminomatous tumour is:",
+   "opts": [
+    "BEP chemotherapy plus RPLND with or without metastasectomy",
+    "Observation",
+    "Only local radiotherapy",
+    "Hydrocelectomy"
+   ],
+   "ans": 0,
+   "exp": "Stage III uses BEP plus RPLND ± metastasectomy. (Book p317)"
+  },
+  {
+   "id": "SURG-C42-101",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management",
+   "page": 317,
+   "q": "The most important prognostic factor in both seminomatous and non-seminomatous tumours is:",
+   "opts": [
+    "Tumour stage",
+    "Side of the tumour",
+    "Presence of a hydrocele",
+    "Scrotal skin colour"
+   ],
+   "ans": 0,
+   "exp": "Stage of tumour is the most important prognostic factor in both types. (Book p317)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U42-1",
+   "ch": 42,
+   "n": 1,
+   "title": "Varicocele",
+   "sec": "Varicocele · p313",
+   "qs": [
+    "SURG-C42-001",
+    "SURG-C42-002",
+    "SURG-C42-003",
+    "SURG-C42-004",
+    "SURG-C42-005",
+    "SURG-C42-006",
+    "SURG-C42-007",
+    "SURG-C42-008",
+    "SURG-C42-009",
+    "SURG-C42-010",
+    "SURG-C42-011",
+    "SURG-C42-012",
+    "SURG-C42-013",
+    "SURG-C42-014",
+    "SURG-C42-015",
+    "SURG-C42-016",
+    "SURG-C42-017",
+    "SURG-C42-018",
+    "SURG-C42-019",
+    "SURG-C42-020",
+    "SURG-C42-021",
+    "SURG-C42-022"
+   ],
+   "guide": "Varicocele is a dilated pampiniform plexus and a common male-infertility problem: lost countercurrent cooling raises scrotal temperature and lowers spermatogenesis. Left-sided disease dominates because of the long right-angled left testicular vein, sigmoid pressure, the opposite adrenal-vein opening and possible renal-vein obstruction by RCC. Diagnose with Doppler, grade I–III by palpability/visibility, treat only symptomatic patients, and remember embolisation, microsurgical varicocelectomy, limited sperm-count improvement and recurrence from dual supply."
+  },
+  {
+   "id": "SURG-U42-2",
+   "ch": 42,
+   "n": 2,
+   "title": "Fournier's Gangrene",
+   "sec": "Fournier's Gangrene · p314",
+   "qs": [
+    "SURG-C42-023",
+    "SURG-C42-024",
+    "SURG-C42-025",
+    "SURG-C42-026",
+    "SURG-C42-027",
+    "SURG-C42-028",
+    "SURG-C42-029",
+    "SURG-C42-030",
+    "SURG-C42-031",
+    "SURG-C42-032",
+    "SURG-C42-033",
+    "SURG-C42-034",
+    "SURG-C42-035",
+    "SURG-C42-036"
+   ],
+   "guide": "Fournier's gangrene is high-mortality synergistic aerobic–anaerobic necrotising fasciitis of the perineum, especially in immunocompromised and diabetic patients. Fever, pain, swelling, foul discharge, sepsis and possible crepitus demand IV fluids, IV antibiotics and immediate aggressive debridement; spare the testis and urethra because their dual blood supply remains intact, and consider hyperbaric oxygen."
+  },
+  {
+   "id": "SURG-U42-3",
+   "ch": 42,
+   "n": 3,
+   "title": "Testicular Tumours: Classification, Presentation and Workup",
+   "sec": "Testicular Tumours: Classification, Presentation and Workup · p314",
+   "qs": [
+    "SURG-C42-037",
+    "SURG-C42-038",
+    "SURG-C42-039",
+    "SURG-C42-040",
+    "SURG-C42-041",
+    "SURG-C42-042",
+    "SURG-C42-043",
+    "SURG-C42-044",
+    "SURG-C42-045",
+    "SURG-C42-046",
+    "SURG-C42-047",
+    "SURG-C42-048",
+    "SURG-C42-049",
+    "SURG-C42-050",
+    "SURG-C42-051",
+    "SURG-C42-052",
+    "SURG-C42-053",
+    "SURG-C42-054",
+    "SURG-C42-055",
+    "SURG-C42-056",
+    "SURG-C42-057",
+    "SURG-C42-058",
+    "SURG-C42-059",
+    "SURG-C42-060"
+   ],
+   "guide": "Most testicular tumours are germ-cell tumours, with seminoma common overall and yolk-sac tumour common in children; the small sex-cord group includes Leydig and Sertoli tumours, while lymphoma dominates elderly and bilateral disease. Think painless mass, para-aortic abdominal lump or cannonball lung metastases, and connect Leydig to masculinisation and Sertoli to feminisation. Work from scrotal ultrasound to AFP, beta-hCG and LDH, histology by high inguinal Chevassu's manoeuvre and PET-CT; never biopsy through the scrotum."
+  },
+  {
+   "id": "SURG-U42-4",
+   "ch": 42,
+   "n": 4,
+   "title": "Testicular Tumour Staging",
+   "sec": "Testicular Tumour Staging · p315",
+   "qs": [
+    "SURG-C42-061",
+    "SURG-C42-062",
+    "SURG-C42-063",
+    "SURG-C42-064",
+    "SURG-C42-065",
+    "SURG-C42-066",
+    "SURG-C42-067",
+    "SURG-C42-068",
+    "SURG-C42-069",
+    "SURG-C42-070",
+    "SURG-C42-071",
+    "SURG-C42-072",
+    "SURG-C42-073",
+    "SURG-C42-074",
+    "SURG-C42-075",
+    "SURG-C42-076",
+    "SURG-C42-077",
+    "SURG-C42-078"
+   ],
+   "guide": "Use the pTNM table precisely: pT1 stays within testis/epididymis without vascular invasion, pT2 adds vascular invasion or tunica vaginalis, pT3 reaches spermatic cord and pT4 scrotum; N1, N2 and N3 rise by nodal size/number, while M1a is lung/non-regional nodes and M1b other sites. S staging uses LDH, hCG and AFP seven to ten days after orchidectomy, allowing for AFP's five-to-six-day half-life."
+  },
+  {
+   "id": "SURG-U42-5",
+   "ch": 42,
+   "n": 5,
+   "title": "Seminomatous and Non-seminomatous Tumours: Management",
+   "sec": "Seminomatous and Non-seminomatous Tumours: Management · p316",
+   "qs": [
+    "SURG-C42-079",
+    "SURG-C42-080",
+    "SURG-C42-081",
+    "SURG-C42-082",
+    "SURG-C42-083",
+    "SURG-C42-084",
+    "SURG-C42-085",
+    "SURG-C42-086",
+    "SURG-C42-087",
+    "SURG-C42-088",
+    "SURG-C42-089",
+    "SURG-C42-090",
+    "SURG-C42-091",
+    "SURG-C42-092",
+    "SURG-C42-093",
+    "SURG-C42-094",
+    "SURG-C42-095",
+    "SURG-C42-096",
+    "SURG-C42-097",
+    "SURG-C42-098",
+    "SURG-C42-099",
+    "SURG-C42-100",
+    "SURG-C42-101"
+   ],
+   "guide": "Seminoma is common, younger, homogeneous and better-prognosis: stage I receives single-cycle carboplatin plus inverted-Y para-aortic radiotherapy, stage II BEP with observation after complete response or RPLND/RT for residual disease, and stage III aggressive BEP followed by RPLND/RT ± metastasectomy. Non-seminoma is younger, worse-prognosis, half of stage I has occult spread, and its stage-wise backbone is BEP with RPLND for residual or advanced disease; tumour stage remains the key prognostic factor."
+  }
+ ]
+}
