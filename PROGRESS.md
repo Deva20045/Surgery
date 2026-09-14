@@ -203,7 +203,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 
 ## Totals / live link
 - Local HTML: **45/72 chapters live** · Questions: 5618 · Units: 554
-- GitHub HTML: **45/72 prepared on `arena/01a0a015-surgery`** (PR/sync pending)
+- GitHub HTML: **synced at 45/72** (merged to `main` via PR #19 on 2026-09-14)
 - NEXT: ch46 Bladder — p353-359 (v2a p57-63) — **same source PDF: `Surgery Vol. 2_part_1.pdf`** (after the p326 duplicate, book = pdf + 296)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
