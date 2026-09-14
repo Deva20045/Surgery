@@ -167,6 +167,8 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   updated `pulse-surgery-complete.html`** to the user for preview/testing.
   (2026-09-14: user asked for ch18-23 in one go, so the batch was extended to 6 chapters —
   still committed + pushed per chapter, PR + merge to main once at the end.)
+  (2026-09-14: same again for ch24-29 — 6 chapters in one session, committed + pushed per
+  chapter, PR #10 + merge to main at the end; live site verified "built" after the merge.)
 - ~~LOCAL-ONLY html~~ **RULE CHANGED 2026-09-13:** user wants the live GitHub Pages
   site kept in sync — commit + push `pulse-surgery-complete.html` together with
   `data/`, `work/`, `PROGRESS.md`, `README.md` after each batch (via arena branch + PR).
