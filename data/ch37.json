@@ -1,0 +1,2496 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C37-001",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "A pyriform, distended gallbladder on examination is a cause of all of the following EXCEPT:",
+   "opts": [
+    "A gallbladder mass",
+    "Periampullary cancers (obstructive jaundice)",
+    "Mucocele",
+    "Common bile duct obstruction"
+   ],
+   "ans": 0,
+   "exp": "Shape of gallbladder: pyriform means distended GB — causes are periampullary cancers (obstructive jaundice) and mucocele; a GB mass is the NOT-pyriform variant. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-002",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "A distended (pyriform) gallbladder shows on examination:",
+   "opts": [
+    "Side to side mobility",
+    "No side to side mobility",
+    "Fixed to the abdominal wall",
+    "Rebound tenderness only"
+   ],
+   "ans": 0,
+   "exp": "Pyriform (distended) GB: O/E — side to side mobility. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-003",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "A gallbladder mass is NOT pyriform and on examination shows:",
+   "opts": [
+    "No side to side mobility",
+    "Side to side mobility",
+    "A positive Murphy's sign",
+    "A palpable cystic plate"
+   ],
+   "ans": 0,
+   "exp": "Shape of gallbladder: not pyriform — GB mass, due to GB cancer; O/E — no side to side mobility. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-004",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "The boundaries of the hepatocystic triangle are:",
+   "opts": [
+    "Inferior edge of liver, common hepatic duct and cystic duct",
+    "Cystic artery, cystic duct and common hepatic duct",
+    "Inferior edge of liver, cystic artery and cystic duct",
+    "Gallbladder neck, cystic artery and common bile duct"
+   ],
+   "ans": 0,
+   "exp": "Hepatocystic triangle boundaries: inferior edge of liver, common hepatic duct and cystic duct. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-005",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "Calot's triangle is bounded by:",
+   "opts": [
+    "Cystic artery, cystic duct and common hepatic duct",
+    "Inferior edge of liver, common hepatic duct and cystic duct",
+    "Cystic artery, common bile duct and gallbladder neck",
+    "Hepatic artery, cystic duct and cystic plate"
+   ],
+   "ans": 0,
+   "exp": "Calot's triangle boundaries: cystic artery, cystic duct and common hepatic duct. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-006",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "The content of Calot's triangle is:",
+   "opts": [
+    "Cystic lymph node of Lund",
+    "The common bile duct",
+    "The portal vein",
+    "The tail of the pancreas"
+   ],
+   "ans": 0,
+   "exp": "Calot's triangle: content — cystic lymph node of Lund. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-007",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "The cystic lymph node of Lund is also known as:",
+   "opts": [
+    "The sentinel node of the gallbladder",
+    "Virchow's node",
+    "The celiac node",
+    "The inferior mesenteric node"
+   ],
+   "ans": 0,
+   "exp": "Calot's triangle: the cystic lymph node of Lund is the sentinel node of the gallbladder. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-008",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "During laparoscopic cholecystectomy, the critical view of safety is achieved by dissecting:",
+   "opts": [
+    "Calot's triangle",
+    "The hepatocystic triangle only",
+    "The cystic plate",
+    "Rouviere's sulcus"
+   ],
+   "ans": 0,
+   "exp": "Critical view of safety: Calot's triangle is dissected during lap cholecystectomy. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-009",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "In the critical view of safety, which two structures are clipped before the gallbladder is removed?",
+   "opts": [
+    "Cystic artery and cystic duct",
+    "Cystic artery and common hepatic duct",
+    "Cystic duct and common bile duct",
+    "Right hepatic artery and cystic duct"
+   ],
+   "ans": 0,
+   "exp": "Critical view of safety: the cystic artery and cystic duct are clipped, then the gallbladder is removed. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-010",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "Moynihan's hump is:",
+   "opts": [
+    "A tortuous right hepatic artery lying in Calot's triangle",
+    "A stone in the cystic duct",
+    "A mucocele of the gallbladder",
+    "A variant of the cystic plate"
+   ],
+   "ans": 0,
+   "exp": "Moynihan's hump: tortuous (R) hepatic artery lying in Calot's triangle. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-011",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "The cystic artery is a branch of:",
+   "opts": [
+    "The right hepatic artery",
+    "The left hepatic artery",
+    "The common hepatic artery only",
+    "The gastroduodenal artery only"
+   ],
+   "ans": 0,
+   "exp": "Moynihan's hump: cystic artery — branch of the right hepatic artery. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-012",
+   "sec": "Surgical Anatomy of the Gallbladder",
+   "page": 265,
+   "q": "The clinical significance of Moynihan's hump is that it may be:",
+   "opts": [
+    "Injured during laparoscopic cholecystectomy causing bleeding",
+    "Misidentified as the cystic duct",
+    "The cause of Charcot's triad",
+    "A marker of gallbladder cancer"
+   ],
+   "ans": 0,
+   "exp": "Moynihan's hump: clinical significance — injury during lap cholecystectomy leads to bleeding. (Book p265)"
+  },
+  {
+   "id": "SURG-C37-013",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "The cystic plate:",
+   "opts": [
+    "Covers the gallbladder fossa",
+    "Is the peritoneal lining of the cystic duct",
+    "Contains the cystic artery",
+    "Lies below the liver capsule of segment 2"
+   ],
+   "ans": 0,
+   "exp": "Cystic plate: covers the gallbladder fossa. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-014",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "The cystic plate is a sheet continuous with the liver capsule of which Couinaud segments?",
+   "opts": [
+    "4 and 5",
+    "2 and 3",
+    "6 and 7",
+    "8 and 4a"
+   ],
+   "ans": 0,
+   "exp": "Cystic plate: sheet continuous with the liver capsule of segments 4 and 5. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-015",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "Exposure of the cystic plate corresponds to:",
+   "opts": [
+    "The critical view of safety",
+    "Rouviere's sulcus",
+    "The R4U line",
+    "The gallbladder fossa only"
+   ],
+   "ans": 0,
+   "exp": "Cystic plate: cystic plate exposed — critical view of safety. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-016",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "Rouviere's sulcus is located on:",
+   "opts": [
+    "The undersurface of the right lobe of liver",
+    "The undersurface of the left lobe",
+    "The anterior surface of segment 4",
+    "The gallbladder fossa"
+   ],
+   "ans": 0,
+   "exp": "Rouviere's sulcus: undersurface of the right lobe of liver. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-017",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "Rouviere's sulcus runs to the right of the hepatic hilum, marking the position of:",
+   "opts": [
+    "The right posterior sectoral pedicle",
+    "The left hepatic duct",
+    "The portal vein only",
+    "The cystic artery"
+   ],
+   "ans": 0,
+   "exp": "Rouviere's sulcus: running to the right of the hepatic hilum — position of the right posterior sectoral pedicle. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-018",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "The R4U line runs from:",
+   "opts": [
+    "The roof of Rouviere's sulcus to the base of segment 4",
+    "The gallbladder fundus to the umbilicus",
+    "Segment 8 to segment 6",
+    "The porta hepatis to the IVC"
+   ],
+   "ans": 0,
+   "exp": "R4U line: roof of the Rouviere sulcus to the base of segment 4. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-019",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "In the sequence Rouviere's sulcus leads to segment 4 and then to:",
+   "opts": [
+    "The umbilical fissure",
+    "The falciform ligament",
+    "Segment 2",
+    "The gallbladder fossa"
+   ],
+   "ans": 0,
+   "exp": "R4U line: Rouviere's sulcus leads to segment 4 and then to the umbilical fissure (U). (Book p266)"
+  },
+  {
+   "id": "SURG-C37-020",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "The common bile duct lies in relation to the R4U line:",
+   "opts": [
+    "Below the line, where it is at risk of injury",
+    "Above the line",
+    "Within the line",
+    "Always at the roof of Rouviere's sulcus"
+   ],
+   "ans": 0,
+   "exp": "Clinical significance: CBD present below the R4U line — injury. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-021",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "Doing laparoscopic cholecystectomy above the R4U line:",
+   "opts": [
+    "Minimises injury",
+    "Increases the risk of CBD injury",
+    "Prevents exposure of the cystic plate",
+    "Is contraindicated in all"
+   ],
+   "ans": 0,
+   "exp": "Clinical significance: lap cholecystectomy above the line minimises injury. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-022",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "Which layer is characteristically ABSENT from the gallbladder wall?",
+   "opts": [
+    "Submucosa",
+    "Mucosa",
+    "Muscularis",
+    "Serosa"
+   ],
+   "ans": 0,
+   "exp": "General anatomy: the gallbladder lacks submucosa. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-023",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "The subserosal lymphatics of the gallbladder drain into the gallbladder fossa, which explains:",
+   "opts": [
+    "Metastasis of gallbladder cancer into the liver",
+    "Pneumobilia",
+    "Charcot's triad",
+    "Porcelain gallbladder"
+   ],
+   "ans": 0,
+   "exp": "General anatomy: contains subserosal lymphatics that drain into the GB fossa — metastasis of GB cancer into liver. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-024",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "Spread of gallbladder cancer into the liver occurs by all of the following EXCEPT:",
+   "opts": [
+    "Lymphatic emboli to the lung only",
+    "Subserosal lymphatics",
+    "Direct infiltration",
+    "Haematogenous spread"
+   ],
+   "ans": 0,
+   "exp": "Note: spread of GB cancer into liver — subserosal lymphatics, direct infiltration and haematogenous spread. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-025",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "A Phrygian cap is:",
+   "opts": [
+    "A physiological variant of the gallbladder",
+    "A malignant gallbladder tumour",
+    "A sign of acute cholecystitis",
+    "A radiopaque stone"
+   ],
+   "ans": 0,
+   "exp": "Phrygian cap: physiological variant of gallbladder. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-026",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "A Phrygian cap:",
+   "opts": [
+    "Is NOT an indication for surgical removal",
+    "Always requires cholecystectomy",
+    "Increases the risk of cancer",
+    "Causes obstructive jaundice"
+   ],
+   "ans": 0,
+   "exp": "Phrygian cap: not an indication for surgical removal. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-027",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "page": 266,
+   "q": "A Phrygian cap on USG shows:",
+   "opts": [
+    "The fundus folded inwards",
+    "A thickened wall",
+    "Pericholecystic fluid",
+    "Post acoustic shadowing"
+   ],
+   "ans": 0,
+   "exp": "Phrygian cap USG figure: fundus folded inwards; it does not raise the risk of cancer. (Book p266)"
+  },
+  {
+   "id": "SURG-C37-028",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "The functions of the gallbladder include all of the following EXCEPT:",
+   "opts": [
+    "Production of bile by hepatocytes",
+    "Reservoir of bile",
+    "Secretion of mucin",
+    "Concentration of bile"
+   ],
+   "ans": 0,
+   "exp": "Functions: reservoir of bile, secretion of mucin, concentration of bile. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-029",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Pure cholesterol gallstones have a cholesterol content of:",
+   "opts": [
+    "More than 90%",
+    "30-40%",
+    "Less than 10%",
+    "Exactly 50%"
+   ],
+   "ans": 0,
+   "exp": "Gall stones: pure cholesterol stones — >90% cholesterol content. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-030",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Pure cholesterol gallstones are characteristically:",
+   "opts": [
+    "Solitary",
+    "Multiple and small",
+    "Black in colour",
+    "Associated with haemolysis"
+   ],
+   "ans": 0,
+   "exp": "Gall stones: pure cholesterol stones — solitary. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-031",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Pigment gallstones contain:",
+   "opts": [
+    "30-40% cholesterol",
+    "More than 90% cholesterol",
+    "No cholesterol at all",
+    "Only calcium palmitate"
+   ],
+   "ans": 0,
+   "exp": "Gall stones: pigment stones — 30-40% cholesterol. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-032",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "The most common stones overall are:",
+   "opts": [
+    "Mixed stones",
+    "Pure cholesterol stones",
+    "Black pigment stones",
+    "Brown pigment stones"
+   ],
+   "ans": 0,
+   "exp": "Gall stones: mixed stones — m/c stones overall. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-033",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Brown pigment stones are seen in:",
+   "opts": [
+    "Infected bile with ascariasis, clonorchiasis and cholangitis",
+    "Haemolytic anaemia",
+    "Pregnancy",
+    "Diabetes only"
+   ],
+   "ans": 0,
+   "exp": "Brown pigment stones: seen in infected bile — ascariasis infection, clonorchiasis infection, cholangitis. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-034",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "The composition of brown pigment stones includes:",
+   "opts": [
+    "Calcium palmitate, calcium stearate and calcium bilirubinate",
+    "Insoluble bilirubin pigment polymer only",
+    "Pure cholesterol",
+    "Calcium bicarbonate and phosphate only"
+   ],
+   "ans": 0,
+   "exp": "Brown pigment stones: composition — calcium palmitate, calcium stearate, calcium bilirubinate. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-035",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Black pigment stones are seen in haemolytic disorders such as:",
+   "opts": [
+    "G6PD, sickle cell anaemia and spherocytosis",
+    "Iron deficiency anaemia",
+    "Vitamin B12 deficiency",
+    "Lead poisoning only"
+   ],
+   "ans": 0,
+   "exp": "Black pigment stones: seen in haemolytic disorders — G6PD, sickle cell anaemia, spherocytosis. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-036",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "The predominant composition of black pigment stones is:",
+   "opts": [
+    "Insoluble bilirubin pigment polymer",
+    "Calcium palmitate",
+    "Pure cholesterol",
+    "Mucin"
+   ],
+   "ans": 0,
+   "exp": "Black pigment stones: composition — insoluble bilirubin pigment polymer (predominate) and calcium bicarbonate/phosphate. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-037",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Which of the following is a risk factor for gallstones through lithogenic bile?",
+   "opts": [
+    "Obese individuals",
+    "Underweight individuals",
+    "Post cholecystectomy",
+    "Prolonged fasting"
+   ],
+   "ans": 0,
+   "exp": "Risk factors — lithogenic bile: raised cholesterol, obese individuals, post ileal resection. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-038",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Post ileal resection predisposes to gallstones because of:",
+   "opts": [
+    "Lithogenic bile",
+    "Bowel obstruction",
+    "Pancreatitis",
+    "Hilum lymphadenopathy"
+   ],
+   "ans": 0,
+   "exp": "Risk factors — lithogenic bile includes post ileal resection. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-039",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Nucleation in gallstone formation is promoted by:",
+   "opts": [
+    "Infection, ascariasis, clonorchiasis and cholangitis",
+    "Pregnancy",
+    "Oral contraceptive pills",
+    "Vagotomy"
+   ],
+   "ans": 0,
+   "exp": "Risk factors — nucleation: infection, ascariasis, clonorchis, cholangitis. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-040",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Which of the following causes gallstones by biliary stasis?",
+   "opts": [
+    "Pregnancy and OCP use",
+    "Cholangitis",
+    "Ascariasis",
+    "Post ileal resection"
+   ],
+   "ans": 0,
+   "exp": "Risk factors — stasis: pregnancy, OCP. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-041",
+   "sec": "Gallstones: Classification and Risk Factors",
+   "page": 267,
+   "q": "Post vagotomy predisposes to gallstones because:",
+   "opts": [
+    "There is decreased vagal contraction leading to stasis",
+    "The bile becomes more dilute",
+    "Cholesterol falls in the bile",
+    "The sphincter of Oddi opens constantly"
+   ],
+   "ans": 0,
+   "exp": "Risk factors — stasis: post vagotomy leads to decreased contraction of the vagus, causing stasis. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-042",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 267,
+   "q": "On X-ray, what proportion of gallstones are radiolucent?",
+   "opts": [
+    "90%",
+    "10%",
+    "50%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "Investigation — X-ray: 90% radiolucent, 10% radiopaque. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-043",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 267,
+   "q": "On X-ray, what proportion of gallstones are radiopaque?",
+   "opts": [
+    "10%",
+    "90%",
+    "50%",
+    "1%"
+   ],
+   "ans": 0,
+   "exp": "Investigation — X-ray: 10% radiopaque. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-044",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 267,
+   "q": "The seagull sign on X-ray is produced by:",
+   "opts": [
+    "A bircusped (two-cusped) stone",
+    "A trircusped stone",
+    "Pneumobilia",
+    "A porcelain gallbladder"
+   ],
+   "ans": 0,
+   "exp": "Signs: seagull sign — bircusped stone. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-045",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 267,
+   "q": "The mercedes Benz sign on X-ray is produced by:",
+   "opts": [
+    "A trircusped (three-cusped) stone",
+    "A bircusped stone",
+    "A solitary cholesterol stone",
+    "Gas in the gallbladder wall"
+   ],
+   "ans": 0,
+   "exp": "Signs: mercedes Benz sign — trircusped stone. (Book p267)"
+  },
+  {
+   "id": "SURG-C37-046",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "The investigation of choice for gallstones is:",
+   "opts": [
+    "USG",
+    "Plain X-ray",
+    "ERCP",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: USG — IOC. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-047",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A gallstone on USG characteristically shows:",
+   "opts": [
+    "Post acoustic shadow",
+    "Post acoustic enhancement",
+    "No shadow at all",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "USG: post acoustic shadows. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-048",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Post acoustic shadowing on USG is ABSENT in:",
+   "opts": [
+    "Gallbladder polyp",
+    "Cholesterol stones",
+    "Pigment stones",
+    "Mucocele"
+   ],
+   "ans": 0,
+   "exp": "USG: post acoustic shadow is absent in gallbladder polyp. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-049",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Asymptomatic gallstones are managed by:",
+   "opts": [
+    "Observation",
+    "Elective cholecystectomy in all",
+    "Ursodeoxycholic acid in all",
+    "ERCP with sphincterotomy"
+   ],
+   "ans": 0,
+   "exp": "Presentation and management: asymptomatic stones — no pain, observation. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-050",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A porcelain gallbladder is defined by:",
+   "opts": [
+    "Calcification of the gallbladder wall",
+    "A Phrygian cap",
+    "A thickened wall on USG",
+    "Air in the gallbladder wall"
+   ],
+   "ans": 0,
+   "exp": "Indication for surgery: a. Porcelain gallbladder — calcification of gallbladder wall. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-051",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A porcelain gallbladder raises the risk of cancer by:",
+   "opts": [
+    "5-7%",
+    "50%",
+    "1%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Porcelain gallbladder: risk of cancer raised by 5-7%. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-052",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A gallbladder polyp is an indication for surgery when it is:",
+   "opts": [
+    "Greater than 1 cm",
+    "Less than 5 mm and asymptomatic",
+    "Stable in size",
+    "Found incidentally at any size"
+   ],
+   "ans": 0,
+   "exp": "Indication for surgery: b. GB polyp — >1 cm. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-053",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Which additional feature of a gallbladder polyp strengthens the indication for surgery?",
+   "opts": [
+    "Increasing size, especially with associated stones",
+    "A small stable size",
+    "No stones",
+    "Young age only"
+   ],
+   "ans": 0,
+   "exp": "GB polyp: increasing in size and associated with stones are surgical indications. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-054",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Which of the following is a listed indication for cholecystectomy in gallstone carriers?",
+   "opts": [
+    "Salmonella typhi carrier",
+    "Hypertension",
+    "Asthma",
+    "Hyperthyroidism"
+   ],
+   "ans": 0,
+   "exp": "Indication for surgery: c. Salmonella typhi carrier. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-055",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "In a diabetic, cholecystectomy is indicated because:",
+   "opts": [
+    "The first attack of stones is severe and painful",
+    "Diabetics never form stones",
+    "Stones are always radiolucent in diabetics",
+    "Diabetics have a Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Indication for surgery: d. Diabetes — first attack of stones is severe and painful. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-056",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Cholecystectomy before bariatric surgery is indicated in:",
+   "opts": [
+    "The endemic zone of gallbladder cancer",
+    "Patients with a Phrygian cap",
+    "Patients with radiolucent stones only",
+    "Patients with a 1 cm polyp"
+   ],
+   "ans": 0,
+   "exp": "Indication for surgery: e. Bariatric surgery — endemic zone of GB cancer. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-057",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A gallstone of what size is an indication for surgery?",
+   "opts": [
+    "Greater than 2 cm",
+    "Greater than 5 mm",
+    "Greater than 1 cm",
+    "Greater than 5 cm"
+   ],
+   "ans": 0,
+   "exp": "Indication for surgery: f. >2 cm stone. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-058",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Acute cholecystitis is:",
+   "opts": [
+    "Inflammation of the gallbladder",
+    "Inflammation of the bile ducts",
+    "Cancer of the gallbladder",
+    "Infection of the pancreatic duct"
+   ],
+   "ans": 0,
+   "exp": "Acute cholecystitis: inflammation of gallbladder. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-059",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "The symptoms of acute cholecystitis include:",
+   "opts": [
+    "Pain on the right side of the abdomen, nausea and vomiting, anorexia",
+    "Painless jaundice only",
+    "Chronic diarrhoea",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Symptoms: pain in right side of abdomen, nausea and vomiting, anorexia. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-060",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Murphy's sign is:",
+   "opts": [
+    "Pressing on the right hypochondrium catches the breath",
+    "Tenderness at McBurney's point",
+    "Pain on rectal examination",
+    "A positive psoas sign"
+   ],
+   "ans": 0,
+   "exp": "Signs: Murphy's sign — pressing on right hypochondrium catches the breath. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-061",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "BoA's sign in acute cholecystitis is:",
+   "opts": [
+    "Hyperesthesia over the region of the 10th rib",
+    "Pain in the right shoulder tip",
+    "A positive obturator sign",
+    "Tenderness at the costochondral junction"
+   ],
+   "ans": 0,
+   "exp": "Signs: BoA's sign — hyperesthesia over the region of the 10th rib. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-062",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Under the Tokyo consensus guidelines, a LOCALISED sign of inflammation in acute cholecystitis is:",
+   "opts": [
+    "Murphy's sign and right upper quadrant pain",
+    "Fever and raised CRP",
+    "Wall thickness greater than 3 mm",
+    "Leukocytosis"
+   ],
+   "ans": 0,
+   "exp": "Tokyo consensus: A. Localised signs of inflammation — Murphy's sign, right upper quadrant pain. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-063",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A SYSTEMIC sign of inflammation in the Tokyo consensus criteria is:",
+   "opts": [
+    "Fever with raised CRP and leukocytosis",
+    "Murphy's sign",
+    "Probe tenderness",
+    "Right upper quadrant pain"
+   ],
+   "ans": 0,
+   "exp": "Tokyo consensus: B. Systemic signs of inflammation — fever, raised CRP, leukocytosis. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-064",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A classical imaging feature of acute cholecystitis is:",
+   "opts": [
+    "Wall thickness greater than 3 mm",
+    "Wall thickness less than 2 mm",
+    "A normal wall with a small lumen",
+    "Diffuse hepatic enhancement"
+   ],
+   "ans": 0,
+   "exp": "Tokyo consensus: C. Classical features — wall thickness >3 mm, pericholecystic fluid (due to inflammation), probe tenderness. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-065",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "Pericholecystic fluid in acute cholecystitis is due to:",
+   "opts": [
+    "Inflammation",
+    "Haemorrhage only",
+    "Tumour only",
+    "Normal physiology"
+   ],
+   "ans": 0,
+   "exp": "Classical features: pericholecystic fluid (d/t inflammation). (Book p268)"
+  },
+  {
+   "id": "SURG-C37-066",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A SUSPECTED diagnosis of acute cholecystitis (Tokyo consensus) requires:",
+   "opts": [
+    "Any 1 of A plus any 1 of B",
+    "Only C (imaging)",
+    "Only A (localised signs)",
+    "All three criteria together"
+   ],
+   "ans": 0,
+   "exp": "Dx: suspected Dx — any 1 of A + any 1 of B. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-067",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 268,
+   "q": "A DEFINITE diagnosis of acute cholecystitis (Tokyo consensus) requires:",
+   "opts": [
+    "Any 1 of B/A plus any 1 of B plus C",
+    "Any 1 of A only",
+    "Only fever",
+    "Only a positive Murphy's sign"
+   ],
+   "ans": 0,
+   "exp": "Dx: definite Dx — any 1 of B/A + any 1 of B + C, as written in the book. (Book p268)"
+  },
+  {
+   "id": "SURG-C37-068",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "A HIDA scan is:",
+   "opts": [
+    "A hepatobiliary iminodiacetic acid scan",
+    "A hepatic isotope absorption scan",
+    "A hydrostatic intraduodenal assay",
+    "A histamine inhibition of dilation assay"
+   ],
+   "ans": 0,
+   "exp": "HIDA scan: hepatobiliary iminodiacetic acid scan. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-069",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "In a normal HIDA scan, the tracer:",
+   "opts": [
+    "Reaches the bowel in 30 minutes in 90% of cases",
+    "Reaches the bowel in 30 minutes in 10% of cases",
+    "Never enters the bowel",
+    "Reaches the bowel within 1 hour in all patients"
+   ],
+   "ans": 0,
+   "exp": "HIDA scan: affinity to biliary tree — reaches bowel in 30 mins (in 90%). (Book p269)"
+  },
+  {
+   "id": "SURG-C37-070",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "In acute cholecystitis, the HIDA scan shows:",
+   "opts": [
+    "Non-visualisation of the gallbladder",
+    "Early filling of the gallbladder",
+    "No tracer in the bowel",
+    "Only a dilated common bile duct"
+   ],
+   "ans": 0,
+   "exp": "HIDA scan: acute cholecystitis — inflamed neck leads to non-visualisation of the gallbladder. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-071",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "Grade III acute cholecystitis (Tokyo consensus) is defined as:",
+   "opts": [
+    "Severe cholecystitis with organ dysfunction",
+    "Mild cholecystitis",
+    "Moderate cholecystitis without organ dysfunction",
+    "Cholecystitis with a normal white cell count"
+   ],
+   "ans": 0,
+   "exp": "Severity grading: Grade III — severe cholecystitis + organ dysfunction. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-072",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "Which of the following places a patient in Grade II (moderate) acute cholecystitis?",
+   "opts": [
+    "White cell count greater than 18,000/mm3",
+    "A white cell count of 8,000/mm3",
+    "Duration of 24 hours with a normal mass",
+    "No local mass and no complications"
+   ],
+   "ans": 0,
+   "exp": "Grade II — associated with any one of: raised WBC (>18,000/mm3), palpable tender mass in the right upper quadrant, duration >72 hrs, gangrenous cholecystitis/pericholecystic abscess/hepatic abscess/biliary peritonitis/emphysematous cholecystitis. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-073",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "Grade II acute cholecystitis includes all of the following EXCEPT:",
+   "opts": [
+    "Mild cholecystitis with none of the listed features",
+    "A palpable tender mass in the right upper abdominal quadrant",
+    "Duration greater than 72 hours",
+    "Gangrenous cholecystitis or emphysematous cholecystitis"
+   ],
+   "ans": 0,
+   "exp": "Grade II: moderate cholecystitis associated with any one of the listed features — plain mild cholecystitis is Grade I. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-074",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "Grade I acute cholecystitis is:",
+   "opts": [
+    "Mild cholecystitis",
+    "Moderate cholecystitis with a tender mass",
+    "Severe cholecystitis with organ dysfunction",
+    "Acalculous cholecystitis only"
+   ],
+   "ans": 0,
+   "exp": "Severity grading: Grade I — mild cholecystitis. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-075",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "Initial management of acute cholecystitis includes:",
+   "opts": [
+    "Nil per oral, IV fluids, IV antibiotics with aerobic and anaerobic cover, and analgesics",
+    "Immediate laparotomy in all",
+    "Oral antibiotics alone",
+    "ERCP before any antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Management: nil per oral, IV fluids, IV antibiotics (aerobic + anaerobic cover), analgesics. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-076",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "A Grade I acute cholecystitis in a patient FIT for surgery is managed definitively by:",
+   "opts": [
+    "Early laparoscopic cholecystectomy",
+    "Tube cholecystostomy first",
+    "Observation for a year",
+    "Open cholecystectomy in all"
+   ],
+   "ans": 0,
+   "exp": "Definitive management: Grade I, fit for surgery — early lap cholecystectomy. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-077",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "page": 269,
+   "q": "A Grade I acute cholecystitis in a patient UNFIT for surgery is managed by:",
+   "opts": [
+    "Antibiotics and supportive care, then observation, then lap cholecystectomy",
+    "Immediate tube cholecystostomy with no further surgery",
+    "Surgery within 24 hours",
+    "Discharge without follow-up"
+   ],
+   "ans": 0,
+   "exp": "Definitive management: Grade I, unfit for surgery — antibiotics and supportive care, observation, then lap cholecystectomy. (Book p269)"
+  },
+  {
+   "id": "SURG-C37-078",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Grade II acute cholecystitis in a centre with advanced laparoscopic technique available is managed by:",
+   "opts": [
+    "Antibiotics and general supportive care with early lap cholecystectomy",
+    "Immediate open cholecystectomy",
+    "Tube cholecystostomy only",
+    "Observation for 6 months"
+   ],
+   "ans": 0,
+   "exp": "Grade II: antibiotics and general supportive care — with advanced lap cholecystectomy technique available, early lap cholecystectomy. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-079",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "A Grade II acute cholecystitis in a patient unfit for surgery is managed by:",
+   "opts": [
+    "GB drainage (tube cholecystostomy), then delayed lap cholecystectomy",
+    "Immediate lap cholecystectomy",
+    "Antibiotics alone with no drainage",
+    "Open cholecystectomy under local anaesthesia"
+   ],
+   "ans": 0,
+   "exp": "Grade II, unfit for surgery: GB drainage — tube cholecystostomy (the tube decompresses the GB and reduces inflammation) then delayed lap cholecystectomy. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-080",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "The purpose of tube cholecystostomy in acute cholecystitis is that:",
+   "opts": [
+    "The tube decompresses the gallbladder and reduces inflammation",
+    "It removes the stones permanently",
+    "It cures emphysematous cholecystitis",
+    "It prevents Charcot's triad"
+   ],
+   "ans": 0,
+   "exp": "Tube cholecystostomy: the tube decompresses the GB, reducing inflammation. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-081",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Grade III acute cholecystitis with NO negative predictive factors, in an advanced centre with good performance status, is managed by:",
+   "opts": [
+    "Antibiotics and supportive care with early lap cholecystectomy",
+    "Permanent tube cholecystostomy",
+    "Observation alone",
+    "Palliative care only"
+   ],
+   "ans": 0,
+   "exp": "Grade III: antibiotics and supportive care; no negative predictive factors — advanced centre with good performance status (PS) gets early lap cholecystectomy. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-082",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Grade III acute cholecystitis WITH negative predictive factors is first managed by:",
+   "opts": [
+    "Tube cholecystostomy / drainage",
+    "Early lap cholecystectomy in all",
+    "Open cholecystectomy without staging",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Grade III: with negative predictive factors — tube cholecystostomy/drainage. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-083",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "After drainage, a Grade III patient with POOR performance status is managed by:",
+   "opts": [
+    "Observation",
+    "Immediate lap cholecystectomy",
+    "Delayed lap cholecystectomy within a week",
+    "Second-look drainage"
+   ],
+   "ans": 0,
+   "exp": "Grade III with negative predictive factors: good PS — delayed lap cholecystectomy; poor PS — observation. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-084",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Acalculous cholecystitis is defined as:",
+   "opts": [
+    "Cholecystitis without a gallbladder stone",
+    "Cholecystitis with a single large stone",
+    "Cancer of the gallbladder",
+    "Chronic cholecystitis with a WES sign"
+   ],
+   "ans": 0,
+   "exp": "Acalculous cholecystitis: cholecystitis + no GB stone. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-085",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Which of the following is a risk factor for acalculous cholecystitis?",
+   "opts": [
+    "An ICU patient",
+    "A healthy outpatient",
+    "A patient with a Phrygian cap",
+    "A patient with radiopaque stones"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: ICU patient. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-086",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Prolonged TPN predisposes to acalculous cholecystitis because:",
+   "opts": [
+    "TPN causes biliary stasis leading to inflammation",
+    "TPN dissolves the stones",
+    "TPN thickens the cystic plate",
+    "TPN causes a Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: prolonged TPN — TPN causes biliary stasis, leading to inflammation. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-087",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Acalculous cholecystitis is also seen after:",
+   "opts": [
+    "CABG",
+    "Appendectomy",
+    "Hernia repair",
+    "Cataract surgery"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: post CABG. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-088",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "The clinical features of acalculous cholecystitis are:",
+   "opts": [
+    "The same as cholecystitis",
+    "Painless jaundice only",
+    "Weight loss only",
+    "Haematemesis and melaena"
+   ],
+   "ans": 0,
+   "exp": "Acalculous cholecystitis: C/F — same as cholecystitis. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-089",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "USG findings in acalculous cholecystitis include:",
+   "opts": [
+    "Thickened GB wall and pericholecystic fluid",
+    "Post acoustic shadow",
+    "A WES sign",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Investigation: USG (IOC) — thickened GB wall, pericholecystic fluid. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-090",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "Acalculous cholecystitis that does not improve on supportive care is managed by:",
+   "opts": [
+    "Laparoscopic cholecystectomy",
+    "Observation for a year",
+    "Oral antibiotics only",
+    "ERCP with sphincterotomy"
+   ],
+   "ans": 0,
+   "exp": "Management: supportive care (nil per oral, IV fluids, IV antibiotics, analgesics); no improvement — lap cholecystectomy. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-091",
+   "sec": "Management by Grade and Acalculous Cholecystitis",
+   "page": 270,
+   "q": "An acalculous cholecystitis patient who is UNFIT for surgery is managed by:",
+   "opts": [
+    "Tube cholecystostomy",
+    "Emergency open cholecystectomy",
+    "Palliation only",
+    "No treatment"
+   ],
+   "ans": 0,
+   "exp": "Management: unfit — tube cholecystostomy. (Book p270)"
+  },
+  {
+   "id": "SURG-C37-092",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "Chronic cholecystitis is characterised by:",
+   "opts": [
+    "Multiple episodes of cholecystitis",
+    "A single attack",
+    "Painless jaundice",
+    "A normal gallbladder wall"
+   ],
+   "ans": 0,
+   "exp": "Chronic cholecystitis: multiple episodes of cholecystitis. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-093",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "The clinical features of chronic cholecystitis are:",
+   "opts": [
+    "Right upper quadrant pain with nausea and vomiting",
+    "Painless weight loss",
+    "Chronic diarrhoea",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: right upper quadrant pain, nausea and vomiting. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-094",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "The WES sign on USG in chronic cholecystitis stands for:",
+   "opts": [
+    "Wall echo shadow sign",
+    "White echo stone sign",
+    "Wall edema syndrome",
+    "Wandering echo sign"
+   ],
+   "ans": 0,
+   "exp": "Investigation: USG (IOC) — wall echo shadow (WES) sign. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-095",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "Histopathology of chronic cholecystitis shows all of the following EXCEPT:",
+   "opts": [
+    "Acute neutrophilic abscess as the defining feature",
+    "Clefts (ulceration of mucosa)",
+    "Chronic inflammatory cells",
+    "Rokitansky Aschoff sinuses"
+   ],
+   "ans": 0,
+   "exp": "Histopathology: 1. Clefts (ulceration of mucosa), 2. Chronic inflammatory cells — plus Rokitansky Aschoff sinuses. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-096",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "Rupture of Rokitansky Aschoff sinuses leads to:",
+   "opts": [
+    "Xanthogranulomatous cholecystitis",
+    "Gallstone ileus",
+    "Mirizzi syndrome",
+    "Charcot's triad"
+   ],
+   "ans": 0,
+   "exp": "Rokitansky Aschoff sinuses, on rupture, cause xanthogranulomatous cholecystitis — differential diagnosis: cancer. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-097",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "Xanthogranulomatous cholecystitis is an important differential diagnosis of:",
+   "opts": [
+    "Gallbladder cancer",
+    "Appendicitis",
+    "Pancreatitis",
+    "Cholelithiasis only"
+   ],
+   "ans": 0,
+   "exp": "Rupture of Rokitansky Aschoff sinuses — xanthogranulomatous cholecystitis; D/d: cancer. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-098",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "The management of chronic cholecystitis is:",
+   "opts": [
+    "Laparoscopic cholecystectomy",
+    "Observation in all",
+    "Antibiotics only",
+    "Ursodeoxycholic acid"
+   ],
+   "ans": 0,
+   "exp": "Management: lap cholecystectomy. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-099",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "The causative organism of emphysematous cholecystitis is:",
+   "opts": [
+    "Clostridium",
+    "E. coli only",
+    "Salmonella only",
+    "Staphylococcus only"
+   ],
+   "ans": 0,
+   "exp": "Emphysematous cholecystitis: causative organism — Clostridium. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-100",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "A predisposing factor for emphysematous cholecystitis is:",
+   "opts": [
+    "Diabetes",
+    "Hypothyroidism",
+    "Asthma",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Predisposing factors: immunocompromised, diabetes. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-101",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "The clinical features of emphysematous cholecystitis are:",
+   "opts": [
+    "Pain, fever and sepsis",
+    "Painless jaundice",
+    "Chronic constipation",
+    "Weight gain"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain, fever, sepsis. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-102",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "On USG, emphysematous cholecystitis shows:",
+   "opts": [
+    "Gas within the gallbladder and in the wall of the gallbladder",
+    "Post acoustic shadow",
+    "A WES sign",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Investigation: USG (IOC) — gas within GB, wall of GB; also CECT. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-103",
+   "sec": "Chronic and Emphysematous Cholecystitis",
+   "page": 271,
+   "q": "The management of emphysematous cholecystitis includes:",
+   "opts": [
+    "Nil per oral, IV fluids, broad-spectrum IV antibiotics and early lap cholecystectomy or tube cholecystostomy",
+    "Observation only",
+    "Oral antibiotics only",
+    "ERCP first in all"
+   ],
+   "ans": 0,
+   "exp": "Management: nil per oral, IV fluids, IV antibiotics (broad spectrum), early lap cholecystectomy/tube cholecystostomy. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-104",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 271,
+   "q": "A mucocele of the gallbladder is:",
+   "opts": [
+    "Aseptic dilatation of the gallbladder due to a stone impacted at the Hartmann pouch neck",
+    "An infected gallbladder",
+    "A cancer of the gallbladder fundus",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Mucocele of GB: aseptic dilatation of GB d/t stone impacted at Hartmann pouch neck. (Book p271)"
+  },
+  {
+   "id": "SURG-C37-105",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "In a mucocele, the gallbladder distends because:",
+   "opts": [
+    "Bile is absorbed and mucus is produced by the wall",
+    "Bile production increases",
+    "The cystic duct is patent and fills",
+    "The liver stops making bile"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology: impaction of stone in the neck of GB, bile absorbed and mucus produced by the wall. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-106",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "On examination, a mucocele of the gallbladder shows:",
+   "opts": [
+    "A distended gallbladder with pain",
+    "No palpable gallbladder",
+    "A fixed gallbladder mass without mobility",
+    "Jaundice always"
+   ],
+   "ans": 0,
+   "exp": "Mucocele: O/E — distended GB, pain. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-107",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "The investigation of choice for a mucocele of the gallbladder is:",
+   "opts": [
+    "USG",
+    "ERCP",
+    "HIDA scan",
+    "MRCP"
+   ],
+   "ans": 0,
+   "exp": "Mucocele: IOC — USG. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-108",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "The management of a mucocele of the gallbladder is:",
+   "opts": [
+    "Laparoscopic cholecystectomy",
+    "Observation",
+    "Ursodeoxycholic acid",
+    "Percutaneous drainage only"
+   ],
+   "ans": 0,
+   "exp": "Mucocele: Mx — lap cholecystectomy. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-109",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "A mucocele that becomes infected turns into:",
+   "opts": [
+    "Empyema of the gallbladder",
+    "A WES sign",
+    "A Phrygian cap",
+    "Charcot's triad"
+   ],
+   "ans": 0,
+   "exp": "Mucocele, if infected, becomes empyema of GB — Mx: lap cholecystectomy. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-110",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "Gallstone ileus is best described as:",
+   "opts": [
+    "A misnomer causing dynamic bowel obstruction",
+    "A true ileus of the colon",
+    "A static large bowel obstruction",
+    "An inflammation of the gallbladder"
+   ],
+   "ans": 0,
+   "exp": "Gall stone ileus: misnomer; dynamic bowel obstruction. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-111",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "Gallstone ileus is secondary to:",
+   "opts": [
+    "A cholecystoduodenal fistula",
+    "A cholecystocolic fistula only",
+    "A stone in the common bile duct",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Gall stone ileus: a° to cholecystoduodenal fistula. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-112",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "The clinical features of gallstone ileus are those of bowel obstruction:",
+   "opts": [
+    "Obstipation, vomiting and pain",
+    "Painless distension only",
+    "Haematemesis only",
+    "Chronic diarrhoea only"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: bowel obstruction — obstipation, vomiting, pain. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-113",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "The initial investigation in gallstone ileus is:",
+   "opts": [
+    "X-ray abdomen erect and supine",
+    "CT abdomen without contrast only",
+    "ERCP",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: X-ray abdomen erect and supine — initial investigation. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-114",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "Rigler's triad in gallstone ileus consists of:",
+   "opts": [
+    "Small bowel obstruction, pneumobilia and a radiopaque shadow in the right iliac fossa",
+    "Fever, jaundice and pain",
+    "Murphy's sign, BoA's sign and fever",
+    "Air under the diaphragm, free fluid and mass"
+   ],
+   "ans": 0,
+   "exp": "Rigler's triad: 1. Features of small bowel obstruction, 2. Pneumobilia (air in biliary tree), 3. Radiopaque shadow in right iliac fossa. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-115",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "Pneumobilia in Rigler's triad means:",
+   "opts": [
+    "Air in the biliary tree",
+    "Air in the gallbladder only",
+    "Air under the diaphragm",
+    "Air in the appendix"
+   ],
+   "ans": 0,
+   "exp": "Rigler's triad: pneumobilia — air in the biliary tree. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-116",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "The investigation of choice for gallstone ileus is:",
+   "opts": [
+    "CECT",
+    "Plain X-ray only",
+    "USG only",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CECT — IOC. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-117",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "The most common site of obstruction in gallstone ileus is:",
+   "opts": [
+    "The last 2 feet (60 cm) of the ileum",
+    "The duodenum",
+    "The colon",
+    "The jejunal flexure"
+   ],
+   "ans": 0,
+   "exp": "M/c site of obstruction: last 2 feet / 60cm of ileum. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-118",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 272,
+   "q": "Rarely, a gallstone causing gastric outlet obstruction is called:",
+   "opts": [
+    "Bouveret syndrome",
+    "Mirizzi syndrome",
+    "Charcot's triad",
+    "A WES sign"
+   ],
+   "ans": 0,
+   "exp": "Rarely, stone causing gastric outlet obstruction: Bouveret syndrome. (Book p272)"
+  },
+  {
+   "id": "SURG-C37-119",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 273,
+   "q": "The first step in managing gallstone ileus is:",
+   "opts": [
+    "Emergency laparotomy",
+    "ERCP",
+    "Observation for 48 hours",
+    "Oral laxatives"
+   ],
+   "ans": 0,
+   "exp": "Management: 1. Emergency laparotomy. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-120",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 273,
+   "q": "At laparotomy for gallstone ileus, if there is NO peritonitis or perforation, the stone is:",
+   "opts": [
+    "Milked or crushed and taken beyond the ileocaecal junction",
+    "Left in situ",
+    "Removed only by resection",
+    "Dissolved with bile salts"
+   ],
+   "ans": 0,
+   "exp": "Management: no peritonitis/perforation — milk the stone/crush the stone, taken beyond the ileocaecal junction. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-121",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 273,
+   "q": "At laparotomy for gallstone ileus with peritonitis or perforation, the management is:",
+   "opts": [
+    "Resection and anastomosis",
+    "Milking the stone only",
+    "Drainage alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management: peritonitis/perforation — resection and anastomosis. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-122",
+   "sec": "Mucocele and Gallstone Ileus",
+   "page": 273,
+   "q": "When the patient is stable, the second operation for gallstone ileus is:",
+   "opts": [
+    "Cholecystectomy and repair of the fistula",
+    "A second laparotomy for milking",
+    "ERCP",
+    "No further surgery"
+   ],
+   "ans": 0,
+   "exp": "Management: a. When patient is stable — 2nd surgery: cholecystectomy and repair of fistula. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-123",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "Mirizzi syndrome is due to:",
+   "opts": [
+    "Inflammation",
+    "A congenital stricture",
+    "A stone in the ampulla",
+    "Cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "Mirizzi syndrome: d/t inflammation. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-124",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "In Mirizzi syndrome, the inflamed gallbladder:",
+   "opts": [
+    "Adheres to the common bile duct and pushes it",
+    "Adheres to the stomach",
+    "Adheres to the colon only",
+    "Necroses completely"
+   ],
+   "ans": 0,
+   "exp": "Mirizzi syndrome: GB adheres to CBD and pushes the CBD. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-125",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "Later, Mirizzi syndrome can progress to:",
+   "opts": [
+    "Fistula formation with obstructive jaundice",
+    "Gallstone ileus",
+    "Bouveret syndrome",
+    "A WES sign"
+   ],
+   "ans": 0,
+   "exp": "Mirizzi syndrome: pushes the CBD — later, fistula formation, obstructive jaundice. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-126",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "The clinical features of Mirizzi syndrome are:",
+   "opts": [
+    "Pain and jaundice",
+    "Painless mass only",
+    "Fever with rigors only",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain, jaundice. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-127",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "The investigation of choice for Mirizzi syndrome is:",
+   "opts": [
+    "MRCP",
+    "ERCP",
+    "USG alone",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "Investigation: MRCP — IOC. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-128",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "MRCP stands for:",
+   "opts": [
+    "Magnetic resonance cholangiopancreatography",
+    "Magnetic retrograde cholangiography with puncture",
+    "Modified radio contrast pneumography",
+    "Magnetic resonance of the common bile duct only"
+   ],
+   "ans": 0,
+   "exp": "MRCP — magnetic resonance cholangio pancreatography; a non-invasive diagnostic test. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-129",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "MRCP is a:",
+   "opts": [
+    "Non-invasive diagnostic test",
+    "Invasive test requiring a side-viewing scope",
+    "Therapeutic procedure",
+    "Biopsy technique"
+   ],
+   "ans": 0,
+   "exp": "MRCP: non-invasive diagnostic test. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-130",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "The management of Mirizzi syndrome is:",
+   "opts": [
+    "Laparoscopic cholecystectomy",
+    "ERCP with sphincterotomy",
+    "Observation",
+    "Percutaneous drainage only"
+   ],
+   "ans": 0,
+   "exp": "Management: lap cholecystectomy. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-131",
+   "sec": "Mirizzi Syndrome",
+   "page": 273,
+   "q": "A partial cholecystectomy in Mirizzi syndrome is done for:",
+   "opts": [
+    "A densely adherent gallbladder",
+    "A small gallbladder",
+    "A Phrygian cap",
+    "A porcelain gallbladder"
+   ],
+   "ans": 0,
+   "exp": "Management: partial cholecystectomy — densely adherent GB. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-132",
+   "sec": "Choledocholithiasis",
+   "page": 273,
+   "q": "Stones in the common bile duct are secondary to gallbladder stones in what proportion of cases?",
+   "opts": [
+    "90%",
+    "10%",
+    "50%",
+    "99%"
+   ],
+   "ans": 0,
+   "exp": "Choledocholithiasis: stones in CBD — 90% are a° to GB stones. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-133",
+   "sec": "Choledocholithiasis",
+   "page": 273,
+   "q": "Primary CBD stones account for what proportion of choledocholithiasis?",
+   "opts": [
+    "10%",
+    "90%",
+    "50%",
+    "1%"
+   ],
+   "ans": 0,
+   "exp": "Stones in CBD: 10% — primary CBD stones. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-134",
+   "sec": "Choledocholithiasis",
+   "page": 273,
+   "q": "Primary CBD stones are:",
+   "opts": [
+    "Formed in the CBD and are brown pigment stones",
+    "Formed in the gallbladder",
+    "Pure cholesterol stones",
+    "Always radiolucent"
+   ],
+   "ans": 0,
+   "exp": "Primary CBD stones: formed in CBD, brown pigment stone. (Book p273)"
+  },
+  {
+   "id": "SURG-C37-135",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "Choledocholithiasis may present as:",
+   "opts": [
+    "Asymptomatic",
+    "Always with Charcot's triad",
+    "Always with shock",
+    "Never with jaundice"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: asymptomatic. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-136",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "Obstructive jaundice in choledocholithiasis is due to:",
+   "opts": [
+    "Obstruction of the common bile duct",
+    "Haemolysis",
+    "Cirrhosis",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: obstructive jaundice (d/t obstruction of CBD). (Book p274)"
+  },
+  {
+   "id": "SURG-C37-137",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "Charcot's triad is seen in:",
+   "opts": [
+    "Cholangitis (inflammation of the biliary tree)",
+    "Cholecystitis only",
+    "Gallstone ileus",
+    "Pancreatitis only"
+   ],
+   "ans": 0,
+   "exp": "Charcot's triad: seen in cholangitis (inflammation of biliary tree). (Book p274)"
+  },
+  {
+   "id": "SURG-C37-138",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "Charcot's triad consists of:",
+   "opts": [
+    "Intermittent pain, intermittent jaundice and intermittent fever",
+    "Fever, shock and altered sensorium",
+    "Pain, mass and jaundice",
+    "Vomiting, obstipation and pain"
+   ],
+   "ans": 0,
+   "exp": "Charcot's triad: intermittent pain, intermittent jaundice, intermittent fever. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-139",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "Reynold's pentad is:",
+   "opts": [
+    "Charcot's triad plus shock/hypotension and altered mental status",
+    "Charcot's triad only",
+    "A triad of pain, fever and mass",
+    "Pentad of Rigler's triad plus two signs"
+   ],
+   "ans": 0,
+   "exp": "Reynold's pentad: Charcot's triad + shock/hypotension + altered mental status. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-140",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "The investigation of choice for choledocholithiasis is:",
+   "opts": [
+    "MRCP",
+    "ERCP",
+    "USG alone",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: MRCP — IOC. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-141",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "The investigation of choice for CBD microliths is:",
+   "opts": [
+    "EUS (endoscopic ultrasound)",
+    "Plain X-ray",
+    "HIDA scan",
+    "Barium meal"
+   ],
+   "ans": 0,
+   "exp": "Investigation: IOC for CBD microliths — EUS (endoscopic ultrasound). (Book p274)"
+  },
+  {
+   "id": "SURG-C37-142",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "A patient with NO history of cholangitis/pancreatitis, NORMAL LFTs and a CBD diameter of 6 mm or less on USG has:",
+   "opts": [
+    "A low risk of CBD stones — proceed to lap cholecystectomy",
+    "A high risk needing ERCP",
+    "A medium risk needing MRCP",
+    "No need for any imaging"
+   ],
+   "ans": 0,
+   "exp": "Risk factors table: low risk — history (−), LFT normal, CBD diameter ≤6 mm — lap chole. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-143",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "A medium risk of CBD stone (history of cholangitis/pancreatitis, LFT 2x normal, CBD 8-10 mm) requires:",
+   "opts": [
+    "MRCP before surgery",
+    "ERCP immediately",
+    "No further evaluation",
+    "Only USG follow-up"
+   ],
+   "ans": 0,
+   "exp": "Risk factors table: medium/high risk — MRCP before Sx. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-144",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "A HIGH risk of CBD stone is indicated by:",
+   "opts": [
+    "History of cholangitis/pancreatitis with jaundice, LFT 2x normal and CBD greater than 10 mm",
+    "A normal LFT and a 5 mm CBD",
+    "An asymptomatic patient with no history",
+    "A 7 mm CBD with no history"
+   ],
+   "ans": 0,
+   "exp": "Risk factors table: high — history + jaundice (+), LFT 2x (N), CBD >10 mm — MRCP before Sx. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-145",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "If CBD stones are detected BEFORE lap cholecystectomy, the management is:",
+   "opts": [
+    "ERCP followed by lap cholecystectomy",
+    "Lap cholecystectomy alone",
+    "Open choledochotomy only",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management: 1. If CBD stones detected before lap cholecystectomy — ERCP, followed by lap cholecystectomy. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-146",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "ERCP stands for:",
+   "opts": [
+    "Endoscopic retrograde cholangiopancreatography",
+    "Endoscopic resection of the common bile duct",
+    "External radiocontrast cholangiography",
+    "Elective retrograde colonic puncture"
+   ],
+   "ans": 0,
+   "exp": "ERCP: endoscopic retrograde cholangiopancreatography. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-147",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "During ERCP, the cut (sphincterotomy) is made at the:",
+   "opts": [
+    "11 o'clock position in the Ampulla of Vater",
+    "3 o'clock position",
+    "12 o'clock position",
+    "6 o'clock position"
+   ],
+   "ans": 0,
+   "exp": "ERCP: cut made at 11 o'clock position in the Ampulla of Vater. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-148",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "After dye is injected during ERCP, it:",
+   "opts": [
+    "Delineates the biliary tree",
+    "Dissolves the stones",
+    "Prevents pancreatitis",
+    "Removes the stones"
+   ],
+   "ans": 0,
+   "exp": "ERCP: dye is injected and delineates the biliary tree; advantage — diagnostic + therapeutic. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-149",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "The advantage of ERCP is that it is:",
+   "opts": [
+    "Both diagnostic and therapeutic",
+    "Only diagnostic",
+    "Only therapeutic",
+    "Only a biopsy tool"
+   ],
+   "ans": 0,
+   "exp": "ERCP: Adv — diagnostic + therapeutic. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-150",
+   "sec": "Choledocholithiasis",
+   "page": 274,
+   "q": "The most common complication of ERCP is:",
+   "opts": [
+    "Pancreatitis",
+    "Duodenal perforation only",
+    "Haemorrhage only",
+    "Biliary stricture only"
+   ],
+   "ans": 0,
+   "exp": "ERCP complication: pancreatitis (m/c), duodenal perforation. (Book p274)"
+  },
+  {
+   "id": "SURG-C37-151",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "If CBD stones are detected DURING lap cholecystectomy, the procedure continues with:",
+   "opts": [
+    "Laparoscopic exploration of the CBD and stone removal",
+    "Aborting the operation and sending for ERCP later in all",
+    "Open conversion in all",
+    "No further workup"
+   ],
+   "ans": 0,
+   "exp": "Management: 2. CBD stones detected during lap cholecystectomy — lap exploration of CBD and stone removal. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-152",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "After laparoscopic CBD exploration and stone removal, the next step is:",
+   "opts": [
+    "Insertion of a T-tube",
+    "Immediate removal of the T-tube",
+    "No tube at all",
+    "ERCP the same day"
+   ],
+   "ans": 0,
+   "exp": "Management: insert T-tube. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-153",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "A T-tube cholangiogram is done:",
+   "opts": [
+    "7-10 days after insertion",
+    "On the day of surgery",
+    "After 3 months",
+    "After 2 weeks always"
+   ],
+   "ans": 0,
+   "exp": "Management: T-tube cholangiogram at 7-10 days. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-154",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "If the T-tube cholangiogram shows residual stones, the T-tube is:",
+   "opts": [
+    "Retained for 2-3 weeks to form a channel, then choledoscope is used to remove stones (Burhenne technique)",
+    "Removed immediately",
+    "Replaced with a new one",
+    "Clipped off"
+   ],
+   "ans": 0,
+   "exp": "Management: residual stones present — retain T-tube for 2-3 weeks, forms a channel, choledoscope to remove stones — Burhenne technique. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-155",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "The Burhenne technique involves:",
+   "opts": [
+    "Removing stones with a choledoscope through the matured T-tube tract",
+    "Milking stones beyond the ileocaecal junction",
+    "ERCP with sphincterotomy",
+    "Open choledochotomy without a tube"
+   ],
+   "ans": 0,
+   "exp": "Burhenne technique: retain T-tube 2-3 weeks, channel forms, choledoscope removes the stones. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-156",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "If the T-tube cholangiogram shows NO residual stones, the T-tube is:",
+   "opts": [
+    "Removed",
+    "Retained for 3 months",
+    "Replaced",
+    "Clipped"
+   ],
+   "ans": 0,
+   "exp": "Management: residual stones absent — remove T-tube. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-157",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "CBD stones detected AFTER lap cholecystesis present with:",
+   "opts": [
+    "Pain, fever and jaundice",
+    "Painless distension",
+    "Weight loss only",
+    "Chronic diarrhoea only"
+   ],
+   "ans": 0,
+   "exp": "Management: 3. CBD stones detected after lap cholecystectomy — presents with pain, fever, jaundice. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-158",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "A CBD stone presenting within 2 years of lap cholecystectomy is classified as:",
+   "opts": [
+    "Residual / retained CBD stone",
+    "Recurrent / primary CBD stone",
+    "A mucocele",
+    "A Phrygian cap"
+   ],
+   "ans": 0,
+   "exp": "Within 2 yrs of lap cholecystectomy — residual/retained CBD. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-159",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "A CBD stone presenting MORE than 2 years after lap cholecystectomy is classified as:",
+   "opts": [
+    "Recurrent / primary CBD stone",
+    "Residual / retained CBD stone",
+    "A gallbladder stone",
+    "A brown pigment stone only"
+   ],
+   "ans": 0,
+   "exp": ">2 yrs of lap cholecystectomy — recurrent/primary CBD stones. (Book p275)"
+  },
+  {
+   "id": "SURG-C37-160",
+   "sec": "Choledocholithiasis",
+   "page": 275,
+   "q": "The management of CBD stones after lap cholecystectomy is:",
+   "opts": [
+    "ERCP with sphincterotomy",
+    "Re-do laparotomy in all",
+    "Observation",
+    "HIDA scan"
+   ],
+   "ans": 0,
+   "exp": "Management: Mx — ERCP + sphincterotomy. (Book p275)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U37-1",
+   "ch": 37,
+   "n": 1,
+   "title": "Surgical Anatomy of the Gallbladder",
+   "sec": "Surgical Anatomy of the Gallbladder · p265",
+   "qs": [
+    "SURG-C37-001",
+    "SURG-C37-002",
+    "SURG-C37-003",
+    "SURG-C37-004",
+    "SURG-C37-005",
+    "SURG-C37-006",
+    "SURG-C37-007",
+    "SURG-C37-008",
+    "SURG-C37-009",
+    "SURG-C37-010",
+    "SURG-C37-011",
+    "SURG-C37-012"
+   ],
+   "guide": "A distended pyriform gallbladder moves side to side and hints at periampullary cancer or mucocele, while a fixed non-pyriform mass whispers gallbladder cancer. Calot's triangle — cystic artery, cystic duct, common hepatic duct — hides the cystic lymph node of Lund, the sentinel node, and is the field dissected for the critical view of safety where the cystic artery and duct are clipped before the gallbladder comes out. Watch for Moynihan's hump: a tortuous right hepatic artery that masquerades in Calot's triangle and bleeds when mistaken."
+  },
+  {
+   "id": "SURG-U37-2",
+   "ch": 37,
+   "n": 2,
+   "title": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line",
+   "sec": "Surface Anatomy: Cystic Plate, Rouviere's Sulcus and the R4U Line · p266",
+   "qs": [
+    "SURG-C37-013",
+    "SURG-C37-014",
+    "SURG-C37-015",
+    "SURG-C37-016",
+    "SURG-C37-017",
+    "SURG-C37-018",
+    "SURG-C37-019",
+    "SURG-C37-020",
+    "SURG-C37-021",
+    "SURG-C37-022",
+    "SURG-C37-023",
+    "SURG-C37-024",
+    "SURG-C37-025",
+    "SURG-C37-026",
+    "SURG-C37-027"
+   ],
+   "guide": "Work above the danger line: the cystic plate, continuous with the capsule of segments 4 and 5, is exposed at the critical view of safety; Rouviere's sulcus on the undersurface marks the right posterior sectoral pedicle, and the R4U line — sulcus to segment 4 base — keeps the CBD below it out of the dissection. The gallbladder has no submucosa but rich subserosal lymphatics, which is how its cancer seeds the liver, and the Phrygian cap, a folded fundus, needs no operation."
+  },
+  {
+   "id": "SURG-U37-3",
+   "ch": 37,
+   "n": 3,
+   "title": "Gallstones: Classification and Risk Factors",
+   "sec": "Gallstones: Classification and Risk Factors · p267",
+   "qs": [
+    "SURG-C37-028",
+    "SURG-C37-029",
+    "SURG-C37-030",
+    "SURG-C37-031",
+    "SURG-C37-032",
+    "SURG-C37-033",
+    "SURG-C37-034",
+    "SURG-C37-035",
+    "SURG-C37-036",
+    "SURG-C37-037",
+    "SURG-C37-038",
+    "SURG-C37-039",
+    "SURG-C37-040",
+    "SURG-C37-041"
+   ],
+   "guide": "The gallbladder stores, mucins and concentrates bile — and it makes stones. Pure cholesterol stones are over 90% cholesterol and solitary, mixed stones rule overall, and pigment stones split: brown ones born of infected bile (ascariasis, clonorchiasis, cholangitis) with calcium palmitate, stearate and bilirubinate, black ones of haemolysis (G6PD, sickle cell, spherocytosis) built on an insoluble bilirubin polymer. Lithogenic bile, nucleation and stasis — obesity, ileal resection, infection, pregnancy, OCP, vagotomy — are the three engines of stone formation."
+  },
+  {
+   "id": "SURG-U37-4",
+   "ch": 37,
+   "n": 4,
+   "title": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis",
+   "sec": "Gallstones: Diagnosis, Asymptomatic Stones and Acute Cholecystitis · p267",
+   "qs": [
+    "SURG-C37-042",
+    "SURG-C37-043",
+    "SURG-C37-044",
+    "SURG-C37-045",
+    "SURG-C37-046",
+    "SURG-C37-047",
+    "SURG-C37-048",
+    "SURG-C37-049",
+    "SURG-C37-050",
+    "SURG-C37-051",
+    "SURG-C37-052",
+    "SURG-C37-053",
+    "SURG-C37-054",
+    "SURG-C37-055",
+    "SURG-C37-056",
+    "SURG-C37-057",
+    "SURG-C37-058",
+    "SURG-C37-059",
+    "SURG-C37-060",
+    "SURG-C37-061",
+    "SURG-C37-062",
+    "SURG-C37-063",
+    "SURG-C37-064",
+    "SURG-C37-065",
+    "SURG-C37-066",
+    "SURG-C37-067",
+    "SURG-C37-068",
+    "SURG-C37-069",
+    "SURG-C37-070",
+    "SURG-C37-071",
+    "SURG-C37-072",
+    "SURG-C37-073",
+    "SURG-C37-074",
+    "SURG-C37-075",
+    "SURG-C37-076",
+    "SURG-C37-077"
+   ],
+   "guide": "Nine out of ten stones are radiolucent — the exceptions flash the seagull sign (bircusped) or the mercedes Benz sign (trircusped), and USG, the IOC, catches them by their post acoustic shadow, absent in polyps. Silent stones are observed, but the porcelain gallbladder (5-7% cancer risk), a polyp over 1 cm, the Salmonella typhi carrier, the diabetic, the bariatric candidate in an endemic zone and the stone over 2 cm all go to theatre. Acute cholecystitis — Murphy's sign, BoA's sign over the 10th rib, the Tokyo criteria A plus B suspecting and the imaging confirming — runs from mild Grade I to organ-failing Grade III, with HIDA showing the non-visualised gallbladder between."
+  },
+  {
+   "id": "SURG-U37-5",
+   "ch": 37,
+   "n": 5,
+   "title": "Management by Grade and Acalculous Cholecystitis",
+   "sec": "Management by Grade and Acalculous Cholecystitis · p270",
+   "qs": [
+    "SURG-C37-078",
+    "SURG-C37-079",
+    "SURG-C37-080",
+    "SURG-C37-081",
+    "SURG-C37-082",
+    "SURG-C37-083",
+    "SURG-C37-084",
+    "SURG-C37-085",
+    "SURG-C37-086",
+    "SURG-C37-087",
+    "SURG-C37-088",
+    "SURG-C37-089",
+    "SURG-C37-090",
+    "SURG-C37-091"
+   ],
+   "guide": "Grade II is antibiotics and support with early lap cholecystectomy where the technique exists, otherwise tube cholecystostomy to decompress and delay; Grade III splits on negative predictive factors — early lap cholecystectomy in the fit at an advanced centre, drainage and delayed surgery for good performance status, and observation for the poor. Acalculous cholecystitis strikes the ICU patient, the prolonged-TPN patient, post CABG and septic — same signs, same USG, and when it fails to improve it needs the gallbladder out or a tube in."
+  },
+  {
+   "id": "SURG-U37-6",
+   "ch": 37,
+   "n": 6,
+   "title": "Chronic and Emphysematous Cholecystitis",
+   "sec": "Chronic and Emphysematous Cholecystitis · p271",
+   "qs": [
+    "SURG-C37-092",
+    "SURG-C37-093",
+    "SURG-C37-094",
+    "SURG-C37-095",
+    "SURG-C37-096",
+    "SURG-C37-097",
+    "SURG-C37-098",
+    "SURG-C37-099",
+    "SURG-C37-100",
+    "SURG-C37-101",
+    "SURG-C37-102",
+    "SURG-C37-103"
+   ],
+   "guide": "Chronic cholecystitis is the story of repeated attacks — the WES sign on USG, clefts and chronic cells on the slide, and Rokitansky Aschoff sinuses that, rupturing, make xanthogranulomatous cholecystitis, a great imitator of cancer. Emphysematous cholecystitis is Clostridium in the diabetic and immunocompromised: gas in the wall on USG, sepsis in the history, and early lap cholecystectomy or drainage after broad-spectrum antibiotics."
+  },
+  {
+   "id": "SURG-U37-7",
+   "ch": 37,
+   "n": 7,
+   "title": "Mucocele and Gallstone Ileus",
+   "sec": "Mucocele and Gallstone Ileus · p271",
+   "qs": [
+    "SURG-C37-104",
+    "SURG-C37-105",
+    "SURG-C37-106",
+    "SURG-C37-107",
+    "SURG-C37-108",
+    "SURG-C37-109",
+    "SURG-C37-110",
+    "SURG-C37-111",
+    "SURG-C37-112",
+    "SURG-C37-113",
+    "SURG-C37-114",
+    "SURG-C37-115",
+    "SURG-C37-116",
+    "SURG-C37-117",
+    "SURG-C37-118",
+    "SURG-C37-119",
+    "SURG-C37-120",
+    "SURG-C37-121",
+    "SURG-C37-122"
+   ],
+   "guide": "A stone impacted at the Hartmann pouch neck turns the gallbladder into a mucocele — aseptic, distended, mucus-filled — that becomes an empyema when infected. When the same stone grinds a cholecystoduodenal fistula, the largest one travels to the terminal ileum and causes gallstone ileus: a misnomer, really a dynamic obstruction with Rigler's triad (SBO, pneumobilia, radiopaque shadow in the right iliac fossa) on the film and CECT as the IOC. At laparotomy, milk or crush the stone unless peritonitis demands resection, and return for cholecystectomy and fistula repair when stable."
+  },
+  {
+   "id": "SURG-U37-8",
+   "ch": 37,
+   "n": 8,
+   "title": "Mirizzi Syndrome",
+   "sec": "Mirizzi Syndrome · p273",
+   "qs": [
+    "SURG-C37-123",
+    "SURG-C37-124",
+    "SURG-C37-125",
+    "SURG-C37-126",
+    "SURG-C37-127",
+    "SURG-C37-128",
+    "SURG-C37-129",
+    "SURG-C37-130",
+    "SURG-C37-131"
+   ],
+   "guide": "Mirizzi syndrome is the inflamed gallbladder glued to the common bile duct, pushing it until it fistulises and obstructs — pain plus jaundice. MRCP, the non-invasive IOC, makes the diagnosis, and lap cholecystectomy (partial when the gallbladder is densely adherent) is the treatment."
+  },
+  {
+   "id": "SURG-U37-9",
+   "ch": 37,
+   "n": 9,
+   "title": "Choledocholithiasis",
+   "sec": "Choledocholithiasis · p273",
+   "qs": [
+    "SURG-C37-132",
+    "SURG-C37-133",
+    "SURG-C37-134",
+    "SURG-C37-135",
+    "SURG-C37-136",
+    "SURG-C37-137",
+    "SURG-C37-138",
+    "SURG-C37-139",
+    "SURG-C37-140",
+    "SURG-C37-141",
+    "SURG-C37-142",
+    "SURG-C37-143",
+    "SURG-C37-144",
+    "SURG-C37-145",
+    "SURG-C37-146",
+    "SURG-C37-147",
+    "SURG-C37-148",
+    "SURG-C37-149",
+    "SURG-C37-150",
+    "SURG-C37-151",
+    "SURG-C37-152",
+    "SURG-C37-153",
+    "SURG-C37-154",
+    "SURG-C37-155",
+    "SURG-C37-156",
+    "SURG-C37-157",
+    "SURG-C37-158",
+    "SURG-C37-159",
+    "SURG-C37-160"
+   ],
+   "guide": "CBD stones are 90% secondaries from the gallbladder and 10% primary brown pigment stones. They sit silently or bring obstructive jaundice, Charcot's triad in cholangitis and Reynold's pentad when shock and confusion join. The risk table steers the low-risk straight to lap cholecystectomy and the rest to MRCP; ERCP before surgery (cut at 11 o'clock, pancreatitis its commonest complication), T-tube and the Burhenne technique when stones are found at operation, and ERCP with sphincterotomy when they appear afterwards — within 2 years a retained stone, beyond, a recurrent one."
+  }
+ ]
+}
