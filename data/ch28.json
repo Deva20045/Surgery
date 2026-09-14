@@ -1,0 +1,1556 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C28-001",
+   "sec": "Meckel's Diverticulum: Features and the Rule of Two",
+   "page": 191,
+   "q": "Meckel's diverticulum is a:",
+   "opts": [
+    "True diverticulum containing all layers of the bowel wall",
+    "False diverticulum containing only mucosa",
+    "Congenital duplication cyst",
+    "An acquired pulsion diverticulum"
+   ],
+   "ans": 0,
+   "exp": "Features: true diverticulum - all layers (+). (Book p191)"
+  },
+  {
+   "id": "SURG-C28-002",
+   "sec": "Meckel's Diverticulum: Features and the Rule of Two",
+   "page": 191,
+   "q": "Meckel's diverticulum occurs in approximately:",
+   "opts": [
+    "2% of the population",
+    "20% of the population",
+    "0.2% of the population",
+    "50% of the population"
+   ],
+   "ans": 0,
+   "exp": "Rule of 2: 2% population. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-003",
+   "sec": "Meckel's Diverticulum: Features and the Rule of Two",
+   "page": 191,
+   "q": "The length of a Meckel's diverticulum is about:",
+   "opts": [
+    "2 inches",
+    "2 cm",
+    "2 feet",
+    "20 cm"
+   ],
+   "ans": 0,
+   "exp": "Rule of 2: 2 inches long. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-004",
+   "sec": "Meckel's Diverticulum: Features and the Rule of Two",
+   "page": 191,
+   "q": "A Meckel's diverticulum is located about __________ from the ileocaecal junction.",
+   "opts": [
+    "2 feet",
+    "2 inches",
+    "20 cm",
+    "2 cm"
+   ],
+   "ans": 0,
+   "exp": "Rule of 2: 2 feet from ileocaecal junction (ICJ). (Book p191)"
+  },
+  {
+   "id": "SURG-C28-005",
+   "sec": "Meckel's Diverticulum: Features and the Rule of Two",
+   "page": 191,
+   "q": "Heterotopic mucosa in a Meckel's diverticulum is most commonly:",
+   "opts": [
+    "Gastric, followed by pancreatic",
+    "Pancreatic, followed by gastric",
+    "Colonic",
+    "Small intestinal"
+   ],
+   "ans": 0,
+   "exp": "Heterotopic mucosa (stomach > pancreatic) - can bleed. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-006",
+   "sec": "Meckel's Diverticulum: Asymptomatic Disease and Diverticulitis",
+   "page": 191,
+   "q": "An asymptomatic Meckel's diverticulum found incidentally with a wide mouth/broad base should be managed:",
+   "opts": [
+    "Conservatively",
+    "By diverticulectomy",
+    "By resection and anastomosis",
+    "By endoscopic removal"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic (incidentally detected): wide mouth/broad base → conservative. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-007",
+   "sec": "Meckel's Diverticulum: Asymptomatic Disease and Diverticulitis",
+   "page": 191,
+   "q": "An incidentally detected Meckel's diverticulum with a narrow mouth/base is treated by:",
+   "opts": [
+    "Diverticulectomy",
+    "Conservative management",
+    "Observation alone",
+    "Right hemicolectomy"
+   ],
+   "ans": 0,
+   "exp": "Narrow mouth/base → ↑ chance of obstruction/inflammation → diverticulectomy. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-008",
+   "sec": "Meckel's Diverticulum: Asymptomatic Disease and Diverticulitis",
+   "page": 191,
+   "q": "Meckel's diverticulitis clinically mimics:",
+   "opts": [
+    "Acute appendicitis",
+    "Acute cholecystitis",
+    "Diverticulitis of the colon",
+    "Acute pancreatitis"
+   ],
+   "ans": 0,
+   "exp": "Meckel's diverticulitis: mimics acute appendicitis. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-009",
+   "sec": "Meckel's Diverticulum: Asymptomatic Disease and Diverticulitis",
+   "page": 191,
+   "q": "The pain of Meckel's diverticulitis classically:",
+   "opts": [
+    "Starts peri-umbilically and radiates to the right iliac fossa",
+    "Starts in the left iliac fossa",
+    "Starts in the epigastrium and radiates to the back",
+    "Is confined to the left upper quadrant"
+   ],
+   "ans": 0,
+   "exp": "Peri-umbilical pain radiating to the right iliac fossa. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-010",
+   "sec": "Meckel's Diverticulum: Asymptomatic Disease and Diverticulitis",
+   "page": 191,
+   "q": "The treatment of Meckel's diverticulitis is:",
+   "opts": [
+    "Diverticulectomy",
+    "Conservative management",
+    "Right hemicolectomy",
+    "Appendicectomy alone"
+   ],
+   "ans": 0,
+   "exp": "Mx of Meckel's diverticulitis: diverticulectomy. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-011",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 191,
+   "q": "A perforated Meckel's diverticulum is treated by:",
+   "opts": [
+    "Diverticulectomy or resection and anastomosis",
+    "Conservative management",
+    "Drainage alone",
+    "Appendicectomy"
+   ],
+   "ans": 0,
+   "exp": "Perforation: diverticulectomy / resection + anastomosis. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-012",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 191,
+   "q": "Littre's hernia is a hernia containing a:",
+   "opts": [
+    "Meckel's diverticulum",
+    "Appendix",
+    "Ovary",
+    "Urinary bladder"
+   ],
+   "ans": 0,
+   "exp": "Littre's hernia: a hernia containing Meckel's diverticulum. (Book p191)"
+  },
+  {
+   "id": "SURG-C28-013",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 192,
+   "q": "The investigation that confirms a bleeding Meckel's diverticulum is the:",
+   "opts": [
+    "Technetium-99m pertechnetate scan",
+    "Plain X-ray abdomen",
+    "Barium meal follow through",
+    "CT enterography"
+   ],
+   "ans": 0,
+   "exp": "Confirmation of Dx: Tc99m pertechnetate scan. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-014",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 192,
+   "q": "The technetium scan is sensitive for bleeding at a rate as low as:",
+   "opts": [
+    "0.1 ml/min",
+    "1 ml/min",
+    "10 ml/min",
+    "100 ml/min"
+   ],
+   "ans": 0,
+   "exp": "Most sensitive for bleeds: 0.1 ml/min. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-015",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 192,
+   "q": "The drawback of a technetium scan in bleeding is that it:",
+   "opts": [
+    "Cannot detect the site of the bleed",
+    "Cannot be done in children",
+    "Is very expensive",
+    "Requires anaesthesia"
+   ],
+   "ans": 0,
+   "exp": "Drawback: cannot detect site of bleed. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-016",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 192,
+   "q": "The m/c presentation of Meckel's diverticulum in adults is:",
+   "opts": [
+    "Obstruction",
+    "Bleeding",
+    "Perforation",
+    "Malignancy"
+   ],
+   "ans": 0,
+   "exp": "Obstruction: m/c presentation in adults. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-017",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 192,
+   "q": "Obstruction due to a Meckel's diverticulum in adults is usually due to:",
+   "opts": [
+    "Meckel's volvulus or intussusception",
+    "A tight stricture",
+    "Carcinoid tumour",
+    "Adhesions"
+   ],
+   "ans": 0,
+   "exp": "Obstruction d/t Meckel's volvulus or intussusception (rare). (Book p192)"
+  },
+  {
+   "id": "SURG-C28-018",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 192,
+   "q": "The treatment of obstruction caused by a Meckel's diverticulum is:",
+   "opts": [
+    "Resection and anastomosis",
+    "Conservative management",
+    "Diverticulectomy alone",
+    "Endoscopic reduction"
+   ],
+   "ans": 0,
+   "exp": "Obstruction: mx - resection + anastomosis. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-019",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "page": 192,
+   "q": "Malignancy in a Meckel's diverticulum is usually due to a:",
+   "opts": [
+    "Neuroendocrine (carcinoid) tumour",
+    "Adenocarcinoma",
+    "Lymphoma",
+    "GIST"
+   ],
+   "ans": 0,
+   "exp": "Malignancy: d/t neuroendocrine tumor/carcinoid tumor (rare). (Book p192)"
+  },
+  {
+   "id": "SURG-C28-020",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "The m/c cause of bowel obstruction overall is:",
+   "opts": [
+    "Adhesions",
+    "Hernia",
+    "Malignancy",
+    "Volvulus"
+   ],
+   "ans": 0,
+   "exp": "Adhesive obstruction: m/c cause for bowel obstruction (overall). (Book p192)"
+  },
+  {
+   "id": "SURG-C28-021",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "The m/c cause of adhesions is:",
+   "opts": [
+    "Previous surgery",
+    "Tuberculosis",
+    "Endometriosis",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Causes of adhesions: post Sx (m/c). (Book p192)"
+  },
+  {
+   "id": "SURG-C28-022",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "Non-surgical causes of adhesive obstruction include all EXCEPT:",
+   "opts": [
+    "Nephrolithiasis",
+    "Tuberculosis",
+    "Crohn's disease",
+    "Pelvic inflammatory disease"
+   ],
+   "ans": 0,
+   "exp": "Non-surgical causes: tuberculosis, Crohn's disease, pelvic inflammatory disease (PID), endometriosis, post radiotherapy. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-023",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "The initial investigation in adhesive obstruction is:",
+   "opts": [
+    "X-ray abdomen (erect + supine)",
+    "CECT abdomen",
+    "USG abdomen",
+    "MRI"
+   ],
+   "ans": 0,
+   "exp": "Initial: X-ray abdomen (erect + supine). (Book p192)"
+  },
+  {
+   "id": "SURG-C28-024",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "The investigation of choice in adults with adhesive obstruction is:",
+   "opts": [
+    "CECT abdomen",
+    "USG abdomen",
+    "Barium study",
+    "X-ray alone"
+   ],
+   "ans": 0,
+   "exp": "IOC: adults → CECT abdomen; children → USG abdomen. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-025",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "The investigation of choice in children with adhesive obstruction is:",
+   "opts": [
+    "USG abdomen",
+    "CECT abdomen",
+    "Barium study",
+    "X-ray alone"
+   ],
+   "ans": 0,
+   "exp": "IOC: children → USG abdomen. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-026",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "Conservative management of adhesive obstruction is continued for:",
+   "opts": [
+    "48 to 72 hours",
+    "6 hours",
+    "12 hours",
+    "1 week"
+   ],
+   "ans": 0,
+   "exp": "Conservative mx → 48 to 72 hours. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-027",
+   "sec": "Adhesive Obstruction",
+   "page": 192,
+   "q": "The operative treatment of adhesive obstruction is:",
+   "opts": [
+    "Adhesiolysis",
+    "Resection and anastomosis",
+    "Bypass",
+    "Stoma formation"
+   ],
+   "ans": 0,
+   "exp": "Surgery: adhesiolysis. (Book p192)"
+  },
+  {
+   "id": "SURG-C28-028",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "Meconium ileus is associated with:",
+   "opts": [
+    "Cystic fibrosis",
+    "Hirschsprung's disease",
+    "Down's syndrome",
+    "Congenital hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "Meconium ileus: associated with cystic fibrosis. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-029",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "The differential diagnosis of meconium ileus is:",
+   "opts": [
+    "Hirschsprung's disease",
+    "Duodenal atresia",
+    "Intussusception",
+    "Malrotation"
+   ],
+   "ans": 0,
+   "exp": "D/d: Hirschsprung's disease. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-030",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "The X-ray findings in meconium ileus include:",
+   "opts": [
+    "A soap-bubble appearance and a microcolon",
+    "A double bubble",
+    "A coffee bean sign",
+    "Free gas under the diaphragm"
+   ],
+   "ans": 0,
+   "exp": "X-ray: soap-bubble appearance; microcolon. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-031",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "The confirmatory test for cystic fibrosis is the:",
+   "opts": [
+    "Sweat chloride test",
+    "Stool trypsin test",
+    "Serum immunoreactive trypsinogen",
+    "Genetic testing for CFTR only"
+   ],
+   "ans": 0,
+   "exp": "Sweat chloride test: confirmatory for cystic fibrosis. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-032",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "In the sweat chloride test for cystic fibrosis:",
+   "opts": [
+    "Chloride levels in sweat are raised",
+    "Sodium levels in sweat are low",
+    "Chloride levels in sweat are low",
+    "Sweat chloride is normal"
+   ],
+   "ans": 0,
+   "exp": "↑ Cl levels in sweat. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-033",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "The initial treatment of meconium ileus is a:",
+   "opts": [
+    "Gastrograffin enema",
+    "Laparotomy",
+    "Ileostomy",
+    "Stool softeners"
+   ],
+   "ans": 0,
+   "exp": "Gastrograffin enema: water soluble. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-034",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "A Gastrograffin enema works in meconium ileus because it:",
+   "opts": [
+    "Mixes with meconium, forms a bulk and loosens the meconium",
+    "Dissolves the meconium chemically",
+    "Stimulates peristalsis",
+    "Is hypertonic and draws in water"
+   ],
+   "ans": 0,
+   "exp": "Gastrograffin: mixes with meconium → forms a bulk → loosens the meconium. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-035",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "The surgery used if meconium ileus does not respond to an enema is:",
+   "opts": [
+    "Bishop-Koop surgery",
+    "Ladd's procedure",
+    "Duhamel pull-through",
+    "Right hemicolectomy"
+   ],
+   "ans": 0,
+   "exp": "Bishop-Koop surgery: indicated if non-responsive to enema. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-036",
+   "sec": "Meconium Ileus",
+   "page": 193,
+   "q": "In the Bishop-Koop procedure:",
+   "opts": [
+    "An ileostomy is made to manually irrigate the bowel",
+    "The meconium is aspirated and the bowel closed primarily",
+    "An end ileostomy is fashioned",
+    "The ileum is resected"
+   ],
+   "ans": 0,
+   "exp": "Bishop-Koop: ileostomy made to manually irrigate the bowel with an end to side ileoileostomy. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-037",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 193,
+   "q": "SMA syndrome is also known as:",
+   "opts": [
+    "Cast syndrome or Wilkie syndrome",
+    "Ogilvie's syndrome",
+    "Ladd's syndrome",
+    "Banti's syndrome"
+   ],
+   "ans": 0,
+   "exp": "SMA syndrome: AKA Cast syndrome/Wilkie syndrome. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-038",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 193,
+   "q": "The obstruction in SMA syndrome is at the level of:",
+   "opts": [
+    "D3 (third part of the duodenum)",
+    "D1",
+    "D2",
+    "D4"
+   ],
+   "ans": 0,
+   "exp": "SMA syndrome: D3 obstruction. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-039",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 193,
+   "q": "In SMA syndrome the duodenum is compressed between the:",
+   "opts": [
+    "Superior mesenteric artery and the aorta",
+    "Aorta and the vertebral column",
+    "SMA and the left renal vein",
+    "Coeliac trunk and the aorta"
+   ],
+   "ans": 0,
+   "exp": "Pathophysiology: SMA-aortic angle narrows and the duodenum is compressed - D3 obstruction. (Book p193)"
+  },
+  {
+   "id": "SURG-C28-040",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 194,
+   "q": "A clinical feature of SMA syndrome is:",
+   "opts": [
+    "Weight loss",
+    "Haematemesis",
+    "Jaundice",
+    "Diarrhoea"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: weight loss. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-041",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 194,
+   "q": "The investigation of choice in SMA syndrome is:",
+   "opts": [
+    "CT angiography to measure the SMA-aortic angle",
+    "Barium meal",
+    "Upper GI endoscopy",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "IOC: CT angiography to measure SMA-aortic angle. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-042",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 194,
+   "q": "The initial management of SMA syndrome is:",
+   "opts": [
+    "Weight gain with nutritional support",
+    "Emergency duodenojejunostomy",
+    "Total parenteral nutrition only",
+    "Gastrojejunostomy"
+   ],
+   "ans": 0,
+   "exp": "Management: weight gain → nutrition. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-043",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 194,
+   "q": "The Strong procedure for SMA syndrome is:",
+   "opts": [
+    "Duodenal derotation by cutting the ligament of Treitz",
+    "A duodenojejunostomy",
+    "A gastrojejunostomy",
+    "Resection of D3"
+   ],
+   "ans": 0,
+   "exp": "Strong procedure: duodenal derotation (cutting the ligament of Treitz). (Book p194)"
+  },
+  {
+   "id": "SURG-C28-044",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome",
+   "page": 194,
+   "q": "A duodenojejunostomy in SMA syndrome is done to:",
+   "opts": [
+    "Bypass D3",
+    "Bypass D1",
+    "Relieve gastric outlet obstruction",
+    "Prevent reflux"
+   ],
+   "ans": 0,
+   "exp": "Duodeno-jejunostomy: to bypass D3. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-045",
+   "sec": "Ladd's Bands",
+   "page": 194,
+   "q": "Ladd's bands are:",
+   "opts": [
+    "The m/c intestinal malrotation abnormality",
+    "Congenital duodenal webs",
+    "Adhesions after appendicectomy",
+    "Bands in the pelvis"
+   ],
+   "ans": 0,
+   "exp": "Ladd's band: m/c intestinal malrotation abnormality. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-046",
+   "sec": "Ladd's Bands",
+   "page": 194,
+   "q": "Ladd's bands extend from:",
+   "opts": [
+    "The right hypochondrium to the caecum",
+    "The left hypochondrium to the sigmoid",
+    "The duodenum to the liver",
+    "The stomach to the transverse colon"
+   ],
+   "ans": 0,
+   "exp": "Extends from Rt. hypochondrium → caecum. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-047",
+   "sec": "Ladd's Bands",
+   "page": 194,
+   "q": "Ladd's bands cause obstruction by compressing the:",
+   "opts": [
+    "Duodenum",
+    "Jejunum",
+    "Ileum",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Compresses duodenum. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-048",
+   "sec": "Ladd's Bands",
+   "page": 194,
+   "q": "The clinical feature of obstruction by Ladd's bands is:",
+   "opts": [
+    "Bilious vomiting",
+    "Non-bilious projectile vomiting",
+    "Haematemesis",
+    "Constipation only"
+   ],
+   "ans": 0,
+   "exp": "C/F: bilious vomiting. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-049",
+   "sec": "Ladd's Bands",
+   "page": 194,
+   "q": "The investigation of choice for Ladd's bands is:",
+   "opts": [
+    "CECT abdomen",
+    "X-ray abdomen",
+    "USG abdomen",
+    "Contrast enema"
+   ],
+   "ans": 0,
+   "exp": "IOC: CECT abdomen. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-050",
+   "sec": "Ladd's Bands",
+   "page": 194,
+   "q": "The treatment of Ladd's bands is:",
+   "opts": [
+    "Excision of the band (Ladd's procedure)",
+    "Duodenojejunostomy",
+    "Gastrojejunostomy",
+    "Conservative management"
+   ],
+   "ans": 0,
+   "exp": "Mx: excision of Ladd's band (Ladd's procedure). (Book p194)"
+  },
+  {
+   "id": "SURG-C28-051",
+   "sec": "Paralytic Ileus",
+   "page": 194,
+   "q": "Paralytic ileus is:",
+   "opts": [
+    "Non-contraction of the bowel (adynamic obstruction)",
+    "A mechanical obstruction",
+    "Twisting of the bowel",
+    "Telescoping of the bowel"
+   ],
+   "ans": 0,
+   "exp": "Paralytic ileus: non-contraction of the bowel. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-052",
+   "sec": "Paralytic Ileus",
+   "page": 194,
+   "q": "Surgical causes of paralytic ileus include all EXCEPT:",
+   "opts": [
+    "Hypertension",
+    "Bowel handling",
+    "Anastomosis",
+    "Abscess or pus"
+   ],
+   "ans": 0,
+   "exp": "Surgical causes: bowel handling; anastomosis; abscess/pus. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-053",
+   "sec": "Paralytic Ileus",
+   "page": 194,
+   "q": "The m/c non-surgical (metabolic) cause of prolonged paralytic ileus is:",
+   "opts": [
+    "Hypokalemia",
+    "Hypernatremia",
+    "Hypercalcemia",
+    "Hypoglycaemia"
+   ],
+   "ans": 0,
+   "exp": "Non-surgical causes: anaesthesia, hypothyroidism, hypokalemia (m/c), uraemia, hypothermia. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-054",
+   "sec": "Paralytic Ileus",
+   "page": 194,
+   "q": "Non-surgical causes of paralytic ileus include all EXCEPT:",
+   "opts": [
+    "Hypermagnesemia",
+    "Anaesthesia",
+    "Hypothyroidism",
+    "Uraemia"
+   ],
+   "ans": 0,
+   "exp": "Non-surgical causes: anaesthesia, hypothyroidism, hypokalemia (m/c), uraemia, hypothermia. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-055",
+   "sec": "Paralytic Ileus",
+   "page": 194,
+   "q": "A CT scan in paralytic ileus is done to:",
+   "opts": [
+    "Rule out other (mechanical) causes",
+    "Confirm the diagnosis of ileus",
+    "Measure the bowel diameter only",
+    "Plan the stoma site"
+   ],
+   "ans": 0,
+   "exp": "Investigation: CECT to r/o other causes. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-056",
+   "sec": "Paralytic Ileus",
+   "page": 194,
+   "q": "The management of paralytic ileus is:",
+   "opts": [
+    "Supportive with IV fluids",
+    "Emergency laparotomy",
+    "Laparoscopic adhesiolysis",
+    "Nasogastric decompression alone"
+   ],
+   "ans": 0,
+   "exp": "Mx: supportive + IV fluids. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-057",
+   "sec": "Paralytic Ileus",
+   "page": 194,
+   "q": "A prolonged paralytic ileus is managed with:",
+   "opts": [
+    "Total parenteral nutrition (TPN)",
+    "Early enteral feeding",
+    "Intravenous antibiotics",
+    "Prokinetic drugs alone"
+   ],
+   "ans": 0,
+   "exp": "Prolonged ileus → total parenteral nutrition (TPN). (Book p194)"
+  },
+  {
+   "id": "SURG-C28-058",
+   "sec": "Hirschsprung's Disease",
+   "page": 194,
+   "q": "Hirschsprung's disease is also known as:",
+   "opts": [
+    "Congenital megacolon",
+    "Acquired megacolon",
+    "Toxic megacolon",
+    "Microcolon"
+   ],
+   "ans": 0,
+   "exp": "Hirschsprung's disease: AKA congenital megacolon. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-059",
+   "sec": "Hirschsprung's Disease",
+   "page": 194,
+   "q": "Hirschsprung's disease is characterised by the absence of ganglion cells in the:",
+   "opts": [
+    "Auerbach's/myenteric plexus of the large bowel",
+    "Meissner's plexus of the small bowel",
+    "Submucosa of the stomach",
+    "Myenteric plexus of the oesophagus"
+   ],
+   "ans": 0,
+   "exp": "Absence of ganglion cells in Auerbach/myenteric plexus of large bowel. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-060",
+   "sec": "Hirschsprung's Disease",
+   "page": 194,
+   "q": "Hirschsprung's disease is a neurocristopathy because the affected cells are derived from the:",
+   "opts": [
+    "Neural crest",
+    "Endoderm",
+    "Mesoderm",
+    "Notochord"
+   ],
+   "ans": 0,
+   "exp": "Neural crest derived cells → neurocristopathy. (Book p194)"
+  },
+  {
+   "id": "SURG-C28-061",
+   "sec": "Hirschsprung's Disease",
+   "page": 195,
+   "q": "Hirschsprung's disease is associated with:",
+   "opts": [
+    "Down's syndrome and MEN 2A/2B",
+    "Turner's syndrome",
+    "Klinefelter's syndrome",
+    "Marfan's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Associations: Down's syndrome, MEN 2A & 2B. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-062",
+   "sec": "Hirschsprung's Disease",
+   "page": 195,
+   "q": "Clinical features of Hirschsprung's disease include:",
+   "opts": [
+    "Abdominal distension, passage of meconium on DRE and constipation in the young child",
+    "Bilious vomiting since birth",
+    "Blood and mucus in the stools",
+    "Projectile non-bilious vomiting"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: abdominal distension; on DRE → passes meconium; young child - constipation. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-063",
+   "sec": "Hirschsprung's Disease",
+   "page": 195,
+   "q": "On rectal examination in Hirschsprung's disease the finger:",
+   "opts": [
+    "Is followed by the passage of meconium",
+    "Finds an impacted mass only",
+    "Finds a stricture",
+    "Finds a normal rectum with no stool"
+   ],
+   "ans": 0,
+   "exp": "On DRE → passes meconium. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-064",
+   "sec": "Hirschsprung's Disease",
+   "page": 195,
+   "q": "Histopathology of the affected segment in Hirschsprung's disease shows:",
+   "opts": [
+    "Loss of ganglion cells and hypertrophied nerve trunks",
+    "Increased ganglion cells",
+    "Normal ganglia",
+    "Absent smooth muscle"
+   ],
+   "ans": 0,
+   "exp": "Findings: loss of ganglion cells; hypertrophied nerve trunks. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-065",
+   "sec": "Hirschsprung's Disease",
+   "page": 195,
+   "q": "The immunohistochemical marker positive in Hirschsprung's disease is:",
+   "opts": [
+    "Acetylcholinesterase",
+    "S-100",
+    "CD117",
+    "Chromogranin"
+   ],
+   "ans": 0,
+   "exp": "IHC → acetylcholinesterase (+). (Book p195)"
+  },
+  {
+   "id": "SURG-C28-066",
+   "sec": "Hirschsprung's Disease",
+   "page": 195,
+   "q": "A barium enema in Hirschsprung's disease shows:",
+   "opts": [
+    "Three zones - dilated, transitional and constricted",
+    "A microcolon",
+    "A soap-bubble appearance",
+    "A coffee bean sign"
+   ],
+   "ans": 0,
+   "exp": "Barium enema - 3 zones: dilated, transitional, constricted. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-067",
+   "sec": "Hirschsprung's Disease",
+   "page": 195,
+   "q": "In Hirschsprung's disease the zones that lack ganglion cells are the:",
+   "opts": [
+    "Transitional and constricted zones",
+    "Dilated zone only",
+    "Dilated and transitional zones",
+    "All three zones"
+   ],
+   "ans": 0,
+   "exp": "Transitional and constricted zones lack ganglion cells. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-068",
+   "sec": "Management of Hirschsprung's Disease",
+   "page": 195,
+   "q": "In severe/extensive Hirschsprung's disease, surgery is done in:",
+   "opts": [
+    "Two stages - a colostomy first, then definitive surgery",
+    "A single stage only",
+    "Three stages",
+    "Four stages"
+   ],
+   "ans": 0,
+   "exp": "Two stages (severe extension): 1st stage → colostomy; 2nd stage → definitive Sx. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-069",
+   "sec": "Management of Hirschsprung's Disease",
+   "page": 195,
+   "q": "In the two-stage management of Hirschsprung's disease, the first stage is a:",
+   "opts": [
+    "Colostomy",
+    "Ileostomy",
+    "Pull-through",
+    "Resection and anastomosis"
+   ],
+   "ans": 0,
+   "exp": "1st stage → colostomy. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-070",
+   "sec": "Management of Hirschsprung's Disease",
+   "page": 195,
+   "q": "Principles of surgery for Hirschsprung's disease include all EXCEPT:",
+   "opts": [
+    "Resection of the entire colon always",
+    "Bypass of the abnormal segment",
+    "Resection and anastomosis",
+    "Intra-operative frozen section to confirm the margin of resection"
+   ],
+   "ans": 0,
+   "exp": "Principles of Sx: bypass abnormal segment; resection and anastomosis; intra-operative frozen section done to confirm margin of resection. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-071",
+   "sec": "Management of Hirschsprung's Disease",
+   "page": 195,
+   "q": "An intra-operative frozen section in surgery for Hirschsprung's disease is used to:",
+   "opts": [
+    "Confirm the margin of resection",
+    "Confirm the diagnosis of cancer",
+    "Look for ectopic mucosa",
+    "Assess vascularity"
+   ],
+   "ans": 0,
+   "exp": "Intra-operative frozen section done to confirm margin of resection. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-072",
+   "sec": "Mesenteric Ischemia: Venous and Non-occlusive Types",
+   "page": 195,
+   "q": "The thumbprinting sign on imaging is seen in:",
+   "opts": [
+    "Bowel ischemia",
+    "Bowel obstruction",
+    "Intussusception",
+    "Volvulus"
+   ],
+   "ans": 0,
+   "exp": "Thumbprinting sign - bowel ischemia. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-073",
+   "sec": "Mesenteric Ischemia: Venous and Non-occlusive Types",
+   "page": 195,
+   "q": "Venous mesenteric thrombosis is related to:",
+   "opts": [
+    "Virchow's triad - stasis, endothelial injury and a hypercoagulable state",
+    "Atherosclerosis",
+    "Atrial fibrillation",
+    "Polycythaemia alone"
+   ],
+   "ans": 0,
+   "exp": "Venous: Virchow's triad - stasis, endothelial injury, hypercoagulable state. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-074",
+   "sec": "Mesenteric Ischemia: Venous and Non-occlusive Types",
+   "page": 196,
+   "q": "The treatment of venous mesenteric thrombosis is:",
+   "opts": [
+    "Anticoagulation",
+    "Embolectomy",
+    "Bypass grafting",
+    "Bowel resection alone"
+   ],
+   "ans": 0,
+   "exp": "Venous: mx - anticoagulation. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-075",
+   "sec": "Mesenteric Ischemia: Venous and Non-occlusive Types",
+   "page": 195,
+   "q": "Non-occlusive mesenteric ischemia due to cardiac failure is treated by:",
+   "opts": [
+    "Correction of cardiac failure",
+    "Embolectomy",
+    "Bypass grafting",
+    "Immediate laparotomy"
+   ],
+   "ans": 0,
+   "exp": "Non-occlusive mesenteric ischemia: mx - correction of CHF. (Book p195)"
+  },
+  {
+   "id": "SURG-C28-076",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "page": 196,
+   "q": "The source of an embolus blocking the superior mesenteric artery is usually the:",
+   "opts": [
+    "Heart - atrial fibrillation or ischaemic heart disease",
+    "Atherosclerotic plaque in the aorta",
+    "Deep veins of the leg",
+    "Carotid artery"
+   ],
+   "ans": 0,
+   "exp": "Source of embolus → heart (atrial fibrillation/IHD) → blocks SMA. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-077",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "page": 196,
+   "q": "The clinical feature of acute SMA embolism is:",
+   "opts": [
+    "Severe abdominal pain (bowel attack)",
+    "Painless jaundice",
+    "Chronic diarrhoea",
+    "Haematemesis"
+   ],
+   "ans": 0,
+   "exp": "C/F: severe abdominal pain (bowel attack). (Book p196)"
+  },
+  {
+   "id": "SURG-C28-078",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "page": 196,
+   "q": "The investigation of choice in acute SMA embolism is:",
+   "opts": [
+    "CT angiography",
+    "Plain X-ray abdomen",
+    "USG abdomen",
+    "Upper GI endoscopy"
+   ],
+   "ans": 0,
+   "exp": "IOC: CT angiography. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-079",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "page": 196,
+   "q": "The management of acute SMA embolism is:",
+   "opts": [
+    "Exploration",
+    "Conservative management",
+    "Anticoagulation alone",
+    "Thrombolysis alone"
+   ],
+   "ans": 0,
+   "exp": "Mx: exploration. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-080",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "page": 196,
+   "q": "SMA embolism is a common cause of:",
+   "opts": [
+    "Short bowel syndrome",
+    "Long bowel syndrome",
+    "Blind loop syndrome",
+    "Dumping syndrome"
+   ],
+   "ans": 0,
+   "exp": "Note: SMA embolism - m/c cause of short bowel syndrome (SBS). (Book p196)"
+  },
+  {
+   "id": "SURG-C28-081",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "page": 196,
+   "q": "In acute SMA embolism, if the patient is operated on within 6-8 hours:",
+   "opts": [
+    "The bowel is viable and embolectomy is done",
+    "The bowel is gangrenous and needs resection",
+    "No intervention is needed",
+    "Anticoagulation is started"
+   ],
+   "ans": 0,
+   "exp": "Within 6-8 hours: bowel viable → embolectomy. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-082",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "page": 196,
+   "q": "In acute SMA embolism presenting after 6-8 hours:",
+   "opts": [
+    "The bowel is gangrenous and needs resection",
+    "Embolectomy alone is sufficient",
+    "The bowel is still viable",
+    "Conservative management is preferred"
+   ],
+   "ans": 0,
+   "exp": ">6-8 hours: gangrenous bowel → bowel resection → short bowel syndrome (SBS). (Book p196)"
+  },
+  {
+   "id": "SURG-C28-083",
+   "sec": "Acute Mesenteric Artery Thrombosis (AMAT)",
+   "page": 196,
+   "q": "Acute mesenteric artery thrombosis is due to:",
+   "opts": [
+    "Atherosclerosis",
+    "An embolus from the heart",
+    "Fibromuscular dysplasia",
+    "Vasculitis"
+   ],
+   "ans": 0,
+   "exp": "AMAT - cause: atherosclerosis. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-084",
+   "sec": "Acute Mesenteric Artery Thrombosis (AMAT)",
+   "page": 196,
+   "q": "The vessel involved in acute mesenteric artery thrombosis is the:",
+   "opts": [
+    "Superior mesenteric artery",
+    "Inferior mesenteric artery",
+    "Coeliac trunk",
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "AMAT - site: SMA. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-085",
+   "sec": "Acute Mesenteric Artery Thrombosis (AMAT)",
+   "page": 196,
+   "q": "The pain of chronic mesenteric ischemia (bowel angina) comes on:",
+   "opts": [
+    "20-30 minutes after food and lasts 2-3 hours",
+    "Immediately after food and lasts 10 minutes",
+    "Only at night",
+    "Only on fasting"
+   ],
+   "ans": 0,
+   "exp": "Post-prandial abdominal pain (20-30 mins after food; lasts 2-3 hrs): bowel angina. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-086",
+   "sec": "Acute Mesenteric Artery Thrombosis (AMAT)",
+   "page": 196,
+   "q": "Weight loss in chronic mesenteric ischemia is due to:",
+   "opts": [
+    "Reduced food consumption because of fear of pain",
+    "Malabsorption",
+    "Hyperthyroidism",
+    "Malignancy"
+   ],
+   "ans": 0,
+   "exp": "↓ food consumption → weight loss (D/d: cancer). (Book p196)"
+  },
+  {
+   "id": "SURG-C28-087",
+   "sec": "Acute Mesenteric Artery Thrombosis (AMAT)",
+   "page": 196,
+   "q": "The investigation of choice in acute mesenteric artery thrombosis is:",
+   "opts": [
+    "CECT/CT angiography",
+    "Plain X-ray",
+    "USG abdomen",
+    "Diagnostic laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "IOC: CECT/CT angiography. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-088",
+   "sec": "Acute Mesenteric Artery Thrombosis (AMAT)",
+   "page": 196,
+   "q": "The definitive treatment of acute mesenteric artery thrombosis is:",
+   "opts": [
+    "Bypass grafting",
+    "Embolectomy",
+    "Anticoagulation alone",
+    "Bowel resection"
+   ],
+   "ans": 0,
+   "exp": "Mx: bypass grafting. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-089",
+   "sec": "Colonic Pseudo-obstruction (Ogilvie's Syndrome)",
+   "page": 196,
+   "q": "Colonic pseudo-obstruction is also known as:",
+   "opts": [
+    "Ogilvie's syndrome",
+    "Wilkie's syndrome",
+    "Cast syndrome",
+    "Banti's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Colonic pseudo-obstruction: AKA Ogilvie's syndrome. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-090",
+   "sec": "Colonic Pseudo-obstruction (Ogilvie's Syndrome)",
+   "page": 196,
+   "q": "Associations of Ogilvie's syndrome include all EXCEPT:",
+   "opts": [
+    "Inflammatory bowel disease",
+    "Psychiatric medications",
+    "Neurological disorders such as Alzheimer's and Parkinson's disease",
+    "Retroperitoneal haematoma after trauma or vertebral fracture"
+   ],
+   "ans": 0,
+   "exp": "Associations: psychiatric medications; neurological disorders (Alzheimer's/Parkinson's); post retroperitoneal hematoma (trauma/vertebral fracture) → compresses splanchnic nerves. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-091",
+   "sec": "Colonic Pseudo-obstruction (Ogilvie's Syndrome)",
+   "page": 196,
+   "q": "In Ogilvie's syndrome, bowel sounds are:",
+   "opts": [
+    "Heard, because the small intestine is normal",
+    "Absent throughout",
+    "Hyperdynamic",
+    "High pitched and tinkling"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: distension and obstipation; bowel sounds heard (small intestine normal). (Book p196)"
+  },
+  {
+   "id": "SURG-C28-092",
+   "sec": "Colonic Pseudo-obstruction (Ogilvie's Syndrome)",
+   "page": 196,
+   "q": "In Ogilvie's syndrome a CECT abdomen is done to:",
+   "opts": [
+    "Rule out a dynamic (mechanical) obstruction",
+    "Confirm the diagnosis",
+    "Assess the colon length",
+    "Look for free gas"
+   ],
+   "ans": 0,
+   "exp": "Investigations: rule out dynamic obstruction → CECT abdomen. (Book p196)"
+  },
+  {
+   "id": "SURG-C28-093",
+   "sec": "Colonic Pseudo-obstruction (Ogilvie's Syndrome)",
+   "page": 196,
+   "q": "The drug used to treat Ogilvie's syndrome is:",
+   "opts": [
+    "IV neostigmine (Catchpole regime)",
+    "IV erythromycin",
+    "Oral lactulose",
+    "IV metoclopramide"
+   ],
+   "ans": 0,
+   "exp": "Mx: IV neostigmine (Catchpole regime). (Book p196)"
+  },
+  {
+   "id": "SURG-C28-094",
+   "sec": "Colonic Pseudo-obstruction (Ogilvie's Syndrome)",
+   "page": 196,
+   "q": "Meteorism refers to:",
+   "opts": [
+    "Colonic distension 3-4 days after retroperitoneal trauma",
+    "Gastric distension after surgery",
+    "Dilatation of the oesophagus",
+    "A distended bladder"
+   ],
+   "ans": 0,
+   "exp": "Note: meteorism - colonic distension 3-4 days after retroperitoneal trauma. (Book p196)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U28-1",
+   "ch": 28,
+   "n": 1,
+   "title": "Meckel's Diverticulum: Features and the Rule of Two",
+   "sec": "Meckel's Diverticulum: Features and the Rule of Two · p191",
+   "qs": [
+    "SURG-C28-001",
+    "SURG-C28-002",
+    "SURG-C28-003",
+    "SURG-C28-004",
+    "SURG-C28-005"
+   ],
+   "guide": "Meckel's diverticulum is a true diverticulum - all layers are present - and it obeys the rule of two: two per cent of people, two inches long, two feet from the ileocaecal junction. Heterotopic mucosa, gastric more often than pancreatic, is what makes it bleed."
+  },
+  {
+   "id": "SURG-U28-2",
+   "ch": 28,
+   "n": 2,
+   "title": "Meckel's Diverticulum: Asymptomatic Disease and Diverticulitis",
+   "sec": "Meckel's Diverticulum: Asymptomatic Disease and Diverticulitis · p191",
+   "qs": [
+    "SURG-C28-006",
+    "SURG-C28-007",
+    "SURG-C28-008",
+    "SURG-C28-009",
+    "SURG-C28-010"
+   ],
+   "guide": "Most are silent and found by accident. A broad-based one can be left alone, but a narrow base means trouble later - obstruction or inflammation - so take it out. When it inflames it apes acute appendicitis, with peri-umbilical pain shifting to the right iliac fossa, and the treatment is diverticulectomy."
+  },
+  {
+   "id": "SURG-U28-3",
+   "ch": 28,
+   "n": 3,
+   "title": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy",
+   "sec": "Meckel's Diverticulum: Perforation, Bleeding, Obstruction and Malignancy · p191",
+   "qs": [
+    "SURG-C28-011",
+    "SURG-C28-012",
+    "SURG-C28-013",
+    "SURG-C28-014",
+    "SURG-C28-015",
+    "SURG-C28-016",
+    "SURG-C28-017",
+    "SURG-C28-018",
+    "SURG-C28-019"
+   ],
+   "guide": "Perforation needs diverticulectomy or resection and anastomosis, and a Meckel's caught in a hernia sac is Littre's hernia. Bleeding is confirmed by a technetium pertechnetate scan, sensitive down to 0.1 ml/min but blind as to where the blood is coming from. In adults obstruction is the commonest presentation - usually from a Meckel's volvulus or intussusception, treated by resection - and rarely a carcinoid tumour turns up in it."
+  },
+  {
+   "id": "SURG-U28-4",
+   "ch": 28,
+   "n": 4,
+   "title": "Adhesive Obstruction",
+   "sec": "Adhesive Obstruction · p192",
+   "qs": [
+    "SURG-C28-020",
+    "SURG-C28-021",
+    "SURG-C28-022",
+    "SURG-C28-023",
+    "SURG-C28-024",
+    "SURG-C28-025",
+    "SURG-C28-026",
+    "SURG-C28-027"
+   ],
+   "guide": "Adhesions are the commonest cause of bowel obstruction overall, and previous surgery is the commonest cause of adhesions - with tuberculosis, Crohn's, pelvic inflammatory disease, endometriosis and radiotherapy making up the non-surgical list. Film first, then CECT in adults or ultrasound in children, and give conservative treatment 48 to 72 hours before resorting to adhesiolysis."
+  },
+  {
+   "id": "SURG-U28-5",
+   "ch": 28,
+   "n": 5,
+   "title": "Meconium Ileus",
+   "sec": "Meconium Ileus · p193",
+   "qs": [
+    "SURG-C28-028",
+    "SURG-C28-029",
+    "SURG-C28-030",
+    "SURG-C28-031",
+    "SURG-C28-032",
+    "SURG-C28-033",
+    "SURG-C28-034",
+    "SURG-C28-035",
+    "SURG-C28-036"
+   ],
+   "guide": "Meconium ileus is cystic fibrosis presenting in the newborn, and Hirschsprung's is the differential. The film shows a soap-bubble pattern and a microcolon, and the diagnosis is confirmed by a sweat chloride test with raised chloride. A water soluble Gastrograffin enema mixes with the meconium, bulks it and loosens it; if that fails, the Bishop-Koop operation creates an ileostomy through which the bowel can be irrigated by hand."
+  },
+  {
+   "id": "SURG-U28-6",
+   "ch": 28,
+   "n": 6,
+   "title": "Superior Mesenteric Artery (SMA) Syndrome",
+   "sec": "Superior Mesenteric Artery (SMA) Syndrome · p193",
+   "qs": [
+    "SURG-C28-037",
+    "SURG-C28-038",
+    "SURG-C28-039",
+    "SURG-C28-040",
+    "SURG-C28-041",
+    "SURG-C28-042",
+    "SURG-C28-043",
+    "SURG-C28-044"
+   ],
+   "guide": "Cast or Wilkie syndrome is the duodenum nipped between the superior mesenteric artery and the aorta, obstructing D3 and wasting the patient. CT angiography measures the SMA-aortic angle. Build the patient up with nutrition first; if that fails, the Strong procedure de-rotates the duodenum by dividing the ligament of Treitz, or a duodenojejunostomy bypasses D3."
+  },
+  {
+   "id": "SURG-U28-7",
+   "ch": 28,
+   "n": 7,
+   "title": "Ladd's Bands",
+   "sec": "Ladd's Bands · p194",
+   "qs": [
+    "SURG-C28-045",
+    "SURG-C28-046",
+    "SURG-C28-047",
+    "SURG-C28-048",
+    "SURG-C28-049",
+    "SURG-C28-050"
+   ],
+   "guide": "Ladd's bands are the commonest malrotation abnormality, running from the right hypochondrium to the caecum and pressing on the duodenum. The infant vomits bile, CECT shows it, and dividing the band - Ladd's procedure - is the cure."
+  },
+  {
+   "id": "SURG-U28-8",
+   "ch": 28,
+   "n": 8,
+   "title": "Paralytic Ileus",
+   "sec": "Paralytic Ileus · p194",
+   "qs": [
+    "SURG-C28-051",
+    "SURG-C28-052",
+    "SURG-C28-053",
+    "SURG-C28-054",
+    "SURG-C28-055",
+    "SURG-C28-056",
+    "SURG-C28-057"
+   ],
+   "guide": "Paralytic ileus is the bowel that will not contract: after handling, anastomosis or abscess, or from anaesthesia, hypothyroidism, uraemia, hypothermia and above all hypokalemia. It looks like obstruction, so CECT is done to rule the mechanical causes out. Treatment is supportive - fluids, and TPN if it drags on."
+  },
+  {
+   "id": "SURG-U28-9",
+   "ch": 28,
+   "n": 9,
+   "title": "Hirschsprung's Disease",
+   "sec": "Hirschsprung's Disease · p194",
+   "qs": [
+    "SURG-C28-058",
+    "SURG-C28-059",
+    "SURG-C28-060",
+    "SURG-C28-061",
+    "SURG-C28-062",
+    "SURG-C28-063",
+    "SURG-C28-064",
+    "SURG-C28-065",
+    "SURG-C28-066",
+    "SURG-C28-067"
+   ],
+   "guide": "Congenital megacolon is the absence of ganglion cells in the myenteric plexus of the large bowel, a failure of neural crest migration and therefore a neurocristopathy, linked with Down's syndrome and MEN 2A/2B. The child is distended, the examining finger releases a gush of meconium, and the older child is simply constipated. Biopsy shows no ganglion cells but hypertrophied nerve trunks and positive acetylcholinesterase staining, and the barium enema shows the three zones - dilated, transitional and constricted - of which the last two are aganglionic."
+  },
+  {
+   "id": "SURG-U28-10",
+   "ch": 28,
+   "n": 10,
+   "title": "Management of Hirschsprung's Disease",
+   "sec": "Management of Hirschsprung's Disease · p195",
+   "qs": [
+    "SURG-C28-068",
+    "SURG-C28-069",
+    "SURG-C28-070",
+    "SURG-C28-071"
+   ],
+   "guide": "Limited disease is dealt with in one stage, but extensive disease is staged: a colostomy first, definitive surgery later. The principles are to bypass or resect the abnormal segment and anastomose, using intra-operative frozen section to be certain the proximal margin contains ganglion cells."
+  },
+  {
+   "id": "SURG-U28-11",
+   "ch": 28,
+   "n": 11,
+   "title": "Mesenteric Ischemia: Venous and Non-occlusive Types",
+   "sec": "Mesenteric Ischemia: Venous and Non-occlusive Types · p195",
+   "qs": [
+    "SURG-C28-072",
+    "SURG-C28-073",
+    "SURG-C28-074",
+    "SURG-C28-075"
+   ],
+   "guide": "Thumbprinting on the film means the bowel is ischemic. Venous thrombosis follows Virchow's triad - stasis, endothelial injury, hypercoagulability - and is treated with anticoagulation; the non-occlusive form that accompanies cardiac failure is treated by correcting the failure."
+  },
+  {
+   "id": "SURG-U28-12",
+   "ch": 28,
+   "n": 12,
+   "title": "Arterial Mesenteric Ischemia: SMA Embolism",
+   "sec": "Arterial Mesenteric Ischemia: SMA Embolism · p196",
+   "qs": [
+    "SURG-C28-076",
+    "SURG-C28-077",
+    "SURG-C28-078",
+    "SURG-C28-079",
+    "SURG-C28-080",
+    "SURG-C28-081",
+    "SURG-C28-082"
+   ],
+   "guide": "An embolus from a fibrillating or ischaemic heart lodges in the SMA and produces the classic bowel attack - severe pain out of proportion to findings. CT angiography confirms it and the patient goes to theatre. Time decides the outcome: within 6-8 hours the bowel is viable and an embolectomy saves it, after that the bowel is gangrenous, resection follows, and short bowel syndrome is the legacy - which is why SMA embolism is the commonest cause of SBS."
+  },
+  {
+   "id": "SURG-U28-13",
+   "ch": 28,
+   "n": 13,
+   "title": "Acute Mesenteric Artery Thrombosis (AMAT)",
+   "sec": "Acute Mesenteric Artery Thrombosis (AMAT) · p196",
+   "qs": [
+    "SURG-C28-083",
+    "SURG-C28-084",
+    "SURG-C28-085",
+    "SURG-C28-086",
+    "SURG-C28-087",
+    "SURG-C28-088"
+   ],
+   "guide": "Thrombosis is an atherosclerotic disease of the SMA and announces itself more slowly as bowel angina - pain 20-30 minutes after eating that lasts two to three hours - so the patient eats less and loses weight, mimicking cancer. CECT or CT angiography shows it, and bypass grafting is the treatment."
+  },
+  {
+   "id": "SURG-U28-14",
+   "ch": 28,
+   "n": 14,
+   "title": "Colonic Pseudo-obstruction (Ogilvie's Syndrome)",
+   "sec": "Colonic Pseudo-obstruction (Ogilvie's Syndrome) · p196",
+   "qs": [
+    "SURG-C28-089",
+    "SURG-C28-090",
+    "SURG-C28-091",
+    "SURG-C28-092",
+    "SURG-C28-093",
+    "SURG-C28-094"
+   ],
+   "guide": "Ogilvie's syndrome is a colon that behaves as if obstructed without being obstructed: psychiatric drugs, neurological disease and retroperitoneal haematoma compressing the splanchnic nerves are the associations. The patient is distended and constipated but bowel sounds are still heard because the small bowel works normally. Exclude a mechanical block with CECT and give IV neostigmine by the Catchpole regime - and remember meteorism, the colonic distension that appears three or four days after retroperitoneal trauma."
+  }
+ ]
+}
