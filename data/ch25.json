@@ -1,0 +1,2291 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C25-001",
+   "sec": "Upper GI Haemorrhage: Definition and Causes",
+   "page": 170,
+   "q": "Upper GI haemorrhage is defined as bleeding:",
+   "opts": [
+    "Above the ligament of Treitz",
+    "Below the ligament of Treitz",
+    "Beyond the ileocaecal junction",
+    "From the rectum"
+   ],
+   "ans": 0,
+   "exp": "Upper GI hemorrhage: bleeding above the ligament of Treitz. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-002",
+   "sec": "Upper GI Haemorrhage: Definition and Causes",
+   "page": 170,
+   "q": "The proportion of upper GI haemorrhage that is non-variceal is:",
+   "opts": [
+    "80%",
+    "20%",
+    "50%",
+    "10%"
+   ],
+   "ans": 0,
+   "exp": "Causes: non-variceal (80%); variceal (20%). (Book p170)"
+  },
+  {
+   "id": "SURG-C25-003",
+   "sec": "Upper GI Haemorrhage: Definition and Causes",
+   "page": 170,
+   "q": "Variceal upper GI haemorrhage is due to:",
+   "opts": [
+    "Portal hypertension",
+    "Peptic ulcer disease",
+    "Gastritis",
+    "Mallory-Weiss tear"
+   ],
+   "ans": 0,
+   "exp": "Variceal (20%): portal hypertension. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-004",
+   "sec": "Peptic Ulcer Bleeding",
+   "page": 170,
+   "q": "The m/c cause of upper GI haemorrhage is:",
+   "opts": [
+    "Peptic ulcer",
+    "Gastritis",
+    "Mallory-Weiss tear",
+    "Oesophageal varices"
+   ],
+   "ans": 0,
+   "exp": "1. Peptic ulcer: m/c cause of upper GI hemorrhage. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-005",
+   "sec": "Peptic Ulcer Bleeding",
+   "page": 170,
+   "q": "Among bleeding peptic ulcers:",
+   "opts": [
+    "Duodenal ulcers bleed more often than gastric ulcers",
+    "Gastric ulcers bleed more often than duodenal ulcers",
+    "Both bleed equally",
+    "Only gastric ulcers bleed"
+   ],
+   "ans": 0,
+   "exp": "Peptic ulcer: duodenal > gastric. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-006",
+   "sec": "Peptic Ulcer Bleeding",
+   "page": 170,
+   "q": "The duodenal ulcer that classically bleeds is the:",
+   "opts": [
+    "Posterior duodenal ulcer",
+    "Anterior duodenal ulcer",
+    "Pyloric ulcer",
+    "Superior duodenal ulcer"
+   ],
+   "ans": 0,
+   "exp": "Posterior duodenal ulcer → bleeding. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-007",
+   "sec": "Peptic Ulcer Bleeding",
+   "page": 170,
+   "q": "The vessel that most commonly bleeds in a bleeding duodenal ulcer is the:",
+   "opts": [
+    "Gastroduodenal artery",
+    "Left gastric artery",
+    "Splenic artery",
+    "Short gastric artery"
+   ],
+   "ans": 0,
+   "exp": "Gastroduodenal artery: m/c vessel that bleeds (duodenal ulcer). (Book p170)"
+  },
+  {
+   "id": "SURG-C25-008",
+   "sec": "Peptic Ulcer Bleeding",
+   "page": 170,
+   "q": "The vessel that most commonly bleeds in a bleeding gastric ulcer is the:",
+   "opts": [
+    "Left gastric artery",
+    "Gastroduodenal artery",
+    "Right gastroepiploic artery",
+    "Splenic artery"
+   ],
+   "ans": 0,
+   "exp": "Left gastric artery: m/c vessel of gastric ulcer that bleeds. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-009",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Type A gastritis is:",
+   "opts": [
+    "Autoimmune, with antibodies against parietal cells and intrinsic factor",
+    "Bacterial (H. pylori) induced",
+    "Due to NSAIDs",
+    "Due to bile reflux"
+   ],
+   "ans": 0,
+   "exp": "Type A: autoimmune - antibodies against parietal cells, intrinsic factor. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-010",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Type B gastritis is:",
+   "opts": [
+    "Bacterial (H. pylori) induced and affects the antrum",
+    "Autoimmune and spares the antrum",
+    "Due to stress",
+    "Due to Crohn's disease"
+   ],
+   "ans": 0,
+   "exp": "Type B: bacterial (H. pylori) induced; affects antrum - antral gastritis. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-011",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "In type A gastritis:",
+   "opts": [
+    "The antrum is spared",
+    "The antrum is predominantly affected",
+    "The whole stomach is uniformly involved",
+    "The duodenum is involved"
+   ],
+   "ans": 0,
+   "exp": "Type A: antrum is spared. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-012",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Type A gastritis is associated with:",
+   "opts": [
+    "Vitiligo",
+    "Down's syndrome",
+    "Sarcoidosis",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Type A gastritis: associated with vitiligo. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-013",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "The clinical features of type A gastritis include:",
+   "opts": [
+    "Pernicious anaemia and achlorhydria",
+    "Diarrhoea and steatorrhoea",
+    "Hyperchlorhydria",
+    "Gastric outlet obstruction"
+   ],
+   "ans": 0,
+   "exp": "C/F of type A gastritis: pernicious anemia, achlorhydria. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-014",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Which type of gastritis carries an increased risk of gastric cancer?",
+   "opts": [
+    "Type A",
+    "Type B only",
+    "Neither type",
+    "Only stress gastritis"
+   ],
+   "ans": 0,
+   "exp": "Type A gastritis: ↑ risk of gastric cancer. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-015",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Stress gastritis most commonly affects the:",
+   "opts": [
+    "Stomach mucosa, which is most sensitive to hypovolemia",
+    "Duodenum",
+    "Oesophagus",
+    "Jejunum"
+   ],
+   "ans": 0,
+   "exp": "Stress gastritis: most sensitive to hypovolemia - stomach mucosa. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-016",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Cushing's ulcer is seen in:",
+   "opts": [
+    "Head injury",
+    "Burns",
+    "Sepsis",
+    "Renal failure"
+   ],
+   "ans": 0,
+   "exp": "Cushing's ulcer: seen in head injury. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-017",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Curling's ulcer is seen in:",
+   "opts": [
+    "Burns",
+    "Head injury",
+    "Pancreatitis",
+    "Myocardial infarction"
+   ],
+   "ans": 0,
+   "exp": "Curling ulcer: seen in burns. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-018",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "The m/c site of a Curling's ulcer is the:",
+   "opts": [
+    "First part of the duodenum",
+    "Fundus of the stomach",
+    "Oesophagus",
+    "Jejunum"
+   ],
+   "ans": 0,
+   "exp": "Curling ulcer: m/c site - first part of duodenum. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-019",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Cushing's ulcer occurs in the:",
+   "opts": [
+    "Acid producing area of the stomach",
+    "Antrum",
+    "Pylorus",
+    "Oesophagus"
+   ],
+   "ans": 0,
+   "exp": "Cushing's ulcer: acid producing area of stomach. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-020",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "Drug induced gastritis is classically caused by:",
+   "opts": [
+    "NSAIDs",
+    "Beta blockers",
+    "Antibiotics",
+    "Antacids"
+   ],
+   "ans": 0,
+   "exp": "NSAID induced gastritis is a cause of upper GI hemorrhage. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-021",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers",
+   "page": 170,
+   "q": "In patients with AIDS, gastritis may be caused by:",
+   "opts": [
+    "Cryptosporidia",
+    "Ascaris",
+    "Giardia",
+    "Taenia"
+   ],
+   "ans": 0,
+   "exp": "AIDS: cryptosporidia can cause gastritis. (Book p170)"
+  },
+  {
+   "id": "SURG-C25-022",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "A Mallory-Weiss tear extends from:",
+   "opts": [
+    "The gastroesophageal junction to below the cardia",
+    "The pylorus to the duodenum",
+    "The mid oesophagus upwards",
+    "The fundus to the antrum"
+   ],
+   "ans": 0,
+   "exp": "Mallory weiss tear - extent: GE junction to below cardia. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-023",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "The vessel implicated in a Mallory-Weiss tear is the:",
+   "opts": [
+    "Left gastric artery",
+    "Gastroduodenal artery",
+    "Splenic artery",
+    "Aorta"
+   ],
+   "ans": 0,
+   "exp": "Vessels implicated: (L) gastric artery. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-024",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "The investigation for a Mallory-Weiss tear is:",
+   "opts": [
+    "Upper GI endoscopy",
+    "Barium swallow",
+    "CT angiography",
+    "Laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "Ix: UGI endoscopy. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-025",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "Mallory-Weiss tears are typically seen in:",
+   "opts": [
+    "Alcoholic patients after forceful vomiting",
+    "Children after foreign body ingestion",
+    "Postoperative patients",
+    "Patients with scleroderma"
+   ],
+   "ans": 0,
+   "exp": "Mallory weiss: seen in alcoholic patients, after forceful vomiting. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-026",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "The tear in Mallory-Weiss syndrome is:",
+   "opts": [
+    "A longitudinal tear of the mucosa and submucosa",
+    "A full thickness perforation",
+    "A transverse tear of the muscle",
+    "A circular ulcer"
+   ],
+   "ans": 0,
+   "exp": "Mallory weiss: longitudinal tear in mucosa/submucosa. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-027",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "Mallory-Weiss syndrome presents with:",
+   "opts": [
+    "Upper GI haemorrhage",
+    "Chest pain and surgical emphysema",
+    "Mackler's triad",
+    "Shock without bleeding"
+   ],
+   "ans": 0,
+   "exp": "Presentation of Mallory weiss: upper GI hemorrhage. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-028",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "The management of a Mallory-Weiss tear is usually:",
+   "opts": [
+    "Self limiting (conservative)",
+    "Emergency surgery",
+    "Oesophagectomy",
+    "Stenting"
+   ],
+   "ans": 0,
+   "exp": "Mx of Mallory weiss: self limiting. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-029",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "Boerhaave syndrome is:",
+   "opts": [
+    "Spontaneous oesophageal perforation",
+    "A mucosal tear of the cardia",
+    "A perforated duodenal ulcer",
+    "Oesophageal varices"
+   ],
+   "ans": 0,
+   "exp": "Boerhaave syndrome: spontaneous esophageal perforation. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-030",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "The perforation in Boerhaave syndrome is:",
+   "opts": [
+    "Full thickness",
+    "Mucosal only",
+    "Submucosal only",
+    "Muscularis only"
+   ],
+   "ans": 0,
+   "exp": "Boerhaave syndrome: full thickness perforation. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-031",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "Boerhaave syndrome presents with:",
+   "opts": [
+    "Chest pain, Mackler's triad and surgical emphysema",
+    "Painless hematemesis",
+    "Chronic dysphagia",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "Boerhaave syndrome: chest pain, Mackler's triad, surgical emphysema. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-032",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "page": 171,
+   "q": "The management of Boerhaave syndrome is:",
+   "opts": [
+    "Intervention (surgical)",
+    "Self limiting - no treatment",
+    "Endoscopic banding",
+    "Proton pump inhibitors alone"
+   ],
+   "ans": 0,
+   "exp": "Mx of Boerhaave syndrome: intervention. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-033",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "Gastric antral vascular ectasia (GAVE) consists of:",
+   "opts": [
+    "Dilated venules in the antrum",
+    "Dilated arterioles in the fundus",
+    "Varices in the oesophagus",
+    "Angiodysplasia of the colon"
+   ],
+   "ans": 0,
+   "exp": "GAVE: dilated venules; site - antrum. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-034",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "GAVE is more common in:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Children",
+    "Equal in both sexes"
+   ],
+   "ans": 0,
+   "exp": "GAVE: F > M. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-035",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "GAVE is associated with:",
+   "opts": [
+    "Collagen vascular diseases",
+    "Cirrhosis of the liver",
+    "Crohn's disease",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "GAVE: associated with collagen vascular diseases. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-036",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "The treatment of GAVE is:",
+   "opts": [
+    "Argon photocoagulation (APC)",
+    "Sclerotherapy",
+    "Banding of varices",
+    "Antrectomy"
+   ],
+   "ans": 0,
+   "exp": "Mx of GAVE: argon photocoagulation (APC). (Book p171)"
+  },
+  {
+   "id": "SURG-C25-037",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "The endoscopic appearance of GAVE is called:",
+   "opts": [
+    "Watermelon stomach",
+    "Snake skin appearance",
+    "Strawberry stomach",
+    "Leather bottle stomach"
+   ],
+   "ans": 0,
+   "exp": "GAVE: watermelon stomach on endoscopy. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-038",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "Portal gastropathy consists of dilated vessels in the:",
+   "opts": [
+    "Body of the stomach",
+    "Antrum",
+    "Fundus only",
+    "Duodenum"
+   ],
+   "ans": 0,
+   "exp": "Portal gastropathy: dilated vessels in body of stomach. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-039",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "The endoscopic appearance of portal gastropathy is described as:",
+   "opts": [
+    "Snake skin appearance / strawberry stomach",
+    "Watermelon stomach",
+    "Leather bottle appearance",
+    "Cobblestone appearance"
+   ],
+   "ans": 0,
+   "exp": "Portal gastropathy: snake skin appearance/strawberry stomach. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-040",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "A Dieulafoy lesion is:",
+   "opts": [
+    "A dilated submucosal arteriole that bleeds",
+    "A dilated venule in the antrum",
+    "A mucosal tear at the cardia",
+    "An angiodysplastic lesion of the colon"
+   ],
+   "ans": 0,
+   "exp": "Diewlafoy lesions: dilated submucosal arterioles → bleeding. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-041",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "Dieulafoy lesions are typically seen in:",
+   "opts": [
+    "Elderly patients",
+    "Children",
+    "Young women",
+    "Neonates"
+   ],
+   "ans": 0,
+   "exp": "Diewlafoy lesions: seen in elderly patients. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-042",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "page": 171,
+   "q": "The treatment of a Dieulafoy lesion is:",
+   "opts": [
+    "Coagulation of the vessel",
+    "Argon photocoagulation of the whole antrum",
+    "Antrectomy",
+    "Balloon tamponade"
+   ],
+   "ans": 0,
+   "exp": "Mx of Diewlafoy lesion: coagulation of vessels. (Book p171)"
+  },
+  {
+   "id": "SURG-C25-043",
+   "sec": "Other Causes: Angiodysplasia, Menetrier's Disease and GIST",
+   "page": 172,
+   "q": "Angiodysplasia, a cause of lower GI haemorrhage, is most commonly located in the:",
+   "opts": [
+    "Right side of the colon",
+    "Left side of the colon",
+    "Rectum",
+    "Stomach"
+   ],
+   "ans": 0,
+   "exp": "Note - lower GI hemorrhage: angiodysplasia; seen in adults; m/c in Rt. side of colon. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-044",
+   "sec": "Other Causes: Angiodysplasia, Menetrier's Disease and GIST",
+   "page": 172,
+   "q": "Menetrier's disease is due to overexpression of:",
+   "opts": [
+    "TGFα",
+    "EGF receptors",
+    "VEGF",
+    "Somatostatin"
+   ],
+   "ans": 0,
+   "exp": "Menetrier's disease: d/t overexpression of TGF α. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-045",
+   "sec": "Other Causes: Angiodysplasia, Menetrier's Disease and GIST",
+   "page": 172,
+   "q": "Clinical features of Menetrier's disease include:",
+   "opts": [
+    "Upper GI haemorrhage and an increased risk of cancer",
+    "Diarrhoea and steatorrhoea",
+    "Gastric outlet obstruction",
+    "Jaundice"
+   ],
+   "ans": 0,
+   "exp": "C/F: upper GI hemorrhage; ↑ risk of cancer. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-046",
+   "sec": "Other Causes: Angiodysplasia, Menetrier's Disease and GIST",
+   "page": 172,
+   "q": "The medical treatment of Menetrier's disease is:",
+   "opts": [
+    "Cetuximab (anti-EGFR)",
+    "Imatinib",
+    "Octreotide",
+    "Ranitidine"
+   ],
+   "ans": 0,
+   "exp": "Mx: cetuximab (anti EGFR). (Book p172)"
+  },
+  {
+   "id": "SURG-C25-047",
+   "sec": "Other Causes: Angiodysplasia, Menetrier's Disease and GIST",
+   "page": 172,
+   "q": "Menetrier's disease not responding to medical treatment is treated by:",
+   "opts": [
+    "Total gastrectomy",
+    "Antrectomy",
+    "Vagotomy and pyloroplasty",
+    "Wedge resection"
+   ],
+   "ans": 0,
+   "exp": "Not responding: total gastrectomy. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-048",
+   "sec": "Portal Hypertension: Measurement",
+   "page": 172,
+   "q": "The portal pressure is measured by the:",
+   "opts": [
+    "Hepatic venous pressure gradient (HVPG)",
+    "Central venous pressure",
+    "Direct splenic puncture",
+    "Arterial line"
+   ],
+   "ans": 0,
+   "exp": "Portal hypertension measured by: hepatic venous pressure gradient (HVPG). (Book p172)"
+  },
+  {
+   "id": "SURG-C25-049",
+   "sec": "Portal Hypertension: Measurement",
+   "page": 172,
+   "q": "The hepatic venous pressure gradient is:",
+   "opts": [
+    "Wedged hepatic venous pressure (balloon inflated) − free pressure (balloon deflated)",
+    "Wedged pressure (balloon deflated) − free pressure (balloon inflated)",
+    "Portal vein pressure − hepatic artery pressure",
+    "Splenic pulp pressure alone"
+   ],
+   "ans": 0,
+   "exp": "HVPG = wedge hepatic venous pressure (balloon inflated) − free pressure (balloon deflated). (Book p172)"
+  },
+  {
+   "id": "SURG-C25-050",
+   "sec": "Portal Hypertension: Measurement",
+   "page": 172,
+   "q": "Apart from HVPG, portal hypertension can also be assessed by:",
+   "opts": [
+    "Doppler",
+    "Plain X-ray",
+    "MRI alone",
+    "Liver biopsy"
+   ],
+   "ans": 0,
+   "exp": "Measured by: hepatic venous pressure gradient (HVPG); Doppler. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-051",
+   "sec": "Portal Hypertension: Measurement",
+   "page": 172,
+   "q": "A normal hepatic venous pressure gradient is:",
+   "opts": [
+    "1-5 mm Hg",
+    "6-9 mm Hg",
+    "10-12 mm Hg",
+    "More than 12 mm Hg"
+   ],
+   "ans": 0,
+   "exp": "1-5 mm Hg: normal. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-052",
+   "sec": "Portal Hypertension: Measurement",
+   "page": 172,
+   "q": "An HVPG of 6-9 mm Hg indicates:",
+   "opts": [
+    "Preclinical sinusoidal portal hypertension",
+    "Normal pressure",
+    "Clinically significant portal hypertension",
+    "Impending variceal rupture"
+   ],
+   "ans": 0,
+   "exp": "6-9 mm Hg: preclinical sinusoidal portal hypertension. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-053",
+   "sec": "Portal Hypertension: Measurement",
+   "page": 172,
+   "q": "The HVPG value associated with an increased risk of rupture of varices is:",
+   "opts": [
+    "≥12 mm Hg",
+    "1-5 mm Hg",
+    "6-9 mm Hg",
+    "Exactly 10 mm Hg"
+   ],
+   "ans": 0,
+   "exp": "≥12 mm Hg: ↑ risk of rupture of varices. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-054",
+   "sec": "Porto-systemic Shunts: Sites and Clinical Features",
+   "page": 172,
+   "q": "The m/c site of a porto-systemic shunt is the:",
+   "opts": [
+    "Lower oesophagus",
+    "Rectum",
+    "Umbilicus",
+    "Retroperitoneum"
+   ],
+   "ans": 0,
+   "exp": "Porto-systemic shunts - sites: lower esophagus. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-055",
+   "sec": "Porto-systemic Shunts: Sites and Clinical Features",
+   "page": 172,
+   "q": "In the lower oesophagus, the portal circulation communicates with the systemic circulation through the:",
+   "opts": [
+    "Left gastric (coronary) vein and short gastric veins → oesophageal/paraesophageal veins",
+    "Superior rectal vein → middle and inferior rectal veins",
+    "Paraumbilical veins → epigastric veins",
+    "Splenic vein → renal vein"
+   ],
+   "ans": 0,
+   "exp": "(L) gastric (coronary) vein, short gastric veins → esophageal/paraesophageal veins. (Book p172)"
+  },
+  {
+   "id": "SURG-C25-056",
+   "sec": "Porto-systemic Shunts: Sites and Clinical Features",
+   "page": 173,
+   "q": "Caput medusae refers to:",
+   "opts": [
+    "Outward radiation of veins from the umbilicus",
+    "Dilated veins in the lower oesophagus",
+    "Dilated rectal veins",
+    "A splenic arteriovenous fistula"
+   ],
+   "ans": 0,
+   "exp": "Umbilicus - caput medusae: outward radiation of veins. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-057",
+   "sec": "Porto-systemic Shunts: Sites and Clinical Features",
+   "page": 173,
+   "q": "Clinical features of portal hypertension include:",
+   "opts": [
+    "Splenomegaly and ascites",
+    "Hepatomegaly alone",
+    "Jaundice alone",
+    "Peripheral oedema alone"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: splenomegaly; ascites. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-058",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Portal vein thrombosis is a cause of __________ portal hypertension.",
+   "opts": [
+    "Pre-hepatic",
+    "Intra-hepatic",
+    "Post-hepatic",
+    "Sinusoidal"
+   ],
+   "ans": 0,
+   "exp": "Pre-hepatic causes: portal vein thrombosis. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-059",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Splenic vein thrombosis causes:",
+   "opts": [
+    "Left sided (sinistral) portal hypertension",
+    "Intra-hepatic portal hypertension",
+    "Post-hepatic portal hypertension",
+    "Budd-Chiari syndrome"
+   ],
+   "ans": 0,
+   "exp": "Pre-hepatic: splenic vein thrombosis. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-060",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Cirrhosis due to alcohol, NAFLD, viral hepatitis and cryptogenic cirrhosis causes __________ portal hypertension.",
+   "opts": [
+    "Sinusoidal intra-hepatic",
+    "Pre-sinusoidal intra-hepatic",
+    "Post-sinusoidal intra-hepatic",
+    "Pre-hepatic"
+   ],
+   "ans": 0,
+   "exp": "Intra-hepatic, sinusoidal: cirrhosis d/t various causes - alcoholic liver disease, NAFLD, viral hepatitis, cryptogenic cirrhosis. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-061",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Pre-sinusoidal intra-hepatic causes of portal hypertension include:",
+   "opts": [
+    "Sarcoidosis and schistosomiasis",
+    "Cirrhosis and amyloidosis",
+    "Budd-Chiari syndrome",
+    "Constrictive pericarditis"
+   ],
+   "ans": 0,
+   "exp": "Presinusoidal: sarcoidosis, schistosomiasis. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-062",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Budd-Chiari syndrome is a __________ cause of portal hypertension.",
+   "opts": [
+    "Post-sinusoidal intra-hepatic",
+    "Pre-hepatic",
+    "Pre-sinusoidal intra-hepatic",
+    "Post-hepatic"
+   ],
+   "ans": 0,
+   "exp": "Post sinusoidal: Budd chiari syndrome - hepatic vein outflow obstruction. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-063",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Hepatic sinusoidal obstruction syndrome is also known as:",
+   "opts": [
+    "Veno-occlusive disease",
+    "Budd-Chiari syndrome",
+    "Banti's syndrome",
+    "Cruveilhier-Baumgarten syndrome"
+   ],
+   "ans": 0,
+   "exp": "Post sinusoidal: hepatic sinusoidal obstruction (venoocclusive syndrome). (Book p173)"
+  },
+  {
+   "id": "SURG-C25-064",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Inferior vena caval obstruction is a __________ cause of portal hypertension.",
+   "opts": [
+    "Post-hepatic",
+    "Pre-hepatic",
+    "Intra-hepatic sinusoidal",
+    "Pre-sinusoidal"
+   ],
+   "ans": 0,
+   "exp": "Post-hepatic: inferior vena caval obstruction. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-065",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Cardiac causes of portal hypertension include all EXCEPT:",
+   "opts": [
+    "Systemic hypertension",
+    "Restrictive cardiomyopathy",
+    "Constrictive pericarditis",
+    "Severe tricuspid regurgitation"
+   ],
+   "ans": 0,
+   "exp": "Cardiac causes: restrictive cardiomyopathy, constrictive pericarditis, severe congestive heart failure, severe tricuspid regurgitation. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-066",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Schistosomiasis as a cause of portal hypertension typically presents in the:",
+   "opts": [
+    "1st-2nd decade with a gradual course",
+    "6th decade acutely",
+    "Neonatal period",
+    "8th decade"
+   ],
+   "ans": 0,
+   "exp": "Schistosomiasis: 1st-2nd decade; gradual course - portal hypertension, variceal bleed, splenomegaly, ascites. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-067",
+   "sec": "Causes of Portal Hypertension",
+   "page": 173,
+   "q": "Amyloidosis causes portal hypertension by a __________ mechanism.",
+   "opts": [
+    "Sinusoidal intra-hepatic",
+    "Pre-hepatic",
+    "Post-hepatic",
+    "Pre-sinusoidal"
+   ],
+   "ans": 0,
+   "exp": "Sinusoidal: amyloidosis. (Book p173)"
+  },
+  {
+   "id": "SURG-C25-068",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "Splenic vein thrombosis causes:",
+   "opts": [
+    "Left sided portal hypertension (sinistral portal hypertension)",
+    "Right sided portal hypertension",
+    "Budd-Chiari syndrome",
+    "Porto-systemic encephalopathy"
+   ],
+   "ans": 0,
+   "exp": "Splenic vein thrombosis: (L) sided portal hypertension (HTN), aka sinistral portal HTN. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-069",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "Splenic vein thrombosis is most commonly secondary to:",
+   "opts": [
+    "Pancreatitis",
+    "Cholecystitis",
+    "Peptic ulcer",
+    "Diverticulitis"
+   ],
+   "ans": 0,
+   "exp": "Splenic vein thrombosis: 2° to pancreatitis. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-070",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "The treatment of left sided portal hypertension due to splenic vein thrombosis is:",
+   "opts": [
+    "Splenectomy",
+    "TIPSS",
+    "Distal splenorenal shunt",
+    "Liver transplantation"
+   ],
+   "ans": 0,
+   "exp": "Mx of splenic vein thrombosis: splenectomy. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-071",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "Budd-Chiari syndrome is:",
+   "opts": [
+    "Hepatic vein outflow obstruction",
+    "Portal vein thrombosis",
+    "Inferior vena caval obstruction",
+    "Sinusoidal obstruction from amyloid"
+   ],
+   "ans": 0,
+   "exp": "Budd chiari syndrome: hepatic venous outflow obstruction. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-072",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "In Budd-Chiari syndrome, blockage of the hepatic veins leads to:",
+   "opts": [
+    "Accumulation of blood in the liver",
+    "Shrinkage of the liver",
+    "Dilatation of the bile ducts",
+    "Calcification of the liver"
+   ],
+   "ans": 0,
+   "exp": "Blockage of hepatic veins → accumulation of blood in liver. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-073",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "Budd-Chiari syndrome may present with:",
+   "opts": [
+    "Gradual progression to portal hypertension and liver failure, or a fulminant course",
+    "Only as an incidental finding",
+    "Only with variceal bleeding",
+    "Only with ascites"
+   ],
+   "ans": 0,
+   "exp": "Budd chiari: gradual progression - portal HTN, liver failure; or fulminant progression. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-074",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "A predisposing factor for Budd-Chiari syndrome is:",
+   "opts": [
+    "Pregnancy",
+    "Old age",
+    "Male sex",
+    "Diabetes mellitus"
+   ],
+   "ans": 0,
+   "exp": "Predisposing factors: pregnancy. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-075",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "Segment I (the caudate lobe) is not affected in Budd-Chiari syndrome because:",
+   "opts": [
+    "It has independent venous drainage directly into the IVC",
+    "It has a separate arterial supply",
+    "It is supplied by the portal vein alone",
+    "It regenerates faster"
+   ],
+   "ans": 0,
+   "exp": "Segment I (caudate lobe): independent venous drainage directly into IVC; not affected in Budd chiari → hypertrophy. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-076",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "page": 174,
+   "q": "In Budd-Chiari syndrome the caudate lobe:",
+   "opts": [
+    "Hypertrophies",
+    "Atrophies",
+    "Becomes calcified",
+    "Is resected routinely"
+   ],
+   "ans": 0,
+   "exp": "Not affected in Budd chiari → hypertrophy. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-077",
+   "sec": "Management Algorithm for Variceal Haemorrhage",
+   "page": 174,
+   "q": "In a patient with upper GI haemorrhage, IV fluids should be given:",
+   "opts": [
+    "Judiciously - aiming for permissive hypotension",
+    "Aggressively to a normal pressure",
+    "Only after endoscopy",
+    "Not at all"
+   ],
+   "ans": 0,
+   "exp": "Judicious IV fluids (permissive hypotension). (Book p174)"
+  },
+  {
+   "id": "SURG-C25-078",
+   "sec": "Management Algorithm for Variceal Haemorrhage",
+   "page": 174,
+   "q": "In the management of upper GI haemorrhage the airway is managed in order to:",
+   "opts": [
+    "Prevent aspiration",
+    "Give oxygen",
+    "Allow endoscopy only",
+    "Prevent shock"
+   ],
+   "ans": 0,
+   "exp": "Airway management: to prevent aspiration. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-079",
+   "sec": "Management Algorithm for Variceal Haemorrhage",
+   "page": 174,
+   "q": "The best intravenous agent used in variceal haemorrhage is:",
+   "opts": [
+    "Terlipressin",
+    "Octreotide",
+    "Propranolol",
+    "Vitamin K"
+   ],
+   "ans": 0,
+   "exp": "IV agents: terlipressin - best. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-080",
+   "sec": "Management Algorithm for Variceal Haemorrhage",
+   "page": 174,
+   "q": "The m/c used intravenous agent in variceal haemorrhage is:",
+   "opts": [
+    "Octreotide",
+    "Terlipressin",
+    "Vasopressin",
+    "Somatostatin"
+   ],
+   "ans": 0,
+   "exp": "IV agents: octreotide - m/c used. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-081",
+   "sec": "Management Algorithm for Variceal Haemorrhage",
+   "page": 174,
+   "q": "In the acute management of variceal haemorrhage, propranolol is:",
+   "opts": [
+    "Avoided",
+    "The drug of choice",
+    "Given intravenously",
+    "Given after endoscopy"
+   ],
+   "ans": 0,
+   "exp": "Propranolol: avoided in the acute setting. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-082",
+   "sec": "Management Algorithm for Variceal Haemorrhage",
+   "page": 174,
+   "q": "Proton pump inhibitors in upper GI haemorrhage are:",
+   "opts": [
+    "Given after endoscopy",
+    "Given before endoscopy",
+    "Not useful",
+    "Given only in variceal bleeding"
+   ],
+   "ans": 0,
+   "exp": "PPI: given after endoscopy. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-083",
+   "sec": "Management Algorithm for Variceal Haemorrhage",
+   "page": 174,
+   "q": "Endoscopic treatment of bleeding oesophageal varices is:",
+   "opts": [
+    "Banding or sclerotherapy",
+    "Argon photocoagulation",
+    "Coagulation of vessels",
+    "Endoscopic mucosal resection"
+   ],
+   "ans": 0,
+   "exp": "Endoscopy: varices → banding; sclerotherapy. (Book p174)"
+  },
+  {
+   "id": "SURG-C25-084",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "The m/c used sclerosing agent for oesophageal varices is:",
+   "opts": [
+    "Sodium tetradecyl sulfate",
+    "Polidocanol",
+    "Ethanolamine oleate",
+    "Sodium morrhuate"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing agents: sodium tetradecyl sulfate (m/c used). (Book p175)"
+  },
+  {
+   "id": "SURG-C25-085",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "Other sclerosing agents used for varices include all EXCEPT:",
+   "opts": [
+    "Sodium bicarbonate",
+    "Polidocanol",
+    "Ethanolamine oleate",
+    "Sodium morrhuate"
+   ],
+   "ans": 0,
+   "exp": "Sclerosing agents: sodium tetradecyl sulfate, polidocanol, ethanolamine oleate, sodium morrhuate. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-086",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "During sclerotherapy, deep injection should be avoided because it can cause:",
+   "opts": [
+    "Perforation and chest pain",
+    "Portal vein thrombosis",
+    "Encephalopathy",
+    "Aspiration"
+   ],
+   "ans": 0,
+   "exp": "Avoid deep injection → perforation → chest pain. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-087",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "Sclerotherapy stops variceal bleeding by producing:",
+   "opts": [
+    "Fibrosis",
+    "Thrombosis of the portal vein",
+    "Vasoconstriction only",
+    "Necrosis of the liver"
+   ],
+   "ans": 0,
+   "exp": "Mechanism of sclerotherapy: fibrosis. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-088",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "After banding or sclerotherapy the patient is monitored for rebleeding for:",
+   "opts": [
+    "24 hours",
+    "6 hours",
+    "72 hours",
+    "1 week"
+   ],
+   "ans": 0,
+   "exp": "Post banding/sclerotherapy, once bleeding stops: monitor for 24 hours for rebleeding. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-089",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "After successful banding/sclerotherapy, prophylaxis is given with:",
+   "opts": [
+    "Oral propranolol",
+    "Oral terlipressin",
+    "Oral octreotide",
+    "Oral PPI alone"
+   ],
+   "ans": 0,
+   "exp": "No rebleed: discharge + oral propranolol - prophylaxis. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-090",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "If bleeding continues or rebleeding occurs after a trial of endoscopy, the next step is:",
+   "opts": [
+    "Prepare for TIPSS",
+    "Repeat sclerotherapy indefinitely",
+    "Liver transplantation",
+    "Splenectomy"
+   ],
+   "ans": 0,
+   "exp": "Bleeding continues/rebleeding + trial of endoscopy - fails: prepare for TIPSS. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-091",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "TIPSS stands for:",
+   "opts": [
+    "Trans jugular intrahepatic portosystemic shunt",
+    "Trans ileal portosystemic shunt",
+    "Trans jugular intrahepatic portal shunt",
+    "Trans hepatic inferior portosystemic shunt"
+   ],
+   "ans": 0,
+   "exp": "TIPSS: trans jugular intrahepatic portosystemic shunt. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-092",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "While preparing a bleeding patient for TIPSS, the following should be corrected:",
+   "opts": [
+    "Deranged coagulation",
+    "Hypocalcaemia",
+    "Hypokalaemia",
+    "Anaemia by transfusion to normal"
+   ],
+   "ans": 0,
+   "exp": "Prepare for TIPSS: correct deranged coagulation. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-093",
+   "sec": "Sclerotherapy and Post-procedure Care",
+   "page": 175,
+   "q": "Bleeding is stopped temporarily, while preparing for TIPSS, with:",
+   "opts": [
+    "Tubes (balloon tamponade)",
+    "Intravenous propranolol",
+    "Nasogastric lavage",
+    "Emergency surgery"
+   ],
+   "ans": 0,
+   "exp": "Temporarily bleeding is stopped with tubes. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-094",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 175,
+   "q": "The m/c used balloon tamponade tube is the:",
+   "opts": [
+    "Sengstaken-Blakemore tube",
+    "Minnesota tube",
+    "Linton tube",
+    "Salem sump tube"
+   ],
+   "ans": 0,
+   "exp": "Sengstaken-Blakemore tube: m/c used. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-095",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 175,
+   "q": "The Sengstaken-Blakemore tube has:",
+   "opts": [
+    "3 channels and 2 balloons",
+    "4 channels and 2 balloons",
+    "3 channels and 1 balloon",
+    "2 channels and 1 balloon"
+   ],
+   "ans": 0,
+   "exp": "Sengstaken-Blakemore tube: 3 channels, 2 balloons. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-096",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 175,
+   "q": "The channels of the Sengstaken-Blakemore tube are for:",
+   "opts": [
+    "The gastric balloon, the oesophageal balloon and gastric aspiration",
+    "Two balloons and oesophageal aspiration",
+    "Gastric and oesophageal aspiration only",
+    "Two aspiration ports and a feeding port"
+   ],
+   "ans": 0,
+   "exp": "Channels: gastric balloon channel, esophageal balloon channel, aspiration from stomach. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-097",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 175,
+   "q": "In the Sengstaken-Blakemore tube, the balloon that is inserted and inflated first is the:",
+   "opts": [
+    "Gastric balloon, inflated with 300 cc of saline",
+    "Oesophageal balloon, inflated with 300 cc of saline",
+    "Gastric balloon, inflated with 100 cc of air",
+    "Oesophageal balloon, inflated with 50 cc of air"
+   ],
+   "ans": 0,
+   "exp": "Steps: 1. gastric balloon is inserted; 2. gastric balloon is inflated with 300 cc of saline. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-098",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 175,
+   "q": "The tamponade effect of the Sengstaken-Blakemore tube is produced by:",
+   "opts": [
+    "Pulling up the inflated gastric balloon",
+    "Inflating the oesophageal balloon first",
+    "Traction on the oesophagus",
+    "Inflating both balloons simultaneously"
+   ],
+   "ans": 0,
+   "exp": "Tamponade effect d/t pulling up of balloon. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-099",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 175,
+   "q": "If bleeding does not stop after inflation of the gastric balloon, the next step is to:",
+   "opts": [
+    "Inflate the oesophageal balloon",
+    "Remove the tube",
+    "Give intravenous propranolol",
+    "Proceed to immediate surgery"
+   ],
+   "ans": 0,
+   "exp": "If bleeding does not stop: esophageal balloon is inflated. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-100",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 175,
+   "q": "The oesophageal balloon of the Sengstaken-Blakemore tube should be deflated:",
+   "opts": [
+    "Every 12 hours, to prevent oesophageal necrosis",
+    "Every hour",
+    "Every 24 hours",
+    "Only when bleeding stops"
+   ],
+   "ans": 0,
+   "exp": "Deflated every 12 hrs to prevent esophageal necrosis. (Book p175)"
+  },
+  {
+   "id": "SURG-C25-101",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 176,
+   "q": "The Minnesota balloon tube has:",
+   "opts": [
+    "4 channels and 2 balloons",
+    "3 channels and 2 balloons",
+    "4 channels and 1 balloon",
+    "3 channels and 1 balloon"
+   ],
+   "ans": 0,
+   "exp": "Minnesota balloon: 2 balloon channels & 2 aspiration channels - 4 channels. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-102",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 176,
+   "q": "The Minnesota tube has 4 channels for:",
+   "opts": [
+    "Two balloons, oesophageal aspiration and gastric aspiration",
+    "One balloon and three aspirations",
+    "Three balloons and one aspiration",
+    "Two aspirations and two feeds"
+   ],
+   "ans": 0,
+   "exp": "Minnesota balloon: 4 channels - 2 balloon channels & aspiration channels (esophageal and gastric aspiration). (Book p176)"
+  },
+  {
+   "id": "SURG-C25-103",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 176,
+   "q": "The Linton tube has:",
+   "opts": [
+    "1 balloon and 3 channels",
+    "2 balloons and 4 channels",
+    "2 balloons and 3 channels",
+    "1 balloon and 2 channels"
+   ],
+   "ans": 0,
+   "exp": "Linton tube: 1 balloon, 3 channels. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-104",
+   "sec": "Balloon Tamponade Tubes",
+   "page": 176,
+   "q": "The channels of the Linton tube are for:",
+   "opts": [
+    "Oesophageal aspiration, gastric aspiration and the balloon",
+    "Two balloons and gastric aspiration",
+    "Gastric aspiration and feeding",
+    "Oesophageal aspiration and two balloons"
+   ],
+   "ans": 0,
+   "exp": "Linton tube: 3 channels - esophageal aspiration, gastric aspiration, balloon channel. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-105",
+   "sec": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+   "page": 176,
+   "q": "The m/c used shunt for portal hypertension is:",
+   "opts": [
+    "TIPSS",
+    "Warren shunt",
+    "Linton shunt",
+    "Eck fistula"
+   ],
+   "ans": 0,
+   "exp": "TIPSS: m/c used shunt. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-106",
+   "sec": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+   "page": 176,
+   "q": "TIPSS is a __________ shunt.",
+   "opts": [
+    "Non-selective (non-specific)",
+    "Selective",
+    "Splenic only",
+    "Mesocaval"
+   ],
+   "ans": 0,
+   "exp": "TIPSS: non-specific (non-selective) shunt. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-107",
+   "sec": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+   "page": 176,
+   "q": "Shunts used for portal hypertension act by:",
+   "opts": [
+    "Lowering the portal pressure",
+    "Increasing the portal flow",
+    "Increasing the hepatic arterial flow",
+    "Reducing the splenic size"
+   ],
+   "ans": 0,
+   "exp": "Shunts: ↓ portal pressure. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-108",
+   "sec": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+   "page": 176,
+   "q": "An early complication of TIPSS is:",
+   "opts": [
+    "Rupture of the liver capsule",
+    "Renal failure",
+    "Splenic infarction",
+    "Bowel perforation"
+   ],
+   "ans": 0,
+   "exp": "Complications - early: rupture of liver capsule. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-109",
+   "sec": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+   "page": 176,
+   "q": "Encephalopathy after a shunt occurs because:",
+   "opts": [
+    "Toxin laden gut blood bypasses the liver and enters the systemic circulation",
+    "The shunt blocks the hepatic artery",
+    "The shunt causes hypoglycaemia",
+    "The shunt raises the portal pressure"
+   ],
+   "ans": 0,
+   "exp": "Gut blood: toxin + non-selective shunt → systemic circulation, liver detoxification bypassed → encephalopathy. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-110",
+   "sec": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+   "page": 176,
+   "q": "Indications for TIPSS include:",
+   "opts": [
+    "Variceal bleeding and intractable ascites related to portal hypertension",
+    "Uncomplicated cirrhosis",
+    "Hepatocellular carcinoma",
+    "Splenic vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Indications: variceal bleeding; intractable ascites related to portal HTN. (Book p176)"
+  },
+  {
+   "id": "SURG-C25-111",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "A non-selective shunt shunts:",
+   "opts": [
+    "Both gut and splenic blood",
+    "Only splenic blood",
+    "Only mesenteric blood",
+    "Only portal blood"
+   ],
+   "ans": 0,
+   "exp": "Non-selective: shunting of gut & splenic blood. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-112",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "A selective shunt shunts __________ and therefore carries a low risk of encephalopathy.",
+   "opts": [
+    "Only splenic blood",
+    "Both gut and splenic blood",
+    "Only mesenteric blood",
+    "Only portal blood"
+   ],
+   "ans": 0,
+   "exp": "Selective: shunting of splenic blood (only) - low risk of encephalopathy. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-113",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "The Linton shunt is a:",
+   "opts": [
+    "Proximal lienorenal shunt",
+    "Distal lienorenal shunt",
+    "Portocaval shunt",
+    "Mesocaval shunt"
+   ],
+   "ans": 0,
+   "exp": "Linton shunt: proximal lienorenal shunt. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-114",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "An end to side portocaval shunt is also called the:",
+   "opts": [
+    "Eck fistula",
+    "Warren shunt",
+    "Inokuchi shunt",
+    "Linton shunt"
+   ],
+   "ans": 0,
+   "exp": "End to side portocaval shunt (ECK fistula). (Book p177)"
+  },
+  {
+   "id": "SURG-C25-115",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "The Inokuchi shunt is a:",
+   "opts": [
+    "Left gastric venocaval shunt",
+    "Distal lienorenal shunt",
+    "Proximal lienorenal shunt",
+    "Mesocaval shunt"
+   ],
+   "ans": 0,
+   "exp": "Inokuchi: (L) gastric venocaval shunt. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-116",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "The Warren shunt is a:",
+   "opts": [
+    "Distal lienorenal (splenorenal) shunt",
+    "Proximal lienorenal shunt",
+    "Portocaval shunt",
+    "Left gastric venocaval shunt"
+   ],
+   "ans": 0,
+   "exp": "Warren shunt: distal lienorenal shunt. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-117",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "The Sugiura procedure is:",
+   "opts": [
+    "An oesophageal devascularization procedure",
+    "A portocaval shunt",
+    "A splenorenal shunt",
+    "An oesophageal resection"
+   ],
+   "ans": 0,
+   "exp": "Sugiura procedure: esophageal devascularization procedure. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-118",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "In the Sugiura procedure, the length of oesophagus devascularised is:",
+   "opts": [
+    "5-10 cm of the lower oesophagus",
+    "1-2 cm",
+    "The whole thoracic oesophagus",
+    "20 cm"
+   ],
+   "ans": 0,
+   "exp": "Lower esophagus (5-10 cm) is devascularised. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-119",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "The Sugiura procedure additionally includes:",
+   "opts": [
+    "Oesophageal transection, selective vagotomy, pyloroplasty and splenectomy",
+    "Total gastrectomy and splenectomy",
+    "Liver transplantation",
+    "TIPSS"
+   ],
+   "ans": 0,
+   "exp": "Sugiura procedure: esophageal transection, selective vagotomy, pyloroplasty, splenectomy. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-120",
+   "sec": "Types of Shunts and the Sugiura Procedure",
+   "page": 177,
+   "q": "The Sugiura procedure is:",
+   "opts": [
+    "A rare procedure",
+    "The commonest shunt",
+    "Done for ascites",
+    "Done for peptic ulcer"
+   ],
+   "ans": 0,
+   "exp": "Sugiura procedure: rare procedure. (Book p177)"
+  },
+  {
+   "id": "SURG-C25-121",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "In the Child-Pugh score, encephalopathy is graded as:",
+   "opts": [
+    "None, mild to moderate (grade 1 or 2), severe (grade 3 or 4)",
+    "None, mild, severe",
+    "Grade 1, 2, 3 only",
+    "Present or absent"
+   ],
+   "ans": 0,
+   "exp": "Encephalopathy: none; mild to moderate (grade 1 or 2); severe (grade 3 or 4). (Book p178)"
+  },
+  {
+   "id": "SURG-C25-122",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "In the Child-Pugh score, ascites is graded as:",
+   "opts": [
+    "None, mild to moderate (diuretic responsive), severe (diuretic refractory)",
+    "Mild, moderate, severe",
+    "Absent or present",
+    "By the volume of ascitic fluid"
+   ],
+   "ans": 0,
+   "exp": "Ascites: none; mild to moderate (diuretic responsive); severe (diuretic refractory). (Book p178)"
+  },
+  {
+   "id": "SURG-C25-123",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "In the Child-Pugh score, the bilirubin cut-offs (mg/dL) are:",
+   "opts": [
+    "<2, 2-3, >3",
+    "<1, 1-2, >2",
+    "<2.8, 2.8-3.5, >3.5",
+    "<5, 5-10, >10"
+   ],
+   "ans": 0,
+   "exp": "Bilirubin: <2, 2-3, >3 mg/dL. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-124",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "In the Child-Pugh score, the albumin cut-offs (g/dL) are:",
+   "opts": [
+    ">3.5, 2.8-3.5, <2.8",
+    ">4, 3-4, <3",
+    ">3, 2-3, <2",
+    ">5, 3-5, <3"
+   ],
+   "ans": 0,
+   "exp": "Albumin: >3.5, 2.8-3.5, <2.8 g/dL. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-125",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "In the Child-Pugh score, the prolongation of prothrombin time in seconds is scored as:",
+   "opts": [
+    "<4, 4-6, >6",
+    "<1, 1-3, >3",
+    "<10, 10-15, >15",
+    "<2, 2-4, >4"
+   ],
+   "ans": 0,
+   "exp": "Prothrombin time: <4, 4-6, >6 seconds. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-126",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "In the Child-Pugh score, the INR cut-offs are:",
+   "opts": [
+    "<1.7, 1.7-2.3, >2.3",
+    "<1, 1-2, >2",
+    "<1.5, 1.5-2.5, >2.5",
+    "<2, 2-3, >3"
+   ],
+   "ans": 0,
+   "exp": "INR: <1.7, 1.7-2.3, >2.3. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-127",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "Child-Pugh class A corresponds to a score of:",
+   "opts": [
+    "5-6 with mild liver dysfunction",
+    "7-9 with moderate dysfunction",
+    "10-15 with severe dysfunction",
+    "More than 15"
+   ],
+   "ans": 0,
+   "exp": "Class A: score 5-6 - mild liver dysfunction. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-128",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "Child-Pugh class B corresponds to a score of:",
+   "opts": [
+    "7-9 with moderate liver dysfunction",
+    "5-6 with mild dysfunction",
+    "10-15 with severe dysfunction",
+    "1-4"
+   ],
+   "ans": 0,
+   "exp": "Class B: score 7-9 - moderate liver dysfunction. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-129",
+   "sec": "Child-Pugh Score",
+   "page": 178,
+   "q": "Child-Pugh class C corresponds to a score of:",
+   "opts": [
+    "10-15 with severe liver dysfunction",
+    "7-9 with moderate dysfunction",
+    "5-6 with mild dysfunction",
+    "More than 15"
+   ],
+   "ans": 0,
+   "exp": "Class C: score 10-15 - severe liver dysfunction. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-130",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "The Bleed criteria score denotes:",
+   "opts": [
+    "The outcome",
+    "The risk of rebleeding",
+    "The need for surgery",
+    "The portal pressure"
+   ],
+   "ans": 0,
+   "exp": "Prognostic scores: bleed criteria - denotes outcome. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-131",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "Forrest's endoscopic classification denotes:",
+   "opts": [
+    "The risk of rebleeding",
+    "The outcome",
+    "The portal pressure",
+    "The liver reserve"
+   ],
+   "ans": 0,
+   "exp": "Forrest's endoscopic classification: denotes risk of rebleeding. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-132",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "In Forrest's classification, class Ia is:",
+   "opts": [
+    "Spurting bleeding",
+    "Oozing bleeding",
+    "A non-bleeding visible vessel",
+    "An adherent clot"
+   ],
+   "ans": 0,
+   "exp": "Class Ia: spurting. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-133",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "In Forrest's classification, class Ib is:",
+   "opts": [
+    "Oozing bleeding",
+    "Spurting bleeding",
+    "A clean ulcer base",
+    "A flat pigmented spot"
+   ],
+   "ans": 0,
+   "exp": "Class Ib: oozing. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-134",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "In Forrest's classification, class IIa is:",
+   "opts": [
+    "A non-bleeding visible vessel",
+    "An adherent clot",
+    "A flat pigmented spot",
+    "A clean ulcer base"
+   ],
+   "ans": 0,
+   "exp": "Class IIa: non-bleeding visible vessel. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-135",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "In Forrest's classification, class IIb is:",
+   "opts": [
+    "An adherent clot",
+    "A non-bleeding visible vessel",
+    "A flat pigmented spot",
+    "Spurting bleeding"
+   ],
+   "ans": 0,
+   "exp": "Class IIb: adherent clot. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-136",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "In Forrest's classification, class IIc is:",
+   "opts": [
+    "A flat pigmented spot",
+    "A clean ulcer base",
+    "Spurting bleeding",
+    "An adherent clot"
+   ],
+   "ans": 0,
+   "exp": "Class IIc: flat pigmented spot. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-137",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "In Forrest's classification, class III is:",
+   "opts": [
+    "A clean ulcer base",
+    "A flat pigmented spot",
+    "An adherent clot",
+    "Oozing"
+   ],
+   "ans": 0,
+   "exp": "Class III: clean ulcer base. (Book p178)"
+  },
+  {
+   "id": "SURG-C25-138",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "The Forrest classes carrying a high risk of rebleeding are:",
+   "opts": [
+    "Ia and Ib",
+    "IIa and IIb",
+    "IIc and III",
+    "III only"
+   ],
+   "ans": 0,
+   "exp": "Risk: high - Ia (spurting), Ib (oozing). (Book p178)"
+  },
+  {
+   "id": "SURG-C25-139",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "The Forrest classes carrying an intermediate risk of rebleeding are:",
+   "opts": [
+    "IIa and IIb",
+    "Ia and Ib",
+    "IIc and III",
+    "III only"
+   ],
+   "ans": 0,
+   "exp": "Risk: intermediate - IIa (non-bleeding visible vessel), IIb (adherent clot). (Book p178)"
+  },
+  {
+   "id": "SURG-C25-140",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "The Forrest classes carrying a low risk of rebleeding are:",
+   "opts": [
+    "IIc and III",
+    "Ia and Ib",
+    "IIa and IIb",
+    "Ib and IIa"
+   ],
+   "ans": 0,
+   "exp": "Risk: low - IIc (flat pigmented spot), III (clean ulcer base). (Book p178)"
+  },
+  {
+   "id": "SURG-C25-141",
+   "sec": "Prognostic Scores and Forrest Classification",
+   "page": 178,
+   "q": "Other prognostic scores used in upper GI haemorrhage include all EXCEPT:",
+   "opts": [
+    "Child-Pugh score",
+    "Rockall scoring system",
+    "Glasgow Blatchford score",
+    "AIMS65"
+   ],
+   "ans": 0,
+   "exp": "Prognostic scores: Rockall scoring system, Glasgow Blatchford, AIMS65. (Book p178)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U25-1",
+   "ch": 25,
+   "n": 1,
+   "title": "Upper GI Haemorrhage: Definition and Causes",
+   "sec": "Upper GI Haemorrhage: Definition and Causes · p170",
+   "qs": [
+    "SURG-C25-001",
+    "SURG-C25-002",
+    "SURG-C25-003"
+   ],
+   "guide": "Upper GI haemorrhage means bleeding above the ligament of Treitz, and four out of five patients are bleeding from something other than varices. The variceal fifth is the portal hypertension group - and it is the one that kills."
+  },
+  {
+   "id": "SURG-U25-2",
+   "ch": 25,
+   "n": 2,
+   "title": "Peptic Ulcer Bleeding",
+   "sec": "Peptic Ulcer Bleeding · p170",
+   "qs": [
+    "SURG-C25-004",
+    "SURG-C25-005",
+    "SURG-C25-006",
+    "SURG-C25-007",
+    "SURG-C25-008"
+   ],
+   "guide": "Peptic ulcer is the single commonest cause, duodenal more than gastric. Think anatomy when it bleeds: a posterior duodenal ulcer eats into the gastroduodenal artery, while a bleeding gastric ulcer is usually the left gastric artery."
+  },
+  {
+   "id": "SURG-U25-3",
+   "ch": 25,
+   "n": 3,
+   "title": "Gastritis: Type A, Type B and Stress Ulcers",
+   "sec": "Gastritis: Type A, Type B and Stress Ulcers · p170",
+   "qs": [
+    "SURG-C25-009",
+    "SURG-C25-010",
+    "SURG-C25-011",
+    "SURG-C25-012",
+    "SURG-C25-013",
+    "SURG-C25-014",
+    "SURG-C25-015",
+    "SURG-C25-016",
+    "SURG-C25-017",
+    "SURG-C25-018",
+    "SURG-C25-019",
+    "SURG-C25-020",
+    "SURG-C25-021"
+   ],
+   "guide": "Type A gastritis is autoimmune - antibodies against parietal cells and intrinsic factor, vitiligo as a companion, the antrum spared, pernicious anaemia with achlorhydria, and a higher risk of cancer. Type B is H. pylori in the antrum. Stress gastritis hits the stomach mucosa, which is the tissue most sensitive to hypovolemia, and shows up as Cushing's ulcer after head injury in the acid-producing area or Curling's ulcer after burns in the first part of the duodenum."
+  },
+  {
+   "id": "SURG-U25-4",
+   "ch": 25,
+   "n": 4,
+   "title": "Mallory-Weiss Tear v/s Boerhaave Syndrome",
+   "sec": "Mallory-Weiss Tear v/s Boerhaave Syndrome · p171",
+   "qs": [
+    "SURG-C25-022",
+    "SURG-C25-023",
+    "SURG-C25-024",
+    "SURG-C25-025",
+    "SURG-C25-026",
+    "SURG-C25-027",
+    "SURG-C25-028",
+    "SURG-C25-029",
+    "SURG-C25-030",
+    "SURG-C25-031",
+    "SURG-C25-032"
+   ],
+   "guide": "Both follow forceful vomiting in an alcoholic, but Mallory-Weiss is a longitudinal mucosal tear from the gastroesophageal junction down below the cardia that bleeds from the left gastric artery and usually settles by itself, whereas Boerhaave is a full thickness spontaneous perforation with chest pain, Mackler's triad and surgical emphysema that needs intervention."
+  },
+  {
+   "id": "SURG-U25-5",
+   "ch": 25,
+   "n": 5,
+   "title": "GAVE, Portal Gastropathy and Dieulafoy Lesion",
+   "sec": "GAVE, Portal Gastropathy and Dieulafoy Lesion · p171",
+   "qs": [
+    "SURG-C25-033",
+    "SURG-C25-034",
+    "SURG-C25-035",
+    "SURG-C25-036",
+    "SURG-C25-037",
+    "SURG-C25-038",
+    "SURG-C25-039",
+    "SURG-C25-040",
+    "SURG-C25-041",
+    "SURG-C25-042"
+   ],
+   "guide": "Three vascular lesions to separate: GAVE - dilated venules in the antrum, female preponderance, collagen vascular disease, watermelon stomach, treated with argon photocoagulation; portal gastropathy - dilated vessels in the body with the snake skin or strawberry appearance; and the Dieulafoy lesion, a dilated submucosal arteriole in an elderly patient that is treated by coagulating the vessel."
+  },
+  {
+   "id": "SURG-U25-6",
+   "ch": 25,
+   "n": 6,
+   "title": "Other Causes: Angiodysplasia, Menetrier's Disease and GIST",
+   "sec": "Other Causes: Angiodysplasia, Menetrier's Disease and GIST · p172",
+   "qs": [
+    "SURG-C25-043",
+    "SURG-C25-044",
+    "SURG-C25-045",
+    "SURG-C25-046",
+    "SURG-C25-047"
+   ],
+   "guide": "Two odds and ends close the non-variceal list: angiodysplasia, which belongs to lower GI bleeding and sits on the right side of the colon, and Menetrier's disease, driven by TGFα overexpression, which bleeds, predisposes to cancer, is treated with the anti-EGFR antibody cetuximab and needs a total gastrectomy if that fails."
+  },
+  {
+   "id": "SURG-U25-7",
+   "ch": 25,
+   "n": 7,
+   "title": "Portal Hypertension: Measurement",
+   "sec": "Portal Hypertension: Measurement · p172",
+   "qs": [
+    "SURG-C25-048",
+    "SURG-C25-049",
+    "SURG-C25-050",
+    "SURG-C25-051",
+    "SURG-C25-052",
+    "SURG-C25-053"
+   ],
+   "guide": "Portal pressure is measured as the hepatic venous pressure gradient - wedged pressure with the balloon inflated minus the free pressure with it deflated - and can also be followed with Doppler. One to five is normal, six to nine is preclinical sinusoidal disease, and once you reach twelve the varices are at real risk of rupture."
+  },
+  {
+   "id": "SURG-U25-8",
+   "ch": 25,
+   "n": 8,
+   "title": "Porto-systemic Shunts: Sites and Clinical Features",
+   "sec": "Porto-systemic Shunts: Sites and Clinical Features · p172",
+   "qs": [
+    "SURG-C25-054",
+    "SURG-C25-055",
+    "SURG-C25-056",
+    "SURG-C25-057"
+   ],
+   "guide": "Blood escapes through porto-systemic shunts, most importantly at the lower oesophagus where the left gastric and short gastric veins meet the oesophageal and paraesophageal veins. It also opens up at the rectum and at the umbilicus, where the radiating veins are called caput medusae. Splenomegaly and ascites are the clinical company these shunts keep."
+  },
+  {
+   "id": "SURG-U25-9",
+   "ch": 25,
+   "n": 9,
+   "title": "Causes of Portal Hypertension",
+   "sec": "Causes of Portal Hypertension · p173",
+   "qs": [
+    "SURG-C25-058",
+    "SURG-C25-059",
+    "SURG-C25-060",
+    "SURG-C25-061",
+    "SURG-C25-062",
+    "SURG-C25-063",
+    "SURG-C25-064",
+    "SURG-C25-065",
+    "SURG-C25-066",
+    "SURG-C25-067"
+   ],
+   "guide": "Classify the causes by where the block sits: pre-hepatic (portal or splenic vein thrombosis), intra-hepatic pre-sinusoidal (sarcoidosis, schistosomiasis), sinusoidal (every kind of cirrhosis, amyloidosis, hepatocellular carcinoma), post-sinusoidal (Budd-Chiari, veno-occlusive disease) and post-hepatic (IVC obstruction and the cardiac causes - restrictive cardiomyopathy, constrictive pericarditis, severe failure and severe tricuspid regurgitation)."
+  },
+  {
+   "id": "SURG-U25-10",
+   "ch": 25,
+   "n": 10,
+   "title": "Splenic Vein Thrombosis and Budd-Chiari Syndrome",
+   "sec": "Splenic Vein Thrombosis and Budd-Chiari Syndrome · p174",
+   "qs": [
+    "SURG-C25-068",
+    "SURG-C25-069",
+    "SURG-C25-070",
+    "SURG-C25-071",
+    "SURG-C25-072",
+    "SURG-C25-073",
+    "SURG-C25-074",
+    "SURG-C25-075",
+    "SURG-C25-076"
+   ],
+   "guide": "Splenic vein thrombosis, usually after pancreatitis, gives left sided or sinistral portal hypertension and is cured by splenectomy. Budd-Chiari blocks hepatic venous outflow so blood accumulates in the liver, running a gradual course into portal hypertension and liver failure or a fulminant one; pregnancy predisposes. The caudate lobe drains straight into the IVC, so it is spared - and hypertrophies."
+  },
+  {
+   "id": "SURG-U25-11",
+   "ch": 25,
+   "n": 11,
+   "title": "Management Algorithm for Variceal Haemorrhage",
+   "sec": "Management Algorithm for Variceal Haemorrhage · p174",
+   "qs": [
+    "SURG-C25-077",
+    "SURG-C25-078",
+    "SURG-C25-079",
+    "SURG-C25-080",
+    "SURG-C25-081",
+    "SURG-C25-082",
+    "SURG-C25-083"
+   ],
+   "guide": "Resuscitate first but not too much: cross match, secure the airway to prevent aspiration, and run the patient at a permissive hypotension. Terlipressin is the best drug and octreotide the most used, propranolol is avoided acutely and the PPI comes after endoscopy. Endoscopy then deals with the varices by banding or sclerotherapy."
+  },
+  {
+   "id": "SURG-U25-12",
+   "ch": 25,
+   "n": 12,
+   "title": "Sclerotherapy and Post-procedure Care",
+   "sec": "Sclerotherapy and Post-procedure Care · p175",
+   "qs": [
+    "SURG-C25-084",
+    "SURG-C25-085",
+    "SURG-C25-086",
+    "SURG-C25-087",
+    "SURG-C25-088",
+    "SURG-C25-089",
+    "SURG-C25-090",
+    "SURG-C25-091",
+    "SURG-C25-092",
+    "SURG-C25-093"
+   ],
+   "guide": "Sclerotherapy is usually done with sodium tetradecyl sulfate; polidocanol, ethanolamine oleate and sodium morrhuate are alternatives. Inject superficially - a deep injection perforates and causes chest pain - and the aim is fibrosis. Watch the patient for 24 hours; if there is no rebleed, discharge on oral propranolol. If bleeding continues despite a further endoscopic attempt, correct the coagulation and move on to TIPSS."
+  },
+  {
+   "id": "SURG-U25-13",
+   "ch": 25,
+   "n": 13,
+   "title": "Balloon Tamponade Tubes",
+   "sec": "Balloon Tamponade Tubes · p175",
+   "qs": [
+    "SURG-C25-094",
+    "SURG-C25-095",
+    "SURG-C25-096",
+    "SURG-C25-097",
+    "SURG-C25-098",
+    "SURG-C25-099",
+    "SURG-C25-100",
+    "SURG-C25-101",
+    "SURG-C25-102",
+    "SURG-C25-103",
+    "SURG-C25-104"
+   ],
+   "guide": "Balloon tamponade buys time. The Sengstaken-Blakemore tube, the one you will use, has three channels and two balloons: pass it, inflate the gastric balloon with 300 cc of saline, pull it up for tamponade, and only inflate the oesophageal balloon if bleeding continues - deflating it every 12 hours to avoid oesophageal necrosis. The Minnesota tube has four channels (two balloons, two aspirations) and the Linton tube a single balloon with three channels."
+  },
+  {
+   "id": "SURG-U25-14",
+   "ch": 25,
+   "n": 14,
+   "title": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt)",
+   "sec": "TIPSS (Transjugular Intrahepatic Portosystemic Shunt) · p176",
+   "qs": [
+    "SURG-C25-105",
+    "SURG-C25-106",
+    "SURG-C25-107",
+    "SURG-C25-108",
+    "SURG-C25-109",
+    "SURG-C25-110"
+   ],
+   "guide": "TIPSS is the most used shunt and a non-selective one: it lowers portal pressure but lets toxic gut blood bypass the liver, so encephalopathy is the price, and the liver capsule can rupture early on. It is indicated for variceal bleeding and for ascites that will not respond despite portal hypertension."
+  },
+  {
+   "id": "SURG-U25-15",
+   "ch": 25,
+   "n": 15,
+   "title": "Types of Shunts and the Sugiura Procedure",
+   "sec": "Types of Shunts and the Sugiura Procedure · p177",
+   "qs": [
+    "SURG-C25-111",
+    "SURG-C25-112",
+    "SURG-C25-113",
+    "SURG-C25-114",
+    "SURG-C25-115",
+    "SURG-C25-116",
+    "SURG-C25-117",
+    "SURG-C25-118",
+    "SURG-C25-119",
+    "SURG-C25-120"
+   ],
+   "guide": "Non-selective shunts divert both gut and splenic blood - TIPSS, the Linton proximal lienorenal shunt and the end-to-side portocaval Eck fistula. Selective shunts take only splenic blood, so encephalopathy is less likely: Inokuchi's left gastric venocaval shunt and Warren's distal lienorenal shunt. The Sugiura procedure is a rare alternative that devascularises the lower 5-10 cm of oesophagus, combined with oesophageal transection, selective vagotomy, pyloroplasty and splenectomy."
+  },
+  {
+   "id": "SURG-U25-16",
+   "ch": 25,
+   "n": 16,
+   "title": "Child-Pugh Score",
+   "sec": "Child-Pugh Score · p178",
+   "qs": [
+    "SURG-C25-121",
+    "SURG-C25-122",
+    "SURG-C25-123",
+    "SURG-C25-124",
+    "SURG-C25-125",
+    "SURG-C25-126",
+    "SURG-C25-127",
+    "SURG-C25-128",
+    "SURG-C25-129"
+   ],
+   "guide": "Child-Pugh grades five things in threes - encephalopathy none to grade 3-4, ascites none to diuretic refractory, bilirubin under 2 to over 3, albumin above 3.5 to below 2.8, and prothrombin prolongation under 4 to over 6 seconds or an INR from under 1.7 to over 2.3. Add the points: 5-6 is class A and mild, 7-9 is class B and moderate, 10-15 is class C and severe."
+  },
+  {
+   "id": "SURG-U25-17",
+   "ch": 25,
+   "n": 17,
+   "title": "Prognostic Scores and Forrest Classification",
+   "sec": "Prognostic Scores and Forrest Classification · p178",
+   "qs": [
+    "SURG-C25-130",
+    "SURG-C25-131",
+    "SURG-C25-132",
+    "SURG-C25-133",
+    "SURG-C25-134",
+    "SURG-C25-135",
+    "SURG-C25-136",
+    "SURG-C25-137",
+    "SURG-C25-138",
+    "SURG-C25-139",
+    "SURG-C25-140",
+    "SURG-C25-141"
+   ],
+   "guide": "Bleed criteria tell you the outcome, while Forrest's endoscopic classification tells you the risk of rebleeding: spurting (Ia) and oozing (Ib) are high risk, a non-bleeding visible vessel (IIa) and an adherent clot (IIb) are intermediate, and a flat pigmented spot (IIc) or clean ulcer base (III) are low. Rockall, Glasgow Blatchford and AIMS65 are the named prognostic scores."
+  }
+ ]
+}

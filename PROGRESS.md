@@ -113,7 +113,7 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch22 Stomach : Part 1 — p150-156 — **DONE (82 qs, 12 units)** 2026-09-14
 - [x] ch23 Stomach : Part 2 — p157-160 — **DONE (48 qs, 8 units)** 2026-09-14
 - [x] ch24 Stomach : Part 3 — p161-169 — **DONE (172 qs, 19 units)** 2026-09-14
-- [ ] ch25 Upper GI Haemorrhage — p170-178 — Soon
+- [x] ch25 Upper GI Haemorrhage — p170-178 — **DONE (141 qs, 17 units)** 2026-09-14
 - [ ] ch26 Bariatric Surgery — p179-183 — Soon
 - [ ] ch27 Bowel Obstruction : Part 1 — p184-190 — Soon
 - [ ] ch28 Bowel Obstruction : Part 2 — p191-196 — Soon
@@ -176,9 +176,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **24/72 chapters live** · Questions: 2576 · Units: 312
-- GitHub HTML: **synced at 24/72** (pushed 2026-09-14 after ch24)
-- NEXT: ch25 Upper GI Haemorrhage — p170-178 (v1c pdf 12-20)
+- Local HTML: **25/72 chapters live** · Questions: 2717 · Units: 329
+- GitHub HTML: **synced at 25/72** (pushed 2026-09-14 after ch25)
+- NEXT: ch26 Bariatric Surgery — p179-183 (v1c pdf 21-25)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).
