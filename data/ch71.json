@@ -1,0 +1,661 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C71-001",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "An ulcer is:",
+   "opts": [
+    "A breach in the continuity of epithelium/mucosa",
+    "A raised skin lesion",
+    "A fluid filled cavity",
+    "A fibrous scar"
+   ],
+   "ans": 0,
+   "exp": "A breach in the continuity of epithelium/mucosa (Book p547)"
+  },
+  {
+   "id": "SURG-C71-002",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Site of a venous ulcer:",
+   "opts": [
+    "Gaiter area",
+    "Dorsum/lateral side of the foot",
+    "Sole/base of great toe",
+    "Heel only"
+   ],
+   "ans": 0,
+   "exp": "Gaiter area (Book p547)"
+  },
+  {
+   "id": "SURG-C71-003",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Site of an arterial ulcer:",
+   "opts": [
+    "Dorsum / lateral side",
+    "Gaiter area",
+    "Sole/base of great toe",
+    "Medial malleolus"
+   ],
+   "ans": 0,
+   "exp": "Dorsum / lateral side (Book p547)"
+  },
+  {
+   "id": "SURG-C71-004",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Site of trophic and diabetic ulcers:",
+   "opts": [
+    "Sole / base of the great toe",
+    "Gaiter area",
+    "Dorsum of foot",
+    "Lateral malleolus"
+   ],
+   "ans": 0,
+   "exp": "Sole / base of the great toe (Book p547)"
+  },
+  {
+   "id": "SURG-C71-005",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Arterial pulsations in a venous ulcer:",
+   "opts": [
+    "Normal",
+    "Absent",
+    "Bounding",
+    "Irregular"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p547)"
+  },
+  {
+   "id": "SURG-C71-006",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Arterial pulsations in an arterial ulcer:",
+   "opts": [
+    "Absent",
+    "Normal",
+    "Bounding",
+    "Increased"
+   ],
+   "ans": 0,
+   "exp": "Absent (Book p547)"
+  },
+  {
+   "id": "SURG-C71-007",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Arterial pulsations in a trophic ulcer:",
+   "opts": [
+    "Normal",
+    "Absent",
+    "Always bounding",
+    "Undetectable"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p547)"
+  },
+  {
+   "id": "SURG-C71-008",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Arterial pulsations in a diabetic ulcer:",
+   "opts": [
+    "May be absent",
+    "Always normal",
+    "Always bounding",
+    "Always present"
+   ],
+   "ans": 0,
+   "exp": "May be absent (Book p547)"
+  },
+  {
+   "id": "SURG-C71-009",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Ulcer type in which dilated veins are present:",
+   "opts": [
+    "Venous ulcer",
+    "Arterial ulcer",
+    "Trophic ulcer",
+    "Diabetic ulcer"
+   ],
+   "ans": 0,
+   "exp": "Venous ulcer (Book p547)"
+  },
+  {
+   "id": "SURG-C71-010",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Sensations in a venous ulcer:",
+   "opts": [
+    "Normal",
+    "Painful",
+    "Decreased",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Normal (Book p547)"
+  },
+  {
+   "id": "SURG-C71-011",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Sensations in an arterial ulcer:",
+   "opts": [
+    "Painful",
+    "Normal",
+    "Decreased",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Painful (Book p547)"
+  },
+  {
+   "id": "SURG-C71-012",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Sensations in trophic and diabetic ulcers:",
+   "opts": [
+    "Decreased sensations",
+    "Painful",
+    "Normal",
+    "Hyperaesthetic"
+   ],
+   "ans": 0,
+   "exp": "Decreased sensations (Book p547)"
+  },
+  {
+   "id": "SURG-C71-013",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Margin of a venous ulcer:",
+   "opts": [
+    "Sloping",
+    "Punched out",
+    "Undermined",
+    "Rolled out"
+   ],
+   "ans": 0,
+   "exp": "Sloping (Book p547)"
+  },
+  {
+   "id": "SURG-C71-014",
+   "sec": "Ulcers: Definition and Comparison of Types",
+   "page": 547,
+   "q": "Margin of arterial, trophic and diabetic ulcers:",
+   "opts": [
+    "Punched out",
+    "Sloping",
+    "Undermined",
+    "Everted"
+   ],
+   "ans": 0,
+   "exp": "Punched out (Book p547)"
+  },
+  {
+   "id": "SURG-C71-015",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "M/c site of a varicose ulcer:",
+   "opts": [
+    "Medial malleolus",
+    "Lateral malleolus",
+    "Dorsum of foot",
+    "Sole"
+   ],
+   "ans": 0,
+   "exp": "Medial malleolus (Book p547)"
+  },
+  {
+   "id": "SURG-C71-016",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Depth and granulation tissue in a varicose ulcer:",
+   "opts": [
+    "Shallow ulcer with pale granulation tissue",
+    "Deep ulcer with healthy granulation",
+    "Deep ulcer with no granulation",
+    "Shallow ulcer with exuberant granulation"
+   ],
+   "ans": 0,
+   "exp": "Shallow ulcer with pale granulation tissue (Book p547)"
+  },
+  {
+   "id": "SURG-C71-017",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Cause of the pigmented margin in a varicose ulcer:",
+   "opts": [
+    "Hemosiderin deposition",
+    "Melanin deposition",
+    "Bilirubin deposition",
+    "Iron therapy"
+   ],
+   "ans": 0,
+   "exp": "Hemosiderin deposition (Book p547)"
+  },
+  {
+   "id": "SURG-C71-018",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Healing behaviour of a varicose ulcer:",
+   "opts": [
+    "Non-healing ulcer",
+    "Heals rapidly",
+    "Heals without treatment",
+    "Always heals in a week"
+   ],
+   "ans": 0,
+   "exp": "Non-healing ulcer (Book p547)"
+  },
+  {
+   "id": "SURG-C71-019",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Marjolin's ulcer is a:",
+   "opts": [
+    "Squamous cell cancer",
+    "Basal cell carcinoma",
+    "Melanoma",
+    "Sarcoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell cancer (Book p547)"
+  },
+  {
+   "id": "SURG-C71-020",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Risk factors for Marjolin's ulcer:",
+   "opts": [
+    "Long standing venous ulcer and burn scars",
+    "Acute trauma",
+    "Arterial insufficiency",
+    "Diabetes alone"
+   ],
+   "ans": 0,
+   "exp": "Long standing venous ulcer and burn scars (Book p547)"
+  },
+  {
+   "id": "SURG-C71-021",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Margin of a Marjolin's ulcer:",
+   "opts": [
+    "Raised, everted margins",
+    "Sloping margins",
+    "Punched out margins",
+    "Undermined margins"
+   ],
+   "ans": 0,
+   "exp": "Raised, everted margins (Book p547)"
+  },
+  {
+   "id": "SURG-C71-022",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Management of Marjolin's ulcer:",
+   "opts": [
+    "Wide local excision",
+    "Radiotherapy",
+    "Skin graft alone",
+    "Compression therapy"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision (Book p547)"
+  },
+  {
+   "id": "SURG-C71-023",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer",
+   "page": 547,
+   "q": "Why is radiotherapy contraindicated in Marjolin's ulcer:",
+   "opts": [
+    "Because of scarring and recurrence",
+    "Because of bleeding risk",
+    "Because it causes metastasis",
+    "Because of poor tumour control alone"
+   ],
+   "ans": 0,
+   "exp": "Because of scarring and recurrence (Book p547)"
+  },
+  {
+   "id": "SURG-C71-024",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Limb features accompanying an arterial ulcer:",
+   "opts": [
+    "Loss of muscle mass and hair with shiny skin",
+    "Dilated veins and pigmentation",
+    "Increased hair growth",
+    "Warm oedematous limb"
+   ],
+   "ans": 0,
+   "exp": "Loss of muscle mass and hair with shiny skin (Book p548)"
+  },
+  {
+   "id": "SURG-C71-025",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Risk factors for a trophic ulcer:",
+   "opts": [
+    "Paralyzed patients and diabetics",
+    "Young athletes",
+    "Pregnant women",
+    "Smokers only"
+   ],
+   "ans": 0,
+   "exp": "Paralyzed patients and diabetics (Book p548)"
+  },
+  {
+   "id": "SURG-C71-026",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Predisposing factors for a diabetic ulcer:",
+   "opts": [
+    "Microangiopathy (arterial disease) and raised glucose",
+    "Venous hypertension",
+    "Lymphatic obstruction",
+    "Pressure alone"
+   ],
+   "ans": 0,
+   "exp": "Microangiopathy (arterial disease) and raised glucose (Book p548)"
+  },
+  {
+   "id": "SURG-C71-027",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Stage 1 diabetic ulcer:",
+   "opts": [
+    "Inflammation but no breach",
+    "Superficial ulcer",
+    "Deep ulcer",
+    "Ulcer with osteomyelitis"
+   ],
+   "ans": 0,
+   "exp": "Inflammation but no breach (Book p548)"
+  },
+  {
+   "id": "SURG-C71-028",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Stage 2 diabetic ulcer:",
+   "opts": [
+    "Superficial ulcer",
+    "Inflammation without breach",
+    "Deep ulcer",
+    "Ulcer with osteomyelitis"
+   ],
+   "ans": 0,
+   "exp": "Superficial ulcer (Book p548)"
+  },
+  {
+   "id": "SURG-C71-029",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Stage 3 diabetic ulcer:",
+   "opts": [
+    "Deep ulcer",
+    "Superficial ulcer",
+    "Inflammation only",
+    "Ulcer with osteomyelitis"
+   ],
+   "ans": 0,
+   "exp": "Deep ulcer (Book p548)"
+  },
+  {
+   "id": "SURG-C71-030",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Stage 4 diabetic ulcer:",
+   "opts": [
+    "Ulcer plus osteomyelitis",
+    "Deep ulcer without bone involvement",
+    "Superficial ulcer",
+    "Inflammation only"
+   ],
+   "ans": 0,
+   "exp": "Ulcer plus osteomyelitis (Book p548)"
+  },
+  {
+   "id": "SURG-C71-031",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Management of a stage 1 diabetic ulcer:",
+   "opts": [
+    "Antibiotics, diabetic control and off loading",
+    "Debridement and VAC dressing",
+    "Amputation",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics, diabetic control and off loading (Book p548)"
+  },
+  {
+   "id": "SURG-C71-032",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Management of stage 2 and 3 diabetic ulcers:",
+   "opts": [
+    "Antibiotics, diabetic control, off loading plus debridement and VAC dressings",
+    "Amputation",
+    "Off loading alone",
+    "Compression bandaging"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics, diabetic control, off loading plus debridement and VAC dressings (Book p548)"
+  },
+  {
+   "id": "SURG-C71-033",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Management of a stage 4 diabetic ulcer:",
+   "opts": [
+    "Amputation",
+    "VAC dressing alone",
+    "Antibiotics alone",
+    "Off loading"
+   ],
+   "ans": 0,
+   "exp": "Amputation (Book p548)"
+  },
+  {
+   "id": "SURG-C71-034",
+   "sec": "Arterial, Trophic and Diabetic Ulcers",
+   "page": 548,
+   "q": "Negative pressure used in VAC dressing:",
+   "opts": [
+    "-125 mmHg",
+    "-25 mmHg",
+    "-250 mmHg",
+    "+125 mmHg"
+   ],
+   "ans": 0,
+   "exp": "-125 mmHg (Book p548)"
+  },
+  {
+   "id": "SURG-C71-035",
+   "sec": "Ulcer Edges",
+   "page": 549,
+   "q": "A SLOPING ulcer edge is seen in:",
+   "opts": [
+    "Healing and venous ulcers",
+    "Arterial and neuropathic ulcers",
+    "Tubercular ulcers",
+    "Basal cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Healing and venous ulcers (Book p549)"
+  },
+  {
+   "id": "SURG-C71-036",
+   "sec": "Ulcer Edges",
+   "page": 549,
+   "q": "A PUNCHED OUT ulcer edge is seen in all EXCEPT:",
+   "opts": [
+    "Tuberculosis",
+    "Arterial ulcers",
+    "Neuropathic ulcers and bed sores",
+    "Syphilis"
+   ],
+   "ans": 0,
+   "exp": "Tuberculosis (Book p549)"
+  },
+  {
+   "id": "SURG-C71-037",
+   "sec": "Ulcer Edges",
+   "page": 549,
+   "q": "An UNDERMINED ulcer edge is characteristic of:",
+   "opts": [
+    "Tuberculosis",
+    "Syphilis",
+    "Basal cell carcinoma",
+    "Squamous cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Tuberculosis (Book p549)"
+  },
+  {
+   "id": "SURG-C71-038",
+   "sec": "Ulcer Edges",
+   "page": 549,
+   "q": "A ROLLED OUT, pearly white ulcer edge indicates:",
+   "opts": [
+    "Basal cell carcinoma (rodent ulcer)",
+    "Squamous cell carcinoma",
+    "Tubercular ulcer",
+    "Venous ulcer"
+   ],
+   "ans": 0,
+   "exp": "Basal cell carcinoma (rodent ulcer) (Book p549)"
+  },
+  {
+   "id": "SURG-C71-039",
+   "sec": "Ulcer Edges",
+   "page": 549,
+   "q": "A RAISED, everted, cauliflower ulcer edge indicates:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Basal cell carcinoma",
+    "Tubercular ulcer",
+    "Arterial ulcer"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (Book p549)"
+  },
+  {
+   "id": "SURG-C71-040",
+   "sec": "Ulcer Edges",
+   "page": 549,
+   "q": "Bed sores typically show which ulcer edge:",
+   "opts": [
+    "Punched out",
+    "Sloping",
+    "Undermined",
+    "Everted"
+   ],
+   "ans": 0,
+   "exp": "Punched out (Book p549)"
+  },
+  {
+   "id": "SURG-C71-041",
+   "sec": "Ulcer Edges",
+   "page": 549,
+   "q": "Syphilitic ulcers typically show which edge:",
+   "opts": [
+    "Punched out",
+    "Sloping",
+    "Undermined",
+    "Rolled out pearly"
+   ],
+   "ans": 0,
+   "exp": "Punched out (Book p549)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U71-1",
+   "ch": 71,
+   "n": 1,
+   "title": "Ulcers: Definition and Comparison of Types",
+   "sec": "Ulcers: Definition and Comparison of Types · p547",
+   "qs": [
+    "SURG-C71-001",
+    "SURG-C71-002",
+    "SURG-C71-003",
+    "SURG-C71-004",
+    "SURG-C71-005",
+    "SURG-C71-006",
+    "SURG-C71-007",
+    "SURG-C71-008",
+    "SURG-C71-009",
+    "SURG-C71-010",
+    "SURG-C71-011",
+    "SURG-C71-012",
+    "SURG-C71-013",
+    "SURG-C71-014"
+   ],
+   "guide": "An ulcer is a breach in epithelial or mucosal continuity. Compare the four: venous ulcers sit in the gaiter area with normal pulsations, dilated veins, normal sensation and sloping margins; arterial ulcers on the dorsum/lateral side with absent pulsations, painful, punched out; trophic ulcers on the sole or base of the great toe with normal pulsations, reduced sensation and punched out margins; diabetic ulcers in the same site with possibly absent pulsations, reduced sensation and punched out margins."
+  },
+  {
+   "id": "SURG-U71-2",
+   "ch": 71,
+   "n": 2,
+   "title": "Varicose Ulcer and Marjolin's Ulcer",
+   "sec": "Varicose Ulcer and Marjolin's Ulcer · p547",
+   "qs": [
+    "SURG-C71-015",
+    "SURG-C71-016",
+    "SURG-C71-017",
+    "SURG-C71-018",
+    "SURG-C71-019",
+    "SURG-C71-020",
+    "SURG-C71-021",
+    "SURG-C71-022",
+    "SURG-C71-023"
+   ],
+   "guide": "A varicose ulcer sits m/c at the medial malleolus, shallow, with pale granulation tissue, a hemosiderin-pigmented margin, and does not heal. Marjolin's ulcer is a squamous cell cancer developing in a long standing venous ulcer or burn scar, with raised everted margins, treated by wide local excision — radiotherapy is contraindicated because of scarring and recurrence."
+  },
+  {
+   "id": "SURG-U71-3",
+   "ch": 71,
+   "n": 3,
+   "title": "Arterial, Trophic and Diabetic Ulcers",
+   "sec": "Arterial, Trophic and Diabetic Ulcers · p548",
+   "qs": [
+    "SURG-C71-024",
+    "SURG-C71-025",
+    "SURG-C71-026",
+    "SURG-C71-027",
+    "SURG-C71-028",
+    "SURG-C71-029",
+    "SURG-C71-030",
+    "SURG-C71-031",
+    "SURG-C71-032",
+    "SURG-C71-033",
+    "SURG-C71-034"
+   ],
+   "guide": "Arterial ulcers come with loss of muscle mass and hair and shiny skin. Trophic ulcers afflict paralyzed patients and diabetics. Diabetic ulcers stem from microangiopathy and hyperglycaemia and are staged: 1 inflammation without breach, 2 superficial ulcer, 3 deep ulcer, 4 ulcer with osteomyelitis. Stage 1 needs antibiotics, diabetic control and off loading; stages 2-3 add debridement and VAC dressings at -125 mmHg; stage 4 requires amputation."
+  },
+  {
+   "id": "SURG-U71-4",
+   "ch": 71,
+   "n": 4,
+   "title": "Ulcer Edges",
+   "sec": "Ulcer Edges · p549",
+   "qs": [
+    "SURG-C71-035",
+    "SURG-C71-036",
+    "SURG-C71-037",
+    "SURG-C71-038",
+    "SURG-C71-039",
+    "SURG-C71-040",
+    "SURG-C71-041"
+   ],
+   "guide": "Read the edge: sloping means healing or venous; punched out means arterial, neuropathic, bed sores or syphilis; undermined means tuberculosis; rolled out and pearly white means basal cell carcinoma (rodent ulcer); raised, everted and cauliflower-like means squamous cell carcinoma."
+  }
+ ]
+}
