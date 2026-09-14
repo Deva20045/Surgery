@@ -118,9 +118,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch27 Bowel Obstruction : Part 1 — p184-190 — **DONE (114 qs, 16 units)** 2026-09-14
 - [x] ch28 Bowel Obstruction : Part 2 — p191-196 — **DONE (94 qs, 14 units)** 2026-09-14
 - [x] ch29 Benign Conditions of Small and Large Bowel — p197-207 — **DONE (149 qs, 17 units)** 2026-09-14
-- [ ] ch30 Appendix — p208-217 — Soon
-- [ ] ch31 Colorectal Polyps and Cancer : Part 1 — p218-226 — Soon
-- [ ] ch32 Colorectal Polyps and Cancer : Part 2 — p227-232 — Soon
+- [x] ch30 Appendix — p208-217 — **DONE (150 qs, 6 units)** 2026-09-14
+- [x] ch31 Colorectal Polyps and Cancer : Part 1 — p218-226 — **DONE (129 qs, 8 units)** 2026-09-14
+- [x] ch32 Colorectal Polyps and Cancer : Part 2 — p227-232 — **DONE (111 qs, 8 units)** 2026-09-14
 - [ ] ch33 Rectum and Anal Canal — p233-244 — Soon
 - [ ] ch34 Liver : Part 1 — p245-252 — Soon
 - [ ] ch35 Liver : Part 2 — p253-259 — Soon
@@ -178,9 +178,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **29/72 chapters live** · Questions: 3139 · Units: 387
-- GitHub HTML: **synced at 29/72** (pushed 2026-09-14 after ch29)
-- NEXT: ch30 Appendix — p208-217 (v1c pdf 50-59)
+- Local HTML: **32/72 chapters live** · Questions: 3529 · Units: 409
+- GitHub HTML: **pending sync from arena/01a09e89-surgery PR**
+- NEXT: ch33 Rectum and Anal Canal — p233-244 (v1d p5-16)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).

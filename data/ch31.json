@@ -1,0 +1,2021 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C31-001",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "A colorectal polyp may present with all of the following EXCEPT:",
+   "opts": [
+    "Jaundice",
+    "Pain",
+    "Bleeding",
+    "Obstruction"
+   ],
+   "ans": 0,
+   "exp": "The page lists pain, bleeding, and obstruction as presentations of colorectal polyps; jaundice is not listed. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-002",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "Inflammatory polyps are also called:",
+   "opts": [
+    "Pseudopolyps",
+    "Tubular adenomas",
+    "Villous adenomas",
+    "Sessile serrated lesions"
+   ],
+   "ans": 0,
+   "exp": "Inflammatory polyp is equated with pseudopolyp on the page. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-003",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "Inflammatory pseudopolyps are classically seen in:",
+   "opts": [
+    "Ulcerative colitis",
+    "Crohn's disease alone",
+    "Diverticulosis",
+    "Familial adenomatous polyposis"
+   ],
+   "ans": 0,
+   "exp": "The chapter specifically notes inflammatory polyps in ulcerative colitis. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-004",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "Inflammatory polyps are considered:",
+   "opts": [
+    "Not premalignant",
+    "Always premalignant",
+    "Obligate precursors of carcinoma",
+    "Pathognomonic of FAP"
+   ],
+   "ans": 0,
+   "exp": "Inflammatory pseudopolyps are explicitly marked as not premalignant. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-005",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "The most common colorectal polyp mentioned in the chapter is:",
+   "opts": [
+    "Hyperplastic polyp",
+    "Villous adenoma",
+    "Juvenile polyp",
+    "Inflammatory polyp"
+   ],
+   "ans": 0,
+   "exp": "Hyperplastic polyps are labelled the most common colorectal polyp. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-006",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "Hyperplastic polyps are typically seen in the:",
+   "opts": [
+    "6th-7th decade",
+    "First decade",
+    "Teenage years",
+    "Third decade"
+   ],
+   "ans": 0,
+   "exp": "The age range given for hyperplastic polyps is the 6th-7th decade. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-007",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "The pathogenesis of hyperplastic polyps on the page is best summarized as:",
+   "opts": [
+    "Decreased epithelial turnover causing piling up of goblet cells and mucus secretion",
+    "Accelerated dysplasia with APC loss",
+    "Infective granuloma formation",
+    "Hamartomatous overgrowth with smooth muscle arborization"
+   ],
+   "ans": 0,
+   "exp": "Hyperplastic polyps are described as arising from decreased epithelial turnover with piling of goblet cells and increased mucus secretion. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-008",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "The investigation mentioned for hyperplastic polyps is:",
+   "opts": [
+    "Colonoscopy",
+    "Barium enema",
+    "MR fistulogram",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "The page lists colonoscopy as the diagnostic test for hyperplastic polyps. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-009",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "Symptomatic hyperplastic polyps are treated by:",
+   "opts": [
+    "Endoscopic resection",
+    "Total colectomy",
+    "Radiotherapy",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Management is endoscopic resection when hyperplastic polyps are symptomatic. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-010",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "page": 218,
+   "q": "Which of the following polyps on this page is not premalignant and most common in older adults?",
+   "opts": [
+    "Hyperplastic polyp",
+    "Villous adenoma",
+    "Peutz-Jeghers polyp",
+    "Juvenile polyposis"
+   ],
+   "ans": 0,
+   "exp": "Hyperplastic polyps are specifically described as common in the 6th-7th decade and not premalignant. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-011",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "A solitary juvenile polyp is usually:",
+   "opts": [
+    "Single and not premalignant",
+    "Multiple and premalignant",
+    "Associated with APC mutation",
+    "Treated by right hemicolectomy"
+   ],
+   "ans": 0,
+   "exp": "A single juvenile polyp is described as solitary and not premalignant. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-012",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "The screening investigation mentioned for a single juvenile polyp is:",
+   "opts": [
+    "Screening colonoscopy",
+    "Upper GI endoscopy",
+    "CECT abdomen",
+    "MRCP"
+   ],
+   "ans": 0,
+   "exp": "The page lists screening colonoscopy for diagnosis of a single juvenile polyp. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-013",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "Juvenile polyposis syndrome is characterized by:",
+   "opts": [
+    "Multiple juvenile polyps with SMAD4 mutation and premalignant potential",
+    "Single rectal polyp with no cancer risk",
+    "APC mutation with osteomas",
+    "PTEN mutation with lipomas"
+   ],
+   "ans": 0,
+   "exp": "Juvenile polyposis syndrome is multiple, linked to SMAD4, inherited as autosomal dominant, and premalignant. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-014",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "The mutation associated with juvenile polyposis syndrome is in:",
+   "opts": [
+    "SMAD4",
+    "MSH2",
+    "APC",
+    "PTEN"
+   ],
+   "ans": 0,
+   "exp": "Juvenile polyposis syndrome is linked with SMAD4 mutation on this page. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-015",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "Peutz-Jeghers syndrome is inherited as:",
+   "opts": [
+    "Autosomal dominant",
+    "Autosomal recessive",
+    "X-linked recessive",
+    "Mitochondrial"
+   ],
+   "ans": 0,
+   "exp": "The chapter describes Peutz-Jeghers syndrome as autosomal dominant. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-016",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "The gene mutation classically associated with Peutz-Jeghers syndrome is:",
+   "opts": [
+    "LKB1/STK11 on chromosome 19",
+    "PTEN on chromosome 10",
+    "APC on chromosome 5",
+    "MSH2 on chromosome 2"
+   ],
+   "ans": 0,
+   "exp": "Peutz-Jeghers syndrome is linked to LKB1/STK11 mutation on chromosome 19. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-017",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "The characteristic microscopic architecture of Peutz-Jeghers polyp is:",
+   "opts": [
+    "Arborizing tree-like pattern",
+    "Saw-tooth serration",
+    "Crypt abscess",
+    "Honeycomb cysts"
+   ],
+   "ans": 0,
+   "exp": "The page describes Peutz-Jeghers polyps as having an arborizing or tree-like pattern. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-018",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "The most common site of Peutz-Jeghers hamartomatous polyps is the:",
+   "opts": [
+    "Jejunum",
+    "Rectum",
+    "Caecum",
+    "Sigmoid colon"
+   ],
+   "ans": 0,
+   "exp": "The most common site is explicitly given as the jejunum. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-019",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "The pathognomonic sign of Peutz-Jeghers syndrome is:",
+   "opts": [
+    "Perioral melanosis",
+    "CHRPE",
+    "Aphthous ulcers",
+    "Koilonychia"
+   ],
+   "ans": 0,
+   "exp": "Perioral melanosis is specifically labelled pathognomonic for Peutz-Jeghers syndrome. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-020",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "page": 218,
+   "q": "Peutz-Jeghers syndrome is classified on this page as:",
+   "opts": [
+    "Premalignant",
+    "Not premalignant",
+    "Purely inflammatory",
+    "A vascular malformation"
+   ],
+   "ans": 0,
+   "exp": "The page marks Peutz-Jeghers syndrome as premalignant. (Book p218)"
+  },
+  {
+   "id": "SURG-C31-021",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "The most common clinical presentation of Peutz-Jeghers syndrome on this page is:",
+   "opts": [
+    "Intussusception",
+    "Painless jaundice",
+    "Hematemesis",
+    "Tenesmus"
+   ],
+   "ans": 0,
+   "exp": "The page lists intussusception, due to telescoping of bowel, as the common presentation. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-022",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Why does bowel obstruction occur in Peutz-Jeghers syndrome?",
+   "opts": [
+    "The polyp acts as a pathological lead point",
+    "The anus is stenosed",
+    "There is diffuse carcinomatosis",
+    "The bowel is denervated"
+   ],
+   "ans": 0,
+   "exp": "The chapter explains that the hamartomatous polyp acts as a pathological lead point, producing intussusception and obstruction. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-023",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Which malignancy risk is particularly emphasized in Peutz-Jeghers syndrome?",
+   "opts": [
+    "Pancreatic cancer",
+    "Glioma",
+    "Renal cell carcinoma",
+    "Hepatoblastoma"
+   ],
+   "ans": 0,
+   "exp": "Peutz-Jeghers syndrome is associated with a marked increase in pancreatic cancer risk, noted as about 100 times. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-024",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "The approximate increase in pancreatic cancer risk in Peutz-Jeghers syndrome is:",
+   "opts": [
+    "100 times",
+    "5 times",
+    "10 times",
+    "1000 times"
+   ],
+   "ans": 0,
+   "exp": "The page explicitly states pancreatic cancer risk is increased around 100 times in Peutz-Jeghers syndrome. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-025",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Other malignancies listed with Peutz-Jeghers syndrome include:",
+   "opts": [
+    "Thyroid and periampullary cancers",
+    "Glioma and medulloblastoma",
+    "Renal cell carcinoma and HCC",
+    "Rectal atresia and vestibular fistula"
+   ],
+   "ans": 0,
+   "exp": "The page adds thyroid cancer and periampullary cancer to the malignant associations of Peutz-Jeghers syndrome. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-026",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Cowden syndrome is associated with mutation of:",
+   "opts": [
+    "PTEN on chromosome 10",
+    "APC on chromosome 5",
+    "LKB1 on chromosome 19",
+    "SMAD4 on chromosome 18"
+   ],
+   "ans": 0,
+   "exp": "Cowden syndrome is linked with PTEN gene mutation on chromosome 10. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-027",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Cowden syndrome is best described as:",
+   "opts": [
+    "Autosomal dominant hamartomatous polyposis that is not premalignant",
+    "Autosomal recessive adenomatous polyposis",
+    "X-linked inflammatory polyposis",
+    "Sporadic rectal villous adenoma"
+   ],
+   "ans": 0,
+   "exp": "The syndrome is described as autosomal dominant, hamartomatous, and not premalignant. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-028",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "A characteristic cutaneous association of Cowden syndrome is:",
+   "opts": [
+    "Lipoma and ganglioneuromas",
+    "Sebaceous cyst and osteoma",
+    "Perioral melanosis",
+    "Sentinel pile"
+   ],
+   "ans": 0,
+   "exp": "The page lists lipoma and ganglioneuromas as skin lesions associated with Cowden syndrome. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-029",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Cowden syndrome increases the risk of all of the following EXCEPT:",
+   "opts": [
+    "Pancreatic cancer",
+    "Breast cancer",
+    "Thyroid cancer",
+    "Uterine cancer"
+   ],
+   "ans": 0,
+   "exp": "On this page Cowden syndrome is linked with breast, thyroid, and uterine cancer risk, not pancreatic cancer. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-030",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Bannayan-Riley-Ruvalcaba syndrome is associated with:",
+   "opts": [
+    "Multiple hamartomatous GI polyps and macrocephaly",
+    "Hundreds of adenomatous colonic polyps",
+    "Rectal bleeding with villous adenoma only",
+    "Microsatellite instability and Lynch I"
+   ],
+   "ans": 0,
+   "exp": "The chapter lists multiple hamartomatous GI polyps and macrocephaly in Bannayan-Riley-Ruvalcaba syndrome. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-031",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Which feature is specifically mentioned in Bannayan-Riley-Ruvalcaba syndrome?",
+   "opts": [
+    "Penile pigmentation",
+    "Perioral melanosis",
+    "CHRPE",
+    "Portal pyaemia"
+   ],
+   "ans": 0,
+   "exp": "Penile pigmentation is one of the listed features of Bannayan-Riley-Ruvalcaba syndrome. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-032",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Cronkhite-Canada syndrome is associated with all of the following EXCEPT:",
+   "opts": [
+    "Premalignant adenomatous polyposis",
+    "Multiple GI polyps",
+    "Ectodermal dysplasia",
+    "Alopecia"
+   ],
+   "ans": 0,
+   "exp": "Cronkhite-Canada syndrome is described as multiple GI polyps that are not premalignant, with ectodermal dysplasia and alopecia. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-033",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "page": 219,
+   "q": "Which nail change is mentioned with Cronkhite-Canada syndrome?",
+   "opts": [
+    "Koilonychia",
+    "Clubbing",
+    "Leukonychia",
+    "Beau lines"
+   ],
+   "ans": 0,
+   "exp": "Koilonychia is listed among the ectodermal associations of Cronkhite-Canada syndrome. (Book p219)"
+  },
+  {
+   "id": "SURG-C31-034",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "Adenomatous polyps are considered:",
+   "opts": [
+    "Premalignant",
+    "Never malignant",
+    "Purely inflammatory",
+    "Hamartomatous"
+   ],
+   "ans": 0,
+   "exp": "Adenomatous polyps are explicitly labeled premalignant. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-035",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "Which sequence correctly ranks adenomatous polyp types by malignant potential according to the chapter?",
+   "opts": [
+    "Villous > tubular",
+    "Tubular > villous",
+    "Tubulovillous > villous > tubular is not discussed",
+    "All have identical risk"
+   ],
+   "ans": 0,
+   "exp": "The page specifically states villous polyps have greater malignant risk than tubular polyps. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-036",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "What happens to malignant risk as the size of an adenomatous polyp increases?",
+   "opts": [
+    "Risk increases",
+    "Risk decreases",
+    "Risk disappears",
+    "Risk depends only on age"
+   ],
+   "ans": 0,
+   "exp": "The risk of malignant conversion rises as adenomatous polyps become larger. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-037",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "What happens to malignant risk as the number of adenomatous polyps increases?",
+   "opts": [
+    "Risk increases",
+    "Risk decreases",
+    "Risk stays unchanged",
+    "Risk depends only on site"
+   ],
+   "ans": 0,
+   "exp": "The page clearly notes that increasing polyp number also increases malignant risk. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-038",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "Which morphology has greater malignant potential in the chapter?",
+   "opts": [
+    "Sessile polyp",
+    "Pedunculated polyp",
+    "Both are equal",
+    "Mucosal tag"
+   ],
+   "ans": 0,
+   "exp": "The risk section states sessile lesions carry more risk than pedunculated ones. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-039",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "A villous polyp in a child most commonly occurs in the:",
+   "opts": [
+    "Rectum",
+    "Jejunum",
+    "Terminal ileum",
+    "Caecum"
+   ],
+   "ans": 0,
+   "exp": "The page notes that villous polyps in children are most commonly found in the rectum. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-040",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "A child with a rectal villous polyp producing mucus-rich bicarbonate loss is prone to:",
+   "opts": [
+    "Metabolic acidosis and hypokalemia",
+    "Metabolic alkalosis and hypernatremia",
+    "Hypercalcemia and constipation",
+    "Hypoglycemia and jaundice"
+   ],
+   "ans": 0,
+   "exp": "Villous polyps may secrete bicarbonate-rich mucus, leading to metabolic acidosis and hypokalemia. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-041",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "Clinical features of a villous polyp in a child include:",
+   "opts": [
+    "Bleeding and pain",
+    "Hematuria and dysuria",
+    "Jaundice and pruritus",
+    "Weight gain and constipation only"
+   ],
+   "ans": 0,
+   "exp": "The page lists bleeding and pain among the clinical features of villous polyps in children. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-042",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "The recommended treatment for villous polyp in the chapter is:",
+   "opts": [
+    "Endoscopic resection",
+    "Right hemicolectomy in all cases",
+    "Radiotherapy",
+    "Observation only"
+   ],
+   "ans": 0,
+   "exp": "Management of villous polyp on the page is endoscopic resection. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-043",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "A pedunculated colorectal polyp is resected endoscopically by:",
+   "opts": [
+    "Passing a snare around the polyp stalk",
+    "Injecting sclerosant into the stalk only",
+    "Applying a stapler from the anal verge",
+    "Performing APR"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows a pedunculated polyp removed by passing a snare around the stalk. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-044",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "In endoscopic mucosal resection of a non-pedunculated lesion, saline is injected to:",
+   "opts": [
+    "Lift the lesion away from the underlying muscular layer",
+    "Cause thrombosis of the lesion",
+    "Demonstrate lymphatic spread",
+    "Mark the caecum"
+   ],
+   "ans": 0,
+   "exp": "The diagram explains that saline injection raises the lesion and separates it from underlying muscle. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-045",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "After saline lift of a non-pedunculated polyp, the next step shown is:",
+   "opts": [
+    "Passing a diathermy snare over the raised lesion",
+    "Immediate APR",
+    "CT-guided biopsy",
+    "Rubber band ligation"
+   ],
+   "ans": 0,
+   "exp": "The resection sequence shown is identification, saline lift, diathermy snare, and complete excision. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-046",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "page": 220,
+   "q": "Which layer must be protected during endoscopic resection of a sessile lesion?",
+   "opts": [
+    "Muscularis propria",
+    "Falciform ligament",
+    "Taenia coli",
+    "Mesoappendix"
+   ],
+   "ans": 0,
+   "exp": "The saline-lift diagram emphasizes separation of the lesion from the underlying muscularis propria. (Book p220)"
+  },
+  {
+   "id": "SURG-C31-047",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "In Haggitt classification, invasion restricted to the head of a pedunculated polyp is:",
+   "opts": [
+    "Level 1",
+    "Level 2",
+    "Level 3",
+    "Level 4"
+   ],
+   "ans": 0,
+   "exp": "Haggitt level 1 means carcinoma is restricted to the head of a pedunculated polyp. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-048",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "In Haggitt classification, invasion into the neck of the polyp is:",
+   "opts": [
+    "Level 2",
+    "Level 1",
+    "Level 3",
+    "Level 4"
+   ],
+   "ans": 0,
+   "exp": "Haggitt level 2 indicates invasion into the neck of the polyp. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-049",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "In Haggitt classification, invasion into the stalk of a pedunculated polyp is:",
+   "opts": [
+    "Level 3",
+    "Level 1",
+    "Level 2",
+    "Level 4"
+   ],
+   "ans": 0,
+   "exp": "Haggitt level 3 indicates stalk invasion. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-050",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "In Haggitt classification, invasion into the submucosa is:",
+   "opts": [
+    "Level 4",
+    "Level 3",
+    "Level 2",
+    "Level 1"
+   ],
+   "ans": 0,
+   "exp": "Haggitt level 4 corresponds to invasion into submucosa beyond the stalk. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-051",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "According to the page, Haggitt level 1 and 2 lesions in a polyp can be treated by:",
+   "opts": [
+    "Endoscopic resection",
+    "APR",
+    "Chemoradiation",
+    "Total colectomy"
+   ],
+   "ans": 0,
+   "exp": "The note to the right of the figure states level 1 and 2 lesions are suitable for endoscopic resection. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-052",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "Cancer in a sessile polyp is considered equivalent to:",
+   "opts": [
+    "Level 4 disease",
+    "Level 1 disease",
+    "Level 2 disease",
+    "No invasion"
+   ],
+   "ans": 0,
+   "exp": "The page specifically says cancer in a sessile polyp corresponds to level 4. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-053",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "Why is cancer in a sessile polyp particularly concerning on this page?",
+   "opts": [
+    "It spreads faster",
+    "It never bleeds",
+    "It always stays intramucosal",
+    "It cannot be seen on colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "The note beside the figure states that cancer in a sessile polyp shows faster spread. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-054",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "The adenoma-carcinoma sequence is classically formulated by:",
+   "opts": [
+    "Vogelstein",
+    "Couinaud",
+    "Parks",
+    "Goodsall"
+   ],
+   "ans": 0,
+   "exp": "The page attributes the adenoma-carcinoma sequence to Vogelstein. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-055",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "The earliest major 'first hit' in the adenoma-carcinoma sequence on this page is loss of:",
+   "opts": [
+    "APC on chromosome 5",
+    "p53",
+    "SMAD4",
+    "MSH2"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows APC loss on chromosome 5 as the first hit producing early adenoma and dysplastic crypts. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-056",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "KRAS mutation in the adenoma-carcinoma sequence is associated with progression to:",
+   "opts": [
+    "Intermediate adenoma",
+    "Normal epithelium",
+    "Carcinoma in situ only",
+    "Hydatid cyst"
+   ],
+   "ans": 0,
+   "exp": "KRAS is placed at the stage of intermediate adenoma in the sequence. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-057",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "Loss of 18q with genes such as SMAD4 and CDC4 is associated with:",
+   "opts": [
+    "Late adenoma progression",
+    "Juvenile polyp formation",
+    "Anal fissure",
+    "Immediate metastatic spread"
+   ],
+   "ans": 0,
+   "exp": "The diagram places loss of 18q, SMAD4, and CDC4 later in the adenoma-carcinoma pathway before frank cancer. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-058",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "The final hit driving progression to carcinoma in the mnemonic AKS3 is loss of:",
+   "opts": [
+    "p53",
+    "PTEN",
+    "BRAF",
+    "CEA"
+   ],
+   "ans": 0,
+   "exp": "The page's mnemonic AKS3 stands for APC, KRAS, and p53 as the key progression events. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-059",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "Microsatellite instability pathway in colorectal carcinogenesis involves:",
+   "opts": [
+    "MMR gene inactivation and hypermethylation",
+    "Portal venous thrombosis",
+    "Pudendal nerve injury",
+    "HBV integration"
+   ],
+   "ans": 0,
+   "exp": "The figure separately highlights microsatellite instability through mismatch-repair gene inactivation and hypermethylation. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-060",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "page": 221,
+   "q": "Which signalling pathway is shown near the earliest dysplastic transformation in the adenoma-carcinoma sequence?",
+   "opts": [
+    "Wnt signalling",
+    "Hedgehog signalling",
+    "Notch only",
+    "VEGF pathway only"
+   ],
+   "ans": 0,
+   "exp": "The diagram marks Wnt signalling near the earliest APC-related dysplastic stage. (Book p221)"
+  },
+  {
+   "id": "SURG-C31-061",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "Familial adenomatous polyposis (FAP) is inherited as:",
+   "opts": [
+    "Autosomal dominant",
+    "Autosomal recessive",
+    "X-linked dominant",
+    "Mitochondrial"
+   ],
+   "ans": 0,
+   "exp": "FAP is described as an autosomal dominant disorder. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-062",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "The gene mutated in FAP is:",
+   "opts": [
+    "APC on chromosome 5",
+    "PTEN on chromosome 10",
+    "MSH2 on chromosome 2",
+    "STK11 on chromosome 19"
+   ],
+   "ans": 0,
+   "exp": "The FAP page identifies APC gene mutation on chromosome 5. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-063",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "The hallmark of FAP is:",
+   "opts": [
+    ">100 adenomatous polyps with nearly 100% colorectal cancer risk",
+    "A single rectal juvenile polyp",
+    "Only extracolonic tumours",
+    "Multiple pseudopolyps in UC"
+   ],
+   "ans": 0,
+   "exp": "FAP is defined on the page by more than 100 adenomatous polyps carrying a 100% risk of colorectal cancer. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-064",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "The most common site prominently mentioned in FAP is the:",
+   "opts": [
+    "Rectum",
+    "Jejunum",
+    "Anal canal",
+    "Appendix"
+   ],
+   "ans": 0,
+   "exp": "FAP most commonly involves the rectum, although the entire colon may be involved. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-065",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "A classic extraintestinal manifestation of FAP is:",
+   "opts": [
+    "Congenital hypertrophy of retinal pigment epithelium (CHRPE)",
+    "Perioral melanosis",
+    "Sentinel pile",
+    "Koilonychia"
+   ],
+   "ans": 0,
+   "exp": "The page specifically lists CHRPE as an extraintestinal manifestation of FAP. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-066",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "Gardner variant of FAP includes all EXCEPT:",
+   "opts": [
+    "Glioma",
+    "Osteoma",
+    "Sebaceous cyst",
+    "Desmoid tumour"
+   ],
+   "ans": 0,
+   "exp": "Gardner variant includes osteomas, sebaceous cysts and desmoid tumour; glioma belongs to Turcot variant. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-067",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "Turcot variant of FAP is associated with CNS tumours, especially:",
+   "opts": [
+    "Glioma",
+    "Meningioma",
+    "Pituitary adenoma",
+    "Acoustic neuroma"
+   ],
+   "ans": 0,
+   "exp": "Turcot variant is linked with CNS tumours, glioma being the most common on the page. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-068",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "Which childhood CNS tumour is also listed in Turcot variant?",
+   "opts": [
+    "Medulloblastoma",
+    "Ependymoma",
+    "Craniopharyngioma",
+    "Schwannoma"
+   ],
+   "ans": 0,
+   "exp": "The page adds medulloblastoma, especially in children, under Turcot variant. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-069",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "The definitive colorectal surgery shown for FAP is:",
+   "opts": [
+    "Total proctocolectomy with ileoanal pouch anastomosis",
+    "Right hemicolectomy",
+    "Sigmoidectomy",
+    "APR in every patient"
+   ],
+   "ans": 0,
+   "exp": "The management section recommends total proctocolectomy with ileoanal pouch anastomosis. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-070",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 222,
+   "q": "The anastomosis for FAP surgery on this page is done using a:",
+   "opts": [
+    "Circular stapler",
+    "Linear stapler only",
+    "Hand-sewn end ileostomy",
+    "Mesh ring"
+   ],
+   "ans": 0,
+   "exp": "The page specifically says the ileoanal pouch anastomosis is done with a circular stapler. (Book p222)"
+  },
+  {
+   "id": "SURG-C31-071",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "A first-degree relative of a patient with FAP should first undergo:",
+   "opts": [
+    "Genetic counselling and testing",
+    "Immediate colectomy",
+    "PET-CT",
+    "Only annual CEA"
+   ],
+   "ans": 0,
+   "exp": "The algorithm begins with genetic counselling and testing for first-degree relatives. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-072",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "If APC mutation is present in a first-degree relative of a patient with FAP, screening should begin at:",
+   "opts": [
+    "10 years",
+    "18 years",
+    "25 years",
+    "50 years"
+   ],
+   "ans": 0,
+   "exp": "The page directs APC-positive relatives to begin screening at 10 years. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-073",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "The recommended screening method for APC-positive children in FAP is:",
+   "opts": [
+    "Annual sigmoidoscopy",
+    "Annual colon capsule endoscopy",
+    "PET-CT every year",
+    "Barium enema"
+   ],
+   "ans": 0,
+   "exp": "Annual sigmoidoscopy is the surveillance test specified for APC-positive first-degree relatives. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-074",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "If polyps are found during surveillance in a genetically positive FAP relative, the next step is:",
+   "opts": [
+    "Surgery",
+    "Observation until age 18",
+    "Radiotherapy",
+    "Antibiotics"
+   ],
+   "ans": 0,
+   "exp": "The algorithm is straightforward: once polyps are present, surgery is advised. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-075",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "If no polyps appear until 18 years of age in an APC-positive FAP relative, the chapter advises:",
+   "opts": [
+    "Screen as the general population",
+    "Immediate prophylactic APR",
+    "Stop all surveillance permanently",
+    "Yearly PET-CT"
+   ],
+   "ans": 0,
+   "exp": "The flowchart says those without polyps until 18 years are thereafter screened like the general population. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-076",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "MUTYH-associated polyposis (MAP) is inherited as:",
+   "opts": [
+    "Autosomal recessive",
+    "Autosomal dominant",
+    "X-linked recessive",
+    "Sporadic only"
+   ],
+   "ans": 0,
+   "exp": "MAP is described on the page as autosomal recessive. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-077",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "Multiple colonic polyps with absent APC mutation should suggest:",
+   "opts": [
+    "MUTYH-associated polyposis",
+    "Peutz-Jeghers syndrome",
+    "Ulcerative colitis",
+    "Turcot syndrome"
+   ],
+   "ans": 0,
+   "exp": "The chapter specifically points out multiple polyps without APC mutation as a clue to MAP. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-078",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "Surveillance in MUTYH-associated polyposis is:",
+   "opts": [
+    "Colonoscopy every 2 years",
+    "Sigmoidoscopy once in 10 years",
+    "No follow-up required",
+    "Only ultrasound"
+   ],
+   "ans": 0,
+   "exp": "The follow-up schedule shown for MAP is 2-yearly colonoscopy. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-079",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "During follow-up of MAP, the clinician should also assess for:",
+   "opts": [
+    "Duodenal adenomas",
+    "Hydatid cysts",
+    "Varicose veins",
+    "Anorectal malformation"
+   ],
+   "ans": 0,
+   "exp": "The page explicitly instructs assessment for duodenal adenomas in MAP follow-up. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-080",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "HNPCC develops through an alternate pathway characterized by:",
+   "opts": [
+    "Microsatellite instability without a preceding polyp",
+    "Massive adenomatous polyposis",
+    "Portal pyaemia",
+    "Hyperplastic goblet cell piling"
+   ],
+   "ans": 0,
+   "exp": "The pathogenesis line describes HNPCC as microsatellite instability leading to cancer through an alternate pathway without polyp formation. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-081",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "The most common gene mutation listed in HNPCC is:",
+   "opts": [
+    "MSH2",
+    "APC",
+    "PTEN",
+    "SMAD4"
+   ],
+   "ans": 0,
+   "exp": "MSH2 is mentioned as the most common gene involved in HNPCC, with MLH1 also listed. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-082",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "Microsatellite instability in HNPCC is studied by the:",
+   "opts": [
+    "Bethesda classification",
+    "Montreal classification",
+    "Child-Pugh score",
+    "Hinchey staging"
+   ],
+   "ans": 0,
+   "exp": "The chapter states that microsatellite instability is studied using the Bethesda classification. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-083",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "Lynch I syndrome in HNPCC refers predominantly to:",
+   "opts": [
+    "Colonic cancer",
+    "Ovarian cancer",
+    "Pancreatic cancer",
+    "Thyroid cancer"
+   ],
+   "ans": 0,
+   "exp": "Lynch I is the colonic cancer form of HNPCC, with a risk given as about 60-70%. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-084",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "The most common extracolonic malignancy listed in Lynch II syndrome is:",
+   "opts": [
+    "Uterine cancer",
+    "Liver cancer",
+    "Bladder cancer",
+    "Medulloblastoma"
+   ],
+   "ans": 0,
+   "exp": "For Lynch II, the page specifically notes uterine cancer as the most common extracolonic malignancy. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-085",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "page": 223,
+   "q": "Which of the following is listed as an extracolonic cancer in Lynch II syndrome?",
+   "opts": [
+    "Ovarian cancer",
+    "Glioma",
+    "Breast cancer",
+    "Renal cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "The page lists ovarian cancer among the extracolonic malignancies seen in Lynch II syndrome. (Book p223)"
+  },
+  {
+   "id": "SURG-C31-086",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "One component of the modified Amsterdam criteria for HNPCC is:",
+   "opts": [
+    "Three or more HNPCC-related cancers in more than one generation",
+    "More than 100 adenomatous polyps",
+    "Perioral melanosis",
+    "Microsatellite stability"
+   ],
+   "ans": 0,
+   "exp": "The modified Amsterdam criteria include at least 3 HNPCC-related cancers across more than one generation. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-087",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "According to the modified Amsterdam criteria, one affected person should be a:",
+   "opts": [
+    "First-degree relative of the other two",
+    "Twin of the youngest patient",
+    "Male relative only",
+    "Second-degree relative of all affected members"
+   ],
+   "ans": 0,
+   "exp": "The criteria specify that one affected individual must be a first-degree relative of the other two. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-088",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Which age criterion is part of the modified Amsterdam criteria?",
+   "opts": [
+    "At least one HNPCC-related cancer diagnosed before 50 years",
+    "At least one diagnosed after 70 years",
+    "All cancers diagnosed in childhood",
+    "No age criterion exists"
+   ],
+   "ans": 0,
+   "exp": "The page includes one HNPCC-related cancer diagnosed before 50 years. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-089",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Which of the following must be excluded before diagnosing HNPCC by Amsterdam criteria?",
+   "opts": [
+    "Familial adenomatous polyposis",
+    "Ulcerative colitis",
+    "Crohn's disease",
+    "Hyperplastic polyposis"
+   ],
+   "ans": 0,
+   "exp": "Exclusion of familial adenomatous polyposis is one of the required Amsterdam criteria. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-090",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "The last requirement in the modified Amsterdam criteria is:",
+   "opts": [
+    "Histologically confirmed cancer",
+    "Positive AFP",
+    "CEA above 100",
+    "Presence of liver metastasis"
+   ],
+   "ans": 0,
+   "exp": "Histologic confirmation of cancer is specifically included in the criteria. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-091",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Compared with HNPCC, tumour initiation in FAP is:",
+   "opts": [
+    "Accelerated",
+    "Normal",
+    "Absent",
+    "Delayed by polyps"
+   ],
+   "ans": 0,
+   "exp": "The comparison table states tumour initiation is accelerated in FAP. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-092",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Compared with FAP, tumour progression in HNPCC is:",
+   "opts": [
+    "Accelerated",
+    "Normal",
+    "Impossible",
+    "Confined to the rectum"
+   ],
+   "ans": 0,
+   "exp": "Because HNPCC lacks a long polyp phase, tumour progression is shown as accelerated. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-093",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Which of the following is a risk factor for colorectal cancer listed on the page?",
+   "opts": [
+    "High-fat diet",
+    "Smoking cessation",
+    "Low-fibre stool softeners",
+    "Hyperthyroidism"
+   ],
+   "ans": 0,
+   "exp": "High-fat diet is among the colorectal cancer risk factors listed on the page. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-094",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Ureterosigmoid anastomosis is mentioned as:",
+   "opts": [
+    "An obsolete but very high-risk factor for colorectal cancer",
+    "A protective factor",
+    "A treatment for rectal prolapse",
+    "A cause of thrombosed piles"
+   ],
+   "ans": 0,
+   "exp": "The page notes ureterosigmoid anastomosis is obsolete but increases colorectal cancer risk by around 100 times. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-095",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Long-standing ulcerative colitis and Crohn's disease increase colorectal cancer risk because they are forms of:",
+   "opts": [
+    "Inflammatory bowel disease",
+    "Vascular disease",
+    "Congenital anomaly",
+    "Endocrine neoplasia"
+   ],
+   "ans": 0,
+   "exp": "Inflammatory bowel disease, especially long-standing UC and Crohn's disease, is listed as a colorectal cancer risk factor. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-096",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Which of the following is listed as protective against colorectal cancer?",
+   "opts": [
+    "NSAIDs",
+    "Red meat",
+    "Alcohol",
+    "Diverticular disease"
+   ],
+   "ans": 0,
+   "exp": "NSAIDs are specifically listed as protective factors on the page. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-097",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Which antidiabetic drug is mentioned as protective against colorectal cancer?",
+   "opts": [
+    "Metformin",
+    "Sulfonylurea",
+    "Acarbose",
+    "Insulin glargine"
+   ],
+   "ans": 0,
+   "exp": "Metformin is named among the protective factors for colorectal cancer. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-098",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Routine colorectal cancer screening in the general population begins at:",
+   "opts": [
+    "50 years",
+    "30 years",
+    "18 years",
+    "70 years"
+   ],
+   "ans": 0,
+   "exp": "The page gives 50 years as the screening age for colorectal cancer. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-099",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "In a person with family history, screening should start:",
+   "opts": [
+    "10 years before diagnosis of the youngest affected relative",
+    "At exactly the same age as the relative",
+    "Only after symptoms begin",
+    "At 70 years"
+   ],
+   "ans": 0,
+   "exp": "The page directs screening 10 years before the age at diagnosis of the youngest relative. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-100",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "The best screening investigation for colorectal cancer on this page is:",
+   "opts": [
+    "Colonoscopy",
+    "Sigmoidoscopy",
+    "FOBT alone",
+    "Virtual colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "Colonoscopy is explicitly labelled the best screening test. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-101",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Recommended interval for screening colonoscopy in average-risk individuals is:",
+   "opts": [
+    "Once in 10 years",
+    "Every year",
+    "Every 2 years",
+    "Once in 20 years"
+   ],
+   "ans": 0,
+   "exp": "The screening section states colonoscopy should be done once in 10 years. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-102",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Colonoscopy visualizes the bowel from:",
+   "opts": [
+    "Anal canal to caecum",
+    "Rectum to splenic flexure only",
+    "Ileocecal valve to terminal ileum only",
+    "Anal verge to dentate line only"
+   ],
+   "ans": 0,
+   "exp": "The page states colonoscopy visualizes the colon from the anal canal to the caecum. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-103",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "The length of colonoscope mentioned in the chapter is:",
+   "opts": [
+    "110-140 cm",
+    "10 cm",
+    "13 cm",
+    "60-90 cm"
+   ],
+   "ans": 0,
+   "exp": "The screening page lists the colonoscope length as 110-140 cm. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-104",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "Flexible sigmoidoscopy is recommended at what interval on this page?",
+   "opts": [
+    "Once in 5 years",
+    "Once in 10 years",
+    "Yearly",
+    "Every month"
+   ],
+   "ans": 0,
+   "exp": "Sigmoidoscopy is listed as a screening tool to be done once in 5 years. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-105",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "page": 224,
+   "q": "The visualized length of the sigmoidoscope is approximately:",
+   "opts": [
+    "60-90 cm",
+    "10 cm",
+    "13 cm",
+    "110-140 cm"
+   ],
+   "ans": 0,
+   "exp": "The page gives the visualized length of sigmoidoscopy as about 60-90 cm. (Book p224)"
+  },
+  {
+   "id": "SURG-C31-106",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "Fecal occult blood testing (FOBT) is recommended with what frequency on this page?",
+   "opts": [
+    "Yearly",
+    "Once in 10 years",
+    "Once in 5 years",
+    "Only when symptomatic"
+   ],
+   "ans": 0,
+   "exp": "The page lists fecal occult blood testing as a yearly screening modality. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-107",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "Virtual colonoscopy is essentially:",
+   "opts": [
+    "CECT with 3D reconstruction",
+    "MRI pelvis with endorectal coil",
+    "Capsule endoscopy",
+    "Barium enema only"
+   ],
+   "ans": 0,
+   "exp": "The chapter defines virtual colonoscopy as contrast-enhanced CT with 3D reconstruction. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-108",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "An advantage of virtual colonoscopy listed on the page is:",
+   "opts": [
+    "It is non-invasive and gives better extracolonic detail",
+    "It provides biopsy better than colonoscopy",
+    "It stages lymph nodes more accurately than PET-CT",
+    "It is therapeutic in obstruction"
+   ],
+   "ans": 0,
+   "exp": "Virtual colonoscopy is described as non-invasive and better for extra-colonic details. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-109",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "The most common site of colorectal cancer mentioned on the page is the:",
+   "opts": [
+    "Rectum",
+    "Caecum",
+    "Descending colon",
+    "Appendix"
+   ],
+   "ans": 0,
+   "exp": "The chapter states rectum is the most common site, followed by sigmoid colon. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-110",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "A right-sided colonic cancer most commonly appears as:",
+   "opts": [
+    "Ulceroproliferative or exophytic growth",
+    "Annular napkin-ring lesion",
+    "Diffuse mucosal prolapse",
+    "Circumferential fibrotic fistula"
+   ],
+   "ans": 0,
+   "exp": "Right-sided cancers are described as ulceroproliferative or exophytic lesions. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-111",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "Iron deficiency anemia is classically associated with:",
+   "opts": [
+    "Right-sided colonic cancer",
+    "Left-sided colonic cancer",
+    "Anal fissure",
+    "Thrombosed piles"
+   ],
+   "ans": 0,
+   "exp": "The chapter lists iron deficiency anemia under right-sided colonic cancers. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-112",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "Why does right-sided colon cancer tend to cause obstruction later?",
+   "opts": [
+    "Fecal matter is more liquid on the right side",
+    "Right colon has no lymphatics",
+    "It never encircles the lumen",
+    "The caecum is fixed"
+   ],
+   "ans": 0,
+   "exp": "The page explains delayed obstruction on the right by the liquid consistency of fecal matter. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-113",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "A left-sided colonic cancer often produces which lesion?",
+   "opts": [
+    "Annular apple-core or napkin-ring lesion",
+    "Exophytic cauliflower mass only",
+    "Flask-shaped ulcer",
+    "Water-lily sign"
+   ],
+   "ans": 0,
+   "exp": "Left-sided cancers are classically constricting and are described as annular, apple-core, or napkin-ring lesions. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-114",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "Altered bowel habits with early obstruction is more typical of:",
+   "opts": [
+    "Left-sided colonic cancer",
+    "Right-sided colonic cancer",
+    "Single juvenile polyp",
+    "Crohn's ileitis"
+   ],
+   "ans": 0,
+   "exp": "Because left-sided cancers are constricting, they tend to produce alteration in bowel habits and obstruction early. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-115",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "The investigation of choice for confirming colorectal cancer is:",
+   "opts": [
+    "Colonoscopic biopsy",
+    "FOBT",
+    "CEA",
+    "USG abdomen"
+   ],
+   "ans": 0,
+   "exp": "The page labels colonoscopic biopsy as the investigation of choice. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-116",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "PET-CT in colorectal cancer is mainly used for:",
+   "opts": [
+    "Overall staging",
+    "Detecting hemorrhoids",
+    "Diagnosing fissure",
+    "Assessing rectal prolapse"
+   ],
+   "ans": 0,
+   "exp": "PET-CT is listed as the study for overall staging. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-117",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "MRI with an endorectal coil is specifically used for:",
+   "opts": [
+    "T and N staging of rectal cancer",
+    "Diagnosing right colon cancer",
+    "Screening asymptomatic FAP",
+    "Detecting colonic diverticulosis"
+   ],
+   "ans": 0,
+   "exp": "The chapter specifies MRI with endorectal coil for T and N staging of rectal cancer. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-118",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "The tumour marker used in colorectal cancer is:",
+   "opts": [
+    "CEA",
+    "AFP",
+    "CA-125",
+    "PIVKA"
+   ],
+   "ans": 0,
+   "exp": "CEA is the tumour marker listed for colorectal cancer. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-119",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 225,
+   "q": "The most common site of distant spread of colorectal cancer is the:",
+   "opts": [
+    "Liver",
+    "Lung",
+    "Brain",
+    "Bone marrow"
+   ],
+   "ans": 0,
+   "exp": "The spread section states liver is the most common site of distant spread. (Book p225)"
+  },
+  {
+   "id": "SURG-C31-120",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "In TNM staging of colorectal cancer, T1 means tumour invades the:",
+   "opts": [
+    "Submucosa",
+    "Mucosa only",
+    "Muscularis propria",
+    "Adjacent structures"
+   ],
+   "ans": 0,
+   "exp": "The TNM page defines T1 as tumour invading the submucosa. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-121",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "In TNM staging of colorectal cancer, T2 means tumour invades the:",
+   "opts": [
+    "Muscularis propria",
+    "Submucosa",
+    "Serosa only",
+    "Adjacent structures"
+   ],
+   "ans": 0,
+   "exp": "T2 is defined as tumour invading the muscularis propria. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-122",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "In TNM staging of colorectal cancer, T3 means tumour:",
+   "opts": [
+    "Passes through the muscularis propria",
+    "Invades adjacent structures",
+    "Is carcinoma in situ",
+    "Has no tumour"
+   ],
+   "ans": 0,
+   "exp": "The page describes T3 as tumour extending through the muscularis propria. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-123",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "In TNM staging, T4 colorectal cancer invades:",
+   "opts": [
+    "Adjacent structures",
+    "Only muscularis mucosa",
+    "Submucosa only",
+    "No tissue at all"
+   ],
+   "ans": 0,
+   "exp": "T4 is defined on the page as tumour invading adjacent structures. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-124",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "For adequate nodal assessment in colorectal cancer, at least how many lymph nodes should be removed?",
+   "opts": [
+    "12",
+    "6",
+    "20",
+    "2"
+   ],
+   "ans": 0,
+   "exp": "The page specifies a minimum of 12 lymph nodes should be removed. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-125",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "Duke's/modified Astler-Coller stage B1 corresponds to tumour extending:",
+   "opts": [
+    "Into the muscle layer",
+    "Beyond the muscle layer",
+    "With distant metastasis",
+    "Only in mucosa and submucosa"
+   ],
+   "ans": 0,
+   "exp": "In the table, B1 means the tumour has reached into the muscle layer. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-126",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "Duke's/modified Astler-Coller stage B2 corresponds to tumour extending:",
+   "opts": [
+    "Beyond the muscle layer",
+    "Only into submucosa",
+    "With lymph node metastasis only",
+    "With distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "B2 is defined as tumour beyond the muscle layer. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-127",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "Duke's/modified Astler-Coller stage C1 means:",
+   "opts": [
+    "B1 lesion with positive lymph nodes",
+    "B2 lesion with positive lymph nodes",
+    "Distant metastasis",
+    "Only mucosa involved"
+   ],
+   "ans": 0,
+   "exp": "The table shows C1 as B1 plus lymph node involvement. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-128",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "Duke's/modified Astler-Coller stage C2 means:",
+   "opts": [
+    "B2 lesion with positive lymph nodes",
+    "B1 lesion with positive nodes",
+    "Stage with distant metastasis",
+    "Tumour confined to mucosa"
+   ],
+   "ans": 0,
+   "exp": "C2 is the B2 lesion with lymph node positivity. (Book p226)"
+  },
+  {
+   "id": "SURG-C31-129",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "page": 226,
+   "q": "Duke's/modified Astler-Coller stage D indicates:",
+   "opts": [
+    "Distant metastasis",
+    "Tumour into muscle only",
+    "Only nodal disease",
+    "Only submucosal disease"
+   ],
+   "ans": 0,
+   "exp": "Stage D in the table denotes distant metastasis. (Book p226)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U31-1",
+   "ch": 31,
+   "n": 1,
+   "title": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps",
+   "sec": "Colorectal Polyps: Presentation, Inflammatory Polyps and Hyperplastic Polyps · p218",
+   "qs": [
+    "SURG-C31-001",
+    "SURG-C31-002",
+    "SURG-C31-003",
+    "SURG-C31-004",
+    "SURG-C31-005",
+    "SURG-C31-006",
+    "SURG-C31-007",
+    "SURG-C31-008",
+    "SURG-C31-009",
+    "SURG-C31-010"
+   ],
+   "guide": "Start with the simple polyps and make them separate in your head: inflammatory pseudopolyps belong to ulcerative colitis and are not premalignant, while hyperplastic polyps are the common late-life, mucus-rich lesions with reduced epithelial turnover. They matter because you must not confuse frequency with malignancy risk."
+  },
+  {
+   "id": "SURG-U31-2",
+   "ch": 31,
+   "n": 2,
+   "title": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome",
+   "sec": "Hamartomatous Polyps: Juvenile Polyps, Juvenile Polyposis and Peutz-Jeghers Syndrome · p218",
+   "qs": [
+    "SURG-C31-011",
+    "SURG-C31-012",
+    "SURG-C31-013",
+    "SURG-C31-014",
+    "SURG-C31-015",
+    "SURG-C31-016",
+    "SURG-C31-017",
+    "SURG-C31-018",
+    "SURG-C31-019",
+    "SURG-C31-020"
+   ],
+   "guide": "Hamartomatous lesions split into benign and premalignant syndromes. A solitary juvenile polyp is usually innocent, juvenile polyposis is SMAD4-driven and premalignant, and Peutz-Jeghers is the classic STK11 syndrome with jejunal arborizing polyps and perioral melanosis."
+  },
+  {
+   "id": "SURG-U31-3",
+   "ch": 31,
+   "n": 3,
+   "title": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada",
+   "sec": "Hamartomatous Syndromes: Complications, Cowden Syndrome, Bannayan-Riley-Ruvalcaba and Cronkhite-Canada · p219",
+   "qs": [
+    "SURG-C31-021",
+    "SURG-C31-022",
+    "SURG-C31-023",
+    "SURG-C31-024",
+    "SURG-C31-025",
+    "SURG-C31-026",
+    "SURG-C31-027",
+    "SURG-C31-028",
+    "SURG-C31-029",
+    "SURG-C31-030",
+    "SURG-C31-031",
+    "SURG-C31-032",
+    "SURG-C31-033"
+   ],
+   "guide": "Peutz-Jeghers does not stay theoretical - it intussuscepts, bleeds and predisposes to pancreatic and periampullary malignancy. Then come the other hamartomatous syndromes: PTEN-based Cowden, macrocephalic Bannayan-Riley-Ruvalcaba, and ectodermal Cronkhite-Canada."
+  },
+  {
+   "id": "SURG-U31-4",
+   "ch": 31,
+   "n": 4,
+   "title": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection",
+   "sec": "Adenomatous Polyps: Types, Malignant Potential and Endoscopic Resection · p220",
+   "qs": [
+    "SURG-C31-034",
+    "SURG-C31-035",
+    "SURG-C31-036",
+    "SURG-C31-037",
+    "SURG-C31-038",
+    "SURG-C31-039",
+    "SURG-C31-040",
+    "SURG-C31-041",
+    "SURG-C31-042",
+    "SURG-C31-043",
+    "SURG-C31-044",
+    "SURG-C31-045",
+    "SURG-C31-046"
+   ],
+   "guide": "Adenomatous polyps are where cancer risk starts to rise in a structured way: bigger, more numerous, villous and sessile means worse. Endoscopic treatment also differs by shape - stalked lesions are snared, while flat ones are lifted off muscle with saline before diathermy excision."
+  },
+  {
+   "id": "SURG-U31-5",
+   "ch": 31,
+   "n": 5,
+   "title": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence",
+   "sec": "Cancer in a Polyp and the Adenoma-Carcinoma Sequence · p221",
+   "qs": [
+    "SURG-C31-047",
+    "SURG-C31-048",
+    "SURG-C31-049",
+    "SURG-C31-050",
+    "SURG-C31-051",
+    "SURG-C31-052",
+    "SURG-C31-053",
+    "SURG-C31-054",
+    "SURG-C31-055",
+    "SURG-C31-056",
+    "SURG-C31-057",
+    "SURG-C31-058",
+    "SURG-C31-059",
+    "SURG-C31-060"
+   ],
+   "guide": "Cancer in a polyp is staged by depth. Haggitt levels tell you when endoscopic therapy is enough and when submucosal spread changes the game, especially in sessile lesions. Behind this lies Vogelstein's adenoma-carcinoma sequence - APC first, KRAS next, p53 late - with a parallel microsatellite instability pathway."
+  },
+  {
+   "id": "SURG-U31-6",
+   "ch": 31,
+   "n": 6,
+   "title": "Familial Adenomatous Polyposis, MAP and HNPCC",
+   "sec": "Familial Adenomatous Polyposis, MAP and HNPCC · p222",
+   "qs": [
+    "SURG-C31-061",
+    "SURG-C31-062",
+    "SURG-C31-063",
+    "SURG-C31-064",
+    "SURG-C31-065",
+    "SURG-C31-066",
+    "SURG-C31-067",
+    "SURG-C31-068",
+    "SURG-C31-069",
+    "SURG-C31-070",
+    "SURG-C31-071",
+    "SURG-C31-072",
+    "SURG-C31-073",
+    "SURG-C31-074",
+    "SURG-C31-075",
+    "SURG-C31-076",
+    "SURG-C31-077",
+    "SURG-C31-078",
+    "SURG-C31-079",
+    "SURG-C31-080",
+    "SURG-C31-081",
+    "SURG-C31-082",
+    "SURG-C31-083",
+    "SURG-C31-084",
+    "SURG-C31-085"
+   ],
+   "guide": "FAP is APC-driven, rectum-heavy, CHRPE-associated, and cancer-prone enough to justify total proctocolectomy with ileoanal pouch. Know Gardner and Turcot variants, the screening algorithm for relatives, how MAP differs by inheritance, and how HNPCC/Lynch bypasses the polyp phase through mismatch-repair failure."
+  },
+  {
+   "id": "SURG-U31-7",
+   "ch": 31,
+   "n": 7,
+   "title": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening",
+   "sec": "Amsterdam Criteria, FAP versus HNPCC, Risk Factors and Screening · p224",
+   "qs": [
+    "SURG-C31-086",
+    "SURG-C31-087",
+    "SURG-C31-088",
+    "SURG-C31-089",
+    "SURG-C31-090",
+    "SURG-C31-091",
+    "SURG-C31-092",
+    "SURG-C31-093",
+    "SURG-C31-094",
+    "SURG-C31-095",
+    "SURG-C31-096",
+    "SURG-C31-097",
+    "SURG-C31-098",
+    "SURG-C31-099",
+    "SURG-C31-100",
+    "SURG-C31-101",
+    "SURG-C31-102",
+    "SURG-C31-103",
+    "SURG-C31-104",
+    "SURG-C31-105"
+   ],
+   "guide": "Amsterdam criteria and the FAP-versus-HNPCC table turn genetics into clinic. Then zoom out to population medicine: alcohol, red meat, IBD and obsolete ureterosigmoidostomy raise colorectal cancer risk, whereas NSAIDs and metformin protect. Colonoscopy is the best screen, but the exam loves intervals, ages, and scope lengths."
+  },
+  {
+   "id": "SURG-U31-8",
+   "ch": 31,
+   "n": 8,
+   "title": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer",
+   "sec": "Clinical Features, Investigations, Spread and Staging of Colorectal Cancer · p225",
+   "qs": [
+    "SURG-C31-106",
+    "SURG-C31-107",
+    "SURG-C31-108",
+    "SURG-C31-109",
+    "SURG-C31-110",
+    "SURG-C31-111",
+    "SURG-C31-112",
+    "SURG-C31-113",
+    "SURG-C31-114",
+    "SURG-C31-115",
+    "SURG-C31-116",
+    "SURG-C31-117",
+    "SURG-C31-118",
+    "SURG-C31-119",
+    "SURG-C31-120",
+    "SURG-C31-121",
+    "SURG-C31-122",
+    "SURG-C31-123",
+    "SURG-C31-124",
+    "SURG-C31-125",
+    "SURG-C31-126",
+    "SURG-C31-127",
+    "SURG-C31-128",
+    "SURG-C31-129"
+   ],
+   "guide": "Finish with how cancers behave. Rectum leads the site list, right-sided tumors bleed and cause anemia before obstructing, left-sided tumors constrict early, and colonoscopic biopsy is the diagnostic anchor. Then stage them with TNM and Duke's/Astler-Coller so treatment decisions make anatomical sense."
+  }
+ ]
+}
