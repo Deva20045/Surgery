@@ -1,0 +1,2936 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C66-001",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity",
+   "page": 509,
+   "q": "M/c oral and oropharyngeal carcinoma:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Melanoma",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (Book p509)"
+  },
+  {
+   "id": "SURG-C66-002",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity",
+   "page": 509,
+   "q": "Staining of keratin pearls:",
+   "opts": [
+    "Eosinophilic",
+    "Basophilic",
+    "Amphophilic",
+    "Non-staining"
+   ],
+   "ans": 0,
+   "exp": "Eosinophilic (Book p509)"
+  },
+  {
+   "id": "SURG-C66-003",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity",
+   "page": 509,
+   "q": "Well differentiated tumors show:",
+   "opts": [
+    "Increased number of keratin pearls",
+    "Decreased keratin pearls",
+    "No keratin pearls",
+    "Only mucin"
+   ],
+   "ans": 0,
+   "exp": "Increased number of keratin pearls (Book p509)"
+  },
+  {
+   "id": "SURG-C66-004",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity",
+   "page": 509,
+   "q": "Poorly differentiated tumors show:",
+   "opts": [
+    "Decreased number of keratin pearls",
+    "Increased keratin pearls",
+    "Abundant keratin",
+    "Only keratin"
+   ],
+   "ans": 0,
+   "exp": "Decreased number of keratin pearls (Book p509)"
+  },
+  {
+   "id": "SURG-C66-005",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity",
+   "page": 509,
+   "q": "M/c gene mutation in oral cancers:",
+   "opts": [
+    "p53",
+    "KRAS",
+    "BRCA1",
+    "APC"
+   ],
+   "ans": 0,
+   "exp": "p53 (Book p509)"
+  },
+  {
+   "id": "SURG-C66-006",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity",
+   "page": 509,
+   "q": "M/c site of oral cancer in INDIA:",
+   "opts": [
+    "Buccal mucosa / gingivo buccal sulcus",
+    "Lateral border of tongue",
+    "Hard palate",
+    "Floor of mouth"
+   ],
+   "ans": 0,
+   "exp": "Buccal mucosa / gingivo buccal sulcus (Book p509)"
+  },
+  {
+   "id": "SURG-C66-007",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity",
+   "page": 509,
+   "q": "M/c site of oral cancer WORLDWIDE:",
+   "opts": [
+    "Lateral border of tongue",
+    "Buccal mucosa",
+    "Gingivo buccal sulcus",
+    "Lip"
+   ],
+   "ans": 0,
+   "exp": "Lateral border of tongue (Book p509)"
+  },
+  {
+   "id": "SURG-C66-008",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "Risk factors for oral cancer include all EXCEPT:",
+   "opts": [
+    "Dental flossing",
+    "Smoking",
+    "Alcohol",
+    "Betel quid"
+   ],
+   "ans": 0,
+   "exp": "Dental flossing (Book p509)"
+  },
+  {
+   "id": "SURG-C66-009",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "Mechanical risk factor for oral cancer:",
+   "opts": [
+    "Sharp, ill fitting dentures",
+    "Soft toothbrush",
+    "Dental floss",
+    "Mouthwash"
+   ],
+   "ans": 0,
+   "exp": "Sharp, ill fitting dentures (Book p509)"
+  },
+  {
+   "id": "SURG-C66-010",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "Immune-related risk factor for oral cancer:",
+   "opts": [
+    "Immunosuppression",
+    "Hyperthyroidism",
+    "Diabetes insipidus",
+    "Anaemia"
+   ],
+   "ans": 0,
+   "exp": "Immunosuppression (Book p509)"
+  },
+  {
+   "id": "SURG-C66-011",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "Chronic fungal infection predisposing to oral cancer:",
+   "opts": [
+    "Hyperplastic candidiasis",
+    "Oral thrush only",
+    "Aspergillosis",
+    "Mucormycosis"
+   ],
+   "ans": 0,
+   "exp": "Hyperplastic candidiasis (Book p509)"
+  },
+  {
+   "id": "SURG-C66-012",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "EBV is associated with:",
+   "opts": [
+    "Nasopharyngeal carcinoma",
+    "Oral SCC",
+    "Lip carcinoma",
+    "Tongue carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Nasopharyngeal carcinoma (Book p509)"
+  },
+  {
+   "id": "SURG-C66-013",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "Percentage of oral SCC associated with HPV:",
+   "opts": [
+    "5%",
+    "50%",
+    "70%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "5% (Book p509)"
+  },
+  {
+   "id": "SURG-C66-014",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "Percentage of oropharyngeal SCC associated with HPV:",
+   "opts": [
+    "50-70%",
+    "5%",
+    "10%",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "50-70% (Book p509)"
+  },
+  {
+   "id": "SURG-C66-015",
+   "sec": "Risk Factors for Oral Cancer",
+   "page": 509,
+   "q": "Prognosis of HPV-associated oropharyngeal SCC:",
+   "opts": [
+    "Better prognosis",
+    "Worse prognosis",
+    "Same prognosis",
+    "Always fatal"
+   ],
+   "ans": 0,
+   "exp": "Better prognosis (Book p509)"
+  },
+  {
+   "id": "SURG-C66-016",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "page": 509,
+   "q": "HIGH risk pre-malignant lesions include:",
+   "opts": [
+    "Erythroplakia, proliferative verrucous leukoplakia and chronic hyperplastic candidiasis",
+    "Oral submucous fibrosis and syphilitic glossitis",
+    "Oral lichen planus and DLE",
+    "Ranula and mucocele"
+   ],
+   "ans": 0,
+   "exp": "Erythroplakia, proliferative verrucous leukoplakia and chronic hyperplastic candidiasis (Book p509)"
+  },
+  {
+   "id": "SURG-C66-017",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "page": 509,
+   "q": "MEDIUM risk pre-malignant lesions:",
+   "opts": [
+    "Oral submucous fibrosis and syphilitic glossitis",
+    "Erythroplakia and leukoplakia",
+    "Oral lichen planus and DLE",
+    "Candidiasis"
+   ],
+   "ans": 0,
+   "exp": "Oral submucous fibrosis and syphilitic glossitis (Book p509)"
+  },
+  {
+   "id": "SURG-C66-018",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "page": 509,
+   "q": "LOW risk pre-malignant lesions:",
+   "opts": [
+    "Oral lichen planus and DLE",
+    "Erythroplakia",
+    "Oral submucous fibrosis",
+    "Chronic hyperplastic candidiasis"
+   ],
+   "ans": 0,
+   "exp": "Oral lichen planus and DLE (Book p509)"
+  },
+  {
+   "id": "SURG-C66-019",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "page": 509,
+   "q": "Verrucous carcinoma is also called:",
+   "opts": [
+    "Ackerman tumor",
+    "Buschke-Lowenstein tumor",
+    "Warthin tumor",
+    "Ameloblastoma"
+   ],
+   "ans": 0,
+   "exp": "Ackerman tumor (Book p509)"
+  },
+  {
+   "id": "SURG-C66-020",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "page": 509,
+   "q": "Verrucous carcinoma is a variant of:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Basal cell carcinoma",
+    "Melanoma"
+   ],
+   "ans": 0,
+   "exp": "Squamous cell carcinoma (Book p509)"
+  },
+  {
+   "id": "SURG-C66-021",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "page": 509,
+   "q": "Viral association of verrucous carcinoma:",
+   "opts": [
+    "HPV positive",
+    "EBV positive",
+    "CMV positive",
+    "HIV positive"
+   ],
+   "ans": 0,
+   "exp": "HPV positive (Book p509)"
+  },
+  {
+   "id": "SURG-C66-022",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "page": 509,
+   "q": "Growth pattern of verrucous carcinoma:",
+   "opts": [
+    "Outward growth, slow growing",
+    "Deeply invasive, rapidly growing",
+    "Ulcerative, rapid",
+    "Metastatic at presentation"
+   ],
+   "ans": 0,
+   "exp": "Outward growth, slow growing (Book p509)"
+  },
+  {
+   "id": "SURG-C66-023",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Prognosis of verrucous carcinoma:",
+   "opts": [
+    "Good",
+    "Poor",
+    "Uniformly fatal",
+    "Unpredictable"
+   ],
+   "ans": 0,
+   "exp": "Good (Book p510)"
+  },
+  {
+   "id": "SURG-C66-024",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Verrucous variant of penile carcinoma:",
+   "opts": [
+    "Buschke-Lowenstein tumor",
+    "Ackerman tumor",
+    "Marjolin's ulcer",
+    "Bowen's disease"
+   ],
+   "ans": 0,
+   "exp": "Buschke-Lowenstein tumor (Book p510)"
+  },
+  {
+   "id": "SURG-C66-025",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Behaviour of Buschke-Lowenstein tumor:",
+   "opts": [
+    "Slow growing with better prognosis",
+    "Rapidly growing with poor prognosis",
+    "Always metastatic",
+    "Benign without recurrence"
+   ],
+   "ans": 0,
+   "exp": "Slow growing with better prognosis (Book p510)"
+  },
+  {
+   "id": "SURG-C66-026",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Common feature of leukoplakia and candidiasis:",
+   "opts": [
+    "White patches",
+    "Red patches",
+    "Ulceration",
+    "Pigmentation"
+   ],
+   "ans": 0,
+   "exp": "White patches (Book p510)"
+  },
+  {
+   "id": "SURG-C66-027",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Definition of leukoplakia:",
+   "opts": [
+    "A white patch not characterized as any other condition",
+    "A red patch that can be rubbed off",
+    "An ulcer with everted edges",
+    "A white patch that rubs off"
+   ],
+   "ans": 0,
+   "exp": "A white patch not characterized as any other condition (Book p510)"
+  },
+  {
+   "id": "SURG-C66-028",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Key clinical distinguishing feature of leukoplakia:",
+   "opts": [
+    "Cannot be rubbed off",
+    "Can be rubbed off",
+    "Painful",
+    "Bleeds on touch"
+   ],
+   "ans": 0,
+   "exp": "Cannot be rubbed off (Book p510)"
+  },
+  {
+   "id": "SURG-C66-029",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Increase in cancer risk with leukoplakia:",
+   "opts": [
+    "3-5 times",
+    "6-9 times",
+    "10-20 times",
+    "No increase"
+   ],
+   "ans": 0,
+   "exp": "3-5 times (Book p510)"
+  },
+  {
+   "id": "SURG-C66-030",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Management of leukoplakia:",
+   "opts": [
+    "Eliminate risk factors, antioxidants and excision",
+    "Radiotherapy",
+    "Chemotherapy",
+    "Antifungals"
+   ],
+   "ans": 0,
+   "exp": "Eliminate risk factors, antioxidants and excision (Book p510)"
+  },
+  {
+   "id": "SURG-C66-031",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Modalities used for excision of leukoplakia:",
+   "opts": [
+    "CO2 laser and cautery",
+    "Cryotherapy and radiotherapy",
+    "Sclerotherapy",
+    "Embolisation"
+   ],
+   "ans": 0,
+   "exp": "CO2 laser and cautery (Book p510)"
+  },
+  {
+   "id": "SURG-C66-032",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Proliferative verrucous leukoplakia is:",
+   "opts": [
+    "Multifocal with usually no typical risk factors",
+    "Unifocal with strong smoking history",
+    "Always associated with alcohol",
+    "Never premalignant"
+   ],
+   "ans": 0,
+   "exp": "Multifocal with usually no typical risk factors (Book p510)"
+  },
+  {
+   "id": "SURG-C66-033",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Cancerous conversion rate of proliferative verrucous leukoplakia:",
+   "opts": [
+    "High",
+    "Low",
+    "Nil",
+    "Same as normal mucosa"
+   ],
+   "ans": 0,
+   "exp": "High (Book p510)"
+  },
+  {
+   "id": "SURG-C66-034",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Management of proliferative verrucous leukoplakia:",
+   "opts": [
+    "Excision at the earliest",
+    "Observation",
+    "Antifungals",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Excision at the earliest (Book p510)"
+  },
+  {
+   "id": "SURG-C66-035",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Speckled leukoplakia is:",
+   "opts": [
+    "Leukoplakia surrounded by a reddish border",
+    "Leukoplakia with a black border",
+    "Multifocal white plaques",
+    "Depigmented patch"
+   ],
+   "ans": 0,
+   "exp": "Leukoplakia surrounded by a reddish border (Book p510)"
+  },
+  {
+   "id": "SURG-C66-036",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "page": 510,
+   "q": "Management of speckled leukoplakia:",
+   "opts": [
+    "Excision",
+    "Observation",
+    "Antifungals",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Excision (Book p510)"
+  },
+  {
+   "id": "SURG-C66-037",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Key feature distinguishing hyperplastic candidiasis from leukoplakia:",
+   "opts": [
+    "Can be rubbed off",
+    "Cannot be rubbed off",
+    "Is painless",
+    "Is always malignant"
+   ],
+   "ans": 0,
+   "exp": "Can be rubbed off (Book p510)"
+  },
+  {
+   "id": "SURG-C66-038",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Border of hyperplastic candidiasis:",
+   "opts": [
+    "Reddish border",
+    "Black border",
+    "Pigmented border",
+    "No border"
+   ],
+   "ans": 0,
+   "exp": "Reddish border (Book p510)"
+  },
+  {
+   "id": "SURG-C66-039",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Malignant potential of hyperplastic candidiasis:",
+   "opts": [
+    "Increased risk of malignancy",
+    "No risk",
+    "Protective",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "Increased risk of malignancy (Book p510)"
+  },
+  {
+   "id": "SURG-C66-040",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Definition of erythroplakia:",
+   "opts": [
+    "A reddish patch not characterized by other conditions",
+    "A white patch that rubs off",
+    "An ulcer with rolled edges",
+    "A pigmented macule"
+   ],
+   "ans": 0,
+   "exp": "A reddish patch not characterized by other conditions (Book p510)"
+  },
+  {
+   "id": "SURG-C66-041",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Erythroplakia:",
+   "opts": [
+    "Cannot be rubbed off",
+    "Can be rubbed off",
+    "Is always painful",
+    "Always bleeds"
+   ],
+   "ans": 0,
+   "exp": "Cannot be rubbed off (Book p510)"
+  },
+  {
+   "id": "SURG-C66-042",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Increase in cancer risk with erythroplakia:",
+   "opts": [
+    "6-9 times",
+    "3-5 times",
+    "1-2 times",
+    "No increase"
+   ],
+   "ans": 0,
+   "exp": "6-9 times (Book p510)"
+  },
+  {
+   "id": "SURG-C66-043",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Most aggressive type of erythroplakia:",
+   "opts": [
+    "Speckled erythroplakia",
+    "Homogeneous erythroplakia",
+    "Verrucous erythroplakia",
+    "Nodular erythroplakia"
+   ],
+   "ans": 0,
+   "exp": "Speckled erythroplakia (Book p510)"
+  },
+  {
+   "id": "SURG-C66-044",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia",
+   "page": 510,
+   "q": "Management of erythroplakia:",
+   "opts": [
+    "Eliminate risk factors and excision",
+    "Antifungals",
+    "Radiotherapy alone",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Eliminate risk factors and excision (Book p510)"
+  },
+  {
+   "id": "SURG-C66-045",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Risk of malignant change in a pre-existing dysplastic lesion is higher in:",
+   "opts": [
+    "Females",
+    "Males",
+    "Children",
+    "Smokers only"
+   ],
+   "ans": 0,
+   "exp": "Females (Book p511)"
+  },
+  {
+   "id": "SURG-C66-046",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Size of lesion associated with increased risk of malignant change:",
+   "opts": [
+    ">200 mm sq",
+    "<50 mm sq",
+    ">10 mm sq",
+    ">1000 mm sq"
+   ],
+   "ans": 0,
+   "exp": ">200 mm sq (Book p511)"
+  },
+  {
+   "id": "SURG-C66-047",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Lesion homogeneity associated with higher malignant risk:",
+   "opts": [
+    "Non-homogeneous lesions",
+    "Homogeneous lesions",
+    "Both equal",
+    "Uniformly white lesions"
+   ],
+   "ans": 0,
+   "exp": "Non-homogeneous lesions (Book p511)"
+  },
+  {
+   "id": "SURG-C66-048",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Counterintuitive risk factor for malignant change in a dysplastic lesion:",
+   "opts": [
+    "Non-smoker",
+    "Heavy smoker",
+    "Alcohol user",
+    "Betel quid chewer"
+   ],
+   "ans": 0,
+   "exp": "Non-smoker (Book p511)"
+  },
+  {
+   "id": "SURG-C66-049",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Number of lesions associated with increased malignant risk:",
+   "opts": [
+    "Presence of multiple lesions",
+    "A single lesion",
+    "No lesions",
+    "Only two lesions"
+   ],
+   "ans": 0,
+   "exp": "Presence of multiple lesions (Book p511)"
+  },
+  {
+   "id": "SURG-C66-050",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Location with the highest risk of malignant change:",
+   "opts": [
+    "Lateral border of tongue",
+    "Hard palate",
+    "Upper lip",
+    "Gingiva"
+   ],
+   "ans": 0,
+   "exp": "Lateral border of tongue (Book p511)"
+  },
+  {
+   "id": "SURG-C66-051",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Oral submucous fibrosis is:",
+   "opts": [
+    "A hypersensitivity reaction to betel nut",
+    "A bacterial infection",
+    "An autoimmune disease",
+    "A viral infection"
+   ],
+   "ans": 0,
+   "exp": "A hypersensitivity reaction to betel nut (Book p511)"
+  },
+  {
+   "id": "SURG-C66-052",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Sequence of events in oral submucous fibrosis:",
+   "opts": [
+    "Fibrosis → inadequate mouth opening → poor hygiene → ↑ risk of cancer",
+    "Ulceration → infection → cancer",
+    "Hyperplasia → dysplasia → cancer directly",
+    "Atrophy → bleeding → cancer"
+   ],
+   "ans": 0,
+   "exp": "Fibrosis → inadequate mouth opening → poor hygiene → ↑ risk of cancer (Book p511)"
+  },
+  {
+   "id": "SURG-C66-053",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Examination finding in oral submucous fibrosis:",
+   "opts": [
+    "White bands in mouth",
+    "Red velvety patch",
+    "Black pigmentation",
+    "Ulcer with everted edges"
+   ],
+   "ans": 0,
+   "exp": "White bands in mouth (Book p511)"
+  },
+  {
+   "id": "SURG-C66-054",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "First step in managing oral submucous fibrosis:",
+   "opts": [
+    "Stop betel quid consumption and smoking",
+    "Immediate excision",
+    "Radiotherapy",
+    "Antifungals"
+   ],
+   "ans": 0,
+   "exp": "Stop betel quid consumption and smoking (Book p511)"
+  },
+  {
+   "id": "SURG-C66-055",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Intralesional drug used in oral submucous fibrosis:",
+   "opts": [
+    "Triamcinolone",
+    "Bleomycin",
+    "Methotrexate",
+    "Cisplatin"
+   ],
+   "ans": 0,
+   "exp": "Triamcinolone (Book p511)"
+  },
+  {
+   "id": "SURG-C66-056",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Reason excision is avoided in oral submucous fibrosis:",
+   "opts": [
+    "Healing occurs by increased fibrosis",
+    "High bleeding risk",
+    "Risk of metastasis",
+    "Poor anaesthesia"
+   ],
+   "ans": 0,
+   "exp": "Healing occurs by increased fibrosis (Book p511)"
+  },
+  {
+   "id": "SURG-C66-057",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "page": 511,
+   "q": "Other uses of triamcinolone:",
+   "opts": [
+    "Keloids, costochondritis and ganglion",
+    "Cancer chemotherapy",
+    "Antibiotic therapy",
+    "Anticoagulation"
+   ],
+   "ans": 0,
+   "exp": "Keloids, costochondritis and ganglion (Book p511)"
+  },
+  {
+   "id": "SURG-C66-058",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Plummer-Vinson syndrome is also known as:",
+   "opts": [
+    "Patterson-Kelly-Brown syndrome / sideropenic dysphagia",
+    "Stewart-Treves syndrome",
+    "Ackerman syndrome",
+    "Ortner's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Patterson-Kelly-Brown syndrome / sideropenic dysphagia (Book p511)"
+  },
+  {
+   "id": "SURG-C66-059",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Plummer-Vinson syndrome is common in:",
+   "opts": [
+    "Perimenopausal women",
+    "Young men",
+    "Children",
+    "Elderly men"
+   ],
+   "ans": 0,
+   "exp": "Perimenopausal women (Book p511)"
+  },
+  {
+   "id": "SURG-C66-060",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Haematological feature of Plummer-Vinson syndrome:",
+   "opts": [
+    "Iron deficiency anemia",
+    "Megaloblastic anemia",
+    "Polycythemia",
+    "Thrombocytosis"
+   ],
+   "ans": 0,
+   "exp": "Iron deficiency anemia (Book p511)"
+  },
+  {
+   "id": "SURG-C66-061",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Nail change in Plummer-Vinson syndrome:",
+   "opts": [
+    "Koilonychia (spoon shaped nails)",
+    "Clubbing",
+    "Onycholysis",
+    "Beau's lines"
+   ],
+   "ans": 0,
+   "exp": "Koilonychia (spoon shaped nails) (Book p511)"
+  },
+  {
+   "id": "SURG-C66-062",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Oral feature of Plummer-Vinson syndrome:",
+   "opts": [
+    "Angular cheilitis / stomatitis",
+    "Macroglossia",
+    "Gingival hyperplasia",
+    "Ranula"
+   ],
+   "ans": 0,
+   "exp": "Angular cheilitis / stomatitis (Book p511)"
+  },
+  {
+   "id": "SURG-C66-063",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Cause of dysphagia in Plummer-Vinson syndrome:",
+   "opts": [
+    "Post-cricoid webs",
+    "Achalasia",
+    "Oesophageal cancer",
+    "Stricture from reflux"
+   ],
+   "ans": 0,
+   "exp": "Post-cricoid webs (Book p511)"
+  },
+  {
+   "id": "SURG-C66-064",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Malignancies associated with Plummer-Vinson syndrome:",
+   "opts": [
+    "Hypopharyngeal carcinoma and squamous cell carcinoma of esophagus",
+    "Gastric adenocarcinoma",
+    "Colonic carcinoma",
+    "Thyroid carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Hypopharyngeal carcinoma and squamous cell carcinoma of esophagus (Book p511)"
+  },
+  {
+   "id": "SURG-C66-065",
+   "sec": "Plummer-Vinson Syndrome",
+   "page": 511,
+   "q": "Management of Plummer-Vinson syndrome:",
+   "opts": [
+    "Correction of iron deficiency and CO2 excision of webs",
+    "Total oesophagectomy",
+    "Radiotherapy",
+    "Steroids"
+   ],
+   "ans": 0,
+   "exp": "Correction of iron deficiency and CO2 excision of webs (Book p511)"
+  },
+  {
+   "id": "SURG-C66-066",
+   "sec": "Field Cancerisation",
+   "page": 512,
+   "q": "Field cancerisation is typically seen in all of the following EXCEPT:",
+   "opts": [
+    "Thyroid gland",
+    "Oral cavity",
+    "Bladder",
+    "Colorectal region"
+   ],
+   "ans": 0,
+   "exp": "Thyroid gland (Book p512)"
+  },
+  {
+   "id": "SURG-C66-067",
+   "sec": "Field Cancerisation",
+   "page": 512,
+   "q": "Percentage of synchronous cancer in the colorectal region:",
+   "opts": [
+    "4%",
+    "10%",
+    "25%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "4% (Book p512)"
+  },
+  {
+   "id": "SURG-C66-068",
+   "sec": "Field Cancerisation",
+   "page": 512,
+   "q": "Mechanism of field cancerisation:",
+   "opts": [
+    "Risk factors involve the entire mucosa producing multiple cancers",
+    "A single clone metastasizes widely",
+    "Immune failure alone",
+    "Genetic mutation without exposure"
+   ],
+   "ans": 0,
+   "exp": "Risk factors involve the entire mucosa producing multiple cancers (Book p512)"
+  },
+  {
+   "id": "SURG-C66-069",
+   "sec": "Field Cancerisation",
+   "page": 512,
+   "q": "Synchronous cancers develop:",
+   "opts": [
+    "Within 6 months of the primary cancer",
+    "After 6 months of the primary",
+    "After 5 years",
+    "Before the primary"
+   ],
+   "ans": 0,
+   "exp": "Within 6 months of the primary cancer (Book p512)"
+  },
+  {
+   "id": "SURG-C66-070",
+   "sec": "Field Cancerisation",
+   "page": 512,
+   "q": "Metachronous cancers develop:",
+   "opts": [
+    "After 6 months of the primary cancer",
+    "Within 6 months",
+    "Simultaneously",
+    "Before the primary"
+   ],
+   "ans": 0,
+   "exp": "After 6 months of the primary cancer (Book p512)"
+  },
+  {
+   "id": "SURG-C66-071",
+   "sec": "Field Cancerisation",
+   "page": 512,
+   "q": "Clinical relevance of field cancerisation:",
+   "opts": [
+    "Close observation, follow up and screening for other cancers",
+    "No follow up needed",
+    "Immediate total resection of mucosa",
+    "Prophylactic chemotherapy for all"
+   ],
+   "ans": 0,
+   "exp": "Close observation, follow up and screening for other cancers (Book p512)"
+  },
+  {
+   "id": "SURG-C66-072",
+   "sec": "Work Up of Oral Cancers",
+   "page": 512,
+   "q": "Confirmational investigation for oral cancer:",
+   "opts": [
+    "Incisional (edge/wedge) biopsy",
+    "FNAC of the lesion",
+    "CT scan",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "Incisional (edge/wedge) biopsy (Book p512)"
+  },
+  {
+   "id": "SURG-C66-073",
+   "sec": "Work Up of Oral Cancers",
+   "page": 512,
+   "q": "Reason biopsy is taken from the EDGE, not the centre:",
+   "opts": [
+    "Centre of the lesion is necrotic",
+    "Edge is easier to reach",
+    "Centre bleeds excessively",
+    "Centre is always benign"
+   ],
+   "ans": 0,
+   "exp": "Centre of the lesion is necrotic (Book p512)"
+  },
+  {
+   "id": "SURG-C66-074",
+   "sec": "Work Up of Oral Cancers",
+   "page": 512,
+   "q": "If a biopsy shows infection/inflammatory cells:",
+   "opts": [
+    "Give antibiotics and repeat the biopsy",
+    "Declare it benign",
+    "Proceed to surgery",
+    "Start chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Give antibiotics and repeat the biopsy (Book p512)"
+  },
+  {
+   "id": "SURG-C66-075",
+   "sec": "Work Up of Oral Cancers",
+   "page": 512,
+   "q": "IOC for staging oral cancer:",
+   "opts": [
+    "CECT of PNS, neck and thorax",
+    "MRI brain",
+    "USG neck",
+    "Plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "CECT of PNS, neck and thorax (Book p512)"
+  },
+  {
+   "id": "SURG-C66-076",
+   "sec": "Work Up of Oral Cancers",
+   "page": 512,
+   "q": "Depth of invasion (DOI) is measured:",
+   "opts": [
+    "From the level of the adjacent skin/mucosal surface downwards",
+    "From the top of the exophytic tumour",
+    "Across the widest tumour diameter",
+    "From the deepest node"
+   ],
+   "ans": 0,
+   "exp": "From the level of the adjacent skin/mucosal surface downwards (Book p512)"
+  },
+  {
+   "id": "SURG-C66-077",
+   "sec": "Work Up of Oral Cancers",
+   "page": 512,
+   "q": "Tumor thickness differs from DOI because it:",
+   "opts": [
+    "Includes the exophytic component above the surface",
+    "Excludes the deep component",
+    "Is measured on imaging only",
+    "Is always smaller"
+   ],
+   "ans": 0,
+   "exp": "Includes the exophytic component above the surface (Book p512)"
+  },
+  {
+   "id": "SURG-C66-078",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "Tx in oral cancer staging means:",
+   "opts": [
+    "Tumour cannot be assessed",
+    "No tumour",
+    "Carcinoma in situ",
+    "Distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "Tumour cannot be assessed (Book p513)"
+  },
+  {
+   "id": "SURG-C66-079",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "T1 oral cancer:",
+   "opts": [
+    "Size ≤2 cm, DOI ≤5 mm",
+    "Size ≤2 cm, DOI 5-10 mm",
+    "Size 2-4 cm",
+    "Size >4 cm"
+   ],
+   "ans": 0,
+   "exp": "Size ≤2 cm, DOI ≤5 mm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-080",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "T2 oral cancer criteria:",
+   "opts": [
+    "Size ≤2 cm with DOI 5-10 mm, OR size 2-4 cm with DOI <10 mm",
+    "Size ≤2 cm with DOI ≤5 mm",
+    "Size >4 cm",
+    "Involvement of adjacent structures"
+   ],
+   "ans": 0,
+   "exp": "Size ≤2 cm with DOI 5-10 mm, OR size 2-4 cm with DOI <10 mm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-081",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "T3 oral cancer:",
+   "opts": [
+    "Size >4 cm or DOI >10 mm",
+    "Size ≤2 cm, DOI ≤5 mm",
+    "Size 2-4 cm, DOI <10 mm",
+    "Adjacent structure involvement"
+   ],
+   "ans": 0,
+   "exp": "Size >4 cm or DOI >10 mm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-082",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "T4 oral cancer:",
+   "opts": [
+    "Involvement of adjacent structures",
+    "Size >4 cm only",
+    "DOI >10 mm only",
+    "Nodal involvement"
+   ],
+   "ans": 0,
+   "exp": "Involvement of adjacent structures (Book p513)"
+  },
+  {
+   "id": "SURG-C66-083",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "T4a versus T4b:",
+   "opts": [
+    "T4a resectable, T4b not resectable",
+    "T4a not resectable, T4b resectable",
+    "Both resectable",
+    "Both unresectable"
+   ],
+   "ans": 0,
+   "exp": "T4a resectable, T4b not resectable (Book p513)"
+  },
+  {
+   "id": "SURG-C66-084",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "N0 nodal status:",
+   "opts": [
+    "No lymph nodes involved",
+    "Single ipsilateral LN ≤3 cm",
+    "Cannot be assessed",
+    "Bilateral nodes"
+   ],
+   "ans": 0,
+   "exp": "No lymph nodes involved (Book p513)"
+  },
+  {
+   "id": "SURG-C66-085",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "N1 nodal status:",
+   "opts": [
+    "Single ipsilateral LN ≤3 cm",
+    "Single ipsilateral LN >3-6 cm",
+    "Multiple ipsilateral LN ≤6 cm",
+    "Bilateral LN ≤6 cm"
+   ],
+   "ans": 0,
+   "exp": "Single ipsilateral LN ≤3 cm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-086",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "N2a nodal status:",
+   "opts": [
+    "Single ipsilateral LN >3-6 cm",
+    "Single ipsilateral LN ≤3 cm",
+    "Multiple ipsilateral LN ≤6 cm",
+    "Bilateral LN ≤6 cm"
+   ],
+   "ans": 0,
+   "exp": "Single ipsilateral LN >3-6 cm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-087",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "N2b nodal status:",
+   "opts": [
+    "Multiple ipsilateral LN ≤6 cm",
+    "Single ipsilateral LN ≤3 cm",
+    "Bilateral/contralateral LN ≤6 cm",
+    "Single LN >6 cm"
+   ],
+   "ans": 0,
+   "exp": "Multiple ipsilateral LN ≤6 cm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-088",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "N2c nodal status:",
+   "opts": [
+    "Bilateral / contralateral LN ≤6 cm",
+    "Multiple ipsilateral LN ≤6 cm",
+    "Single ipsilateral LN >3-6 cm",
+    "Extranodal extension"
+   ],
+   "ans": 0,
+   "exp": "Bilateral / contralateral LN ≤6 cm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-089",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "N3a nodal status:",
+   "opts": [
+    "Single node >6 cm or extranodal extension",
+    "Bilateral nodes ≤6 cm",
+    "Single node ≤3 cm",
+    "No nodes"
+   ],
+   "ans": 0,
+   "exp": "Single node >6 cm or extranodal extension (Book p513)"
+  },
+  {
+   "id": "SURG-C66-090",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "N3b nodal status:",
+   "opts": [
+    "Clinical or radiographic extranodal extension — matted nodes or nodes attached to skin",
+    "Single node >6 cm without extension",
+    "Bilateral nodes ≤6 cm",
+    "No nodes involved"
+   ],
+   "ans": 0,
+   "exp": "Clinical or radiographic extranodal extension — matted nodes or nodes attached to skin (Book p513)"
+  },
+  {
+   "id": "SURG-C66-091",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "M0 status:",
+   "opts": [
+    "No metastasis",
+    "Distant metastasis",
+    "Cannot be assessed",
+    "Nodal metastasis"
+   ],
+   "ans": 0,
+   "exp": "No metastasis (Book p513)"
+  },
+  {
+   "id": "SURG-C66-092",
+   "sec": "TNM Staging (8th AJCC)",
+   "page": 513,
+   "q": "M/c site of distant metastasis in oral cancer:",
+   "opts": [
+    "Lung",
+    "Liver",
+    "Bone",
+    "Brain"
+   ],
+   "ans": 0,
+   "exp": "Lung (Book p513)"
+  },
+  {
+   "id": "SURG-C66-093",
+   "sec": "Surgical Management of Oral Cancer",
+   "page": 513,
+   "q": "R0 resection means:",
+   "opts": [
+    "Microscopic freedom from disease",
+    "Macroscopic residual disease",
+    "Microscopic residual disease",
+    "No resection"
+   ],
+   "ans": 0,
+   "exp": "Microscopic freedom from disease (Book p513)"
+  },
+  {
+   "id": "SURG-C66-094",
+   "sec": "Surgical Management of Oral Cancer",
+   "page": 513,
+   "q": "Margin taken in wide local excision of oral cancer:",
+   "opts": [
+    "0.5 cm",
+    "0.1 cm",
+    "2 cm",
+    "5 cm"
+   ],
+   "ans": 0,
+   "exp": "0.5 cm (Book p513)"
+  },
+  {
+   "id": "SURG-C66-095",
+   "sec": "Surgical Management of Oral Cancer",
+   "page": 513,
+   "q": "Indication for mandibular resection:",
+   "opts": [
+    "Involvement of the mandible",
+    "Any oral cancer",
+    "Nodal involvement",
+    "Lip involvement"
+   ],
+   "ans": 0,
+   "exp": "Involvement of the mandible (Book p513)"
+  },
+  {
+   "id": "SURG-C66-096",
+   "sec": "Surgical Management of Oral Cancer",
+   "page": 513,
+   "q": "Indication for neck dissection:",
+   "opts": [
+    "Lymph node involvement",
+    "Mandibular involvement",
+    "Small T1 lesion",
+    "Distant metastasis"
+   ],
+   "ans": 0,
+   "exp": "Lymph node involvement (Book p513)"
+  },
+  {
+   "id": "SURG-C66-097",
+   "sec": "Surgical Management of Oral Cancer",
+   "page": 513,
+   "q": "Commando operation consists of:",
+   "opts": [
+    "Wide local excision + mandibular resection + neck dissection",
+    "WLE + radiotherapy",
+    "Mandibular resection alone",
+    "Neck dissection + flap only"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision + mandibular resection + neck dissection (Book p513)"
+  },
+  {
+   "id": "SURG-C66-098",
+   "sec": "Surgical Management of Oral Cancer",
+   "page": 513,
+   "q": "Fourth component of surgical management after resection:",
+   "opts": [
+    "Reconstruction with flaps",
+    "Chemotherapy",
+    "Tracheostomy",
+    "Gastrostomy"
+   ],
+   "ans": 0,
+   "exp": "Reconstruction with flaps (Book p513)"
+  },
+  {
+   "id": "SURG-C66-099",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "Management of lip cancer involving <1/3rd of the lip:",
+   "opts": [
+    "Wide local excision with primary closure",
+    "Johanson's step ladder resection",
+    "Flap reconstruction",
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision with primary closure (Book p514)"
+  },
+  {
+   "id": "SURG-C66-100",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "Management of lip cancer involving >1/3rd to 2/3rd of the lip:",
+   "opts": [
+    "Johanson's step ladder resection",
+    "WLE with primary closure",
+    "Flap reconstruction",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Johanson's step ladder resection (Book p514)"
+  },
+  {
+   "id": "SURG-C66-101",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "Management of lip cancer involving >2/3rd of the lip:",
+   "opts": [
+    "Flap reconstruction",
+    "WLE with primary closure",
+    "Johanson's step ladder resection",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Flap reconstruction (Book p514)"
+  },
+  {
+   "id": "SURG-C66-102",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "Visor approach is used for:",
+   "opts": [
+    "Resection of mandible and floor of mouth",
+    "Maxillectomy",
+    "Parotidectomy",
+    "Tonsillectomy"
+   ],
+   "ans": 0,
+   "exp": "Resection of mandible and floor of mouth (Book p514)"
+  },
+  {
+   "id": "SURG-C66-103",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "Advantage of the visor approach:",
+   "opts": [
+    "Lifting up the area increases the area of access",
+    "Avoids all incisions",
+    "Reduces operating time only",
+    "Preserves all nerves"
+   ],
+   "ans": 0,
+   "exp": "Lifting up the area increases the area of access (Book p514)"
+  },
+  {
+   "id": "SURG-C66-104",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "Indication for the Weber-Ferguson approach:",
+   "opts": [
+    "Maxillectomy",
+    "Mandibulectomy",
+    "Neck dissection",
+    "Glossectomy"
+   ],
+   "ans": 0,
+   "exp": "Maxillectomy (Book p514)"
+  },
+  {
+   "id": "SURG-C66-105",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "M/c surgical approach for oral cancer resection:",
+   "opts": [
+    "Lip split approach",
+    "Visor approach",
+    "Weber-Ferguson approach",
+    "Transoral approach"
+   ],
+   "ans": 0,
+   "exp": "Lip split approach (Book p514)"
+  },
+  {
+   "id": "SURG-C66-106",
+   "sec": "Lip Cancer Management and Surgical Approaches",
+   "page": 514,
+   "q": "Lip split approach is used for:",
+   "opts": [
+    "Resection of mandible and buccal mucosa",
+    "Maxillectomy",
+    "Thyroidectomy",
+    "Parotidectomy"
+   ],
+   "ans": 0,
+   "exp": "Resection of mandible and buccal mucosa (Book p514)"
+  },
+  {
+   "id": "SURG-C66-107",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level IA nodes:",
+   "opts": [
+    "Submental",
+    "Submandibular",
+    "Upper deep cervical",
+    "Posterior triangle"
+   ],
+   "ans": 0,
+   "exp": "Submental (Book p515)"
+  },
+  {
+   "id": "SURG-C66-108",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level IB nodes:",
+   "opts": [
+    "Submandibular",
+    "Submental",
+    "Middle deep cervical",
+    "Mediastinal"
+   ],
+   "ans": 0,
+   "exp": "Submandibular (Book p515)"
+  },
+  {
+   "id": "SURG-C66-109",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level II nodes:",
+   "opts": [
+    "Upper deep cervical",
+    "Middle deep cervical",
+    "Lower deep cervical",
+    "Submental"
+   ],
+   "ans": 0,
+   "exp": "Upper deep cervical (Book p515)"
+  },
+  {
+   "id": "SURG-C66-110",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level IIa and IIb refer to:",
+   "opts": [
+    "Anterior and posterior subdivisions of the upper deep cervical nodes",
+    "Superior and inferior posterior triangle",
+    "Submental and submandibular",
+    "Pre and paratracheal"
+   ],
+   "ans": 0,
+   "exp": "Anterior and posterior subdivisions of the upper deep cervical nodes (Book p515)"
+  },
+  {
+   "id": "SURG-C66-111",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level III nodes:",
+   "opts": [
+    "Middle deep cervical",
+    "Upper deep cervical",
+    "Lower deep cervical",
+    "Posterior triangle"
+   ],
+   "ans": 0,
+   "exp": "Middle deep cervical (Book p515)"
+  },
+  {
+   "id": "SURG-C66-112",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level IV nodes:",
+   "opts": [
+    "Lower deep cervical",
+    "Middle deep cervical",
+    "Upper deep cervical",
+    "Central compartment"
+   ],
+   "ans": 0,
+   "exp": "Lower deep cervical (Book p515)"
+  },
+  {
+   "id": "SURG-C66-113",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Boundaries of the anterior triangle of the neck:",
+   "opts": [
+    "Midline, sternocleidomastoid and angle of mandible",
+    "Sternocleidomastoid, angle of mandible and trapezius",
+    "Clavicle, trapezius and midline",
+    "Hyoid, thyroid and clavicle"
+   ],
+   "ans": 0,
+   "exp": "Midline, sternocleidomastoid and angle of mandible (Book p515)"
+  },
+  {
+   "id": "SURG-C66-114",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level V refers to:",
+   "opts": [
+    "Posterior triangle nodes (Va superior, Vb inferior)",
+    "Central compartment nodes",
+    "Mediastinal nodes",
+    "Submental nodes"
+   ],
+   "ans": 0,
+   "exp": "Posterior triangle nodes (Va superior, Vb inferior) (Book p515)"
+  },
+  {
+   "id": "SURG-C66-115",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Largest group of neck nodes:",
+   "opts": [
+    "Level V (posterior triangle)",
+    "Level I",
+    "Level II",
+    "Level VI"
+   ],
+   "ans": 0,
+   "exp": "Level V (posterior triangle) (Book p515)"
+  },
+  {
+   "id": "SURG-C66-116",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Boundaries of the posterior triangle:",
+   "opts": [
+    "Sternocleidomastoid, angle of mandible and trapezius",
+    "Midline, SCM and angle of mandible",
+    "Clavicle, hyoid and midline",
+    "Trapezius, clavicle and mandible"
+   ],
+   "ans": 0,
+   "exp": "Sternocleidomastoid, angle of mandible and trapezius (Book p515)"
+  },
+  {
+   "id": "SURG-C66-117",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level VI nodes are also called:",
+   "opts": [
+    "Central compartment nodes / Delphian lymph nodes / pre & paratracheal",
+    "Posterior triangle nodes",
+    "Mediastinal nodes",
+    "Submental nodes"
+   ],
+   "ans": 0,
+   "exp": "Central compartment nodes / Delphian lymph nodes / pre & paratracheal (Book p515)"
+  },
+  {
+   "id": "SURG-C66-118",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level VI nodes are the first draining nodes in:",
+   "opts": [
+    "Thyroid cancer and laryngeal cancer",
+    "Tongue cancer",
+    "Lip cancer",
+    "Parotid cancer"
+   ],
+   "ans": 0,
+   "exp": "Thyroid cancer and laryngeal cancer (Book p515)"
+  },
+  {
+   "id": "SURG-C66-119",
+   "sec": "Lymph Nodes of the Neck",
+   "page": 515,
+   "q": "Level VII nodes:",
+   "opts": [
+    "Mediastinal",
+    "Posterior triangle",
+    "Central compartment",
+    "Submandibular"
+   ],
+   "ans": 0,
+   "exp": "Mediastinal (Book p515)"
+  },
+  {
+   "id": "SURG-C66-120",
+   "sec": "Neck Node Management Principles",
+   "page": 515,
+   "q": "Effect of prophylactic lymph node dissection in T1, T2 tumors:",
+   "opts": [
+    "Increases survival",
+    "Decreases survival",
+    "No effect",
+    "Only cosmetic benefit"
+   ],
+   "ans": 0,
+   "exp": "Increases survival (Book p515)"
+  },
+  {
+   "id": "SURG-C66-121",
+   "sec": "Neck Node Management Principles",
+   "page": 515,
+   "q": "Sentinel lymph node biopsy can demonstrate:",
+   "opts": [
+    "Occult metastases and unexpected contralateral drainage",
+    "Depth of invasion",
+    "Perineural invasion",
+    "Tumour grade"
+   ],
+   "ans": 0,
+   "exp": "Occult metastases and unexpected contralateral drainage (Book p515)"
+  },
+  {
+   "id": "SURG-C66-122",
+   "sec": "Neck Node Management Principles",
+   "page": 515,
+   "q": "Prophylactic elective neck dissection means:",
+   "opts": [
+    "Selective neck dissection — supraomohyoid dissection",
+    "Radical neck dissection",
+    "Central neck dissection",
+    "Modified radical neck dissection"
+   ],
+   "ans": 0,
+   "exp": "Selective neck dissection — supraomohyoid dissection (Book p515)"
+  },
+  {
+   "id": "SURG-C66-123",
+   "sec": "Neck Node Management Principles",
+   "page": 515,
+   "q": "Carcinomas with contralateral lymph node drainage include all EXCEPT:",
+   "opts": [
+    "Carcinoma of the lateral buccal mucosa",
+    "Angle of mouth",
+    "Lip cancer crossing midline",
+    "Carcinoma tip of tongue"
+   ],
+   "ans": 0,
+   "exp": "Carcinoma of the lateral buccal mucosa (Book p515)"
+  },
+  {
+   "id": "SURG-C66-124",
+   "sec": "Neck Node Management Principles",
+   "page": 515,
+   "q": "Palatal carcinoma with contralateral drainage:",
+   "opts": [
+    "Soft palate carcinoma",
+    "Hard palate carcinoma",
+    "Retromolar trigone",
+    "Alveolus"
+   ],
+   "ans": 0,
+   "exp": "Soft palate carcinoma (Book p515)"
+  },
+  {
+   "id": "SURG-C66-125",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "M/c incision used for neck dissection:",
+   "opts": [
+    "Modified Schobinger's incision",
+    "Crile's incision",
+    "Martin's incision",
+    "MacFee incision"
+   ],
+   "ans": 0,
+   "exp": "Modified Schobinger's incision (Book p516)"
+  },
+  {
+   "id": "SURG-C66-126",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Radical neck dissection was described by:",
+   "opts": [
+    "Crile",
+    "Schobinger",
+    "Martin",
+    "MacFee"
+   ],
+   "ans": 0,
+   "exp": "Crile (Book p516)"
+  },
+  {
+   "id": "SURG-C66-127",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Lymph node levels removed in radical neck dissection:",
+   "opts": [
+    "Levels I-V",
+    "Levels I-III",
+    "Level VI only",
+    "Levels II-IV"
+   ],
+   "ans": 0,
+   "exp": "Levels I-V (Book p516)"
+  },
+  {
+   "id": "SURG-C66-128",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Three extra lymphatic structures removed in radical neck dissection:",
+   "opts": [
+    "Spinal accessory nerve, internal jugular vein and sternocleidomastoid",
+    "Vagus, carotid artery and SCM",
+    "Phrenic nerve, IJV and trapezius",
+    "Hypoglossal nerve, IJV and omohyoid"
+   ],
+   "ans": 0,
+   "exp": "Spinal accessory nerve, internal jugular vein and sternocleidomastoid (Book p516)"
+  },
+  {
+   "id": "SURG-C66-129",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Glandular structures removed in radical neck dissection:",
+   "opts": [
+    "Tail of parotid and submandibular gland",
+    "Thyroid and parathyroid",
+    "Sublingual gland only",
+    "Thymus"
+   ],
+   "ans": 0,
+   "exp": "Tail of parotid and submandibular gland (Book p516)"
+  },
+  {
+   "id": "SURG-C66-130",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Structures removed in modified radical neck dissection:",
+   "opts": [
+    "Levels I-V, tail of parotid and submandibular gland",
+    "Levels I-III only",
+    "Level VI only",
+    "Levels II-IV"
+   ],
+   "ans": 0,
+   "exp": "Levels I-V, tail of parotid and submandibular gland (Book p516)"
+  },
+  {
+   "id": "SURG-C66-131",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Defining feature of modified radical neck dissection:",
+   "opts": [
+    "At least 1 extra lymphatic structure is preserved",
+    "All extra lymphatic structures removed",
+    "No lymph nodes removed",
+    "Only level VI removed"
+   ],
+   "ans": 0,
+   "exp": "At least 1 extra lymphatic structure is preserved (Book p516)"
+  },
+  {
+   "id": "SURG-C66-132",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Functional neck dissection means:",
+   "opts": [
+    "All 3 extra lymphatic structures are preserved",
+    "One structure preserved",
+    "Two structures preserved",
+    "None preserved"
+   ],
+   "ans": 0,
+   "exp": "All 3 extra lymphatic structures are preserved (Book p516)"
+  },
+  {
+   "id": "SURG-C66-133",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "MRND type I:",
+   "opts": [
+    "1 extra lymphatic structure preserved",
+    "2 structures preserved",
+    "3 structures preserved",
+    "None preserved"
+   ],
+   "ans": 0,
+   "exp": "1 extra lymphatic structure preserved (Book p516)"
+  },
+  {
+   "id": "SURG-C66-134",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "MRND type II:",
+   "opts": [
+    "2 extra lymphatic structures preserved",
+    "1 structure preserved",
+    "3 structures preserved",
+    "None preserved"
+   ],
+   "ans": 0,
+   "exp": "2 extra lymphatic structures preserved (Book p516)"
+  },
+  {
+   "id": "SURG-C66-135",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "MRND type III:",
+   "opts": [
+    "3 extra lymphatic structures preserved",
+    "1 structure preserved",
+    "2 structures preserved",
+    "None preserved"
+   ],
+   "ans": 0,
+   "exp": "3 extra lymphatic structures preserved (Book p516)"
+  },
+  {
+   "id": "SURG-C66-136",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Selective neck dissection is also called:",
+   "opts": [
+    "Supraomohyoid neck dissection (SOHND)",
+    "Radical neck dissection",
+    "Central neck dissection",
+    "Functional neck dissection"
+   ],
+   "ans": 0,
+   "exp": "Supraomohyoid neck dissection (SOHND) (Book p516)"
+  },
+  {
+   "id": "SURG-C66-137",
+   "sec": "Neck Dissection: Incisions and Types",
+   "page": 516,
+   "q": "Levels removed in supraomohyoid neck dissection:",
+   "opts": [
+    "Levels I-III (above the omohyoid)",
+    "Levels I-V",
+    "Level VI",
+    "Levels IV-VI"
+   ],
+   "ans": 0,
+   "exp": "Levels I-III (above the omohyoid) (Book p516)"
+  },
+  {
+   "id": "SURG-C66-138",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Level removed in central neck dissection:",
+   "opts": [
+    "Level VI",
+    "Level V",
+    "Levels I-III",
+    "Level VII"
+   ],
+   "ans": 0,
+   "exp": "Level VI (Book p517)"
+  },
+  {
+   "id": "SURG-C66-139",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Complications of neck dissection include all EXCEPT:",
+   "opts": [
+    "Hypothyroidism from thyroid removal",
+    "Bleeding",
+    "Infection",
+    "Injury to nerves"
+   ],
+   "ans": 0,
+   "exp": "Hypothyroidism from thyroid removal (Book p517)"
+  },
+  {
+   "id": "SURG-C66-140",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Marginal mandibular nerve (ramus mandibularis) supplies the:",
+   "opts": [
+    "Angle of mouth",
+    "Tongue",
+    "Shoulder",
+    "Diaphragm"
+   ],
+   "ans": 0,
+   "exp": "Angle of mouth (Book p517)"
+  },
+  {
+   "id": "SURG-C66-141",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "How is marginal mandibular nerve injury prevented:",
+   "opts": [
+    "Incision at 2 finger breadths from the angle of mandible",
+    "Incision directly over the angle",
+    "Incision above the mandible",
+    "No prevention possible"
+   ],
+   "ans": 0,
+   "exp": "Incision at 2 finger breadths from the angle of mandible (Book p517)"
+  },
+  {
+   "id": "SURG-C66-142",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Spinal accessory nerve injury causes:",
+   "opts": [
+    "Shoulder dysfunction with drooping of shoulder and pain",
+    "Tongue deviation",
+    "Diaphragmatic palsy",
+    "Loss of taste"
+   ],
+   "ans": 0,
+   "exp": "Shoulder dysfunction with drooping of shoulder and pain (Book p517)"
+  },
+  {
+   "id": "SURG-C66-143",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Nerves at risk in neck dissection besides spinal accessory and marginal mandibular:",
+   "opts": [
+    "Hypoglossal and phrenic nerves",
+    "Optic and oculomotor",
+    "Sciatic and femoral",
+    "Radial and ulnar"
+   ],
+   "ans": 0,
+   "exp": "Hypoglossal and phrenic nerves (Book p517)"
+  },
+  {
+   "id": "SURG-C66-144",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Carotid artery blowout is:",
+   "opts": [
+    "Opening in the carotid artery post dissection due to infection, leading to bleeding and death",
+    "Aneurysm formation without bleeding",
+    "Thrombosis of the carotid",
+    "Carotid body tumour"
+   ],
+   "ans": 0,
+   "exp": "Opening in the carotid artery post dissection due to infection, leading to bleeding and death (Book p517)"
+  },
+  {
+   "id": "SURG-C66-145",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "M/c used flap in head and neck reconstruction surgery:",
+   "opts": [
+    "Pectoralis major myocutaneous (PMMC) flap",
+    "Deltopectoral flap",
+    "Abbe-Estlander flap",
+    "Free fibular flap"
+   ],
+   "ans": 0,
+   "exp": "Pectoralis major myocutaneous (PMMC) flap (Book p517)"
+  },
+  {
+   "id": "SURG-C66-146",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Abbe-Estlander flap is used for:",
+   "opts": [
+    "Lip and angle of mouth reconstruction",
+    "Mandibular reconstruction",
+    "Tongue reconstruction",
+    "Scalp reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Lip and angle of mouth reconstruction (Book p517)"
+  },
+  {
+   "id": "SURG-C66-147",
+   "sec": "Central Neck Dissection, Complications and Flaps",
+   "page": 517,
+   "q": "Abbe-Estlander flap is based on:",
+   "opts": [
+    "Labial vessels",
+    "Peroneal vessels",
+    "Radial artery",
+    "Thoracoacromial artery"
+   ],
+   "ans": 0,
+   "exp": "Labial vessels (Book p517)"
+  },
+  {
+   "id": "SURG-C66-148",
+   "sec": "Free Flaps",
+   "page": 518,
+   "q": "Definition of a free flap:",
+   "opts": [
+    "Flap taken from one site and placed in another",
+    "Flap rotated about its pedicle",
+    "Skin graft without vessels",
+    "Flap left attached at both ends"
+   ],
+   "ans": 0,
+   "exp": "Flap taken from one site and placed in another (Book p518)"
+  },
+  {
+   "id": "SURG-C66-149",
+   "sec": "Free Flaps",
+   "page": 518,
+   "q": "Test done prior to creation of a forearm flap:",
+   "opts": [
+    "Allen's test",
+    "Adson's test",
+    "Perthes test",
+    "Trendelenburg test"
+   ],
+   "ans": 0,
+   "exp": "Allen's test (Book p518)"
+  },
+  {
+   "id": "SURG-C66-150",
+   "sec": "Free Flaps",
+   "page": 518,
+   "q": "Most versatile flap for head and neck reconstruction:",
+   "opts": [
+    "Radial artery forearm flap",
+    "PMMC flap",
+    "Free fibular flap",
+    "Deltopectoral flap"
+   ],
+   "ans": 0,
+   "exp": "Radial artery forearm flap (Book p518)"
+  },
+  {
+   "id": "SURG-C66-151",
+   "sec": "Free Flaps",
+   "page": 518,
+   "q": "Main use of the free fibular flap:",
+   "opts": [
+    "Mandibular reconstruction",
+    "Lip reconstruction",
+    "Tongue reconstruction",
+    "Scalp reconstruction"
+   ],
+   "ans": 0,
+   "exp": "Mandibular reconstruction (Book p518)"
+  },
+  {
+   "id": "SURG-C66-152",
+   "sec": "Free Flaps",
+   "page": 518,
+   "q": "Free fibular flap is especially used in patients who are:",
+   "opts": [
+    "Edentulous (absence of teeth)",
+    "Fully dentate",
+    "Children only",
+    "Diabetic"
+   ],
+   "ans": 0,
+   "exp": "Edentulous (absence of teeth) (Book p518)"
+  },
+  {
+   "id": "SURG-C66-153",
+   "sec": "Free Flaps",
+   "page": 518,
+   "q": "Free fibular flap is based on:",
+   "opts": [
+    "Peroneal vessels",
+    "Radial artery",
+    "Labial vessels",
+    "Thoracodorsal vessels"
+   ],
+   "ans": 0,
+   "exp": "Peroneal vessels (Book p518)"
+  },
+  {
+   "id": "SURG-C66-154",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "High risk features indicating adjuvant chemotherapy/radiotherapy include all EXCEPT:",
+   "opts": [
+    "Well differentiated histology",
+    "Extra nodal extension",
+    "Lymphovascular invasion",
+    "Involved margins"
+   ],
+   "ans": 0,
+   "exp": "Well differentiated histology (Book p518)"
+  },
+  {
+   "id": "SURG-C66-155",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "Neural high risk feature for adjuvant therapy:",
+   "opts": [
+    "Perineural invasion",
+    "Perivascular oedema",
+    "Muscle atrophy",
+    "Bone sclerosis"
+   ],
+   "ans": 0,
+   "exp": "Perineural invasion (Book p518)"
+  },
+  {
+   "id": "SURG-C66-156",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "ONE MAJOR indication for radiotherapy:",
+   "opts": [
+    "Extranodal extension ± involved margins",
+    "Close margins alone",
+    "Single involved node",
+    "Small T1 tumour"
+   ],
+   "ans": 0,
+   "exp": "Extranodal extension ± involved margins (Book p518)"
+  },
+  {
+   "id": "SURG-C66-157",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "TWO MINOR indications for radiotherapy include:",
+   "opts": [
+    "Close margins, multiple involved nodes, lymph node invasion, perineural invasion",
+    "Extranodal extension only",
+    "Distant metastasis",
+    "Negative margins"
+   ],
+   "ans": 0,
+   "exp": "Close margins, multiple involved nodes, lymph node invasion, perineural invasion (Book p518)"
+  },
+  {
+   "id": "SURG-C66-158",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "Advantage of concurrent chemo-radiation:",
+   "opts": [
+    "Better response — the chemoagent acts as a radiosensitizer increasing radiotherapy efficacy",
+    "Shorter treatment duration only",
+    "No side effects",
+    "Avoids surgery entirely"
+   ],
+   "ans": 0,
+   "exp": "Better response — the chemoagent acts as a radiosensitizer increasing radiotherapy efficacy (Book p518)"
+  },
+  {
+   "id": "SURG-C66-159",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "Neoadjuvant chemo-radiation means:",
+   "opts": [
+    "Chemotherapy/radiotherapy prior to surgery",
+    "Therapy after surgery",
+    "Therapy during surgery",
+    "Therapy instead of surgery"
+   ],
+   "ans": 0,
+   "exp": "Chemotherapy/radiotherapy prior to surgery (Book p518)"
+  },
+  {
+   "id": "SURG-C66-160",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "Indication for neoadjuvant chemo-radiation:",
+   "opts": [
+    "Advanced tumors — to shrink the tumor",
+    "Early T1 tumours",
+    "Benign lesions",
+    "Premalignant lesions"
+   ],
+   "ans": 0,
+   "exp": "Advanced tumors — to shrink the tumor (Book p518)"
+  },
+  {
+   "id": "SURG-C66-161",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "Immunotherapy agents used in oral cancer:",
+   "opts": [
+    "PDL-1 inhibitors",
+    "EGFR agonists",
+    "Anti-VEGF only",
+    "Tyrosine kinase activators"
+   ],
+   "ans": 0,
+   "exp": "PDL-1 inhibitors (Book p518)"
+  },
+  {
+   "id": "SURG-C66-162",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "Indication for immunotherapy in oral cancer:",
+   "opts": [
+    "Recurrent or metastatic SCC",
+    "Early stage SCC",
+    "Premalignant lesions",
+    "Verrucous carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Recurrent or metastatic SCC (Book p518)"
+  },
+  {
+   "id": "SURG-C66-163",
+   "sec": "Adjuvant Therapy and Prognosis",
+   "page": 518,
+   "q": "Most important prognostic factor in oral cancer:",
+   "opts": [
+    "Lymph node status",
+    "Tumour size",
+    "Patient age",
+    "Tumour site"
+   ],
+   "ans": 0,
+   "exp": "Lymph node status (Book p518)"
+  },
+  {
+   "id": "SURG-C66-164",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "First step in a patient with an enlarged cervical lymph node:",
+   "opts": [
+    "FNAC",
+    "Excision biopsy",
+    "PET-CT",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "FNAC (Book p519)"
+  },
+  {
+   "id": "SURG-C66-165",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "If FNAC shows cancer but the primary source is not located, next step:",
+   "opts": [
+    "Look for hidden sources",
+    "Start palliative care",
+    "Perform radical neck dissection immediately",
+    "Repeat FNAC only"
+   ],
+   "ans": 0,
+   "exp": "Look for hidden sources (Book p519)"
+  },
+  {
+   "id": "SURG-C66-166",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "Retromolar trigone is the space:",
+   "opts": [
+    "Behind the 3rd molar",
+    "Behind the 1st molar",
+    "Below the tongue",
+    "Behind the tonsil"
+   ],
+   "ans": 0,
+   "exp": "Behind the 3rd molar (Book p519)"
+  },
+  {
+   "id": "SURG-C66-167",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "Hidden sources of a primary head and neck cancer include all EXCEPT:",
+   "opts": [
+    "Hard palate",
+    "Retromolar trigone",
+    "Base of tongue",
+    "Tonsillar fossa"
+   ],
+   "ans": 0,
+   "exp": "Hard palate (Book p519)"
+  },
+  {
+   "id": "SURG-C66-168",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "Fossa of Rosenmuller is located in the:",
+   "opts": [
+    "Nasopharynx",
+    "Oropharynx",
+    "Hypopharynx",
+    "Larynx"
+   ],
+   "ans": 0,
+   "exp": "Nasopharynx (Book p519)"
+  },
+  {
+   "id": "SURG-C66-169",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "Hypopharyngeal hidden site for an occult primary:",
+   "opts": [
+    "Pyriform sinus",
+    "Fossa of Rosenmuller",
+    "Retromolar trigone",
+    "Base of tongue"
+   ],
+   "ans": 0,
+   "exp": "Pyriform sinus (Book p519)"
+  },
+  {
+   "id": "SURG-C66-170",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "PET-CT stands for:",
+   "opts": [
+    "Positron emission tomography - computed tomography",
+    "Photon emission tissue CT",
+    "Peripheral emission tomography",
+    "Positive emission thermography"
+   ],
+   "ans": 0,
+   "exp": "Positron emission tomography - computed tomography (Book p519)"
+  },
+  {
+   "id": "SURG-C66-171",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "Role of PET-CT in an unknown primary:",
+   "opts": [
+    "Whole body scan to locate the primary tumour",
+    "To grade the tumour",
+    "To measure depth of invasion",
+    "To assess nodal size only"
+   ],
+   "ans": 0,
+   "exp": "Whole body scan to locate the primary tumour (Book p519)"
+  },
+  {
+   "id": "SURG-C66-172",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "Isotope used in PET-CT:",
+   "opts": [
+    "18-Fluorodeoxy glucose (18-FDG)",
+    "Technetium-99m",
+    "Iodine-131",
+    "Gallium-67"
+   ],
+   "ans": 0,
+   "exp": "18-Fluorodeoxy glucose (18-FDG) (Book p519)"
+  },
+  {
+   "id": "SURG-C66-173",
+   "sec": "Metastasis from Unknown Primary",
+   "page": 519,
+   "q": "Half life of 18-FDG:",
+   "opts": [
+    "110 mins",
+    "10 mins",
+    "6 hours",
+    "8 days"
+   ],
+   "ans": 0,
+   "exp": "110 mins (Book p519)"
+  },
+  {
+   "id": "SURG-C66-174",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Dentigerous cyst is associated with:",
+   "opts": [
+    "An unerupted tooth",
+    "A caried tooth",
+    "An extracted tooth",
+    "A healthy erupted tooth"
+   ],
+   "ans": 0,
+   "exp": "An unerupted tooth (Book p519)"
+  },
+  {
+   "id": "SURG-C66-175",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "M/c tooth associated with a dentigerous cyst:",
+   "opts": [
+    "3rd molar",
+    "1st molar",
+    "Canine",
+    "Incisor"
+   ],
+   "ans": 0,
+   "exp": "3rd molar (Book p519)"
+  },
+  {
+   "id": "SURG-C66-176",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Management of a dentigerous cyst:",
+   "opts": [
+    "Enucleation",
+    "Removal of the caried tooth",
+    "Wide local excision",
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Enucleation (Book p519)"
+  },
+  {
+   "id": "SURG-C66-177",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Dental cyst is associated with:",
+   "opts": [
+    "A caried tooth",
+    "An unerupted tooth",
+    "A missing tooth",
+    "A supernumerary tooth"
+   ],
+   "ans": 0,
+   "exp": "A caried tooth (Book p519)"
+  },
+  {
+   "id": "SURG-C66-178",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Management of a dental cyst:",
+   "opts": [
+    "Removal of the caried tooth",
+    "Enucleation of the cyst alone",
+    "Wide local excision",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Removal of the caried tooth (Book p519)"
+  },
+  {
+   "id": "SURG-C66-179",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Ameloblastoma is a tumor of the:",
+   "opts": [
+    "Mandible",
+    "Maxilla",
+    "Tongue",
+    "Parotid"
+   ],
+   "ans": 0,
+   "exp": "Mandible (Book p519)"
+  },
+  {
+   "id": "SURG-C66-180",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Clinical feature of ameloblastoma:",
+   "opts": [
+    "Bony hard swelling",
+    "Soft fluctuant swelling",
+    "Pulsatile swelling",
+    "Transilluminant swelling"
+   ],
+   "ans": 0,
+   "exp": "Bony hard swelling (Book p519)"
+  },
+  {
+   "id": "SURG-C66-181",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Investigation of choice for ameloblastoma:",
+   "opts": [
+    "Orthopantomogram (OPG)",
+    "FNAC",
+    "PET-CT",
+    "USG"
+   ],
+   "ans": 0,
+   "exp": "Orthopantomogram (OPG) (Book p519)"
+  },
+  {
+   "id": "SURG-C66-182",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "page": 519,
+   "q": "Management of ameloblastoma:",
+   "opts": [
+    "Wide local excision (WLE)",
+    "Enucleation",
+    "Radiotherapy",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Wide local excision (WLE) (Book p519)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U66-1",
+   "ch": 66,
+   "n": 1,
+   "title": "Squamous Cell Carcinoma of the Oral Cavity",
+   "sec": "Squamous Cell Carcinoma of the Oral Cavity · p509",
+   "qs": [
+    "SURG-C66-001",
+    "SURG-C66-002",
+    "SURG-C66-003",
+    "SURG-C66-004",
+    "SURG-C66-005",
+    "SURG-C66-006",
+    "SURG-C66-007"
+   ],
+   "guide": "Squamous cell carcinoma is the m/c oral and oropharyngeal cancer, recognised by eosinophilic keratin pearls — abundant when well differentiated, scarce when poorly differentiated. p53 is the m/c mutation. Site differs by geography: buccal mucosa/gingivo buccal sulcus in India, lateral border of tongue worldwide."
+  },
+  {
+   "id": "SURG-U66-2",
+   "ch": 66,
+   "n": 2,
+   "title": "Risk Factors for Oral Cancer",
+   "sec": "Risk Factors for Oral Cancer · p509",
+   "qs": [
+    "SURG-C66-008",
+    "SURG-C66-009",
+    "SURG-C66-010",
+    "SURG-C66-011",
+    "SURG-C66-012",
+    "SURG-C66-013",
+    "SURG-C66-014",
+    "SURG-C66-015"
+   ],
+   "guide": "Smoking, alcohol, betel quid, immunosuppression and sharp ill-fitting dentures head the risk list, joined by chronic infection: hyperplastic candidiasis, EBV (nasopharyngeal carcinoma) and HPV — 5% of oral SCC but 50-70% of oropharyngeal SCC, which carries a better prognosis."
+  },
+  {
+   "id": "SURG-U66-3",
+   "ch": 66,
+   "n": 3,
+   "title": "Pre-malignant Conditions and Verrucous Carcinoma",
+   "sec": "Pre-malignant Conditions and Verrucous Carcinoma · p509",
+   "qs": [
+    "SURG-C66-016",
+    "SURG-C66-017",
+    "SURG-C66-018",
+    "SURG-C66-019",
+    "SURG-C66-020",
+    "SURG-C66-021",
+    "SURG-C66-022"
+   ],
+   "guide": "Rank the premalignant lesions: HIGH risk — erythroplakia, proliferative verrucous leukoplakia, chronic hyperplastic candidiasis; MEDIUM — oral submucous fibrosis, syphilitic glossitis; LOW — oral lichen planus, DLE. Verrucous carcinoma (Ackerman tumor) is an HPV-positive, slow, outward-growing SCC variant."
+  },
+  {
+   "id": "SURG-U66-4",
+   "ch": 66,
+   "n": 4,
+   "title": "Verrucous Carcinoma Prognosis and Leukoplakia",
+   "sec": "Verrucous Carcinoma Prognosis and Leukoplakia · p510",
+   "qs": [
+    "SURG-C66-023",
+    "SURG-C66-024",
+    "SURG-C66-025",
+    "SURG-C66-026",
+    "SURG-C66-027",
+    "SURG-C66-028",
+    "SURG-C66-029",
+    "SURG-C66-030",
+    "SURG-C66-031",
+    "SURG-C66-032",
+    "SURG-C66-033",
+    "SURG-C66-034",
+    "SURG-C66-035",
+    "SURG-C66-036"
+   ],
+   "guide": "Verrucous carcinoma has a good prognosis, and its penile counterpart is the Buschke-Lowenstein tumor. Leukoplakia is a white patch that CANNOT be rubbed off, raising cancer risk 3-5 times — treat by eliminating risk factors, antioxidants and CO2 laser or cautery excision. Proliferative verrucous leukoplakia is multifocal, arises without typical risk factors, converts often and must be excised early; speckled leukoplakia has a reddish border and is excised."
+  },
+  {
+   "id": "SURG-U66-5",
+   "ch": 66,
+   "n": 5,
+   "title": "Hyperplastic Candidiasis and Erythroplakia",
+   "sec": "Hyperplastic Candidiasis and Erythroplakia · p510",
+   "qs": [
+    "SURG-C66-037",
+    "SURG-C66-038",
+    "SURG-C66-039",
+    "SURG-C66-040",
+    "SURG-C66-041",
+    "SURG-C66-042",
+    "SURG-C66-043",
+    "SURG-C66-044"
+   ],
+   "guide": "Hyperplastic candidiasis CAN be rubbed off, has a reddish border and still raises malignancy risk. Erythroplakia is a red patch that cannot be rubbed off, carrying a 6-9 fold cancer risk, worst in its speckled form — eliminate risk factors and excise."
+  },
+  {
+   "id": "SURG-U66-6",
+   "ch": 66,
+   "n": 6,
+   "title": "Risk of Malignant Change and Oral Submucous Fibrosis",
+   "sec": "Risk of Malignant Change and Oral Submucous Fibrosis · p511",
+   "qs": [
+    "SURG-C66-045",
+    "SURG-C66-046",
+    "SURG-C66-047",
+    "SURG-C66-048",
+    "SURG-C66-049",
+    "SURG-C66-050",
+    "SURG-C66-051",
+    "SURG-C66-052",
+    "SURG-C66-053",
+    "SURG-C66-054",
+    "SURG-C66-055",
+    "SURG-C66-056",
+    "SURG-C66-057"
+   ],
+   "guide": "A dysplastic lesion is more dangerous in a female, non-smoker, with a lesion >200 mm sq, non-homogeneous, multiple, and on the lateral border of the tongue. Oral submucous fibrosis is a betel nut hypersensitivity: fibrosis limits mouth opening, hygiene fails, cancer risk rises, and white bands appear. Stop betel quid and smoking, give antioxidants and intralesional triamcinolone — never excise, because healing brings more fibrosis."
+  },
+  {
+   "id": "SURG-U66-7",
+   "ch": 66,
+   "n": 7,
+   "title": "Plummer-Vinson Syndrome",
+   "sec": "Plummer-Vinson Syndrome · p511",
+   "qs": [
+    "SURG-C66-058",
+    "SURG-C66-059",
+    "SURG-C66-060",
+    "SURG-C66-061",
+    "SURG-C66-062",
+    "SURG-C66-063",
+    "SURG-C66-064",
+    "SURG-C66-065"
+   ],
+   "guide": "Plummer-Vinson (Patterson-Kelly-Brown, sideropenic dysphagia) strikes perimenopausal women with iron deficiency anemia, koilonychia, angular cheilitis and intermittent dysphagia from post-cricoid webs, raising the risk of hypopharyngeal and oesophageal SCC. Correct the iron and excise webs with CO2."
+  },
+  {
+   "id": "SURG-U66-8",
+   "ch": 66,
+   "n": 8,
+   "title": "Field Cancerisation",
+   "sec": "Field Cancerisation · p512",
+   "qs": [
+    "SURG-C66-066",
+    "SURG-C66-067",
+    "SURG-C66-068",
+    "SURG-C66-069",
+    "SURG-C66-070",
+    "SURG-C66-071"
+   ],
+   "guide": "Field cancerisation — oral cavity, bladder and colorectal region (4% synchronous) — means risk factors bathe the entire mucosa so multiple cancers arise: synchronous within 6 months of the primary, metachronous after. Hence close follow up and screening for other cancers."
+  },
+  {
+   "id": "SURG-U66-9",
+   "ch": 66,
+   "n": 9,
+   "title": "Work Up of Oral Cancers",
+   "sec": "Work Up of Oral Cancers · p512",
+   "qs": [
+    "SURG-C66-072",
+    "SURG-C66-073",
+    "SURG-C66-074",
+    "SURG-C66-075",
+    "SURG-C66-076",
+    "SURG-C66-077"
+   ],
+   "guide": "Confirm with an incisional edge or wedge biopsy — the centre is necrotic; if inflammation dominates, give antibiotics and repeat. Stage with CECT of PNS, neck and thorax, and distinguish tumour thickness (includes the exophytic part) from depth of invasion measured below the mucosal surface."
+  },
+  {
+   "id": "SURG-U66-10",
+   "ch": 66,
+   "n": 10,
+   "title": "TNM Staging (8th AJCC)",
+   "sec": "TNM Staging (8th AJCC) · p513",
+   "qs": [
+    "SURG-C66-078",
+    "SURG-C66-079",
+    "SURG-C66-080",
+    "SURG-C66-081",
+    "SURG-C66-082",
+    "SURG-C66-083",
+    "SURG-C66-084",
+    "SURG-C66-085",
+    "SURG-C66-086",
+    "SURG-C66-087",
+    "SURG-C66-088",
+    "SURG-C66-089",
+    "SURG-C66-090",
+    "SURG-C66-091",
+    "SURG-C66-092"
+   ],
+   "guide": "AJCC 8th: T1 ≤2 cm with DOI ≤5 mm; T2 either ≤2 cm with DOI 5-10 mm or 2-4 cm with DOI <10 mm; T3 >4 cm or DOI >10 mm; T4 adjacent structures (a resectable, b not). Nodes: N1 single ipsilateral ≤3 cm; N2a single ipsilateral >3-6 cm; N2b multiple ipsilateral ≤6 cm; N2c bilateral/contralateral ≤6 cm; N3a >6 cm or extranodal extension; N3b clinical/radiographic extranodal extension with matted nodes or skin attachment. Lung is the m/c metastatic site."
+  },
+  {
+   "id": "SURG-U66-11",
+   "ch": 66,
+   "n": 11,
+   "title": "Surgical Management of Oral Cancer",
+   "sec": "Surgical Management of Oral Cancer · p513",
+   "qs": [
+    "SURG-C66-093",
+    "SURG-C66-094",
+    "SURG-C66-095",
+    "SURG-C66-096",
+    "SURG-C66-097",
+    "SURG-C66-098"
+   ],
+   "guide": "Surgery aims at R0 — microscopic freedom with a 0.5 cm margin. Add mandibular resection when the mandible is involved and neck dissection when nodes are involved; all three together make the Commando operation, followed by flap reconstruction."
+  },
+  {
+   "id": "SURG-U66-12",
+   "ch": 66,
+   "n": 12,
+   "title": "Lip Cancer Management and Surgical Approaches",
+   "sec": "Lip Cancer Management and Surgical Approaches · p514",
+   "qs": [
+    "SURG-C66-099",
+    "SURG-C66-100",
+    "SURG-C66-101",
+    "SURG-C66-102",
+    "SURG-C66-103",
+    "SURG-C66-104",
+    "SURG-C66-105",
+    "SURG-C66-106"
+   ],
+   "guide": "Lip cancer by extent: <1/3rd WLE with primary closure, >1/3rd-2/3rd Johanson's step ladder resection, >2/3rd flap reconstruction. Approaches: visor for mandible and floor of mouth, Weber-Ferguson for maxillectomy, and the lip split — the m/c — for mandible and buccal mucosa."
+  },
+  {
+   "id": "SURG-U66-13",
+   "ch": 66,
+   "n": 13,
+   "title": "Lymph Nodes of the Neck",
+   "sec": "Lymph Nodes of the Neck · p515",
+   "qs": [
+    "SURG-C66-107",
+    "SURG-C66-108",
+    "SURG-C66-109",
+    "SURG-C66-110",
+    "SURG-C66-111",
+    "SURG-C66-112",
+    "SURG-C66-113",
+    "SURG-C66-114",
+    "SURG-C66-115",
+    "SURG-C66-116",
+    "SURG-C66-117",
+    "SURG-C66-118",
+    "SURG-C66-119"
+   ],
+   "guide": "Neck levels: IA submental, IB submandibular, II upper deep cervical (IIa anterior, IIb posterior), III middle deep cervical, IV lower deep cervical — all in the anterior triangle bounded by midline, SCM and angle of mandible. Level V is the posterior triangle (Va superior, Vb inferior), the largest group, bounded by SCM, angle of mandible and trapezius. Level VI is the central compartment / Delphian / pre and paratracheal nodes, first to drain thyroid and laryngeal cancer; level VII is mediastinal."
+  },
+  {
+   "id": "SURG-U66-14",
+   "ch": 66,
+   "n": 14,
+   "title": "Neck Node Management Principles",
+   "sec": "Neck Node Management Principles · p515",
+   "qs": [
+    "SURG-C66-120",
+    "SURG-C66-121",
+    "SURG-C66-122",
+    "SURG-C66-123",
+    "SURG-C66-124"
+   ],
+   "guide": "Prophylactic lymph node dissection improves survival even in T1 and T2 tumours. Sentinel lymph node biopsy reveals occult metastases and unexpected contralateral drainage, and prophylactic elective neck dissection means a selective supraomohyoid dissection. Expect contralateral drainage from the angle of mouth, lip cancer crossing the midline, carcinoma of the tip of tongue and soft palate carcinoma."
+  },
+  {
+   "id": "SURG-U66-15",
+   "ch": 66,
+   "n": 15,
+   "title": "Neck Dissection: Incisions and Types",
+   "sec": "Neck Dissection: Incisions and Types · p516",
+   "qs": [
+    "SURG-C66-125",
+    "SURG-C66-126",
+    "SURG-C66-127",
+    "SURG-C66-128",
+    "SURG-C66-129",
+    "SURG-C66-130",
+    "SURG-C66-131",
+    "SURG-C66-132",
+    "SURG-C66-133",
+    "SURG-C66-134",
+    "SURG-C66-135",
+    "SURG-C66-136",
+    "SURG-C66-137"
+   ],
+   "guide": "Modified Schobinger's is the m/c incision, alongside Crile's, Martin's, hockey stick and MacFee. Crile's radical neck dissection removes levels I-V plus three extra lymphatic structures — spinal accessory nerve, internal jugular vein, sternocleidomastoid — with the tail of parotid and submandibular gland. MRND preserves at least one of those three (type I one, II two, III three, the last also called functional). Selective supraomohyoid dissection takes levels I-III above the omohyoid."
+  },
+  {
+   "id": "SURG-U66-16",
+   "ch": 66,
+   "n": 16,
+   "title": "Central Neck Dissection, Complications and Flaps",
+   "sec": "Central Neck Dissection, Complications and Flaps · p517",
+   "qs": [
+    "SURG-C66-138",
+    "SURG-C66-139",
+    "SURG-C66-140",
+    "SURG-C66-141",
+    "SURG-C66-142",
+    "SURG-C66-143",
+    "SURG-C66-144",
+    "SURG-C66-145",
+    "SURG-C66-146",
+    "SURG-C66-147"
+   ],
+   "guide": "Central neck dissection removes level VI. Complications: bleeding, infection and nerve injury — marginal mandibular nerve supplying the angle of mouth (avoided by incising 2 finger breadths from the mandible), spinal accessory (drooping painful shoulder), hypoglossal and phrenic — plus carotid blowout, where infection opens the artery and the patient bleeds to death. The PMMC flap is the m/c head and neck flap; the Abbe-Estlander flap, based on labial vessels, rebuilds lip and angle of mouth."
+  },
+  {
+   "id": "SURG-U66-17",
+   "ch": 66,
+   "n": 17,
+   "title": "Free Flaps",
+   "sec": "Free Flaps · p518",
+   "qs": [
+    "SURG-C66-148",
+    "SURG-C66-149",
+    "SURG-C66-150",
+    "SURG-C66-151",
+    "SURG-C66-152",
+    "SURG-C66-153"
+   ],
+   "guide": "Free flaps move tissue from one site to another. The radial artery forearm flap — preceded by Allen's test — is the most versatile for head and neck. The free fibular flap, on peroneal vessels, rebuilds the mandible, especially in edentulous patients."
+  },
+  {
+   "id": "SURG-U66-18",
+   "ch": 66,
+   "n": 18,
+   "title": "Adjuvant Therapy and Prognosis",
+   "sec": "Adjuvant Therapy and Prognosis · p518",
+   "qs": [
+    "SURG-C66-154",
+    "SURG-C66-155",
+    "SURG-C66-156",
+    "SURG-C66-157",
+    "SURG-C66-158",
+    "SURG-C66-159",
+    "SURG-C66-160",
+    "SURG-C66-161",
+    "SURG-C66-162",
+    "SURG-C66-163"
+   ],
+   "guide": "Adjuvant chemo/radiotherapy follows high risk features: extranodal extension, lymphovascular invasion, perineural invasion and involved margins. Radiotherapy needs one major (extranodal extension ± involved margins) or two minor indications (close margins, multiple involved nodes, lymph node invasion, perineural invasion). Concurrent chemo-radiation works better because the chemoagent radiosensitizes; neoadjuvant therapy shrinks advanced tumours before surgery; PDL-1 inhibitors serve recurrent or metastatic SCC. Lymph node status is the most important prognostic factor."
+  },
+  {
+   "id": "SURG-U66-19",
+   "ch": 66,
+   "n": 19,
+   "title": "Metastasis from Unknown Primary",
+   "sec": "Metastasis from Unknown Primary · p519",
+   "qs": [
+    "SURG-C66-164",
+    "SURG-C66-165",
+    "SURG-C66-166",
+    "SURG-C66-167",
+    "SURG-C66-168",
+    "SURG-C66-169",
+    "SURG-C66-170",
+    "SURG-C66-171",
+    "SURG-C66-172",
+    "SURG-C66-173"
+   ],
+   "guide": "An enlarged cervical node goes to FNAC; if cancer is found but no primary, hunt the hidden sites — retromolar trigone (behind the 3rd molar), base of tongue, tonsillar fossa, fossa of Rosenmuller in the nasopharynx and pyriform sinus. PET-CT whole body scanning with 18-FDG (half life 110 minutes) locates the primary."
+  },
+  {
+   "id": "SURG-U66-20",
+   "ch": 66,
+   "n": 20,
+   "title": "Dentigerous Cyst, Dental Cyst and Ameloblastoma",
+   "sec": "Dentigerous Cyst, Dental Cyst and Ameloblastoma · p519",
+   "qs": [
+    "SURG-C66-174",
+    "SURG-C66-175",
+    "SURG-C66-176",
+    "SURG-C66-177",
+    "SURG-C66-178",
+    "SURG-C66-179",
+    "SURG-C66-180",
+    "SURG-C66-181",
+    "SURG-C66-182"
+   ],
+   "guide": "Dentigerous cyst hangs on an UNERUPTED tooth, usually the 3rd molar, and is enucleated; a dental cyst sits on a CARIED tooth and is cured by removing that tooth. Ameloblastoma is a bony hard mandibular tumour diagnosed on orthopantomogram and treated by wide local excision."
+  }
+ ]
+}
