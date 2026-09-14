@@ -1,0 +1,2034 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C52-001",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Pressure sores are formed when constant pressure exceeds:",
+   "opts": [
+    ">30 mmHg",
+    ">15 mmHg",
+    ">60 mmHg",
+    ">90 mmHg"
+   ],
+   "ans": 0,
+   "exp": ">30 mmHg (Book p393)"
+  },
+  {
+   "id": "SURG-C52-002",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "The same pressure threshold (>30 mmHg) is quoted for:",
+   "opts": [
+    "Compartment syndrome",
+    "Crush syndrome",
+    "Tourniquet palsy",
+    "Raynaud phenomenon"
+   ],
+   "ans": 0,
+   "exp": "Compartment syndrome (Book p393)"
+  },
+  {
+   "id": "SURG-C52-003",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "The m/c site of bed sores is:",
+   "opts": [
+    "Ischium",
+    "Greater trochanter",
+    "Sacrum",
+    "Heel"
+   ],
+   "ans": 0,
+   "exp": "Ischium (Book p393)"
+  },
+  {
+   "id": "SURG-C52-004",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "The second commonest site of bed sores is:",
+   "opts": [
+    "Greater trochanter",
+    "Ischium",
+    "Sacrum",
+    "Heel"
+   ],
+   "ans": 0,
+   "exp": "Greater trochanter (Book p393)"
+  },
+  {
+   "id": "SURG-C52-005",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "In the bed-sore site order Ischium > Greater trochanter > Sacrum > Heel, the least common listed site is:",
+   "opts": [
+    "Heel",
+    "Sacrum",
+    "Greater trochanter",
+    "Ischium"
+   ],
+   "ans": 0,
+   "exp": "Heel (Book p393)"
+  },
+  {
+   "id": "SURG-C52-006",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Stage 1 pressure sore is:",
+   "opts": [
+    "Non-blanchable erythema of intact skin",
+    "Partial thickness skin loss with exposed dermis",
+    "Full thickness skin loss",
+    "Full thickness skin and tissue loss"
+   ],
+   "ans": 0,
+   "exp": "Non-blanchable erythema of intact skin (Book p393)"
+  },
+  {
+   "id": "SURG-C52-007",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Stage 1 pressure sore treatment includes:",
+   "opts": [
+    "Keep area dry",
+    "Debridement and VAC",
+    "Flap closure",
+    "Immediate suturing"
+   ],
+   "ans": 0,
+   "exp": "Keep area dry (Book p393)"
+  },
+  {
+   "id": "SURG-C52-008",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Offloading in stage 1 bed sores is achieved with:",
+   "opts": [
+    "Air/water mattress",
+    "Ripple bed of steel",
+    "Hard board",
+    "Sand bag"
+   ],
+   "ans": 0,
+   "exp": "Air/water mattress (Book p393)"
+  },
+  {
+   "id": "SURG-C52-009",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Opsite spray in stage 1 bed sores:",
+   "opts": [
+    "Prevents ↑ staging",
+    "Treats infection",
+    "Debrides slough",
+    "Closes the ulcer"
+   ],
+   "ans": 0,
+   "exp": "Prevents ↑ staging (Book p393)"
+  },
+  {
+   "id": "SURG-C52-010",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Stage 2 pressure sore is:",
+   "opts": [
+    "Partial thickness skin loss with exposed dermis",
+    "Non-blanchable erythema of intact skin",
+    "Full thickness skin loss",
+    "Full thickness skin and tissue loss"
+   ],
+   "ans": 0,
+   "exp": "Partial thickness skin loss with exposed dermis (Book p393)"
+  },
+  {
+   "id": "SURG-C52-011",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Stage 3 pressure sore is:",
+   "opts": [
+    "Full thickness skin loss",
+    "Partial thickness skin loss with exposed dermis",
+    "Full thickness skin and tissue loss",
+    "Non-blanchable erythema"
+   ],
+   "ans": 0,
+   "exp": "Full thickness skin loss (Book p393)"
+  },
+  {
+   "id": "SURG-C52-012",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Stage 4 pressure sore is:",
+   "opts": [
+    "Full thickness skin and tissue loss",
+    "Full thickness skin loss",
+    "Partial thickness skin loss",
+    "Intact skin with erythema"
+   ],
+   "ans": 0,
+   "exp": "Full thickness skin and tissue loss (Book p393)"
+  },
+  {
+   "id": "SURG-C52-013",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Stages 2-3 pressure sores are treated by:",
+   "opts": [
+    "Debridement → VAC dressing (−ve pressure)",
+    "Debridement → flap closure",
+    [
+     "Opsite spray only"
+    ],
+    "Primary suturing"
+   ],
+   "ans": 0,
+   "exp": "Debridement → VAC dressing (−ve pressure) (Book p393)"
+  },
+  {
+   "id": "SURG-C52-014",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "Stage 4 pressure sores are treated by:",
+   "opts": [
+    "Debridement → flap closure (Eg: Tensor fascia lata flap)",
+    "Debridement → VAC dressing",
+    [
+     "Opsite spray"
+    ],
+    "Offloading alone"
+   ],
+   "ans": 0,
+   "exp": "Debridement → flap closure (Eg: Tensor fascia lata flap) (Book p393)"
+  },
+  {
+   "id": "SURG-C52-015",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "An example flap for stage 4 bed sore closure is:",
+   "opts": [
+    "Tensor fascia lata flap",
+    "Deltopectoral flap",
+    [
+     "Radial forearm flap"
+    ],
+    "Free fibular flap"
+   ],
+   "ans": 0,
+   "exp": "Tensor fascia lata flap (Book p393)"
+  },
+  {
+   "id": "SURG-C52-016",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "'Unstageable full-thickness pressure injury' means:",
+   "opts": [
+    "Obscured full-thickness skin and tissue loss",
+    "Persistent non-blanchable deep red discoloration",
+    [
+     "Partial thickness loss"
+    ],
+    "Intact skin with blanchable erythema"
+   ],
+   "ans": 0,
+   "exp": "Obscured full-thickness skin and tissue loss (Book p393)"
+  },
+  {
+   "id": "SURG-C52-017",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management",
+   "page": 393,
+   "q": "'Deep tissue pressure injury' shows:",
+   "opts": [
+    "Persistent, non-blanchable, deep red/maroon/purple discoloration (skin intact)",
+    "Obscured full-thickness loss",
+    [
+     "Blanchable erythema"
+    ],
+    "Exposed dermis"
+   ],
+   "ans": 0,
+   "exp": "Persistent, non-blanchable, deep red/maroon/purple discoloration (skin intact) (Book p393)"
+  },
+  {
+   "id": "SURG-C52-018",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "A predisposing factor for bed sores is:",
+   "opts": [
+    "Wheelchair bound patient",
+    "Ambulant patient",
+    [
+     "Young age"
+    ],
+    "High serum albumin"
+   ],
+   "ans": 0,
+   "exp": "Wheelchair bound patient (Book p394)"
+  },
+  {
+   "id": "SURG-C52-019",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "Poor nutritional status predisposing to bed sores is marked by:",
+   "opts": [
+    "↓ S. albumin",
+    "↑ S. albumin",
+    [
+     "↑ S. globulin"
+    ],
+    "↓ S. calcium"
+   ],
+   "ans": 0,
+   "exp": "↓ S. albumin (Book p394)"
+  },
+  {
+   "id": "SURG-C52-020",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "Another predisposing local factor for bed sores is:",
+   "opts": [
+    "Wet/macerated area",
+    "Dry skin",
+    [
+     "Well-padded bony prominences"
+    ],
+    "Clean skin"
+   ],
+   "ans": 0,
+   "exp": "Wet/macerated area (Book p394)"
+  },
+  {
+   "id": "SURG-C52-021",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "Adequate nutrition for bed-sore prevention means:",
+   "opts": [
+    "Monitor and correct S. albumin",
+    "High fat diet",
+    [
+     "Fluid restriction"
+    ],
+    "Vitamin A megadose"
+   ],
+   "ans": 0,
+   "exp": "Monitor and correct S. albumin (Book p394)"
+  },
+  {
+   "id": "SURG-C52-022",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "The bedsheet for a bedridden patient should be:",
+   "opts": [
+    "Dry + no wrinkles",
+    "Wet and smooth",
+    [
+     "Dry with wrinkles"
+    ],
+    "Synthetic and damp"
+   ],
+   "ans": 0,
+   "exp": "Dry + no wrinkles (Book p394)"
+  },
+  {
+   "id": "SURG-C52-023",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "A bed-bound patient should be repositioned:",
+   "opts": [
+    "Every 2 hours",
+    "Every 30 minutes",
+    [
+     "Every 6 hours"
+    ],
+    "Once daily"
+   ],
+   "ans": 0,
+   "exp": "Every 2 hours (Book p394)"
+  },
+  {
+   "id": "SURG-C52-024",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "A wheelchair-bound patient should lift for 10 sec:",
+   "opts": [
+    "Every 10 minutes",
+    "Every 2 hours",
+    [
+     "Every 30 minutes"
+    ],
+    "Every 5 minutes"
+   ],
+   "ans": 0,
+   "exp": "Every 10 minutes (Book p394)"
+  },
+  {
+   "id": "SURG-C52-025",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "An air/water mattress is used when:",
+   "opts": [
+    "The patient is unable to change position (offloading)",
+    "The patient is ambulant",
+    [
+     "Infection is present"
+    ],
+    "The sore is stage 4"
+   ],
+   "ans": 0,
+   "exp": "The patient is unable to change position (offloading) (Book p394)"
+  },
+  {
+   "id": "SURG-C52-026",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "VAC dressing stands for:",
+   "opts": [
+    "Vacuum assisted closure",
+    "Vascular access catheter",
+    [
+     "Vacuum applied compression"
+    ],
+    "Vapour assisted closure"
+   ],
+   "ans": 0,
+   "exp": "Vacuum assisted closure (Book p394)"
+  },
+  {
+   "id": "SURG-C52-027",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "VAC dressing applies a negative pressure occlusive dressing of:",
+   "opts": [
+    "−125 mmHg",
+    "−75 mmHg",
+    [
+     "−250 mmHg"
+    ],
+    "−20 mmHg"
+   ],
+   "ans": 0,
+   "exp": "−125 mmHg (Book p394)"
+  },
+  {
+   "id": "SURG-C52-028",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "VAC hastens wound healing by:",
+   "opts": [
+    "Sucking out dead tissue",
+    "Adding growth factors",
+    [
+     "Keeping the wound dry"
+    ],
+    "Immobilising the limb"
+   ],
+   "ans": 0,
+   "exp": "Sucking out dead tissue (Book p394)"
+  },
+  {
+   "id": "SURG-C52-029",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "VAC ↑ vascularity; its m/c complication is:",
+   "opts": [
+    "Bleeding",
+    "Infection",
+    [
+     "Flap necrosis"
+    ],
+    "Pain only"
+   ],
+   "ans": 0,
+   "exp": "Bleeding (Book p394)"
+  },
+  {
+   "id": "SURG-C52-030",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "Increased vascularity with VAC leads to:",
+   "opts": [
+    "↑ cytokines/cells for healing",
+    "↓ cytokines",
+    [
+     "Fibrosis"
+    ],
+    "Ischemia"
+   ],
+   "ans": 0,
+   "exp": "↑ cytokines/cells for healing (Book p394)"
+  },
+  {
+   "id": "SURG-C52-031",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "An indication for VAC dressing is:",
+   "opts": [
+    "Chronic non-healing wounds",
+    "Untreated osteomyelitis",
+    [
+     "Malignant wound"
+    ],
+    "Dry eschar"
+   ],
+   "ans": 0,
+   "exp": "Chronic non-healing wounds (Book p394)"
+  },
+  {
+   "id": "SURG-C52-032",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "VAC can be used on a venous ulcer only when it is:",
+   "opts": [
+    "Without slough",
+    "With slough",
+    [
+     "Infected"
+    ],
+    "Ischemic"
+   ],
+   "ans": 0,
+   "exp": "Without slough (Book p394)"
+  },
+  {
+   "id": "SURG-C52-033",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "VAC can be used on burn wounds only when they are:",
+   "opts": [
+    "Without eschar",
+    "With eschar",
+    [
+     "Full thickness only"
+    ],
+    "Circumferential"
+   ],
+   "ans": 0,
+   "exp": "Without eschar (Book p394)"
+  },
+  {
+   "id": "SURG-C52-034",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "For bed sores, VAC is applied:",
+   "opts": [
+    "After debridement",
+    "Before debridement",
+    [
+     "Instead of debridement"
+    ],
+    "Only in stage 1"
+   ],
+   "ans": 0,
+   "exp": "After debridement (Book p394)"
+  },
+  {
+   "id": "SURG-C52-035",
+   "sec": "Bed Sore Prevention and VAC Dressing",
+   "page": 394,
+   "q": "VAC is indicated in diabetic ulcer only when there is no:",
+   "opts": [
+    "Osteomyelitis",
+    "Neuropathy",
+    [
+     "Ischemia"
+    ],
+    "Callus"
+   ],
+   "ans": 0,
+   "exp": "Osteomyelitis (Book p394)"
+  },
+  {
+   "id": "SURG-C52-036",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 394,
+   "q": "The correct order of wound healing phases is:",
+   "opts": [
+    "Hemostasis → Inflammatory → Proliferative → Remodelling",
+    "Inflammatory → Hemostasis → Proliferative → Remodelling",
+    [
+     "Hemostasis → Proliferative → Inflammatory → Remodelling"
+    ],
+    "Remodelling → Proliferative → Inflammatory → Hemostasis"
+   ],
+   "ans": 0,
+   "exp": "Hemostasis → Inflammatory → Proliferative → Remodelling (Book p394)"
+  },
+  {
+   "id": "SURG-C52-037",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 394,
+   "q": "The inflammatory phase of wound healing lasts:",
+   "opts": [
+    "Upto 4 days",
+    "Upto 24 hours",
+    [
+     "Upto 14 days"
+    ],
+    "Upto 3 months"
+   ],
+   "ans": 0,
+   "exp": "Upto 4 days (Book p394)"
+  },
+  {
+   "id": "SURG-C52-038",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 394,
+   "q": "In the inflammatory phase, neutrophils (acute phase) are later replaced by:",
+   "opts": [
+    "Macrophages",
+    "Fibroblasts",
+    [
+     "Lymphocytes"
+    ],
+    "Mast cells"
+   ],
+   "ans": 0,
+   "exp": "Macrophages (Book p394)"
+  },
+  {
+   "id": "SURG-C52-039",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "The proliferative phase begins:",
+   "opts": [
+    "After 4 days",
+    "After 24 hours",
+    [
+     "After 14 days"
+    ],
+    "After 3 months"
+   ],
+   "ans": 0,
+   "exp": "After 4 days (Book p395)"
+  },
+  {
+   "id": "SURG-C52-040",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "In the proliferative phase the predominant cells are:",
+   "opts": [
+    "Macrophages and fibroblasts",
+    "Neutrophils and lymphocytes",
+    [
+     "Platelets and mast cells"
+    ],
+    "Keratinocytes only"
+   ],
+   "ans": 0,
+   "exp": "Macrophages and fibroblasts (Book p395)"
+  },
+  {
+   "id": "SURG-C52-041",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "Fibroblasts in the proliferative phase lay down:",
+   "opts": [
+    "Type 3 collagen (disorganised)",
+    "Type 1 collagen (organised)",
+    [
+     "Type 4 collagen"
+    ],
+    "Elastin only"
+   ],
+   "ans": 0,
+   "exp": "Type 3 collagen (disorganised) (Book p395)"
+  },
+  {
+   "id": "SURG-C52-042",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "In the remodelling phase:",
+   "opts": [
+    "Type 1 collagen replaces type 3 in a ratio 4:1",
+    "Type 3 collagen replaces type 1 in a ratio 4:1",
+    [
+     "Type 1 replaces type 3 in a ratio 1:4"
+    ],
+    "Collagen is completely removed"
+   ],
+   "ans": 0,
+   "exp": "Type 1 collagen replaces type 3 in a ratio 4:1 (Book p395)"
+  },
+  {
+   "id": "SURG-C52-043",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "Wound strength at 1 week is about:",
+   "opts": [
+    "~10% of normal",
+    "~50% of normal",
+    [
+     "~70-80% of normal"
+    ],
+    "~100% of normal"
+   ],
+   "ans": 0,
+   "exp": "~10% of normal (Book p395)"
+  },
+  {
+   "id": "SURG-C52-044",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "Wound strength at 3 months is about:",
+   "opts": [
+    "70-80% of normal (maximum)",
+    "10% of normal",
+    [
+     "40-50% of normal"
+    ],
+    "100% of normal"
+   ],
+   "ans": 0,
+   "exp": "70-80% of normal (maximum) (Book p395)"
+  },
+  {
+   "id": "SURG-C52-045",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "With time a healed wound:",
+   "opts": [
+    "Never regains original strength",
+    "Regains original strength by 6 months",
+    [
+     "Exceeds original strength"
+    ],
+    "Regains strength only if sutured"
+   ],
+   "ans": 0,
+   "exp": "Never regains original strength (Book p395)"
+  },
+  {
+   "id": "SURG-C52-046",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 395,
+   "q": "The matrix-changes graph of wound healing plots collagen I, collagen III, fibronectin and:",
+   "opts": [
+    "Wound strength",
+    "Epithelial thickness",
+    [
+     "Vascularity"
+    ],
+    "Tensile elasticity"
+   ],
+   "ans": 0,
+   "exp": "Wound strength (Book p395)"
+  },
+  {
+   "id": "SURG-C52-047",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 394,
+   "q": "The cellular-changes graph of wound healing plots neutrophils, macrophages, fibroblasts and:",
+   "opts": [
+    "Lymphocytes",
+    "Platelets",
+    [
+     "Keratinocytes"
+    ],
+    "Mast cells"
+   ],
+   "ans": 0,
+   "exp": "Lymphocytes (Book p394)"
+  },
+  {
+   "id": "SURG-C52-048",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength",
+   "page": 394,
+   "q": "On the wound healing timeline the maturation phase extends upto:",
+   "opts": [
+    "36 months",
+    "14 days",
+    [
+     "6 months"
+    ],
+    "12 months"
+   ],
+   "ans": 0,
+   "exp": "36 months (Book p394)"
+  },
+  {
+   "id": "SURG-C52-049",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "A local factor affecting wound healing is:",
+   "opts": [
+    "Foreign body",
+    "Anemia",
+    [
+     "Steroids"
+    ],
+    "Malnutrition"
+   ],
+   "ans": 0,
+   "exp": "Foreign body (Book p395)"
+  },
+  {
+   "id": "SURG-C52-050",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Another local factor affecting wound healing is:",
+   "opts": [
+    "Radiation",
+    "Vitamin C deficiency",
+    [
+     "Immunocompromise"
+    ],
+    "Diabetes"
+   ],
+   "ans": 0,
+   "exp": "Radiation (Book p395)"
+  },
+  {
+   "id": "SURG-C52-051",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "A systemic factor affecting wound healing is:",
+   "opts": [
+    "Anemia",
+    "Foreign body",
+    [
+     "Trauma"
+    ],
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Anemia (Book p395)"
+  },
+  {
+   "id": "SURG-C52-052",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Malnutrition impairs wound healing when S. albumin is:",
+   "opts": [
+    "<3 gm/dL",
+    "<5 gm/dL",
+    [
+     "<1 gm/dL"
+    ],
+    ">4 gm/dL"
+   ],
+   "ans": 0,
+   "exp": "<3 gm/dL (Book p395)"
+  },
+  {
+   "id": "SURG-C52-053",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Vitamin C deficiency causes:",
+   "opts": [
+    "Abnormal collagen/matrix deposition",
+    "Inhibition of inflammatory phase",
+    [
+     "Excess granulation"
+    ],
+    "Early epithelialisation"
+   ],
+   "ans": 0,
+   "exp": "Abnormal collagen/matrix deposition (Book p395)"
+  },
+  {
+   "id": "SURG-C52-054",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Steroids impair healing by:",
+   "opts": [
+    "Inhibiting the inflammatory phase",
+    "Causing abnormal collagen deposition",
+    [
+     "Lysing fibroblasts"
+    ],
+    "Blocking angiogenesis only"
+   ],
+   "ans": 0,
+   "exp": "Inhibiting the inflammatory phase (Book p395)"
+  },
+  {
+   "id": "SURG-C52-055",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "If steroids must be continued around injury, they should only be restarted:",
+   "opts": [
+    "3-4 days post injury",
+    "Immediately",
+    [
+     "After 3 weeks"
+    ],
+    "After 3 months"
+   ],
+   "ans": 0,
+   "exp": "3-4 days post injury (Book p395)"
+  },
+  {
+   "id": "SURG-C52-056",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Primary intention healing is seen in:",
+   "opts": [
+    "Sutured wound",
+    "Gaping irregular wound",
+    [
+     "Left-open wound"
+    ],
+    "Infected wound"
+   ],
+   "ans": 0,
+   "exp": "Sutured wound (Book p395)"
+  },
+  {
+   "id": "SURG-C52-057",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Primary intention healing shows:",
+   "opts": [
+    "Minimal granulation",
+    "↑ granulation",
+    [
+     "↑ contracture"
+    ],
+    "Bad scar"
+   ],
+   "ans": 0,
+   "exp": "Minimal granulation (Book p395)"
+  },
+  {
+   "id": "SURG-C52-058",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "The scar of primary intention healing is:",
+   "opts": [
+    "Good scar with minimal wound contracture",
+    "Keloid",
+    [
+     "Hypertrophic"
+    ],
+    "Wide and contracted"
+   ],
+   "ans": 0,
+   "exp": "Good scar with minimal wound contracture (Book p395)"
+  },
+  {
+   "id": "SURG-C52-059",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Secondary intention healing means:",
+   "opts": [
+    "Wound left open",
+    "Wound sutured immediately",
+    [
+     "Wound resutured late"
+    ],
+    "Wound grafted"
+   ],
+   "ans": 0,
+   "exp": "Wound left open (Book p395)"
+  },
+  {
+   "id": "SURG-C52-060",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Secondary intention healing shows:",
+   "opts": [
+    "↑ granulation and contracture",
+    "Minimal granulation",
+    [
+     "Minimal contracture"
+    ],
+    "Hairline scar"
+   ],
+   "ans": 0,
+   "exp": "↑ granulation and contracture (Book p395)"
+  },
+  {
+   "id": "SURG-C52-061",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Time to heal in secondary intention is:",
+   "opts": [
+    "↑ (increased)",
+    "↓ (decreased)",
+    [
+     "Same as primary"
+    ],
+    "Nil"
+   ],
+   "ans": 0,
+   "exp": "↑ (increased) (Book p395)"
+  },
+  {
+   "id": "SURG-C52-062",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 395,
+   "q": "Secondary intention healing ends in:",
+   "opts": [
+    "Bad scar (keloid/hypertrophic)",
+    "Hairline scar",
+    [
+     "Good scar"
+    ],
+    "No scar"
+   ],
+   "ans": 0,
+   "exp": "Bad scar (keloid/hypertrophic) (Book p395)"
+  },
+  {
+   "id": "SURG-C52-063",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 396,
+   "q": "Tertiary intention healing means:",
+   "opts": [
+    "Wound initially left open, then resutured once healthy granulation tissue (+)",
+    "Wound sutured immediately",
+    [
+     "Wound never sutured"
+    ],
+    "Wound grafted primarily"
+   ],
+   "ans": 0,
+   "exp": "Wound initially left open, then resutured once healthy granulation tissue (+) (Book p396)"
+  },
+  {
+   "id": "SURG-C52-064",
+   "sec": "Factors Affecting Wound Healing and Types of Healing",
+   "page": 396,
+   "q": "Tertiary intention healing ends with:",
+   "opts": [
+    "Late suturing with wide scar",
+    "Hairline scar",
+    [
+     "No scar"
+    ],
+    "Minimal scar"
+   ],
+   "ans": 0,
+   "exp": "Late suturing with wide scar (Book p396)"
+  },
+  {
+   "id": "SURG-C52-065",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Keloids are characterised by:",
+   "opts": [
+    "↑ type III collagen",
+    "↓ type III collagen",
+    [
+     "↑ type I collagen only"
+    ],
+    "No collagen change"
+   ],
+   "ans": 0,
+   "exp": "↑ type III collagen (Book p396)"
+  },
+  {
+   "id": "SURG-C52-066",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "The m/c site of keloids is:",
+   "opts": [
+    "Sternum",
+    "Ear lobe",
+    [
+     "Shoulders"
+    ],
+    "Extensor surfaces"
+   ],
+   "ans": 0,
+   "exp": "Sternum (Book p396)"
+  },
+  {
+   "id": "SURG-C52-067",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Other classic keloid sites include:",
+   "opts": [
+    "Ear lobe and shoulders",
+    "Palms and soles",
+    [
+     "Scalp only"
+    ],
+    "Flexures"
+   ],
+   "ans": 0,
+   "exp": "Ear lobe and shoulders (Book p396)"
+  },
+  {
+   "id": "SURG-C52-068",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Hypertrophic scars classically occur on:",
+   "opts": [
+    "Extensor surfaces",
+    "Sternum",
+    [
+     "Ear lobe"
+    ],
+    "Flexor surfaces"
+   ],
+   "ans": 0,
+   "exp": "Extensor surfaces (Book p396)"
+  },
+  {
+   "id": "SURG-C52-069",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Keloids are predisposed in:",
+   "opts": [
+    "Dark skin",
+    "Children",
+    [
+     "Fair skin"
+    ],
+    "Elderly"
+   ],
+   "ans": 0,
+   "exp": "Dark skin (Book p396)"
+  },
+  {
+   "id": "SURG-C52-070",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Hypertrophic scars are predisposed in:",
+   "opts": [
+    "Children",
+    "Dark skin adults",
+    [
+     "Elderly"
+    ],
+    "Pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Children (Book p396)"
+  },
+  {
+   "id": "SURG-C52-071",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Keloid growth characteristically:",
+   "opts": [
+    "Grows beyond the boundary of scar",
+    "Grows within the boundary of scar",
+    [
+     "Stops at epithelialisation"
+    ],
+    "Never grows"
+   ],
+   "ans": 0,
+   "exp": "Grows beyond the boundary of scar (Book p396)"
+  },
+  {
+   "id": "SURG-C52-072",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Hypertrophic scar growth:",
+   "opts": [
+    "Grows within the boundary of scar",
+    "Grows beyond the boundary",
+    [
+     "Invades deeper fascia"
+    ],
+    "Metastasises"
+   ],
+   "ans": 0,
+   "exp": "Grows within the boundary of scar (Book p396)"
+  },
+  {
+   "id": "SURG-C52-073",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "With time/pressure a keloid:",
+   "opts": [
+    "Does not subside",
+    "Subsides",
+    [
+     "Disappears"
+    ],
+    "Blanches"
+   ],
+   "ans": 0,
+   "exp": "Does not subside (Book p396)"
+  },
+  {
+   "id": "SURG-C52-074",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "With time/pressure a hypertrophic scar:",
+   "opts": [
+    "Subsides",
+    "Does not subside",
+    [
+     "Enlarges"
+    ],
+    "Ulcerates"
+   ],
+   "ans": 0,
+   "exp": "Subsides (Book p396)"
+  },
+  {
+   "id": "SURG-C52-075",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "The clinical feature of a keloid is:",
+   "opts": [
+    "Raised, red, itchy lesion",
+    "Flat pale lesion",
+    [
+     "Depressed atrophic lesion"
+    ],
+    "Pigmented macule"
+   ],
+   "ans": 0,
+   "exp": "Raised, red, itchy lesion (Book p396)"
+  },
+  {
+   "id": "SURG-C52-076",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "First-line treatment of keloids is:",
+   "opts": [
+    "Intralesional triamcinolone",
+    "Silicon gel pads",
+    [
+     "Excision always"
+    ],
+    "Radiotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Intralesional triamcinolone (Book p396)"
+  },
+  {
+   "id": "SURG-C52-077",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Recurrent keloids are treated with:",
+   "opts": [
+    "Sx excision, laser/radiotherapy",
+    "Intralesional triamcinolone only",
+    [
+     "Silicon gel pads"
+    ],
+    "Pressure garments alone"
+   ],
+   "ans": 0,
+   "exp": "Sx excision, laser/radiotherapy (Book p396)"
+  },
+  {
+   "id": "SURG-C52-078",
+   "sec": "Keloids vs Hypertrophic Scars",
+   "page": 396,
+   "q": "Hypertrophic scars are treated with:",
+   "opts": [
+    "Silicon gel pads",
+    "Intralesional triamcinolone",
+    [
+     "Sx excision"
+    ],
+    "Radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Silicon gel pads (Book p396)"
+  },
+  {
+   "id": "SURG-C52-079",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "The incidence of cleft lip/palate is:",
+   "opts": [
+    "1 in 600 live births",
+    "1 in 60 live births",
+    [
+     "1 in 6000 live births"
+    ],
+    "1 in 60,000 live births"
+   ],
+   "ans": 0,
+   "exp": "1 in 600 live births (Book p396)"
+  },
+  {
+   "id": "SURG-C52-080",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "Cleft lip/palate occurs:",
+   "opts": [
+    "Males > females",
+    "Females > males",
+    [
+     "Equally"
+    ],
+    "Only in males"
+   ],
+   "ans": 0,
+   "exp": "Males > females (Book p396)"
+  },
+  {
+   "id": "SURG-C52-081",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "The m/c cleft defect is:",
+   "opts": [
+    "Combined lip + palate",
+    "Isolated cleft lip",
+    [
+     "Isolated cleft palate"
+    ],
+    "Alveolar cleft"
+   ],
+   "ans": 0,
+   "exp": "Combined lip + palate (Book p396)"
+  },
+  {
+   "id": "SURG-C52-082",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "A maternal intake risk factor for clefting is:",
+   "opts": [
+    "Phenytoin",
+    "Folic acid",
+    [
+     "Penicillin"
+    ],
+    "Iron"
+   ],
+   "ans": 0,
+   "exp": "Phenytoin (Book p396)"
+  },
+  {
+   "id": "SURG-C52-083",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "Other maternal intake risk factors for clefting include:",
+   "opts": [
+    "Anti-epileptics and steroids",
+    "Antibiotics",
+    [
+     "Antacids"
+    ],
+    "Antihistamines"
+   ],
+   "ans": 0,
+   "exp": "Anti-epileptics and steroids (Book p396)"
+  },
+  {
+   "id": "SURG-C52-084",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "The genetic risk factor for clefting listed is:",
+   "opts": [
+    "Pierre Robin syndrome",
+    "Down syndrome",
+    [
+     "Turner syndrome"
+    ],
+    "Marfan syndrome"
+   ],
+   "ans": 0,
+   "exp": "Pierre Robin syndrome (Book p396)"
+  },
+  {
+   "id": "SURG-C52-085",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "Pierre Robin syndrome shows:",
+   "opts": [
+    "Retrognathia with posteriorly displaced tongue",
+    "Prognathia with anterior tongue",
+    [
+     "Macroglossia only"
+    ],
+    "Ankyloglossia"
+   ],
+   "ans": 0,
+   "exp": "Retrognathia with posteriorly displaced tongue (Book p396)"
+  },
+  {
+   "id": "SURG-C52-086",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 396,
+   "q": "Pierre Robin syndrome is associated with:",
+   "opts": [
+    "Isolated cleft palate",
+    "Combined lip and palate",
+    [
+     "Isolated cleft lip"
+    ],
+    "No cleft"
+   ],
+   "ans": 0,
+   "exp": "Isolated cleft palate (Book p396)"
+  },
+  {
+   "id": "SURG-C52-087",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "In cleft documentation, the first 'L' stands for:",
+   "opts": [
+    "Lip (one side)",
+    "Lip (other side)",
+    [
+     "Alveolus"
+    ],
+    "Labium majus"
+   ],
+   "ans": 0,
+   "exp": "Lip (one side) (Book p397)"
+  },
+  {
+   "id": "SURG-C52-088",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "In cleft documentation, 'H' stands for:",
+   "opts": [
+    "Hard palate",
+    "Soft palate",
+    [
+     "Hemilip"
+    ],
+    "Hard palate other side"
+   ],
+   "ans": 0,
+   "exp": "Hard palate (Book p397)"
+  },
+  {
+   "id": "SURG-C52-089",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "In cleft documentation, 'S' stands for:",
+   "opts": [
+    "Soft palate",
+    "Hard palate",
+    [
+     "Septum"
+    ],
+    "Sinus"
+   ],
+   "ans": 0,
+   "exp": "Soft palate (Book p397)"
+  },
+  {
+   "id": "SURG-C52-090",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "In cleft documentation, a capital letter denotes:",
+   "opts": [
+    "Complete defect",
+    "Partial defect",
+    [
+     "Unilateral defect"
+    ],
+    "Bilateral defect"
+   ],
+   "ans": 0,
+   "exp": "Complete defect (Book p397)"
+  },
+  {
+   "id": "SURG-C52-091",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "In cleft documentation, a small letter denotes:",
+   "opts": [
+    "Partial defect",
+    "Complete defect",
+    [
+     "Midline defect"
+    ],
+    "Repaired defect"
+   ],
+   "ans": 0,
+   "exp": "Partial defect (Book p397)"
+  },
+  {
+   "id": "SURG-C52-092",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "A child with complete cleft lip with partial alveolar and soft palate defect of 1 side is documented as:",
+   "opts": [
+    "Las",
+    "LAS",
+    [
+     "LasH"
+    ],
+    "lAS"
+   ],
+   "ans": 0,
+   "exp": "Las (Book p397)"
+  },
+  {
+   "id": "SURG-C52-093",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "A clinical feature of cleft lip/palate is:",
+   "opts": [
+    "Cosmetic issues",
+    "Hearing normality",
+    [
+     "No speech problem"
+    ],
+    "Feeding ease"
+   ],
+   "ans": 0,
+   "exp": "Cosmetic issues (Book p397)"
+  },
+  {
+   "id": "SURG-C52-094",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "Repair of cleft lip/palate must be done before:",
+   "opts": [
+    "Speech development",
+    "Dentition",
+    [
+     "Puberty"
+    ],
+    "School admission only for cosmetics"
+   ],
+   "ans": 0,
+   "exp": "Speech development (Book p397)"
+  },
+  {
+   "id": "SURG-C52-095",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "page": 397,
+   "q": "Feeding problems and middle ear infections are features of:",
+   "opts": [
+    "Cleft palate",
+    "Cleft lip only",
+    [
+     "Alveolar cleft only"
+    ],
+    "Both are absent"
+   ],
+   "ans": 0,
+   "exp": "Cleft palate (Book p397)"
+  },
+  {
+   "id": "SURG-C52-096",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "Cleft lip surgery is done after:",
+   "opts": [
+    "3-6 months",
+    "3-6 weeks",
+    [
+     "12-15 months"
+    ],
+    "1 year"
+   ],
+   "ans": 0,
+   "exp": "3-6 months (Book p397)"
+  },
+  {
+   "id": "SURG-C52-097",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "The (old) Rule of 10 for cleft lip repair includes age:",
+   "opts": [
+    "10 weeks",
+    "10 days",
+    [
+     "10 months"
+    ],
+    "10 years"
+   ],
+   "ans": 0,
+   "exp": "10 weeks (Book p397)"
+  },
+  {
+   "id": "SURG-C52-098",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "The Rule of 10 includes weight:",
+   "opts": [
+    "10 pounds",
+    "10 kg",
+    [
+     "10 ounces"
+    ],
+    "10 grams"
+   ],
+   "ans": 0,
+   "exp": "10 pounds (Book p397)"
+  },
+  {
+   "id": "SURG-C52-099",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "The Rule of 10 includes haemoglobin:",
+   "opts": [
+    "10 gm%",
+    "8 gm%",
+    [
+     "12 gm%"
+    ],
+    "14 gm%"
+   ],
+   "ans": 0,
+   "exp": "10 gm% (Book p397)"
+  },
+  {
+   "id": "SURG-C52-100",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "The m/c repair for cleft lip is:",
+   "opts": [
+    "Millard repair",
+    "Wardill-Kilner",
+    [
+     "Von Langenbeck"
+    ],
+    "V-Y plasty"
+   ],
+   "ans": 0,
+   "exp": "Millard repair (Book p397)"
+  },
+  {
+   "id": "SURG-C52-101",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "Soft palate repair is done after:",
+   "opts": [
+    "3-6 months",
+    "12-15 months",
+    [
+     "3-6 weeks"
+    ],
+    "2 years"
+   ],
+   "ans": 0,
+   "exp": "3-6 months (Book p397)"
+  },
+  {
+   "id": "SURG-C52-102",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "Hard palate repair is done after:",
+   "opts": [
+    "12-15 months",
+    "3-6 months",
+    [
+     "6-9 months"
+    ],
+    "5 years"
+   ],
+   "ans": 0,
+   "exp": "12-15 months (Book p397)"
+  },
+  {
+   "id": "SURG-C52-103",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "Hard palate repair is deliberately delayed to:",
+   "opts": [
+    "Allow for complete bony growth",
+    "Allow speech to develop first",
+    [
+     "Reduce anaesthesia risk"
+    ],
+    "Let teeth erupt"
+   ],
+   "ans": 0,
+   "exp": "Allow for complete bony growth (Book p397)"
+  },
+  {
+   "id": "SURG-C52-104",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "A unipedicled palate surgery type is:",
+   "opts": [
+    "Wardill-Kilner/V-Y plasty",
+    "Von Langenbeck repair",
+    [
+     "Millard repair"
+    ],
+    "Furlow repair"
+   ],
+   "ans": 0,
+   "exp": "Wardill-Kilner/V-Y plasty (Book p397)"
+  },
+  {
+   "id": "SURG-C52-105",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "A bipedicled palate surgery type is:",
+   "opts": [
+    "Von Langenbeck repair",
+    "Wardill-Kilner",
+    [
+     "V-Y plasty"
+    ],
+    "Millard repair"
+   ],
+   "ans": 0,
+   "exp": "Von Langenbeck repair (Book p397)"
+  },
+  {
+   "id": "SURG-C52-106",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "A complication of cleft surgery is:",
+   "opts": [
+    "Bleeding",
+    "Hypertrophy of scar only",
+    [
+     "Dental caries"
+    ],
+    "Nasal polyps"
+   ],
+   "ans": 0,
+   "exp": "Bleeding (Book p397)"
+  },
+  {
+   "id": "SURG-C52-107",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "Another complication of cleft surgery is:",
+   "opts": [
+    "Mal-aligned cupid's bow",
+    "Vermillion excess",
+    [
+     "Nasal septal perforation"
+    ],
+    "Trismus"
+   ],
+   "ans": 0,
+   "exp": "Mal-aligned cupid's bow (Book p397)"
+  },
+  {
+   "id": "SURG-C52-108",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "Velopharyngeal insufficiency after cleft palate repair means:",
+   "opts": [
+    "Palate moves with speech",
+    "Palate fails to elevate ever",
+    [
+     "Nasal regurgitation of solids"
+    ],
+    "Snoring"
+   ],
+   "ans": 0,
+   "exp": "Palate moves with speech (Book p397)"
+  },
+  {
+   "id": "SURG-C52-109",
+   "sec": "Cleft Lip and Palate: Management and Complications",
+   "page": 397,
+   "q": "The landmark aligned during cleft lip repair is the:",
+   "opts": [
+    "Vermillion border",
+    "Alar base only",
+    [
+     "Philtral column only"
+    ],
+    "Nasal sill only"
+   ],
+   "ans": 0,
+   "exp": "Vermillion border (Book p397)"
+  },
+  {
+   "id": "SURG-C52-110",
+   "sec": "Tissue Expanders",
+   "page": 398,
+   "q": "The principle of tissue expanders is:",
+   "opts": [
+    "Mechanical stimulus → induce tissue growth (generate soft tissue)",
+    "Chemical stimulus → induce bone growth",
+    [
+     "Thermal stimulus → induce fat growth"
+    ],
+    "Electrical stimulus → induce nerve growth"
+   ],
+   "ans": 0,
+   "exp": "Mechanical stimulus → induce tissue growth (generate soft tissue) (Book p398)"
+  },
+  {
+   "id": "SURG-C52-111",
+   "sec": "Tissue Expanders",
+   "page": 398,
+   "q": "Tissue expanders ↑ surface area initially by:",
+   "opts": [
+    "Stretching",
+    "Tissue growth",
+    [
+     "Cell migration"
+    ],
+    "Edema"
+   ],
+   "ans": 0,
+   "exp": "Stretching (Book p398)"
+  },
+  {
+   "id": "SURG-C52-112",
+   "sec": "Tissue Expanders",
+   "page": 398,
+   "q": "Later, expander-driven ↑ surface area is by:",
+   "opts": [
+    "Tissue growth",
+    "Stretching",
+    [
+     "Elastic recoil"
+    ],
+    "Fluid injection"
+   ],
+   "ans": 0,
+   "exp": "Tissue growth (Book p398)"
+  },
+  {
+   "id": "SURG-C52-113",
+   "sec": "Tissue Expanders",
+   "page": 398,
+   "q": "A histological change under a tissue expander is:",
+   "opts": [
+    "Dermal thinning",
+    "Dermal thickening",
+    [
+     "Epidermal thinning"
+    ],
+    "Fat hypertrophy"
+   ],
+   "ans": 0,
+   "exp": "Dermal thinning (Book p398)"
+  },
+  {
+   "id": "SURG-C52-114",
+   "sec": "Tissue Expanders",
+   "page": 398,
+   "q": "Another histological change under a tissue expander is:",
+   "opts": [
+    "Epidermal thickening",
+    "Epidermal thinning",
+    [
+     "Dermal fibrosis"
+    ],
+    "Appendage loss"
+   ],
+   "ans": 0,
+   "exp": "Epidermal thickening (Book p398)"
+  },
+  {
+   "id": "SURG-C52-115",
+   "sec": "Tissue Expanders",
+   "page": 398,
+   "q": "Subcutaneous fat under a tissue expander shows:",
+   "opts": [
+    "Atrophy",
+    "Hypertrophy",
+    [
+     "Necrosis"
+    ],
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "Atrophy (Book p398)"
+  },
+  {
+   "id": "SURG-C52-116",
+   "sec": "Tissue Expanders",
+   "page": 398,
+   "q": "Tissue expansion has:",
+   "opts": [
+    "No effect on skin appendages",
+    "Destroyed appendages",
+    [
+     "Increased appendages"
+    ],
+    "Appendage migration"
+   ],
+   "ans": 0,
+   "exp": "No effect on skin appendages (Book p398)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U52-1",
+   "ch": 52,
+   "n": 1,
+   "title": "Bed Sores/Pressure Sores: Grading and Management",
+   "sec": "Bed Sores/Pressure Sores: Grading and Management · p393",
+   "qs": [
+    "SURG-C52-001",
+    "SURG-C52-002",
+    "SURG-C52-003",
+    "SURG-C52-004",
+    "SURG-C52-005",
+    "SURG-C52-006",
+    "SURG-C52-007",
+    "SURG-C52-008",
+    "SURG-C52-009",
+    "SURG-C52-010",
+    "SURG-C52-011",
+    "SURG-C52-012",
+    "SURG-C52-013",
+    "SURG-C52-014",
+    "SURG-C52-015",
+    "SURG-C52-016",
+    "SURG-C52-017"
+   ],
+   "guide": "Constant pressure above 30 mmHg — the same figure as compartment syndrome — kills skin over ischium first, then greater trochanter, sacrum and heel. Stage 1 is non-blanchable erythema of intact skin managed by keeping the area dry, offloading on air/water mattresses and Opsite spray to stop upstaging; stage 2 (partial thickness loss with exposed dermis) and stage 3 (full thickness skin loss) need debridement then −ve-pressure VAC, while stage 4 (full thickness skin and tissue loss) needs debridement then flap closure such as the tensor fascia lata flap. Recent updates add unstageable full-thickness pressure injury (obscured loss) and deep tissue pressure injury (persistent non-blanchable deep red/maroon/purple with intact skin)."
+  },
+  {
+   "id": "SURG-U52-2",
+   "ch": 52,
+   "n": 2,
+   "title": "Bed Sore Prevention and VAC Dressing",
+   "sec": "Bed Sore Prevention and VAC Dressing · p394",
+   "qs": [
+    "SURG-C52-018",
+    "SURG-C52-019",
+    "SURG-C52-020",
+    "SURG-C52-021",
+    "SURG-C52-022",
+    "SURG-C52-023",
+    "SURG-C52-024",
+    "SURG-C52-025",
+    "SURG-C52-026",
+    "SURG-C52-027",
+    "SURG-C52-028",
+    "SURG-C52-029",
+    "SURG-C52-030",
+    "SURG-C52-031",
+    "SURG-C52-032",
+    "SURG-C52-033",
+    "SURG-C52-034",
+    "SURG-C52-035"
+   ],
+   "guide": "Wheelchair binding, low serum albumin and wet macerated skin set the stage for pressure sores, countered by correcting albumin, keeping bedsheets dry and wrinkle-free, turning bed-bound patients every 2 hours, lifting wheelchair patients 10 seconds every 10 minutes and offloading on air/water mattresses. VAC (vacuum assisted closure) seals the wound at −125 mmHg, sucks out dead tissue and raises vascularity — bleeding being the commonest complication — which floods the wound with cytokines and healing cells; it suits chronic non-healing wounds, slough-free venous ulcers, eschar-free burns, debrided bed sores and diabetic ulcers without osteomyelitis."
+  },
+  {
+   "id": "SURG-U52-3",
+   "ch": 52,
+   "n": 3,
+   "title": "Wound Healing: Phases, Cells and Wound Strength",
+   "sec": "Wound Healing: Phases, Cells and Wound Strength · p394",
+   "qs": [
+    "SURG-C52-036",
+    "SURG-C52-037",
+    "SURG-C52-038",
+    "SURG-C52-039",
+    "SURG-C52-040",
+    "SURG-C52-041",
+    "SURG-C52-042",
+    "SURG-C52-043",
+    "SURG-C52-044",
+    "SURG-C52-045",
+    "SURG-C52-046",
+    "SURG-C52-047",
+    "SURG-C52-048"
+   ],
+   "guide": "Healing runs hemostasis → inflammatory (upto 4 days, neutrophils handing over to macrophages) → proliferative (after 4 days, macrophages and fibroblasts laying disorganised type 3 collagen) → remodelling, where type 1 collagen replaces type 3 at 4:1. Strength climbs from ~10% of normal at one week to a ceiling of 70-80% at three months and never regains the original; the matrix curve tracks collagen I, collagen III, fibronectin and wound strength while the cellular curve tracks neutrophils, macrophages, fibroblasts and lymphocytes out to a maturation phase of 36 months."
+  },
+  {
+   "id": "SURG-U52-4",
+   "ch": 52,
+   "n": 4,
+   "title": "Factors Affecting Wound Healing and Types of Healing",
+   "sec": "Factors Affecting Wound Healing and Types of Healing · p395",
+   "qs": [
+    "SURG-C52-049",
+    "SURG-C52-050",
+    "SURG-C52-051",
+    "SURG-C52-052",
+    "SURG-C52-053",
+    "SURG-C52-054",
+    "SURG-C52-055",
+    "SURG-C52-056",
+    "SURG-C52-057",
+    "SURG-C52-058",
+    "SURG-C52-059",
+    "SURG-C52-060",
+    "SURG-C52-061",
+    "SURG-C52-062",
+    "SURG-C52-063",
+    "SURG-C52-064"
+   ],
+   "guide": "Local enemies of healing are foreign body, radiation, infection and trauma; systemic ones are anemia, malnutrition with albumin below 3 gm/dL, immunocompromise, vitamin C deficiency causing abnormal collagen/matrix deposition, and steroids that inhibit the inflammatory phase and should only restart 3-4 days post injury. Sutured clean wounds heal by primary intention with minimal granulation, minimal contracture and a good hairline scar; open gaping wounds heal by secondary intention with exuberant granulation, contracture, delayed healing and keloid/hypertrophic scarring; wounds left open then resutured once healthy granulation appears heal by tertiary intention with a wide scar."
+  },
+  {
+   "id": "SURG-U52-5",
+   "ch": 52,
+   "n": 5,
+   "title": "Keloids vs Hypertrophic Scars",
+   "sec": "Keloids vs Hypertrophic Scars · p396",
+   "qs": [
+    "SURG-C52-065",
+    "SURG-C52-066",
+    "SURG-C52-067",
+    "SURG-C52-068",
+    "SURG-C52-069",
+    "SURG-C52-070",
+    "SURG-C52-071",
+    "SURG-C52-072",
+    "SURG-C52-073",
+    "SURG-C52-074",
+    "SURG-C52-075",
+    "SURG-C52-076",
+    "SURG-C52-077",
+    "SURG-C52-078"
+   ],
+   "guide": "Keloids are type-III-collagen-rich tumours of scar that favour sternum, ear lobe and shoulders in dark-skinned patients, grow beyond the scar boundary, never subside with time or pressure and present as raised, red, itchy lesions treated by intralesional triamcinolone, with recurrences needing excision plus laser/radiotherapy. Hypertrophic scars prefer extensor surfaces in children, stay within the scar boundary, subside with time/pressure and respond to silicon gel pads."
+  },
+  {
+   "id": "SURG-U52-6",
+   "ch": 52,
+   "n": 6,
+   "title": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation",
+   "sec": "Cleft Lip and Palate: Epidemiology, Risk Factors and Documentation · p396",
+   "qs": [
+    "SURG-C52-079",
+    "SURG-C52-080",
+    "SURG-C52-081",
+    "SURG-C52-082",
+    "SURG-C52-083",
+    "SURG-C52-084",
+    "SURG-C52-085",
+    "SURG-C52-086",
+    "SURG-C52-087",
+    "SURG-C52-088",
+    "SURG-C52-089",
+    "SURG-C52-090",
+    "SURG-C52-091",
+    "SURG-C52-092",
+    "SURG-C52-093",
+    "SURG-C52-094",
+    "SURG-C52-095"
+   ],
+   "guide": "Cleft lip and palate strike 1 in 600 live births, boys more than girls, most often as combined lip plus palate; maternal phenytoin, anti-epileptics and steroids plus the genetic Pierre Robin syndrome (retrognathia with posteriorly displaced tongue and isolated cleft palate) drive risk. Documentation reads L-A-H-S-A-L across the two sides with capital letters for complete and small letters for partial defects, so a complete lip with partial alveolar and soft palate on one side writes 'Las'. Cosmetics, speech (repair must precede speech development) and, in cleft palate, feeding problems and middle ear infections dominate the clinical picture."
+  },
+  {
+   "id": "SURG-U52-7",
+   "ch": 52,
+   "n": 7,
+   "title": "Cleft Lip and Palate: Management and Complications",
+   "sec": "Cleft Lip and Palate: Management and Complications · p397",
+   "qs": [
+    "SURG-C52-096",
+    "SURG-C52-097",
+    "SURG-C52-098",
+    "SURG-C52-099",
+    "SURG-C52-100",
+    "SURG-C52-101",
+    "SURG-C52-102",
+    "SURG-C52-103",
+    "SURG-C52-104",
+    "SURG-C52-105",
+    "SURG-C52-106",
+    "SURG-C52-107",
+    "SURG-C52-108",
+    "SURG-C52-109"
+   ],
+   "guide": "Cleft lip is closed at 3-6 months once the old Rule of 10 (10 weeks, 10 pounds, 10 gm% Hb) is met, usually by Millard repair; soft palate follows at 3-6 months while hard palate waits till 12-15 months to allow complete bony growth. Palate surgery is unipedicled (Wardill-Kilner/V-Y plasty) or bipedicled (Von Langenbeck), and complications run bleeding, infection, mal-aligned cupid's bow at the vermillion border and velopharyngeal insufficiency with the palate moving during speech."
+  },
+  {
+   "id": "SURG-U52-8",
+   "ch": 52,
+   "n": 8,
+   "title": "Tissue Expanders",
+   "sec": "Tissue Expanders · p398",
+   "qs": [
+    "SURG-C52-110",
+    "SURG-C52-111",
+    "SURG-C52-112",
+    "SURG-C52-113",
+    "SURG-C52-114",
+    "SURG-C52-115",
+    "SURG-C52-116"
+   ],
+   "guide": "Tissue expanders convert mechanical stretch into biological gain: initial surface-area increase comes from stretching and later from true tissue growth, generating extra soft tissue for reconstruction. Under the expander the dermis thins, the epidermis thickens and subcutaneous fat atrophies, while skin appendages remain untouched."
+  }
+ ]
+}
