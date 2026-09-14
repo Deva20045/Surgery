@@ -23,6 +23,13 @@ Surgery Vol. 1-*.pdf, Surgery Vol. 2_part_*.pdf   ← scanned source PDFs (no te
 ## ▶ Play
 Open `index.html` (or `pulse-surgery-complete.html`) in any browser.
 
+## Sandbox setup (redo at the start of every new session — the box starts empty)
+```bash
+pip3 install --break-system-packages pymupdf rapidocr-onnxruntime opencv-python-headless
+```
+Install `opencv-python-headless`, NOT `opencv-python` — the plain wheel needs `libGL.so.1`,
+which the sandbox lacks, so `import cv2` (and therefore RapidOCR) fails. OCR is fully offline.
+
 ## Continue work (new session)
 1. Say **"continue"** in the Arena session — the agent reads PROGRESS.md (single source of truth).
 2. Source PDFs are stored in this repo root — no re-upload needed.

@@ -1,0 +1,3261 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C33-001",
+   "sec": "Surgical Anatomy of the Rectum",
+   "page": 233,
+   "q": "The rectum measures approximately how much in length?",
+   "opts": [
+    "12-14 cm",
+    "5-7 cm",
+    "20-25 cm",
+    "30-35 cm"
+   ],
+   "ans": 0,
+   "exp": "The chapter states that the rectum is 12-14 cm in length. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-002",
+   "sec": "Surgical Anatomy of the Rectum",
+   "page": 233,
+   "q": "The upper and the lower parts of the rectum are convex towards the:",
+   "opts": [
+    "Right",
+    "Left",
+    "Anteriorly",
+    "Posteriorly"
+   ],
+   "ans": 0,
+   "exp": "Upper and lower parts of the rectum are convex towards the right. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-003",
+   "sec": "Surgical Anatomy of the Rectum",
+   "page": 233,
+   "q": "The middle part of the rectum is convex towards the:",
+   "opts": [
+    "Left",
+    "Right",
+    "Anteriorly",
+    "Posteriorly"
+   ],
+   "ans": 0,
+   "exp": "The middle part of the rectum is convex towards the left — the rectum has three lateral curves. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-004",
+   "sec": "Surgical Anatomy of the Rectum",
+   "page": 233,
+   "q": "Which part of the rectum is not covered with peritoneum?",
+   "opts": [
+    "Lower part",
+    "Upper third only",
+    "Middle part",
+    "Whole rectum"
+   ],
+   "ans": 0,
+   "exp": "Only the lower part of the rectum is not covered with peritoneum; the upper part is intraperitoneal. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-005",
+   "sec": "Surgical Anatomy of the Rectum",
+   "page": 233,
+   "q": "Resection of the rectum below the peritoneum is the applied anatomy of:",
+   "opts": [
+    "Low anterior resection",
+    "Abdominoperineal resection only",
+    "Right hemicolectomy",
+    "Hartmann's procedure"
+   ],
+   "ans": 0,
+   "exp": "The applied anatomy note says that resection of rectum below the peritoneum is a low anterior resection. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-006",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "The anorectal ring is formed by the:",
+   "opts": [
+    "Levator ani",
+    "External sphincter only",
+    "Internal sphincter only",
+    "Pubococcygeus and iliococcygeus only"
+   ],
+   "ans": 0,
+   "exp": "The anorectal ring is formed by the levator ani. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-007",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "The distance from the anorectal ring to the dentate line is approximately:",
+   "opts": [
+    "2-2.5 cm",
+    "0.5-1 cm",
+    "5-6 cm",
+    "8-10 cm"
+   ],
+   "ans": 0,
+   "exp": "The diagram labels the anorectal ring to dentate line distance as 2-2.5 cm. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-008",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "The distance from the dentate line to the anal verge is approximately:",
+   "opts": [
+    "2-2.5 cm",
+    "0.5-1 cm",
+    "5-6 cm",
+    "8-10 cm"
+   ],
+   "ans": 0,
+   "exp": "The dentate line to anal verge distance is also labelled 2-2.5 cm, so the whole surgical anal canal is roughly 4-5 cm. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-009",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "Sensation above the dentate line is characterised by:",
+   "opts": [
+    "No pain sensations",
+    "Exquisite pain sensation",
+    "Only temperature sensation",
+    "Only touch sensation"
+   ],
+   "ans": 0,
+   "exp": "Above the dentate line there are no pain sensations — that is why painless banding and injection are done there. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-010",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "Pain sensation below the dentate line is:",
+   "opts": [
+    "Present",
+    "Absent",
+    "Present only on the right side",
+    "Absent because of pudendal blockade"
+   ],
+   "ans": 0,
+   "exp": "Below the dentate line pain sensations are present — the lining is somatic sensitive squamous epithelium. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-011",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "Injury to the anal sphincters results in:",
+   "opts": [
+    "Incontinence",
+    "Rectal prolapse only",
+    "Constipation only",
+    "No functional deficit"
+   ],
+   "ans": 0,
+   "exp": "The page notes that injury to the sphincters causes incontinence. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-012",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "The epithelium proximal to the dentate line is:",
+   "opts": [
+    "Columnar",
+    "Modified squamous",
+    "Stratified keratinised squamous",
+    "Transitional"
+   ],
+   "ans": 0,
+   "exp": "Proximal to the dentate line the epithelium is columnar. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-013",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "The tumour that arises from the epithelium proximal to the dentate line is:",
+   "opts": [
+    "Adenocarcinoma",
+    "Squamous cell carcinoma",
+    "Melanoma",
+    "Basal cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Columnar epithelium above the dentate line gives rise to adenocarcinoma. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-014",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "The epithelium distal to the dentate line is:",
+   "opts": [
+    "Modified squamous",
+    "Columnar",
+    "Cuboidal",
+    "Transitional"
+   ],
+   "ans": 0,
+   "exp": "Distal to the dentate line the epithelium is modified squamous. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-015",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "A malignant growth of the epithelium distal to the dentate line is a:",
+   "opts": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Carcinoid",
+    "Lymphoma"
+   ],
+   "ans": 0,
+   "exp": "Modified squamous epithelium below the dentate line gives rise to squamous cell carcinoma. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-016",
+   "sec": "Anal Canal: Landmarks and Epithelium",
+   "page": 233,
+   "q": "A 60-year-old has a painful 1 cm ulcer at the anal margin. Pain localises the lesion to:",
+   "opts": [
+    "Below the dentate line",
+    "Above the dentate line",
+    "The rectosigmoid junction",
+    "The anorectal ring"
+   ],
+   "ans": 0,
+   "exp": "Pain means somatic sensory epithelium, i.e. the lesion lies below the dentate line; lesions above it are painless. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-017",
+   "sec": "Columns, Crypts and Haemorrhoidal Cushions",
+   "page": 233,
+   "q": "The columns of Morgagni are:",
+   "opts": [
+    "Folds of mucosa above the dentate line",
+    "Folds of mucosa below the dentate line",
+    "Anal glands",
+    "The three haemorrhoidal vessels"
+   ],
+   "ans": 0,
+   "exp": "Columns of Morgagni are folds of the mucosa above the dentate line. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-018",
+   "sec": "Columns, Crypts and Haemorrhoidal Cushions",
+   "page": 233,
+   "q": "The communication between the anal crypts and the anal glands is clinically important because it is the:",
+   "opts": [
+    "Site of abscess formation",
+    "Site of haemorrhoids",
+    "Site of the dentate line",
+    "Route of lymphatic spread to the liver"
+   ],
+   "ans": 0,
+   "exp": "The cryptoglandular communication is the site of abscess — the basis of the cryptoglandular hypothesis of fistula-in-ano. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-019",
+   "sec": "Columns, Crypts and Haemorrhoidal Cushions",
+   "page": 233,
+   "q": "The submucosa of the distal anal canal contains:",
+   "opts": [
+    "3 haemorrhoidal cushions / vascular channels",
+    "Only fat",
+    "Only lymphatics",
+    "Only smooth muscle"
+   ],
+   "ans": 0,
+   "exp": "There are 3 haemorrhoidal cushions (vascular channels) in the submucosa of the distal anal canal. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-020",
+   "sec": "Columns, Crypts and Haemorrhoidal Cushions",
+   "page": 233,
+   "q": "Which of the following is NOT one of the three classical positions of the anal cushions?",
+   "opts": [
+    "Left posterior",
+    "Left anterior",
+    "Right anterior",
+    "Right posterior"
+   ],
+   "ans": 0,
+   "exp": "The three primary positions are left anterior, right anterior and right posterior — not left posterior. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-021",
+   "sec": "Columns, Crypts and Haemorrhoidal Cushions",
+   "page": 233,
+   "q": "Prolapse of the anal cushions produces:",
+   "opts": [
+    "Haemorrhoids",
+    "Fissure",
+    "Fistula",
+    "Abscess"
+   ],
+   "ans": 0,
+   "exp": "The cushions prolapse to produce haemorrhoids; their position is the classical position of primary haemorrhoids. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-022",
+   "sec": "Nerve Supply of the Anal Sphincters",
+   "page": 233,
+   "q": "The internal anal sphincter receives parasympathetic fibres from:",
+   "opts": [
+    "S2, S3, S4",
+    "L5",
+    "T10-L1",
+    "S1 only"
+   ],
+   "ans": 0,
+   "exp": "Internal sphincter: parasympathetic from S2, S3, S4. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-023",
+   "sec": "Nerve Supply of the Anal Sphincters",
+   "page": 233,
+   "q": "The sympathetic supply of the internal anal sphincter comes from:",
+   "opts": [
+    "L5",
+    "T12",
+    "S1",
+    "S5"
+   ],
+   "ans": 0,
+   "exp": "Internal sphincter also receives sympathetic fibres from L5. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-024",
+   "sec": "Nerve Supply of the Anal Sphincters",
+   "page": 233,
+   "q": "The external anal sphincter is supplied by the:",
+   "opts": [
+    "Pudendal nerve (S2, S3, S4)",
+    "Pelvic splanchnic nerves only",
+    "Sympathetic chain only",
+    "Ilioinguinal nerve"
+   ],
+   "ans": 0,
+   "exp": "External sphincter: pudendal nerve, S2, S3, S4. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-025",
+   "sec": "Nerve Supply of the Anal Sphincters",
+   "page": 233,
+   "q": "Bilateral injury of the pudendal nerve causes:",
+   "opts": [
+    "Incontinence",
+    "No incontinence",
+    "Only constipation",
+    "Only rectal prolapse"
+   ],
+   "ans": 0,
+   "exp": "Bilateral (B/L) injury of the pudendal nerve causes incontinence. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-026",
+   "sec": "Nerve Supply of the Anal Sphincters",
+   "page": 233,
+   "q": "Unilateral injury of the pudendal nerve causes:",
+   "opts": [
+    "No incontinence",
+    "Immediate incontinence",
+    "Rectal prolapse",
+    "Faecal impaction"
+   ],
+   "ans": 0,
+   "exp": "Unilateral (U/L) injury does not cause incontinence because the opposite side maintains the sphincter. (Book p233)"
+  },
+  {
+   "id": "SURG-C33-027",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "Digital rectal examination is performed with the patient in the:",
+   "opts": [
+    "Sim's / left lateral position",
+    "Prone jack-knife position only",
+    "Standing position",
+    "Right lateral position only"
+   ],
+   "ans": 0,
+   "exp": "The position for DRE is Sim's (left lateral) position. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-028",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "Before performing a DRE the examinee must remember to do what the page lists first?",
+   "opts": [
+    "Inform the procedure and receive consent",
+    "Give an enema",
+    "Give sedation",
+    "Catheterise the bladder"
+   ],
+   "ans": 0,
+   "exp": "The page lists informing the procedure and receiving consent as the first step. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-029",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "All of the following are looked for on inspection of the anal region EXCEPT:",
+   "opts": [
+    "Prostate size",
+    "External opening of a fistula",
+    "External haemorrhoids",
+    "Growth"
+   ],
+   "ans": 0,
+   "exp": "Inspection looks for external opening of fistula, external haemorrhoids, a painful fissure and growth — the prostate is assessed by the examining finger, not by inspection. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-030",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "DRE is contraindicated when inspection shows:",
+   "opts": [
+    "A fissure",
+    "External haemorrhoids",
+    "A skin tag",
+    "An external fistulous opening"
+   ],
+   "ans": 0,
+   "exp": "A fissure is painful, so DRE is contraindicated. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-031",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "The digit used for DRE in adults is the:",
+   "opts": [
+    "Right index finger",
+    "Left index finger",
+    "Thumb",
+    "Middle finger"
+   ],
+   "ans": 0,
+   "exp": "In adults the (R) index finger is used. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-032",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "The digit used for DRE in children is the:",
+   "opts": [
+    "Little finger",
+    "Index finger",
+    "Thumb",
+    "Ring finger"
+   ],
+   "ans": 0,
+   "exp": "In children the little finger is used. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-033",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "On DRE the anterior (12 o'clock) relation in a male is the:",
+   "opts": [
+    "Prostate",
+    "Cervix",
+    "Pouch of Douglas",
+    "Sacral hollow"
+   ],
+   "ans": 0,
+   "exp": "Anteriorly in males the finger feels the prostate. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-034",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "On DRE the anterior relation in a female is the:",
+   "opts": [
+    "Cervix and pouch of Douglas",
+    "Prostate",
+    "Seminal vesicles",
+    "Bladder neck only"
+   ],
+   "ans": 0,
+   "exp": "Anteriorly in females the finger feels the cervix and the pouch of Douglas. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-035",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "The lateral wall of the rectum on the clock face corresponds to:",
+   "opts": [
+    "3 o'clock",
+    "12 o'clock",
+    "6 o'clock",
+    "8 o'clock"
+   ],
+   "ans": 0,
+   "exp": "The lateral wall is described as 3 o'clock (with the opposite lateral wall completing the clock face). (Book p234)"
+  },
+  {
+   "id": "SURG-C33-036",
+   "sec": "Rectal Examination: Position, Inspection and DRE",
+   "page": 234,
+   "q": "The posterior relation felt on DRE corresponds to:",
+   "opts": [
+    "6 o'clock",
+    "12 o'clock",
+    "3 o'clock",
+    "9 o'clock"
+   ],
+   "ans": 0,
+   "exp": "The posterior position (sacral hollow) is 6 o'clock. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-037",
+   "sec": "Endoscopic Visualization of the Anorectum",
+   "page": 234,
+   "q": "The approximate length of an anoscope is:",
+   "opts": [
+    "10 cm",
+    "13 cm",
+    "25 cm",
+    "60 cm"
+   ],
+   "ans": 0,
+   "exp": "Anoscope: ~10 cm. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-038",
+   "sec": "Endoscopic Visualization of the Anorectum",
+   "page": 234,
+   "q": "The approximate length of a proctoscope is:",
+   "opts": [
+    "13 cm",
+    "10 cm",
+    "60 cm",
+    "140 cm"
+   ],
+   "ans": 0,
+   "exp": "Proctoscope: ~13 cm. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-039",
+   "sec": "Endoscopic Visualization of the Anorectum",
+   "page": 234,
+   "q": "The length of a colonoscope as quoted in this chapter is:",
+   "opts": [
+    "110-140 cm",
+    "10-13 cm",
+    "60-70 cm",
+    "200-250 cm"
+   ],
+   "ans": 0,
+   "exp": "Colonoscope: length 110-140 cm. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-040",
+   "sec": "Endoscopic Visualization of the Anorectum",
+   "page": 234,
+   "q": "The instrument that is visualised from the anal canal till the caecum is the:",
+   "opts": [
+    "Colonoscope",
+    "Anoscope",
+    "Proctoscope",
+    "Sigmoidoscope"
+   ],
+   "ans": 0,
+   "exp": "The colonoscope is described as visualising from the anal canal till the caecum. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-041",
+   "sec": "Endoscopic Visualization of the Anorectum",
+   "page": 234,
+   "q": "The 60 cm instrument listed under visualization is taken up to the:",
+   "opts": [
+    "Sigmoid colon",
+    "Caecum",
+    "Terminal ileum",
+    "Anal canal only"
+   ],
+   "ans": 0,
+   "exp": "The 60 cm instrument (sigmoidoscope) is visualised until the sigmoid colon. (Book p234)"
+  },
+  {
+   "id": "SURG-C33-042",
+   "sec": "Endoscopic Visualization of the Anorectum",
+   "page": 234,
+   "q": "Arrange the instruments in increasing order of the length of bowel they can inspect:",
+   "opts": [
+    "Anoscope < proctoscope < sigmoidoscope < colonoscope",
+    "Proctoscope < anoscope < sigmoidoscope < colonoscope",
+    "Colonoscope < sigmoidoscope < proctoscope < anoscope",
+    "Sigmoidoscope < anoscope < proctoscope < colonoscope"
+   ],
+   "ans": 0,
+   "exp": "Anoscope ~10 cm, proctoscope ~13 cm, sigmoidoscope ~60 cm (till sigmoid colon), colonoscope 110-140 cm (till caecum). (Book p234)"
+  },
+  {
+   "id": "SURG-C33-043",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "Haemorrhoids are:",
+   "opts": [
+    "Dilated vascular channels",
+    "Dilated lymphatics",
+    "Hypertrophied anal papillae",
+    "Herniations of rectal muscle"
+   ],
+   "ans": 0,
+   "exp": "Haemorrhoids are dilated vascular channels. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-044",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "The bleeding in haemorrhoids is:",
+   "opts": [
+    "Arterial",
+    "Venous",
+    "Capillary oozing only",
+    "Mixed venous and lymphatic"
+   ],
+   "ans": 0,
+   "exp": "The chapter emphasises that haemorrhoidal bleeding is arterial. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-045",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "The most common cause of bleeding per rectum is:",
+   "opts": [
+    "Haemorrhoids",
+    "Carcinoma rectum",
+    "Anal fissure",
+    "Ulcerative colitis"
+   ],
+   "ans": 0,
+   "exp": "Haemorrhoids are stated to be the most common (m/c) cause of bleeding per rectum. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-046",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "Bleeding per rectum in haemorrhoids is usually:",
+   "opts": [
+    "Painless",
+    "Severely painful",
+    "Associated with tenesmus",
+    "Associated with mucus only"
+   ],
+   "ans": 0,
+   "exp": "Bleeding P/R is painless (usually). (Book p235)"
+  },
+  {
+   "id": "SURG-C33-047",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "Painful bleeding per rectum is seen with all EXCEPT:",
+   "opts": [
+    "Uncomplicated first degree internal haemorrhoids",
+    "External haemorrhoids (below the dentate line)",
+    "Thrombosed haemorrhoids",
+    "Anal fissure"
+   ],
+   "ans": 0,
+   "exp": "Painful bleeding is seen with external haemorrhoids (because of their location below the dentate line) and with thrombosed haemorrhoids; uncomplicated internal haemorrhoids above the dentate line bleed painlessly. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-048",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "External haemorrhoids are painful because they lie:",
+   "opts": [
+    "Below the dentate line",
+    "Above the dentate line",
+    "Within the rectal ampulla",
+    "Intersphincterically"
+   ],
+   "ans": 0,
+   "exp": "External haemorrhoids lie below the dentate line, where pain sensation is present. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-049",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "Which associated symptom is listed under the clinical features of haemorrhoids?",
+   "opts": [
+    "Constipation",
+    "Jaundice",
+    "Haematuria",
+    "Dysphagia"
+   ],
+   "ans": 0,
+   "exp": "Constipation is listed as a clinical feature/association of haemorrhoids. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-050",
+   "sec": "Haemorrhoids: Pathology and Clinical Features",
+   "page": 235,
+   "q": "The investigation of choice for haemorrhoids is:",
+   "opts": [
+    "Proctoscopy",
+    "Barium enema",
+    "Colonoscopy",
+    "MRI pelvis"
+   ],
+   "ans": 0,
+   "exp": "Investigation of choice: proctoscopy (haemorrhoids are visualised by the proctoscope). (Book p235)"
+  },
+  {
+   "id": "SURG-C33-051",
+   "sec": "Thrombosed Piles",
+   "page": 235,
+   "q": "A thrombosed pile is described in this chapter as:",
+   "opts": [
+    "A 5 day self healing lesion",
+    "A life-long lesion needing immediate surgery",
+    "A premalignant condition",
+    "A complication of Crohn's disease"
+   ],
+   "ans": 0,
+   "exp": "Thrombosed piles are described as a 5 day self healing lesion. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-052",
+   "sec": "Thrombosed Piles",
+   "page": 235,
+   "q": "Which statement about palpation in anorectal disease is correct?",
+   "opts": [
+    "Thrombosed piles are palpable on DRE but haemorrhoids are not",
+    "Both haemorrhoids and thrombosed piles are always palpable",
+    "Neither is ever palpable",
+    "Only internal haemorrhoids are palpable"
+   ],
+   "ans": 0,
+   "exp": "DRE: thrombosed piles are palpable, whereas haemorrhoids are not palpable. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-053",
+   "sec": "Thrombosed Piles",
+   "page": 235,
+   "q": "A thrombosed pile presents as:",
+   "opts": [
+    "A mass felt on DRE",
+    "A painless swelling that is never felt",
+    "A fungating growth",
+    "A fluid thrill"
+   ],
+   "ans": 0,
+   "exp": "The chapter lists a mass felt on DRE in thrombosed piles. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-054",
+   "sec": "Thrombosed Piles",
+   "page": 235,
+   "q": "Emergency surgery for a thrombosed pile offers:",
+   "opts": [
+    "Excision or evacuation of the clot",
+    "Immediate abdominoperineal resection",
+    "Only antibiotics",
+    "Only sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Emergency surgery is either excision or evacuation of the clot. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-055",
+   "sec": "Thrombosed Piles",
+   "page": 235,
+   "q": "Conservative treatment of a thrombosed pile is followed by definitive surgery after:",
+   "opts": [
+    "A few days to weeks",
+    "6 months",
+    "2 years",
+    "24 hours"
+   ],
+   "ans": 0,
+   "exp": "Conservative management lets the lesion heal (about 5 days) and definitive surgery is done after a few days to weeks. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-056",
+   "sec": "Thrombosed Piles",
+   "page": 235,
+   "q": "Which intervention is the investigation of choice in thrombosed piles?",
+   "opts": [
+    "Proctoscopy",
+    "Colonoscopy",
+    "MR fistulogram",
+    "Barium enema"
+   ],
+   "ans": 0,
+   "exp": "Investigation of choice: proctoscopy. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-057",
+   "sec": "Grading of Haemorrhoids",
+   "page": 235,
+   "q": "Grade I haemorrhoids:",
+   "opts": [
+    "Only bleed and do not prolapse",
+    "Prolapse and reduce spontaneously",
+    "Prolapse and need manual reduction",
+    "Remain permanently prolapsed"
+   ],
+   "ans": 0,
+   "exp": "Grade I: only bleed, do not prolapse. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-058",
+   "sec": "Grading of Haemorrhoids",
+   "page": 235,
+   "q": "Grade II haemorrhoids:",
+   "opts": [
+    "Prolapse and reduce spontaneously",
+    "Only bleed",
+    "Need manual reduction",
+    "Remain prolapsed"
+   ],
+   "ans": 0,
+   "exp": "Grade II: prolapse, spontaneously reduced. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-059",
+   "sec": "Grading of Haemorrhoids",
+   "page": 235,
+   "q": "Grade III haemorrhoids:",
+   "opts": [
+    "Prolapse and are manually reduced",
+    "Only bleed",
+    "Reduce spontaneously",
+    "Are permanently prolapsed and irreducible"
+   ],
+   "ans": 0,
+   "exp": "Grade III: prolapse, manually reduced. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-060",
+   "sec": "Grading of Haemorrhoids",
+   "page": 235,
+   "q": "Grade IV haemorrhoids:",
+   "opts": [
+    "Remain prolapsed",
+    "Only bleed",
+    "Reduce spontaneously",
+    "Reduce with manual pressure only"
+   ],
+   "ans": 0,
+   "exp": "Grade IV: remain prolapsed. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-061",
+   "sec": "Grading of Haemorrhoids",
+   "page": 235,
+   "q": "A patient who has to push a bleeding prolapsing mass back with his finger after every motion has:",
+   "opts": [
+    "Grade III haemorrhoids",
+    "Grade I haemorrhoids",
+    "Grade II haemorrhoids",
+    "Grade IV haemorrhoids"
+   ],
+   "ans": 0,
+   "exp": "Prolapse needing manual reduction is grade III. (Book p235)"
+  },
+  {
+   "id": "SURG-C33-062",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Conservative management of grade I haemorrhoids includes all of the following EXCEPT:",
+   "opts": [
+    "Emergency haemorrhoidectomy",
+    "Laxatives",
+    "Sitz bath with lukewarm water",
+    "Life style modification"
+   ],
+   "ans": 0,
+   "exp": "Grade I is managed conservatively — laxatives, sitz bath and life style changes; surgery belongs to the higher grades. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-063",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "A sitz bath helps because:",
+   "opts": [
+    "Lukewarm water relaxes the sphincter",
+    "Hot water scleroses the vessels",
+    "Cold water thromboses the pile",
+    "It sterilises the anal canal"
+   ],
+   "ans": 0,
+   "exp": "Sitz bath: lukewarm water relaxes the sphincter. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-064",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Management of grade II haemorrhoids is:",
+   "opts": [
+    "Management of grade I plus an office procedure",
+    "Immediate haemorrhoidectomy",
+    "Only observation",
+    "Seton insertion"
+   ],
+   "ans": 0,
+   "exp": "Grade II is managed as grade I plus an office procedure (banding / sclerotherapy). (Book p236)"
+  },
+  {
+   "id": "SURG-C33-065",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Rubber band ligation works by:",
+   "opts": [
+    "Cutting off the blood supply so the haemorrhoid sloughs off",
+    "Injecting a sclerosant into the pile",
+    "Stapling the mucosa back into position",
+    "Ligating the hemorrhoidal artery under Doppler guidance"
+   ],
+   "ans": 0,
+   "exp": "Banding cuts off the blood supply and the haemorrhoid sloughs off spontaneously. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-066",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Rubber band ligation must be applied:",
+   "opts": [
+    "Above the dentate line",
+    "Below the dentate line",
+    "At the anal verge",
+    "Within the intersphincteric plane"
+   ],
+   "ans": 0,
+   "exp": "Banding is done above the dentate line, which is painless. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-067",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Sclerotherapy injects the sclerosant:",
+   "opts": [
+    "Above the dentate line",
+    "Below the dentate line",
+    "Into the external sphincter",
+    "Into the ischiorectal fossa"
+   ],
+   "ans": 0,
+   "exp": "Application of sclerosing agents is above the dentate line. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-068",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "The effect of sclerotherapy on the pile is to:",
+   "opts": [
+    "Pull the haemorrhoids up so that they slough off",
+    "Thrombose them immediately",
+    "Divide the sphincter",
+    "Create a fibrous ring at the anorectal ring"
+   ],
+   "ans": 0,
+   "exp": "Sclerotherapy pulls the haemorrhoids up and they slough off. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-069",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "The most commonly used sclerosing agent for haemorrhoids is:",
+   "opts": [
+    "Sodium tetradecyl sulfate",
+    "Polidocanol",
+    "Phenol in almond oil",
+    "Sodium morrhuate"
+   ],
+   "ans": 0,
+   "exp": "Sodium tetradecyl sulfate is listed as the most common (m/c) sclerosing agent. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-070",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Which of the following is NOT listed as a sclerosing agent for piles?",
+   "opts": [
+    "Ethanolamine oleate",
+    "Sodium morrhuate",
+    "Polidocanol",
+    "Phenol in almond oil"
+   ],
+   "ans": 0,
+   "exp": "The listed agents are sodium tetradecyl sulfate, sodium morrhuate, polidocanol and phenol in almond oil. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-071",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Deep sclerotherapy can cause all of the following EXCEPT:",
+   "opts": [
+    "Retrograde ejaculation",
+    "Pain",
+    "Infection",
+    "Prostatitis (when done anteriorly)"
+   ],
+   "ans": 0,
+   "exp": "Deep sclerotherapy causes pain, infection and prostatitis when done anteriorly; retrograde ejaculation is listed as a complication of rectal prolapse surgery. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-072",
+   "sec": "Conservative and Office Management of Haemorrhoids",
+   "page": 236,
+   "q": "Prostatitis after sclerotherapy is due to injection:",
+   "opts": [
+    "Anteriorly",
+    "Posteriorly",
+    "At 6 o'clock",
+    "Into the rectum above the peritoneal reflection"
+   ],
+   "ans": 0,
+   "exp": "Anterior injection of sclerosant can produce prostatitis. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-073",
+   "sec": "Operative Management of Haemorrhoids",
+   "page": 236,
+   "q": "Grade III haemorrhoids are treated by:",
+   "opts": [
+    "Management of grade II ± surgery",
+    "Surgery alone in every case",
+    "Only sitz baths",
+    "Abdominoperineal resection"
+   ],
+   "ans": 0,
+   "exp": "Grade III: management of grade II ± surgery. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-074",
+   "sec": "Operative Management of Haemorrhoids",
+   "page": 236,
+   "q": "Grade IV haemorrhoids are treated by:",
+   "opts": [
+    "Surgery",
+    "Banding alone",
+    "Laxatives alone",
+    "Sclerotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Grade IV: surgery. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-075",
+   "sec": "Operative Management of Haemorrhoids",
+   "page": 236,
+   "q": "The Milligan-Morgan operation is the:",
+   "opts": [
+    "Open haemorrhoidectomy",
+    "Closed haemorrhoidectomy",
+    "Stapled haemorrhoidopexy",
+    "Doppler guided artery ligation"
+   ],
+   "ans": 0,
+   "exp": "Open haemorrhoidectomy is the Milligan-Morgan operation. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-076",
+   "sec": "Operative Management of Haemorrhoids",
+   "page": 236,
+   "q": "The Ferguson operation is the:",
+   "opts": [
+    "Closed haemorrhoidectomy",
+    "Open haemorrhoidectomy",
+    "Stapled haemorrhoidopexy",
+    "Lateral sphincterotomy"
+   ],
+   "ans": 0,
+   "exp": "Closed haemorrhoidectomy is the Ferguson operation. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-077",
+   "sec": "Operative Management of Haemorrhoids",
+   "page": 236,
+   "q": "The surgery of choice for haemorrhoids according to this chapter is:",
+   "opts": [
+    "Stapled haemorrhoidopexy",
+    "Open haemorrhoidectomy",
+    "Closed haemorrhoidectomy",
+    "Injection sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Stapled haemorrhoidopexy is stated to be the surgery of choice. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-078",
+   "sec": "Operative Management of Haemorrhoids",
+   "page": 236,
+   "q": "DGHAL expands to:",
+   "opts": [
+    "Doppler guided haemorrhoidal artery ligation",
+    "Direct guided haemorrhoidal ablation ligation",
+    "Distal haemorrhoidal artery ligation",
+    "Doppler guided hemorrhoidopexy and ligation"
+   ],
+   "ans": 0,
+   "exp": "DGHAL = Doppler guided haemorrhoidal artery ligation. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-079",
+   "sec": "Operative Management of Haemorrhoids",
+   "page": 236,
+   "q": "Which of the following is a non-excisional, Doppler guided day-care option for piles?",
+   "opts": [
+    "DGHAL",
+    "Milligan-Morgan haemorrhoidectomy",
+    "Ferguson haemorrhoidectomy",
+    "Fistulectomy"
+   ],
+   "ans": 0,
+   "exp": "Doppler guided haemorrhoidal artery ligation (DGHAL) is listed among the surgical options and does not excise tissue. (Book p236)"
+  },
+  {
+   "id": "SURG-C33-080",
+   "sec": "Complications of Haemorrhoids and Their Surgery",
+   "page": 237,
+   "q": "Reactionary haemorrhage after piles surgery is bleeding that occurs:",
+   "opts": [
+    "Within 24 hours of surgery",
+    "After 7 days",
+    "Only during defecation",
+    "Only after discharge"
+   ],
+   "ans": 0,
+   "exp": "Reactionary haemorrhage is listed as a complication (bleeding in the immediate post-operative period, within 24 hours). (Book p237)"
+  },
+  {
+   "id": "SURG-C33-081",
+   "sec": "Complications of Haemorrhoids and Their Surgery",
+   "page": 237,
+   "q": "Incontinence after piles surgery is due to:",
+   "opts": [
+    "Injury to the sphincter",
+    "Injury to the mucosa",
+    "Division of the dentate line",
+    "Ligation of the hemorrhoidal artery"
+   ],
+   "ans": 0,
+   "exp": "Incontinence is caused by injury to the sphincter. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-082",
+   "sec": "Complications of Haemorrhoids and Their Surgery",
+   "page": 237,
+   "q": "Which of the following is listed as a complication of the surgery for piles?",
+   "opts": [
+    "Recurrence",
+    "Portal pyaemia",
+    "Ulceration",
+    "Fibrosis"
+   ],
+   "ans": 0,
+   "exp": "Complications listed under surgery are reactionary haemorrhage, incontinence (sphincter injury) and recurrence. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-083",
+   "sec": "Complications of Haemorrhoids and Their Surgery",
+   "page": 237,
+   "q": "Which of the following is a complication of haemorrhoids themselves and not of their surgery?",
+   "opts": [
+    "Portal pyaemia",
+    "Reactionary haemorrhage",
+    "Incontinence from sphincter injury",
+    "Recurrence after excision"
+   ],
+   "ans": 0,
+   "exp": "Complications of haemorrhoids are thrombosis, gangrene, fibrosis, portal pyaemia and ulceration. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-084",
+   "sec": "Complications of Haemorrhoids and Their Surgery",
+   "page": 237,
+   "q": "All of the following are complications of haemorrhoids EXCEPT:",
+   "opts": [
+    "Retrograde ejaculation",
+    "Thrombosis",
+    "Gangrene",
+    "Ulceration"
+   ],
+   "ans": 0,
+   "exp": "Thrombosis, gangrene, fibrosis, portal pyaemia and ulceration are complications of haemorrhoids. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-085",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "An anal fissure is:",
+   "opts": [
+    "A breach in the continuity of the anal epithelium",
+    "A dilated vascular channel",
+    "A communication between two epithelial surfaces",
+    "A prolapse of rectal mucosa"
+   ],
+   "ans": 0,
+   "exp": "Anal fissure is a breach in the continuity of the anal epithelium. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-086",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "An anal fissure lies:",
+   "opts": [
+    "Below the dentate line",
+    "Above the dentate line",
+    "At the anorectal ring",
+    "In the rectum"
+   ],
+   "ans": 0,
+   "exp": "The fissure lies below the dentate line. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-087",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "The most common site of an anal fissure is:",
+   "opts": [
+    "6 o'clock (posterior midline)",
+    "3 o'clock",
+    "9 o'clock",
+    "12 o'clock"
+   ],
+   "ans": 0,
+   "exp": "The m/c position is 6 o'clock, i.e. the posterior midline. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-088",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "An anal fissure at 12 o'clock in a woman is classically associated with:",
+   "opts": [
+    "Obstructed labour",
+    "Crohn's disease",
+    "Tuberculosis",
+    "Previous haemorrhoidectomy"
+   ],
+   "ans": 0,
+   "exp": "A 12 o'clock (anterior) fissure is seen in obstructed labour. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-089",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "Which two symptoms are listed as the clinical features of an anal fissure?",
+   "opts": [
+    "Bleeding per rectum and constipation",
+    "Bleeding per rectum and jaundice",
+    "Constipation and haematuria",
+    "Discharge and prolapse"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: bleeding P/R and constipation. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-090",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "The classical triad seen in chronic anal fissure comprises the fissure, a hypertrophic papilla and:",
+   "opts": [
+    "A skin tag (sentinel pile)",
+    "A perianal abscess",
+    "An external opening",
+    "A haemorrhoidal cushion"
+   ],
+   "ans": 0,
+   "exp": "The diagram shows the triad of skin tag, fissure and hypertrophic papilla. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-091",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "The investigation of choice for an anal fissure is:",
+   "opts": [
+    "External inspection",
+    "DRE",
+    "Proctoscopy",
+    "Colonoscopy"
+   ],
+   "ans": 0,
+   "exp": "External inspection is the investigation of choice (IOC); DRE is contraindicated. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-092",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "The sentinel pile is another name for the:",
+   "opts": [
+    "Skin tag of a chronic fissure",
+    "Hypertrophic anal papilla",
+    "Thrombosed external pile",
+    "Perianal haematoma"
+   ],
+   "ans": 0,
+   "exp": "Skin tag is AKA sentinel pile and is seen in chronic fissure. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-093",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "The skin tag of a fissure is formed by:",
+   "opts": [
+    "Accumulation of lymphatics",
+    "Prolapsed mucosa",
+    "Thrombosed vessels",
+    "Granulation tissue only"
+   ],
+   "ans": 0,
+   "exp": "The sentinel pile results from accumulation of lymphatics. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-094",
+   "sec": "Anal Fissure: Pathology and Diagnosis",
+   "page": 237,
+   "q": "A 30-year-old man has severe cutting pain during defecation and a drop of blood on the stool. On examination the doctor avoids doing a DRE because:",
+   "opts": [
+    "It is contraindicated in a painful fissure",
+    "It may cause a perforation",
+    "It can convert the fissure into a fistula",
+    "It precipitates gangrene"
+   ],
+   "ans": 0,
+   "exp": "DRE is contraindicated in fissure — diagnosis is by gentle external inspection. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-095",
+   "sec": "Medical Management of Anal Fissure",
+   "page": 237,
+   "q": "Dietary advice in anal fissure includes all of the following EXCEPT:",
+   "opts": [
+    "A low residue diet",
+    "High fibre diet",
+    "Increased liquid intake",
+    "Avoiding fried and fatty food"
+   ],
+   "ans": 0,
+   "exp": "Life style changes recommended are a high fibre diet, increased liquid intake and avoiding fried/fatty food. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-096",
+   "sec": "Medical Management of Anal Fissure",
+   "page": 237,
+   "q": "The local anaesthetic jelly used before and after defecation in anal fissure is:",
+   "opts": [
+    "2% xylocaine jelly",
+    "0.5% xylocaine jelly",
+    "5% lidocaine patch",
+    "2% prilocaine cream"
+   ],
+   "ans": 0,
+   "exp": "2% xylocaine jelly is applied before and after defecation. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-097",
+   "sec": "Medical Management of Anal Fissure",
+   "page": 237,
+   "q": "Diltiazem cream is used in anal fissure because it:",
+   "opts": [
+    "Relaxes the sphincter",
+    "Acts as a local anaesthetic",
+    "Is an antibiotic",
+    "Hardens the stool"
+   ],
+   "ans": 0,
+   "exp": "Diltiazem cream is listed as relaxing the sphincter — it is a calcium channel blocker used as a chemical sphincterotomy. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-098",
+   "sec": "Medical Management of Anal Fissure",
+   "page": 237,
+   "q": "Topical nitrate gel for anal fissure is associated with which side effect?",
+   "opts": [
+    "Headache",
+    "Bradycardia",
+    "Hypoglycaemia",
+    "Bladder dysfunction"
+   ],
+   "ans": 0,
+   "exp": "The side effects listed for nitrate gel are headache and hypertension. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-099",
+   "sec": "Medical Management of Anal Fissure",
+   "page": 237,
+   "q": "Which of the following is a sphincter-relaxing measure used in fissure-in-ano?",
+   "opts": [
+    "Both diltiazem cream and nitrate gel",
+    "Only xylocaine jelly",
+    "Only laxatives",
+    "Only a high fibre diet"
+   ],
+   "ans": 0,
+   "exp": "Diltiazem cream (relaxes the sphincter) and nitrate gel are the pharmacological sphincter relaxants; xylocaine gives analgesia. (Book p237)"
+  },
+  {
+   "id": "SURG-C33-100",
+   "sec": "Surgical Management of Anal Fissure",
+   "page": 238,
+   "q": "The standard operation for chronic anal fissure is:",
+   "opts": [
+    "Lateral anal sphincterotomy",
+    "Fissurectomy alone",
+    "Anal advancement flap",
+    "Stapled haemorrhoidopexy"
+   ],
+   "ans": 0,
+   "exp": "Lateral anal sphincterotomy is the first surgical option listed. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-101",
+   "sec": "Surgical Management of Anal Fissure",
+   "page": 238,
+   "q": "In lateral anal sphincterotomy the structure divided is the:",
+   "opts": [
+    "Internal sphincter",
+    "External sphincter",
+    "Puborectalis",
+    "Anococcygeal ligament"
+   ],
+   "ans": 0,
+   "exp": "The internal sphincter is cut. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-102",
+   "sec": "Surgical Management of Anal Fissure",
+   "page": 238,
+   "q": "Division of the internal sphincter heals a fissure because:",
+   "opts": [
+    "The sphincter relaxes and the fissure heals",
+    "It excises the fissure",
+    "It denervates the anal canal",
+    "It drains the intersphincteric abscess"
+   ],
+   "ans": 0,
+   "exp": "Cutting the internal sphincter relaxes the sphincter and the fissure heals. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-103",
+   "sec": "Surgical Management of Anal Fissure",
+   "page": 238,
+   "q": "The second surgical option listed for anal fissure is:",
+   "opts": [
+    "An anal advancement flap",
+    "A seton",
+    "A Karydakis flap",
+    "A Delorme repair"
+   ],
+   "ans": 0,
+   "exp": "The second option is an anal advancement flap. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-104",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Pilonidal sinus is also called:",
+   "opts": [
+    "Jeep driver's disease",
+    "Carpenter's disease",
+    "Baker's cyst",
+    "Barber's disease"
+   ],
+   "ans": 0,
+   "exp": "Pilonidal sinus is called jeep driver's disease. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-105",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "The most common site of a pilonidal sinus is the:",
+   "opts": [
+    "Natal cleft",
+    "Interdigital web",
+    "Face",
+    "Umbilicus"
+   ],
+   "ans": 0,
+   "exp": "The natal cleft is the m/c site. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-106",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Pilonidal sinus in the interdigital area is classically seen in:",
+   "opts": [
+    "Barbers",
+    "Jeep drivers",
+    "Carpenters",
+    "Radiologists"
+   ],
+   "ans": 0,
+   "exp": "The interdigital area is affected in barbers (hair in the web space). (Book p238)"
+  },
+  {
+   "id": "SURG-C33-107",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Which site of pilonidal sinus is mentioned in addition to the natal cleft and the interdigital area?",
+   "opts": [
+    "Face",
+    "Scalp",
+    "Axilla",
+    "Groin"
+   ],
+   "ans": 0,
+   "exp": "The sites listed are natal cleft (m/c), interdigital area (barbers) and the face. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-108",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Pilonidal sinus characteristically occurs in:",
+   "opts": [
+    "Hairy men",
+    "Prepubertal girls",
+    "Elderly women",
+    "Neonates"
+   ],
+   "ans": 0,
+   "exp": "It is a disease of hairy men. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-109",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "The pathogenesis of pilonidal sinus is:",
+   "opts": [
+    "Friction → inward growth of hair → abscess → sinus",
+    "Infection of an apocrine gland → abscess → sinus",
+    "Congenital epithelial rests → abscess → sinus",
+    "Ischaemic necrosis of the natal cleft skin"
+   ],
+   "ans": 0,
+   "exp": "Friction causes inward growth of hair, which produces an abscess and then a sinus. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-110",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "The clinical features of pilonidal sinus listed are:",
+   "opts": [
+    "Swelling and discharge",
+    "Prolapse and bleeding",
+    "Incontinence and tenesmus",
+    "Pain and jaundice"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: swelling and discharge. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-111",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Incision and drainage of a pilonidal abscess must be accompanied by:",
+   "opts": [
+    "Removal of the hair to prevent recurrence",
+    "Excision of the coccyx",
+    "Insertion of a seton",
+    "Sclerotherapy of the track"
+   ],
+   "ans": 0,
+   "exp": "Drain the abscess and remove the hair — done to prevent recurrence. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-112",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Conservative measures listed for pilonidal sinus are:",
+   "opts": [
+    "Antibiotics and analgesics",
+    "Antibiotics and steroids",
+    "Radiotherapy and chemotherapy",
+    "Sclerotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Antibiotics and analgesics are the conservative measures listed. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-113",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Which flap repair is listed for pilonidal sinus?",
+   "opts": [
+    "Rhomboid (Limberg) flap",
+    "Deltopectoral flap",
+    "Free radial artery flap",
+    "Rotation flap of the scalp"
+   ],
+   "ans": 0,
+   "exp": "The Rhomboid/Limberg flap is the first surgical option listed. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-114",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Which of the following is NOT listed as a surgical option for pilonidal sinus?",
+   "opts": [
+    "Delorme's repair",
+    "Rhomboid (Limberg) flap",
+    "Bascom's technique",
+    "Karydakis technique"
+   ],
+   "ans": 0,
+   "exp": "The surgical options listed are the Rhomboid/Limberg flap, Bascom's technique and the Karydakis technique; Delorme's repair is a procedure for rectal prolapse. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-115",
+   "sec": "Pilonidal Sinus",
+   "page": 238,
+   "q": "Bascom's technique for pilonidal sinus uses:",
+   "opts": [
+    "An incision lateral to the midline with the sinus cleared and sutured",
+    "A rhomboid transposition flap",
+    "A midline excision left open",
+    "A mesh placed over the natal cleft"
+   ],
+   "ans": 0,
+   "exp": "Bascom's technique is illustrated as an incision lateral to the midline, the sinus cleared and then sutured. (Book p238)"
+  },
+  {
+   "id": "SURG-C33-116",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "All of the following are clinical features of an anorectal abscess EXCEPT:",
+   "opts": [
+    "Fluctuation as an early sign",
+    "Fever",
+    "Swelling",
+    "Pain"
+   ],
+   "ans": 0,
+   "exp": "Fever and swelling are listed, and fluctuation is specifically described as a LATE sign. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-117",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "Fluctuation is a late sign in all of the following EXCEPT:",
+   "opts": [
+    "Perianal haematoma",
+    "Parotid abscess",
+    "Breast abscess",
+    "Palmar and plantar abscess"
+   ],
+   "ans": 0,
+   "exp": "The page lists fluctuation as a late sign in parotid abscess, breast abscess and palmar/plantar abscess. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-118",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "Which of the following is NOT one of the anorectal abscess types illustrated on this page?",
+   "opts": [
+    "Suprasphincteric",
+    "Perianal",
+    "Intersphincteric",
+    "Ischiorectal"
+   ],
+   "ans": 0,
+   "exp": "The four types illustrated are perianal, intersphincteric, ischiorectal and supralevator — not suprasphincteric (which is a fistula type). (Book p239)"
+  },
+  {
+   "id": "SURG-C33-119",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "The most superficial of the anorectal abscesses is the:",
+   "opts": [
+    "Perianal abscess",
+    "Ischiorectal abscess",
+    "Supralevator abscess",
+    "Intersphincteric abscess"
+   ],
+   "ans": 0,
+   "exp": "The perianal abscess is the most superficial, lying just under the perianal skin. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-120",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "The abscess that lies above the levator ani in the diagram is the:",
+   "opts": [
+    "Supralevator abscess",
+    "Perianal abscess",
+    "Intersphincteric abscess",
+    "Ischiorectal abscess"
+   ],
+   "ans": 0,
+   "exp": "The supralevator abscess is drawn above the levator ani. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-121",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "The intersphincteric abscess lies between the:",
+   "opts": [
+    "Internal and external sphincters",
+    "Levator ani and the pelvic peritoneum",
+    "Rectum and the sacrum",
+    "Anal skin and the external sphincter"
+   ],
+   "ans": 0,
+   "exp": "As the name implies, the intersphincteric abscess lies in the plane between the internal and external anal sphincters. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-122",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "The treatment of an anorectal abscess is:",
+   "opts": [
+    "Incision and drainage",
+    "Antibiotics alone",
+    "Excision of the rectum",
+    "Observation"
+   ],
+   "ans": 0,
+   "exp": "Management is incision and drainage. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-123",
+   "sec": "Anorectal Abscess",
+   "page": 239,
+   "q": "A poorly drained anorectal abscess is likely to result in:",
+   "opts": [
+    "A perianal sinus or fistula",
+    "A supralevator extension",
+    "A rectovaginal fistula",
+    "Faecal incontinence"
+   ],
+   "ans": 0,
+   "exp": "The page states that a poorly drained abscess becomes a perianal sinus/fistula. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-124",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "A perianal sinus/fistula is most often:",
+   "opts": [
+    "Secondary to anal sepsis",
+    "Congenital in origin",
+    "Due to tuberculosis in most cases",
+    "A complication of haemorrhoids"
+   ],
+   "ans": 0,
+   "exp": "Perianal sinus/fistula is secondary to anal sepsis. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-125",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "The term 'water-can perineum' refers to:",
+   "opts": [
+    "Multiple external openings of a fistula",
+    "A large ischiorectal abscess",
+    "A prolapsing haemorrhoid",
+    "A pilonidal sinus with discharge"
+   ],
+   "ans": 0,
+   "exp": "Water-can perineum is used when there are multiple external openings. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-126",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "The openings of a fistula-in-ano are described as:",
+   "opts": [
+    "One internal and one or more external openings",
+    "Two internal openings",
+    "Only external openings",
+    "Only internal openings"
+   ],
+   "ans": 0,
+   "exp": "A fistula has an internal opening (in the anal canal) and one or more external openings. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-127",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "The mnemonic 'Krohn, krush, Kancer, Koch's' is used for the causes of:",
+   "opts": [
+    "Fistula-in-ano",
+    "Anal fissure",
+    "Pilonidal sinus",
+    "Rectal prolapse"
+   ],
+   "ans": 0,
+   "exp": "The mnemonic lists the causes of fistula-in-ano: Crohn's, trauma (crush), cancer, Koch's (tuberculosis) and immunocompromise. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-128",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "Which of the following is listed as a cause of fistula-in-ano?",
+   "opts": [
+    "Crohn's disease",
+    "Ulcerative colitis",
+    "Diverticulosis",
+    "Coeliac disease"
+   ],
+   "ans": 0,
+   "exp": "Crohn's disease, cancer and immunocompromised states are listed. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-129",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "Which of the following is a typical symptom of a perianal fistula?",
+   "opts": [
+    "Staining of the undergarment with pus",
+    "Painless large bowel bleeding",
+    "Profuse watery diarrhoea",
+    "Haematuria"
+   ],
+   "ans": 0,
+   "exp": "Staining of the undergarment with pus and itching are the listed clinical features. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-130",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "On examination of a patient with a perianal fistula the key finding is:",
+   "opts": [
+    "An external opening on inspection",
+    "A mass felt on DRE",
+    "Absent anal sensation",
+    "A bluish perianal swelling"
+   ],
+   "ans": 0,
+   "exp": "O/E: an external opening is seen on inspection. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-131",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "According to Goodsall's rule, a fistula with its external opening in the anterior half of the anal circumference usually has:",
+   "opts": [
+    "A straight radial tract",
+    "A long curved tract opening in the midline posteriorly",
+    "A horseshoe tract",
+    "No internal opening"
+   ],
+   "ans": 0,
+   "exp": "Anterior fistulae run in straight, radial tracts to the internal opening. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-132",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "According to Goodsall's rule, a fistula opening posteriorly has:",
+   "opts": [
+    "A curved tract that opens in the midline",
+    "A straight radial tract",
+    "No internal opening",
+    "A tract that always crosses the midline anteriorly"
+   ],
+   "ans": 0,
+   "exp": "Posterior fistulae have curved tracts that open in the midline (posteriorly). (Book p239)"
+  },
+  {
+   "id": "SURG-C33-133",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "The exception to Goodsall's rule is:",
+   "opts": [
+    "A long anterior fistula (>3 cm) which behaves like a posterior fistula",
+    "A short posterior fistula",
+    "Any fistula in a female",
+    "Any fistula secondary to Crohn's disease"
+   ],
+   "ans": 0,
+   "exp": "A long anterior fistula (>3 cm) is the exception — it curves back and opens in the midline at the 12 o'clock position. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-134",
+   "sec": "Fistula-in-Ano and Goodsall's Rule",
+   "page": 239,
+   "q": "A horseshoe fistula is characteristically associated with which type of fistula?",
+   "opts": [
+    "Posterior",
+    "Anterior",
+    "Lateral",
+    "Anterior long"
+   ],
+   "ans": 0,
+   "exp": "The page mentions a horse shoe fistula occurring with a posterior fistula. (Book p239)"
+  },
+  {
+   "id": "SURG-C33-135",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "The investigation of choice for fistula-in-ano is:",
+   "opts": [
+    "MR fistulogram",
+    "Plain X-ray abdomen",
+    "Barium enema",
+    "Proctoscopy"
+   ],
+   "ans": 0,
+   "exp": "MR fistulogram is the investigation of choice (IOC). (Book p240)"
+  },
+  {
+   "id": "SURG-C33-136",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "Park's classification of fistula-in-ano is based on:",
+   "opts": [
+    "MR fistulogram",
+    "The external opening alone",
+    "Goodsall's rule",
+    "The number of setons used"
+   ],
+   "ans": 0,
+   "exp": "Park's classification is based on the MR fistulogram — i.e. the relation of the tract to the sphincters. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-137",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "The most common type of fistula-in-ano in Park's classification is:",
+   "opts": [
+    "Transsphincteric",
+    "Intersphincteric",
+    "Suprasphincteric",
+    "Extrasphincteric"
+   ],
+   "ans": 0,
+   "exp": "Transsphincteric fistula is the most common (m/c). (Book p240)"
+  },
+  {
+   "id": "SURG-C33-138",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "Which of the following is NOT one of Park's four types of fistula?",
+   "opts": [
+    "Supralevator",
+    "Intersphincteric",
+    "Transsphincteric",
+    "Extrasphincteric"
+   ],
+   "ans": 0,
+   "exp": "Park's types are intersphincteric, transsphincteric, suprasphincteric and extrasphincteric; supralevator is an abscess type. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-139",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "The suprasphincteric fistula passes:",
+   "opts": [
+    "Over the top of the external sphincter (above the anorectal ring level of the sphincter complex)",
+    "Through the intersphincteric plane only",
+    "Outside both sphincters without relation to them",
+    "Through the internal sphincter only"
+   ],
+   "ans": 0,
+   "exp": "Suprasphincteric means the tract passes above the sphincter complex before descending. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-140",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "The extrasphincteric fistula is one that:",
+   "opts": [
+    "Passes outside the sphincter complex from the rectum to the perianal skin",
+    "Lies only in the intersphincteric plane",
+    "Is confined to the submucosa",
+    "Is always iatrogenic"
+   ],
+   "ans": 0,
+   "exp": "Extrasphincteric fistulae run outside the external sphincter, from the rectum to the perianal skin. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-141",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "The landmark used to classify a fistula as high or low, based on its internal opening, is the:",
+   "opts": [
+    "Anorectal ring",
+    "Dentate line",
+    "Anal verge",
+    "Pectinate line"
+   ],
+   "ans": 0,
+   "exp": "The landmark is the anorectal ring: above it the fistula is high, below it low. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-142",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "A fistula whose internal opening lies above the anorectal ring is called a:",
+   "opts": [
+    "High fistula",
+    "Low fistula",
+    "Submucosal fistula",
+    "Simple fistula"
+   ],
+   "ans": 0,
+   "exp": "Above the anorectal ring = high fistula. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-143",
+   "sec": "Investigations and Classification of Fistula-in-Ano",
+   "page": 240,
+   "q": "Which of the following is NOT one of the four principles of fistula surgery listed?",
+   "opts": [
+    "Routine faecal diversion in every case",
+    "Eliminate all septic foci",
+    "Delineate the anatomy of the epithelialised tracts",
+    "Preserve continence and prevent recurrence"
+   ],
+   "ans": 0,
+   "exp": "The principles are: eliminate all septic foci, delineate the anatomy of the epithelialised tracts, preserve continence and prevent recurrence. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-144",
+   "sec": "Operations for Fistula-in-Ano",
+   "page": 240,
+   "q": "Fistulectomy involves:",
+   "opts": [
+    "Removal of the entire tract",
+    "Opening the tract and curetting granulation tissue",
+    "Insertion of a seton",
+    "Division of the internal sphincter"
+   ],
+   "ans": 0,
+   "exp": "Fistulectomy is removal of the entire tract. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-145",
+   "sec": "Operations for Fistula-in-Ano",
+   "page": 240,
+   "q": "Fistulotomy is described as:",
+   "opts": [
+    "Opening the tract and removing granulation tissue",
+    "Removing the entire tract",
+    "Excision of the internal opening alone",
+    "Laying open the rectum"
+   ],
+   "ans": 0,
+   "exp": "Fistulotomy: the tract is opened and granulation tissue removed. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-146",
+   "sec": "Operations for Fistula-in-Ano",
+   "page": 240,
+   "q": "An advantage of fistulectomy mentioned in the chapter is that it is:",
+   "opts": [
+    "Cost effective",
+    "Free of any risk to continence",
+    "Suitable for every high fistula",
+    "Done without anaesthesia"
+   ],
+   "ans": 0,
+   "exp": "Fistulectomy is described as cost effective. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-147",
+   "sec": "Operations for Fistula-in-Ano",
+   "page": 240,
+   "q": "Fistulectomy is avoided in a high fistula because:",
+   "opts": [
+    "It damages the sphincter and causes incontinence",
+    "It is technically impossible",
+    "It always leaves the internal open",
+    "It requires a laparotomy"
+   ],
+   "ans": 0,
+   "exp": "Fistulectomy in a high fistula damages the sphincter and causes incontinence — hence it is avoided. (Book p240)"
+  },
+  {
+   "id": "SURG-C33-148",
+   "sec": "Seton Treatment of High Fistula",
+   "page": 241,
+   "q": "The treatment of choice for a high fistula described here is:",
+   "opts": [
+    "Seton treatment",
+    "Fistulectomy",
+    "Immediate abdominoperineal resection",
+    "Injection sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "High fistula is managed by seton treatment. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-149",
+   "sec": "Seton Treatment of High Fistula",
+   "page": 241,
+   "q": "A seton is:",
+   "opts": [
+    "A thread inserted into the fistula and tightened at intervals",
+    "A rubber band applied above the dentate line",
+    "A mesh placed in the ischiorectal fossa",
+    "A sclerosant injected into the tract"
+   ],
+   "ans": 0,
+   "exp": "A thread is inserted into the fistula and tightened over frequent intervals. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-150",
+   "sec": "Seton Treatment of High Fistula",
+   "page": 241,
+   "q": "The advantage of a cutting seton is:",
+   "opts": [
+    "Gradual cutting of the tract with less chance of incontinence",
+    "Immediate cure in one sitting",
+    "No need for any further surgery",
+    "It prevents abscess formation permanently"
+   ],
+   "ans": 0,
+   "exp": "Gradual cutting of the tract gives less chance of incontinence because fibrosis holds the sphincter as it divides. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-151",
+   "sec": "Seton Treatment of High Fistula",
+   "page": 241,
+   "q": "The two types of seton are:",
+   "opts": [
+    "Draining seton and cutting seton",
+    "Absorbable and non-absorbable seton",
+    "Silk and catgut seton",
+    "High and low seton"
+   ],
+   "ans": 0,
+   "exp": "Types: draining seton and cutting seton. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-152",
+   "sec": "Seton Treatment of High Fistula",
+   "page": 241,
+   "q": "A draining seton is preferred in:",
+   "opts": [
+    "Crohn's disease",
+    "High fistula",
+    "A low intersphincteric fistula",
+    "A pilonidal sinus"
+   ],
+   "ans": 0,
+   "exp": "A draining seton is used in Crohn's disease (to keep sepsis draining without dividing the sphincter); a cutting seton is used for a high fistula. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-153",
+   "sec": "Seton Treatment of High Fistula",
+   "page": 241,
+   "q": "The material used for a seton is:",
+   "opts": [
+    "Prolene suture",
+    "Catgut",
+    "Silkworm gut",
+    "Nylon tape"
+   ],
+   "ans": 0,
+   "exp": "Material: prolene suture. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-154",
+   "sec": "Rectal Prolapse: Partial versus Complete",
+   "page": 241,
+   "q": "In partial (mucosal) rectal prolapse the layer prolapsed is the:",
+   "opts": [
+    "Mucosa only",
+    "All layers of the rectum",
+    "Muscularis only",
+    "Serosa only"
+   ],
+   "ans": 0,
+   "exp": "Partial prolapse is a mucosal prolapse; complete prolapse involves all layers. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-155",
+   "sec": "Rectal Prolapse: Partial versus Complete",
+   "page": 241,
+   "q": "Partial rectal prolapse is typically seen in:",
+   "opts": [
+    "Children",
+    "Adults",
+    "Elderly nulliparous women",
+    "Adolescents after trauma"
+   ],
+   "ans": 0,
+   "exp": "Partial prolapse is seen in children; complete prolapse in adults. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-156",
+   "sec": "Rectal Prolapse: Partial versus Complete",
+   "page": 241,
+   "q": "Complete rectal prolapse is associated with:",
+   "opts": [
+    "A weak pelvic floor",
+    "An incomplete sacral curve",
+    "A hypertrophied internal sphincter",
+    "Hirschsprung's disease"
+   ],
+   "ans": 0,
+   "exp": "Complete prolapse is associated with a weak pelvic floor; partial prolapse with an incomplete sacral curve. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-157",
+   "sec": "Rectal Prolapse: Partial versus Complete",
+   "page": 241,
+   "q": "The first episode of a partial prolapse is treated by:",
+   "opts": [
+    "Digital reposition",
+    "Immediate rectopexy",
+    "Thiersch wiring",
+    "Delorme's repair"
+   ],
+   "ans": 0,
+   "exp": "First episode: digital reposition. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-158",
+   "sec": "Rectal Prolapse: Partial versus Complete",
+   "page": 241,
+   "q": "Recurrent partial prolapse in a child is treated by:",
+   "opts": [
+    "Thiersch wiring or sclerotherapy",
+    "Immediate abdominoperineal resection",
+    "Stapled haemorrhoidopexy",
+    "Lateral sphincterotomy"
+   ],
+   "ans": 0,
+   "exp": "Recurrent cases are treated by Thiersch wiring or sclerotherapy. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-159",
+   "sec": "Rectal Prolapse: Partial versus Complete",
+   "page": 241,
+   "q": "A 4-year-old child brings out a 3 cm mass after passing stool; the mucosa shows radial folds rather than the concentric rings of a full-thickness prolapse. This is:",
+   "opts": [
+    "Partial thickness prolapse",
+    "Complete (full thickness) prolapse",
+    "A prolapsed haemorrhoid",
+    "A rectal polyp"
+   ],
+   "ans": 0,
+   "exp": "Partial thickness prolapse occurs in children and only mucosa prolapses; complete prolapse is full thickness. (Book p241)"
+  },
+  {
+   "id": "SURG-C33-160",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Compared with perineal procedures, abdominal procedures for complete prolapse are:",
+   "opts": [
+    "More difficult with more operative complications",
+    "Easier with fewer operative complications",
+    "Associated with a higher recurrence rate",
+    "Reserved for frail elderly patients"
+   ],
+   "ans": 0,
+   "exp": "Abdominal procedures are difficult and have more operative complications; perineal ones are easier with fewer complications. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-161",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Recurrence after an abdominal procedure for prolapse is:",
+   "opts": [
+    "Much lower (recurrence ↓↓)",
+    "Much higher (recurrence ↑↑)",
+    "The same as after a perineal repair",
+    "100%"
+   ],
+   "ans": 0,
+   "exp": "Abdominal procedures: recurrence ↓↓; perineal procedures: recurrence ↑↑. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-162",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Perineal procedures for rectal prolapse are preferred in:",
+   "opts": [
+    "Frail, elderly patients with co-morbidity",
+    "Young fit patients",
+    "Children",
+    "Pregnant women"
+   ],
+   "ans": 0,
+   "exp": "Perineal procedures are used in frail, elderly patients with co-morbidity; abdominal ones in young, fit patients. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-163",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Which of the following is an abdominal procedure for complete prolapse?",
+   "opts": [
+    "Rectopexy",
+    "Delorme's repair",
+    "Thiersch wiring",
+    "Altemeier repair"
+   ],
+   "ans": 0,
+   "exp": "Rectopexy (Well's / Ripstein / Frykman-Goldberg) is the abdominal procedure; Delorme, Thiersch and Altemeier are perineal. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-164",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Rectopexy means:",
+   "opts": [
+    "Placing a mesh between the rectum and the sacrum",
+    "Excision of the prolapsed mucosa",
+    "Plication of the external sphincter",
+    "Resection of the redundant sigmoid via the perineum"
+   ],
+   "ans": 0,
+   "exp": "Rectopexy: mesh placed between the rectum and the sacrum to prevent prolapse. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-165",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Well's and Ripstein operations are examples of:",
+   "opts": [
+    "Rectopexy",
+    "Perineal rectosigmoidectomy",
+    "Thiersch wiring",
+    "Sclerotherapy"
+   ],
+   "ans": 0,
+   "exp": "Well's and Ripstein are the named rectopexy operations listed. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-166",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "The Frykman-Goldberg operation is a:",
+   "opts": [
+    "Resection rectopexy",
+    "Perineal rectosigmoidectomy",
+    "Sphincteroplasty",
+    "Stapled mucosal resection"
+   ],
+   "ans": 0,
+   "exp": "Frykman Goldberg is listed as a resection rectopexy. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-167",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "The Altemeier repair is also called:",
+   "opts": [
+    "Perineal rectosigmoidectomy",
+    "Abdominal rectopexy",
+    "Anterior resection",
+    "Mucosal plication"
+   ],
+   "ans": 0,
+   "exp": "Altemeier repair = perineal rectosigmoidectomy. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-168",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "In the Altemeier (perineal rectosigmoidectomy) repair the redundant sigmoid is cut in order to:",
+   "opts": [
+    "Prevent recurrences",
+    "Shorten the anaesthetic time",
+    "Avoid a stoma",
+    "Reduce blood loss"
+   ],
+   "ans": 0,
+   "exp": "The redundant sigmoid is cut and this is done to prevent recurrences. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-169",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Thiersch wiring consists of:",
+   "opts": [
+    "Digital reduction of the prolapse followed by a purse-string suture (wire) around the anus",
+    "Excision of the prolapsed mucosa",
+    "Placement of a mesh between rectum and sacrum",
+    "Plication of the levator ani"
+   ],
+   "ans": 0,
+   "exp": "The prolapse is reduced digitally and the anus is closed with a purse-string suture (wire). (Book p242)"
+  },
+  {
+   "id": "SURG-C33-170",
+   "sec": "Surgery for Complete Rectal Prolapse",
+   "page": 242,
+   "q": "Delorme's repair consists of:",
+   "opts": [
+    "Plication of the mucosa and the prolapse",
+    "Placement of a mesh in the sacrum",
+    "Excision of the full thickness of the prolapse",
+    "Division of the internal sphincter"
+   ],
+   "ans": 0,
+   "exp": "Delorme's repair: the mucosa and the prolapse are plicated. (Book p242)"
+  },
+  {
+   "id": "SURG-C33-171",
+   "sec": "Complications of Prolapse Surgery",
+   "page": 243,
+   "q": "The most common complication after surgery for rectal prolapse is:",
+   "opts": [
+    "Constipation",
+    "Haemorrhage",
+    "Faecal incontinence",
+    "Small bowel obstruction"
+   ],
+   "ans": 0,
+   "exp": "Constipation is listed as the most common (m/c) complication. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-172",
+   "sec": "Complications of Prolapse Surgery",
+   "page": 243,
+   "q": "Which of the following is NOT listed as a complication of prolapse surgery?",
+   "opts": [
+    "Portal pyaemia",
+    "Haemorrhage",
+    "Recurrence",
+    "Bladder dysfunction"
+   ],
+   "ans": 0,
+   "exp": "The complications listed are constipation (m/c), haemorrhage, recurrence, fistula (in females), bladder dysfunction and retrograde ejaculation. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-173",
+   "sec": "Complications of Prolapse Surgery",
+   "page": 243,
+   "q": "A rectovaginal fistula after prolapse surgery occurs due to:",
+   "opts": [
+    "Erosion into the vagina",
+    "Injury to the ureter",
+    "Division of the levator ani",
+    "Mesh allergy"
+   ],
+   "ans": 0,
+   "exp": "Fistula in females is due to erosion into the vagina. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-174",
+   "sec": "Complications of Prolapse Surgery",
+   "page": 243,
+   "q": "Retrograde ejaculation after rectal prolapse surgery is due to injury to the:",
+   "opts": [
+    "Pelvic autonomic nerves",
+    "Pudendal nerve",
+    "External sphincter",
+    "Inferior mesenteric artery"
+   ],
+   "ans": 0,
+   "exp": "Retrograde ejaculation is listed as a complication of pelvic dissection during prolapse surgery (autonomic nerve injury). (Book p243)"
+  },
+  {
+   "id": "SURG-C33-175",
+   "sec": "Solitary Rectal Ulcer Syndrome",
+   "page": 243,
+   "q": "The ulcer of solitary rectal ulcer syndrome lies on the:",
+   "opts": [
+    "Anterior wall of the rectum",
+    "Posterior wall of the rectum",
+    "Lateral wall of the rectum",
+    "Anal canal below the dentate line"
+   ],
+   "ans": 0,
+   "exp": "SRUS: ulcer in the anterior wall of the rectum. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-176",
+   "sec": "Solitary Rectal Ulcer Syndrome",
+   "page": 243,
+   "q": "The ulcer of solitary rectal ulcer syndrome is located how far from the anal verge?",
+   "opts": [
+    "3-10 cm",
+    "1-2 cm",
+    "15-20 cm",
+    "25-30 cm"
+   ],
+   "ans": 0,
+   "exp": "SRUS is located 3-10 cm from the anal verge. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-177",
+   "sec": "Solitary Rectal Ulcer Syndrome",
+   "page": 243,
+   "q": "Solitary rectal ulcer syndrome is described as the starting point of:",
+   "opts": [
+    "Intussusception / prolapse",
+    "A fistula-in-ano",
+    "An anal fissure",
+    "A malignant stricture"
+   ],
+   "ans": 0,
+   "exp": "The page says it is the starting point of intussusception/prolapse. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-178",
+   "sec": "Solitary Rectal Ulcer Syndrome",
+   "page": 243,
+   "q": "The characteristic histopathology of solitary rectal ulcer syndrome is:",
+   "opts": [
+    "Fibromuscular obliteration of the lamina propria",
+    "Caseating granulomas",
+    "Transmural lymphoid aggregates",
+    "Mucin-producing adenocarcinoma"
+   ],
+   "ans": 0,
+   "exp": "Fibromuscular obliteration of the lamina propria is the histological hallmark. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-179",
+   "sec": "Solitary Rectal Ulcer Syndrome",
+   "page": 243,
+   "q": "Why is a biopsy mandatory in a rectal ulcer?",
+   "opts": [
+    "To rule out cancer",
+    "To confirm Crohn's disease",
+    "To grade a haemorrhoid",
+    "To look for a fistula track"
+   ],
+   "ans": 0,
+   "exp": "Ulcer → biopsy → to rule out (r/o) cancer. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-180",
+   "sec": "Solitary Rectal Ulcer Syndrome",
+   "page": 243,
+   "q": "STARR, used for solitary rectal ulcer syndrome, expands to:",
+   "opts": [
+    "Stapled transanal rectal resection",
+    "Stapled transanal repair of rectum",
+    "Subtotal transanal rectal reconstruction",
+    "Suture transanal rectal repair"
+   ],
+   "ans": 0,
+   "exp": "STARR = stapled transanal rectal resection (of the intussusception). (Book p243)"
+  },
+  {
+   "id": "SURG-C33-181",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "An anorectal malformation is defined by:",
+   "opts": [
+    "Absence of a normal anal opening",
+    "A stenosis of the rectum",
+    "A duplicated anal canal",
+    "An ectopic ureter"
+   ],
+   "ans": 0,
+   "exp": "Anorectal malformation: absence of a normal anal opening. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-182",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "VACTERL association includes all of the following EXCEPT:",
+   "opts": [
+    "Duodenal atresia",
+    "Vertebral defects",
+    "Tracheo-oesophageal fistula",
+    "Renal anomalies"
+   ],
+   "ans": 0,
+   "exp": "VACTERL = vertebral, anorectal, cardiac, tracheo-oesophageal, renal and limb abnormalities. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-183",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "The letter 'C' in VACTERL stands for:",
+   "opts": [
+    "Cardiac abnormalities",
+    "Cloacal anomaly",
+    "Costal defects",
+    "Caudal regression"
+   ],
+   "ans": 0,
+   "exp": "C = cardiac abnormalities. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-184",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "The best investigation to delineate the anatomy in an anorectal malformation is:",
+   "opts": [
+    "MRI",
+    "Invertogram",
+    "Plain X-ray abdomen",
+    "Barium enema"
+   ],
+   "ans": 0,
+   "exp": "MRI is described as the best investigation to delineate the anatomy. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-185",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "An invertogram is performed after how many hours of birth?",
+   "opts": [
+    "24 hours",
+    "2 hours",
+    "6 hours",
+    "72 hours"
+   ],
+   "ans": 0,
+   "exp": "It is done after 24 hours, by which time gas has reached the rectum. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-186",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "In an invertogram the metallic marker is placed:",
+   "opts": [
+    "At the proposed site of the anal opening",
+    "Over the sacrum",
+    "Over the symphysis pubis",
+    "Inside the rectum"
+   ],
+   "ans": 0,
+   "exp": "A metallic coin is placed at the proposed site of the anal opening. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-187",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "The invertogram X-ray is taken with the baby:",
+   "opts": [
+    "In the inverted position",
+    "Prone with hips extended",
+    "Supine with legs flexed",
+    "In the left lateral position"
+   ],
+   "ans": 0,
+   "exp": "The X-ray is taken in the inverted position. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-188",
+   "sec": "Anorectal Malformation: Assessment",
+   "page": 243,
+   "q": "On an invertogram a distance of more than 2 cm between the coin and the gas shadow indicates:",
+   "opts": [
+    "A high anorectal malformation",
+    "A low anorectal malformation",
+    "A normal anus",
+    "An associated fistula"
+   ],
+   "ans": 0,
+   "exp": "Distance >2 cm = high anorectal malformation; a short distance (<2 cm) = low anomaly. (Book p243)"
+  },
+  {
+   "id": "SURG-C33-189",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "A male infant with an anorectal malformation classically passes faecal matter:",
+   "opts": [
+    "During urination",
+    "Only through the vagina",
+    "Only after 48 hours",
+    "As ribbon-like stools"
+   ],
+   "ans": 0,
+   "exp": "In males: faecal matter passed during urination and recurrent UTI. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-190",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Recurrent urinary tract infection in a male infant with an anorectal malformation suggests:",
+   "opts": [
+    "A rectourinary fistula",
+    "A rectovaginal fistula",
+    "An anal stenosis",
+    "A ureterocele"
+   ],
+   "ans": 0,
+   "exp": "Rectourinary (rectovesical / rectourethral) fistulae present with faecal matter in urine and recurrent UTI. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-191",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "In females the anus in a low anomaly is:",
+   "opts": [
+    "Abnormally close to the vagina",
+    "Absent with a bladder fistula",
+    "Located in the perineal body",
+    "Duplicated"
+   ],
+   "ans": 0,
+   "exp": "In females the anus is abnormally close to the vagina. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-192",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Which of the following is a HIGH anomaly in males?",
+   "opts": [
+    "Rectovesical fistula",
+    "Rectourethral fistula",
+    "Anocutaneous fistula",
+    "Anal stenosis"
+   ],
+   "ans": 0,
+   "exp": "High anomalies in males: anorectal agenesis and rectovesical fistula. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-193",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Rectourethral fistula in a male is classified as:",
+   "opts": [
+    "An intermediate anomaly",
+    "A high anomaly",
+    "A low anomaly",
+    "A miscellaneous anomaly"
+   ],
+   "ans": 0,
+   "exp": "Intermediate anomaly in males: rectourethral fistula. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-194",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Rectovestibular fistula in a female is classified as:",
+   "opts": [
+    "An intermediate anomaly",
+    "A high anomaly",
+    "A low anomaly",
+    "A miscellaneous anomaly"
+   ],
+   "ans": 0,
+   "exp": "Intermediate anomalies in females: rectovestibular fistula and rectovaginal fistula. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-195",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Rectal atresia in a female is listed under:",
+   "opts": [
+    "High anomalies",
+    "Intermediate anomalies",
+    "Low anomalies",
+    "Miscellaneous anomalies"
+   ],
+   "ans": 0,
+   "exp": "High anomalies in females: rectovaginal fistula and rectal atresia. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-196",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Persistent cloacal anomaly is listed under:",
+   "opts": [
+    "Miscellaneous anomalies",
+    "Low anomalies",
+    "High anomalies",
+    "Intermediate anomalies"
+   ],
+   "ans": 0,
+   "exp": "Miscellaneous (in females): anal stenosis and persistent cloacal anomaly. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-197",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Management of a LOW anorectal malformation is:",
+   "opts": [
+    "Definitive surgery",
+    "Initial diverting colostomy followed by definitive surgery",
+    "Dilatation alone",
+    "Observation till adulthood"
+   ],
+   "ans": 0,
+   "exp": "Low anomaly: definitive surgery. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-198",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "Management of a HIGH anorectal malformation is:",
+   "opts": [
+    "First a diverting colostomy, then definitive surgery",
+    "Immediate definitive surgery in the neonatal period",
+    "Serial dilatations only",
+    "Permanent colostomy only"
+   ],
+   "ans": 0,
+   "exp": "High anomaly: 1st a diverting colostomy and 2nd definitive surgery. (Book p244)"
+  },
+  {
+   "id": "SURG-C33-199",
+   "sec": "Anorectal Malformation: Classification and Management",
+   "page": 244,
+   "q": "PSARP, the definitive surgery for anorectal malformation, expands to:",
+   "opts": [
+    "Posterior sagittal anorectoplasty",
+    "Perineal sagittal anorectal pull-through",
+    "Posterior sphincter-saving anoplasty",
+    "Perineal sagittal ano-rectal plasty"
+   ],
+   "ans": 0,
+   "exp": "Definitive surgery: PSARP = posterior sagittal anorectoplasty. (Book p244)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U33-1",
+   "ch": 33,
+   "n": 1,
+   "title": "Surgical Anatomy of the Rectum",
+   "sec": "Surgical Anatomy of the Rectum · p233",
+   "qs": [
+    "SURG-C33-001",
+    "SURG-C33-002",
+    "SURG-C33-003",
+    "SURG-C33-004",
+    "SURG-C33-005"
+   ],
+   "guide": "Start with the rectum itself: a 12-14 cm tube whose upper and lower parts bend to the right and its middle to the left, and whose lower part alone is bare of peritoneum. That last fact is the whole reason a low anterior resection is possible."
+  },
+  {
+   "id": "SURG-U33-2",
+   "ch": 33,
+   "n": 2,
+   "title": "Anal Canal: Landmarks and Epithelium",
+   "sec": "Anal Canal: Landmarks and Epithelium · p233",
+   "qs": [
+    "SURG-C33-006",
+    "SURG-C33-007",
+    "SURG-C33-008",
+    "SURG-C33-009",
+    "SURG-C33-010",
+    "SURG-C33-011",
+    "SURG-C33-012",
+    "SURG-C33-013",
+    "SURG-C33-014",
+    "SURG-C33-015",
+    "SURG-C33-016"
+   ],
+   "guide": "The anal canal is a 4-5 cm gateway with three landmarks - anorectal ring, dentate line and anal verge. Everything the examiner does depends on whether a lesion sits above the dentate line (columnar, adenocarcinoma, painless) or below it (squamous, squamous carcinoma, painful)."
+  },
+  {
+   "id": "SURG-U33-3",
+   "ch": 33,
+   "n": 3,
+   "title": "Columns, Crypts and Haemorrhoidal Cushions",
+   "sec": "Columns, Crypts and Haemorrhoidal Cushions · p233",
+   "qs": [
+    "SURG-C33-017",
+    "SURG-C33-018",
+    "SURG-C33-019",
+    "SURG-C33-020",
+    "SURG-C33-021"
+   ],
+   "guide": "Three tiny structures explain three common diseases: the columns of Morgagni (mucosal folds), the cryptoglandular communication that seeds abscesses, and the three vascular cushions of the distal anal submucosa that prolapse to become haemorrhoids at the classical left anterior, right anterior and right posterior positions."
+  },
+  {
+   "id": "SURG-U33-4",
+   "ch": 33,
+   "n": 4,
+   "title": "Nerve Supply of the Anal Sphincters",
+   "sec": "Nerve Supply of the Anal Sphincters · p233",
+   "qs": [
+    "SURG-C33-022",
+    "SURG-C33-023",
+    "SURG-C33-024",
+    "SURG-C33-025",
+    "SURG-C33-026"
+   ],
+   "guide": "Continence is a nerve story. The internal sphincter runs on autonomic fibres (parasympathetic S2-S4, sympathetic L5), while the external sphincter is somatic via the pudendal nerve - and because it is paired, one side can be lost silently but both cannot."
+  },
+  {
+   "id": "SURG-U33-5",
+   "ch": 33,
+   "n": 5,
+   "title": "Rectal Examination: Position, Inspection and DRE",
+   "sec": "Rectal Examination: Position, Inspection and DRE · p234",
+   "qs": [
+    "SURG-C33-027",
+    "SURG-C33-028",
+    "SURG-C33-029",
+    "SURG-C33-030",
+    "SURG-C33-031",
+    "SURG-C33-032",
+    "SURG-C33-033",
+    "SURG-C33-034",
+    "SURG-C33-035",
+    "SURG-C33-036"
+   ],
+   "guide": "A good rectal examination is choreography, not force: consent, left lateral position, inspect first, then one finger. Know what the fingertip meets anteriorly in each sex and why a painful fissure stops you before you begin."
+  },
+  {
+   "id": "SURG-U33-6",
+   "ch": 33,
+   "n": 6,
+   "title": "Endoscopic Visualization of the Anorectum",
+   "sec": "Endoscopic Visualization of the Anorectum · p234",
+   "qs": [
+    "SURG-C33-037",
+    "SURG-C33-038",
+    "SURG-C33-039",
+    "SURG-C33-040",
+    "SURG-C33-041",
+    "SURG-C33-042"
+   ],
+   "guide": "Instruments only matter if you know how far they reach. Anoscope ~10 cm, proctoscope ~13 cm, a 60 cm instrument that stops at the sigmoid colon, and a 110-140 cm colonoscope that travels from the anal canal to the caecum."
+  },
+  {
+   "id": "SURG-U33-7",
+   "ch": 33,
+   "n": 7,
+   "title": "Haemorrhoids: Pathology and Clinical Features",
+   "sec": "Haemorrhoids: Pathology and Clinical Features · p235",
+   "qs": [
+    "SURG-C33-043",
+    "SURG-C33-044",
+    "SURG-C33-045",
+    "SURG-C33-046",
+    "SURG-C33-047",
+    "SURG-C33-048",
+    "SURG-C33-049",
+    "SURG-C33-050"
+   ],
+   "guide": "Haemorrhoids are dilated vascular channels that bleed arterially and are the commonest cause of bleeding per rectum. The bleed is painless unless the piles are external (below the dentate line) or thrombosed - that single distinction drives the whole history."
+  },
+  {
+   "id": "SURG-U33-8",
+   "ch": 33,
+   "n": 8,
+   "title": "Thrombosed Piles",
+   "sec": "Thrombosed Piles · p235",
+   "qs": [
+    "SURG-C33-051",
+    "SURG-C33-052",
+    "SURG-C33-053",
+    "SURG-C33-054",
+    "SURG-C33-055",
+    "SURG-C33-056"
+   ],
+   "guide": "A thrombosed pile is a 5 day self healing lesion that, unlike ordinary haemorrhoids, can actually be felt. Decide between clot evacuation/excision now, or settling it down and returning for definitive surgery a few days to weeks later."
+  },
+  {
+   "id": "SURG-U33-9",
+   "ch": 33,
+   "n": 9,
+   "title": "Grading of Haemorrhoids",
+   "sec": "Grading of Haemorrhoids · p235",
+   "qs": [
+    "SURG-C33-057",
+    "SURG-C33-058",
+    "SURG-C33-059",
+    "SURG-C33-060",
+    "SURG-C33-061"
+   ],
+   "guide": "Grading is pure mechanics: I bleeds, II reduces itself, III needs a finger, IV stays out. Every management decision in the next units hangs off this four-step ladder."
+  },
+  {
+   "id": "SURG-U33-10",
+   "ch": 33,
+   "n": 10,
+   "title": "Conservative and Office Management of Haemorrhoids",
+   "sec": "Conservative and Office Management of Haemorrhoids · p236",
+   "qs": [
+    "SURG-C33-062",
+    "SURG-C33-063",
+    "SURG-C33-064",
+    "SURG-C33-065",
+    "SURG-C33-066",
+    "SURG-C33-067",
+    "SURG-C33-068",
+    "SURG-C33-069",
+    "SURG-C33-070",
+    "SURG-C33-071",
+    "SURG-C33-072"
+   ],
+   "guide": "Office treatment is where most piles are cured. Banding strangulates the blood supply, sclerotherapy lifts and fixes the cushion, both are done above the painless dentate line - and both become dangerous if the sclerosant is injected too deep, especially anteriorly in a man."
+  },
+  {
+   "id": "SURG-U33-11",
+   "ch": 33,
+   "n": 11,
+   "title": "Operative Management of Haemorrhoids",
+   "sec": "Operative Management of Haemorrhoids · p236",
+   "qs": [
+    "SURG-C33-073",
+    "SURG-C33-074",
+    "SURG-C33-075",
+    "SURG-C33-076",
+    "SURG-C33-077",
+    "SURG-C33-078",
+    "SURG-C33-079"
+   ],
+   "guide": "When the pile is grade III or IV the answer is an operation. Match the eponyms to the technique - Milligan-Morgan open, Ferguson closed - and remember that stapled haemorrhoidopexy is named as the surgery of choice, with DGHAL as the Doppler-guided alternative."
+  },
+  {
+   "id": "SURG-U33-12",
+   "ch": 33,
+   "n": 12,
+   "title": "Complications of Haemorrhoids and Their Surgery",
+   "sec": "Complications of Haemorrhoids and Their Surgery · p237",
+   "qs": [
+    "SURG-C33-080",
+    "SURG-C33-081",
+    "SURG-C33-082",
+    "SURG-C33-083",
+    "SURG-C33-084"
+   ],
+   "guide": "Separate the two complication lists: the operation can bleed, damage the sphincter or recur, whereas the disease itself can thrombose, strangulate, fibrose, ulcerate or - rarely - seed portal pyaemia."
+  },
+  {
+   "id": "SURG-U33-13",
+   "ch": 33,
+   "n": 13,
+   "title": "Anal Fissure: Pathology and Diagnosis",
+   "sec": "Anal Fissure: Pathology and Diagnosis · p237",
+   "qs": [
+    "SURG-C33-085",
+    "SURG-C33-086",
+    "SURG-C33-087",
+    "SURG-C33-088",
+    "SURG-C33-089",
+    "SURG-C33-090",
+    "SURG-C33-091",
+    "SURG-C33-092",
+    "SURG-C33-093",
+    "SURG-C33-094"
+   ],
+   "guide": "A fissure is a split in the epithelium below the dentate line, classically at 6 o'clock, or at 12 o'clock after obstructed labour. Diagnose it by looking, never by pushing a finger in, and read the chronic triad of skin tag, fissure and hypertrophic papilla."
+  },
+  {
+   "id": "SURG-U33-14",
+   "ch": 33,
+   "n": 14,
+   "title": "Medical Management of Anal Fissure",
+   "sec": "Medical Management of Anal Fissure · p237",
+   "qs": [
+    "SURG-C33-095",
+    "SURG-C33-096",
+    "SURG-C33-097",
+    "SURG-C33-098",
+    "SURG-C33-099"
+   ],
+   "guide": "Healing a fissure means breaking the pain-spasm-ischaemia cycle: fibre, fluids, sitz baths, laxatives, topical anaesthetic, and then a chemical sphincterotomy with diltiazem or nitrate - whose headache is the price of the smooth muscle relaxation."
+  },
+  {
+   "id": "SURG-U33-15",
+   "ch": 33,
+   "n": 15,
+   "title": "Surgical Management of Anal Fissure",
+   "sec": "Surgical Management of Anal Fissure · p238",
+   "qs": [
+    "SURG-C33-100",
+    "SURG-C33-101",
+    "SURG-C33-102",
+    "SURG-C33-103"
+   ],
+   "guide": "When medicines fail, the surgeon divides the internal sphincter laterally, so it relaxes and the fissure heals; when the sphincter must not be cut, an advancement flap brings healthy skin into the defect."
+  },
+  {
+   "id": "SURG-U33-16",
+   "ch": 33,
+   "n": 16,
+   "title": "Pilonidal Sinus",
+   "sec": "Pilonidal Sinus · p238",
+   "qs": [
+    "SURG-C33-104",
+    "SURG-C33-105",
+    "SURG-C33-106",
+    "SURG-C33-107",
+    "SURG-C33-108",
+    "SURG-C33-109",
+    "SURG-C33-110",
+    "SURG-C33-111",
+    "SURG-C33-112",
+    "SURG-C33-113",
+    "SURG-C33-114",
+    "SURG-C33-115"
+   ],
+   "guide": "Pilonidal disease is hairs driven under skin by friction - jeep drivers and barbers rather than surgeons. Treat the acute abscess by drainage and hair removal, then choose a definitive technique that flattens or shifts the natal cleft: Limberg, Bascom or Karydakis."
+  },
+  {
+   "id": "SURG-U33-17",
+   "ch": 33,
+   "n": 17,
+   "title": "Anorectal Abscess",
+   "sec": "Anorectal Abscess · p239",
+   "qs": [
+    "SURG-C33-116",
+    "SURG-C33-117",
+    "SURG-C33-118",
+    "SURG-C33-119",
+    "SURG-C33-120",
+    "SURG-C33-121",
+    "SURG-C33-122",
+    "SURG-C33-123"
+   ],
+   "guide": "Anorectal abscesses are named by the plane they occupy - perianal, intersphincteric, ischiorectal, supralevator. Remember that fluctuation is a late sign here just as it is in parotid, breast and palmar/plantar abscesses, and that inadequate drainage is what creates a fistula."
+  },
+  {
+   "id": "SURG-U33-18",
+   "ch": 33,
+   "n": 18,
+   "title": "Fistula-in-Ano and Goodsall's Rule",
+   "sec": "Fistula-in-Ano and Goodsall's Rule · p239",
+   "qs": [
+    "SURG-C33-124",
+    "SURG-C33-125",
+    "SURG-C33-126",
+    "SURG-C33-127",
+    "SURG-C33-128",
+    "SURG-C33-129",
+    "SURG-C33-130",
+    "SURG-C33-131",
+    "SURG-C33-132",
+    "SURG-C33-133",
+    "SURG-C33-134"
+   ],
+   "guide": "A fistula is the chronic form of that abscess: an internal opening, one or many external openings, and a tract whose behaviour Goodsall's rule predicts from the external opening - with the long anterior fistula over 3 cm the famous exception."
+  },
+  {
+   "id": "SURG-U33-19",
+   "ch": 33,
+   "n": 19,
+   "title": "Investigations and Classification of Fistula-in-Ano",
+   "sec": "Investigations and Classification of Fistula-in-Ano · p240",
+   "qs": [
+    "SURG-C33-135",
+    "SURG-C33-136",
+    "SURG-C33-137",
+    "SURG-C33-138",
+    "SURG-C33-139",
+    "SURG-C33-140",
+    "SURG-C33-141",
+    "SURG-C33-142",
+    "SURG-C33-143"
+   ],
+   "guide": "Classify before you cut. Park's four types come from the MR fistulogram, while the simpler high/low split is decided by whether the internal opening sits above or below the anorectal ring, and four principles - clear sepsis, map the tract, keep continence, avoid recurrence - govern the operation."
+  },
+  {
+   "id": "SURG-U33-20",
+   "ch": 33,
+   "n": 20,
+   "title": "Operations for Fistula-in-Ano",
+   "sec": "Operations for Fistula-in-Ano · p240",
+   "qs": [
+    "SURG-C33-144",
+    "SURG-C33-145",
+    "SURG-C33-146",
+    "SURG-C33-147"
+   ],
+   "guide": "Fistulectomy removes the whole tract and is cheap, but in a high fistula it would take the sphincter with it; fistulotomy merely opens the tract and cures the granulation tissue, trading completeness for safety."
+  },
+  {
+   "id": "SURG-U33-21",
+   "ch": 33,
+   "n": 21,
+   "title": "Seton Treatment of High Fistula",
+   "sec": "Seton Treatment of High Fistula · p241",
+   "qs": [
+    "SURG-C33-148",
+    "SURG-C33-149",
+    "SURG-C33-150",
+    "SURG-C33-151",
+    "SURG-C33-152",
+    "SURG-C33-153"
+   ],
+   "guide": "For a high fistula, a seton buys time and safety: a prolene thread tightened at intervals cuts slowly and fibroses behind itself, sparing continence, while a draining seton simply keeps sepsis quiet - the right choice in Crohn's disease."
+  },
+  {
+   "id": "SURG-U33-22",
+   "ch": 33,
+   "n": 22,
+   "title": "Rectal Prolapse: Partial versus Complete",
+   "sec": "Rectal Prolapse: Partial versus Complete · p241",
+   "qs": [
+    "SURG-C33-154",
+    "SURG-C33-155",
+    "SURG-C33-156",
+    "SURG-C33-157",
+    "SURG-C33-158",
+    "SURG-C33-159"
+   ],
+   "guide": "Prolapse splits cleanly by age and depth: mucosal prolapse in a child with a flat sacral curve, versus full-thickness prolapse in an adult with a weak pelvic floor. The child's first episode is reduced digitally; recurrence earns wiring or sclerotherapy."
+  },
+  {
+   "id": "SURG-U33-23",
+   "ch": 33,
+   "n": 23,
+   "title": "Surgery for Complete Rectal Prolapse",
+   "sec": "Surgery for Complete Rectal Prolapse · p242",
+   "qs": [
+    "SURG-C33-160",
+    "SURG-C33-161",
+    "SURG-C33-162",
+    "SURG-C33-163",
+    "SURG-C33-164",
+    "SURG-C33-165",
+    "SURG-C33-166",
+    "SURG-C33-167",
+    "SURG-C33-168",
+    "SURG-C33-169",
+    "SURG-C33-170"
+   ],
+   "guide": "For complete prolapse the choice is abdominal or perineal. Abdominal rectopexy (Well's, Ripstein, Frykman-Goldberg) is harder but rarely recurs and suits the fit; the perineal options - Thiersch, Delorme, Altemeier - are gentler for the frail but recur more often."
+  },
+  {
+   "id": "SURG-U33-24",
+   "ch": 33,
+   "n": 24,
+   "title": "Complications of Prolapse Surgery",
+   "sec": "Complications of Prolapse Surgery · p243",
+   "qs": [
+    "SURG-C33-171",
+    "SURG-C33-172",
+    "SURG-C33-173",
+    "SURG-C33-174"
+   ],
+   "guide": "Every prolapse operation has a price: constipation is the commonest complaint, and pelvic dissection can cost a woman a rectovaginal fistula or a man bladder function and antegrade ejaculation."
+  },
+  {
+   "id": "SURG-U33-25",
+   "ch": 33,
+   "n": 25,
+   "title": "Solitary Rectal Ulcer Syndrome",
+   "sec": "Solitary Rectal Ulcer Syndrome · p243",
+   "qs": [
+    "SURG-C33-175",
+    "SURG-C33-176",
+    "SURG-C33-177",
+    "SURG-C33-178",
+    "SURG-C33-179",
+    "SURG-C33-180"
+   ],
+   "guide": "Solitary rectal ulcer syndrome is the anterior rectal ulcer 3-10 cm up that marks the start of an internal intussusception - fibromuscular obliteration of the lamina propria on biopsy, always biopsied to exclude cancer, and treated with stapled transanal rectal resection."
+  },
+  {
+   "id": "SURG-U33-26",
+   "ch": 33,
+   "n": 26,
+   "title": "Anorectal Malformation: Assessment",
+   "sec": "Anorectal Malformation: Assessment · p243",
+   "qs": [
+    "SURG-C33-181",
+    "SURG-C33-182",
+    "SURG-C33-183",
+    "SURG-C33-184",
+    "SURG-C33-185",
+    "SURG-C33-186",
+    "SURG-C33-187",
+    "SURG-C33-188"
+   ],
+   "guide": "In the newborn with no anal opening, look for the rest of VACTERL, then image. MRI best defines the anatomy, while the invertogram - done after 24 hours, coin on the proposed anus, baby upside down - turns the coin-to-gas distance into a simple high versus low answer."
+  },
+  {
+   "id": "SURG-U33-27",
+   "ch": 33,
+   "n": 27,
+   "title": "Anorectal Malformation: Classification and Management",
+   "sec": "Anorectal Malformation: Classification and Management · p244",
+   "qs": [
+    "SURG-C33-189",
+    "SURG-C33-190",
+    "SURG-C33-191",
+    "SURG-C33-192",
+    "SURG-C33-193",
+    "SURG-C33-194",
+    "SURG-C33-195",
+    "SURG-C33-196",
+    "SURG-C33-197",
+    "SURG-C33-198",
+    "SURG-C33-199"
+   ],
+   "guide": "Finish by turning the anatomical level into a plan: boys leak stool into urine through rectovesical or rectourethral fistulae, girls present with the anus crowding the vagina, low anomalies go straight to PSARP, and high anomalies are staged behind a diverting colostomy."
+  }
+ ]
+}

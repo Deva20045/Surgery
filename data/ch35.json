@@ -1,0 +1,1716 @@
+{
+ "questions": [
+  {
+   "id": "SURG-C35-001",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "The investigation of choice for liver tumours, on which LI-RADS is based, is:",
+   "opts": [
+    "Triple phase CT",
+    "Ultrasound abdomen",
+    "Plain CT abdomen",
+    "PET-CT"
+   ],
+   "ans": 0,
+   "exp": "The investigation of choice is triple phase CT and LI-RADS scoring is based on it. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-002",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "LI-RADS scoring is applied to:",
+   "opts": [
+    "All liver tumours",
+    "Only HCC",
+    "Only metastases",
+    "Only benign lesions"
+   ],
+   "ans": 0,
+   "exp": "LI-RADS scoring is done for all liver tumours. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-003",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "An LR-1 lesion is:",
+   "opts": [
+    "100% benign",
+    "Probably benign",
+    "Probably HCC",
+    "100% definite HCC"
+   ],
+   "ans": 0,
+   "exp": "LR-1: 100% benign. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-004",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "An LR-2 lesion is:",
+   "opts": [
+    "Probably benign and followed up",
+    "100% benign",
+    "Intermediate probability of HCC",
+    "Definitely HCC"
+   ],
+   "ans": 0,
+   "exp": "LR-2: probably benign (follow up done). (Book p253)"
+  },
+  {
+   "id": "SURG-C35-005",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "An LR-3 lesion indicates:",
+   "opts": [
+    "Intermediate probability for HCC — follow up or biopsy",
+    "A definitely benign lesion",
+    "Probably HCC needing resection",
+    "100% definite HCC"
+   ],
+   "ans": 0,
+   "exp": "LR-3: intermediate probability for HCC (follow up/biopsy). (Book p253)"
+  },
+  {
+   "id": "SURG-C35-006",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "LR-4 means:",
+   "opts": [
+    "Probably HCC",
+    "Probably benign",
+    "100% definite HCC",
+    "100% benign"
+   ],
+   "ans": 0,
+   "exp": "LR-4: probably HCC. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-007",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "LR-5 means:",
+   "opts": [
+    "100% definite HCC",
+    "Probably HCC",
+    "Intermediate probability",
+    "100% benign"
+   ],
+   "ans": 0,
+   "exp": "LR-5: 100% definite HCC. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-008",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "The most common benign tumour of the liver is:",
+   "opts": [
+    "Haemangioma",
+    "Focal nodular hyperplasia",
+    "Hepatic adenoma",
+    "Simple cyst"
+   ],
+   "ans": 0,
+   "exp": "One liners: m/c benign tumor — haemangioma. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-009",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "The second most common benign tumour of the liver is:",
+   "opts": [
+    "Focal nodular hyperplasia (FNH)",
+    "Hepatic adenoma",
+    "Haemangioma",
+    "Nodular regenerative hyperplasia"
+   ],
+   "ans": 0,
+   "exp": "The one-liners list FNH (focal nodular hyperplasia) as the second m/c benign tumour. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-010",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "The most common malignant tumour of the liver is:",
+   "opts": [
+    "Metastasis / secondaries to the liver",
+    "Hepatocellular carcinoma",
+    "Cholangiocarcinoma",
+    "Hepatoblastoma"
+   ],
+   "ans": 0,
+   "exp": "m/c malignant tumor: metastasis / secondaries to liver (HCC is the m/c PRIMARY malignant tumour). (Book p253)"
+  },
+  {
+   "id": "SURG-C35-011",
+   "sec": "LI-RADS and the Common Liver Tumours",
+   "page": 253,
+   "q": "The most common primary malignant tumour of the liver is:",
+   "opts": [
+    "Hepatocellular carcinoma",
+    "Metastasis",
+    "Cholangiocarcinoma",
+    "Angiosarcoma"
+   ],
+   "ans": 0,
+   "exp": "m/c primary malignant tumor: hepatocellular carcinoma (HCC). (Book p253)"
+  },
+  {
+   "id": "SURG-C35-012",
+   "sec": "Liver Haemangioma",
+   "page": 253,
+   "q": "A liver haemangioma is:",
+   "opts": [
+    "A collection of blood vessels",
+    "A proliferation of hepatocytes",
+    "A bile duct hamartoma",
+    "A nest of Kupffer cells"
+   ],
+   "ans": 0,
+   "exp": "Liver haemangiomas are a collection of blood vessels. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-013",
+   "sec": "Liver Haemangioma",
+   "page": 253,
+   "q": "Liver haemangiomas are more common in:",
+   "opts": [
+    "Females",
+    "Males",
+    "Both equally",
+    "Children only"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: female > male. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-014",
+   "sec": "Liver Haemangioma",
+   "page": 253,
+   "q": "Most liver haemangiomas are:",
+   "opts": [
+    "Asymptomatic and diagnosed incidentally",
+    "Present with rupture",
+    "Present with jaundice",
+    "Present with fever"
+   ],
+   "ans": 0,
+   "exp": "Commonly asymptomatic → incidental diagnosis. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-015",
+   "sec": "Liver Haemangioma",
+   "page": 253,
+   "q": "Kasabach-Merritt syndrome (consumption coagulopathy) is a complication of:",
+   "opts": [
+    "Very large haemangiomas",
+    "Small peripheral haemangiomas",
+    "Focal nodular hyperplasia",
+    "Hepatic adenoma"
+   ],
+   "ans": 0,
+   "exp": "In very large haemangiomas: Kasabach-Merritt syndrome — consumption coagulopathy. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-016",
+   "sec": "Liver Haemangioma",
+   "page": 253,
+   "q": "Large haemangiomas may present with:",
+   "opts": [
+    "Bleeding and pain",
+    "Jaundice and ascites",
+    "Portal hypertension",
+    "Hypoglycaemia"
+   ],
+   "ans": 0,
+   "exp": "Large haemangiomas → bleeding + pain. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-017",
+   "sec": "Liver Haemangioma",
+   "page": 253,
+   "q": "On a non-contrast triple phase CT a haemangioma is:",
+   "opts": [
+    "Hypodense",
+    "Hyperdense",
+    "Isointense",
+    "Calcified"
+   ],
+   "ans": 0,
+   "exp": "Non-contrast phase: hypodense. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-018",
+   "sec": "Liver Haemangioma",
+   "page": 253,
+   "q": "The characteristic arterial phase appearance of a hepatic haemangioma is:",
+   "opts": [
+    "Peripheral nodular enhancement",
+    "Central stellate scar",
+    "Early washout",
+    "Uniform hyperdensity"
+   ],
+   "ans": 0,
+   "exp": "Arterial phase: peripheral nodular enhancement. (Book p253)"
+  },
+  {
+   "id": "SURG-C35-019",
+   "sec": "Liver Haemangioma",
+   "page": 254,
+   "q": "An asymptomatic hepatic haemangioma is managed by:",
+   "opts": [
+    "Conservative management",
+    "Angioembolisation",
+    "Resection",
+    "Chemotherapy"
+   ],
+   "ans": 0,
+   "exp": "Asymptomatic: conservative management. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-020",
+   "sec": "Liver Haemangioma",
+   "page": 254,
+   "q": "A large symptomatic haemangioma is treated by:",
+   "opts": [
+    "Angioembolisation",
+    "Observation",
+    "Radiotherapy",
+    "Liver transplantation"
+   ],
+   "ans": 0,
+   "exp": "Large + symptomatic: angioembolisation. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-021",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "FNH is more common in:",
+   "opts": [
+    "Females",
+    "Males",
+    "Both equally",
+    "Only in children"
+   ],
+   "ans": 0,
+   "exp": "FNH: female > male. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-022",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "FNH is usually:",
+   "opts": [
+    "Asymptomatic and an incidental diagnosis",
+    "Present with rupture",
+    "Present with jaundice",
+    "Present with hypoglycaemia"
+   ],
+   "ans": 0,
+   "exp": "FNH clinical features: female > male, asymptomatic, incidental diagnosis. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-023",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "The imaging hallmark of FNH on triple phase CT is:",
+   "opts": [
+    "A central stellate scar",
+    "Peripheral nodular enhancement",
+    "A water-lily sign",
+    "A double line sign"
+   ],
+   "ans": 0,
+   "exp": "Central stellate scar: a dilated arteriole with branches. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-024",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "The central stellate scar of FNH is also a feature of which renal tumour?",
+   "opts": [
+    "Oncocytoma",
+    "Clear cell carcinoma",
+    "Angiomyolipoma",
+    "Wilms tumour"
+   ],
+   "ans": 0,
+   "exp": "The page notes the central stellate scar is also seen in oncocytoma of the kidney. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-025",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "On histopathology FNH contains hepatocytes and:",
+   "opts": [
+    "Atypical bile duct structures with Kupffer cells",
+    "Sheets of hepatocytes with no bile ducts",
+    "Mucin producing glands",
+    "Caseating granulomas"
+   ],
+   "ans": 0,
+   "exp": "HPE of FNH: hepatocytes, atypical bile duct structures and Kupffer cells. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-026",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "Because FNH contains Kupffer cells and is usually unencapsulated it:",
+   "opts": [
+    "Shows a 'hot-spot' on a sulphur colloid scan",
+    "Shows no uptake on a sulphur colloid scan",
+    "Is always hot on a PET scan",
+    "Is calcified on plain X-ray"
+   ],
+   "ans": 0,
+   "exp": "Kupffer cells (and the usually unencapsulated nature) → 'hot-spot' on a sulphur colloid scan. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-027",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "Alpha-fetoprotein in FNH is:",
+   "opts": [
+    "Normal",
+    "Greatly raised",
+    "Mildly raised",
+    "Undetectable only in children"
+   ],
+   "ans": 0,
+   "exp": "α-fetoprotein (AFP) is normal in FNH — and this differentiates FNH from HCC. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-028",
+   "sec": "Focal Nodular Hyperplasia",
+   "page": 254,
+   "q": "A 32-year-old woman on no medication has an asymptomatic 4 cm liver lesion with a central stellate scar and a normal AFP. The correct management is:",
+   "opts": [
+    "Observation",
+    "Resection because of the cancer risk",
+    "Angioembolisation",
+    "Liver transplantation"
+   ],
+   "ans": 0,
+   "exp": "This is FNH: observation is the recommended management. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-029",
+   "sec": "Hepatic Adenoma",
+   "page": 254,
+   "q": "Hepatic adenoma is described as a benign tumour with what risk of cancer?",
+   "opts": [
+    "10%",
+    "1%",
+    "25%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Hepatic adenoma: benign tumor with a 10% risk of cancer. (Book p254)"
+  },
+  {
+   "id": "SURG-C35-030",
+   "sec": "Hepatic Adenoma",
+   "page": 254,
+   "q": "The strongest association of hepatic adenoma is with:",
+   "opts": [
+    "Oral contraceptive pills",
+    "Anabolic steroids",
+    "Alcohol",
+    " smoking"
+   ],
+   "ans": 0,
+   "exp": "Strongest association with oral contraceptive pills (OCPs). (Book p254)"
+  },
+  {
+   "id": "SURG-C35-031",
+   "sec": "Hepatic Adenoma",
+   "page": 254,
+   "q": "Unlike FNH, a hepatic adenoma is usually:",
+   "opts": [
+    "Symptomatic with hepatomegaly",
+    "Asymptomatic and incidental",
+    "Only seen in males",
+    "Associated with a raised AFP"
+   ],
+   "ans": 0,
+   "exp": "Usually symptomatic: hepatomegaly (+). (Book p254)"
+  },
+  {
+   "id": "SURG-C35-032",
+   "sec": "Hepatic Adenoma",
+   "page": 254,
+   "q": "Spontaneous rupture of a hepatic adenoma causes haemoperitoneum, which is the most common:",
+   "opts": [
+    "Non-traumatic cause of haemoperitoneum",
+    "Cause of haemoperitoneum overall",
+    "Cause of upper GI bleeding",
+    "Cause of retroperitoneal bleeding"
+   ],
+   "ans": 0,
+   "exp": "Spontaneous rupture → haemoperitoneum (m/c non-traumatic cause). (Book p254)"
+  },
+  {
+   "id": "SURG-C35-033",
+   "sec": "Hepatic Adenoma",
+   "page": 255,
+   "q": "On triple phase CT, fat within an adenoma makes the lesion:",
+   "opts": [
+    "Hypodense",
+    "Hyperdense",
+    "Isointense",
+    "Calcified"
+   ],
+   "ans": 0,
+   "exp": "Fat content → hypodense. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-034",
+   "sec": "Hepatic Adenoma",
+   "page": 255,
+   "q": "Intratumoral haemorrhage within an adenoma appears:",
+   "opts": [
+    "Hyperdense",
+    "Hypodense",
+    "Isointense",
+    "As a fluid level only on MRI"
+   ],
+   "ans": 0,
+   "exp": "Intratumoral hemorrhage → hyperdense. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-035",
+   "sec": "Hepatic Adenoma",
+   "page": 255,
+   "q": "On histopathology an adenoma shows sheets of hepatocytes with:",
+   "opts": [
+    "No bile duct structures and no Kupffer cells",
+    "Atypical bile duct structures and Kupffer cells",
+    "A central stellate scar",
+    "Psammoma bodies"
+   ],
+   "ans": 0,
+   "exp": "HPE: sheets of hepatocytes, no bile duct structures and no Kupffer cells. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-036",
+   "sec": "Hepatic Adenoma",
+   "page": 255,
+   "q": "The absence of Kupffer cells in an adenoma means it shows:",
+   "opts": [
+    "No 'hot-spot' on a technetium/sulphur colloid scan",
+    "A 'hot-spot' on a sulphur colloid scan",
+    "A central scar",
+    "Intense uptake on PET"
+   ],
+   "ans": 0,
+   "exp": "No Kupffer cells → no 'hot-spot' on a technetium/sulphur colloid scan — the opposite of FNH. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-037",
+   "sec": "Hepatic Adenoma",
+   "page": 255,
+   "q": "According to this chapter, a hepatic adenoma larger than 5 cm is managed by:",
+   "opts": [
+    "Close observation",
+    "Immediate resection",
+    "Angioembolisation",
+    "Liver transplantation"
+   ],
+   "ans": 0,
+   "exp": "The chapter states: >5 cm — close observation. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-038",
+   "sec": "Hepatic Adenoma",
+   "page": 255,
+   "q": "According to this chapter, a hepatic adenoma smaller than 5 cm is managed by:",
+   "opts": [
+    "Resection because of the risk of HCC",
+    "Close observation",
+    "Angioembolisation",
+    "Ablation"
+   ],
+   "ans": 0,
+   "exp": "The chapter states: <5 cm — resection (d/t risk of HCC). (Book p255)"
+  },
+  {
+   "id": "SURG-C35-039",
+   "sec": "Bordeaux Classification of Hepatic Adenoma",
+   "page": 255,
+   "q": "Which subtype of hepatic adenoma carries the maximum risk of bleeding?",
+   "opts": [
+    "Inflammatory adenoma",
+    "HNF-1 alpha mutated adenoma",
+    "β-catenin mutated adenoma",
+    "Unclassified adenoma"
+   ],
+   "ans": 0,
+   "exp": "Inflammatory adenoma: maximum risk of bleeding. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-040",
+   "sec": "Bordeaux Classification of Hepatic Adenoma",
+   "page": 255,
+   "q": "The HNF-1 alpha mutated adenoma is typically seen in:",
+   "opts": [
+    "Young patients, often with multiple lesions",
+    "Elderly men",
+    "Patients on anabolic steroids",
+    "Patients with cirrhosis"
+   ],
+   "ans": 0,
+   "exp": "HNF-1 alpha mutated: young patient, multiple lesions. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-041",
+   "sec": "Bordeaux Classification of Hepatic Adenoma",
+   "page": 255,
+   "q": "Which subtype of hepatic adenoma carries the maximum risk of cancer?",
+   "opts": [
+    "β-catenin mutated adenoma",
+    "Inflammatory adenoma",
+    "HNF-1 alpha mutated adenoma",
+    "Unclassified adenoma"
+   ],
+   "ans": 0,
+   "exp": "β-catenin mutated: maximum risk of cancer. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-042",
+   "sec": "Bordeaux Classification of Hepatic Adenoma",
+   "page": 255,
+   "q": "Anabolic steroid associated adenomas and exon-3 mutations are additional features of the:",
+   "opts": [
+    "β-catenin mutated adenoma",
+    "Inflammatory adenoma",
+    "HNF-1 alpha mutated adenoma",
+    "Hepatocellular carcinoma"
+   ],
+   "ans": 0,
+   "exp": "The Bordeaux list adds that β-catenin mutated adenomas are seen in patients on anabolic steroids and show an exon-3 mutation. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-043",
+   "sec": "Hepatocellular Carcinoma: Risk Factors",
+   "page": 255,
+   "q": "The most important risk factor for HCC, ranked above the others in this chapter, is:",
+   "opts": [
+    "HBV",
+    "HCV",
+    "Alcohol",
+    "Aflatoxin"
+   ],
+   "ans": 0,
+   "exp": "Risk factors are listed beginning HBV > HCV. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-044",
+   "sec": "Hepatocellular Carcinoma: Risk Factors",
+   "page": 255,
+   "q": "Which of the following is NOT listed as a risk factor for HCC?",
+   "opts": [
+    "Primary sclerosing cholangitis",
+    "Alcohol",
+    "Obesity (NAFLD)",
+    "Aflatoxin"
+   ],
+   "ans": 0,
+   "exp": "Risk factors listed: HBV > HCV, alcohol, obesity (NAFLD), Thorotrast exposure, aflatoxin and diabetes mellitus. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-045",
+   "sec": "Hepatocellular Carcinoma: Risk Factors",
+   "page": 255,
+   "q": "Thorotrast exposure increases the risk of all of the following EXCEPT:",
+   "opts": [
+    "Hepatoblastoma",
+    "HCC",
+    "Cholangiocarcinoma",
+    "Renal cell carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Thorotrast exposure (an old contrast medium) increases the risk of HCC, cholangiocarcinoma and renal cell carcinoma. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-046",
+   "sec": "Hepatocellular Carcinoma: Risk Factors",
+   "page": 255,
+   "q": "Thorotrast, listed as a risk factor for HCC, was:",
+   "opts": [
+    "A contrast medium",
+    "An oral hypoglycaemic agent",
+    "A herbal remedy",
+    "A chemotherapeutic drug"
+   ],
+   "ans": 0,
+   "exp": "Thorotrast exposure (contrast medium) is listed among the risk factors. (Book p255)"
+  },
+  {
+   "id": "SURG-C35-047",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "A paraneoplastic syndrome is defined as a syndrome:",
+   "opts": [
+    "Not explained by direct spread or metastasis",
+    "Caused by direct invasion of a neighbouring organ",
+    "Caused only by the mass effect of the tumour",
+    "Occurring only after treatment"
+   ],
+   "ans": 0,
+   "exp": "Paraneoplastic syndrome: a syndrome not explained by direct spread or metastasis. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-048",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "The most common paraneoplastic syndrome associated with HCC is:",
+   "opts": [
+    "Hypoglycaemia",
+    "Cushing's syndrome",
+    "Gynaecomastia",
+    "Hypercalcaemia"
+   ],
+   "ans": 0,
+   "exp": "Hypoglycaemia is the m/c paraneoplastic syndrome of HCC. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-049",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "Which of the following is NOT listed as a paraneoplastic syndrome of HCC?",
+   "opts": [
+    "Hypercalcaemia",
+    "Hypoglycaemia",
+    "Cushing's syndrome",
+    "Gynaecomastia"
+   ],
+   "ans": 0,
+   "exp": "The listed paraneoplastic syndromes are hypoglycaemia (m/c), Cushing's syndrome and gynaecomastia. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-050",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "On triple phase CT, HCC in the non-contrast phase is:",
+   "opts": [
+    "Hypodense",
+    "Hyperdense",
+    "Isointense",
+    "Calcified"
+   ],
+   "ans": 0,
+   "exp": "CT phases: HCC — non-contrast hypodense, arterial hyperdense, venous early washout. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-051",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "On triple phase CT, HCC in the arterial phase is:",
+   "opts": [
+    "Hyperdense",
+    "Hypodense",
+    "Isointense",
+    "Indistinguishable from a cyst"
+   ],
+   "ans": 0,
+   "exp": "Arterial phase: hyperdense — the tumour is supplied by the hepatic artery. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-052",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "The venous phase behaviour that characterises HCC is:",
+   "opts": [
+    "Early washout",
+    "Continued filling-in",
+    "Peripheral nodular enhancement",
+    "No change in density"
+   ],
+   "ans": 0,
+   "exp": "Venous phase: early washout — the hallmark that separates HCC from other lesions. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-053",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "Metastases in the liver on triple phase CT are:",
+   "opts": [
+    "Hypodense",
+    "Hyperdense in the arterial phase",
+    "Hyperdense in the venous phase",
+    "Isointense throughout"
+   ],
+   "ans": 0,
+   "exp": "Metastasis is listed as hypodense, in contrast to the arterial hyperdensity and early washout of HCC. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-054",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "The CT finding in HCC is described as:",
+   "opts": [
+    "Classical and diagnostic",
+    "Non-specific",
+    "Only useful for staging",
+    "Inferior to ultrasound"
+   ],
+   "ans": 0,
+   "exp": "CT finding is classical and diagnostic, and the triple phase CT helps differentiate HCC from metastasis. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-055",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "page": 256,
+   "q": "The scores listed for assessing liver function in a patient with HCC include all of the following EXCEPT:",
+   "opts": [
+    "LI-RADS",
+    "Child-Turcotte-Pugh score",
+    "MELD score",
+    "PELD score"
+   ],
+   "ans": 0,
+   "exp": "Scores for assessing liver function: Child-Turcotte-Pugh, MELD and PELD. LI-RADS is the imaging scoring system. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-056",
+   "sec": "Tumour Markers in HCC",
+   "page": 256,
+   "q": "PIVKA, listed as a tumour marker in HCC, expands to:",
+   "opts": [
+    "Protein induced in vitamin K antagonism (abnormal prothrombin)",
+    "Prothrombin-induced vascular kinase activity",
+    "Plasma inhibitor of vitamin K absorption",
+    "Proliferative index of vitamin K activity"
+   ],
+   "ans": 0,
+   "exp": "The marker is described as protein induced in vitamin K antagonism (PIVKA), i.e. abnormal prothrombin. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-057",
+   "sec": "Tumour Markers in HCC",
+   "page": 256,
+   "q": "Which tumour marker is specifically noted to be raised in the fibrolamellar variant of HCC?",
+   "opts": [
+    "Neurotensin B",
+    "Alpha-fetoprotein",
+    "CA 19-9",
+    "CEA"
+   ],
+   "ans": 0,
+   "exp": "Neurotensin B is raised in the fibrolamellar variant. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-058",
+   "sec": "Tumour Markers in HCC",
+   "page": 256,
+   "q": "Which of the following is NOT listed as a tumour marker for HCC?",
+   "opts": [
+    "CA 19-9",
+    "AFP",
+    "Glypican",
+    "HepPar-1"
+   ],
+   "ans": 0,
+   "exp": "Tumour markers listed: AFP, PIVKA (prothrombin), glypican, HepPar-1 and neurotensin B. (Book p256)"
+  },
+  {
+   "id": "SURG-C35-059",
+   "sec": "Treatment of Localised HCC",
+   "page": 257,
+   "q": "Curative resection for HCC is offered to patients with:",
+   "opts": [
+    "Child-Pugh A and an adequate future liver remnant",
+    "Child-Pugh B disease with an adequate remnant",
+    "Child-Pugh C disease",
+    "Any Child class if the tumour is small"
+   ],
+   "ans": 0,
+   "exp": "The localized branch: Child-Pugh A with adequate FLR (>25%) goes to resection. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-060",
+   "sec": "Treatment of Localised HCC",
+   "page": 257,
+   "q": "A patient with Child-Pugh B or C disease, or an inadequate future liver remnant, is considered for:",
+   "opts": [
+    "Liver transplantation",
+    "Immediate resection",
+    "Radiofrequency ablation as first choice",
+    "Best supportive care only"
+   ],
+   "ans": 0,
+   "exp": "Child-Pugh B/C and inadequate FLR (<25%) make the patient a candidate for transplant. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-061",
+   "sec": "Treatment of Localised HCC",
+   "page": 257,
+   "q": "FLR expands to:",
+   "opts": [
+    "Functional liver reserve",
+    "Focal liver remnant",
+    "Fibrotic liver reserve",
+    "Functional lobar resection"
+   ],
+   "ans": 0,
+   "exp": "FLR: functional liver reserve. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-062",
+   "sec": "Treatment of Localised HCC",
+   "page": 257,
+   "q": "The future liver remnant is assessed using:",
+   "opts": [
+    "Fibroscan",
+    "Endoscopic ultrasound",
+    "Plain X-ray",
+    "MRCP"
+   ],
+   "ans": 0,
+   "exp": "FLR is assessed using Fibroscan. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-063",
+   "sec": "Treatment of Localised HCC",
+   "page": 257,
+   "q": "Resection can be done when the future liver remnant is:",
+   "opts": [
+    "More than 25%",
+    "More than 10%",
+    "More than 50%",
+    "More than 75%"
+   ],
+   "ans": 0,
+   "exp": ">25% — resection can be done. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-064",
+   "sec": "Treatment of Localised HCC",
+   "page": 257,
+   "q": "Which procedure is listed for triggering hypertrophy of the other lobe before resection?",
+   "opts": [
+    "Portal vein embolisation",
+    "Trans-arterial chemoembolisation",
+    "Radiofrequency ablation",
+    "Percutaneous ethanol injection"
+   ],
+   "ans": 0,
+   "exp": "Portal vein embolisation triggers hypertrophy of the other lobe. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-065",
+   "sec": "Treatment of Localised HCC",
+   "page": 257,
+   "q": "The Nimura technique / ALPPS is listed in the management of HCC under:",
+   "opts": [
+    "Measures used when the future liver remnant is inadequate",
+    "Palliative therapy for metastatic disease",
+    "Treatment of haemangioma",
+    "Staging laparoscopy"
+   ],
+   "ans": 0,
+   "exp": "Nimura technique/ALPPS appears in the branch dealing with an inadequate FLR. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-066",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "The Milan criteria for liver transplantation in HCC are:",
+   "opts": [
+    "A single tumour <5 cm or up to 3 tumours each <3 cm, with no metastasis",
+    "Any number of tumours provided each is <5 cm",
+    "A single tumour <10 cm",
+    "Any tumour without vascular invasion"
+   ],
+   "ans": 0,
+   "exp": "Milan criteria: single tumor <5 cm OR 1-3 tumors <3 cm, with no metastasis. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-067",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "Radiofrequency ablation is listed for HCC lesions of size:",
+   "opts": [
+    "Less than 3 cm",
+    "More than 3 cm",
+    "More than 5 cm",
+    "Any size"
+   ],
+   "ans": 0,
+   "exp": "RFA: <3 cm. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-068",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "Microwave ablation is listed for lesions:",
+   "opts": [
+    "More than 3 cm",
+    "Less than 3 cm",
+    "Less than 1 cm",
+    "Only in the left lobe"
+   ],
+   "ans": 0,
+   "exp": "Microwave ablation: >3 cm. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-069",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "Which of the following is listed among the local ablative/trans-arterial options when transplantation is not possible?",
+   "opts": [
+    "Percutaneous ethanol injection",
+    "Systemic chemotherapy alone",
+    "External beam radiotherapy",
+    "Cryotherapy of the whole liver"
+   ],
+   "ans": 0,
+   "exp": "The listed options are RFA, microwave ablation, percutaneous ethanol injection, TACE and TARE. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-070",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "Trans-arterial radioembolisation (TARE) uses:",
+   "opts": [
+    "Yttrium spheres",
+    "Iodine-131 seeds",
+    "Iridium wires",
+    "Gold grains"
+   ],
+   "ans": 0,
+   "exp": "Trans-arterial radioembolisation/TARE — yttrium spheres are used. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-071",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "Trans-arterial chemoembolisation is abbreviated as:",
+   "opts": [
+    "TACE",
+    "TARE",
+    "TAE",
+    "TEA"
+   ],
+   "ans": 0,
+   "exp": "Trans-arterial chemoembolisation = TACE. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-072",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "The first-line systemic agent listed for advanced/metastatic HCC is:",
+   "opts": [
+    "Sorafenib, a tyrosine kinase inhibitor",
+    "Bevacizumab",
+    "5-fluorouracil",
+    "Cetuximab"
+   ],
+   "ans": 0,
+   "exp": "Palliative treatment for advanced/metastatic disease: sorafenib (tyrosine kinase inhibitor). (Book p257)"
+  },
+  {
+   "id": "SURG-C35-073",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy",
+   "page": 257,
+   "q": "Which immunotherapy drugs are listed for advanced HCC?",
+   "opts": [
+    "Pembrolizumab / nivolumab",
+    "Bevacizumab alone",
+    "Trastuzumab and pertuzumab",
+    "Rituximab"
+   ],
+   "ans": 0,
+   "exp": "The second palliative option listed is pembrolizumab/nivolumab. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-074",
+   "sec": "Prognostic Indicators and the Fibrolamellar Variant",
+   "page": 257,
+   "q": "Which of the following is NOT listed as a prognostic indicator for HCC?",
+   "opts": [
+    "LI-RADS",
+    "CLIP",
+    "Okuda",
+    "BCLC (Barcelona Clinic Score)"
+   ],
+   "ans": 0,
+   "exp": "Prognostic indicators listed: CLIP, Okuda and BCLC. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-075",
+   "sec": "Prognostic Indicators and the Fibrolamellar Variant",
+   "page": 257,
+   "q": "The most common prognostic factor in HCC is:",
+   "opts": [
+    "The stage of the disease",
+    "The AFP level alone",
+    "The patient's age",
+    "The size of the spleen"
+   ],
+   "ans": 0,
+   "exp": "m/c prognostic factor in HCC: stage of disease. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-076",
+   "sec": "Prognostic Indicators and the Fibrolamellar Variant",
+   "page": 257,
+   "q": "The most common site of metastasis from HCC is the:",
+   "opts": [
+    "Lungs",
+    "Bone",
+    "Brain",
+    "Adrenals"
+   ],
+   "ans": 0,
+   "exp": "m/c site of metastasis: lungs. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-077",
+   "sec": "Prognostic Indicators and the Fibrolamellar Variant",
+   "page": 257,
+   "q": "The fibrolamellar variant of HCC occurs in:",
+   "opts": [
+    "Young patients with a non-cirrhotic liver",
+    "Elderly cirrhotic patients",
+    "Only in women",
+    "Only in patients with hepatitis B"
+   ],
+   "ans": 0,
+   "exp": "Fibrolamellar variant: young patients, non-cirrhotic liver, male = female. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-078",
+   "sec": "Prognostic Indicators and the Fibrolamellar Variant",
+   "page": 257,
+   "q": "The prognosis of the fibrolamellar variant is:",
+   "opts": [
+    "Good",
+    "Very poor",
+    "The same as conventional HCC",
+    "Invariably fatal within 6 months"
+   ],
+   "ans": 0,
+   "exp": "Fibrolamellar variant: good prognosis. (Book p257)"
+  },
+  {
+   "id": "SURG-C35-079",
+   "sec": "Prognostic Indicators and the Fibrolamellar Variant",
+   "page": 257,
+   "q": "In the fibrolamellar variant of HCC the AFP is:",
+   "opts": [
+    "Not raised",
+    "Markedly raised",
+    "Raised only in children",
+    "Used to monitor treatment"
+   ],
+   "ans": 0,
+   "exp": "AFP is not raised in the fibrolamellar variant (neurotensin B is the marker that rises). (Book p257)"
+  },
+  {
+   "id": "SURG-C35-080",
+   "sec": "Principles of Liver Resection",
+   "page": 258,
+   "q": "The principles of liver resection listed include:",
+   "opts": [
+    "Trendelenburg position with fluid restriction",
+    "Reverse Trendelenburg position with aggressive fluid loading",
+    "Prone positioning",
+    "Intra-operative normovolaemic haemodilution only"
+   ],
+   "ans": 0,
+   "exp": "Principle of liver resection: Trendelenburg position + fluid restriction (to keep venous pressure low). (Book p258)"
+  },
+  {
+   "id": "SURG-C35-081",
+   "sec": "Principles of Liver Resection",
+   "page": 258,
+   "q": "The three most critical factors in liver resection are:",
+   "opts": [
+    "Amount of liver resected, blood loss and the condition of the liver (Child-Pugh score)",
+    "Age, sex and tumour size",
+    "Portal pressure, bile duct diameter and platelet count",
+    "Anaesthesia time, incision length and drain use"
+   ],
+   "ans": 0,
+   "exp": "The 3 most critical factors: amount of liver resected, blood loss and condition (Child-Pugh score). (Book p258)"
+  },
+  {
+   "id": "SURG-C35-082",
+   "sec": "Principles of Liver Resection",
+   "page": 258,
+   "q": "A future liver remnant of more than 50% is associated with:",
+   "opts": [
+    "Less mortality",
+    "Increased mortality",
+    "No change in mortality",
+    "A guaranteed cure"
+   ],
+   "ans": 0,
+   "exp": "FLR >50%: less mortality. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-083",
+   "sec": "Principles of Liver Resection",
+   "page": 258,
+   "q": "Mortality rises when the future liver remnant falls below:",
+   "opts": [
+    "20-25%",
+    "50%",
+    "40%",
+    "10%"
+   ],
+   "ans": 0,
+   "exp": "FLR <20-25%: ↑ mortality. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-084",
+   "sec": "Principles of Liver Resection",
+   "page": 258,
+   "q": "All of the following are listed complications of liver resection EXCEPT:",
+   "opts": [
+    "Retrograde ejaculation",
+    "Hepatic dysfunction",
+    "Bile leak",
+    "Ascites"
+   ],
+   "ans": 0,
+   "exp": "Complications listed: hepatic dysfunction, bile leak, ascites and infections. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-085",
+   "sec": "Colorectal Liver Metastases",
+   "page": 258,
+   "q": "The most common site of metastasis from colorectal cancer is the:",
+   "opts": [
+    "Liver",
+    "Lung",
+    "Bone",
+    "Peritoneum"
+   ],
+   "ans": 0,
+   "exp": "Liver is the m/c site for colorectal cancer metastases. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-086",
+   "sec": "Colorectal Liver Metastases",
+   "page": 258,
+   "q": "Approximately what proportion of colorectal cancers show liver metastases?",
+   "opts": [
+    "60%",
+    "6%",
+    "20%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "60% of colorectal cancers show liver metastases. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-087",
+   "sec": "Colorectal Liver Metastases",
+   "page": 258,
+   "q": "Liver metastases detected less than 1 year after the primary are termed:",
+   "opts": [
+    "Synchronous",
+    "Metachronous",
+    "Solitary",
+    "Satellite"
+   ],
+   "ans": 0,
+   "exp": "Types: synchronous (<1 yr) and metachronous (>1 yr). (Book p258)"
+  },
+  {
+   "id": "SURG-C35-088",
+   "sec": "Colorectal Liver Metastases",
+   "page": 258,
+   "q": "Metastases detected more than 1 year after treatment of the primary are:",
+   "opts": [
+    "Metachronous",
+    "Synchronous",
+    "Recurrent",
+    "De novo"
+   ],
+   "ans": 0,
+   "exp": "Metachronous: >1 year. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-089",
+   "sec": "Colorectal Liver Metastases",
+   "page": 258,
+   "q": "The investigation of choice for colorectal liver metastases shows:",
+   "opts": [
+    "Hypodense lesions on triple phase CT",
+    "Hyperdense lesions on triple phase CT",
+    "Calcified lesions on plain X-ray",
+    "Hot spots on a sulphur colloid scan"
+   ],
+   "ans": 0,
+   "exp": "Investigation: triple phase CT (IOC) → hypodense lesions. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-090",
+   "sec": "Colorectal Liver Metastases",
+   "page": 258,
+   "q": "Bevacizumab, used in colorectal liver metastases, is a monoclonal antibody against:",
+   "opts": [
+    "VEGF",
+    "EGFR",
+    "HER2",
+    "CD20"
+   ],
+   "ans": 0,
+   "exp": "Immunotherapy: bevacizumab — a monoclonal antibody against VEGF. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-091",
+   "sec": "Colorectal Liver Metastases",
+   "page": 258,
+   "q": "Surgical resection of colorectal liver metastases is advised when:",
+   "opts": [
+    "The future liver remnant is adequate and resection is possible, as it improves survival",
+    "There are more than ten lesions",
+    "There is extrahepatic disease even if resection is possible",
+    "The primary tumour is still in situ"
+   ],
+   "ans": 0,
+   "exp": "Surgical resection is done if adequate FLR plus resection is possible — and it increases survival. (Book p258)"
+  },
+  {
+   "id": "SURG-C35-092",
+   "sec": "Hepatoblastoma",
+   "page": 259,
+   "q": "Hepatoblastoma typically presents at what age?",
+   "opts": [
+    "Less than 3 years",
+    "10-20 years",
+    "40-50 years",
+    "Over 60 years"
+   ],
+   "ans": 0,
+   "exp": "Hepatoblastoma: <3 yrs of age. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-093",
+   "sec": "Hepatoblastoma",
+   "page": 259,
+   "q": "Which of the following is NOT listed as a clinical feature of hepatoblastoma?",
+   "opts": [
+    "Jaundice as an early sign",
+    "Hepatomegaly",
+    "Anaemia",
+    "Lung metastasis at diagnosis in about 50%"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: <3 yrs, hepatomegaly, anaemia, lung metastasis at diagnosis (50%) and jaundice — jaundice is a LATE sign. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-094",
+   "sec": "Hepatoblastoma",
+   "page": 259,
+   "q": "At diagnosis, roughly what proportion of hepatoblastoma patients have lung metastases?",
+   "opts": [
+    "50%",
+    "5%",
+    "10%",
+    "90%"
+   ],
+   "ans": 0,
+   "exp": "Lung metastasis at diagnosis: 50%. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-095",
+   "sec": "Hepatoblastoma",
+   "page": 259,
+   "q": "The investigation of choice for hepatoblastoma is:",
+   "opts": [
+    "Triple phase CT (CECT)",
+    "Ultrasound alone",
+    "MRCP",
+    "Liver biopsy alone"
+   ],
+   "ans": 0,
+   "exp": "IOC: triple phase CT (CECT). (Book p259)"
+  },
+  {
+   "id": "SURG-C35-096",
+   "sec": "Hepatoblastoma",
+   "page": 259,
+   "q": "The sequence of treatment in hepatoblastoma is:",
+   "opts": [
+    "Surgery followed by chemotherapy",
+    "Chemotherapy followed by surgery",
+    "Radiotherapy alone",
+    "Chemotherapy alone"
+   ],
+   "ans": 0,
+   "exp": "Management: surgery → chemotherapy. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-097",
+   "sec": "Hepatoblastoma",
+   "page": 259,
+   "q": "The correct statement about hepatoblastoma with metastases is that:",
+   "opts": [
+    "Aggressive treatment is given even if metastases are present",
+    "Treatment is palliative only once metastases appear",
+    "Metastases exclude surgery",
+    "Only the lung lesion is treated"
+   ],
+   "ans": 0,
+   "exp": "The page emphasises aggressive treatment even if metastasis is present. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-098",
+   "sec": "Intrahepatic Cholangiocarcinoma",
+   "page": 259,
+   "q": "The incidence of intrahepatic cholangiocarcinoma is about:",
+   "opts": [
+    "10%",
+    "1%",
+    "30%",
+    "50%"
+   ],
+   "ans": 0,
+   "exp": "Incidence: 10%. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-099",
+   "sec": "Intrahepatic Cholangiocarcinoma",
+   "page": 259,
+   "q": "Intrahepatic cholangiocarcinoma is the:",
+   "opts": [
+    "Second most common primary hepatic neoplasm",
+    "Most common primary hepatic neoplasm",
+    "Third most common primary hepatic neoplasm",
+    "Rarest primary hepatic neoplasm"
+   ],
+   "ans": 0,
+   "exp": "It is the 2nd m/c primary hepatic neoplasm (after HCC). (Book p259)"
+  },
+  {
+   "id": "SURG-C35-100",
+   "sec": "Intrahepatic Cholangiocarcinoma",
+   "page": 259,
+   "q": "Which of the following is a risk factor for intrahepatic cholangiocarcinoma?",
+   "opts": [
+    "Primary sclerosing cholangitis",
+    "Oral contraceptive pills",
+    "Hepatitis A infection",
+    "Haemochromatosis"
+   ],
+   "ans": 0,
+   "exp": "Risk factors: primary sclerosing cholangitis (PSC), hepatolithiasis and choledochal cyst. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-101",
+   "sec": "Intrahepatic Cholangiocarcinoma",
+   "page": 259,
+   "q": "Which risk factor is shared by intrahepatic cholangiocarcinoma and gallbladder disease through stone formation within the ducts?",
+   "opts": [
+    "Hepatolithiasis",
+    "Alcoholic cirrhosis",
+    "Wilson disease",
+    "Alpha-1 antitrypsin deficiency"
+   ],
+   "ans": 0,
+   "exp": "Hepatolithiasis is listed as a risk factor for intrahepatic cholangiocarcinoma. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-102",
+   "sec": "Intrahepatic Cholangiocarcinoma",
+   "page": 259,
+   "q": "Compared with HCC, jaundice in intrahepatic cholangiocarcinoma appears:",
+   "opts": [
+    "Early",
+    "Late",
+    "Never",
+    "Only after lung metastasis"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: jaundice (early sign) and hepatomegaly. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-103",
+   "sec": "Intrahepatic Cholangiocarcinoma",
+   "page": 259,
+   "q": "The tumour marker picture in intrahepatic cholangiocarcinoma is:",
+   "opts": [
+    "Normal AFP with a markedly raised CA 19-9",
+    "Raised AFP with a normal CA 19-9",
+    "Raised AFP and raised CA 19-9",
+    "Normal AFP and normal CA 19-9"
+   ],
+   "ans": 0,
+   "exp": "Investigation: IOC triple phase CT, AFP normal and S. CA 19-9 ↑↑. (Book p259)"
+  },
+  {
+   "id": "SURG-C35-104",
+   "sec": "Intrahepatic Cholangiocarcinoma",
+   "page": 259,
+   "q": "A 60-year-old with primary sclerosing cholangitis develops a hepatic mass with early jaundice, a normal AFP and a markedly raised CA 19-9. The diagnosis is:",
+   "opts": [
+    "Intrahepatic cholangiocarcinoma",
+    "Hepatocellular carcinoma",
+    "Hepatoblastoma",
+    "Liver metastasis"
+   ],
+   "ans": 0,
+   "exp": "PSC is a risk factor, jaundice is early, AFP is normal and CA 19-9 is markedly raised — intrahepatic cholangiocarcinoma. (Book p259)"
+  }
+ ],
+ "units": [
+  {
+   "id": "SURG-U35-1",
+   "ch": 35,
+   "n": 1,
+   "title": "LI-RADS and the Common Liver Tumours",
+   "sec": "LI-RADS and the Common Liver Tumours · p253",
+   "qs": [
+    "SURG-C35-001",
+    "SURG-C35-002",
+    "SURG-C35-003",
+    "SURG-C35-004",
+    "SURG-C35-005",
+    "SURG-C35-006",
+    "SURG-C35-007",
+    "SURG-C35-008",
+    "SURG-C35-009",
+    "SURG-C35-010",
+    "SURG-C35-011"
+   ],
+   "guide": "Triple phase CT is the entry ticket to every liver mass, and LI-RADS turns its appearance into a shared language: LR-1 is certainly benign, LR-5 is certainly HCC, and LR-3 in the middle is where follow-up or biopsy earns its keep."
+  },
+  {
+   "id": "SURG-U35-2",
+   "ch": 35,
+   "n": 2,
+   "title": "Liver Haemangioma",
+   "sec": "Liver Haemangioma · p253",
+   "qs": [
+    "SURG-C35-012",
+    "SURG-C35-013",
+    "SURG-C35-014",
+    "SURG-C35-015",
+    "SURG-C35-016",
+    "SURG-C35-017",
+    "SURG-C35-018",
+    "SURG-C35-019",
+    "SURG-C35-020"
+   ],
+   "guide": "Haemangiomas are simply a tangle of vessels, common in women and found by accident. Non-contrast hypodense with peripheral nodular arterial enhancement is the signature; leave them alone unless they are big enough to bleed, hurt or consume clotting factors."
+  },
+  {
+   "id": "SURG-U35-3",
+   "ch": 35,
+   "n": 3,
+   "title": "Focal Nodular Hyperplasia",
+   "sec": "Focal Nodular Hyperplasia · p254",
+   "qs": [
+    "SURG-C35-021",
+    "SURG-C35-022",
+    "SURG-C35-023",
+    "SURG-C35-024",
+    "SURG-C35-025",
+    "SURG-C35-026",
+    "SURG-C35-027",
+    "SURG-C35-028"
+   ],
+   "guide": "FNH is the great mimicker that needs no operation: a young woman, a central stellate scar fed by a dilated arteriole, bile ductules and Kupffer cells that light up the sulphur colloid scan, and a completely normal AFP. Observe it."
+  },
+  {
+   "id": "SURG-U35-4",
+   "ch": 35,
+   "n": 4,
+   "title": "Hepatic Adenoma",
+   "sec": "Hepatic Adenoma · p254",
+   "qs": [
+    "SURG-C35-029",
+    "SURG-C35-030",
+    "SURG-C35-031",
+    "SURG-C35-032",
+    "SURG-C35-033",
+    "SURG-C35-034",
+    "SURG-C35-035",
+    "SURG-C35-036",
+    "SURG-C35-037",
+    "SURG-C35-038"
+   ],
+   "guide": "Adenoma is FNH's dangerous twin — OCP-related, symptomatic, and the commonest non-traumatic cause of haemoperitoneum when it ruptures. Fat and haemorrhage shape its CT appearance, and the absence of Kupffer cells means a cold sulphur colloid scan."
+  },
+  {
+   "id": "SURG-U35-5",
+   "ch": 35,
+   "n": 5,
+   "title": "Bordeaux Classification of Hepatic Adenoma",
+   "sec": "Bordeaux Classification of Hepatic Adenoma · p255",
+   "qs": [
+    "SURG-C35-039",
+    "SURG-C35-040",
+    "SURG-C35-041",
+    "SURG-C35-042"
+   ],
+   "guide": "The Bordeaux classification decides an adenoma's behaviour: inflammatory tumours bleed most, HNF-1α tumours present young and multiple, and β-catenin tumours — the anabolic-steroid, exon-3 mutated group — carry the malignant risk."
+  },
+  {
+   "id": "SURG-U35-6",
+   "ch": 35,
+   "n": 6,
+   "title": "Hepatocellular Carcinoma: Risk Factors",
+   "sec": "Hepatocellular Carcinoma: Risk Factors · p255",
+   "qs": [
+    "SURG-C35-043",
+    "SURG-C35-044",
+    "SURG-C35-045",
+    "SURG-C35-046"
+   ],
+   "guide": "HCC follows its risk factors: HBV above HCV, then alcohol, NAFLD, aflatoxin and diabetes. Thorotrast is the historical curiosity worth remembering because it also predisposes to cholangiocarcinoma and renal cell carcinoma."
+  },
+  {
+   "id": "SURG-U35-7",
+   "ch": 35,
+   "n": 7,
+   "title": "Paraneoplastic Syndromes and Diagnosis of HCC",
+   "sec": "Paraneoplastic Syndromes and Diagnosis of HCC · p256",
+   "qs": [
+    "SURG-C35-047",
+    "SURG-C35-048",
+    "SURG-C35-049",
+    "SURG-C35-050",
+    "SURG-C35-051",
+    "SURG-C35-052",
+    "SURG-C35-053",
+    "SURG-C35-054",
+    "SURG-C35-055"
+   ],
+   "guide": "HCC declares itself on the phases — hypodense, then hyperdense, then early washout — and declares itself systemically through hypoglycaemia, Cushing's syndrome or gynaecomastia, none of which needs a metastasis to explain it."
+  },
+  {
+   "id": "SURG-U35-8",
+   "ch": 35,
+   "n": 8,
+   "title": "Tumour Markers in HCC",
+   "sec": "Tumour Markers in HCC · p256",
+   "qs": [
+    "SURG-C35-056",
+    "SURG-C35-057",
+    "SURG-C35-058"
+   ],
+   "guide": "Markers matter when the scan is equivocal: AFP, PIVKA (the abnormal prothrombin induced by vitamin K antagonism), glypican and HepPar-1 — and neurotensin B, which rises specifically in the fibrolamellar variant."
+  },
+  {
+   "id": "SURG-U35-9",
+   "ch": 35,
+   "n": 9,
+   "title": "Treatment of Localised HCC",
+   "sec": "Treatment of Localised HCC · p257",
+   "qs": [
+    "SURG-C35-059",
+    "SURG-C35-060",
+    "SURG-C35-061",
+    "SURG-C35-062",
+    "SURG-C35-063",
+    "SURG-C35-064",
+    "SURG-C35-065"
+   ],
+   "guide": "Resection is a question of reserve rather than courage: Child-Pugh A with an FLR above 25% measured on Fibroscan goes to theatre, and when the remnant is short you can make it grow with portal vein embolisation or an ALPPS-type strategy."
+  },
+  {
+   "id": "SURG-U35-10",
+   "ch": 35,
+   "n": 10,
+   "title": "Milan Criteria, Ablation and Palliative Therapy",
+   "sec": "Milan Criteria, Ablation and Palliative Therapy · p257",
+   "qs": [
+    "SURG-C35-066",
+    "SURG-C35-067",
+    "SURG-C35-068",
+    "SURG-C35-069",
+    "SURG-C35-070",
+    "SURG-C35-071",
+    "SURG-C35-072",
+    "SURG-C35-073"
+   ],
+   "guide": "For everyone else there is a ladder: transplant within Milan criteria, and when no donor appears, RFA under 3 cm, microwave over 3 cm, ethanol injection, TACE or TARE with yttrium spheres — and sorafenib or pembrolizumab/nivolumab once the disease is advanced."
+  },
+  {
+   "id": "SURG-U35-11",
+   "ch": 35,
+   "n": 11,
+   "title": "Prognostic Indicators and the Fibrolamellar Variant",
+   "sec": "Prognostic Indicators and the Fibrolamellar Variant · p257",
+   "qs": [
+    "SURG-C35-074",
+    "SURG-C35-075",
+    "SURG-C35-076",
+    "SURG-C35-077",
+    "SURG-C35-078",
+    "SURG-C35-079"
+   ],
+   "guide": "Prognosis is still driven by stage, scored variously by CLIP, Okuda or BCLC, and the lung is where HCC most often lands. The fibrolamellar variant is the welcome exception: a young patient, a non-cirrhotic liver, a normal AFP and a genuinely good outlook."
+  },
+  {
+   "id": "SURG-U35-12",
+   "ch": 35,
+   "n": 12,
+   "title": "Principles of Liver Resection",
+   "sec": "Principles of Liver Resection · p258",
+   "qs": [
+    "SURG-C35-080",
+    "SURG-C35-081",
+    "SURG-C35-082",
+    "SURG-C35-083",
+    "SURG-C35-084"
+   ],
+   "guide": "Cutting liver is as much physiology as anatomy: head down, fluids restricted, and three things watched — how much liver is taken, how much blood is lost and how good the liver was to begin with. Below a 20-25% remnant, mortality climbs."
+  },
+  {
+   "id": "SURG-U35-13",
+   "ch": 35,
+   "n": 13,
+   "title": "Colorectal Liver Metastases",
+   "sec": "Colorectal Liver Metastases · p258",
+   "qs": [
+    "SURG-C35-085",
+    "SURG-C35-086",
+    "SURG-C35-087",
+    "SURG-C35-088",
+    "SURG-C35-089",
+    "SURG-C35-090",
+    "SURG-C35-091"
+   ],
+   "guide": "The liver is where colorectal cancer goes, and it goes there in about 60% of patients. Synchronous lesions within a year and metachronous ones after it are both worth resecting when the remnant allows, usually alongside bevacizumab against VEGF."
+  },
+  {
+   "id": "SURG-U35-14",
+   "ch": 35,
+   "n": 14,
+   "title": "Hepatoblastoma",
+   "sec": "Hepatoblastoma · p259",
+   "qs": [
+    "SURG-C35-092",
+    "SURG-C35-093",
+    "SURG-C35-094",
+    "SURG-C35-095",
+    "SURG-C35-096",
+    "SURG-C35-097"
+   ],
+   "guide": "Hepatoblastoma is the tumour of the under-threes: hepatomegaly, anaemia, half of them already seeded to lung at diagnosis and jaundice only late. Even with metastases the page insists on aggressive surgery followed by chemotherapy."
+  },
+  {
+   "id": "SURG-U35-15",
+   "ch": 35,
+   "n": 15,
+   "title": "Intrahepatic Cholangiocarcinoma",
+   "sec": "Intrahepatic Cholangiocarcinoma · p259",
+   "qs": [
+    "SURG-C35-098",
+    "SURG-C35-099",
+    "SURG-C35-100",
+    "SURG-C35-101",
+    "SURG-C35-102",
+    "SURG-C35-103",
+    "SURG-C35-104"
+   ],
+   "guide": "Intrahepatic cholangiocarcinoma closes the chapter as the second commonest primary liver cancer, born of PSC, stones or a choledochal cyst. Unlike HCC it jaundices early, keeps AFP normal and sends CA 19-9 soaring."
+  }
+ ]
+}
