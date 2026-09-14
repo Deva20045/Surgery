@@ -59,10 +59,10 @@ ch39 Benign Pancreatic Conditions 285-296 (v1d p57-68) · ch40 Pancreatic Tumour
 ch43 Urethral and Penile Disorders 318-326 (v2a p21-29) · ch44 Kidney Part 1 327-338 (v2a p31-42; p30 duplicates book p326) · ch45 Kidney Part 2 339-352 (v2a p43-56) ·
 ch46 Bladder 353-359 (v2a p57-63) · ch47 Prostate Part 1 360-364 (v2a p64-68) · ch48 Prostate Part 2 365-370 (v2a p69-74) ·
 **Speciality:** ch49 Minimally Invasive Surgery 371-376 (v2a p75-80) · ch50 Transplant Surgery 377-385 (v2a p81-89) ·
-ch51 Plastic Surgery Part 1 386-392 (v2b p7-13) · ch52 Plastic Surgery Part 2 393-398 (v2b p14-19) · ch53 Neurosurgery 399-409 (v2b p20-30) ·
-**Trauma:** ch54 Basics of Trauma Management 410-416 (v2b p31-37) · ch55 Abdominal Trauma 417-425 (v2b p38-46) · ch56 Thoracic Trauma 426-434 (v2b p47-55) ·
+ch51 Plastic Surgery Part 1 386-392 (v2b p8-14) · ch52 Plastic Surgery Part 2 393-398 (v2b p15-20) · ch53 Neurosurgery 399-409 (v2b p21-31) ·
+**Trauma:** ch54 Basics of Trauma Management 410-416 (v2b p32-38) · ch55 Abdominal Trauma 417-425 (v2b p39-47) · ch56 Thoracic Trauma 426-434 (v2b p48-56) ·
 ch57 Head Trauma 435-443 (v2b p57-65) · ch58 Thermal Injuries 444-450 (v2b p66-72) ·
-**Hernia:** ch59 Hernia Part 1 451-459 (v2b p74-75 + v2c p1-7) · ch60 Hernia Part 2 460-469 (v2c p8-17) ·
+**Hernia:** ch59 Hernia Part 1 451-459 (v2b p73-75 + v2c p1-7) · ch60 Hernia Part 2 460-469 (v2c p8-17) ·
 **Vascular:** ch61 Venous Thrombosis 470-475 (v2c p18-23) · ch62 Varicose Veins 476-485 (v2c p24-33) · ch63 Arterial System Part 1 486-493 (v2c p34-41) ·
 ch64 Arterial System Part 2 494-502 (v2c p42-50) · ch65 Lymphatic System 503-508 (v2c p51-56) ·
 **Faciomaxillary:** ch66 Oral Cancers 509-519 (v2c p57-67) · ch67 Salivary Glands 520-528 (v2c p68-71 + v2d p1-5) ·
@@ -161,11 +161,11 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
 - [x] ch48 Prostate : Part 2 — p365-370 — **DONE (164 qs, 6 units)** 2026-09-14
 - [x] ch49 Minimally Invasive Surgery — p371-376 — **DONE (133 qs, 6 units)** 2026-09-14
 - [x] ch50 Transplant Surgery — p377-385 — **DONE (246 qs, 7 units)** 2026-09-14
-- [ ] ch51 Plastic surgery : Part 1 — p386-392 — Soon
-- [ ] ch52 Plastic surgery : Part 2 — p393-398 — Soon
-- [ ] ch53 Neurosurgery — p399-409 — Soon
-- [ ] ch54 Basics of Trauma Management — p410-416 — Soon
-- [ ] ch55 Abdominal Trauma — p417-425 — Soon
+- [x] ch51 Plastic surgery : Part 1 — p386-392 — **DONE (131 qs, 7 units)** 2026-09-14
+- [x] ch52 Plastic surgery : Part 2 — p393-398 — **DONE (116 qs, 8 units)** 2026-09-14
+- [x] ch53 Neurosurgery — p399-409 — **DONE (234 qs, 10 units)** 2026-09-14
+- [x] ch54 Basics of Trauma Management — p410-416 — **DONE (145 qs, 7 units)** 2026-09-14
+- [x] ch55 Abdominal Trauma — p417-425 — **DONE (199 qs, 9 units)** 2026-09-14
 - [ ] ch56 Thoracic trauma — p426-434 — Soon
 - [ ] ch57 Head Trauma — p435-443 — Soon
 - [ ] ch58 Thermal Injuries — p444-450 — Soon
@@ -202,9 +202,9 @@ ch70 Common Surgical Swellings 544-546 (v2d p21-23) · ch71 Common Ulcers 547-54
   (mirrors the Ortho session layout — user downloads it from the Workspace panel).
 
 ## Totals / live link
-- Local HTML: **45/72 chapters live** · Questions: 5618 · Units: 554
-- GitHub HTML: **synced at 45/72** (merged to `main` via PR #19 on 2026-09-14)
-- NEXT: ch46 Bladder — p353-359 (v2a p57-63) — **same source PDF: `Surgery Vol. 2_part_1.pdf`** (after the p326 duplicate, book = pdf + 296)
+- Local HTML: **55/72 chapters live** · Questions: 7305 · Units: 629
+- GitHub HTML: **synced at 50/72** (PR #21); 55/72 pushed on arena branch, PR pending
+- NEXT: ch56 Thoracic trauma — p426-434 (v2b p48-56) — **same source PDF: `Surgery Vol. 2_part_2.pdf`** (book = pdf + 378)
 - Deliverable: `pulse-surgery-complete.html` (repo root) · `index.html` redirects to it.
 - LIVE LINK: https://deva20045.github.io/Surgery/ (GitHub Pages already enabled,
   deploys from main; site rebuilds ~1 min after every push to main).
